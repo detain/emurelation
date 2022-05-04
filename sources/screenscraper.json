@@ -758,19 +758,19 @@
         "date_start": "1987",
         "date_end": "1994"
     },
-    "Nintendo Game &amp; Watch": {
+    "Nintendo Game & Watch": {
         "id": 52,
         "type": "Portable Console",
         "romtype": "rom",
         "extensions": "mgw",
         "supporttype": "hardware",
-        "name_eu": "Game &amp; Watch",
-        "alternate": "Nintendo Game &amp; Watch,Game &amp; Watch,Nintendo Game and Watch,Game and Watch,Nintendo Game&apos;n&apos;Watch,Game&apos;n&apos;Watch,G&amp;W,GW",
+        "name_eu": "Game & Watch",
+        "alternate": "Nintendo Game & Watch,Game & Watch,Nintendo Game and Watch,Game and Watch,Nintendo Game'n'Watch,Game'n'Watch,G&W,GW",
         "name_recalbox": "gw",
         "name_retropie": "gameandwatch",
         "name_hyperspin": "Electronic Handheld Games",
-        "name_launchbox": "Game &amp; Watch",
-        "name": "Game &amp; Watch",
+        "name_launchbox": "Game & Watch",
+        "name": "Game & Watch",
         "company": "Nintendo",
         "date_start": "1980",
         "date_end": "1991"
@@ -1472,24 +1472,24 @@
         "supporttype": "k7-floppy disk",
         "name_eu": "Plus\/4",
         "alternate": "Commodore Plus\/4,Plus\/4,Commodore 16,Commodore Minus\/60,Minus\/60",
-        "name_hyperspin": "Commodore 16 &amp; Plus4",
+        "name_hyperspin": "Commodore 16 & Plus4",
         "name_launchbox": "Commodore Plus 4",
         "name": "Plus\/4",
         "company": "Commodore",
         "date_start": "1984",
         "date_end": "?"
     },
-    "Super A&apos;can": {
+    "Super A'can": {
         "id": 100,
         "type": "Console",
         "romtype": "rom",
         "extensions": "bin",
         "supporttype": "cartridge",
-        "name_eu": "Super A&apos;can",
-        "alternate": "Funtech Super A&apos;Can,Super A&apos;Can",
+        "name_eu": "Super A'can",
+        "alternate": "Funtech Super A'Can,Super A'Can",
         "name_hyperspin": "Funtech Super Acan",
         "name_launchbox": "Funtech Super Acan",
-        "name": "Super A&apos;can",
+        "name": "Super A'can",
         "date_start": "1995",
         "date_end": "?"
     },
@@ -2099,7 +2099,7 @@
     },
     "SNK Neo-Geo": {
         "id": 142,
-        "type": "Console &amp; Arcade",
+        "type": "Console & Arcade",
         "romtype": "rom",
         "parentid": 75,
         "extensions": "chd",
