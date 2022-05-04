@@ -7,7 +7,13 @@
         "supporttype": "cartridge",
         "name_eu": "Megadrive",
         "name_us": "Genesis",
-        "alternate": "Sega Megadrive,Sega Genesis,Megadrive,Genesis,Super Aladdin Boy",
+        "alternate": [
+            "Sega Megadrive",
+            "Sega Genesis",
+            "Megadrive",
+            "Genesis",
+            "Super Aladdin Boy"
+        ],
         "name_recalbox": "megadrive",
         "name_retropie": "genesis,megadrive",
         "name_hyperspin": "Sega Genesis",
@@ -24,7 +30,13 @@
         "extensions": "sms,bin",
         "supporttype": "cartridge",
         "name_eu": "Master System",
-        "alternate": "Sega Master System,Sega Mark III,Sega Mark 3,Master System,SMS",
+        "alternate": [
+            "Sega Master System",
+            "Sega Mark III",
+            "Sega Mark 3",
+            "Master System",
+            "SMS"
+        ],
         "name_recalbox": "mastersystem",
         "name_retropie": "mastersystem",
         "name_hyperspin": "Sega Master System",
@@ -42,7 +54,14 @@
         "supporttype": "cartridge",
         "name_eu": "NES",
         "name_jp": "Family Computer",
-        "alternate": "Nintendo Entertainment System,NES,Famicom,Family Computer,Nintendo Famicom,Nintendo Family Computer",
+        "alternate": [
+            "Nintendo Entertainment System",
+            "NES",
+            "Famicom",
+            "Family Computer",
+            "Nintendo Famicom",
+            "Nintendo Family Computer"
+        ],
         "name_recalbox": "nes",
         "name_retropie": "nes",
         "name_hyperspin": "Nintendo Entertainment System,Nintendo Famicom",
@@ -60,7 +79,13 @@
         "supporttype": "cartridge",
         "name_eu": "Super Nintendo",
         "name_jp": "Super Famicom",
-        "alternate": "Super Nintendo Entertainment System,SNES,Super Nintendo,Super Famicom,Nintendo super Famicom",
+        "alternate": [
+            "Super Nintendo Entertainment System",
+            "SNES",
+            "Super Nintendo",
+            "Super Famicom",
+            "Nintendo super Famicom"
+        ],
         "name_recalbox": "snes",
         "name_retropie": "snes",
         "name_hyperspin": "Nintendo Super Famicom,Super Nintendo Entertainment System",
@@ -78,7 +103,13 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Capcom Play System",
-        "alternate": "Capcom Play System,Capcom Play System 1,Capcom Play System I,CPS 1,CPS I",
+        "alternate": [
+            "Capcom Play System",
+            "Capcom Play System 1",
+            "Capcom Play System I",
+            "CPS 1",
+            "CPS I"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Capcom Play System",
@@ -96,7 +127,12 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Capcom Play System 2",
-        "alternate": "Capcom Play System 2,Capcom Play System II,CPS 2,CPS II",
+        "alternate": [
+            "Capcom Play System 2",
+            "Capcom Play System II",
+            "CPS 2",
+            "CPS II"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Capcom Play System II",
@@ -114,7 +150,12 @@
         "extensions": "ccd,chd,img,sub",
         "supporttype": "pcb",
         "name_eu": "Capcom Play System 3",
-        "alternate": "Capcom Play System 3,Capcom Play System III,CPS 3,CPS III",
+        "alternate": [
+            "Capcom Play System 3",
+            "Capcom Play System III",
+            "CPS 3",
+            "CPS III"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Capcom Play System III",
@@ -131,7 +172,12 @@
         "extensions": "gb,bin",
         "supporttype": "cartridge",
         "name_eu": "Game Boy",
-        "alternate": "Nintendo Game Boy,Game Boy,Nintendo GB,GB",
+        "alternate": [
+            "Nintendo Game Boy",
+            "Game Boy",
+            "Nintendo GB",
+            "GB"
+        ],
         "name_recalbox": "gb",
         "name_retropie": "gb",
         "name_hyperspin": "Nintendo Game Boy",
@@ -149,7 +195,14 @@
         "extensions": "gb,gbc,bin",
         "supporttype": "cartridge",
         "name_eu": "Game Boy Color",
-        "alternate": "Nintendo Game Boy Color,Nintendo GB Color,Game Boy Color,Nintendo GBC,GB Color,GBC",
+        "alternate": [
+            "Nintendo Game Boy Color",
+            "Nintendo GB Color",
+            "Game Boy Color",
+            "Nintendo GBC",
+            "GB Color",
+            "GBC"
+        ],
         "name_recalbox": "gbc",
         "name_retropie": "gbc",
         "name_hyperspin": "Nintendo Game Boy Color",
@@ -166,7 +219,12 @@
         "extensions": "vb,vboy,bin",
         "supporttype": "cartridge",
         "name_eu": "Virtual Boy",
-        "alternate": "Nintendo virtualboy,virtualboy,Nintendo vboy,vboy",
+        "alternate": [
+            "Nintendo virtualboy",
+            "virtualboy",
+            "Nintendo vboy",
+            "vboy"
+        ],
         "name_recalbox": "virtualboy",
         "name_retropie": "virtualboy",
         "name_hyperspin": "Nintendo Virtual Boy",
@@ -183,7 +241,14 @@
         "extensions": "gba,bin",
         "supporttype": "cartridge",
         "name_eu": "Game Boy Advance",
-        "alternate": "Nintendo GameBoy Advance,GameBoy Advance,Nintendo GB Advance,Nintendo GBA,GB Advance,GBA",
+        "alternate": [
+            "Nintendo GameBoy Advance",
+            "GameBoy Advance",
+            "Nintendo GB Advance",
+            "Nintendo GBA",
+            "GB Advance",
+            "GBA"
+        ],
         "name_recalbox": "gba",
         "name_retropie": "gba",
         "name_hyperspin": "Nintendo Game Boy Advance",
@@ -200,7 +265,13 @@
         "extensions": "iso,gcz",
         "supporttype": "cd",
         "name_eu": "Gamecube",
-        "alternate": "Nintendo Game Cube,Game Cube,Nintendo GC,NGC,GC",
+        "alternate": [
+            "Nintendo Game Cube",
+            "Game Cube",
+            "Nintendo GC",
+            "NGC",
+            "GC"
+        ],
         "name_recalbox": "gamecube",
         "name_retropie": "gc",
         "name_hyperspin": "Nintendo GameCube",
@@ -217,7 +288,10 @@
         "extensions": "n64,v64,z64",
         "supporttype": "cartridge",
         "name_eu": "Nintendo 64",
-        "alternate": "Nintendo 64,n64",
+        "alternate": [
+            "Nintendo 64",
+            "n64"
+        ],
         "name_recalbox": "n64",
         "name_retropie": "n64",
         "name_hyperspin": "Nintendo 64",
@@ -234,7 +308,14 @@
         "extensions": "nds,bin",
         "supporttype": "cartridge",
         "name_eu": "Nintendo DS",
-        "alternate": "Nintendo DS,NDS,DS,Nintendo DSi,NDSi,DSi",
+        "alternate": [
+            "Nintendo DS",
+            "NDS",
+            "DS",
+            "Nintendo DSi",
+            "NDSi",
+            "DSi"
+        ],
         "name_recalbox": "nds",
         "name_retropie": "nds",
         "name_hyperspin": "Nintendo DS",
@@ -251,7 +332,10 @@
         "extensions": "iso,ciso,wad,wbfs",
         "supporttype": "cd",
         "name_eu": "Wii",
-        "alternate": "Nintendo WII,WII",
+        "alternate": [
+            "Nintendo WII",
+            "WII"
+        ],
         "name_recalbox": "wii",
         "name_retropie": "wii",
         "name_hyperspin": "Nintendo Wii",
@@ -268,7 +352,11 @@
         "extensions": "3ds",
         "supporttype": "cartridge",
         "name_eu": "Nintendo 3DS",
-        "alternate": "Nintendo 3DS,3DS,2DS",
+        "alternate": [
+            "Nintendo 3DS",
+            "3DS",
+            "2DS"
+        ],
         "name_launchbox": "Nintendo 3DS",
         "name": "Nintendo 3DS",
         "company": "Nintendo",
@@ -282,7 +370,10 @@
         "extensions": "iso,ciso,wbfs",
         "supporttype": "cd",
         "name_eu": "Wii U",
-        "alternate": "Nintendo WII-U,WII-U",
+        "alternate": [
+            "Nintendo WII-U",
+            "WII-U"
+        ],
         "name_hyperspin": "Nintendo Wii U",
         "name_launchbox": "Nintendo Wii U",
         "name": "Wii U",
@@ -299,7 +390,16 @@
         "supporttype": "cartridge",
         "name_eu": "Megadrive 32X",
         "name_us": "Sega 32X",
-        "alternate": "Sega Megadrive 32x,Sega Genesis 32x,Sega Mega 32x,Super 32x,Sega 32x,Megadrive 32x,Genesis 32x,32x",
+        "alternate": [
+            "Sega Megadrive 32x",
+            "Sega Genesis 32x",
+            "Sega Mega 32x",
+            "Super 32x",
+            "Sega 32x",
+            "Megadrive 32x",
+            "Genesis 32x",
+            "32x"
+        ],
         "name_recalbox": "sega32x",
         "name_retropie": "sega32x",
         "name_hyperspin": "Sega 32X",
@@ -317,7 +417,10 @@
         "supporttype": "cd",
         "name_eu": "Mega-CD",
         "name_us": "Sega CD",
-        "alternate": "Mega-CD,Sega CD",
+        "alternate": [
+            "Mega-CD",
+            "Sega CD"
+        ],
         "name_recalbox": "segacd",
         "name_retropie": "segacd",
         "name_hyperspin": "Sega CD",
@@ -334,7 +437,12 @@
         "extensions": "gg,sms,bin",
         "supporttype": "cartridge",
         "name_eu": "Game Gear",
-        "alternate": "Sega Game Gear,Game Gear,Sega GG,GG",
+        "alternate": [
+            "Sega Game Gear",
+            "Game Gear",
+            "Sega GG",
+            "GG"
+        ],
         "name_recalbox": "gamegear",
         "name_retropie": "gamegear",
         "name_hyperspin": "Sega Game Gear",
@@ -351,7 +459,10 @@
         "extensions": "chd,cue,bin,mdf,iso,m3u",
         "supporttype": "cd",
         "name_eu": "Saturn",
-        "alternate": "Sega Saturn,Saturn",
+        "alternate": [
+            "Sega Saturn",
+            "Saturn"
+        ],
         "name_recalbox": "saturn",
         "name_retropie": "saturn",
         "name_hyperspin": "Sega Saturn",
@@ -368,7 +479,12 @@
         "extensions": "cdi,chd,gdi,bin,elf,img,nrg,raw,xpm,m3u,chd",
         "supporttype": "cd",
         "name_eu": "Dreamcast",
-        "alternate": "Sega Dreamcast,Dreamcast,Sega DC,DC",
+        "alternate": [
+            "Sega Dreamcast",
+            "Dreamcast",
+            "Sega DC",
+            "DC"
+        ],
         "name_recalbox": "dreamcast",
         "name_retropie": "dreamcast",
         "name_hyperspin": "Sega Dreamcast",
@@ -386,7 +502,12 @@
         "extensions": "ngp,ngc,bin",
         "supporttype": "cartridge",
         "name_eu": "Neo-Geo Pocket",
-        "alternate": "SNK Neo-Geo Pocket,Neo-Geo Pocket,SNK NGP,GP",
+        "alternate": [
+            "SNK Neo-Geo Pocket",
+            "Neo-Geo Pocket",
+            "SNK NGP",
+            "GP"
+        ],
         "name_recalbox": "ngp",
         "name_retropie": "ngp",
         "name_hyperspin": "SNK Neo Geo Pocket",
@@ -403,7 +524,11 @@
         "extensions": "a26,bin,rom",
         "supporttype": "cartridge",
         "name_eu": "Atari 2600",
-        "alternate": "Atari2600,A2600,2600",
+        "alternate": [
+            "Atari2600",
+            "A2600",
+            "2600"
+        ],
         "name_recalbox": "atari2600",
         "name_retropie": "atari2600",
         "name_hyperspin": "Atari 2600",
@@ -420,7 +545,10 @@
         "extensions": "j64,jag,cof,bin,rom,abs",
         "supporttype": "cartridge",
         "name_eu": "Jaguar",
-        "alternate": "Atari Jaguar,Jaguar",
+        "alternate": [
+            "Atari Jaguar",
+            "Jaguar"
+        ],
         "name_recalbox": "jaguar",
         "name_retropie": "atarijaguar",
         "name_hyperspin": "Atari Jaguar",
@@ -437,7 +565,10 @@
         "extensions": "bin,lnx",
         "supporttype": "cartridge",
         "name_eu": "Lynx",
-        "alternate": "Atari Lynx,Lynx",
+        "alternate": [
+            "Atari Lynx",
+            "Lynx"
+        ],
         "name_recalbox": "lynx",
         "name_retropie": "atarilynx",
         "name_hyperspin": "Atari Lynx",
@@ -454,7 +585,12 @@
         "extensions": "bin,cue,iso,wav,chd",
         "supporttype": "cd",
         "name_eu": "3DO",
-        "alternate": "Panasonic 3DO Interactive Multiplayer,Panasonic 3DO,3DO Interactive Multiplayer,3DO",
+        "alternate": [
+            "Panasonic 3DO Interactive Multiplayer",
+            "Panasonic 3DO",
+            "3DO Interactive Multiplayer",
+            "3DO"
+        ],
         "name_recalbox": "3do",
         "name_retropie": "3do",
         "name_hyperspin": "Panasonic 3DO",
@@ -471,7 +607,10 @@
         "extensions": "id",
         "supporttype": "cartridge",
         "name_eu": "N-Gage",
-        "alternate": "Nokia N-Gage,N-Gage",
+        "alternate": [
+            "Nokia N-Gage",
+            "N-Gage"
+        ],
         "name_launchbox": "Nokia N-Gage",
         "name": "N-Gage",
         "company": "Nokia",
@@ -487,7 +626,12 @@
         "name_eu": "PC Engine",
         "name_jp": "PC Engine",
         "name_us": "TurboGrafx-16",
-        "alternate": "NEC PC Engine,NEC TurboGrafx-16,PC Engine,TurboGrafx-16",
+        "alternate": [
+            "NEC PC Engine",
+            "NEC TurboGrafx-16",
+            "PC Engine",
+            "TurboGrafx-16"
+        ],
         "name_recalbox": "pcengine",
         "name_retropie": "pcengine,tg16",
         "name_hyperspin": "NEC PC Engine,NEC TurboGrafx-16",
@@ -503,7 +647,10 @@
         "extensions": "iso",
         "supporttype": "cd",
         "name_eu": "Xbox",
-        "alternate": "Microsoft XBOX,XBOX",
+        "alternate": [
+            "Microsoft XBOX",
+            "XBOX"
+        ],
         "name_launchbox": "Microsoft Xbox",
         "name": "Xbox",
         "company": "Microsoft",
@@ -517,7 +664,10 @@
         "extensions": "iso",
         "supporttype": "cd",
         "name_eu": "Xbox 360",
-        "alternate": "Microsoft XBOX 360,XBOX 360",
+        "alternate": [
+            "Microsoft XBOX 360",
+            "XBOX 360"
+        ],
         "name_launchbox": "Microsoft Xbox 360",
         "name": "Xbox 360",
         "company": "Microsoft",
@@ -531,7 +681,10 @@
         "extensions": "iso",
         "supporttype": "cd",
         "name_eu": "Xbox One",
-        "alternate": "Microsoft XBOX One,XBOX One",
+        "alternate": [
+            "Microsoft XBOX One",
+            "XBOX One"
+        ],
         "name_launchbox": "Microsoft Xbox One",
         "name": "Xbox One",
         "company": "Microsoft",
@@ -544,7 +697,10 @@
         "extensions": "csw,dsk,tap,uef,wav",
         "supporttype": "k7-floppy disk",
         "name_eu": "Atom",
-        "alternate": "Acorn ATOM,ATOM",
+        "alternate": [
+            "Acorn ATOM",
+            "ATOM"
+        ],
         "name_hyperspin": "Acorn Atom",
         "name_launchbox": "Acorn Atom",
         "name": "Atom",
@@ -558,7 +714,12 @@
         "extensions": "adf,adl,bin,dsd,ssd,uef,csw,zip,m3u",
         "supporttype": "k7-floppy disk",
         "name_eu": "BBC Micro",
-        "alternate": "Acorn BBC Microcomputer System,BBC Microcomputer System,Acorn BBC Micro,BBC Micro",
+        "alternate": [
+            "Acorn BBC Microcomputer System",
+            "BBC Microcomputer System",
+            "Acorn BBC Micro",
+            "BBC Micro"
+        ],
         "name_recalbox": "bbcmicro",
         "name_retropie": "bbcmicro",
         "name_hyperspin": "Acorn BBC Micro",
@@ -574,7 +735,14 @@
         "parentid": 26,
         "supporttype": "k7",
         "name_eu": "Atari 2600 Supercharger",
-        "alternate": "Atari 2600 Supercharger,A2600 Supercharger,2600 Supercharger,Atari 2600 SC,A2600 SC,2600 SC",
+        "alternate": [
+            "Atari 2600 Supercharger",
+            "A2600 Supercharger",
+            "2600 Supercharger",
+            "Atari 2600 SC",
+            "A2600 SC",
+            "2600 SC"
+        ],
         "name": "Atari 2600 Supercharger",
         "company": "Atari",
         "date_start": "1982"
@@ -586,7 +754,11 @@
         "extensions": "a52,bin,rom",
         "supporttype": "cartridge",
         "name_eu": "Atari 5200",
-        "alternate": "Atari 5200,A5200,5200",
+        "alternate": [
+            "Atari 5200",
+            "A5200",
+            "5200"
+        ],
         "name_recalbox": "atari5200",
         "name_retropie": "atari5200",
         "name_hyperspin": "Atari 5200",
@@ -603,7 +775,11 @@
         "extensions": "a78,bin,rom",
         "supporttype": "cartridge",
         "name_eu": "Atari 7800",
-        "alternate": "Atari 7800,A7800,7800",
+        "alternate": [
+            "Atari 7800",
+            "A7800",
+            "7800"
+        ],
         "name_recalbox": "atari7800",
         "name_retropie": "atari7800",
         "name_hyperspin": "Atari 7800",
@@ -620,7 +796,14 @@
         "extensions": "st,stx,ipf,ctr,img,raw,rom,msa,dim",
         "supporttype": "floppy disk",
         "name_eu": "Atari ST",
-        "alternate": "Atari ST,Atari STE,Atari 520 ST,Atari 1040 ST,520 ST,1040 ST",
+        "alternate": [
+            "Atari ST",
+            "Atari STE",
+            "Atari 520 ST",
+            "Atari 1040 ST",
+            "520 ST",
+            "1040 ST"
+        ],
         "name_recalbox": "atarist",
         "name_retropie": "atarist",
         "name_hyperspin": "Atari ST",
@@ -637,7 +820,26 @@
         "extensions": "a52,asm,atr,atr.gz,atx,bas,bin,car,cas,com,dcm,rom,xex,xfd,xfd.gz,zip",
         "supporttype": "floppy disk",
         "name_eu": "Atari 8bit",
-        "alternate": "Atari 130XE,130XE,Atari 800XL,800XL,Atari 800XE,800XE,Atari 65XE,65XE,Atari 600XL,600XL,Atari 1200XL,1200XL,Atari XEGS,XEGS,Atari 800,Atari 400,A800,A400",
+        "alternate": [
+            "Atari 130XE",
+            "130XE",
+            "Atari 800XL",
+            "800XL",
+            "Atari 800XE",
+            "800XE",
+            "Atari 65XE",
+            "65XE",
+            "Atari 600XL",
+            "600XL",
+            "Atari 1200XL",
+            "1200XL",
+            "Atari XEGS",
+            "XEGS",
+            "Atari 800",
+            "Atari 400",
+            "A800",
+            "A400"
+        ],
         "name_recalbox": "atari800",
         "name_retropie": "Atari 800",
         "name_hyperspin": "Atari 8-Bit",
@@ -654,7 +856,10 @@
         "extensions": "bin,prg,wav",
         "supporttype": "cartridge",
         "name_eu": "Astrocade",
-        "alternate": "Bally Astrocade,Astrocade",
+        "alternate": [
+            "Bally Astrocade",
+            "Astrocade"
+        ],
         "name_retropie": "astrocade",
         "name_hyperspin": "Bally Astrocade",
         "name_launchbox": "Bally Astrocade",
@@ -669,7 +874,12 @@
         "extensions": "ws,wsc,bin",
         "supporttype": "cartridge",
         "name_eu": "WonderSwan",
-        "alternate": "Bandai WonderSwan,WonderSwan,Bandai WSwan, WSwan",
+        "alternate": [
+            "Bandai WonderSwan",
+            "WonderSwan",
+            "Bandai WSwan",
+            " WSwan"
+        ],
         "name_recalbox": "wswan",
         "name_retropie": "wonderswan",
         "name_hyperspin": "Bandai WonderSwan",
@@ -686,7 +896,12 @@
         "extensions": "ws,wsc,bin",
         "supporttype": "cartridge",
         "name_eu": "WonderSwan Color",
-        "alternate": "Bandai WonderSwan Color,WonderSwan Color,Bandai WSwan Color, WSwan Color",
+        "alternate": [
+            "Bandai WonderSwan Color",
+            "WonderSwan Color",
+            "Bandai WSwan Color",
+            " WSwan Color"
+        ],
         "name_recalbox": "wswanc",
         "name_retropie": "wonderswancolor",
         "name_hyperspin": "Bandai WonderSwan Color",
@@ -703,7 +918,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Cave",
-        "alternate": "Cave",
+        "alternate": [
+            "Cave"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Cave",
@@ -719,7 +936,9 @@
         "extensions": "col,rom,bin",
         "supporttype": "cartridge",
         "name_eu": "Colecovision",
-        "alternate": "Colecovision",
+        "alternate": [
+            "Colecovision"
+        ],
         "name_recalbox": "colecovision",
         "name_retropie": "colecovision",
         "name_hyperspin": "ColecoVision",
@@ -736,7 +955,9 @@
         "extensions": "daphne(m2v|ogg)",
         "supporttype": "pcb",
         "name_eu": "Daphne",
-        "alternate": "Daphne",
+        "alternate": [
+            "Daphne"
+        ],
         "name_recalbox": "daphne,arcade,mame,fba,fba_libretro",
         "name_retropie": "daphne,arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Daphne",
@@ -751,7 +972,12 @@
         "extensions": "pce,sgx",
         "supporttype": "cartridge",
         "name_eu": "CoreGrafX",
-        "alternate": "NEC CoreGrafX,CoreGrafX,PC-Engine DUO,PCE DUO",
+        "alternate": [
+            "NEC CoreGrafX",
+            "CoreGrafX",
+            "PC-Engine DUO",
+            "PCE DUO"
+        ],
         "name_recalbox": "pcengine",
         "name_retropie": "pcengine,tg16",
         "name": "CoreGrafX",
@@ -765,7 +991,16 @@
         "extensions": "mgw",
         "supporttype": "hardware",
         "name_eu": "Game & Watch",
-        "alternate": "Nintendo Game & Watch,Game & Watch,Nintendo Game and Watch,Game and Watch,Nintendo Game'n'Watch,Game'n'Watch,G&W,GW",
+        "alternate": [
+            "Nintendo Game & Watch",
+            "Game & Watch",
+            "Nintendo Game and Watch",
+            "Game and Watch",
+            "Nintendo Game'n'Watch",
+            "Game'n'Watch",
+            "G&W",
+            "GW"
+        ],
         "name_recalbox": "gw",
         "name_retropie": "gameandwatch",
         "name_hyperspin": "Electronic Handheld Games",
@@ -783,7 +1018,10 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Atomiswave",
-        "alternate": "Sammy Atomiswave,Atomiswave",
+        "alternate": [
+            "Sammy Atomiswave",
+            "Atomiswave"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro,atomiswave",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Sammy Atomiswave",
@@ -800,7 +1038,12 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Model 2",
-        "alternate": "Sega Model 2,Sega Model II,Model 2,Model II",
+        "alternate": [
+            "Sega Model 2",
+            "Sega Model II",
+            "Model 2",
+            "Model II"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Sega Model 2",
@@ -818,7 +1061,12 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Model 3",
-        "alternate": "Sega Model 3,Sega Model III,Model 3,Model III",
+        "alternate": [
+            "Sega Model 3",
+            "Sega Model III",
+            "Model 3",
+            "Model III"
+        ],
         "name_recalbox": "model3,arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Sega Model 3",
@@ -836,7 +1084,10 @@
         "extensions": "chd,bin,gdi,raw",
         "supporttype": "pcb",
         "name_eu": "Naomi",
-        "alternate": "Sega Naomi,Naomi",
+        "alternate": [
+            "Sega Naomi",
+            "Naomi"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro,naomigd,naomi",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Sega Naomi",
@@ -853,7 +1104,14 @@
         "extensions": "iso,bin,ccd,cue,pbp,cbn,img,mdf,m3u,toc,znx,chd",
         "supporttype": "cd",
         "name_eu": "Playstation",
-        "alternate": "Sony Playstation,Playstation,Sony PSX,PSX,Sony PS One,PS One",
+        "alternate": [
+            "Sony Playstation",
+            "Playstation",
+            "Sony PSX",
+            "PSX",
+            "Sony PS One",
+            "PS One"
+        ],
         "name_recalbox": "psx",
         "name_retropie": "psx",
         "name_hyperspin": "Sony PlayStation",
@@ -870,7 +1128,14 @@
         "extensions": "iso,chd,img,cue,gz",
         "supporttype": "cd",
         "name_eu": "Playstation 2",
-        "alternate": "Sony Playstation 2,Playstation 2,Sony PS2,PS2,Sony Playstation II,Playstation II",
+        "alternate": [
+            "Sony Playstation 2",
+            "Playstation 2",
+            "Sony PS2",
+            "PS2",
+            "Sony Playstation II",
+            "Playstation II"
+        ],
         "name_recalbox": "ps2",
         "name_retropie": "ps2",
         "name_hyperspin": "Sony PlayStation 2",
@@ -887,7 +1152,14 @@
         "extensions": "iso",
         "supporttype": "cd",
         "name_eu": "Playstation 3",
-        "alternate": "Sony Playstation 3,Playstation 3,Sony PS3,PS3,Sony Playstation III,Playstation III",
+        "alternate": [
+            "Sony Playstation 3",
+            "Playstation 3",
+            "Sony PS3",
+            "PS3",
+            "Sony Playstation III",
+            "Playstation III"
+        ],
         "name_launchbox": "Sony Playstation 3",
         "name": "Playstation 3",
         "company": "Sony",
@@ -901,7 +1173,14 @@
         "extensions": "img,pbp,bin,iso,cue,cso",
         "supporttype": "cartridge",
         "name_eu": "PSP",
-        "alternate": "Sony Playstation Portable,Sony PSP,Playstation Portable,PSP,Sony PS Portable,PS Portable",
+        "alternate": [
+            "Sony Playstation Portable",
+            "Sony PSP",
+            "Playstation Portable",
+            "PSP",
+            "Sony PS Portable",
+            "PS Portable"
+        ],
         "name_recalbox": "psp",
         "name_retropie": "psp",
         "name_hyperspin": "Sony PSP",
@@ -918,7 +1197,14 @@
         "extensions": "iso,vpk",
         "supporttype": "cartridge-download",
         "name_eu": "PS Vita",
-        "alternate": "Sony Playstation Vita,Playstation Vita,Sony PS Vita,PS Vita,Sony Vita,Vita",
+        "alternate": [
+            "Sony Playstation Vita",
+            "Playstation Vita",
+            "Sony PS Vita",
+            "PS Vita",
+            "Sony Vita",
+            "Vita"
+        ],
         "name_launchbox": "Sony Playstation Vita",
         "name": "PS Vita",
         "company": "Sony",
@@ -932,7 +1218,9 @@
         "extensions": "apk",
         "supporttype": "download",
         "name_eu": "Android",
-        "alternate": "Android",
+        "alternate": [
+            "Android"
+        ],
         "name_launchbox": "Android",
         "name": "Android",
         "date_start": "2007"
@@ -944,7 +1232,42 @@
         "extensions": "adf,adz,ipf,uae,hdf,hdz,dms,exe,cpio,rom,lha,m3u,zip",
         "supporttype": "floppy disk",
         "name_eu": "Amiga",
-        "alternate": "Commodore Amiga,Commodore Amiga 500,Commodore Amiga 1200,Commodore Amiga 600,Commodore Amiga 2000,Commodore Amiga 3000,Commodore Amiga 4000,Commodore Amiga 500+,Commodore Amiga 1000,Commodore A500,Commodore A1200,Commodore A600,Commodore A2000,Commodore A3000,Commodore A4000,Commodore A500+,Commodore A1000,Amiga,Amiga 500,Amiga 1200,Amiga 600,Amiga 2000,Amiga 3000,Amiga 4000,Amiga 500+,Amiga 1000,A500,A1200,A600,A2000,A3000,A4000,A500+,A1000",
+        "alternate": [
+            "Commodore Amiga",
+            "Commodore Amiga 500",
+            "Commodore Amiga 1200",
+            "Commodore Amiga 600",
+            "Commodore Amiga 2000",
+            "Commodore Amiga 3000",
+            "Commodore Amiga 4000",
+            "Commodore Amiga 500+",
+            "Commodore Amiga 1000",
+            "Commodore A500",
+            "Commodore A1200",
+            "Commodore A600",
+            "Commodore A2000",
+            "Commodore A3000",
+            "Commodore A4000",
+            "Commodore A500+",
+            "Commodore A1000",
+            "Amiga",
+            "Amiga 500",
+            "Amiga 1200",
+            "Amiga 600",
+            "Amiga 2000",
+            "Amiga 3000",
+            "Amiga 4000",
+            "Amiga 500+",
+            "Amiga 1000",
+            "A500",
+            "A1200",
+            "A600",
+            "A2000",
+            "A3000",
+            "A4000",
+            "A500+",
+            "A1000"
+        ],
         "name_recalbox": "amiga600",
         "name_retropie": "amiga",
         "name_hyperspin": "Commodore Amiga",
@@ -961,7 +1284,32 @@
         "extensions": "bin,cpr,dsk,cpc",
         "supporttype": "k7-floppy disk",
         "name_eu": "CPC",
-        "alternate": "Amstrad CPC 464, Amstrad CPC 472,Amstrad CPC 664,Amstrad CPC 6128,Amstrad CPC 464 Plus,Amstrad CPC 6128 Plus,Amstrad CPC 464+,Amstrad CPC 6128+,Amstrad 464 Plus,Amstrad 6128 Plus,Amstrad 464+,Amstrad 6128+,CPC 464,CPC 472,CPC 664,CPC 6128,CPC 464 Plus,CPC 6128 Plus,CPC 464+,CPC 6128+,464 Plus,6128 Plus,464+,6128+",
+        "alternate": [
+            "Amstrad CPC 464",
+            " Amstrad CPC 472",
+            "Amstrad CPC 664",
+            "Amstrad CPC 6128",
+            "Amstrad CPC 464 Plus",
+            "Amstrad CPC 6128 Plus",
+            "Amstrad CPC 464+",
+            "Amstrad CPC 6128+",
+            "Amstrad 464 Plus",
+            "Amstrad 6128 Plus",
+            "Amstrad 464+",
+            "Amstrad 6128+",
+            "CPC 464",
+            "CPC 472",
+            "CPC 664",
+            "CPC 6128",
+            "CPC 464 Plus",
+            "CPC 6128 Plus",
+            "CPC 464+",
+            "CPC 6128+",
+            "464 Plus",
+            "6128 Plus",
+            "464+",
+            "6128+"
+        ],
         "name_recalbox": "amstradcpc",
         "name_retropie": "amstradcpc",
         "name_hyperspin": "Amstrad CPC",
@@ -978,7 +1326,10 @@
         "extensions": "arc,ark,bin,c64,crt,d64,d71,d81,dmp,g64,lnx,nbz,nib,p00,prg,reu,sda,sfx,t64,tap,z64",
         "supporttype": "k7-floppy disk",
         "name_eu": "Commodore 64",
-        "alternate": "Commodore 64,C64",
+        "alternate": [
+            "Commodore 64",
+            "C64"
+        ],
         "name_recalbox": "c64",
         "name_retropie": "c64",
         "name_hyperspin": "Commodore 64,Commodore 128",
@@ -995,7 +1346,11 @@
         "extensions": "bin,cart",
         "supporttype": "cartridge",
         "name_eu": "Super Cassette Vision",
-        "alternate": "Yeno Super Cassette Vision,Epoch Super Cassette Vision,Super Cassette Vision",
+        "alternate": [
+            "Yeno Super Cassette Vision",
+            "Epoch Super Cassette Vision",
+            "Super Cassette Vision"
+        ],
         "name_recalbox": "scv",
         "name_hyperspin": "Epoch Super Cassette Vision",
         "name_launchbox": "Epoch Super Cassette Vision",
@@ -1012,7 +1367,10 @@
         "extensions": "chd",
         "supporttype": "cartridge",
         "name_eu": "Neo-Geo MVS",
-        "alternate": "SNK Neo-Geo MVS,Neo-Geo MVS",
+        "alternate": [
+            "SNK Neo-Geo MVS",
+            "Neo-Geo MVS"
+        ],
         "name_hyperspin": "SNK Neo Geo MVS",
         "name_launchbox": "SNK Neo Geo MVS",
         "name": "Neo-Geo MVS",
@@ -1028,7 +1386,10 @@
         "extensions": "chd",
         "supporttype": "cartridge",
         "name_eu": "Sega ST-V",
-        "alternate": "Sega ST-V,ST-V",
+        "alternate": [
+            "Sega ST-V",
+            "ST-V"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Sega ST-V",
@@ -1045,7 +1406,12 @@
         "extensions": "bin,ccd,cue,img,iso",
         "supporttype": "cd",
         "name_eu": "Neo-Geo CD",
-        "alternate": "SNK Neo-geo CD-Rom,Neo-geo CD-Rom,SNK Neo-geo CD,Neo-geo CD",
+        "alternate": [
+            "SNK Neo-geo CD-Rom",
+            "Neo-geo CD-Rom",
+            "SNK Neo-geo CD",
+            "Neo-geo CD"
+        ],
         "name_recalbox": "neogeocd",
         "name_hyperspin": "SNK Neo Geo CD",
         "name_launchbox": "SNK Neo Geo CD",
@@ -1061,7 +1427,10 @@
         "extensions": "bin,chd,ccd,img,sub,cue",
         "supporttype": "cd",
         "name_eu": "PC-FX",
-        "alternate": "NEC PC-FX,PC-FX",
+        "alternate": [
+            "NEC PC-FX",
+            "PC-FX"
+        ],
         "name_recalbox": "pcfx",
         "name_retropie": "pcfx",
         "name_hyperspin": "NEC PC-FX",
@@ -1077,7 +1446,10 @@
         "extensions": "crt,d64,prg,t64,tap,d81",
         "supporttype": "cartridge-k7",
         "name_eu": "Vic-20",
-        "alternate": "Commodore Vic-20,Vic-20",
+        "alternate": [
+            "Commodore Vic-20",
+            "Vic-20"
+        ],
         "name_recalbox": "vic20",
         "name_retropie": "c64",
         "name_hyperspin": "Commodore VIC-20",
@@ -1094,7 +1466,10 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "PV-1000",
-        "alternate": "Casio PV-1000,PV-1000",
+        "alternate": [
+            "Casio PV-1000",
+            "PV-1000"
+        ],
         "name_hyperspin": "Casio PV-1000",
         "name_launchbox": "Casio PV-1000",
         "name": "PV-1000",
@@ -1109,7 +1484,19 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Mame",
-        "alternate": "MAME,Arcade,FBA,MESS,MAME4ALL,AdvanceMAME,AdvMAME,MAME-LibRetro,MAME-MAME4ALL,MAME-ADVMAME,FBA-LibRetro",
+        "alternate": [
+            "MAME",
+            "Arcade",
+            "FBA",
+            "MESS",
+            "MAME4ALL",
+            "AdvanceMAME",
+            "AdvMAME",
+            "MAME-LibRetro",
+            "MAME-MAME4ALL",
+            "MAME-ADVMAME",
+            "FBA-LibRetro"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro,fbneo",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Final Burn Alpha,HBMAME,MAME,MiSFiT MAME",
@@ -1123,7 +1510,10 @@
         "extensions": "csw,dsk,fdi,img,ipf,mgt,rom,rzx,scl,slt,sp,tap,trd,tzx,scl,slt,sna,szx,udi,z80",
         "supporttype": "k7",
         "name_eu": "ZX Spectrum",
-        "alternate": "Sinclair ZX-Spectrum,ZX-Spectrum",
+        "alternate": [
+            "Sinclair ZX-Spectrum",
+            "ZX-Spectrum"
+        ],
         "name_recalbox": "zxspectrum",
         "name_retropie": "zxspectrum",
         "name_hyperspin": "Sinclair ZX Spectrum",
@@ -1140,7 +1530,10 @@
         "extensions": "c,p,tzx",
         "supporttype": "k7",
         "name_eu": "ZX81",
-        "alternate": "Sinclair ZX-81,ZX-81",
+        "alternate": [
+            "Sinclair ZX-81",
+            "ZX-81"
+        ],
         "name_recalbox": "zx81",
         "name_hyperspin": "Sinclair ZX81",
         "name_launchbox": "Sinclair ZX-81",
@@ -1156,7 +1549,10 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "Adventure Vision",
-        "alternate": "Entex Adventure Vision,Adventure Vision",
+        "alternate": [
+            "Entex Adventure Vision",
+            "Adventure Vision"
+        ],
         "name_launchbox": "Entex Adventure Vision",
         "name": "Adventure Vision",
         "company": "Entex Industries, Inc",
@@ -1170,7 +1566,12 @@
         "extensions": "dim,img,d88,88d,hdm,dup,2hd,xdf,hdf,cmd,m3u,zip,7z",
         "supporttype": "floppy disk",
         "name_eu": "Sharp X68000",
-        "alternate": "Sharp X68000,X68000,Sharp X68k,X68k",
+        "alternate": [
+            "Sharp X68000",
+            "X68000",
+            "Sharp X68k",
+            "X68k"
+        ],
         "name_recalbox": "x68000",
         "name_retropie": "x68000",
         "name_hyperspin": "Sharp X68000",
@@ -1187,7 +1588,14 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "Channel F",
-        "alternate": "Fairchild Channel F,Channel F,Fairchild Video Entertainment System,Fairchild VES,Video Entertainment System,VES",
+        "alternate": [
+            "Fairchild Channel F",
+            "Channel F",
+            "Fairchild Video Entertainment System",
+            "Fairchild VES",
+            "Video Entertainment System",
+            "VES"
+        ],
         "name_recalbox": "channelf",
         "name_retropie": "channelf",
         "name_hyperspin": "Fairchild Channel F",
@@ -1204,7 +1612,11 @@
         "extensions": "singe",
         "supporttype": "video tape",
         "name_eu": "Action Max",
-        "alternate": "World of Wonder Action Max,WoW Action Max,Action Max",
+        "alternate": [
+            "World of Wonder Action Max",
+            "WoW Action Max",
+            "Action Max"
+        ],
         "name_hyperspin": "WoW Action Max",
         "name_launchbox": "WoW Action Max",
         "name": "Action Max",
@@ -1218,7 +1630,14 @@
         "extensions": "ngp,ngc,bin",
         "supporttype": "cartridge",
         "name_eu": "Neo-Geo Pocket Color",
-        "alternate": "SNK Neo-geo Pocket Color,Neo-geo Pocket Color,SNK Neo-geo PC,Neo-geo PC,SNK NGPC,NGPC",
+        "alternate": [
+            "SNK Neo-geo Pocket Color",
+            "Neo-geo Pocket Color",
+            "SNK Neo-geo PC",
+            "Neo-geo PC",
+            "SNK NGPC",
+            "NGPC"
+        ],
         "name_recalbox": "ngpc",
         "name_retropie": "ngpc",
         "name_hyperspin": "SNK Neo Geo Pocket Color",
@@ -1235,7 +1654,9 @@
         "extensions": "bin",
         "supporttype": "k7",
         "name_eu": "Aamber Pegasus",
-        "alternate": "Aamber Pegasus",
+        "alternate": [
+            "Aamber Pegasus"
+        ],
         "name_hyperspin": "Aamber Pegasus",
         "name_launchbox": "Aamber Pegasus",
         "name": "Aamber Pegasus",
@@ -1249,7 +1670,10 @@
         "extensions": "cue,iso,adf,jfd",
         "supporttype": "floppy disk",
         "name_eu": "Archimedes",
-        "alternate": "Acorn Archimedes,Archimedes",
+        "alternate": [
+            "Acorn Archimedes",
+            "Archimedes"
+        ],
         "name_hyperspin": "Acorn Archimedes",
         "name_launchbox": "Acorn Archimedes",
         "name": "Archimedes",
@@ -1263,7 +1687,10 @@
         "extensions": "bin,sdd,uef",
         "supporttype": "k7",
         "name_eu": "Electron",
-        "alternate": "Acorn Electron,Electron",
+        "alternate": [
+            "Acorn Electron",
+            "Electron"
+        ],
         "name_hyperspin": "Acorn Electron",
         "name_launchbox": "Acorn Electron",
         "name": "Electron",
@@ -1276,7 +1703,26 @@
         "extensions": "dsk,do,po,nib",
         "supporttype": "k7-floppy disk",
         "name_eu": "Apple II",
-        "alternate": "Apple II,Apple II+,Apple IIC,Apple IIC+,Apple IIC Plus,Apple IIE,Apple IIGS,Apple 2,Apple 2+,Apple 2C,Apple 2C+,Apple 2C Plus,Apple 2E,Apple 2GS,Apple III,Apple 3,Apple I,Apple 1",
+        "alternate": [
+            "Apple II",
+            "Apple II+",
+            "Apple IIC",
+            "Apple IIC+",
+            "Apple IIC Plus",
+            "Apple IIE",
+            "Apple IIGS",
+            "Apple 2",
+            "Apple 2+",
+            "Apple 2C",
+            "Apple 2C+",
+            "Apple 2C Plus",
+            "Apple 2E",
+            "Apple 2GS",
+            "Apple III",
+            "Apple 3",
+            "Apple I",
+            "Apple 1"
+        ],
         "name_recalbox": "apple2",
         "name_retropie": "apple2",
         "name_hyperspin": "Apple II,Apple IIGS",
@@ -1293,7 +1739,10 @@
         "extensions": "bin,cpr,dsk,cpc",
         "supporttype": "cartridge",
         "name_eu": "GX4000",
-        "alternate": "Amstrad GX-4000,GX-4000",
+        "alternate": [
+            "Amstrad GX-4000",
+            "GX-4000"
+        ],
         "name_recalbox": "gx4000",
         "name_hyperspin": "Amstrad GX4000",
         "name_launchbox": "Amstrad GX4000",
@@ -1309,7 +1758,15 @@
         "extensions": "ldf,tap",
         "supporttype": "floppy disk",
         "name_eu": "Camputers Lynx",
-        "alternate": "Camputers Lynx,Camputers Lynx 48,Camputers Lynx 96,Camputers Lynx 128,Lynx 48,Lynx 96,Lynx 128",
+        "alternate": [
+            "Camputers Lynx",
+            "Camputers Lynx 48",
+            "Camputers Lynx 96",
+            "Camputers Lynx 128",
+            "Lynx 48",
+            "Lynx 96",
+            "Lynx 128"
+        ],
         "name_hyperspin": "Camputers Lynx",
         "name_launchbox": "Camputers Lynx",
         "name": "Camputers Lynx",
@@ -1323,7 +1780,10 @@
         "extensions": "bas,com,ddp,dsk,img,lbr",
         "supporttype": "cartridge-k7",
         "name_eu": "Adam",
-        "alternate": "Coleco Adam,Adam",
+        "alternate": [
+            "Coleco Adam",
+            "Adam"
+        ],
         "name_hyperspin": "Coleco ADAM",
         "name_launchbox": "Coleco ADAM",
         "name": "Adam",
@@ -1338,7 +1798,10 @@
         "supporttype": "cartridge",
         "name_eu": "Mega Duck",
         "name_us": "Cougar Boy",
-        "alternate": "Mega Duck,Cougar Boy",
+        "alternate": [
+            "Mega Duck",
+            "Cougar Boy"
+        ],
         "name_hyperspin": "Creatronic Mega Duck",
         "name_launchbox": "Mega Duck",
         "name": "Cougar Boy",
@@ -1352,7 +1815,11 @@
         "extensions": "asc,bas,cas,ccc,dmk,dsk,jvc,os9,rom,sna,vdk,wav",
         "supporttype": "k7",
         "name_eu": "Dragon 32\/64",
-        "alternate": "Dragon 32\/64,Dragon 32,Dragon 64",
+        "alternate": [
+            "Dragon 32\/64",
+            "Dragon 32",
+            "Dragon 64"
+        ],
         "name_recalbox": "dragon",
         "name_retropie": "dragon32",
         "name_hyperspin": "Dragon Data Dragon",
@@ -1368,7 +1835,13 @@
         "extensions": "cas",
         "supporttype": "k7-floppy disk",
         "name_eu": "EG2000 Colour Genie",
-        "alternate": "EACA EG-2000 Colour Genie,EACA Colour Genie,EACA EG-2000,Colour Genie,EG-2000",
+        "alternate": [
+            "EACA EG-2000 Colour Genie",
+            "EACA Colour Genie",
+            "EACA EG-2000",
+            "Colour Genie",
+            "EG-2000"
+        ],
         "name_hyperspin": "EACA EG2000 Colour Genie",
         "name_launchbox": "EACA EG2000 Colour Genie",
         "name": "EG2000 Colour Genie",
@@ -1381,7 +1854,19 @@
         "extensions": "bas,bin,cod,doc,exe,mus,pig,bkd,img",
         "supporttype": "floppy disk",
         "name_eu": "BK",
-        "alternate": "Electonika BK,Electonika BK-0010,Electonika BK-0010.01,Electonika BK-0010Sh,Electonika BK-0011,Electonika BK-0011M,BK-0010,BK-0010.01,BK-0010Sh,BK-0011,BK-0011M",
+        "alternate": [
+            "Electonika BK",
+            "Electonika BK-0010",
+            "Electonika BK-0010.01",
+            "Electonika BK-0010Sh",
+            "Electonika BK-0011",
+            "Electonika BK-0011M",
+            "BK-0010",
+            "BK-0010.01",
+            "BK-0010Sh",
+            "BK-0011",
+            "BK-0011M"
+        ],
         "name_recalbox": "bk",
         "name_hyperspin": "Elektronika BK",
         "name_launchbox": "Elektronika BK",
@@ -1397,7 +1882,44 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "Arcadia 2001",
-        "alternate": "Emerson Radio Arcadia 2001,Arcadia 2001,Emerson 2001,Advision Home Arcade,Bandai Arcadia,Tele-Fever,Leonardo,HMG-2650,Home Arcade Centre,Intercord XL 2000 System,Leisure-Vision,Tunix Home Arcade,Schmid TVG-2000,Tele-computer Cosmos,Intelligent Game MPT-03,Hanimex MPT-03,ITMC MPT-03,Dynavision,P.I.C Ekusera,Poppy MPT-03 Tele Computer Spiel,Prestige Video Computer Game MPT-03,Rowtron 2000,Rowtron Video Computer Game MPT-03,Soundic MPT-03,Tempest Video Computer Game,Tobby MPT-03,Tryom Video Game Center,GrandStand Video Master,UVI Compu-Game,Intervision 2001,Ormatu 2001,Sheen Home Video Centre 2001,Tele Brain,Palladium Video Computer Game,Polybrain Video Computer Game,Trakton Computer Video Game",
+        "alternate": [
+            "Emerson Radio Arcadia 2001",
+            "Arcadia 2001",
+            "Emerson 2001",
+            "Advision Home Arcade",
+            "Bandai Arcadia",
+            "Tele-Fever",
+            "Leonardo",
+            "HMG-2650",
+            "Home Arcade Centre",
+            "Intercord XL 2000 System",
+            "Leisure-Vision",
+            "Tunix Home Arcade",
+            "Schmid TVG-2000",
+            "Tele-computer Cosmos",
+            "Intelligent Game MPT-03",
+            "Hanimex MPT-03",
+            "ITMC MPT-03",
+            "Dynavision",
+            "P.I.C Ekusera",
+            "Poppy MPT-03 Tele Computer Spiel",
+            "Prestige Video Computer Game MPT-03",
+            "Rowtron 2000",
+            "Rowtron Video Computer Game MPT-03",
+            "Soundic MPT-03",
+            "Tempest Video Computer Game",
+            "Tobby MPT-03",
+            "Tryom Video Game Center",
+            "GrandStand Video Master",
+            "UVI Compu-Game",
+            "Intervision 2001",
+            "Ormatu 2001",
+            "Sheen Home Video Centre 2001",
+            "Tele Brain",
+            "Palladium Video Computer Game",
+            "Polybrain Video Computer Game",
+            "Trakton Computer Video Game"
+        ],
         "name_hyperspin": "Emerson Arcadia 2001",
         "name_launchbox": "Emerson Arcadia 2001",
         "name": "Arcadia 2001",
@@ -1411,7 +1933,10 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "Game Pocket Computer",
-        "alternate": "Epoch Game Pocket Computer,Game Pocket Computer",
+        "alternate": [
+            "Epoch Game Pocket Computer",
+            "Game Pocket Computer"
+        ],
         "name_hyperspin": "Epoch Game Pocket Computer",
         "name_launchbox": "Epoch Game Pocket Computer",
         "name": "Game Pocket Computer",
@@ -1426,7 +1951,10 @@
         "extensions": "bas,bin,fd,k7,rom,td0,wav",
         "supporttype": "cartridge-k7-floppy disk",
         "name_eu": "EXL 100",
-        "alternate": "Exelvision EXL 100,EXL 100",
+        "alternate": [
+            "Exelvision EXL 100",
+            "EXL 100"
+        ],
         "name_hyperspin": "Exelvision EXL 100",
         "name_launchbox": "Exelvision EXL 100",
         "name": "EXL 100",
@@ -1440,7 +1968,15 @@
         "extensions": "d77,t77",
         "supporttype": "floppy disk",
         "name_eu": "FM-7",
-        "alternate": "Fujitsu FM-7,Fujitsu Micro 7,FM-7,FM-NEW 7,FM-77,FM-77AV,FM-8",
+        "alternate": [
+            "Fujitsu FM-7",
+            "Fujitsu Micro 7",
+            "FM-7",
+            "FM-NEW 7",
+            "FM-77",
+            "FM-77AV",
+            "FM-8"
+        ],
         "name_hyperspin": "Fujitsu FM-7",
         "name_launchbox": "Fujitsu FM-7",
         "name": "FM-7",
@@ -1455,7 +1991,10 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "Loopy",
-        "alternate": "Casio Loopy,Loopy",
+        "alternate": [
+            "Casio Loopy",
+            "Loopy"
+        ],
         "name_hyperspin": "Casio Loopy",
         "name_launchbox": "Casio Loopy",
         "name": "Loopy",
@@ -1471,7 +2010,13 @@
         "extensions": "crt,d64,g64,lnx,prg,tap,z64",
         "supporttype": "k7-floppy disk",
         "name_eu": "Plus\/4",
-        "alternate": "Commodore Plus\/4,Plus\/4,Commodore 16,Commodore Minus\/60,Minus\/60",
+        "alternate": [
+            "Commodore Plus\/4",
+            "Plus\/4",
+            "Commodore 16",
+            "Commodore Minus\/60",
+            "Minus\/60"
+        ],
         "name_hyperspin": "Commodore 16 & Plus4",
         "name_launchbox": "Commodore Plus 4",
         "name": "Plus\/4",
@@ -1486,7 +2031,10 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "Super A'can",
-        "alternate": "Funtech Super A'Can,Super A'Can",
+        "alternate": [
+            "Funtech Super A'Can",
+            "Super A'Can"
+        ],
         "name_hyperspin": "Funtech Super Acan",
         "name_launchbox": "Funtech Super Acan",
         "name": "Super A'can",
@@ -1500,7 +2048,10 @@
         "extensions": "fpk,smc",
         "supporttype": "smc",
         "name_eu": "GP32",
-        "alternate": "Game Park 32,GP32",
+        "alternate": [
+            "Game Park 32",
+            "GP32"
+        ],
         "name_hyperspin": "GamePark 32",
         "name": "GP32",
         "date_start": "2001",
@@ -1513,7 +2064,10 @@
         "extensions": "vec,bin,gam",
         "supporttype": "cartridge",
         "name_eu": "Vectrex",
-        "alternate": "GCE Vectrex,Vectrex",
+        "alternate": [
+            "GCE Vectrex",
+            "Vectrex"
+        ],
         "name_recalbox": "vectrex",
         "name_retropie": "vectrex",
         "name_hyperspin": "GCE Vectrex",
@@ -1529,7 +2083,13 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "Game Master",
-        "alternate": "Hartung Game Master,Game Master,Systema 2000,Super Game,Game Tronic",
+        "alternate": [
+            "Hartung Game Master",
+            "Game Master",
+            "Systema 2000",
+            "Super Game",
+            "Game Tronic"
+        ],
         "name_launchbox": "Hartung Game Master",
         "name": "Game Master",
         "date_start": "1990",
@@ -1543,7 +2103,75 @@
         "supporttype": "cartridge",
         "name_eu": "Videopac G7000",
         "name_us": "Magnavox Odyssey\u00b2",
-        "alternate": "Magnavox Odyssey\u00b2,Magnavox Odyssey2,Philips Videopac,Radiola Videopac,Schneider Videopac,Siera Videopac,Brandt Jopac,Continental Edision Jopac,Sabe Jopac,Philips Videopac G7000,Philips Videopac C52,Radiola Videopac Jet 25,Philips Videopac G7200,Radiola Videopac Jet 27,Schneider Videopac 7200,Magnavox Odyssey\u00b2,Magnavox Odyssey2,Philips Videopac,Radiola Videopac,Schneider Videopac,Siera Videopac,Brandt Jopac,Continental Edision Jopac,Sabe Jopac,Philips Videopac G7000,Philips Videopac C52,Philips Videopac N60,Radiola Videopac Jet 25,Philips Videopac G7200,Radiola Videopac Jet 27,Schneider Videopac 7200,Philips Videopac+ G7400,Radiola Videopac Jet 47,Radiola Videopac Jet 74+,Brandt Japac JO7400,Continental Edison Jopac JO 1450,Philips Videopac C7420,Philips Videopac G7401,Radiola Videopac Jet 471,Radiola Videopac Jet 741+,Odyssey\u00b2,Odyssey2,Videopac,Jopac,Videopac G7000,Videopac C52,Videopac N60,Videopac Jet 25,Videopac G7200,Videopac Jet 27,Videopac 7200,Videopac+ G7400,Videopac Jet 47,Videopac Jet 74+,Japac JO 7400,Jopac JO 1450,Videopac C7420,Videopac G7401,Videopac Jet 471,Videopac Jet 741+,G7000,G7200,G7400,JO 7400,JO 1450,C7420,G7401",
+        "alternate": [
+            "Magnavox Odyssey\u00b2",
+            "Magnavox Odyssey2",
+            "Philips Videopac",
+            "Radiola Videopac",
+            "Schneider Videopac",
+            "Siera Videopac",
+            "Brandt Jopac",
+            "Continental Edision Jopac",
+            "Sabe Jopac",
+            "Philips Videopac G7000",
+            "Philips Videopac C52",
+            "Radiola Videopac Jet 25",
+            "Philips Videopac G7200",
+            "Radiola Videopac Jet 27",
+            "Schneider Videopac 7200",
+            "Magnavox Odyssey\u00b2",
+            "Magnavox Odyssey2",
+            "Philips Videopac",
+            "Radiola Videopac",
+            "Schneider Videopac",
+            "Siera Videopac",
+            "Brandt Jopac",
+            "Continental Edision Jopac",
+            "Sabe Jopac",
+            "Philips Videopac G7000",
+            "Philips Videopac C52",
+            "Philips Videopac N60",
+            "Radiola Videopac Jet 25",
+            "Philips Videopac G7200",
+            "Radiola Videopac Jet 27",
+            "Schneider Videopac 7200",
+            "Philips Videopac+ G7400",
+            "Radiola Videopac Jet 47",
+            "Radiola Videopac Jet 74+",
+            "Brandt Japac JO7400",
+            "Continental Edison Jopac JO 1450",
+            "Philips Videopac C7420",
+            "Philips Videopac G7401",
+            "Radiola Videopac Jet 471",
+            "Radiola Videopac Jet 741+",
+            "Odyssey\u00b2",
+            "Odyssey2",
+            "Videopac",
+            "Jopac",
+            "Videopac G7000",
+            "Videopac C52",
+            "Videopac N60",
+            "Videopac Jet 25",
+            "Videopac G7200",
+            "Videopac Jet 27",
+            "Videopac 7200",
+            "Videopac+ G7400",
+            "Videopac Jet 47",
+            "Videopac Jet 74+",
+            "Japac JO 7400",
+            "Jopac JO 1450",
+            "Videopac C7420",
+            "Videopac G7401",
+            "Videopac Jet 471",
+            "Videopac Jet 741+",
+            "G7000",
+            "G7200",
+            "G7400",
+            "JO 7400",
+            "JO 1450",
+            "C7420",
+            "G7401"
+        ],
         "name_recalbox": "o2em,videopacplus",
         "name_retropie": "odyssey2,videopac",
         "name_hyperspin": "Magnavox Odyssey 2,Philips Videopac Plus G7400",
@@ -1561,7 +2189,12 @@
         "extensions": "pce,cue,ccd,sgx",
         "supporttype": "cartridge",
         "name_eu": "PC Engine SuperGrafx",
-        "alternate": "NEC PC Engine SuperGrafx,PC Engine SuperGrafx,NEC SuperGrafx,SuperGrafx",
+        "alternate": [
+            "NEC PC Engine SuperGrafx",
+            "PC Engine SuperGrafx",
+            "NEC SuperGrafx",
+            "SuperGrafx"
+        ],
         "name_recalbox": "supergrafx",
         "name_retropie": "supergrafx",
         "name_hyperspin": "NEC SuperGrafx",
@@ -1579,7 +2212,24 @@
         "supporttype": "floppy disk",
         "name_eu": "Family Computer Disk System",
         "name_jp": "Famiri Konpyuta Disuku Shisutemu",
-        "alternate": "Nintendo Family Computer Disk System,Nintendo Famicom Disk System,Nintendo Famiri Konpyuta Disuku Shisutemu,Nintendo Famikom Disk System,Nintendo FDS,Nintendo FCDS,Nintendo FCD,Nintendo FKDS,Family Computer Disk System,Famicom Disk System,Famiri Konpyuta Disuku Shisutemu,Famikom Disk System,FDS,FCDS,FCD,FKDS",
+        "alternate": [
+            "Nintendo Family Computer Disk System",
+            "Nintendo Famicom Disk System",
+            "Nintendo Famiri Konpyuta Disuku Shisutemu",
+            "Nintendo Famikom Disk System",
+            "Nintendo FDS",
+            "Nintendo FCDS",
+            "Nintendo FCD",
+            "Nintendo FKDS",
+            "Family Computer Disk System",
+            "Famicom Disk System",
+            "Famiri Konpyuta Disuku Shisutemu",
+            "Famikom Disk System",
+            "FDS",
+            "FCDS",
+            "FCD",
+            "FKDS"
+        ],
         "name_recalbox": "fds",
         "name_retropie": "fds",
         "name_hyperspin": "Nintendo Famicom Disk System",
@@ -1597,7 +2247,12 @@
         "extensions": "sfc",
         "supporttype": "download",
         "name_eu": "Satellaview",
-        "alternate": "Nintendo Satellaview,Satellaview,Nintendo BS-X,BS-X",
+        "alternate": [
+            "Nintendo Satellaview",
+            "Satellaview",
+            "Nintendo BS-X",
+            "BS-X"
+        ],
         "name_recalbox": "satellaview",
         "name_retropie": "snes",
         "name_hyperspin": "Nintendo Satellaview",
@@ -1615,7 +2270,10 @@
         "extensions": "sfc,st,smc",
         "supporttype": "cartridge",
         "name_eu": "Sufami Turbo",
-        "alternate": "Bandai Sufami Turbo,Sufami Turbo",
+        "alternate": [
+            "Bandai Sufami Turbo",
+            "Sufami Turbo"
+        ],
         "name_recalbox": "sufami",
         "name_retropie": "snes",
         "name": "Sufami Turbo",
@@ -1629,7 +2287,15 @@
         "extensions": "sg,bin",
         "supporttype": "cartridge",
         "name_eu": "SG-1000",
-        "alternate": "Sega SG-1000,SG-1000,Sega Game 1000,SG-1000 II,SG-1000 2,SC 3000,Othello Multivisio",
+        "alternate": [
+            "Sega SG-1000",
+            "SG-1000",
+            "Sega Game 1000",
+            "SG-1000 II",
+            "SG-1000 2",
+            "SC 3000",
+            "Othello Multivisio"
+        ],
         "name_recalbox": "sg1000,multivision",
         "name_retropie": "sg-1000",
         "name_hyperspin": "Sega SG-1000",
@@ -1659,7 +2325,9 @@
         "supporttype": "floppy disk",
         "name_eu": "Amiga (AGA)",
         "name_jp": "Amiga (AGA)",
-        "alternate": "Amiga AGA",
+        "alternate": [
+            "Amiga AGA"
+        ],
         "name_recalbox": "amiga1200",
         "name_retropie": "amiga",
         "name_hyperspin": "Commodore Amiga",
@@ -1677,7 +2345,15 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Type X",
-        "alternate": "Taito Type X,Taito Type X+,Taito Type X7,Taito Type-X\u00b2,Taito Type X\u00b2 Satellite Terminal,Taito Type XZero,Taito Type X\u00b3",
+        "alternate": [
+            "Taito Type X",
+            "Taito Type X+",
+            "Taito Type X7",
+            "Taito Type-X\u00b2",
+            "Taito Type X\u00b2 Satellite Terminal",
+            "Taito Type XZero",
+            "Taito Type X\u00b3"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Taito Type X",
@@ -1693,7 +2369,12 @@
         "extensions": "mx1,rom,dsk,col,cas",
         "supporttype": "floppy disk",
         "name_eu": "MSX",
-        "alternate": "Microsoft MSX,Microsoft MSX1,MSX,MSX1",
+        "alternate": [
+            "Microsoft MSX",
+            "Microsoft MSX1",
+            "MSX",
+            "MSX1"
+        ],
         "name_recalbox": "msx,msx1",
         "name_retropie": "msx",
         "name_hyperspin": "Microsoft MSX",
@@ -1710,7 +2391,12 @@
         "extensions": "pce,cue,ccd,chd,iso,sgx",
         "supporttype": "cd",
         "name_eu": "PC Engine CD-Rom",
-        "alternate": "NEC PC Engine CD-Rom,NEC PC Engine CD,PC Engine CD-Rom,PC Engine CD",
+        "alternate": [
+            "NEC PC Engine CD-Rom",
+            "NEC PC Engine CD",
+            "PC Engine CD-Rom",
+            "PC Engine CD"
+        ],
         "name_recalbox": "pcenginecd",
         "name_retropie": "pce-cd,tg-cd",
         "name_hyperspin": "NEC PC Engine-CD,NEC TurboGrafx-CD",
@@ -1726,7 +2412,20 @@
         "extensions": "bin,int,rom",
         "supporttype": "cartridge",
         "name_eu": "Intellivision",
-        "alternate": "Mattel Intellivision,Intellivision,Mattel Intelliputer,Intelliputer,Mattel Intellivision II, Intellivision II,Mattel Intellivision 2, Intellivision 2,Mattel ECS,INTV III,INTV Super Pro System,Super Pro System",
+        "alternate": [
+            "Mattel Intellivision",
+            "Intellivision",
+            "Mattel Intelliputer",
+            "Intelliputer",
+            "Mattel Intellivision II",
+            " Intellivision II",
+            "Mattel Intellivision 2",
+            " Intellivision 2",
+            "Mattel ECS",
+            "INTV III",
+            "INTV Super Pro System",
+            "Super Pro System"
+        ],
         "name_recalbox": "intellivision",
         "name_retropie": "Intellivision",
         "name_hyperspin": "Mattel Intellivision",
@@ -1743,7 +2442,10 @@
         "extensions": "mx2,rom,cas,dsk",
         "supporttype": "floppy disk",
         "name_eu": "MSX2",
-        "alternate": "Microsoft MSX2,MSX2",
+        "alternate": [
+            "Microsoft MSX2",
+            "MSX2"
+        ],
         "name_recalbox": "msx,msx2",
         "name_retropie": "msx",
         "name_hyperspin": "Microsoft MSX2",
@@ -1761,7 +2463,12 @@
         "supporttype": "floppy disk",
         "name_eu": "MSX2+",
         "name_jp": "MSX2+",
-        "alternate": "Microsoft MSX2Plus,Microsoft MSX2+,MSX2Plus,MSX2+",
+        "alternate": [
+            "Microsoft MSX2Plus",
+            "Microsoft MSX2+",
+            "MSX2Plus",
+            "MSX2+"
+        ],
         "name_recalbox": "msx,msx2",
         "name_retropie": "msx",
         "name_hyperspin": "Microsoft MSX2+",
@@ -1778,7 +2485,10 @@
         "extensions": "mx1,mx2,rom,dsk,col",
         "supporttype": "floppy disk",
         "name_eu": "MSX Turbo R",
-        "alternate": "Microsoft MSX R Turbo,MSX-R Turbo",
+        "alternate": [
+            "Microsoft MSX R Turbo",
+            "MSX-R Turbo"
+        ],
         "name_recalbox": "msxturbor",
         "name_retropie": "msx",
         "name_hyperspin": "Microsoft MSX",
@@ -1794,7 +2504,15 @@
         "parentid": 12,
         "supporttype": "menu",
         "name_eu": "GBA e-Reader",
-        "alternate": "Nintendo GameBoy Advance e-Reader,Nintendo GB Advance e-Reader,Nintendo GBA e-Reader,Nintendo e-Reader,GameBoy Advance e-Reader,GB Advance e-Reader,GBA e-Reader",
+        "alternate": [
+            "Nintendo GameBoy Advance e-Reader",
+            "Nintendo GB Advance e-Reader",
+            "Nintendo GBA e-Reader",
+            "Nintendo e-Reader",
+            "GameBoy Advance e-Reader",
+            "GB Advance e-Reader",
+            "GBA e-Reader"
+        ],
         "name": "GBA e-Reader",
         "company": "Nintendo",
         "date_start": "2001",
@@ -1807,7 +2525,10 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "V.Smile",
-        "alternate": "VTech V.Smile,V.Smile",
+        "alternate": [
+            "VTech V.Smile",
+            "V.Smile"
+        ],
         "name": "V.Smile",
         "company": "VTech",
         "date_start": "2004",
@@ -1820,7 +2541,10 @@
         "extensions": "bin",
         "supporttype": "cartridge",
         "name_eu": "Game.com",
-        "alternate": "Tiger Game.com,Game.com",
+        "alternate": [
+            "Tiger Game.com",
+            "Game.com"
+        ],
         "name_hyperspin": "Tiger Game.com",
         "name": "Game.com",
         "date_start": "1997",
@@ -1834,7 +2558,11 @@
         "extensions": "ndd",
         "supporttype": "floppy disk",
         "name_eu": "Nintendo 64DD",
-        "alternate": "Nintendo 64 DD,N64 DD,64 DD",
+        "alternate": [
+            "Nintendo 64 DD",
+            "N64 DD",
+            "64 DD"
+        ],
         "name_recalbox": "64dd",
         "name_retropie": "n64",
         "name_hyperspin": "Nintendo 64DD",
@@ -1852,7 +2580,10 @@
         "extensions": "svm,scummvm(scummvm),residualvm(residualvm)",
         "supporttype": "cd-floppy disk",
         "name_eu": "ScummVM",
-        "alternate": "ScummVM,ResidualVM",
+        "alternate": [
+            "ScummVM",
+            "ResidualVM"
+        ],
         "name_recalbox": "scummvm",
         "name_retropie": "scummvm,residualvm",
         "name_hyperspin": "ScummVM",
@@ -1866,7 +2597,10 @@
         "extensions": "rkm",
         "supporttype": "cartridge",
         "name_eu": "Mikrosha",
-        "alternate": "Mikrosha Computer,Mikrosha",
+        "alternate": [
+            "Mikrosha Computer",
+            "Mikrosha"
+        ],
         "name_hyperspin": "Radio-86RK Mikrosha",
         "name_launchbox": "Radio-86RK Mikrosha",
         "name": "Mikrosha",
@@ -1879,7 +2613,9 @@
         "extensions": "wav",
         "supporttype": "k7",
         "name_eu": "Pecom 64",
-        "alternate": "Pecom 64",
+        "alternate": [
+            "Pecom 64"
+        ],
         "name": "Pecom 64",
         "date_start": "1985"
     },
@@ -1891,7 +2627,11 @@
         "supporttype": "k7",
         "name_eu": "Jupiter Ace",
         "name_us": "Ace4000",
-        "alternate": "Jupiter Ace,Jupiter Ace 4000,Ace 4000",
+        "alternate": [
+            "Jupiter Ace",
+            "Jupiter Ace 4000",
+            "Ace 4000"
+        ],
         "name_hyperspin": "Jupiter ACE",
         "name_launchbox": "Jupiter Ace",
         "name": "Ace4000",
@@ -1905,7 +2645,12 @@
         "parentid": 9,
         "supporttype": "cartridge",
         "name_eu": "Super Game Boy",
-        "alternate": "Nintendo Super GameBoy,Super GameBoy,Nintendo Super GG,Super GB",
+        "alternate": [
+            "Nintendo Super GameBoy",
+            "Super GameBoy",
+            "Nintendo Super GG",
+            "Super GB"
+        ],
         "name_recalbox": "gb",
         "name_hyperspin": "Nintendo Super Game Boy",
         "name": "Super Game Boy",
@@ -1921,7 +2666,12 @@
         "extensions": "gb,gbc",
         "supporttype": "cartridge",
         "name_eu": "Super Game Boy 2",
-        "alternate": "Nintendo Super GameBoy 2,Super GameBoy 2,Nintendo Super GG 2,Super GB 2",
+        "alternate": [
+            "Nintendo Super GameBoy 2",
+            "Super GameBoy 2",
+            "Nintendo Super GG 2",
+            "Super GB 2"
+        ],
         "name_recalbox": "gb",
         "name_hyperspin": "Nintendo Super Game Boy",
         "name": "Super Game Boy 2",
@@ -1937,7 +2687,11 @@
         "extensions": "bin,ccd,cue,img,iso,wav",
         "supporttype": "cd",
         "name_eu": "Amiga CDTV",
-        "alternate": "Commodore Amiga CDTV, Amliga CDTV,CDTV",
+        "alternate": [
+            "Commodore Amiga CDTV",
+            " Amliga CDTV",
+            "CDTV"
+        ],
         "name_recalbox": "amigacdtv",
         "name_retropie": "amiga",
         "name_hyperspin": "Commodore CDTV",
@@ -1954,7 +2708,10 @@
         "extensions": "bin,ccd,cdt,cue,img,iso,nrg,sub",
         "supporttype": "cd",
         "name_eu": "Amiga CD32",
-        "alternate": "Commodore Amiga CD32, Amiga CD32",
+        "alternate": [
+            "Commodore Amiga CD32",
+            " Amiga CD32"
+        ],
         "name_recalbox": "amigacd32",
         "name_retropie": "amiga",
         "name_hyperspin": "Commodore Amiga CD32",
@@ -1971,7 +2728,21 @@
         "extensions": "bas,bin,dsk,tap",
         "supporttype": "floppy disk",
         "name_eu": "Oric 1 \/ Atmos",
-        "alternate": "Tangerince Oric Atmos,Tangerine Oric-1,Tangerine Oric-I,Oric Atmos,Oric-1,Oric-I,Eur\u00eaka Oric Atmos,Eur\u00eaka Oric Telestrat,Eur\u00eaka Oric Nova 64,Eur\u00eaka Oric Adresstal,Eur\u00eaka Telestrat,Eur\u00eaka Nova 64,Eur\u00eaka Adresstal",
+        "alternate": [
+            "Tangerince Oric Atmos",
+            "Tangerine Oric-1",
+            "Tangerine Oric-I",
+            "Oric Atmos",
+            "Oric-1",
+            "Oric-I",
+            "Eur\u00eaka Oric Atmos",
+            "Eur\u00eaka Oric Telestrat",
+            "Eur\u00eaka Oric Nova 64",
+            "Eur\u00eaka Oric Adresstal",
+            "Eur\u00eaka Telestrat",
+            "Eur\u00eaka Nova 64",
+            "Eur\u00eaka Adresstal"
+        ],
         "name_recalbox": "oricatmos",
         "name_retropie": "oric",
         "name_hyperspin": "Tangerine Oric",
@@ -1987,7 +2758,10 @@
         "extensions": "bin,cue,iso,nrg,wav",
         "supporttype": "cd",
         "name_eu": "CD-i",
-        "alternate": "Philips CD-I,CD-I",
+        "alternate": [
+            "Philips CD-I",
+            "CD-I"
+        ],
         "name_recalbox": "cdi",
         "name_hyperspin": "Philips CD-i",
         "name_launchbox": "Philips CD-i",
@@ -2003,7 +2777,10 @@
         "extensions": "cue,iso,wav",
         "supporttype": "cd",
         "name_eu": "Amiga CD",
-        "alternate": "Commodore Amiga CD,Amiga CD",
+        "alternate": [
+            "Commodore Amiga CD",
+            "Amiga CD"
+        ],
         "name_recalbox": "amiga",
         "name_retropie": "amiga",
         "name_hyperspin": "Commodore Amiga CD32",
@@ -2017,7 +2794,19 @@
         "extensions": "pc(exe|com|iso|bin|mdf|ima|img|gog|dsk|z5|z8|bas|dat),dos(exe|com|iso|bin|mdf|ima|img|gog|dsk|z5|z8|bas|dat),wad,game,zip",
         "supporttype": "cd-floppy disk",
         "name_eu": "PC Dos",
-        "alternate": "Microsoft MS-DOS,Microsoft DOS,DOS,MS-DOS,PC-DOS,PC,DosBox,eXoDos,Total DOS Collection,Total DOS,PrBoom",
+        "alternate": [
+            "Microsoft MS-DOS",
+            "Microsoft DOS",
+            "DOS",
+            "MS-DOS",
+            "PC-DOS",
+            "PC",
+            "DosBox",
+            "eXoDos",
+            "Total DOS Collection",
+            "Total DOS",
+            "PrBoom"
+        ],
         "name_recalbox": "dos,prboom",
         "name_retropie": "pc",
         "name_hyperspin": "Microsoft MS-DOS",
@@ -2034,7 +2823,16 @@
         "extensions": "pc(exe|dll|com|iso|bin|mdf|img),dos(exe|dll|com|iso|bin|mdf|img)",
         "supporttype": "cd-floppy disk",
         "name_eu": "PC Win3.xx",
-        "alternate": "Microsoft Windows 3.1,Windows 3.1,Win 3.1,W3.1,Microsoft Windows 3.0,Windows 3.0,Win 3.0,W3.0",
+        "alternate": [
+            "Microsoft Windows 3.1",
+            "Windows 3.1",
+            "Win 3.1",
+            "W3.1",
+            "Microsoft Windows 3.0",
+            "Windows 3.0",
+            "Win 3.0",
+            "W3.0"
+        ],
         "name_hyperspin": "Microsoft Windows 3.x",
         "name_launchbox": "Windows 3.X",
         "name": "PC Win3.xx",
@@ -2048,7 +2846,27 @@
         "parentid": 135,
         "supporttype": "floppy disk",
         "name_eu": "PC Win9X",
-        "alternate": "Microsoft Windows 95,Microsoft Windows 98,Microsoft Windows 98SE,Microsoft Windows 98SE2,Microsoft Windows Millenium,Windows 95,Windows 98,Windows 98SE,Windows 98SE2,Windows Millenium,Win 95,Win 98,Win 98SE,Win 98SE2,Win Millenium,W95,W98,W98SE,W98SE2",
+        "alternate": [
+            "Microsoft Windows 95",
+            "Microsoft Windows 98",
+            "Microsoft Windows 98SE",
+            "Microsoft Windows 98SE2",
+            "Microsoft Windows Millenium",
+            "Windows 95",
+            "Windows 98",
+            "Windows 98SE",
+            "Windows 98SE2",
+            "Windows Millenium",
+            "Win 95",
+            "Win 98",
+            "Win 98SE",
+            "Win 98SE2",
+            "Win Millenium",
+            "W95",
+            "W98",
+            "W98SE",
+            "W98SE2"
+        ],
         "name": "PC Win9X",
         "company": "Microsoft",
         "date_start": "1995",
@@ -2060,7 +2878,37 @@
         "romtype": "iso",
         "supporttype": "cd",
         "name_eu": "PC Windows",
-        "alternate": "Microsoft Windows,Microsoft Windows XP,Microsoft Windows 2000,Microsoft Windows Vista,Microsoft Windows 7,Microsoft Windows 8,Microsoft Windows 8.1,Microsoft Windows 10,Windows,Windows XP,Windows 2000,Windows Vista,Windows 7,Windows 8,Windows 8.1,Windows 10,Win XP,Win 2000,Win Vista,Win 7,Win 8,Win 8.1,Win 10,WXP,W2000,W7,W8,W8.1,W10",
+        "alternate": [
+            "Microsoft Windows",
+            "Microsoft Windows XP",
+            "Microsoft Windows 2000",
+            "Microsoft Windows Vista",
+            "Microsoft Windows 7",
+            "Microsoft Windows 8",
+            "Microsoft Windows 8.1",
+            "Microsoft Windows 10",
+            "Windows",
+            "Windows XP",
+            "Windows 2000",
+            "Windows Vista",
+            "Windows 7",
+            "Windows 8",
+            "Windows 8.1",
+            "Windows 10",
+            "Win XP",
+            "Win 2000",
+            "Win Vista",
+            "Win 7",
+            "Win 8",
+            "Win 8.1",
+            "Win 10",
+            "WXP",
+            "W2000",
+            "W7",
+            "W8",
+            "W8.1",
+            "W10"
+        ],
         "name_launchbox": "Windows",
         "name": "PC Windows",
         "company": "Microsoft",
@@ -2073,7 +2921,9 @@
         "extensions": "bin,ccd,cdt,cue,img,iso,nrg,sub",
         "supporttype": "cd",
         "name_eu": "Amiga CD32 (hack)",
-        "alternate": "Amiga CD32 (hack)",
+        "alternate": [
+            "Amiga CD32 (hack)"
+        ],
         "name_recalbox": "amigacd32",
         "name_retropie": "amiga",
         "name_hyperspin": "Commodore Amiga CD32",
@@ -2090,7 +2940,33 @@
         "extensions": "fd,k7,m7,qd,sap,m5,wav",
         "supporttype": "k7",
         "name_eu": "Thomson MO\/TO",
-        "alternate": "Thomson TO7,Thomson TO7-70,Thomson TO8,Thomson TO8D,Thomson TO9,Thomson TO9+,TO7,TO7-70,TO8,TO8D,TO9,TO9+,Thomson TO9 Plus,TO9 Plus,Thomson TO,Thomson MO5,Thomson MO5E,Thomson MO5NR,Thomson MO6,Olivetti Prodest PC128,MO5,MO5E,MO5NR,MO6,Thomson MO",
+        "alternate": [
+            "Thomson TO7",
+            "Thomson TO7-70",
+            "Thomson TO8",
+            "Thomson TO8D",
+            "Thomson TO9",
+            "Thomson TO9+",
+            "TO7",
+            "TO7-70",
+            "TO8",
+            "TO8D",
+            "TO9",
+            "TO9+",
+            "Thomson TO9 Plus",
+            "TO9 Plus",
+            "Thomson TO",
+            "Thomson MO5",
+            "Thomson MO5E",
+            "Thomson MO5NR",
+            "Thomson MO6",
+            "Olivetti Prodest PC128",
+            "MO5",
+            "MO5E",
+            "MO5NR",
+            "MO6",
+            "Thomson MO"
+        ],
         "name_recalbox": "thomson",
         "name_launchbox": "Thomson TO7,Thomson MO5",
         "name": "Thomson MO\/TO",
@@ -2105,7 +2981,14 @@
         "extensions": "chd",
         "supporttype": "cartridge",
         "name_eu": "Neo-Geo",
-        "alternate": "SNK Neo-Geo,Neo-Geo,SNK Neo-Geo AES,Neo-Geo AES,SNK Neo-Geo MVS,Neo-Geo MVS",
+        "alternate": [
+            "SNK Neo-Geo",
+            "Neo-Geo",
+            "SNK Neo-Geo AES",
+            "Neo-Geo AES",
+            "SNK Neo-Geo MVS",
+            "Neo-Geo MVS"
+        ],
         "name_recalbox": "neogeo",
         "name_retropie": "neogeo",
         "name_hyperspin": "SNK Neo Geo",
@@ -2135,7 +3018,14 @@
         "extensions": "cas,wav,bas,asc,dmk,jvc,os9,dsk,vdk,rom,ccc,sna",
         "supporttype": "floppy disk",
         "name_eu": "TRS-80 Color Computer",
-        "alternate": "Tandy TRS-80 Color Computer,Tandy TRS-80,TRS-80 Color Computer,Tandy TRS-80 CoCo,TRS-80 CoCo,CoCo",
+        "alternate": [
+            "Tandy TRS-80 Color Computer",
+            "Tandy TRS-80",
+            "TRS-80 Color Computer",
+            "Tandy TRS-80 CoCo",
+            "TRS-80 CoCo",
+            "CoCo"
+        ],
         "name_recalbox": "trs80coco",
         "name_retropie": "coco",
         "name_hyperspin": "Tandy TRS-80 Color Computer",
@@ -2151,7 +3041,9 @@
         "romtype": "rom",
         "supporttype": "cd-floppy disk",
         "name_eu": "Linux",
-        "alternate": "Linux",
+        "alternate": [
+            "Linux"
+        ],
         "name": "Linux",
         "company": "Public Domain",
         "date_start": "1991"
@@ -2163,7 +3055,15 @@
         "extensions": "img,rom",
         "supporttype": "floppy disk",
         "name_eu": "Mac OS",
-        "alternate": "Apple Mac-OS,Apple Mac-OSX,Apple OS,Apple OSX,Mac-OSX,Mac-OS,OSX",
+        "alternate": [
+            "Apple Mac-OS",
+            "Apple Mac-OSX",
+            "Apple OS",
+            "Apple OSX",
+            "Mac-OSX",
+            "Mac-OS",
+            "OSX"
+        ],
         "name_retropie": "macintosh",
         "name_launchbox": "Apple Mac OS",
         "name": "Mac OS",
@@ -2179,7 +3079,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Sega Classics",
-        "alternate": "Sega Classics",
+        "alternate": [
+            "Sega Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Sega Classics",
@@ -2195,7 +3097,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Irem Classics",
-        "alternate": "Irem Classics",
+        "alternate": [
+            "Irem Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Irem Classics",
@@ -2211,7 +3115,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Seta",
-        "alternate": "SETA",
+        "alternate": [
+            "SETA"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2225,7 +3131,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Midway Classics",
-        "alternate": "Midway Classics",
+        "alternate": [
+            "Midway Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Midway Classics,Williams Classics",
@@ -2241,7 +3149,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Capcom Classics",
-        "alternate": "Capcom Classics",
+        "alternate": [
+            "Capcom Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Capcom Classics",
@@ -2257,7 +3167,14 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Eighting \/ Raizing",
-        "alternate": "Raizing\/Eighting,Eighting\/Raizing,8ing\/Raizing,Raizing\/8ing,Raizing,R8zing",
+        "alternate": [
+            "Raizing\/Eighting",
+            "Eighting\/Raizing",
+            "8ing\/Raizing",
+            "Raizing\/8ing",
+            "Raizing",
+            "R8zing"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2272,7 +3189,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Tecmo",
-        "alternate": "TECMO",
+        "alternate": [
+            "TECMO"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2287,7 +3206,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "SNK Classics",
-        "alternate": "SNK Classics",
+        "alternate": [
+            "SNK Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "SNK Classics",
@@ -2303,7 +3224,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Namco Classics",
-        "alternate": "Namco Classics",
+        "alternate": [
+            "Namco Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Namco Classics",
@@ -2319,7 +3242,10 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Namco System 22",
-        "alternate": "Namco System 22,System 22",
+        "alternate": [
+            "Namco System 22",
+            "System 22"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Namco System 22",
@@ -2335,7 +3261,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Taito Classics",
-        "alternate": "Taito Classics",
+        "alternate": [
+            "Taito Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Taito Classics",
@@ -2351,7 +3279,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Konami Classics",
-        "alternate": "Konami Classics",
+        "alternate": [
+            "Konami Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Konami Classics,Konami e-AMUSEMENT",
@@ -2367,7 +3297,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Jaleco",
-        "alternate": "Jaleco",
+        "alternate": [
+            "Jaleco"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2382,7 +3314,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Atari Classics",
-        "alternate": "Atari Classics",
+        "alternate": [
+            "Atari Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Atari Classics",
@@ -2398,7 +3332,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Nintendo Classics",
-        "alternate": "Nintendo Classics",
+        "alternate": [
+            "Nintendo Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Nintendo Classics",
@@ -2414,7 +3350,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Data East Classics",
-        "alternate": "Data East Classics",
+        "alternate": [
+            "Data East Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Data East Classics",
@@ -2430,7 +3368,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "NMK",
-        "alternate": "NMK",
+        "alternate": [
+            "NMK"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2445,7 +3385,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Sammy Classics",
-        "alternate": "Sammy Classics",
+        "alternate": [
+            "Sammy Classics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2459,7 +3401,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Exidy",
-        "alternate": "Exidy",
+        "alternate": [
+            "Exidy"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Exidy Sorcerer",
@@ -2474,7 +3418,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Acclaim",
-        "alternate": "Acclaim",
+        "alternate": [
+            "Acclaim"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2489,7 +3435,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Psikyo",
-        "alternate": "Psikyo",
+        "alternate": [
+            "Psikyo"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2517,7 +3465,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Technos",
-        "alternate": "Technos",
+        "alternate": [
+            "Technos"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2531,7 +3481,9 @@
         "extensions": "chd,cue,iso",
         "supporttype": "pcb",
         "name_eu": "American Laser Games",
-        "alternate": "American Laser Games",
+        "alternate": [
+            "American Laser Games"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "American Laser Games",
@@ -2547,7 +3499,12 @@
         "extensions": "bin,ccd,cdi,cue,img,nrg,sub",
         "supporttype": "cd",
         "name_eu": "Jaguar CD",
-        "alternate": "Atari Jaguar CD-Rom,Atari Jaguar CD,Jaguar CD-Rom,Jaguar CD",
+        "alternate": [
+            "Atari Jaguar CD-Rom",
+            "Atari Jaguar CD",
+            "Jaguar CD-Rom",
+            "Jaguar CD"
+        ],
         "name_hyperspin": "Atari Jaguar CD",
         "name_launchbox": "Atari Jaguar CD",
         "name": "Jaguar CD",
@@ -2563,7 +3520,12 @@
         "extensions": "iso,pbp,cso",
         "supporttype": "download",
         "name_eu": "Playstation minis",
-        "alternate": "Sony Playstation Minis,Playstation Minis,Sony PS Minis,PS Minis",
+        "alternate": [
+            "Sony Playstation Minis",
+            "Playstation Minis",
+            "Sony PS Minis",
+            "PS Minis"
+        ],
         "name_recalbox": "psp",
         "name_retropie": "psp",
         "name_hyperspin": "Sony PSP Minis",
@@ -2579,7 +3541,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Dynax",
-        "alternate": "Dynax",
+        "alternate": [
+            "Dynax"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2594,7 +3558,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Kaneko",
-        "alternate": "Kaneko",
+        "alternate": [
+            "Kaneko"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2609,7 +3575,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Video System Co.",
-        "alternate": "Video System Co.",
+        "alternate": [
+            "Video System Co."
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2623,7 +3591,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "IGS",
-        "alternate": "IGS",
+        "alternate": [
+            "IGS"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2638,7 +3608,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Comad",
-        "alternate": "Comad",
+        "alternate": [
+            "Comad"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2653,7 +3625,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Amcoe",
-        "alternate": "Amcoe",
+        "alternate": [
+            "Amcoe"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2668,7 +3642,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Century Electronics",
-        "alternate": "Century Electronics",
+        "alternate": [
+            "Century Electronics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2683,7 +3659,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Nichibutsu",
-        "alternate": "Nichibutsu",
+        "alternate": [
+            "Nichibutsu"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2698,7 +3676,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Visco",
-        "alternate": "Visco",
+        "alternate": [
+            "Visco"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2713,7 +3693,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Alpha Denshi Co.",
-        "alternate": "Alpha Denshi Co.",
+        "alternate": [
+            "Alpha Denshi Co."
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2727,7 +3709,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Coleco",
-        "alternate": "Coleco",
+        "alternate": [
+            "Coleco"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2741,7 +3725,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "PlayChoice",
-        "alternate": "Playchoice",
+        "alternate": [
+            "Playchoice"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2755,7 +3741,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Atlus",
-        "alternate": "Altus",
+        "alternate": [
+            "Altus"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2770,7 +3758,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Banpresto",
-        "alternate": "Banpresto",
+        "alternate": [
+            "Banpresto"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2785,7 +3775,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "SemiCom",
-        "alternate": "SemiCom",
+        "alternate": [
+            "SemiCom"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2800,7 +3792,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Universal",
-        "alternate": "Universal",
+        "alternate": [
+            "Universal"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2814,7 +3808,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Mitchell",
-        "alternate": "Mitchell",
+        "alternate": [
+            "Mitchell"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2829,7 +3825,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Seibu Kaihatsu",
-        "alternate": "Seibu Kaihatsu",
+        "alternate": [
+            "Seibu Kaihatsu"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2844,7 +3842,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Toaplan",
-        "alternate": "Toaplan",
+        "alternate": [
+            "Toaplan"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2859,7 +3859,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Cinematronics",
-        "alternate": "Cinematronics",
+        "alternate": [
+            "Cinematronics"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2874,7 +3876,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Incredible Technologies",
-        "alternate": "Incredible Technologies",
+        "alternate": [
+            "Incredible Technologies"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2888,7 +3892,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Gaelco",
-        "alternate": "Gaelco",
+        "alternate": [
+            "Gaelco"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Gaelco",
@@ -2904,7 +3910,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Mega-Tech",
-        "alternate": "Mega-Tech",
+        "alternate": [
+            "Mega-Tech"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2919,7 +3927,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Mega-Play",
-        "alternate": "Mega-Play",
+        "alternate": [
+            "Mega-Play"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -2987,7 +3997,10 @@
         "extensions": "sfc,smc,fig,mgd,swc",
         "supporttype": "cartridge",
         "name_eu": "Snes - Super Mario World Hacks",
-        "alternate": "Super Nintendo Entertainment System - Super Mario Mario Hacks,Snes - Super Mario World Hacks",
+        "alternate": [
+            "Super Nintendo Entertainment System - Super Mario Mario Hacks",
+            "Snes - Super Mario World Hacks"
+        ],
         "name_recalbox": "snes",
         "name_retropie": "snes",
         "name_hyperspin": "Nintendo Super Famicom,Super Nintendo Entertainment System",
@@ -3005,7 +4018,10 @@
         "extensions": "gen,md,smd,bin,sg",
         "supporttype": "cartridge",
         "name_eu": "Megadrive - Sonic The Hedgehog 2 Hacks",
-        "alternate": "Megadrive - Sonic The Hedgehog 2 Hacks,Genesis - Sonic The Hedgehog 2 Hacks",
+        "alternate": [
+            "Megadrive - Sonic The Hedgehog 2 Hacks",
+            "Genesis - Sonic The Hedgehog 2 Hacks"
+        ],
         "name_recalbox": "megadrive",
         "name_retropie": "genesis,megadrive",
         "name_hyperspin": "Sega Genesis",
@@ -3021,7 +4037,11 @@
         "extensions": "bin,c,dsk,g,ctg",
         "supporttype": "cartridge-k7-floppy disk",
         "name_eu": "TI-99\/4A",
-        "alternate": "Texas Instruments TI 99\/4A,TI-99\/4A,TI-99",
+        "alternate": [
+            "Texas Instruments TI 99\/4A",
+            "TI-99\/4A",
+            "TI-99"
+        ],
         "name_recalbox": "ti994a",
         "name_retropie": "ti99",
         "name_launchbox": "Texas Instruments TI 99\/4A",
@@ -3051,7 +4071,9 @@
         "name_eu": "Watara Supervision",
         "name_jp": "Watara Supervision",
         "name_us": "Watara Supervision",
-        "alternate": "Watara Supervision",
+        "alternate": [
+            "Watara Supervision"
+        ],
         "name_recalbox": "supervision",
         "name_launchbox": "Watara Supervision",
         "name": "Watara Supervision",
@@ -3065,7 +4087,10 @@
         "extensions": "d98,98d,fdi,fdd,2hd,tfd,d88,88d,hdm,xdf,dup,cmd,hdi,thd,nhd,hdd,hdn",
         "supporttype": "floppy disk",
         "name_eu": "NEC PC-9801",
-        "alternate": "PC98,PC9801",
+        "alternate": [
+            "PC98",
+            "PC9801"
+        ],
         "name_recalbox": "pc98",
         "name_retropie": "Pc98",
         "name": "NEC PC-9801",
@@ -3079,7 +4104,9 @@
         "extensions": "chd",
         "supporttype": "pcb",
         "name_eu": "Gottlieb",
-        "alternate": "Gottlieb",
+        "alternate": [
+            "Gottlieb"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "arcade",
@@ -3093,7 +4120,11 @@
         "extensions": "sfc",
         "supporttype": "cd",
         "name_eu": "Super Nintendo MSU-1",
-        "alternate": "Super Nintendo MSU-1,MSU-1,SNES MSU-1",
+        "alternate": [
+            "Super Nintendo MSU-1",
+            "MSU-1",
+            "SNES MSU-1"
+        ],
         "name_recalbox": "Super Nintendo MSU-1",
         "name_retropie": "Super Nintendo MSU-1",
         "name_hyperspin": "Super Nintendo MSU-1",
@@ -3108,7 +4139,10 @@
         "extensions": "min",
         "supporttype": "cartridge",
         "name_eu": "Pok\u00e9mon mini",
-        "alternate": "Pokemon Mini, PokeMini",
+        "alternate": [
+            "Pokemon Mini",
+            " PokeMini"
+        ],
         "name_recalbox": "pokemini",
         "name": "Pok\u00e9mon mini",
         "company": "Nintendo",
@@ -3121,7 +4155,10 @@
         "extensions": "dsk,sad",
         "supporttype": "floppy disk",
         "name_eu": "MGT SAM Coup\u00e9",
-        "alternate": "MGT SAM Coup\u00e9, SAM Coup\u00e9",
+        "alternate": [
+            "MGT SAM Coup\u00e9",
+            " SAM Coup\u00e9"
+        ],
         "name_recalbox": "samcoupe",
         "name_hyperspin": "MGT SAM Coup\u00e9",
         "name_launchbox": "MGT SAM Coup\u00e9",
@@ -3138,7 +4175,9 @@
         "name_eu": "OpenBOR",
         "name_jp": "OpenBOR",
         "name_us": "OpenBOR",
-        "alternate": "OpenBOR",
+        "alternate": [
+            "OpenBOR"
+        ],
         "name_recalbox": "openbor",
         "name_retropie": "OpenBOR",
         "name_hyperspin": "OpenBOR",
@@ -3161,7 +4200,9 @@
         "extensions": "uze",
         "supporttype": "non-applicable",
         "name_eu": "Uzebox",
-        "alternate": "Uzebox",
+        "alternate": [
+            "Uzebox"
+        ],
         "name_recalbox": "uzebox",
         "name_retropie": "uzebox",
         "name_hyperspin": "Uzebox",
@@ -3177,7 +4218,11 @@
         "extensions": "2mg,po,nib,do,dsk,hdv,zip",
         "supporttype": "floppy disk",
         "name_eu": "Apple IIGS",
-        "alternate": "Apple IIGS,apple2gs,appleIIgs",
+        "alternate": [
+            "Apple IIGS",
+            "apple2gs",
+            "appleIIgs"
+        ],
         "name_recalbox": "apple2gs",
         "name_launchbox": "Apple IIGS",
         "name": "Apple IIGS",
@@ -3192,7 +4237,9 @@
         "extensions": " cas,bin,dsk,zip",
         "supporttype": "cartridge-k7",
         "name_eu": "Spectravideo",
-        "alternate": "Spectravideo",
+        "alternate": [
+            "Spectravideo"
+        ],
         "name_recalbox": "spectravideo",
         "name_retropie": "Spectravideo",
         "name_launchbox": "Spectravideo",
@@ -3207,7 +4254,10 @@
         "extensions": "prc,pdb,pqa,img",
         "supporttype": "menu",
         "name_eu": "Palm OS",
-        "alternate": "palm,palmos",
+        "alternate": [
+            "palm",
+            "palmos"
+        ],
         "name_recalbox": "palm",
         "name": "Palm OS",
         "date_start": "1995",
@@ -3220,7 +4270,10 @@
         "extensions": "dx1,2d,2hd,tfd,d88,88d,hdm,xdf,dup,cmd",
         "supporttype": "k7",
         "name_eu": "Sharp X1",
-        "alternate": "Sharp X1,X1",
+        "alternate": [
+            "Sharp X1",
+            "X1"
+        ],
         "name_recalbox": "x1",
         "name_retropie": "x1",
         "name_hyperspin": "Sharp X1",
@@ -3284,7 +4337,10 @@
         "extensions": "chd,bin,gdi,raw",
         "supporttype": "pcb",
         "name_eu": "Naomi GD-ROM",
-        "alternate": "Sega Naomi-GD,Naomi GD",
+        "alternate": [
+            "Sega Naomi-GD",
+            "Naomi GD"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro,naomigd,naomi",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name": "Naomi GD-ROM",
@@ -3300,7 +4356,10 @@
         "extensions": "chd,bin,gdi,raw",
         "supporttype": "pcb",
         "name_eu": "Naomi 2",
-        "alternate": "Sega Naomi 2,Naomi 2",
+        "alternate": [
+            "Sega Naomi 2",
+            "Naomi 2"
+        ],
         "name_recalbox": "arcade,mame,fba,fba_libretro",
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_launchbox": "Sega Naomi 2",
@@ -3316,7 +4375,9 @@
         "extensions": "ini",
         "supporttype": "download",
         "name_eu": "EasyRPG",
-        "alternate": "EasyRPG",
+        "alternate": [
+            "EasyRPG"
+        ],
         "name_recalbox": "easyrpg",
         "name_retropie": "easyrpg",
         "name": "EasyRPG"
