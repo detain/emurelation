@@ -7,6 +7,9 @@
     "APF Imagination Machine": {
         "files": [
             "APF - Imagination Machine"
+        ],
+        "local": [
+            "APF Imagination Machine"
         ]
     },
     "APF MP-1000": {
@@ -17,11 +20,17 @@
     "Acorn Archimedes": {
         "files": [
             "Acorn - Archimedes"
+        ],
+        "local": [
+            "Acorn Archimedes"
         ]
     },
     "Acorn Atom": {
         "files": [
             "Acorn - Atom"
+        ],
+        "local": [
+            "Acorn Atom"
         ]
     },
     "Acorn Risc PC": {
@@ -32,6 +41,9 @@
     "Amstrad CPC": {
         "files": [
             "Amstrad - CPC (Flux)"
+        ],
+        "local": [
+            "Amstrad CPC"
         ]
     },
     "Apple I": {
@@ -44,6 +56,9 @@
             "Apple - II (A2R)",
             "Apple - II (WOZ)",
             "Source Code - Apple - II"
+        ],
+        "local": [
+            "Apple II"
         ]
     },
     "Apple II Plus": {
@@ -57,6 +72,9 @@
             "Apple - IIGS (Flux)",
             "Apple - IIGS (WOZ)",
             "Source Code - Apple - IIGS"
+        ],
+        "local": [
+            "Apple IIGS"
         ]
     },
     "Apple IIe": {
@@ -69,22 +87,34 @@
         "files": [
             "Apple - Macintosh",
             "Apple - Macintosh (Flux)"
+        ],
+        "local": [
+            "Apple Macintosh"
         ]
     },
     "Atari 2600": {
         "files": [
             "Atari - 2600",
             "Source Code - Atari - 2600"
+        ],
+        "local": [
+            "Atari 2600"
         ]
     },
     "Atari 5200": {
         "files": [
             "Atari - 5200"
+        ],
+        "local": [
+            "Atari 5200"
         ]
     },
     "Atari 7800": {
         "files": [
             "Atari - 7800"
+        ],
+        "local": [
+            "Atari 7800"
         ]
     },
     "Atari 8-bit Family": {
@@ -97,17 +127,26 @@
         "files": [
             "Atari - Jaguar (J64)",
             "Atari - Jaguar (ROM)"
+        ],
+        "local": [
+            "Atari Jaguar"
         ]
     },
     "Atari Lynx": {
         "files": [
             "Atari - Lynx"
+        ],
+        "local": [
+            "Atari Lynx"
         ]
     },
     "Atari ST": {
         "files": [
             "Atari - ST",
             "Atari - ST (Flux)"
+        ],
+        "local": [
+            "Atari ST"
         ]
     },
     "Bally Astrocade": {
@@ -129,47 +168,74 @@
     "Bandai WonderSwan": {
         "files": [
             "Bandai - WonderSwan"
+        ],
+        "local": [
+            "Bandai WonderSwan"
         ]
     },
     "Bandai WonderSwan Color": {
         "files": [
             "Bandai - WonderSwan Color"
+        ],
+        "local": [
+            "Bandai WonderSwan Color"
         ]
     },
     "Benesse Pocket Challenge V2": {
         "files": [
             "Benesse - Pocket Challenge V2"
+        ],
+        "local": [
+            "Benesse Pocket Challenge V2"
         ]
     },
     "Benesse Pocket Challenge W": {
         "files": [
             "Benesse - Pocket Challenge W"
+        ],
+        "local": [
+            "Benesse Pocket Challenge W"
         ]
     },
     "Bit Corporation Gamate": {
         "files": [
             "Bit Corporation - Gamate"
+        ],
+        "local": [
+            "Bit Corporation Gamate"
         ]
     },
     "Casio Loopy": {
         "files": [
             "Casio - Loopy"
+        ],
+        "local": [
+            "Casio Loopy"
         ]
     },
     "Casio PV-1000": {
         "files": [
             "Casio - PV-1000"
+        ],
+        "local": [
+            "Casio PV-1000"
         ]
     },
     "Coleco ColecoVision": {
         "files": [
             "Coleco - ColecoVision"
+        ],
+        "local": [
+            "Coleco ColecoVision"
         ]
     },
     "Commodore Amiga": {
         "files": [
             "Commodore - Amiga",
             "Commodore - Amiga (Flux)"
+        ],
+        "local": [
+            "Commodore Amiga"
         ]
     },
     "Commodore Commodore 64": {
@@ -182,36 +248,57 @@
     "Commodore Plus-4": {
         "files": [
             "Commodore - Plus-4"
+        ],
+        "local": [
+            "Commodore Plus-4 - C16 - C116"
         ]
     },
     "Commodore VIC-20": {
         "files": [
             "Commodore - VIC-20"
+        ],
+        "local": [
+            "Commodore VIC-20"
         ]
     },
     "Emerson Arcadia 2001": {
         "files": [
             "Emerson - Arcadia 2001"
+        ],
+        "local": [
+            "Emerson Arcadia 2001"
         ]
     },
     "Entex Adventure Vision": {
         "files": [
             "Entex - Adventure Vision"
+        ],
+        "local": [
+            "Entex Adventure Vision"
         ]
     },
     "Epoch Game Pocket Computer": {
         "files": [
             "Epoch - Game Pocket Computer"
+        ],
+        "local": [
+            "Epoch Game Pocket Computer"
         ]
     },
     "Epoch Super Cassette Vision": {
         "files": [
             "Epoch - Super Cassette Vision"
+        ],
+        "local": [
+            "Epoch Super Cassette Vision"
         ]
     },
     "Fairchild Channel F": {
         "files": [
             "Fairchild - Channel F"
+        ],
+        "local": [
+            "Fairchild Channel F"
         ]
     },
     "Fujitsu  FMR50": {
@@ -222,11 +309,17 @@
     "Fujitsu FM Towns": {
         "files": [
             "Fujitsu - FM Towns (Flux)"
+        ],
+        "local": [
+            "Fujitsu FM Towns"
         ]
     },
     "Fujitsu FM-7": {
         "files": [
             "Fujitsu - FM-7 (Flux)"
+        ],
+        "local": [
+            "Fujitsu FM-7"
         ]
     },
     "Fukutake Publishing StudyBox": {
@@ -237,11 +330,17 @@
     "Funtech Super Acan": {
         "files": [
             "Funtech - Super Acan"
+        ],
+        "local": [
+            "Funtech Super A'Can"
         ]
     },
     "GCE Vectrex": {
         "files": [
             "GCE - Vectrex"
+        ],
+        "local": [
+            "GCE Vectrex"
         ]
     },
     "GamePark GP2X": {
@@ -252,6 +351,9 @@
     "GamePark GP32": {
         "files": [
             "GamePark - GP32"
+        ],
+        "local": [
+            "GamePark GP32"
         ]
     },
     "Google Android": {
@@ -264,6 +366,9 @@
     "Hartung Game Master": {
         "files": [
             "Hartung - Game Master"
+        ],
+        "local": [
+            "Hartung Game Master"
         ]
     },
     "IBM PC and Compatibles": {
@@ -277,51 +382,81 @@
             "IBM - PC and Compatibles (IPF)",
             "IBM - PC and Compatibles (LooseFilesArchive)",
             "Source Code - IBM - PC and Compatibles"
+        ],
+        "local": [
+            "IBM PC and Compatibles"
         ]
     },
     "Interton VC 4000": {
         "files": [
             "Interton - VC 4000"
+        ],
+        "local": [
+            "Interton VC 4000"
         ]
     },
     "Konami Picno": {
         "files": [
             "Konami - Picno"
+        ],
+        "local": [
+            "Konami Picno"
         ]
     },
     "LeapFrog LeapPad": {
         "files": [
             "LeapFrog - LeapPad"
+        ],
+        "local": [
+            "LeapFrog LeapPad"
         ]
     },
     "LeapFrog Leapster Learning Game System": {
         "files": [
             "LeapFrog - Leapster Learning Game System"
+        ],
+        "local": [
+            "LeapFrog Leapster Learning Game System"
         ]
     },
     "Luxor ABC 800": {
         "files": [
             "Luxor - ABC 800 (Flux)"
+        ],
+        "local": [
+            "Luxor ABC 800"
         ]
     },
     "Magnavox Odyssey 2": {
         "files": [
             "Magnavox - Odyssey 2"
+        ],
+        "local": [
+            "Magnavox Odyssey 2"
         ]
     },
     "Mattel Intellivision": {
         "files": [
             "Mattel - Intellivision"
+        ],
+        "local": [
+            "Mattel Intellivision"
         ]
     },
     "Microsoft MSX": {
         "files": [
             "Microsoft - MSX"
+        ],
+        "local": [
+            "Microsoft MSX"
         ]
     },
     "Microsoft MSX2": {
         "files": [
             "Microsoft - MSX2"
+        ],
+        "local": [
+            "Microsoft MSX2"
         ]
     },
     "Microsoft Xbox 360": {
@@ -329,11 +464,17 @@
             "Microsoft - Xbox 360 (Digital)",
             "Non-Redump - Microsoft - Xbox 360",
             "Unofficial - Microsoft - Xbox 360 (Title Updates)"
+        ],
+        "local": [
+            "Microsoft Xbox 360"
         ]
     },
     "Microsoft Xbox One": {
         "files": [
             "Microsoft - Xbox One (Digital)"
+        ],
+        "local": [
+            "Microsoft Xbox One"
         ]
     },
     "Mobile Palm OS": {
@@ -344,11 +485,17 @@
     "NEC PC Engine - TurboGrafx 16": {
         "files": [
             "NEC - PC Engine - TurboGrafx 16"
+        ],
+        "local": [
+            "NEC PC-Engine & TurboGrafx-16"
         ]
     },
     "NEC PC Engine SuperGrafx": {
         "files": [
             "NEC - PC Engine SuperGrafx"
+        ],
+        "local": [
+            "NEC PC Engine SuperGrafx"
         ]
     },
     "NEC PC-88": {
@@ -367,12 +514,18 @@
     "Nichibutsu My Vision": {
         "files": [
             "Nichibutsu - My Vision"
+        ],
+        "local": [
+            "Nichibutsu My Vision"
         ]
     },
     "Nintendo Family Computer Disk System": {
         "files": [
             "Nintendo - Family Computer Disk System (FDS)",
             "Nintendo - Family Computer Disk System (QD)"
+        ],
+        "local": [
+            "Nintendo Famicom"
         ]
     },
     "Nintendo Family Computer Network System": {
@@ -383,11 +536,17 @@
     "Nintendo Game & Watch": {
         "files": [
             "Nintendo - Game & Watch"
+        ],
+        "local": [
+            "Nintendo Game & Watch"
         ]
     },
     "Nintendo Game Boy": {
         "files": [
             "Nintendo - Game Boy"
+        ],
+        "local": [
+            "Nintendo Game Boy"
         ]
     },
     "Nintendo Game Boy Advance": {
@@ -395,12 +554,18 @@
             "Nintendo - Game Boy Advance",
             "Nintendo - Game Boy Advance (Multiboot)",
             "Source Code - Nintendo - Game Boy Advance"
+        ],
+        "local": [
+            "Nintendo Game Boy Advance"
         ]
     },
     "Nintendo Game Boy Color": {
         "files": [
             "Nintendo - Game Boy Color",
             "Source Code - Nintendo - Nintendo - Game Boy Color"
+        ],
+        "local": [
+            "Nintendo Game Boy Color"
         ]
     },
     "Nintendo Kiosk Video Compact Flash": {
@@ -424,6 +589,9 @@
             "Nintendo - New Nintendo 3DS (Decrypted)",
             "Nintendo - New Nintendo 3DS (Digital) (Deprecated)",
             "Nintendo - New Nintendo 3DS (Encrypted)"
+        ],
+        "local": [
+            "Nintendo 3DS"
         ]
     },
     "Nintendo Nintendo 3DS": {
@@ -484,32 +652,50 @@
     "Nintendo Play-Yan": {
         "files": [
             "Nintendo - Play-Yan"
+        ],
+        "local": [
+            "Nintendo Play-Yan"
         ]
     },
     "Nintendo Pokemon Mini": {
         "files": [
             "Nintendo - Pokemon Mini"
+        ],
+        "local": [
+            "Nintendo Pokemon Mini"
         ]
     },
     "Nintendo Satellaview": {
         "files": [
             "Nintendo - Satellaview"
+        ],
+        "local": [
+            "Nintendo Satellaview"
         ]
     },
     "Nintendo Sufami Turbo": {
         "files": [
             "Nintendo - Sufami Turbo"
+        ],
+        "local": [
+            "Nintendo Sufami Turbo"
         ]
     },
     "Nintendo Super Nintendo Entertainment System": {
         "files": [
             "Nintendo - Super Nintendo Entertainment System",
             "Source Code - Nintendo - Super Nintendo Entertainment System"
+        ],
+        "local": [
+            "Nintendo Super Nintendo Entertainment System"
         ]
     },
     "Nintendo Virtual Boy": {
         "files": [
             "Nintendo - Virtual Boy"
+        ],
+        "local": [
+            "Nintendo Virtual Boy"
         ]
     },
     "Nintendo Wii": {
@@ -518,6 +704,9 @@
             "Non-Redump - Nintendo - Wii",
             "Unofficial - Nintendo - Wii (Digital) (Deprecated) (WAD)",
             "Unofficial - Nintendo - Wii (Digital) (Split DLC) (Deprecated) (WAD)"
+        ],
+        "local": [
+            "Nintendo Wii"
         ]
     },
     "Nintendo Wii U": {
@@ -526,6 +715,9 @@
             "Nintendo - Wii U (Digital) (CDN) (Dev)",
             "Nintendo - Wii U (Digital) (CDN) (Lotcheck)",
             "Unofficial - Nintendo - Wii U (Digital) (Deprecated)"
+        ],
+        "local": [
+            "Nintendo Wii U"
         ]
     },
     "Nintendo amiibo": {
@@ -536,11 +728,17 @@
     "Nintendo e-Reader": {
         "files": [
             "Nintendo - e-Reader"
+        ],
+        "local": [
+            "Nintendo e-Reader"
         ]
     },
     "Nokia N-Gage": {
         "files": [
             "Nokia - N-Gage (WIP)"
+        ],
+        "local": [
+            "Nokia N-Gage"
         ]
     },
     "IBM PC Compatible": {
@@ -552,11 +750,17 @@
     "Philips CD-i": {
         "files": [
             "Non-Redump - Philips - CD-i"
+        ],
+        "local": [
+            "Philips CD-i"
         ]
     },
     "Sega Dreamcast": {
         "files": [
             "Non-Redump - Sega - Dreamcast"
+        ],
+        "local": [
+            "Sega Dreamcast"
         ]
     },
     "Sega Sega Mega CD + Sega CD": {
@@ -583,6 +787,9 @@
             "Unofficial - Sony - PlayStation Portable (PSX2PSP)",
             "Unofficial - Sony - PlayStation Portable (UMD Music)",
             "Unofficial - Sony - PlayStation Portable (UMD Video)"
+        ],
+        "local": [
+            "Sony Playstation Portable"
         ]
     },
     "Ouya Ouya": {
@@ -593,56 +800,89 @@
     "Philips Videopac+": {
         "files": [
             "Philips - Videopac+"
+        ],
+        "local": [
+            "Philips Videopac+"
         ]
     },
     "RCA Studio II": {
         "files": [
             "RCA - Studio II"
+        ],
+        "local": [
+            "RCA Studio II"
         ]
     },
     "SNK Neo Geo Pocket": {
         "files": [
             "SNK - Neo Geo Pocket"
+        ],
+        "local": [
+            "SNK Neo Geo Pocket"
         ]
     },
     "SNK Neo Geo Pocket Color": {
         "files": [
             "SNK - Neo Geo Pocket Color"
+        ],
+        "local": [
+            "SNK Neo Geo Pocket Color"
         ]
     },
     "Sega 32X": {
         "files": [
             "Sega - 32X"
+        ],
+        "local": [
+            "Sega 32X"
         ]
     },
     "Sega Beena": {
         "files": [
             "Sega - Beena"
+        ],
+        "local": [
+            "Sega Beena"
         ]
     },
     "Sega Game Gear": {
         "files": [
             "Sega - Game Gear"
+        ],
+        "local": [
+            "Sega Game Gear"
         ]
     },
     "Sega Master System - Mark III": {
         "files": [
             "Sega - Master System - Mark III"
+        ],
+        "local": [
+            "Sega Mark III & Master System"
         ]
     },
     "Sega Mega Drive - Genesis": {
         "files": [
             "Sega - Mega Drive - Genesis"
+        ],
+        "local": [
+            "Sega Genesis"
         ]
     },
     "Sega PICO": {
         "files": [
             "Sega - PICO"
+        ],
+        "local": [
+            "Sega Pico"
         ]
     },
     "Sega SG-1000": {
         "files": [
             "Sega - SG-1000"
+        ],
+        "local": [
+            "Sega SG-1000"
         ]
     },
     "Seta Aleck64": {
@@ -654,16 +894,25 @@
     "Sharp X1": {
         "files": [
             "Sharp - X1 (Waveform)"
+        ],
+        "local": [
+            "Sharp X1"
         ]
     },
     "Sharp X68000": {
         "files": [
             "Sharp - X68000 (Flux)"
+        ],
+        "local": [
+            "Sharp X68000"
         ]
     },
     "Sinclair ZX Spectrum +3": {
         "files": [
             "Sinclair - ZX Spectrum +3"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum +3"
         ]
     },
     "Sony PlayStation 3": {
@@ -671,6 +920,9 @@
             "Sony - PlayStation 3 (PSN) (Content)",
             "Sony - PlayStation 3 (PSN) (Updates)",
             "Unofficial - Sony - PlayStation 3 (PSN) (Decrypted)"
+        ],
+        "local": [
+            "Sony Playstation 3"
         ]
     },
     "Sony PlayStation Mobile": {
@@ -687,11 +939,17 @@
             "Unofficial - Sony - PlayStation Vita (PSN) (Decrypted)",
             "Unofficial - Sony - PlayStation Vita (PSVgameSD)",
             "Unofficial - Sony - PlayStation Vita (VPK)"
+        ],
+        "local": [
+            "Sony Playstation Vita"
         ]
     },
     "Tiger Game.com": {
         "files": [
             "Tiger - Game.com"
+        ],
+        "local": [
+            "Tiger Electronics Game.com"
         ]
     },
     "Toshiba Pasopia": {
@@ -703,26 +961,41 @@
     "Toshiba Visicom": {
         "files": [
             "Toshiba - Visicom"
+        ],
+        "local": [
+            "Toshiba Visicom"
         ]
     },
     "Sony PlayStation 4": {
         "files": [
             "Unofficial - Sony - PlayStation 4 (PSN)"
+        ],
+        "local": [
+            "Sony Playstation 4"
         ]
     },
     "VTech CreatiVision": {
         "files": [
             "VTech - CreatiVision"
+        ],
+        "local": [
+            "VTech Creativision"
         ]
     },
     "VTech V.Smile": {
         "files": [
             "VTech - V.Smile"
+        ],
+        "local": [
+            "VTech V.Smile"
         ]
     },
     "Watara Supervision": {
         "files": [
             "Watara - Supervision"
+        ],
+        "local": [
+            "Watara Supervision"
         ]
     },
     "Welback Mega Duck": {
@@ -733,6 +1006,9 @@
     "Yamaha Copera": {
         "files": [
             "Yamaha - Copera"
+        ],
+        "local": [
+            "Yamaha Copera"
         ]
     },
     "Zeebo Zeebo": {

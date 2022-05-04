@@ -9,17 +9,26 @@
             "ACT Apricot PC-Xi - Demos",
             "ACT Apricot PC-Xi - Games",
             "ACT Apricot PC-Xi - Operating Systems"
+        ],
+        "local": [
+            "ACT Apricot PC-Xi"
         ]
     },
     "AEG Olympia Olytext 20": {
         "files": [
             "AEG Olympia Olytext 20 - Firmware"
+        ],
+        "local": [
+            "AEG Olympia Olytext 20"
         ]
     },
     "AMPRO Computers LittleBoard Z80": {
         "files": [
             "AMPRO Computers LittleBoard Z80 - Applications",
             "AMPRO Computers LittleBoard Z80 - System"
+        ],
+        "local": [
+            "AMPRO Computers LittleBoard Z80"
         ]
     },
     "APF Imagination Machine": {
@@ -30,6 +39,9 @@
             "APF Imagination Machine - Demos",
             "APF Imagination Machine - Educational",
             "APF Imagination Machine - Games"
+        ],
+        "local": [
+            "APF Imagination Machine"
         ]
     },
     "APF M-1000": {
@@ -38,11 +50,17 @@
             "APF M-1000 - Compilations - Games",
             "APF M-1000 - Demos",
             "APF M-1000 - Games"
+        ],
+        "local": [
+            "APF Imagination Machine"
         ]
     },
     "AT&T 3B20": {
         "files": [
             "AT&T 3B20 - Applications"
+        ],
+        "local": [
+            "AT&T 3B20"
         ]
     },
     "Acorn Archimedes": {
@@ -63,6 +81,9 @@
             "Acorn Archimedes - CD - Applications",
             "Acorn Archimedes - CD - Compilations",
             "Acorn Archimedes - CD - Coverdiscs"
+        ],
+        "local": [
+            "Acorn Archimedes"
         ]
     },
     "Acorn Atom": {
@@ -75,6 +96,9 @@
             "Acorn Atom - Games - [TAP]",
             "Acorn Atom - Games - [UEF]",
             "Acorn Atom - Games - [WAV]"
+        ],
+        "local": [
+            "Acorn Atom"
         ]
     },
     "Acorn BBC": {
@@ -110,6 +134,9 @@
             "Acorn BBC - Multimedia - [SSD]",
             "Acorn BBC - Multimedia - [UEF]",
             "Acorn BBC - Operating Systems"
+        ],
+        "local": [
+            "Acorn BBC"
         ]
     },
     "Acorn Electron": {
@@ -127,11 +154,17 @@
             "Acorn Electron - Games - [UEF]",
             "Acorn Electron - Multimedia",
             "Acorn Electron - Operating Systems"
+        ],
+        "local": [
+            "Acorn Electron"
         ]
     },
     "Acorn FileStore E01": {
         "files": [
             "Acorn FileStore E01 - System"
+        ],
+        "local": [
+            "Acorn FileStore E01"
         ]
     },
     "Advanced Computer Design PDQ-3": {
@@ -140,33 +173,51 @@
             "Advanced Computer Design PDQ-3 - Compilations - Games",
             "Advanced Computer Design PDQ-3 - System",
             "Advanced Computer Design PDQ-3 - Various"
+        ],
+        "local": [
+            "Advanced Computer Design PDQ-3"
         ]
     },
     "AlphaSmart Pro": {
         "files": [
             "AlphaSmart Pro - Firmware"
+        ],
+        "local": [
+            "AlphaSmart Pro"
         ]
     },
     "Alspa Computers ALSPA": {
         "files": [
             "Alspa Computers ALSPA - Operating Systems"
+        ],
+        "local": [
+            "Alspa Computers ALSPA"
         ]
     },
     "Altos Computer Systems ACS-186, 586, 686 & 986": {
         "files": [
             "Altos Computer Systems ACS-186, 586, 686 & 986 - Applications",
             "Altos Computer Systems ACS-186, 586, 686 & 986 - Operating Systems"
+        ],
+        "local": [
+            "Altos Computer Systems ACS-186, 586, 686 & 986"
         ]
     },
     "Altos Computer Systems ACS-8000": {
         "files": [
             "Altos Computer Systems ACS-8000 - Applications"
+        ],
+        "local": [
+            "Altos Computer Systems ACS-8000"
         ]
     },
     "Altos Computer Systems ACS-8600": {
         "files": [
             "Altos Computer Systems ACS-8600 - Applications",
             "Altos Computer Systems ACS-8600 - Operating Systems"
+        ],
+        "local": [
+            "Altos Computer Systems ACS-8600"
         ]
     },
     "Altos Computer Systems Series 5": {
@@ -176,6 +227,9 @@
             "Altos Computer Systems Series 5 - Firmware",
             "Altos Computer Systems Series 5 - Operating Systems - [IMD]",
             "Altos Computer Systems Series 5 - Operating Systems - [TD0]"
+        ],
+        "local": [
+            "Altos Computer Systems Series 5"
         ]
     },
     "Amstrad CPC": {
@@ -192,12 +246,18 @@
             "Amstrad CPC - Games - [DSK]",
             "Amstrad CPC - Operating Systems - [BIN]",
             "Amstrad CPC - Operating Systems - [DSK]"
+        ],
+        "local": [
+            "Amstrad CPC"
         ]
     },
     "Amstrad GX4000": {
         "files": [
             "Amstrad GX4000 - Demos",
             "Amstrad GX4000 - Games"
+        ],
+        "local": [
+            "Amstrad GX4000"
         ]
     },
     "Amstrad NC-100": {
@@ -213,6 +273,9 @@
     "Amstrad PCW": {
         "files": [
             "Amstrad PCW - Applications"
+        ],
+        "local": [
+            "Amstrad PCW"
         ]
     },
     "Analogue Mega Sg": {
@@ -234,6 +297,9 @@
         "files": [
             "Apple 1 - Applications",
             "Apple 1 - Games"
+        ],
+        "local": [
+            "Apple 1"
         ]
     },
     "Apple II": {
@@ -322,6 +388,9 @@
             "Apple II - Samplers - [DSK]",
             "Apple II - Sources - [2MG]",
             "Apple II - Sources - [DSK]"
+        ],
+        "local": [
+            "Apple II"
         ]
     },
     "Apple IIGS": {
@@ -335,6 +404,9 @@
             "Apple IIGS - Games",
             "Apple IIGS - Operating Systems",
             "Apple IIGS - Sources"
+        ],
+        "local": [
+            "Apple IIGS"
         ]
     },
     "Apple III": {
@@ -343,11 +415,17 @@
             "Apple III - Applications - [PO]",
             "Apple III - Collections - WAP III SIG Public Domain Library",
             "Apple III - Operating Systems"
+        ],
+        "local": [
+            "Apple III"
         ]
     },
     "Apple Lisa": {
         "files": [
             "Apple Lisa - Applications"
+        ],
+        "local": [
+            "Apple Lisa"
         ]
     },
     "Apple Macintosh": {
@@ -366,6 +444,9 @@
             "Apple Macintosh - CD - Educational",
             "Apple Macintosh - CD - Games",
             "Apple Macintosh - CD - Multimedia"
+        ],
+        "local": [
+            "Apple Macintosh"
         ]
     },
     "Applied Technology MicroBee": {
@@ -374,11 +455,17 @@
             "Applied Technology MicroBee - Educational",
             "Applied Technology MicroBee - Games",
             "Applied Technology MicroBee - Operating Systems"
+        ],
+        "local": [
+            "Applied Technology MicroBee"
         ]
     },
     "Aquaplus P-ECE": {
         "files": [
             "Aquaplus P-ECE - Games"
+        ],
+        "local": [
+            "Aquaplus P-ECE"
         ]
     },
     "Atari 2600 & VCS": {
@@ -387,6 +474,9 @@
             "Atari 2600 & VCS - Demos",
             "Atari 2600 & VCS - Educational",
             "Atari 2600 & VCS - Games"
+        ],
+        "local": [
+            "Atari 2600"
         ]
     },
     "Atari 5200": {
@@ -395,6 +485,9 @@
             "Atari 5200 - Demos",
             "Atari 5200 - Firmware",
             "Atari 5200 - Games"
+        ],
+        "local": [
+            "Atari 5200"
         ]
     },
     "Atari 7800": {
@@ -402,6 +495,9 @@
             "Atari 7800 - Applications",
             "Atari 7800 - Firmware",
             "Atari 7800 - Games"
+        ],
+        "local": [
+            "Atari 7800"
         ]
     },
     "Atari 8bit": {
@@ -446,6 +542,9 @@
             "Atari 8bit - Sources - [ASM]",
             "Atari 8bit - Sources - [ATR]",
             "Atari 8bit - Sources - [CAS]"
+        ],
+        "local": [
+            "Atari 8bit"
         ]
     },
     "Atari Jaguar": {
@@ -467,6 +566,9 @@
             "Atari Jaguar - Games - [JAG]",
             "Atari Jaguar - Games - [Multipart]",
             "Atari Jaguar - Games - [ROM]"
+        ],
+        "local": [
+            "Atari Jaguar"
         ]
     },
     "Atari Lynx": {
@@ -475,6 +577,9 @@
             "Atari Lynx - Demos",
             "Atari Lynx - Firmware",
             "Atari Lynx - Games"
+        ],
+        "local": [
+            "Atari Lynx"
         ]
     },
     "Atari ST": {
@@ -521,6 +626,9 @@
             "Atari ST - Online Magazines",
             "Atari ST - Operating Systems - [IMG]",
             "Atari ST - Operating Systems - [ST]"
+        ],
+        "local": [
+            "Atari ST"
         ]
     },
     "BGR Computers Excalibur 64": {
@@ -552,6 +660,9 @@
             "Bally Professional Arcade & Astrocade - Games - [WAV]",
             "Bally Professional Arcade & Astrocade - Various - [PRG]",
             "Bally Professional Arcade & Astrocade - Various - [WAV]"
+        ],
+        "local": [
+            "Bally Professional Arcade & Astrocade"
         ]
     },
     "Bandai Design Master Denshi Mangajuku": {
@@ -568,6 +679,9 @@
     "Bandai Super Vision 8000": {
         "files": [
             "Bandai Super Vision 8000 - Games"
+        ],
+        "local": [
+            "Bandai Super Vision 8000"
         ]
     },
     "Bandai WonderSwan": {
@@ -576,6 +690,9 @@
             "Bandai WonderSwan - Demos",
             "Bandai WonderSwan - Firmware",
             "Bandai WonderSwan - Games"
+        ],
+        "local": [
+            "Bandai WonderSwan"
         ]
     },
     "Bandai WonderSwan Color": {
@@ -584,16 +701,25 @@
             "Bandai WonderSwan Color - Demos",
             "Bandai WonderSwan Color - Firmware",
             "Bandai WonderSwan Color - Games"
+        ],
+        "local": [
+            "Bandai WonderSwan Color"
         ]
     },
     "Benesse Pocket Challenge V2": {
         "files": [
             "Benesse Pocket Challenge V2 - Educational"
+        ],
+        "local": [
+            "Benesse Pocket Challenge V2"
         ]
     },
     "Benesse Pocket Challenge W": {
         "files": [
             "Benesse Pocket Challenge W - Educational"
+        ],
+        "local": [
+            "Benesse Pocket Challenge W"
         ]
     },
     "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC": {
@@ -615,17 +741,26 @@
         "files": [
             "Bit Corporation Gamate - Compilations - Games",
             "Bit Corporation Gamate - Games"
+        ],
+        "local": [
+            "Bit Corporation Gamate"
         ]
     },
     "Bondwell 12": {
         "files": [
             "Bondwell 12 - Operating Systems"
+        ],
+        "local": [
+            "Bondwell 12"
         ]
     },
     "Bondwell 14": {
         "files": [
             "Bondwell 14 - Applications",
             "Bondwell 14 - Operating Systems"
+        ],
+        "local": [
+            "Bondwell 14"
         ]
     },
     "Bondwell 2": {
@@ -634,11 +769,17 @@
             "Bondwell 2 - Applications - [TD0]",
             "Bondwell 2 - Operating Systems - [IMD]",
             "Bondwell 2 - Operating Systems - [TD0]"
+        ],
+        "local": [
+            "Bondwell 2"
         ]
     },
     "Burroughs B1000 Series": {
         "files": [
             "Burroughs B1000 Series - Various"
+        ],
+        "local": [
+            "Burroughs B1000 Series"
         ]
     },
     "Burroughs B20": {
@@ -651,6 +792,9 @@
         "files": [
             "CCE MC-1000 - Demos",
             "CCE MC-1000 - Games"
+        ],
+        "local": [
+            "CCE MC-1000"
         ]
     },
     "COMX COMX-35": {
@@ -675,11 +819,17 @@
             "Camputers Lynx - Educational",
             "Camputers Lynx - Games",
             "Camputers Lynx - Operating Systems"
+        ],
+        "local": [
+            "Camputers Lynx"
         ]
     },
     "Casio CFX-9850": {
         "files": [
             "Casio CFX-9850 - Various"
+        ],
+        "local": [
+            "Casio CFX-9850"
         ]
     },
     "Casio FP-1000 & FP-1100": {
@@ -692,23 +842,35 @@
             "Casio Loopy - Firmware",
             "Casio Loopy - Games - Multipart",
             "Casio Loopy - Games - [BIN]"
+        ],
+        "local": [
+            "Casio Loopy"
         ]
     },
     "Casio PB-1000": {
         "files": [
             "Casio PB-1000 - Applications",
             "Casio PB-1000 - Games"
+        ],
+        "local": [
+            "Casio PB-1000"
         ]
     },
     "Casio PV-1000": {
         "files": [
             "Casio PV-1000 - Games"
+        ],
+        "local": [
+            "Casio PV-1000"
         ]
     },
     "Casio PV-2000": {
         "files": [
             "Casio PV-2000 - Firmware",
             "Casio PV-2000 - Games"
+        ],
+        "local": [
+            "Casio PV-2000"
         ]
     },
     "Coleco ColecoVision": {
@@ -718,6 +880,9 @@
             "Coleco ColecoVision - Educational",
             "Coleco ColecoVision - Firmware",
             "Coleco ColecoVision - Games"
+        ],
+        "local": [
+            "Coleco ColecoVision"
         ]
     },
     "Coleco ColecoVision ADAM": {
@@ -746,6 +911,9 @@
             "Coleco ColecoVision ADAM - Miscellaneous - [DDP]",
             "Coleco ColecoVision ADAM - Operating Systems - [DSK]",
             "Coleco ColecoVision ADAM - Operating Systems - [LBR]"
+        ],
+        "local": [
+            "Coleco ADAM"
         ]
     },
     "Commodore Amiga": {
@@ -828,12 +996,18 @@
             "Commodore Amiga - CD - Operating Systems - [BIN]",
             "Commodore Amiga - CD - Operating Systems - [IMG]",
             "Commodore Amiga - CD - Operating Systems - [ISO]"
+        ],
+        "local": [
+            "Commodore Amiga"
         ]
     },
     "Commodore BX256-80HP": {
         "files": [
             "Commodore BX256-80HP - Applications",
             "Commodore BX256-80HP - Operating Systems"
+        ],
+        "local": [
+            "Commodore BX256-80HP"
         ]
     },
     "Commodore C128": {
@@ -895,6 +1069,9 @@
             "Commodore C128 - Operating Systems - [D64]",
             "Commodore C128 - Operating Systems - [D71]",
             "Commodore C128 - Operating Systems - [D81]"
+        ],
+        "local": [
+            "Commodore C128"
         ]
     },
     "Commodore C16, C116 & Plus-4": {
@@ -918,6 +1095,9 @@
             "Commodore C16, C116 & Plus-4 - Utilities - [PRG]",
             "Commodore C16, C116 & Plus-4 - Utilities - [TAP]",
             "Commodore C16, C116 & Plus-4 - Utilities - [Z64]"
+        ],
+        "local": [
+            "Commodore Plus-4 - C16 - C116"
         ]
     },
     "Commodore C64": {
@@ -1191,6 +1371,10 @@
             "Commodore C64 - Public Domain - [Z64]",
             "Commodore C64 - Sources",
             "Commodore C64 - CD - Compilations - [ISO]"
+        ],
+        "local": [
+            "Commodore 64",
+            "Commodore C64"
         ]
     },
     "Commodore C64DTV": {
@@ -1204,6 +1388,9 @@
             "Commodore C64DTV - Games - [D64]",
             "Commodore C64DTV - Games - [PRG]",
             "Commodore C64DTV - Games - [T64]"
+        ],
+        "local": [
+            "Commodore C64DTV"
         ]
     },
     "Commodore C65": {
@@ -1211,11 +1398,17 @@
             "Commodore C65 - Applications",
             "Commodore C65 - Demos",
             "Commodore C65 - Firmware"
+        ],
+        "local": [
+            "Commodore C65"
         ]
     },
     "Commodore MAX Machine & VIC10": {
         "files": [
             "Commodore MAX Machine & VIC10 - Games"
+        ],
+        "local": [
+            "Commodore MAX Machine"
         ]
     },
     "Commodore PET": {
@@ -1226,6 +1419,9 @@
             "Commodore PET - Firmware - Kernal",
             "Commodore PET - Games - [D64]",
             "Commodore PET - Games - [PRG]"
+        ],
+        "local": [
+            "Commodore PET"
         ]
     },
     "Commodore VIC20": {
@@ -1258,17 +1454,26 @@
             "Commodore VIC20 - Magazines - [D64]",
             "Commodore VIC20 - Magazines - [D81]",
             "Commodore VIC20 - Magazines - [TAP]"
+        ],
+        "local": [
+            "Commodore VIC-20"
         ]
     },
     "Compugraphic MCS-10": {
         "files": [
             "Compugraphic MCS-10 - Applications"
+        ],
+        "local": [
+            "Compugraphic MCS-10"
         ]
     },
     "Control Data Corporation CDC110": {
         "files": [
             "Control Data Corporation CDC110 - Applications",
             "Control Data Corporation CDC110 - Operating Systems"
+        ],
+        "local": [
+            "Control Data Corporation CDC110"
         ]
     },
     "Convergent Technologies AWS NGEN Workstation": {
@@ -1285,16 +1490,25 @@
             "Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMD]",
             "Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMG]",
             "Convergent Technologies AWS NGEN Workstation - Operating Systems - [RAW]"
+        ],
+        "local": [
+            "Convergent Technologies AWS NGEN Workstation"
         ]
     },
     "Convergent Technologies MiniFrame": {
         "files": [
             "Convergent Technologies MiniFrame - Applications"
+        ],
+        "local": [
+            "Convergent Technologies MiniFrame"
         ]
     },
     "Creatronic Mega Duck & Cougar Boy": {
         "files": [
             "Creatronic Mega Duck & Cougar Boy - Games"
+        ],
+        "local": [
+            "Creatronic Mega Duck & Cougar Boy"
         ]
     },
     "Cybiko Cybiko": {
@@ -1303,21 +1517,33 @@
             "Cybiko Cybiko - Demos",
             "Cybiko Cybiko - Educational",
             "Cybiko Cybiko - Games"
+        ],
+        "local": [
+            "Cybiko Cybiko"
         ]
     },
     "Cybiko Xtreme": {
         "files": [
             "Cybiko Xtreme - Games"
+        ],
+        "local": [
+            "Cybiko Xtreme"
         ]
     },
     "DEC AlphaServer": {
         "files": [
             "DEC AlphaServer - System"
+        ],
+        "local": [
+            "DEC AlphaServer"
         ]
     },
     "DEC DECPx AXP 150": {
         "files": [
             "DEC DECPx AXP 150 - System"
+        ],
+        "local": [
+            "DEC DECPx AXP 150"
         ]
     },
     "DEC PDP-1": {
@@ -1328,12 +1554,18 @@
             "DEC PDP-1 - Demos - [RIM]",
             "DEC PDP-1 - Games - [MAC]",
             "DEC PDP-1 - Games - [RIM]"
+        ],
+        "local": [
+            "DEC PDP-1"
         ]
     },
     "DEC PDP-10": {
         "files": [
             "DEC PDP-10 - Collections - DEC",
             "DEC PDP-10 - Collections - MainDEC"
+        ],
+        "local": [
+            "DEC PDP-10"
         ]
     },
     "DEC PDP-11": {
@@ -1341,24 +1573,36 @@
             "DEC PDP-11 - Collections - DEC",
             "DEC PDP-11 - Collections - MainDEC",
             "DEC PDP-11 - Games"
+        ],
+        "local": [
+            "DEC PDP-11"
         ]
     },
     "DEC PDP-12": {
         "files": [
             "DEC PDP-12 - Collections - MainDEC - [BIN]",
             "DEC PDP-12 - Collections - MainDEC - [PTP]"
+        ],
+        "local": [
+            "DEC PDP-12"
         ]
     },
     "DEC PDP-15": {
         "files": [
             "DEC PDP-15 - Collections - DEC",
             "DEC PDP-15 - Collections - MainDEC"
+        ],
+        "local": [
+            "DEC PDP-15"
         ]
     },
     "DEC PDP-7": {
         "files": [
             "DEC PDP-7 - Collections - Digital - [BIN]",
             "DEC PDP-7 - Collections - Digital - [TXT]"
+        ],
+        "local": [
+            "DEC PDP-7"
         ]
     },
     "DEC PDP-8": {
@@ -1383,23 +1627,35 @@
             "DEC PDP-8 - Operating Systems - [BIN]",
             "DEC PDP-8 - Operating Systems - [RX1]",
             "DEC PDP-8 - Operating Systems - [TU6]"
+        ],
+        "local": [
+            "DEC PDP-8"
         ]
     },
     "DEC PDP-9": {
         "files": [
             "DEC PDP-9 - Collections - DEC"
+        ],
+        "local": [
+            "DEC PDP-9"
         ]
     },
     "DEC Rainbow 100": {
         "files": [
             "DEC Rainbow 100 - Applications",
             "DEC Rainbow 100 - Operating Systems"
+        ],
+        "local": [
+            "DEC Rainbow 100"
         ]
     },
     "DEC VT-180": {
         "files": [
             "DEC VT-180 - Applications",
             "DEC VT-180 - Operating Systems"
+        ],
+        "local": [
+            "DEC VT-180"
         ]
     },
     "Data Applications International DAI Personal Computer": {
@@ -1421,6 +1677,9 @@
     "Didact Esselte 100": {
         "files": [
             "Didact Esselte 100 - Demos"
+        ],
+        "local": [
+            "Didact Esselte 100"
         ]
     },
     "Digital Electronics DIGIAC 3080": {
@@ -1442,6 +1701,9 @@
             "Dragon Data Dragon - Games - [PAK]",
             "Dragon Data Dragon - Games - [VDK]",
             "Dragon Data Dragon - Operating Systems"
+        ],
+        "local": [
+            "Dragon Data Dragon"
         ]
     },
     "Dragon Data Dragon Alpha": {
@@ -1449,6 +1711,9 @@
             "Dragon Data Dragon Alpha - Applications",
             "Dragon Data Dragon Alpha - Demos",
             "Dragon Data Dragon Alpha - Operating Systems"
+        ],
+        "local": [
+            "Dragon Data Dragon"
         ]
     },
     "Dragon Data Dragon Beta": {
@@ -1456,6 +1721,9 @@
             "Dragon Data Dragon Beta - Applications",
             "Dragon Data Dragon Beta - Demos",
             "Dragon Data Dragon Beta - Operating Systems"
+        ],
+        "local": [
+            "Dragon Data Dragon"
         ]
     },
     "EACA EG2000 Colour Genie": {
@@ -1475,21 +1743,33 @@
             "EACA EG2000 Colour Genie - Games - [CMD]",
             "EACA EG2000 Colour Genie - Source",
             "EACA EG2000 Colour Genie - Unknown"
+        ],
+        "local": [
+            "EACA EG2000 Colour Genie"
         ]
     },
     "ETL Mark II": {
         "files": [
             "ETL Mark II - Applications"
+        ],
+        "local": [
+            "ETL Mark II"
         ]
     },
     "ETL Mark IV": {
         "files": [
             "ETL Mark IV - Applications"
+        ],
+        "local": [
+            "ETL Mark IV"
         ]
     },
     "ETL Mark IV A": {
         "files": [
             "ETL Mark IV A - Applications"
+        ],
+        "local": [
+            "ETL Mark IV A"
         ]
     },
     "Electronics Australia EDUC-8": {
@@ -1505,11 +1785,17 @@
             "Elektronika BK-0010-0011M - Demos",
             "Elektronika BK-0010-0011M - Games",
             "Elektronika BK-0010-0011M - Operating Systems"
+        ],
+        "local": [
+            "Elektronika BK-0010-0011M"
         ]
     },
     "Elektronika BK-0011-411": {
         "files": [
             "Elektronika BK-0011-411 - Games"
+        ],
+        "local": [
+            "Elektronika BK-0011-411"
         ]
     },
     "Elektronska Industrija Nis PECOM 32 & 64": {
@@ -1517,6 +1803,9 @@
             "Elektronska Industrija Nis PECOM 32 & 64 - Games - [HEX]",
             "Elektronska Industrija Nis PECOM 32 & 64 - Games - [WAV]",
             "Elektronska Industrija Nis PECOM 32 & 64 - Various"
+        ],
+        "local": [
+            "Elektronska Industrija Nis PECOM 32 & 64"
         ]
     },
     "Emerson Arcadia 2001": {
@@ -1525,6 +1814,9 @@
             "Emerson Arcadia 2001 - Demos",
             "Emerson Arcadia 2001 - Educational",
             "Emerson Arcadia 2001 - Games"
+        ],
+        "local": [
+            "Emerson Arcadia 2001"
         ]
     },
     "Enterprise 64 & 128": {
@@ -1540,18 +1832,27 @@
             "Enterprise 64 & 128 - Games - [Multipart]",
             "Enterprise 64 & 128 - Games - [TAP]",
             "Enterprise 64 & 128 - Operating Systems"
+        ],
+        "local": [
+            "Enterprise 64 & 128"
         ]
     },
     "Entex Adventure Vision": {
         "files": [
             "Entex Adventure Vision - Firmware",
             "Entex Adventure Vision - Games"
+        ],
+        "local": [
+            "Entex Adventure Vision"
         ]
     },
     "Epoch Super Cassette Vision": {
         "files": [
             "Epoch Super Cassette Vision - Firmware",
             "Epoch Super Cassette Vision - Games"
+        ],
+        "local": [
+            "Epoch Super Cassette Vision"
         ]
     },
     "Epson PX-4 & HC-40": {
@@ -1571,11 +1872,17 @@
             "Epson PX-8, HC-88 & Geneva - Firmware - [ROM]",
             "Epson PX-8, HC-88 & Geneva - Games",
             "Epson PX-8, HC-88 & Geneva - Operating Systems"
+        ],
+        "local": [
+            "Epson PX-8, HC-88 & Geneva"
         ]
     },
     "Epson QX-10": {
         "files": [
             "Epson QX-10 - Games"
+        ],
+        "local": [
+            "Epson QX-10"
         ]
     },
     "Ericsson Alfaskop System 41": {
@@ -1606,6 +1913,9 @@
             "Exelvision EXL100 - Games - [ROM]",
             "Exelvision EXL100 - Games - [WAV]",
             "Exelvision EXL100 - Sources"
+        ],
+        "local": [
+            "Exelvision EXL 100"
         ]
     },
     "Exelvision Exeltel": {
@@ -1613,6 +1923,9 @@
             "Exelvision Exeltel - Firmware",
             "Exelvision Exeltel - Games - [BKP]",
             "Exelvision Exeltel - Games - [CRAM]"
+        ],
+        "local": [
+            "Exelvision Exeltel"
         ]
     },
     "Exidy Sorcerer": {
@@ -1630,6 +1943,9 @@
             "Exidy Sorcerer - Games - [WAV]",
             "Exidy Sorcerer - ROMPACs - [BIN]",
             "Exidy Sorcerer - ROMPACs - [ROM]"
+        ],
+        "local": [
+            "Exidy Sorcerer"
         ]
     },
     "Fairchild VES & Channel F": {
@@ -1639,11 +1955,17 @@
             "Fairchild VES & Channel F - Demos",
             "Fairchild VES & Channel F - Firmware",
             "Fairchild VES & Channel F - Games"
+        ],
+        "local": [
+            "Fairchild VES & Channel F"
         ]
     },
     "Fairlight CMI Series III": {
         "files": [
             "Fairlight CMI Series III - System"
+        ],
+        "local": [
+            "Fairlight CMI Series III"
         ]
     },
     "Ferguson Big Board II": {
@@ -1651,21 +1973,33 @@
             "Ferguson Big Board II - Collections - User Disk",
             "Ferguson Big Board II - System",
             "Ferguson Big Board II - Various"
+        ],
+        "local": [
+            "Ferguson Big Board II"
         ]
     },
     "Fidelity Sensory Chess Challenger": {
         "files": [
             "Fidelity Sensory Chess Challenger - Modules"
+        ],
+        "local": [
+            "Fidelity Sensory Chess Challenger"
         ]
     },
     "Front Fareast Magic Drive": {
         "files": [
             "Front Fareast Magic Drive - Firmware"
+        ],
+        "local": [
+            "Front Fareast Magic Drive"
         ]
     },
     "Fuji Photo Film FUJIC": {
         "files": [
             "Fuji Photo Film FUJIC - Applications"
+        ],
+        "local": [
+            "Fuji Photo Film FUJIC"
         ]
     },
     "Fujitsu FM Towns": {
@@ -1686,6 +2020,9 @@
             "Fujitsu FM Towns - CD - Homebrew - Demos",
             "Fujitsu FM Towns - CD - Homebrew - Games",
             "Fujitsu FM Towns - CD - Operating Systems"
+        ],
+        "local": [
+            "Fujitsu FM Towns"
         ]
     },
     "Fujitsu FM-7": {
@@ -1696,6 +2033,9 @@
             "Fujitsu FM-7 - Demos - [T77]",
             "Fujitsu FM-7 - Games - [D77]",
             "Fujitsu FM-7 - Games - [T77]"
+        ],
+        "local": [
+            "Fujitsu FM-7"
         ]
     },
     "Fujitsu FM77-AV": {
@@ -1706,6 +2046,9 @@
             "Fujitsu FM77-AV - Games - [IMD]",
             "Fujitsu FM77-AV - Games - [RAW]",
             "Fujitsu FM77-AV - Games - [TD0]"
+        ],
+        "local": [
+            "Fujitsu FM-77AV"
         ]
     },
     "Fukutake Publishing StudyBox": {
@@ -1717,6 +2060,9 @@
     "Funtech Super A'can": {
         "files": [
             "Funtech Super A'can - Games"
+        ],
+        "local": [
+            "Funtech Super A'Can"
         ]
     },
     "GCE Vectrex": {
@@ -1728,6 +2074,9 @@
             "GCE Vectrex - Demos - Various",
             "GCE Vectrex - Firmware",
             "GCE Vectrex - Games"
+        ],
+        "local": [
+            "GCE Vectrex"
         ]
     },
     "Galaksija Galaksija": {
@@ -1737,12 +2086,18 @@
             "Galaksija Galaksija - Games - [GAL]",
             "Galaksija Galaksija - Games - [GTP]",
             "Galaksija Galaksija - Games - [WAV]"
+        ],
+        "local": [
+            "Galaksija"
         ]
     },
     "Galaksija Galaksija Plus": {
         "files": [
             "Galaksija Galaksija Plus - Games - [GTP]",
             "Galaksija Galaksija Plus - Games - [WAV]"
+        ],
+        "local": [
+            "Galaksija Plus"
         ]
     },
     "Game Park GP32": {
@@ -1751,22 +2106,34 @@
             "Game Park GP32 - Firmware",
             "Game Park GP32 - Games - [FPK]",
             "Game Park GP32 - Games - [SMC]"
+        ],
+        "local": [
+            "GamePark GP32"
         ]
     },
     "Gould K105-D Logic Analyzer": {
         "files": [
             "Gould K105-D Logic Analyzer - Applications",
             "Gould K105-D Logic Analyzer - Operating Systems"
+        ],
+        "local": [
+            "Gould K105-D Logic Analyzer"
         ]
     },
     "Gould K115 Logic Analyzer": {
         "files": [
             "Gould K115 Logic Analyzer - Operating Systems"
+        ],
+        "local": [
+            "Gould K115 Logic Analyzer"
         ]
     },
     "Gould K450 Logic Analyzer": {
         "files": [
             "Gould K450 Logic Analyzer - Operating Systems"
+        ],
+        "local": [
+            "Gould K450 Logic Analyzer"
         ]
     },
     "Grundy NewBrain": {
@@ -1777,50 +2144,77 @@
     "Hanimex Pencil II": {
         "files": [
             "Hanimex Pencil II - Games"
+        ],
+        "local": [
+            "Hanimex Pencil II"
         ]
     },
     "Hartung Game Master": {
         "files": [
             "Hartung Game Master - Firmware",
             "Hartung Game Master - Games"
+        ],
+        "local": [
+            "Hartung Game Master"
         ]
     },
     "Hawthorne Technology TinyGiant 68000 Single Board Computer": {
         "files": [
             "Hawthorne Technology TinyGiant 68000 Single Board Computer - Applications",
             "Hawthorne Technology TinyGiant 68000 Single Board Computer - Operating Systems"
+        ],
+        "local": [
+            "Hawthorne Technology TinyGiant 68000 Single Board Computer"
         ]
     },
     "Hewlett-Packard 16500A": {
         "files": [
             "Hewlett-Packard 16500A - Games"
+        ],
+        "local": [
+            "Hewlett-Packard 16500A"
         ]
     },
     "Hewlett-Packard 4951C & 4952A": {
         "files": [
             "Hewlett-Packard 4951C & 4952A - Applications"
+        ],
+        "local": [
+            "Hewlett-Packard 4951C & 4952A"
         ]
     },
     "Hewlett-Packard HP48": {
         "files": [
             "Hewlett-Packard HP48 - Firmware",
             "Hewlett-Packard HP48 - Various"
+        ],
+        "local": [
+            "Hewlett-Packard HP48"
         ]
     },
     "Hewlett-Packard HP49": {
         "files": [
             "Hewlett-Packard HP49 - Firmware",
             "Hewlett-Packard HP49 - Various"
+        ],
+        "local": [
+            "Hewlett-Packard HP49"
         ]
     },
     "Hewlett-Packard HP85": {
         "files": [
             "Hewlett-Packard HP85 - Option ROMs"
+        ],
+        "local": [
+            "Hewlett-Packard HP85"
         ]
     },
     "Hewlett-Packard HP9835A-B": {
         "files": [
             "Hewlett-Packard HP9835A-B - Option ROMs"
+        ],
+        "local": [
+            "Hewlett-Packard HP9835A-B"
         ]
     },
     "Hitachi S1": {
@@ -1836,6 +2230,9 @@
             "HomeLab BraiLab - Educational",
             "HomeLab BraiLab - Firmware",
             "HomeLab BraiLab - Games"
+        ],
+        "local": [
+            "HomeLab BraiLab"
         ]
     },
     "HomeLab HomeLab": {
@@ -1844,12 +2241,18 @@
             "HomeLab HomeLab - Educational",
             "HomeLab HomeLab - Firmware",
             "HomeLab HomeLab - Games"
+        ],
+        "local": [
+            "HomeLab"
         ]
     },
     "IBM 1620": {
         "files": [
             "IBM 1620 - Games",
             "IBM 1620 - Sources"
+        ],
+        "local": [
+            "IBM 1620"
         ]
     },
     "IBM 3740": {
@@ -1863,6 +2266,9 @@
             "IBM Displaywriter - Educational",
             "IBM Displaywriter - Miscellaneous",
             "IBM Displaywriter - Operating Systems"
+        ],
+        "local": [
+            "IBM Displaywriter"
         ]
     },
     "IBM PC Compatibles": {
@@ -1910,6 +2316,9 @@
             "IBM PC Compatibles - CD - Multimedia",
             "IBM PC Compatibles - CD - Operating Systems",
             "IBM PC Compatibles - CD - Samplers"
+        ],
+        "local": [
+            "IBM PC and Compatibles"
         ]
     },
     "IBM PCjr": {
@@ -1920,23 +2329,35 @@
             "IBM PCjr - Applications - [JRC]",
             "IBM PCjr - Games - [EXE]",
             "IBM PCjr - Games - [JRC]"
+        ],
+        "local": [
+            "IBM PCjr"
         ]
     },
     "IBM System-360": {
         "files": [
             "IBM System-360 - Applications",
             "IBM System-360 - Operating Systems"
+        ],
+        "local": [
+            "IBM System-360"
         ]
     },
     "Infocom Z-Machine": {
         "files": [
             "Infocom Z-Machine - Applications",
             "Infocom Z-Machine - Games"
+        ],
+        "local": [
+            "Infocom Z-Machine"
         ]
     },
     "Intec Interact": {
         "files": [
             "Intec Interact - Games"
+        ],
+        "local": [
+            "Intec Interact"
         ]
     },
     "Interact Family Computer": {
@@ -1944,6 +2365,9 @@
             "Interact Family Computer - Applications",
             "Interact Family Computer - Educational",
             "Interact Family Computer - Games"
+        ],
+        "local": [
+            "Interact Family Computer"
         ]
     },
     "Jupiter Cantab Jupiter Ace": {
@@ -1973,6 +2397,9 @@
             "Jupiter Cantab Jupiter Ace - Sources - [A22]",
             "Jupiter Cantab Jupiter Ace - Sources - [ASM]",
             "Jupiter Cantab Jupiter Ace - Sources - [TXT]"
+        ],
+        "local": [
+            "Jupiter Cantab Jupiter Ace"
         ]
     },
     "Kaypro II": {
@@ -1984,11 +2411,17 @@
             "Kaypro II - Games",
             "Kaypro II - Operating Systems - [IMD]",
             "Kaypro II - Operating Systems - [TD0]"
+        ],
+        "local": [
+            "Kaypro II"
         ]
     },
     "Keio University K-1": {
         "files": [
             "Keio University K-1 - Applications"
+        ],
+        "local": [
+            "Keio University K-1"
         ]
     },
     "Lambda Electronics Lambda 8300": {
@@ -1999,17 +2432,26 @@
     "LeapFrog LeapPad": {
         "files": [
             "LeapFrog LeapPad - Educational"
+        ],
+        "local": [
+            "LeapFrog LeapPad"
         ]
     },
     "LeapFrog Leapster": {
         "files": [
             "LeapFrog Leapster - Demos",
             "LeapFrog Leapster - Educational"
+        ],
+        "local": [
+            "LeapFrog Leapster Learning Game System"
         ]
     },
     "Luxor ABC 1600": {
         "files": [
             "Luxor ABC 1600 - Operating Systems"
+        ],
+        "local": [
+            "Luxor ABC 1600"
         ]
     },
     "Luxor ABC 80": {
@@ -2027,6 +2469,9 @@
             "Luxor ABC 80 - Games - [IHX]",
             "Luxor ABC 80 - System - [IMG]",
             "Luxor ABC 80 - System - [TD0]"
+        ],
+        "local": [
+            "Luxor ABC 80"
         ]
     },
     "Luxor ABC 800": {
@@ -2044,18 +2489,27 @@
             "Luxor ABC 800 - Games - [DSK]",
             "Luxor ABC 800 - Games - [IHX]",
             "Luxor ABC 800 - Operating Systems - [TD0]"
+        ],
+        "local": [
+            "Luxor ABC 800"
         ]
     },
     "Luxor ABC 806": {
         "files": [
             "Luxor ABC 806 - Applications",
             "Luxor ABC 806 - Operating Systems"
+        ],
+        "local": [
+            "Luxor ABC 806"
         ]
     },
     "Luxor Video Entertainment System": {
         "files": [
             "Luxor Video Entertainment System - Firmware",
             "Luxor Video Entertainment System - Games"
+        ],
+        "local": [
+            "Luxor Video Entertainment System"
         ]
     },
     "MEGA MEGA65": {
@@ -2077,6 +2531,9 @@
             "MGT Sam Coupe - Games - [SDF]",
             "MGT Sam Coupe - Magazines - [DSK]",
             "MGT Sam Coupe - Magazines - [SAD]"
+        ],
+        "local": [
+            "MGT Sam Coupe"
         ]
     },
     "MITS Altair 8800": {
@@ -2096,6 +2553,9 @@
             "MITS Altair 8800 - Various - [BIN]",
             "MITS Altair 8800 - Various - [DSK]",
             "MITS Altair 8800 - Various - [HEX]"
+        ],
+        "local": [
+            "MITS Altair 8800"
         ]
     },
     "MSX MSX": {
@@ -2118,6 +2578,9 @@
             "MSX MSX - Games - [ROM]",
             "MSX MSX - Magazines - [CAS]",
             "MSX MSX - Magazines - [DSK]"
+        ],
+        "local": [
+            "Microsoft MSX"
         ]
     },
     "MSX MSX2": {
@@ -2134,6 +2597,9 @@
             "MSX MSX2 - Games - [DSK]",
             "MSX MSX2 - Games - [ROM]",
             "MSX MSX2 - Magazines"
+        ],
+        "local": [
+            "Microsoft MSX2"
         ]
     },
     "MSX MSX2+": {
@@ -2142,6 +2608,9 @@
             "MSX MSX2+ - Demos",
             "MSX MSX2+ - Firmware",
             "MSX MSX2+ - Games"
+        ],
+        "local": [
+            "Microsoft MSX2+"
         ]
     },
     "MSX TurboR": {
@@ -2152,6 +2621,9 @@
             "MSX TurboR - Firmware",
             "MSX TurboR - Games",
             "MSX TurboR - Magazines"
+        ],
+        "local": [
+            "Microsoft MSX Turbo-R"
         ]
     },
     "Magnavox Odyssey2": {
@@ -2160,6 +2632,9 @@
             "Magnavox Odyssey2 - Educational",
             "Magnavox Odyssey2 - Firmware",
             "Magnavox Odyssey2 - Games"
+        ],
+        "local": [
+            "Magnavox Odyssey 2"
         ]
     },
     "Manfred Kramer Kramer-MC": {
@@ -2175,18 +2650,27 @@
             "Matra Hachette Alice 32 - Educational",
             "Matra Hachette Alice 32 - Games - [K7]",
             "Matra Hachette Alice 32 - Games - [WAV]"
+        ],
+        "local": [
+            "Matra Hachette Alice 32"
         ]
     },
     "Matra Hachette Alice 90": {
         "files": [
             "Matra Hachette Alice 90 - Applications",
             "Matra Hachette Alice 90 - Games"
+        ],
+        "local": [
+            "Matra Hachette Alice 90"
         ]
     },
     "Matsushita National JR 200": {
         "files": [
             "Matsushita National JR 200 - Demos",
             "Matsushita National JR 200 - Various"
+        ],
+        "local": [
+            "Matsushita National JR 200"
         ]
     },
     "Mattel Aquarius": {
@@ -2196,6 +2680,9 @@
             "Mattel Aquarius - Games - [BIN]",
             "Mattel Aquarius - Games - [CAQ]",
             "Mattel Aquarius - Games - [WAV]"
+        ],
+        "local": [
+            "Mattel Aquarius"
         ]
     },
     "Mattel Intellivision": {
@@ -2210,6 +2697,9 @@
             "Mattel Intellivision - Firmware - [Multipart]",
             "Mattel Intellivision - Games - [BIN]",
             "Mattel Intellivision - Games - [Multipart]"
+        ],
+        "local": [
+            "Mattel Intellivision"
         ]
     },
     "Mattel Intellivision ECS": {
@@ -2218,11 +2708,17 @@
             "Mattel Intellivision ECS - Educational - [Multipart]",
             "Mattel Intellivision ECS - Games - [BIN]",
             "Mattel Intellivision ECS - Games - [Multipart]"
+        ],
+        "local": [
+            "Mattel Intellivision"
         ]
     },
     "Mattel Juice Box": {
         "files": [
             "Mattel Juice Box - Videos"
+        ],
+        "local": [
+            "Mattel Juice Box"
         ]
     },
     "Megatel Quark": {
@@ -2233,6 +2729,9 @@
             "Megatel Quark - System - [IMD]",
             "Megatel Quark - Utilities - [DMK]",
             "Megatel Quark - Utilities - [IMD]"
+        ],
+        "local": [
+            "Megatel Quark"
         ]
     },
     "Memotech MTX": {
@@ -2242,12 +2741,18 @@
             "Memotech MTX - Firmware",
             "Memotech MTX - Games - [MTX]",
             "Memotech MTX - Games - [WAV]"
+        ],
+        "local": [
+            "Memotech MTX512"
         ]
     },
     "Micro Craft Dimension 68000": {
         "files": [
             "Micro Craft Dimension 68000 - System",
             "Micro Craft Dimension 68000 - Utilities"
+        ],
+        "local": [
+            "Micro Craft Dimension 68000"
         ]
     },
     "Microkey Primo": {
@@ -2277,6 +2782,9 @@
             "Microkey Primo - Games - [TXT]",
             "Microkey Primo - Games - [WAV]",
             "Microkey Primo - Sources"
+        ],
+        "local": [
+            "Microkey Primo"
         ]
     },
     "Mitsubishi Multi 8": {
@@ -2289,6 +2797,9 @@
             "Motorola EXORciser - System",
             "Motorola EXORciser - Utilities",
             "Motorola EXORciser - Various"
+        ],
+        "local": [
+            "Motorola EXORciser"
         ]
     },
     "Mr. Isizu Z80 TV Game System": {
@@ -2300,6 +2811,9 @@
         "files": [
             "NCR Decision Mate V - Games - [COM]",
             "NCR Decision Mate V - Games - [DSK]"
+        ],
+        "local": [
+            "NCR Decision Mate V"
         ]
     },
     "NEC Advanced Personal Computer": {
@@ -2310,6 +2824,9 @@
             "NEC Advanced Personal Computer - Docs",
             "NEC Advanced Personal Computer - Operating Systems",
             "NEC Advanced Personal Computer - Sources"
+        ],
+        "local": [
+            "NEC Advanced Personal Computer"
         ]
     },
     "NEC PC-6001": {
@@ -2319,17 +2836,26 @@
             "NEC PC-6001 - Games - [CAS]",
             "NEC PC-6001 - Games - [CP6]",
             "NEC PC-6001 - Games - [ROM]"
+        ],
+        "local": [
+            "NEC PC-6001"
         ]
     },
     "NEC PC-8001": {
         "files": [
             "NEC PC-8001 - Applications",
             "NEC PC-8001 - Firmware"
+        ],
+        "local": [
+            "NEC PC-8001"
         ]
     },
     "NEC PC-8201": {
         "files": [
             "NEC PC-8201 - Firmware"
+        ],
+        "local": [
+            "NEC PC-8201"
         ]
     },
     "NEC PC-8801": {
@@ -2340,6 +2866,9 @@
             "NEC PC-8801 - Games - [D88]",
             "NEC PC-8801 - Games - [T88]",
             "NEC PC-8801 - Games - [WAV]"
+        ],
+        "local": [
+            "NEC PC-8801"
         ]
     },
     "NEC PC-88VA": {
@@ -2347,6 +2876,9 @@
             "NEC PC-88VA - Firmware",
             "NEC PC-88VA - Games - [D88]",
             "NEC PC-88VA - Games - [RAW]"
+        ],
+        "local": [
+            "NEC PC-88VA"
         ]
     },
     "NEC PC-9801": {
@@ -2359,11 +2891,17 @@
             "NEC PC-9801 - Magazines",
             "NEC PC-9801 - Multimedia",
             "NEC PC-9801 - Operating Systems"
+        ],
+        "local": [
+            "NEC PC-9801"
         ]
     },
     "NEC PC-9821": {
         "files": [
             "NEC PC-9821 - Games"
+        ],
+        "local": [
+            "NEC PC-9821"
         ]
     },
     "NEC PC-Engine & TurboGrafx-16": {
@@ -2373,11 +2911,17 @@
             "NEC PC-Engine & TurboGrafx-16 - Demos",
             "NEC PC-Engine & TurboGrafx-16 - Games",
             "NEC PC-Engine & TurboGrafx-16 - Samplers"
+        ],
+        "local": [
+            "NEC PC-Engine & TurboGrafx-16"
         ]
     },
     "NEC SuperGrafx": {
         "files": [
             "NEC SuperGrafx - Games"
+        ],
+        "local": [
+            "NEC PC Engine SuperGrafx"
         ]
     },
     "Nascom I & II": {
@@ -2394,12 +2938,18 @@
             "Nascom I & II - Games - [DSK]",
             "Nascom I & II - Games - [NAS]",
             "Nascom I & II - Games - [TAP]"
+        ],
+        "local": [
+            "Nascom I & II"
         ]
     },
     "Nichibutsu My Vision": {
         "files": [
             "Nichibutsu My Vision - Games - [BIN]",
             "Nichibutsu My Vision - Games - [ROM]"
+        ],
+        "local": [
+            "Nichibutsu My Vision"
         ]
     },
     "Nintendo 64": {
@@ -2410,6 +2960,9 @@
             "Nintendo 64 - Firmware",
             "Nintendo 64 - Games",
             "Nintendo 64 - Samplers"
+        ],
+        "local": [
+            "Nintendo 64"
         ]
     },
     "Nintendo 64DD": {
@@ -2418,6 +2971,9 @@
             "Nintendo 64DD - Firmware",
             "Nintendo 64DD - Games - [BIN]",
             "Nintendo 64DD - Games - [NDD]"
+        ],
+        "local": [
+            "Nintendo 64DD"
         ]
     },
     "Nintendo DS": {
@@ -2427,6 +2983,9 @@
             "Nintendo DS - Firmware",
             "Nintendo DS - Games",
             "Nintendo DS - Samplers"
+        ],
+        "local": [
+            "Nintendo DS"
         ]
     },
     "Nintendo Famicom & Entertainment System": {
@@ -2439,6 +2998,9 @@
             "Nintendo Famicom & Entertainment System - Firmware",
             "Nintendo Famicom & Entertainment System - Games - [NES]",
             "Nintendo Famicom & Entertainment System - Games - [UNF]"
+        ],
+        "local": [
+            "Nintendo Entertainment System"
         ]
     },
     "Nintendo Famicom Disk System": {
@@ -2449,6 +3011,9 @@
             "Nintendo Famicom Disk System - Educational",
             "Nintendo Famicom Disk System - Firmware",
             "Nintendo Famicom Disk System - Games"
+        ],
+        "local": [
+            "Nintendo Famicom"
         ]
     },
     "Nintendo Game Boy": {
@@ -2457,6 +3022,9 @@
             "Nintendo Game Boy - Demos",
             "Nintendo Game Boy - Firmware",
             "Nintendo Game Boy - Games"
+        ],
+        "local": [
+            "Nintendo Game Boy"
         ]
     },
     "Nintendo Game Boy Advance": {
@@ -2464,6 +3032,9 @@
             "Nintendo Game Boy Advance - Applications",
             "Nintendo Game Boy Advance - Demos",
             "Nintendo Game Boy Advance - Games"
+        ],
+        "local": [
+            "Nintendo Game Boy Advance"
         ]
     },
     "Nintendo Game Boy Color": {
@@ -2471,11 +3042,17 @@
             "Nintendo Game Boy Color - Demos",
             "Nintendo Game Boy Color - Firmware",
             "Nintendo Game Boy Color - Games"
+        ],
+        "local": [
+            "Nintendo Game Boy Color"
         ]
     },
     "Nintendo Play-Yan": {
         "files": [
             "Nintendo Play-Yan - Games"
+        ],
+        "local": [
+            "Nintendo Play-Yan"
         ]
     },
     "Nintendo Pokemon Mini": {
@@ -2483,11 +3060,17 @@
             "Nintendo Pokemon Mini - Demos",
             "Nintendo Pokemon Mini - Firmware",
             "Nintendo Pokemon Mini - Games"
+        ],
+        "local": [
+            "Nintendo Pokemon Mini"
         ]
     },
     "Nintendo Sufami Turbo": {
         "files": [
             "Nintendo Sufami Turbo - Games"
+        ],
+        "local": [
+            "Nintendo Sufami Turbo"
         ]
     },
     "Nintendo Super Famicom & Super Entertainment System": {
@@ -2497,6 +3080,9 @@
             "Nintendo Super Famicom & Super Entertainment System - Firmware",
             "Nintendo Super Famicom & Super Entertainment System - Games",
             "Nintendo Super Famicom & Super Entertainment System - Voicer-kun Audio CDs"
+        ],
+        "local": [
+            "Nintendo Super Famicom & Super Entertainment System"
         ]
     },
     "Nintendo Virtual Boy": {
@@ -2505,6 +3091,9 @@
             "Nintendo Virtual Boy - Demos",
             "Nintendo Virtual Boy - Games",
             "Nintendo Virtual Boy - Samplers"
+        ],
+        "local": [
+            "Nintendo Virtual Boy"
         ]
     },
     "NorthStar Advantage": {
@@ -2512,6 +3101,9 @@
             "NorthStar Advantage - Applications",
             "NorthStar Advantage - Collections - North Star Computer Society",
             "NorthStar Advantage - Operating Systems"
+        ],
+        "local": [
+            "NorthStar Advantage"
         ]
     },
     "NorthStar Horizon": {
@@ -2522,11 +3114,17 @@
             "NorthStar Horizon - System",
             "NorthStar Horizon - Utilities",
             "NorthStar Horizon - Various"
+        ],
+        "local": [
+            "NorthStar Horizon"
         ]
     },
     "Nuclear Data ND4410 & ND4420": {
         "files": [
             "Nuclear Data ND4410 & ND4420 - Utilities"
+        ],
+        "local": [
+            "Nuclear Data ND4410 & ND4420"
         ]
     },
     "OCC Osborne 1 & Osborne Executive": {
@@ -2534,6 +3132,9 @@
             "OCC Osborne 1 & Osborne Executive - Games - [COM]",
             "OCC Osborne 1 & Osborne Executive - Games - [DSK]",
             "OCC Osborne 1 & Osborne Executive - Various"
+        ],
+        "local": [
+            "OCC Osborne 2 Executive"
         ]
     },
     "Oh! MZ S-OS": {
@@ -2549,6 +3150,9 @@
     "Olivetti M20": {
         "files": [
             "Olivetti M20 - Games"
+        ],
+        "local": [
+            "Olivetti M20"
         ]
     },
     "OpenPandora Pandora": {
@@ -2557,6 +3161,9 @@
             "OpenPandora Pandora - Demos",
             "OpenPandora Pandora - Educational",
             "OpenPandora Pandora - Games"
+        ],
+        "local": [
+            "Generic OpenPandora Pandora"
         ]
     },
     "Otrona Attache": {
@@ -2564,6 +3171,9 @@
             "Otrona Attache - Games - [COM]",
             "Otrona Attache - Games - [DSK]",
             "Otrona Attache - Operating Systems"
+        ],
+        "local": [
+            "Otrona Attache"
         ]
     },
     "PEL Varazdin Orao": {
@@ -2571,6 +3181,9 @@
             "PEL Varazdin Orao - Firmware",
             "PEL Varazdin Orao - Games",
             "PEL Varazdin Orao - Various"
+        ],
+        "local": [
+            "PEL Varazdin Orao"
         ]
     },
     "PTC Sol Terminal Computer SOL-20": {
@@ -2591,6 +3204,9 @@
             "PTC Sol Terminal Computer SOL-20 - Various - [SMU]",
             "PTC Sol Terminal Computer SOL-20 - Various - [SOL]",
             "PTC Sol Terminal Computer SOL-20 - Various - [SVT]"
+        ],
+        "local": [
+            "PTC Sol Terminal Computer SOL-20"
         ]
     },
     "Patisonic Aleste 520EX": {
@@ -2598,6 +3214,9 @@
             "Patisonic Aleste 520EX - Applications",
             "Patisonic Aleste 520EX - Compilations - Games",
             "Patisonic Aleste 520EX - Operating Systems"
+        ],
+        "local": [
+            "Patisonic Aleste 520EX"
         ]
     },
     "Peters Plus Sprinter": {
@@ -2608,6 +3227,9 @@
     "Philips P2000": {
         "files": [
             "Philips P2000 - Games"
+        ],
+        "local": [
+            "Philips P2000"
         ]
     },
     "Philips VG 5000": {
@@ -2615,17 +3237,26 @@
             "Philips VG 5000 - Applications",
             "Philips VG 5000 - Demos",
             "Philips VG 5000 - Games"
+        ],
+        "local": [
+            "Philips VG 5000"
         ]
     },
     "Philips Videopac+": {
         "files": [
             "Philips Videopac+ - Firmware",
             "Philips Videopac+ - Games"
+        ],
+        "local": [
+            "Philips Videopac+"
         ]
     },
     "Pioneer LaserActive": {
         "files": [
             "Pioneer LaserActive - Firmware"
+        ],
+        "local": [
+            "Pioneer LaserActive"
         ]
     },
     "Pravetz 8D": {
@@ -2637,6 +3268,9 @@
         "files": [
             "RCA Chip-8 - Applications",
             "RCA Chip-8 - Games"
+        ],
+        "local": [
+            "RCA Chip-8"
         ]
     },
     "RCA Microboard Computer Development System": {
@@ -2651,11 +3285,17 @@
             "RCA Studio II - Games - [ASM]",
             "RCA Studio II - Games - [BIN]",
             "RCA Studio II - Games - [ST2]"
+        ],
+        "local": [
+            "RCA Studio II"
         ]
     },
     "RCA Superchip": {
         "files": [
             "RCA Superchip - Games"
+        ],
+        "local": [
+            "RCA Superchip"
         ]
     },
     "RM Nimbus PC": {
@@ -2663,48 +3303,75 @@
             "RM Nimbus PC - Applications",
             "RM Nimbus PC - Games",
             "RM Nimbus PC - Operating Systems"
+        ],
+        "local": [
+            "RM Nimbus PC"
         ]
     },
     "Radica Arcade Legends & Play TV Legends": {
         "files": [
             "Radica Arcade Legends & Play TV Legends - Firmware"
+        ],
+        "local": [
+            "Radica Arcade Legends & Play TV Legends"
         ]
     },
     "Radio-86RK Apogej BK-01": {
         "files": [
             "Radio-86RK Apogej BK-01 - Various"
+        ],
+        "local": [
+            "Radio-86RK Apogej BK-01"
         ]
     },
     "Radio-86RK Mikro-80": {
         "files": [
             "Radio-86RK Mikro-80 - Applications",
             "Radio-86RK Mikro-80 - Games"
+        ],
+        "local": [
+            "Radio-86RK Mikro-80"
         ]
     },
     "Radio-86RK Mikrosha": {
         "files": [
             "Radio-86RK Mikrosha - Various"
+        ],
+        "local": [
+            "Radio-86RK Mikrosha"
         ]
     },
     "Radio-86RK Partner-01.01": {
         "files": [
             "Radio-86RK Partner-01.01 - Various"
+        ],
+        "local": [
+            "Radio-86RK Partner-01.01"
         ]
     },
     "Radio-86RK Radio-86RK": {
         "files": [
             "Radio-86RK Radio-86RK - Various"
+        ],
+        "local": [
+            "Radio-86RK"
         ]
     },
     "Radio-86RK YuT-88": {
         "files": [
             "Radio-86RK YuT-88 - Various"
+        ],
+        "local": [
+            "Radio-86RK YuT-88"
         ]
     },
     "Raytheon 704": {
         "files": [
             "Raytheon 704 - Various - [BIN]",
             "Raytheon 704 - Various - [FOR]"
+        ],
+        "local": [
+            "Raytheon 704"
         ]
     },
     "Regnecentralen RC 700": {
@@ -2728,33 +3395,51 @@
         "files": [
             "Robotron HC900, KC85 2, KC85 3 & KC85 4 - Games",
             "Robotron HC900, KC85 2, KC85 3 & KC85 4 - Various"
+        ],
+        "local": [
+            "Robotron HC900, KC85 2, KC85 3 & KC85 4"
         ]
     },
     "Robotron KC Compact": {
         "files": [
             "Robotron KC Compact - Various"
+        ],
+        "local": [
+            "Robotron KC Compact"
         ]
     },
     "Robotron Z1013": {
         "files": [
             "Robotron Z1013 - Games",
             "Robotron Z1013 - Various"
+        ],
+        "local": [
+            "Robotron Z1013"
         ]
     },
     "Robotron Z9001 & KC85 1": {
         "files": [
             "Robotron Z9001 & KC85 1 - Games",
             "Robotron Z9001 & KC85 1 - Various"
+        ],
+        "local": [
+            "Robotron Z9001 & KC85 1"
         ]
     },
     "Rockwell AIM65": {
         "files": [
             "Rockwell AIM65 - Applications"
+        ],
+        "local": [
+            "Rockwell AIM 65"
         ]
     },
     "SABA Videoplay": {
         "files": [
             "SABA Videoplay - Games"
+        ],
+        "local": [
+            "SABA Videoplay"
         ]
     },
     "SME Systems Aussie Byte II": {
@@ -2766,6 +3451,9 @@
         "files": [
             "SNK Neo-Geo Pocket - Firmware",
             "SNK Neo-Geo Pocket - Games"
+        ],
+        "local": [
+            "SNK Neo Geo Pocket"
         ]
     },
     "SNK Neo-Geo Pocket Color": {
@@ -2777,11 +3465,17 @@
             "SNK Neo-Geo Pocket Color - Games",
             "SNK Neo-Geo Pocket Color - Multimedia",
             "SNK Neo-Geo Pocket Color - Samplers"
+        ],
+        "local": [
+            "SNK Neo Geo Pocket Color"
         ]
     },
     "Samsung SPC-1000": {
         "files": [
             "Samsung SPC-1000 - Games"
+        ],
+        "local": [
+            "Samsung SPC-1000"
         ]
     },
     "Sanyo MBC-550 & 555": {
@@ -2797,6 +3491,9 @@
             "Sanyo MBC-550 & 555 - Games - [TD0]",
             "Sanyo MBC-550 & 555 - Operating Systems - [DSK]",
             "Sanyo MBC-550 & 555 - Operating Systems - [IMA]"
+        ],
+        "local": [
+            "Sanyo MBC-550 and MBC-555"
         ]
     },
     "Sega 32X": {
@@ -2807,11 +3504,17 @@
             "Sega 32X - Games",
             "Sega 32X - CD - Games - [IMG]",
             "Sega 32X - CD - Games - [ISO]"
+        ],
+        "local": [
+            "Sega 32X"
         ]
     },
     "Sega Advanced Pico Beena": {
         "files": [
             "Sega Advanced Pico Beena - Educational"
+        ],
+        "local": [
+            "Sega Pico"
         ]
     },
     "Sega Computer 3000": {
@@ -2819,6 +3522,9 @@
             "Sega Computer 3000 - Applications",
             "Sega Computer 3000 - Educational",
             "Sega Computer 3000 - Games"
+        ],
+        "local": [
+            "Sega Computer 3000"
         ]
     },
     "Sega Game 1000": {
@@ -2827,6 +3533,9 @@
             "Sega Game 1000 - Demos",
             "Sega Game 1000 - Games",
             "Sega Game 1000 - Multimedia"
+        ],
+        "local": [
+            "Sega Game 1000"
         ]
     },
     "Sega Game Gear": {
@@ -2838,6 +3547,9 @@
             "Sega Game Gear - Games",
             "Sega Game Gear - Multimedia",
             "Sega Game Gear - Samplers"
+        ],
+        "local": [
+            "Sega Game Gear"
         ]
     },
     "Sega Mark III & Master System": {
@@ -2848,6 +3560,9 @@
             "Sega Mark III & Master System - Firmware",
             "Sega Mark III & Master System - Games",
             "Sega Mark III & Master System - Samplers"
+        ],
+        "local": [
+            "Sega Mark III & Master System"
         ]
     },
     "Sega Mega Drive & Genesis": {
@@ -2860,6 +3575,9 @@
             "Sega Mega Drive & Genesis - Firmware",
             "Sega Mega Drive & Genesis - Games - [BIN]",
             "Sega Mega Drive & Genesis - Games - [Multipart]"
+        ],
+        "local": [
+            "Sega Genesis"
         ]
     },
     "Sega Mega-CD & Sega CD": {
@@ -2877,12 +3595,18 @@
             "Sega Mega-CD & Sega CD - CD - Multimedia - [ISO]",
             "Sega Mega-CD & Sega CD - CD - Samplers - [IMG]",
             "Sega Mega-CD & Sega CD - CD - Samplers - [ISO]"
+        ],
+        "local": [
+            "Sega CD"
         ]
     },
     "Sega Pico": {
         "files": [
             "Sega Pico - Educational",
             "Sega Pico - Samplers"
+        ],
+        "local": [
+            "Sega Pico"
         ]
     },
     "Sega Super Control Station": {
@@ -2892,6 +3616,9 @@
             "Sega Super Control Station - Firmware",
             "Sega Super Control Station - Games",
             "Sega Super Control Station - Multimedia"
+        ],
+        "local": [
+            "Sega Super Control Station"
         ]
     },
     "Sega Visual Memory System": {
@@ -2901,6 +3628,9 @@
             "Sega Visual Memory System - Firmware",
             "Sega Visual Memory System - Games",
             "Sega Visual Memory System - Multimedia"
+        ],
+        "local": [
+            "Sega Visual Memory System"
         ]
     },
     "Sega WonderMega": {
@@ -2911,11 +3641,17 @@
             "Sega WonderMega - CD - Educational - [ISO]",
             "Sega WonderMega - CD - Games",
             "Sega WonderMega - CD - Samplers"
+        ],
+        "local": [
+            "Sega WonderMega"
         ]
     },
     "Sharp MZ-2500": {
         "files": [
             "Sharp MZ-2500 - Games"
+        ],
+        "local": [
+            "Sharp MZ-2500"
         ]
     },
     "Sharp MZ-700": {
@@ -2924,6 +3660,9 @@
             "Sharp MZ-700 - Firmware",
             "Sharp MZ-700 - Games - [MZF]",
             "Sharp MZ-700 - Games - [WAV]"
+        ],
+        "local": [
+            "Sharp MZ-700"
         ]
     },
     "Sharp MZ-800 & MZ-1500": {
@@ -2931,6 +3670,9 @@
             "Sharp MZ-800 & MZ-1500 - Applications",
             "Sharp MZ-800 & MZ-1500 - Firmware",
             "Sharp MZ-800 & MZ-1500 - Games"
+        ],
+        "local": [
+            "Sharp MZ-800"
         ]
     },
     "Sharp PC-G850, PC-G815 & E200": {
@@ -2952,12 +3694,18 @@
             "Sharp X1 - Games - [D88]",
             "Sharp X1 - Games - [TAP]",
             "Sharp X1 - Games - [WAV]"
+        ],
+        "local": [
+            "Sharp X1"
         ]
     },
     "Sharp X1 Turbo": {
         "files": [
             "Sharp X1 Turbo - Firmware",
             "Sharp X1 Turbo - Games"
+        ],
+        "local": [
+            "Sharp X1 Turbo"
         ]
     },
     "Sharp X68000": {
@@ -2969,6 +3717,9 @@
             "Sharp X68000 - Magazines",
             "Sharp X68000 - Multimedia",
             "Sharp X68000 - Operating Systems"
+        ],
+        "local": [
+            "Sharp X68000"
         ]
     },
     "Sinclair QL": {
@@ -2977,6 +3728,9 @@
             "Sinclair QL - Demos",
             "Sinclair QL - Games - [BAS]",
             "Sinclair QL - Games - [OUT]"
+        ],
+        "local": [
+            "Sinclair QL"
         ]
     },
     "Sinclair ZX Spectrum": {
@@ -3155,6 +3909,9 @@
             "Sinclair ZX Spectrum - Unknown - [TZX]",
             "Sinclair ZX Spectrum - Unknown - [Z80]",
             "Sinclair ZX Spectrum - CD - Compilations"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum +3"
         ]
     },
     "Sinclair ZX80": {
@@ -3170,11 +3927,17 @@
             "Sinclair ZX81 - Educational",
             "Sinclair ZX81 - Games - [Multipart]",
             "Sinclair ZX81 - Games - [P]"
+        ],
+        "local": [
+            "Sinclair ZX-81"
         ]
     },
     "Sony PocketStation": {
         "files": [
             "Sony PocketStation - Various"
+        ],
+        "local": [
+            "Sony PocketStation"
         ]
     },
     "Sony SMC-777": {
@@ -3192,6 +3955,9 @@
             "Sord M5 - Games - [BIN]",
             "Sord M5 - Games - [CAS]",
             "Sord M5 - Games - [WAV]"
+        ],
+        "local": [
+            "Sord M5"
         ]
     },
     "Spectravideo SVI-318 & SVI-328": {
@@ -3199,11 +3965,17 @@
             "Spectravideo SVI-318 & SVI-328 - Games - [CAS]",
             "Spectravideo SVI-318 & SVI-328 - Various - [BIN]",
             "Spectravideo SVI-318 & SVI-328 - Various - [CAS]"
+        ],
+        "local": [
+            "Spectravideo SVI-318 & SVI-328"
         ]
     },
     "TRQ Video Computer H-21": {
         "files": [
             "TRQ Video Computer H-21 - Games"
+        ],
+        "local": [
+            "TRQ Video Computer H-21"
         ]
     },
     "Tandy Radio Shack TRS-80 Color Computer": {
@@ -3219,32 +3991,50 @@
             "Tandy Radio Shack TRS-80 Color Computer - Games - [ROM]",
             "Tandy Radio Shack TRS-80 Color Computer - Games - [WAV]",
             "Tandy Radio Shack TRS-80 Color Computer - Magazines"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Color Computer"
         ]
     },
     "Tandy Radio Shack TRS-80 MC-10": {
         "files": [
             "Tandy Radio Shack TRS-80 MC-10 - Various"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 MC-10"
         ]
     },
     "Tandy Radio Shack TRS-80 Model 100": {
         "files": [
             "Tandy Radio Shack TRS-80 Model 100 - Games - [BA]",
             "Tandy Radio Shack TRS-80 Model 100 - Games - [CO]"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Model 100"
         ]
     },
     "Tandy Radio Shack TRS-80 Model 4": {
         "files": [
             "Tandy Radio Shack TRS-80 Model 4 - Various"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Model 4"
         ]
     },
     "Tandy Radio Shack TRS-80 Model I": {
         "files": [
             "Tandy Radio Shack TRS-80 Model I - Various"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Model I"
         ]
     },
     "Tandy Radio Shack TRS-80 Model III": {
         "files": [
             "Tandy Radio Shack TRS-80 Model III - Various"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Model III"
         ]
     },
     "Tangerine Microtan 65": {
@@ -3253,6 +4043,9 @@
             "Tangerine Microtan 65 - Demos",
             "Tangerine Microtan 65 - Games - [HEX]",
             "Tangerine Microtan 65 - Games - [M65]"
+        ],
+        "local": [
+            "Tangerine Microtan 65"
         ]
     },
     "Tangerine Oric Telestrat": {
@@ -3282,6 +4075,9 @@
             "Tangerine Oric-1 & Oric Atmos - Sources - [DSK]",
             "Tangerine Oric-1 & Oric Atmos - Various - [Multipart]",
             "Tangerine Oric-1 & Oric Atmos - Various - [TAP]"
+        ],
+        "local": [
+            "Tangerine Oric-1 & Oric Atmos"
         ]
     },
     "Tatung Einstein TC-01": {
@@ -3294,17 +4090,26 @@
             "Tatung Einstein TC-01 - Games - [COM]",
             "Tatung Einstein TC-01 - Games - [DSK]",
             "Tatung Einstein TC-01 - Magazines"
+        ],
+        "local": [
+            "Tatung Einstein TC-01"
         ]
     },
     "Technosys Aamber Pegasus": {
         "files": [
             "Technosys Aamber Pegasus - Applications",
             "Technosys Aamber Pegasus - Games"
+        ],
+        "local": [
+            "Technosys Aamber Pegasus"
         ]
     },
     "Tektronix 405x": {
         "files": [
             "Tektronix 405x - Utilities"
+        ],
+        "local": [
+            "Tektronix 405x"
         ]
     },
     "Tektronix 4100 Series": {
@@ -3313,12 +4118,18 @@
             "Tektronix 4100 Series - System - [IMD]",
             "Tektronix 4100 Series - Utilities - [DSK]",
             "Tektronix 4100 Series - Utilities - [IMD]"
+        ],
+        "local": [
+            "Tektronix 4100 Series"
         ]
     },
     "Tektronix 4400 Series": {
         "files": [
             "Tektronix 4400 Series - System",
             "Tektronix 4400 Series - Utilities"
+        ],
+        "local": [
+            "Tektronix 4400 Series"
         ]
     },
     "Telcon Zorba": {
@@ -3328,12 +4139,18 @@
             "Telcon Zorba - Compilations - Public Domain",
             "Telcon Zorba - Firmware",
             "Telcon Zorba - Operating Systems"
+        ],
+        "local": [
+            "Telcon Zorba"
         ]
     },
     "TeleVideo Systems TS-802 & TS-802H": {
         "files": [
             "TeleVideo Systems TS-802 & TS-802H - System",
             "TeleVideo Systems TS-802 & TS-802H - Utilities"
+        ],
+        "local": [
+            "TeleVideo Systems TS-802 & TS-802H"
         ]
     },
     "TeleVideo Systems TS-803, TS-803H & TPC-1": {
@@ -3342,11 +4159,17 @@
             "TeleVideo Systems TS-803, TS-803H & TPC-1 - Sources",
             "TeleVideo Systems TS-803, TS-803H & TPC-1 - System",
             "TeleVideo Systems TS-803, TS-803H & TPC-1 - Utilities"
+        ],
+        "local": [
+            "TeleVideo Systems TS-803, TS-803H & TPC-1"
         ]
     },
     "TeleVideo Systems TS-806": {
         "files": [
             "TeleVideo Systems TS-806 - System"
+        ],
+        "local": [
+            "TeleVideo Systems TS-806"
         ]
     },
     "Telmac TMC-600": {
@@ -3358,6 +4181,9 @@
         "files": [
             "Terak 8510A & 8600 - Operating Systems",
             "Terak 8510A & 8600 - Utilities"
+        ],
+        "local": [
+            "Terak 8510A & 8600"
         ]
     },
     "Tesla Ondra Vili": {
@@ -3370,6 +4196,9 @@
         "files": [
             "Tesla PMD 85 - Games - [02b]",
             "Tesla PMD 85 - Games - [PTP]"
+        ],
+        "local": [
+            "Tesla PMD-85"
         ]
     },
     "Texas Instruments CC-40": {
@@ -3377,6 +4206,9 @@
             "Texas Instruments CC-40 - Applications",
             "Texas Instruments CC-40 - Games",
             "Texas Instruments CC-40 - Sources"
+        ],
+        "local": [
+            "Texas Instruments CC-40"
         ]
     },
     "Texas Instruments TI-73": {
@@ -3387,11 +4219,17 @@
             "Texas Instruments TI-73 - Games",
             "Texas Instruments TI-73 - Shells",
             "Texas Instruments TI-73 - Sources"
+        ],
+        "local": [
+            "Texas Instruments TI-73"
         ]
     },
     "Texas Instruments TI-74": {
         "files": [
             "Texas Instruments TI-74 - Cartridges"
+        ],
+        "local": [
+            "Texas Instruments TI-74"
         ]
     },
     "Texas Instruments TI-80": {
@@ -3399,6 +4237,9 @@
             "Texas Instruments TI-80 - Applications",
             "Texas Instruments TI-80 - Demos",
             "Texas Instruments TI-80 - Games"
+        ],
+        "local": [
+            "Texas Instruments TI-80"
         ]
     },
     "Texas Instruments TI-81": {
@@ -3407,6 +4248,9 @@
             "Texas Instruments TI-81 - Demos",
             "Texas Instruments TI-81 - Games",
             "Texas Instruments TI-81 - Sources"
+        ],
+        "local": [
+            "Texas Instruments TI-81"
         ]
     },
     "Texas Instruments TI-82": {
@@ -3419,6 +4263,9 @@
             "Texas Instruments TI-82 - Games",
             "Texas Instruments TI-82 - Shells",
             "Texas Instruments TI-82 - Sources"
+        ],
+        "local": [
+            "Texas Instruments TI-82"
         ]
     },
     "Texas Instruments TI-83": {
@@ -3432,23 +4279,35 @@
             "Texas Instruments TI-83 - Modules - Ion",
             "Texas Instruments TI-83 - Shells",
             "Texas Instruments TI-83 - Sources"
+        ],
+        "local": [
+            "Texas Instruments TI-83"
         ]
     },
     "Texas Instruments TI-85": {
         "files": [
             "Texas Instruments TI-85 - Firmware",
             "Texas Instruments TI-85 - Games"
+        ],
+        "local": [
+            "Texas Instruments TI-85"
         ]
     },
     "Texas Instruments TI-86": {
         "files": [
             "Texas Instruments TI-86 - Firmware",
             "Texas Instruments TI-86 - Games"
+        ],
+        "local": [
+            "Texas Instruments TI-86"
         ]
     },
     "Texas Instruments TI-89": {
         "files": [
             "Texas Instruments TI-89 - Firmware"
+        ],
+        "local": [
+            "Texas Instruments TI-89"
         ]
     },
     "Texas Instruments TI-92": {
@@ -3456,11 +4315,17 @@
             "Texas Instruments TI-92 - Applications",
             "Texas Instruments TI-92 - Firmware",
             "Texas Instruments TI-92 - Games"
+        ],
+        "local": [
+            "Texas Instruments TI-92"
         ]
     },
     "Texas Instruments TI-95": {
         "files": [
             "Texas Instruments TI-95 - Cartridges"
+        ],
+        "local": [
+            "Texas Instruments TI-95"
         ]
     },
     "Texas Instruments TI-99 4A": {
@@ -3469,6 +4334,9 @@
             "Texas Instruments TI-99 4A - Games - [DSK]",
             "Texas Instruments TI-99 4A - Games - [EA5]",
             "Texas Instruments TI-99 4A - Various"
+        ],
+        "local": [
+            "Texas Instruments TI-99-4A"
         ]
     },
     "Thomson MO5": {
@@ -3497,11 +4365,17 @@
             "Thomson MO5 - Operating Systems - [FD]",
             "Thomson MO5 - Operating Systems - [QD]",
             "Thomson MO5 - Operating Systems - [SAP]"
+        ],
+        "local": [
+            "Thomson MO5"
         ]
     },
     "Thomson MO6": {
         "files": [
             "Thomson MO6 - Games"
+        ],
+        "local": [
+            "Thomson MO6"
         ]
     },
     "Thomson TO7": {
@@ -3517,6 +4391,9 @@
             "Thomson TO7 - Games - [SAP]",
             "Thomson TO7 - Operating Systems - [FD]",
             "Thomson TO7 - Operating Systems - [QD]"
+        ],
+        "local": [
+            "Thomson TO7"
         ]
     },
     "Thomson TO8, TO8D, TO9, TO9+": {
@@ -3544,6 +4421,9 @@
             "Thomson TO8, TO8D, TO9, TO9+ - Games - [SAP]",
             "Thomson TO8, TO8D, TO9, TO9+ - Miscellaneous",
             "Thomson TO8, TO8D, TO9, TO9+ - System"
+        ],
+        "local": [
+            "Thomson TO8, TO8D, TO9, TO9+"
         ]
     },
     "Tiger Electronics Game.com": {
@@ -3551,11 +4431,17 @@
             "Tiger Electronics Game.com - Applications",
             "Tiger Electronics Game.com - Firmware",
             "Tiger Electronics Game.com - Games"
+        ],
+        "local": [
+            "Tiger Electronics Game.com"
         ]
     },
     "Tiger Electronics K28 Talking Learning Computer": {
         "files": [
             "Tiger Electronics K28 Talking Learning Computer - Modules"
+        ],
+        "local": [
+            "Tiger Electronics K28 Talking Learning Computer"
         ]
     },
     "Tiki Data Kontiki-100 & Tiki-100": {
@@ -3567,17 +4453,26 @@
             "Tiki Data Kontiki-100 & Tiki-100 - Firmware",
             "Tiki Data Kontiki-100 & Tiki-100 - Games",
             "Tiki Data Kontiki-100 & Tiki-100 - Operating Systems"
+        ],
+        "local": [
+            "Tiki Data Kontiki-100 & Tiki-100"
         ]
     },
     "TimeTop GameKing": {
         "files": [
             "TimeTop GameKing - Compilations - Games",
             "TimeTop GameKing - Games"
+        ],
+        "local": [
+            "TimeTop GameKing"
         ]
     },
     "TimeTop GameKing 3": {
         "files": [
             "TimeTop GameKing 3 - Games"
+        ],
+        "local": [
+            "TimeTop GameKing 3"
         ]
     },
     "Timex Sinclair TS-2068": {
@@ -3589,6 +4484,9 @@
         "files": [
             "Tomy Tutor & Pyuuta - Firmware",
             "Tomy Tutor & Pyuuta - Games"
+        ],
+        "local": [
+            "Tomy Tutor & Pyuuta"
         ]
     },
     "Toshiba Pasopia": {
@@ -3602,6 +4500,9 @@
             "Toshiba Pasopia - Firmware",
             "Toshiba Pasopia - Games - [BIN]",
             "Toshiba Pasopia - Games - [WAV]"
+        ],
+        "local": [
+            "Toshiba Personal Computer Pasopia PA7010"
         ]
     },
     "Toshiba Pasopia 7": {
@@ -3614,22 +4515,34 @@
             "Toshiba Visicom - Educational",
             "Toshiba Visicom - Firmware",
             "Toshiba Visicom - Games"
+        ],
+        "local": [
+            "Toshiba Visicom"
         ]
     },
     "Triumph-Adler Alphatronic PC": {
         "files": [
             "Triumph-Adler Alphatronic PC - Games"
+        ],
+        "local": [
+            "Triumph-Adler Alphatronic PC"
         ]
     },
     "Tsukuda Original Othello Multivision": {
         "files": [
             "Tsukuda Original Othello Multivision - Firmware",
             "Tsukuda Original Othello Multivision - Games"
+        ],
+        "local": [
+            "Tsukuda Original Othello Multivision"
         ]
     },
     "UNIVAC Series 90": {
         "files": [
             "UNIVAC Series 90 - Operating Systems"
+        ],
+        "local": [
+            "UNIVAC Series 90"
         ]
     },
     "USSR Vector-06C": {
@@ -3642,42 +4555,66 @@
             "University of Cambridge EDSAC - Demos",
             "University of Cambridge EDSAC - Games",
             "University of Cambridge EDSAC - Routines"
+        ],
+        "local": [
+            "University of Cambridge EDSAC"
         ]
     },
     "University of Tokyo PC-1": {
         "files": [
             "University of Tokyo PC-1 - Applications"
+        ],
+        "local": [
+            "University of Tokyo PC-1"
         ]
     },
     "VEB Mikroelektronik Erfurt Chess-Master Diamond": {
         "files": [
             "VEB Mikroelektronik Erfurt Chess-Master Diamond - Modules"
+        ],
+        "local": [
+            "VEB Mikroelektronik Erfurt Chess-Master Diamond"
         ]
     },
     "VTech Genius": {
         "files": [
             "VTech Genius - Educational"
+        ],
+        "local": [
+            "VTech Genius"
         ]
     },
     "VTech Genius Junior Movie": {
         "files": [
             "VTech Genius Junior Movie - Educational"
+        ],
+        "local": [
+            "VTech Genius Junior Movie"
         ]
     },
     "VTech Genius Leader 2000": {
         "files": [
             "VTech Genius Leader 2000 - Educational",
             "VTech Genius Leader 2000 - Games"
+        ],
+        "local": [
+            "VTech Genius Leader 2000"
         ]
     },
     "VTech Genius Leader 6000SL": {
         "files": [
             "VTech Genius Leader 6000SL - Educational"
+        ],
+        "local": [
+            "VTech Genius Leader 6000SL"
         ]
     },
     "VTech Genius Leader Color": {
         "files": [
             "VTech Genius Leader Color - Educational"
+        ],
+        "local": [
+            "VTech Genius Leader Color"
         ]
     },
     "VTech Laser 200": {
@@ -3692,6 +4629,9 @@
             "VTech Laser 200 - Games - [WAV]",
             "VTech Laser 200 - Magazines",
             "VTech Laser 200 - Operating Systems"
+        ],
+        "local": [
+            "VTech Laser 200"
         ]
     },
     "VTech Laser 2001 & CreatiVision": {
@@ -3699,11 +4639,17 @@
             "VTech Laser 2001 & CreatiVision - Applications",
             "VTech Laser 2001 & CreatiVision - Firmware",
             "VTech Laser 2001 & CreatiVision - Games"
+        ],
+        "local": [
+            "VTech Creativision"
         ]
     },
     "VTech Laser 310": {
         "files": [
             "VTech Laser 310 - Applications"
+        ],
+        "local": [
+            "VTech Laser 310"
         ]
     },
     "VTech Laser 350, 500, 700 & 750": {
@@ -3718,6 +4664,9 @@
             "Videoton TV-Computer - Compilations",
             "Videoton TV-Computer - Games - [CAS]",
             "Videoton TV-Computer - Games - [Multipart]"
+        ],
+        "local": [
+            "Videoton TVC"
         ]
     },
     "Visual Technology Visual 1050": {
@@ -3726,6 +4675,9 @@
             "Visual Technology Visual 1050 - Firmware",
             "Visual Technology Visual 1050 - Operating Systems",
             "Visual Technology Visual 1050 - Sources"
+        ],
+        "local": [
+            "Visual Technology Visual 1050"
         ]
     },
     "Vtech Laser 3000 & Dick Smith CAT": {
@@ -3737,12 +4689,18 @@
         "files": [
             "Wang VS - Applications",
             "Wang VS - Games"
+        ],
+        "local": [
+            "Wang VS"
         ]
     },
     "Watara Supervision": {
         "files": [
             "Watara Supervision - Applications",
             "Watara Supervision - Games"
+        ],
+        "local": [
+            "Watara Supervision"
         ]
     },
     "Xerox 1108": {
@@ -3750,6 +4708,9 @@
             "Xerox 1108 - Sources",
             "Xerox 1108 - System - [DMK]",
             "Xerox 1108 - System - [IMD]"
+        ],
+        "local": [
+            "Xerox 1108"
         ]
     },
     "Xerox 1186": {
@@ -3761,6 +4722,9 @@
             "Xerox 1186 - System - [IMD]",
             "Xerox 1186 - Utilities - [DMK]",
             "Xerox 1186 - Utilities - [IMD]"
+        ],
+        "local": [
+            "Xerox 1186"
         ]
     },
     "Xerox 6085": {
@@ -3769,12 +4733,18 @@
             "Xerox 6085 - System - [DMK]",
             "Xerox 6085 - System - [IMD]",
             "Xerox 6085 - Utilities"
+        ],
+        "local": [
+            "Xerox 6085"
         ]
     },
     "Xerox 820": {
         "files": [
             "Xerox 820 - Operating Systems",
             "Xerox 820 - Utilities"
+        ],
+        "local": [
+            "Xerox 820"
         ]
     },
     "Xerox 820-II": {
@@ -3782,6 +4752,9 @@
             "Xerox 820-II - Operating Systems",
             "Xerox 820-II - Utilities",
             "Xerox 820-II - Various"
+        ],
+        "local": [
+            "Xerox 820-II"
         ]
     },
     "Xerox 860": {
@@ -3789,17 +4762,26 @@
             "Xerox 860 - Fonts",
             "Xerox 860 - System",
             "Xerox 860 - Utilities"
+        ],
+        "local": [
+            "Xerox 860"
         ]
     },
     "Yamaha Copera": {
         "files": [
             "Yamaha Copera - Educational"
+        ],
+        "local": [
+            "Yamaha Copera"
         ]
     },
     "Zilog MCZ-2": {
         "files": [
             "Zilog MCZ-2 - Operating Systems",
             "Zilog MCZ-2 - Utilities"
+        ],
+        "local": [
+            "Zilog MCZ-2"
         ]
     },
     "3DO 3DO Interactive Multiplayer": {
@@ -3819,11 +4801,17 @@
             "3DO 3DO Interactive Multiplayer - Homebrew - Games",
             "3DO 3DO Interactive Multiplayer - Multimedia",
             "3DO 3DO Interactive Multiplayer - Samplers"
+        ],
+        "local": [
+            "Panasonic 3DO Interactive Multiplayer"
         ]
     },
     "American Laser Games CD-ROM System": {
         "files": [
             "American Laser Games CD-ROM System - Games"
+        ],
+        "local": [
+            "American Laser Games CD-ROM System"
         ]
     },
     "Atari Jaguar CD": {
@@ -3834,12 +4822,18 @@
             "Atari Jaguar CD - Homebrew - Games - [CDI]",
             "Atari Jaguar CD - Homebrew - Games - [NRG]",
             "Atari Jaguar CD - Samplers"
+        ],
+        "local": [
+            "Atari Jaguar CD"
         ]
     },
     "Bandai Pippin @World & Pippin Atmark": {
         "files": [
             "Bandai Pippin @World & Pippin Atmark - Applications",
             "Bandai Pippin @World & Pippin Atmark - Multimedia"
+        ],
+        "local": [
+            "Bandai Pippin"
         ]
     },
     "Bandai Playdia": {
@@ -3848,11 +4842,17 @@
             "Bandai Playdia - Educational - [ISO]",
             "Bandai Playdia - Games - [IMG]",
             "Bandai Playdia - Games - [ISO]"
+        ],
+        "local": [
+            "Bandai Playdia Quick Interactive System"
         ]
     },
     "Capcom CP System III": {
         "files": [
             "Capcom CP System III - Games"
+        ],
+        "local": [
+            "Capcom CP System III"
         ]
     },
     "Commodore Amiga CD32": {
@@ -3882,6 +4882,9 @@
             "Commodore Amiga CD32 - Multimedia - [IMG]",
             "Commodore Amiga CD32 - Multimedia - [ISO]",
             "Commodore Amiga CD32 - Samplers"
+        ],
+        "local": [
+            "Commodore Amiga CD32"
         ]
     },
     "Commodore Amiga CDTV": {
@@ -3905,31 +4908,49 @@
             "Commodore Amiga CDTV - Multimedia - [ISO]",
             "Commodore Amiga CDTV - Samplers - [IMG]",
             "Commodore Amiga CDTV - Samplers - [ISO]"
+        ],
+        "local": [
+            "Commodore Amiga CDTV"
         ]
     },
     "Incredible Technologies Eagle": {
         "files": [
             "Incredible Technologies Eagle - CD - Games"
+        ],
+        "local": [
+            "Incredible Technologies Eagle"
         ]
     },
     "Konami Bemani System 573 Analog": {
         "files": [
             "Konami Bemani System 573 Analog - Games"
+        ],
+        "local": [
+            "Konami Bemani System 573 Analog"
         ]
     },
     "Konami Bemani System 573 Digital": {
         "files": [
             "Konami Bemani System 573 Digital - Games"
+        ],
+        "local": [
+            "Konami Bemani System 573 Digital"
         ]
     },
     "Konami System 573": {
         "files": [
             "Konami System 573 - Games"
+        ],
+        "local": [
+            "Konami System 573"
         ]
     },
     "Mattel HyperScan": {
         "files": [
             "Mattel HyperScan - Games"
+        ],
+        "local": [
+            "Mattel HyperScan"
         ]
     },
     "Memorex Video Information System": {
@@ -3938,6 +4959,9 @@
             "Memorex Video Information System - Games",
             "Memorex Video Information System - Multimedia",
             "Memorex Video Information System - Samplers"
+        ],
+        "local": [
+            "Memorex Video Information System"
         ]
     },
     "NEC PC-Engine CD & TurboGrafx-16 CD": {
@@ -3952,18 +4976,27 @@
             "NEC PC-Engine CD & TurboGrafx-16 CD - Multimedia",
             "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [BIN]",
             "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG]"
+        ],
+        "local": [
+            "NEC PC-Engine CD & TurboGrafx-16 CD"
         ]
     },
     "NEC PC-FX": {
         "files": [
             "NEC PC-FX - Firmware",
             "NEC PC-FX - Games"
+        ],
+        "local": [
+            "NEC PC-FX"
         ]
     },
     "NEC PC-FXGA": {
         "files": [
             "NEC PC-FXGA - Firmware",
             "NEC PC-FXGA - Games"
+        ],
+        "local": [
+            "NEC PC-FXGA"
         ]
     },
     "Namco-Sega-Nintendo Triforce": {
@@ -3976,6 +5009,9 @@
             "Nintendo GameCube - Applications",
             "Nintendo GameCube - Games",
             "Nintendo GameCube - Samplers"
+        ],
+        "local": [
+            "Nintendo GameCube"
         ]
     },
     "Philips CD-i": {
@@ -3991,11 +5027,17 @@
             "Philips CD-i - Homebrew - Games - [NRG]",
             "Philips CD-i - Multimedia",
             "Philips CD-i - Samplers"
+        ],
+        "local": [
+            "Philips CD-i"
         ]
     },
     "SNK Hyper Neo-Geo 64": {
         "files": [
             "SNK Hyper Neo-Geo 64 - CD - Multimedia"
+        ],
+        "local": [
+            "SNK Hyper Neo-Geo 64"
         ]
     },
     "SNK Neo-Geo CD": {
@@ -4011,11 +5053,17 @@
             "SNK Neo-Geo CD - Samplers - [IMG]",
             "SNK Neo-Geo CD - Samplers - [ISO]",
             "SNK Neo-Geo CD - Samplers - [Multipart]"
+        ],
+        "local": [
+            "SNK Neo Geo CD"
         ]
     },
     "Sega Chihiro": {
         "files": [
             "Sega Chihiro - Games"
+        ],
+        "local": [
+            "Sega Chihiro"
         ]
     },
     "Sega Dreamcast": {
@@ -4035,17 +5083,26 @@
             "Sega Dreamcast - Multimedia",
             "Sega Dreamcast - Samplers",
             "Sega Dreamcast - Various Unverified Dumps"
+        ],
+        "local": [
+            "Sega Dreamcast"
         ]
     },
     "Sega NAOMI": {
         "files": [
             "Sega NAOMI - Applications",
             "Sega NAOMI - Games"
+        ],
+        "local": [
+            "Sega Naomi"
         ]
     },
     "Sega NAOMI 2": {
         "files": [
             "Sega NAOMI 2 - Games"
+        ],
+        "local": [
+            "Sega Naomi 2"
         ]
     },
     "Sega Saturn": {
@@ -4057,6 +5114,9 @@
             "Sega Saturn - Games - [ISO]",
             "Sega Saturn - Multimedia",
             "Sega Saturn - Samplers"
+        ],
+        "local": [
+            "Sega Saturn"
         ]
     },
     "Sony PlayStation": {
@@ -4075,31 +5135,49 @@
             "Sony PlayStation - Games - [ISO]",
             "Sony PlayStation - Samplers - [BIN]",
             "Sony PlayStation - Samplers - [ISO]"
+        ],
+        "local": [
+            "Sony Playstation"
         ]
     },
     "Sony PlayStation 2": {
         "files": [
             "Sony PlayStation 2 - Firmware"
+        ],
+        "local": [
+            "Sony Playstation 2"
         ]
     },
     "Tomy KISS-Site": {
         "files": [
             "Tomy KISS-Site - Games"
+        ],
+        "local": [
+            "Tomy KISS-Site"
         ]
     },
     "VM Labs Nuon": {
         "files": [
             "VM Labs Nuon - Games"
+        ],
+        "local": [
+            "VM Labs Nuon"
         ]
     },
     "VTech V.Flash Home Edutainment System": {
         "files": [
             "VTech V.Flash Home Edutainment System - Educational"
+        ],
+        "local": [
+            "VTech V.Flash"
         ]
     },
     "ZAPiT Games Game Wave Family Entertainment System": {
         "files": [
             "ZAPiT Games Game Wave Family Entertainment System - Games"
+        ],
+        "local": [
+            "ZAPiT Games Game Wave Family Entertainment System"
         ]
     }
 }

@@ -5,6 +5,9 @@
         ],
         "short": [
             "vc4000"
+        ],
+        "local": [
+            "Interton VC 4000"
         ]
     },
     "Sega 32X": {
@@ -13,6 +16,9 @@
         ],
         "short": [
             "32x"
+        ],
+        "local": [
+            "Sega 32X"
         ]
     },
     "Sega Mega CD": {
@@ -23,6 +29,9 @@
         "short": [
             "megacd",
             "megacdj"
+        ],
+        "local": [
+            "Sega Mega CD"
         ]
     },
     "Sega CD": {
@@ -31,6 +40,9 @@
         ],
         "short": [
             "segacd"
+        ],
+        "local": [
+            "Sega CD"
         ]
     },
     "IBM PC floppy": {
@@ -57,6 +69,9 @@
         "short": [
             "ibm5170_cdrom",
             "ibm5170_hdd"
+        ],
+        "local": [
+            "IBM PC-AT"
         ]
     },
     "Standard MIDI": {
@@ -65,6 +80,9 @@
         ],
         "short": [
             "midi_flop"
+        ],
+        "local": [
+            "Generic Standard MIDI"
         ]
     },
     "SGI MIPS\/IRIX": {
@@ -73,6 +91,9 @@
         ],
         "short": [
             "sgi_mips"
+        ],
+        "local": [
+            "SGI MIPS\/IRIX"
         ]
     },
     "Commodore Amiga": {
@@ -89,6 +110,9 @@
             "amiga_apps",
             "amiga_flop",
             "amiga_hdd"
+        ],
+        "local": [
+            "Commodore Amiga"
         ]
     },
     "Commodore Amiga OCS": {
@@ -97,6 +121,9 @@
         ],
         "short": [
             "amigaocs_flop"
+        ],
+        "local": [
+            "Commodore Amiga OCS"
         ]
     },
     "Commodore Amiga demos": {
@@ -113,6 +140,9 @@
         ],
         "short": [
             "amiga_a1000"
+        ],
+        "local": [
+            "Commodore Amiga 1000"
         ]
     },
     "Commodore Amiga AGA": {
@@ -121,6 +151,9 @@
         ],
         "short": [
             "amigaaga_flop"
+        ],
+        "local": [
+            "Commodore Amiga AGA"
         ]
     },
     "Commodore Amiga ECS": {
@@ -129,6 +162,9 @@
         ],
         "short": [
             "amigaecs_flop"
+        ],
+        "local": [
+            "Commodore Amiga ECS"
         ]
     },
     "Atari 400 \/ 800": {
@@ -139,6 +175,9 @@
         "short": [
             "a800_flop",
             "a800_cass"
+        ],
+        "local": [
+            "Atari 400 \/ 800"
         ]
     },
     "Atari 800": {
@@ -147,6 +186,9 @@
         ],
         "short": [
             "a800"
+        ],
+        "local": [
+            "Atari 800"
         ]
     },
     "Atari XE Game System": {
@@ -155,6 +197,9 @@
         ],
         "short": [
             "xegs"
+        ],
+        "local": [
+            "Atari XE"
         ]
     },
     "Atari 2600": {
@@ -165,6 +210,9 @@
         "short": [
             "a2600",
             "a2600_cass"
+        ],
+        "local": [
+            "Atari 2600"
         ]
     },
     "Commodore Amiga 3000": {
@@ -173,6 +221,9 @@
         ],
         "short": [
             "amiga_a3000"
+        ],
+        "local": [
+            "Commodore Amiga 3000"
         ]
     },
     "Atari 5200": {
@@ -181,6 +232,9 @@
         ],
         "short": [
             "a5200"
+        ],
+        "local": [
+            "Atari 5200"
         ]
     },
     "Atari 7800": {
@@ -189,6 +243,9 @@
         ],
         "short": [
             "a7800"
+        ],
+        "local": [
+            "Atari 7800"
         ]
     },
     "Acorn Archimedes": {
@@ -201,6 +258,9 @@
             "archimedes",
             "archimedes_hdd",
             "archimedes_rom"
+        ],
+        "local": [
+            "Acorn Archimedes"
         ]
     },
     "Acorn BBC Micro": {
@@ -213,6 +273,9 @@
             "bbc_cass",
             "bbc_rom",
             "bbc_hdd"
+        ],
+        "local": [
+            "Acorn BBC Micro"
         ]
     },
     "Acorn Z80": {
@@ -221,6 +284,9 @@
         ],
         "short": [
             "bbc_flop_z80"
+        ],
+        "local": [
+            "Acorn Z80"
         ]
     },
     "Acorn BBC Micro Model B": {
@@ -233,6 +299,9 @@
             "bbcb_flop",
             "bbcb_flop_orig",
             "bbcb_flop_us"
+        ],
+        "local": [
+            "Acorn BBC Micro"
         ]
     },
     "Luxor ABC 1600": {
@@ -241,6 +310,9 @@
         ],
         "short": [
             "abc1600_flop"
+        ],
+        "local": [
+            "Luxor ABC 1600"
         ]
     },
     "Acorn 80186 Co-Processor": {
@@ -249,6 +321,9 @@
         ],
         "short": [
             "bbc_flop_80186"
+        ],
+        "local": [
+            "Acorn 80186"
         ]
     },
     "Luxor ABC 80": {
@@ -259,6 +334,9 @@
         "short": [
             "abc80_cass",
             "abc80_flop"
+        ],
+        "local": [
+            "Luxor ABC 80"
         ]
     },
     "Luxor ABC 800": {
@@ -269,6 +347,9 @@
         "short": [
             "abc800",
             "abc800_hdd"
+        ],
+        "local": [
+            "Luxor ABC 800"
         ]
     },
     "Luxor ABC 806": {
@@ -277,6 +358,9 @@
         ],
         "short": [
             "abc806"
+        ],
+        "local": [
+            "Luxor ABC 806"
         ]
     },
     "Apple II cleanly cracked": {
@@ -285,6 +369,9 @@
         ],
         "short": [
             "apple2_flop_clcracked"
+        ],
+        "local": [
+            "Apple II"
         ]
     },
     "Apple II": {
@@ -297,6 +384,9 @@
             "apple2_flop_orig",
             "apple2_flop_misc",
             "apple2_cass"
+        ],
+        "local": [
+            "Apple II"
         ]
     },
     "Acorn System": {
@@ -307,6 +397,9 @@
         "short": [
             "acrnsys_flop",
             "acrnsys_rom"
+        ],
+        "local": [
+            "Acorn System 1"
         ]
     },
     "Acorn 32016 Co-Processor": {
@@ -315,6 +408,9 @@
         ],
         "short": [
             "bbc_flop_32016"
+        ],
+        "local": [
+            "Acorn 32016"
         ]
     },
     "Coleco ColecoVision": {
@@ -323,6 +419,9 @@
         ],
         "short": [
             "coleco"
+        ],
+        "local": [
+            "Coleco ColecoVision"
         ]
     },
     "Coleco Adam": {
@@ -333,6 +432,9 @@
         "short": [
             "adam_cart",
             "adam_cass"
+        ],
+        "local": [
+            "Coleco ADAM"
         ]
     },
     "Coleco ADAM": {
@@ -341,6 +443,9 @@
         ],
         "short": [
             "adam_flop"
+        ],
+        "local": [
+            "Coleco ADAM"
         ]
     },
     "Entex AdventureVision": {
@@ -349,6 +454,9 @@
         ],
         "short": [
             "advision"
+        ],
+        "local": [
+            "Entex Adventure Vision"
         ]
     },
     "Emerson Arcadia 2001": {
@@ -357,6 +465,9 @@
         ],
         "short": [
             "arcadia"
+        ],
+        "local": [
+            "Emerson Arcadia 2001"
         ]
     },
     "SNK Neo-Geo": {
@@ -365,6 +476,9 @@
         ],
         "short": [
             "neogeo"
+        ],
+        "local": [
+            "SNK Neo Geo"
         ]
     },
     "Casio PB-2000C": {
@@ -373,6 +487,9 @@
         ],
         "short": [
             "pb2000c"
+        ],
+        "local": [
+            "Casio PB-2000C"
         ]
     },
     "Rockwell AIM 65": {
@@ -381,6 +498,9 @@
         ],
         "short": [
             "aim65_cart"
+        ],
+        "local": [
+            "Rockwell AIM 65"
         ]
     },
     "Amstrad CPC": {
@@ -391,6 +511,9 @@
         "short": [
             "cpc_cass",
             "cpc_flop"
+        ],
+        "local": [
+            "Amstrad CPC"
         ]
     },
     "Patisonic Aleste 520EX": {
@@ -399,6 +522,9 @@
         ],
         "short": [
             "aleste"
+        ],
+        "local": [
+            "Patisonic Aleste 520EX"
         ]
     },
     "Tesla PMD-85": {
@@ -407,6 +533,9 @@
         ],
         "short": [
             "pmd85_cass"
+        ],
+        "local": [
+            "Tesla PMD-85"
         ]
     },
     "Tandy MC-10": {
@@ -415,6 +544,9 @@
         ],
         "short": [
             "mc10"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 MC-10"
         ]
     },
     "Matra Alice 32": {
@@ -423,6 +555,9 @@
         ],
         "short": [
             "alice32"
+        ],
+        "local": [
+            "Matra Hachette Alice 32"
         ]
     },
     "Matra Alice 90": {
@@ -431,6 +566,9 @@
         ],
         "short": [
             "alice90"
+        ],
+        "local": [
+            "Matra Hachette Alice 90"
         ]
     },
     "Triumph-Adler Alphatronic PC": {
@@ -441,6 +579,9 @@
         "short": [
             "alphatro_flop",
             "alphatro_cart"
+        ],
+        "local": [
+            "Triumph-Adler Alphatronic PC"
         ]
     },
     "Altos Series 5": {
@@ -449,6 +590,9 @@
         ],
         "short": [
             "altos5"
+        ],
+        "local": [
+            "Altos Computer Systems Series 5"
         ]
     },
     "Altos 8600": {
@@ -457,6 +601,9 @@
         ],
         "short": [
             "altos8600"
+        ],
+        "local": [
+            "Altos Computer Systems ACS-8600"
         ]
     },
     "Ampro Little Z80 Board": {
@@ -465,6 +612,9 @@
         ],
         "short": [
             "ampro"
+        ],
+        "local": [
+            "AMPRO Computers LittleBoard Z80"
         ]
     },
     "Specialist": {
@@ -473,6 +623,9 @@
         ],
         "short": [
             "special_cass"
+        ],
+        "local": [
+            "Specialist"
         ]
     },
     "NEC Advanced Personal Computer": {
@@ -481,6 +634,9 @@
         ],
         "short": [
             "apc"
+        ],
+        "local": [
+            "NEC Advanced Personal Computer"
         ]
     },
     "APEXC Cylinder images": {
@@ -497,6 +653,9 @@
         ],
         "short": [
             "apfm1000"
+        ],
+        "local": [
+            "APF Imagination Machine"
         ]
     },
     "APF Imagination": {
@@ -505,6 +664,9 @@
         ],
         "short": [
             "apfimag_cass"
+        ],
+        "local": [
+            "APF Imagination Machine"
         ]
     },
     "Apogee BK-01": {
@@ -513,6 +675,9 @@
         ],
         "short": [
             "apogee"
+        ],
+        "local": [
+            "Apogee BK-01"
         ]
     },
     "RCA Studio II \/ Victory MPT-02": {
@@ -521,6 +686,9 @@
         ],
         "short": [
             "studio2"
+        ],
+        "local": [
+            "RCA Studio II"
         ]
     },
     "Apple 1": {
@@ -529,6 +697,9 @@
         ],
         "short": [
             "apple1"
+        ],
+        "local": [
+            "Apple 1"
         ]
     },
     "Apple IIgs cleanly cracked": {
@@ -555,6 +726,9 @@
         ],
         "short": [
             "apple3"
+        ],
+        "local": [
+            "Apple III"
         ]
     },
     "Applix 1616": {
@@ -563,6 +737,9 @@
         ],
         "short": [
             "applix_flop"
+        ],
+        "local": [
+            "Applix 1616"
         ]
     },
     "ACT Apricot PC\/Xi": {
@@ -571,6 +748,9 @@
         ],
         "short": [
             "apricot_flop"
+        ],
+        "local": [
+            "ACT Apricot PC-Xi"
         ]
     },
     "ACT Apricot XEN": {
@@ -589,6 +769,9 @@
         "short": [
             "aquarius_cart",
             "aquarius_cass"
+        ],
+        "local": [
+            "Mattel Aquarius"
         ]
     },
     "ARB": {
@@ -597,6 +780,9 @@
         ],
         "short": [
             "arb"
+        ],
+        "local": [
+            "AVE Micro Systems ARB"
         ]
     },
     "AlphaSmart 3000 SmartApplets": {
@@ -613,6 +799,9 @@
         ],
         "short": [
             "astrocde"
+        ],
+        "local": [
+            "Bally Professional Arcade & Astrocade"
         ]
     },
     "Sinclair ZX Spectrum": {
@@ -625,6 +814,9 @@
             "spectrum_cass",
             "spectrum_betadisc_flop",
             "spectrum_cart"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum +3"
         ]
     },
     "Acorn Atom Utility": {
@@ -633,6 +825,9 @@
         ],
         "short": [
             "atom_rom"
+        ],
+        "local": [
+            "Acorn Atom"
         ]
     },
     "Acorn Atom": {
@@ -643,6 +838,9 @@
         "short": [
             "atom_cass",
             "atom_flop"
+        ],
+        "local": [
+            "Acorn Atom"
         ]
     },
     "Otrona Attache": {
@@ -651,6 +849,9 @@
         ],
         "short": [
             "attache"
+        ],
+        "local": [
+            "Otrona Attache"
         ]
     },
     "Aussie Byte II": {
@@ -659,6 +860,9 @@
         ],
         "short": [
             "aussiebyte"
+        ],
+        "local": [
+            "Aussie Byte II"
         ]
     },
     "Acorn BBC": {
@@ -671,6 +875,9 @@
             "bbcm_flop",
             "bbcmc_flop",
             "bbcm_cart"
+        ],
+        "local": [
+            "Acorn BBC"
         ]
     },
     "Olivetti Prodest PC 128S": {
@@ -679,6 +886,9 @@
         ],
         "short": [
             "pro128s_flop"
+        ],
+        "local": [
+            "Olivetti Prodest PC 128S"
         ]
     },
     "MSX1": {
@@ -691,6 +901,9 @@
             "msx1_cass",
             "msx1_cart",
             "msx1_flop"
+        ],
+        "local": [
+            "Microsoft MSX"
         ]
     },
     "MSX2": {
@@ -703,6 +916,9 @@
             "msx2_cass",
             "msx2_flop",
             "msx2_cart"
+        ],
+        "local": [
+            "Microsoft MSX2"
         ]
     },
     "Commodore CBM-II": {
@@ -713,6 +929,9 @@
         "short": [
             "cbm2_cart",
             "cbm2_flop"
+        ],
+        "local": [
+            "Commodore CBM-II"
         ]
     },
     "BNPO Bashkiria-2M": {
@@ -721,6 +940,9 @@
         ],
         "short": [
             "b2m"
+        ],
+        "local": [
+            "BNPO Bashkiria-2M"
         ]
     },
     "BASF 7100": {
@@ -737,6 +959,9 @@
         ],
         "short": [
             "bbcbc"
+        ],
+        "local": [
+            "BBC Bridge Companion"
         ]
     },
     "Acorn 6502": {
@@ -745,6 +970,9 @@
         ],
         "short": [
             "bbc_flop_6502"
+        ],
+        "local": [
+            "Acorn 6502"
         ]
     },
     "Acorn ARM Co-Processor": {
@@ -753,6 +981,9 @@
         ],
         "short": [
             "bbc_flop_arm"
+        ],
+        "local": [
+            "Acorn ARM"
         ]
     },
     "Bandai Design Master": {
@@ -763,6 +994,9 @@
         "short": [
             "bdesignm_game_cart",
             "bdesignm_design_cart"
+        ],
+        "local": [
+            "Bandai Design Master"
         ]
     },
     "Sega Beena": {
@@ -771,6 +1005,9 @@
         ],
         "short": [
             "sega_beena_cart"
+        ],
+        "local": [
+            "Sega Beena"
         ]
     },
     "Xerox 820": {
@@ -779,6 +1016,9 @@
         ],
         "short": [
             "xerox820"
+        ],
+        "local": [
+            "Xerox 820"
         ]
     },
     "Elektronika BK-0010": {
@@ -787,6 +1027,9 @@
         ],
         "short": [
             "bk0010"
+        ],
+        "local": [
+            "Elektronika BK-0010-0011M"
         ]
     },
     "Korvet": {
@@ -795,6 +1038,9 @@
         ],
         "short": [
             "korvet_flop"
+        ],
+        "local": [
+            "Generic Korvet"
         ]
     },
     "Bandai Karaoke Ranking Party": {
@@ -803,6 +1049,9 @@
         ],
         "short": [
             "bkrankp_cart"
+        ],
+        "local": [
+            "Bandai Karaoke Ranking Party"
         ]
     },
     "VTech Genius Leader CX": {
@@ -811,6 +1060,9 @@
         ],
         "short": [
             "glcx"
+        ],
+        "local": [
+            "VTech Genius Leader CX"
         ]
     },
     "Cadaco Buzztime Trivia": {
@@ -819,6 +1071,9 @@
         ],
         "short": [
             "buzztime_cart"
+        ],
+        "local": [
+            "Cadaco Buzztime Trivia"
         ]
     },
     "Bondwell 12": {
@@ -827,6 +1082,9 @@
         ],
         "short": [
             "bw12"
+        ],
+        "local": [
+            "Bondwell 12"
         ]
     },
     "Bondwell 14": {
@@ -835,6 +1093,9 @@
         ],
         "short": [
             "bw14"
+        ],
+        "local": [
+            "Bondwell 14"
         ]
     },
     "Bondwell 2": {
@@ -843,6 +1104,9 @@
         ],
         "short": [
             "bw2"
+        ],
+        "local": [
+            "Bondwell 2"
         ]
     },
     "Commodore BX256-80HP \/ CBM 730": {
@@ -851,6 +1115,9 @@
         ],
         "short": [
             "bx256hp_flop"
+        ],
+        "local": [
+            "Commodore BX256-80HP - CBM 730"
         ]
     },
     "Commodore Plus\/4": {
@@ -861,6 +1128,9 @@
         "short": [
             "plus4_cart",
             "plus4_flop"
+        ],
+        "local": [
+            "Commodore Plus-4 - C16 - C116"
         ]
     },
     "Commodore Plus\/4 \/ C16 \/ C116": {
@@ -869,6 +1139,9 @@
         ],
         "short": [
             "plus4_cass"
+        ],
+        "local": [
+            "Commodore Plus-4 - C16 - C116"
         ]
     },
     "Commodore 128": {
@@ -881,6 +1154,9 @@
             "c128_cart",
             "c128_flop",
             "c128_rom"
+        ],
+        "local": [
+            "Commodore 128"
         ]
     },
     "Commodore 64": {
@@ -895,6 +1171,9 @@
             "c64_cass",
             "c64_flop_orig",
             "c64_flop_misc"
+        ],
+        "local": [
+            "Commodore 64"
         ]
     },
     "Commodore VIC-10 \/ Max Machine \/ UltiMax": {
@@ -903,6 +1182,9 @@
         ],
         "short": [
             "vic10"
+        ],
+        "local": [
+            "Commodore VIC-10"
         ]
     },
     "C2 Color": {
@@ -911,6 +1193,9 @@
         ],
         "short": [
             "c2color_cart"
+        ],
+        "local": [
+            "Baiyi C2 Color & Card"
         ]
     },
     "Commodore 65": {
@@ -919,6 +1204,9 @@
         ],
         "short": [
             "c65_flop"
+        ],
+        "local": [
+            "Commodore 65"
         ]
     },
     "Fujitsu FM Towns original floppy": {
@@ -951,6 +1239,9 @@
         ],
         "short": [
             "fmtowns_cd"
+        ],
+        "local": [
+            "Fujitsu FM Towns"
         ]
     },
     "Casio": {
@@ -959,6 +1250,9 @@
         ],
         "short": [
             "casio_rompack"
+        ],
+        "local": [
+            "Casio"
         ]
     },
     "Casio Loopy": {
@@ -967,6 +1261,9 @@
         ],
         "short": [
             "casloopy"
+        ],
+        "local": [
+            "Casio Loopy"
         ]
     },
     "Commodore PET": {
@@ -983,6 +1280,9 @@
             "pet_hdd",
             "pet_quik",
             "pet_rom"
+        ],
+        "local": [
+            "Commodore PET"
         ]
     },
     "Commodore 8096": {
@@ -991,6 +1291,9 @@
         ],
         "short": [
             "cbm8096_flop"
+        ],
+        "local": [
+            "Commodore 8096"
         ]
     },
     "Commodore 8296": {
@@ -999,6 +1302,9 @@
         ],
         "short": [
             "cbm8296_flop"
+        ],
+        "local": [
+            "Commodore 8296"
         ]
     },
     "CC-40": {
@@ -1007,6 +1313,9 @@
         ],
         "short": [
             "cc40_cart"
+        ],
+        "local": [
+            "Texas Instruments CC-40"
         ]
     },
     "Commodore Amiga CD32": {
@@ -1015,6 +1324,9 @@
         ],
         "short": [
             "cd32"
+        ],
+        "local": [
+            "Commodore Amiga CD32"
         ]
     },
     "Commodore Amiga CDTV": {
@@ -1023,6 +1335,9 @@
         ],
         "short": [
             "cdtv"
+        ],
+        "local": [
+            "Commodore Amiga CDTV"
         ]
     },
     "Tandy Radio Shack Color Computer": {
@@ -1033,6 +1348,9 @@
         "short": [
             "coco_cart",
             "coco_flop"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Color Computer"
         ]
     },
     "Dragon": {
@@ -1041,6 +1359,9 @@
         ],
         "short": [
             "dragon_cart"
+        ],
+        "local": [
+            "Dragon Data Dragon"
         ]
     },
     "Philips CD-i": {
@@ -1049,6 +1370,9 @@
         ],
         "short": [
             "cdi"
+        ],
+        "local": [
+            "Philips CD-i"
         ]
     },
     "China Education Computer": {
@@ -1057,6 +1381,9 @@
         ],
         "short": [
             "cecflop"
+        ],
+        "local": [
+            "China Education Computer"
         ]
     },
     "EACA Colour Genie EG2000": {
@@ -1067,6 +1394,10 @@
         "short": [
             "cgenie_cass",
             "cgenie_flop_rom"
+        ],
+        "local": [
+            "EACA Colour Genie EG2000",
+            "EACA EG2000 Colour Genie"
         ]
     },
     "Fairchild Channel F": {
@@ -1075,6 +1406,9 @@
         ],
         "short": [
             "channelf"
+        ],
+        "local": [
+            "Fairchild Channel F"
         ]
     },
     "Chess-Master Diamond": {
@@ -1083,6 +1417,9 @@
         ],
         "short": [
             "chessmstdm"
+        ],
+        "local": [
+            "VEB Mikroelektronik Erfurt Chess-Master Diamond"
         ]
     },
     "LeapFrog ClickStart": {
@@ -1091,6 +1428,9 @@
         ],
         "short": [
             "clickstart_cart"
+        ],
+        "local": [
+            "LeapFrog ClickStart"
         ]
     },
     "PDC Clipper": {
@@ -1099,6 +1439,9 @@
         ],
         "short": [
             "clipper_flop"
+        ],
+        "local": [
+            "PDC Clipper"
         ]
     },
     "Roland U-110 PCM": {
@@ -1115,6 +1458,9 @@
         ],
         "short": [
             "compclr2_flop"
+        ],
+        "local": [
+            "Compucolor II"
         ]
     },
     "Telenova Compis": {
@@ -1123,6 +1469,9 @@
         ],
         "short": [
             "compis"
+        ],
+        "local": [
+            "Telenova Compis"
         ]
     },
     "COMX-35": {
@@ -1131,6 +1480,9 @@
         ],
         "short": [
             "comx35_flop"
+        ],
+        "local": [
+            "COMX-35"
         ]
     },
     "Conchess Plymate": {
@@ -1139,6 +1491,9 @@
         ],
         "short": [
             "conchess_plymate"
+        ],
+        "local": [
+            "Conchess Plymate"
         ]
     },
     "Conchess Standard": {
@@ -1147,6 +1502,9 @@
         ],
         "short": [
             "conchess_standard"
+        ],
+        "local": [
+            "Conchess Standard"
         ]
     },
     "Yamaha \/ Sega Copera": {
@@ -1155,6 +1513,9 @@
         ],
         "short": [
             "copera"
+        ],
+        "local": [
+            "Yamaha Copera"
         ]
     },
     "Saitek Endgame": {
@@ -1163,6 +1524,9 @@
         ],
         "short": [
             "saitek_egr"
+        ],
+        "local": [
+            "Saitek Endgame"
         ]
     },
     "Radio Shack TRS-80": {
@@ -1183,6 +1547,9 @@
         ],
         "short": [
             "gx4000"
+        ],
+        "local": [
+            "Amstrad CPC Plus & GX4000"
         ]
     },
     "JPM Give us a Break": {
@@ -1191,6 +1558,9 @@
         ],
         "short": [
             "guab"
+        ],
+        "local": [
+            "JPM Give us a Break"
         ]
     },
     "V-Tech Creativision": {
@@ -1199,6 +1569,9 @@
         ],
         "short": [
             "crvision"
+        ],
+        "local": [
+            "VTech Creativision"
         ]
     },
     "Palson CX 3000 Tele Computer": {
@@ -1207,6 +1580,9 @@
         ],
         "short": [
             "cx3000tc"
+        ],
+        "local": [
+            "Palson CX 3000 Tele Computer"
         ]
     },
     "Dragon 32\/64": {
@@ -1215,6 +1591,9 @@
         ],
         "short": [
             "dragon_cass"
+        ],
+        "local": [
+            "Dragon 32-64"
         ]
     },
     "Dragon DOS": {
@@ -1223,6 +1602,9 @@
         ],
         "short": [
             "dragon_flop"
+        ],
+        "local": [
+            "Dragon DOS"
         ]
     },
     "Dragon FLEX": {
@@ -1231,6 +1613,9 @@
         ],
         "short": [
             "dragon_flex"
+        ],
+        "local": [
+            "Dragon FLEX"
         ]
     },
     "Dragon OS-9": {
@@ -1239,6 +1624,9 @@
         ],
         "short": [
             "dragon_os9"
+        ],
+        "local": [
+            "Dragon OS-9"
         ]
     },
     "CHIP8": {
@@ -1255,6 +1643,9 @@
         ],
         "short": [
             "dai_cass"
+        ],
+        "local": [
+            "DAI Personal Computer"
         ]
     },
     "Voltmace Database": {
@@ -1263,6 +1654,9 @@
         ],
         "short": [
             "database"
+        ],
+        "local": [
+            "Voltmace Database"
         ]
     },
     "Sega Dreamcast GD-ROMs": {
@@ -1271,6 +1665,9 @@
         ],
         "short": [
             "dc"
+        ],
+        "local": [
+            "Sega Dreamcast"
         ]
     },
     "Takara e-kara (Japan) P-xx \/ PCxxxx- series": {
@@ -1279,6 +1676,9 @@
         ],
         "short": [
             "ekara_japan_p"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Nintendo Entertainment System": {
@@ -1293,6 +1693,9 @@
             "nes_ade",
             "nes_ntbrom",
             "nes_datach"
+        ],
+        "local": [
+            "Nintendo Entertainment System"
         ]
     },
     "Nintendo Entertainment System - Karaoke Studio expansion": {
@@ -1301,6 +1704,9 @@
         ],
         "short": [
             "nes_kstudio"
+        ],
+        "local": [
+            "Nintendo Entertainment System"
         ]
     },
     "Nintendo FamicomBox": {
@@ -1317,6 +1723,9 @@
         ],
         "short": [
             "famicom_cass"
+        ],
+        "local": [
+            "Nintendo Famicom"
         ]
     },
     "Dragon Alpha (Professional)": {
@@ -1325,6 +1734,9 @@
         ],
         "short": [
             "dgnalpha_flop"
+        ],
+        "local": [
+            "Dragon Data Dragon"
         ]
     },
     "Dragon Beta": {
@@ -1333,6 +1745,9 @@
         ],
         "short": [
             "dgnbeta_flop"
+        ],
+        "local": [
+            "Dragon Data Dragon"
         ]
     },
     "LeapFrog Didj": {
@@ -1341,6 +1756,9 @@
         ],
         "short": [
             "leapfrog_didj_cart"
+        ],
+        "local": [
+            "LeapFrog Didj"
         ]
     },
     "Digilog 320": {
@@ -1357,6 +1775,9 @@
         ],
         "short": [
             "dim68k"
+        ],
+        "local": [
+            "Micro Craft Dimension 68000"
         ]
     },
     "NCR Decision Mate V": {
@@ -1365,6 +1786,9 @@
         ],
         "short": [
             "dmv"
+        ],
+        "local": [
+            "NCR Decision Mate V"
         ]
     },
     "Apollo": {
@@ -1373,6 +1797,9 @@
         ],
         "short": [
             "apollo_ctape"
+        ],
+        "local": [
+            "Enterprex Apollo"
         ]
     },
     "Ithaca InterSystems DPS-1": {
@@ -1381,6 +1808,9 @@
         ],
         "short": [
             "dps1"
+        ],
+        "local": [
+            "Ithaca InterSystems DPS-1"
         ]
     },
     "Nintendo Famicom": {
@@ -1389,6 +1819,9 @@
         ],
         "short": [
             "famicom_flop"
+        ],
+        "local": [
+            "Nintendo Famicom"
         ]
     },
     "IVL Technologies Easy Karaoke": {
@@ -1405,6 +1838,9 @@
         ],
         "short": [
             "ec1841"
+        ],
+        "local": [
+            "EC 1841"
         ]
     },
     "Epson HX-20 Optional": {
@@ -1413,6 +1849,9 @@
         ],
         "short": [
             "hx20_rom"
+        ],
+        "local": [
+            "Epson HX-20 Optional"
         ]
     },
     "Epson CPM systems": {
@@ -1421,6 +1860,9 @@
         ],
         "short": [
             "epson_cpm"
+        ],
+        "local": [
+            "Epson CPM systems"
         ]
     },
     "Tatung Einstein TC-01": {
@@ -1429,6 +1871,9 @@
         ],
         "short": [
             "einstein"
+        ],
+        "local": [
+            "Tatung Einstein TC-01"
         ]
     },
     "Takara e-kara (US)": {
@@ -1437,6 +1882,9 @@
         ],
         "short": [
             "ekara_us"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (UK\/Europe, PAL)": {
@@ -1445,6 +1893,9 @@
         ],
         "short": [
             "ekara_pal"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) ECxxxx- series": {
@@ -1453,6 +1904,9 @@
         ],
         "short": [
             "ekara_japan"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) G-xx \/ GCxxxx- series": {
@@ -1461,6 +1915,9 @@
         ],
         "short": [
             "ekara_japan_g"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) S-xx \/ SCxxxx- series": {
@@ -1469,6 +1926,9 @@
         ],
         "short": [
             "ekara_japan_s"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) M-xx \/ MCxxxx- series": {
@@ -1477,6 +1937,9 @@
         ],
         "short": [
             "ekara_japan_m"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) D-xx \/ DCxxxx- series": {
@@ -1485,6 +1948,9 @@
         ],
         "short": [
             "ekara_japan_d"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) EN-xx series": {
@@ -1493,6 +1959,9 @@
         ],
         "short": [
             "ekara_japan_en"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) SP-xx series": {
@@ -1501,6 +1970,9 @@
         ],
         "short": [
             "ekara_japan_sp"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) Web": {
@@ -1509,6 +1981,9 @@
         ],
         "short": [
             "ekara_japan_web"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-pitch \/ e-kara (Japan) A-x series": {
@@ -1517,6 +1992,9 @@
         ],
         "short": [
             "ekara_japan_a"
+        ],
+        "local": [
+            "Takara e-pitch - e-kara (Japan) A-x series"
         ]
     },
     "Takara e-kara (Japan) GK-xx series": {
@@ -1525,6 +2003,9 @@
         ],
         "short": [
             "ekara_japan_gk"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) BH-xx series": {
@@ -1533,6 +2014,9 @@
         ],
         "short": [
             "ekara_japan_bh"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Takara e-kara (Japan) ACxxxx series": {
@@ -1541,6 +2025,9 @@
         ],
         "short": [
             "ekara_japan_ac"
+        ],
+        "local": [
+            "Takara e-kara"
         ]
     },
     "Acorn Electron": {
@@ -1555,6 +2042,9 @@
             "electron_cart",
             "electron_flop",
             "electron_rom"
+        ],
+        "local": [
+            "Acorn Electron"
         ]
     },
     "Enterprise Sixty Four": {
@@ -1567,6 +2057,9 @@
             "ep64_cart",
             "ep64_cass",
             "ep64_flop"
+        ],
+        "local": [
+            "Enterprise 64 & 128"
         ]
     },
     "ETI-660": {
@@ -1575,6 +2068,9 @@
         ],
         "short": [
             "eti660_quik"
+        ],
+        "local": [
+            "ETI-660"
         ]
     },
     "Tomy evio": {
@@ -1583,6 +2079,9 @@
         ],
         "short": [
             "evio"
+        ],
+        "local": [
+            "Tomy evio"
         ]
     },
     "Ericsson PC AT WS286": {
@@ -1591,6 +2090,9 @@
         ],
         "short": [
             "ews286_flop"
+        ],
+        "local": [
+            "Ericsson PC AT WS286"
         ]
     },
     "Excalibur 64": {
@@ -1599,6 +2101,9 @@
         ],
         "short": [
             "excalibur64"
+        ],
+        "local": [
+            "Excalibur 64"
         ]
     },
     "Exelvision EXL 100": {
@@ -1607,6 +2112,9 @@
         ],
         "short": [
             "exl100"
+        ],
+        "local": [
+            "Exelvision EXL 100"
         ]
     },
     "MSX2+": {
@@ -1615,6 +2123,9 @@
         ],
         "short": [
             "msx2p_flop"
+        ],
+        "local": [
+            "Microsoft MSX2+"
         ]
     },
     "Atari ST": {
@@ -1625,6 +2136,9 @@
         "short": [
             "st_flop",
             "st_cart"
+        ],
+        "local": [
+            "Atari ST"
         ]
     },
     "Fidelity SCC": {
@@ -1633,6 +2147,9 @@
         ],
         "short": [
             "fidel_scc"
+        ],
+        "local": [
+            "Fidelity Sensory Chess Challenger"
         ]
     },
     "Dick Smith Electronics VZ-200\/300": {
@@ -1643,6 +2160,9 @@
         "short": [
             "vz_cass",
             "vz_snap"
+        ],
+        "local": [
+            "Dick Smith VZ-200-300"
         ]
     },
     "Fujitsu FM-7": {
@@ -1653,6 +2173,9 @@
         "short": [
             "fm7_cass",
             "fm7_disk"
+        ],
+        "local": [
+            "Fujitsu FM-7"
         ]
     },
     "Fujitsu FM-77AV": {
@@ -1661,6 +2184,9 @@
         ],
         "short": [
             "fm77av"
+        ],
+        "local": [
+            "Fujitsu FM-77AV"
         ]
     },
     "MSX Turbo-R": {
@@ -1669,6 +2195,9 @@
         ],
         "short": [
             "msxr_flop"
+        ],
+        "local": [
+            "Microsoft MSX Turbo-R"
         ]
     },
     "Fidelity SC6": {
@@ -1677,6 +2206,9 @@
         ],
         "short": [
             "fidel_sc6"
+        ],
+        "local": [
+            "Fidelity SC6"
         ]
     },
     "Galaksija & Galaksija Plus": {
@@ -1685,6 +2217,9 @@
         ],
         "short": [
             "galaxy"
+        ],
+        "local": [
+            "Galaksija"
         ]
     },
     "Bit Corp Gamate": {
@@ -1693,6 +2228,9 @@
         ],
         "short": [
             "gamate"
+        ],
+        "local": [
+            "Bit Corporation Gamate"
         ]
     },
     "Nintendo Game Boy": {
@@ -1701,6 +2239,9 @@
         ],
         "short": [
             "gameboy"
+        ],
+        "local": [
+            "Nintendo Game Boy"
         ]
     },
     "Nintendo Game Boy Color": {
@@ -1709,6 +2250,9 @@
         ],
         "short": [
             "gbcolor"
+        ],
+        "local": [
+            "Nintendo Game Boy Color"
         ]
     },
     "Tiger Game.com": {
@@ -1717,6 +2261,9 @@
         ],
         "short": [
             "gamecom"
+        ],
+        "local": [
+            "Tiger Electronics Game.com"
         ]
     },
     "Sega Game Gear": {
@@ -1725,6 +2272,9 @@
         ],
         "short": [
             "gamegear"
+        ],
+        "local": [
+            "Sega Game Gear"
         ]
     },
     "TimeTop GameKing": {
@@ -1733,6 +2283,9 @@
         ],
         "short": [
             "gameking"
+        ],
+        "local": [
+            "TimeTop GameKing"
         ]
     },
     "TimeTop GameKing 3": {
@@ -1741,6 +2294,9 @@
         ],
         "short": [
             "gameking3"
+        ],
+        "local": [
+            "TimeTop GameKing 3"
         ]
     },
     "Epoch Game Pocket Computer": {
@@ -1749,6 +2305,9 @@
         ],
         "short": [
             "gamepock"
+        ],
+        "local": [
+            "Epoch Game Pocket Computer"
         ]
     },
     "Nintendo Game Boy Advance": {
@@ -1757,6 +2316,9 @@
         ],
         "short": [
             "gba"
+        ],
+        "local": [
+            "Nintendo Game Boy Advance"
         ]
     },
     "VTech PreComputer 1000": {
@@ -1765,6 +2327,9 @@
         ],
         "short": [
             "pc1000"
+        ],
+        "local": [
+            "VTech PreComputer 1000"
         ]
     },
     "Gachinko Contest! Slot machine TV": {
@@ -1773,6 +2338,9 @@
         ],
         "short": [
             "gcslottv"
+        ],
+        "local": [
+            "Gachinko Contest! Slot machine TV"
         ]
     },
     "Sega Mega Drive\/Genesis": {
@@ -1789,6 +2357,9 @@
         ],
         "short": [
             "ggm"
+        ],
+        "local": [
+            "Chafitz GGM Great Game Machine"
         ]
     },
     "Gimix 6809": {
@@ -1797,6 +2368,9 @@
         ],
         "short": [
             "gimix"
+        ],
+        "local": [
+            "Gimix 6809"
         ]
     },
     "VTech Genius Junior 4000": {
@@ -1805,6 +2379,9 @@
         ],
         "short": [
             "gj4000"
+        ],
+        "local": [
+            "VTech Genius Junior 4000"
         ]
     },
     "VTech Genius Junior Movie": {
@@ -1813,6 +2390,9 @@
         ],
         "short": [
             "gjmovie"
+        ],
+        "local": [
+            "VTech Genius Junior Movie"
         ]
     },
     "VTech Genius Junior Redstar": {
@@ -1821,6 +2401,9 @@
         ],
         "short": [
             "gjrstar"
+        ],
+        "local": [
+            "VTech Genius Junior Redstar"
         ]
     },
     "VTech Genius Leader 2000": {
@@ -1829,6 +2412,9 @@
         ],
         "short": [
             "gl2000"
+        ],
+        "local": [
+            "VTech Genius Leader 2000"
         ]
     },
     "Yeno MisterX": {
@@ -1837,6 +2423,9 @@
         ],
         "short": [
             "misterx"
+        ],
+        "local": [
+            "Yeno MisterX"
         ]
     },
     "VTech Genius Leader 6000SL": {
@@ -1845,6 +2434,9 @@
         ],
         "short": [
             "gl6000sl"
+        ],
+        "local": [
+            "VTech Genius Leader 6000SL"
         ]
     },
     "VTech Genius Leader Color": {
@@ -1853,6 +2445,9 @@
         ],
         "short": [
             "glcolor"
+        ],
+        "local": [
+            "VTech Genius Leader Color"
         ]
     },
     "Bandai Super Note Club": {
@@ -1861,6 +2456,9 @@
         ],
         "short": [
             "snotec"
+        ],
+        "local": [
+            "Bandai Super Note Club"
         ]
     },
     "VTech Genius Leader Notebook": {
@@ -1869,6 +2467,9 @@
         ],
         "short": [
             "gln"
+        ],
+        "local": [
+            "VTech Genius Leader Notebook"
         ]
     },
     "VTech Genius Leader Select": {
@@ -1877,6 +2478,9 @@
         ],
         "short": [
             "gls"
+        ],
+        "local": [
+            "VTech Genius Leader Select"
         ]
     },
     "Hartung Game": {
@@ -1885,6 +2489,9 @@
         ],
         "short": [
             "gmaster"
+        ],
+        "local": [
+            "Hartung Game Master"
         ]
     },
     "GamePark GP32": {
@@ -1893,6 +2500,9 @@
         ],
         "short": [
             "gp32"
+        ],
+        "local": [
+            "GamePark GP32"
         ]
     },
     "TRQ Video Computer H-21": {
@@ -1901,6 +2511,9 @@
         ],
         "short": [
             "h21"
+        ],
+        "local": [
+            "TRQ Video Computer H-21"
         ]
     },
     "Interact Family Computer": {
@@ -1909,6 +2522,9 @@
         ],
         "short": [
             "interact"
+        ],
+        "local": [
+            "Interact Family Computer"
         ]
     },
     "Sega Saturn": {
@@ -1919,6 +2535,9 @@
         "short": [
             "saturn",
             "sat_cart"
+        ],
+        "local": [
+            "Sega Saturn"
         ]
     },
     "HP-85": {
@@ -1927,6 +2546,9 @@
         ],
         "short": [
             "hp85_rom"
+        ],
+        "local": [
+            "Hewlett-Packard HP85"
         ]
     },
     "HP-86\/7": {
@@ -1935,6 +2557,9 @@
         ],
         "short": [
             "hp86_rom"
+        ],
+        "local": [
+            "Hewlett-Packard HP-86\/7"
         ]
     },
     "HP Integral PC": {
@@ -1943,6 +2568,9 @@
         ],
         "short": [
             "hp_ipc"
+        ],
+        "local": [
+            "Hewlett-Packard HP Integral PC"
         ]
     },
     "HP Integral PC optional": {
@@ -1959,6 +2587,9 @@
         ],
         "short": [
             "hp9825b_rom"
+        ],
+        "local": [
+            "Hewlett-Packard HP 9825B"
         ]
     },
     "HP 9835A\/B": {
@@ -1967,6 +2598,9 @@
         ],
         "short": [
             "hp9835a_rom"
+        ],
+        "local": [
+            "Hewlett-Packard HP9835A-B"
         ]
     },
     "HP 9845A\/S": {
@@ -1975,6 +2609,9 @@
         ],
         "short": [
             "hp9845a_rom"
+        ],
+        "local": [
+            "Hewlett-Packard HP 9845A-S"
         ]
     },
     "HP 9845B\/T\/C": {
@@ -1983,6 +2620,9 @@
         ],
         "short": [
             "hp9845b_rom"
+        ],
+        "local": [
+            "Hewlett-Packard HP 9845B-T-C"
         ]
     },
     "HP9000\/300": {
@@ -1995,6 +2635,9 @@
             "hp9k3xx_flop",
             "hp9k3xx_cdrom",
             "hp9k3xx_hdd"
+        ],
+        "local": [
+            "Hewlett-Packard HP9000-300"
         ]
     },
     "HT68K": {
@@ -2003,6 +2646,9 @@
         ],
         "short": [
             "ht68k"
+        ],
+        "local": [
+            "Hawthorne Technology TinyGiant 68000 Single Board Computer"
         ]
     },
     "HyperScan": {
@@ -2011,6 +2657,9 @@
         ],
         "short": [
             "hyperscan"
+        ],
+        "local": [
+            "Mattel HyperScan"
         ]
     },
     "Mattel Hyperscan": {
@@ -2019,6 +2668,9 @@
         ],
         "short": [
             "hyperscan_card"
+        ],
+        "local": [
+            "Mattel HyperScan"
         ]
     },
     "Itautec I-7000": {
@@ -2027,6 +2679,9 @@
         ],
         "short": [
             "i7000_card"
+        ],
+        "local": [
+            "Itautec I-7000"
         ]
     },
     "IBM PC 5140 Convertible": {
@@ -2035,6 +2690,9 @@
         ],
         "short": [
             "ibm5140"
+        ],
+        "local": [
+            "IBM PC 5140 Convertible"
         ]
     },
     "IBM PC\/XT": {
@@ -2043,6 +2701,9 @@
         ],
         "short": [
             "ibm5150_cass"
+        ],
+        "local": [
+            "IBM PC-XT"
         ]
     },
     "IBM PC": {
@@ -2051,6 +2712,9 @@
         ],
         "short": [
             "ibm5150_hdd"
+        ],
+        "local": [
+            "IBM PC and Compatibles"
         ]
     },
     "IBM Displaywriter": {
@@ -2059,6 +2723,9 @@
         ],
         "short": [
             "ibm6580"
+        ],
+        "local": [
+            "IBM Displaywriter"
         ]
     },
     "IBM PC Jr": {
@@ -2067,6 +2734,9 @@
         ],
         "short": [
             "ibmpcjr_cart"
+        ],
+        "local": [
+            "IBM PCjr"
         ]
     },
     "IBM PCjr": {
@@ -2075,6 +2745,9 @@
         ],
         "short": [
             "ibmpcjr_flop"
+        ],
+        "local": [
+            "IBM PCjr"
         ]
     },
     "Fisher-Price \/ Mattel I Can Play Guitar": {
@@ -2083,6 +2756,9 @@
         ],
         "short": [
             "icanguit"
+        ],
+        "local": [
+            "Fisher-Price - Mattel I Can Play Guitar"
         ]
     },
     "Fisher-Price \/ Mattel I Can Play Piano": {
@@ -2091,6 +2767,9 @@
         ],
         "short": [
             "icanpian"
+        ],
+        "local": [
+            "Fisher-Price - Mattel I Can Play Piano"
         ]
     },
     "Radio-86RK": {
@@ -2101,6 +2780,9 @@
         "short": [
             "radio86_cass",
             "radio86_cart"
+        ],
+        "local": [
+            "Radio-86RK"
         ]
     },
     "Hard disk images for SGI MIPS": {
@@ -2109,6 +2791,9 @@
         ],
         "short": [
             "sgi_mips_hdd"
+        ],
+        "local": [
+            "SGI MIPS\/IRIX"
         ]
     },
     "VTech InnoTAB 1\/2\/3": {
@@ -2133,6 +2818,9 @@
         ],
         "short": [
             "intellect02"
+        ],
+        "local": [
+            "Generic Intellect-02"
         ]
     },
     "Intellivision": {
@@ -2141,6 +2829,9 @@
         ],
         "short": [
             "intv"
+        ],
+        "local": [
+            "Mattel Intellivision"
         ]
     },
     "Intellivision ECS": {
@@ -2149,6 +2840,9 @@
         ],
         "short": [
             "intvecs"
+        ],
+        "local": [
+            "Mattel Intellivision"
         ]
     },
     "Intergraph InterPro": {
@@ -2157,6 +2851,9 @@
         ],
         "short": [
             "interpro"
+        ],
+        "local": [
+            "Intergraph InterPro"
         ]
     },
     "VTech Genius IQ 128": {
@@ -2165,6 +2862,9 @@
         ],
         "short": [
             "iq128"
+        ],
+        "local": [
+            "VTech Genius IQ 128"
         ]
     },
     "IQ-151": {
@@ -2175,6 +2875,9 @@
         "short": [
             "iq151_cart",
             "iq151_flop"
+        ],
+        "local": [
+            "Generic IQ-151"
         ]
     },
     "Sharp Wizard series": {
@@ -2199,6 +2902,9 @@
         ],
         "short": [
             "iqunlim_cart"
+        ],
+        "local": [
+            "VTech IQ Unlimited"
         ]
     },
     "ITT 3030": {
@@ -2207,6 +2913,9 @@
         ],
         "short": [
             "itt3030"
+        ],
+        "local": [
+            "ITT 3030"
         ]
     },
     "Atari Jaguar": {
@@ -2215,6 +2924,9 @@
         ],
         "short": [
             "jaguar"
+        ],
+        "local": [
+            "Atari Jaguar"
         ]
     },
     "JAKKS Pacific 'DY' Game Keys": {
@@ -2223,6 +2935,9 @@
         ],
         "short": [
             "jakks_gamekey_dy"
+        ],
+        "local": [
+            "JAKKS Pacific 'DY' Game Keys"
         ]
     },
     "JAKKS Pacific 'NK' Game Keys": {
@@ -2231,6 +2946,9 @@
         ],
         "short": [
             "jakks_gamekey_nk"
+        ],
+        "local": [
+            "JAKKS Pacific 'NK' Game Keys"
         ]
     },
     "JAKKS Pacific 'DP' Game Keys": {
@@ -2239,6 +2957,9 @@
         ],
         "short": [
             "jakks_gamekey_dp"
+        ],
+        "local": [
+            "JAKKS Pacific 'DP' Game Keys"
         ]
     },
     "JAKKS Pacific 'NM' Game Keys": {
@@ -2247,6 +2968,9 @@
         ],
         "short": [
             "jakks_gamekey_nm"
+        ],
+        "local": [
+            "JAKKS Pacific 'NM' Game Keys"
         ]
     },
     "JAKKS Pacific 'SW' Game Keys": {
@@ -2255,6 +2979,9 @@
         ],
         "short": [
             "jakks_gamekey_sw"
+        ],
+        "local": [
+            "JAKKS Pacific 'SW' Game Keys"
         ]
     },
     "JAKKS Pacific 'MV' Game Keys": {
@@ -2263,6 +2990,9 @@
         ],
         "short": [
             "jakks_gamekey_mv"
+        ],
+        "local": [
+            "JAKKS Pacific 'MV' Game Keys"
         ]
     },
     "Panasonic JB-3000": {
@@ -2271,6 +3001,9 @@
         ],
         "short": [
             "jb3000_flop"
+        ],
+        "local": [
+            "Panasonic JB-3000"
         ]
     },
     "Philips Videopac \/ Odyssey 2": {
@@ -2279,6 +3012,9 @@
         ],
         "short": [
             "videopac"
+        ],
+        "local": [
+            "Philips Videopac \/ Odyssey 2"
         ]
     },
     "Takara Jumping Popira (Japan) JP-xx series": {
@@ -2287,6 +3023,9 @@
         ],
         "short": [
             "jpopira_jp"
+        ],
+        "local": [
+            "Takara Jumping Popira (Japan) JP-xx series"
         ]
     },
     "Mattel Juice Box": {
@@ -2295,6 +3034,9 @@
         ],
         "short": [
             "juicebox"
+        ],
+        "local": [
+            "Mattel Juice Box"
         ]
     },
     "Juku E5101": {
@@ -2303,6 +3045,9 @@
         ],
         "short": [
             "juku"
+        ],
+        "local": [
+            "Juku E5101"
         ]
     },
     "Jupiter Cantab Jupiter Ace": {
@@ -2313,6 +3058,9 @@
         "short": [
             "jupace_cass",
             "jupace_snap"
+        ],
+        "local": [
+            "Jupiter Cantab Jupiter Ace"
         ]
     },
     "K28 model 7-232": {
@@ -2321,6 +3069,9 @@
         ],
         "short": [
             "k28m2"
+        ],
+        "local": [
+            "Tiger Electronics K28 Talking Learning Computer"
         ]
     },
     "Kaypro CP\/M": {
@@ -2337,6 +3088,9 @@
         ],
         "short": [
             "trsm100"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Model 100"
         ]
     },
     "VEB Mikroelektronik KC 85": {
@@ -2349,6 +3103,9 @@
             "kc_cart",
             "kc_flop",
             "kc_cass"
+        ],
+        "local": [
+            "VEB Mikroelektronik KC 85"
         ]
     },
     "KIM-1": {
@@ -2357,6 +3114,9 @@
         ],
         "short": [
             "kim1_cass"
+        ],
+        "local": [
+            "MOS KIM-1"
         ]
     },
     "TIKI-100": {
@@ -2365,6 +3125,9 @@
         ],
         "short": [
             "tiki100"
+        ],
+        "local": [
+            "Tiki Data Kontiki-100 & Tiki-100"
         ]
     },
     "Vector-06C": {
@@ -2375,6 +3138,9 @@
         "short": [
             "vector06_flop",
             "vector06_cart"
+        ],
+        "local": [
+            "Vector-06C"
         ]
     },
     "Mikro-80": {
@@ -2383,6 +3149,9 @@
         ],
         "short": [
             "mikro80"
+        ],
+        "local": [
+            "Mikro-80"
         ]
     },
     "Sinclair ZX81": {
@@ -2391,6 +3160,9 @@
         ],
         "short": [
             "zx81_cass"
+        ],
+        "local": [
+            "Sinclair ZX-81"
         ]
     },
     "Language Tutor": {
@@ -2399,6 +3171,9 @@
         ],
         "short": [
             "lantutor"
+        ],
+        "local": [
+            "Language Tutor"
         ]
     },
     "VTech Laser 500": {
@@ -2417,6 +3192,9 @@
         "short": [
             "laser2001_cart",
             "laser2001_flop"
+        ],
+        "local": [
+            "VTech Laser 2001"
         ]
     },
     "LeapFrog Leapster Explorer": {
@@ -2433,6 +3211,9 @@
         ],
         "short": [
             "leapfrog_leappad_cart"
+        ],
+        "local": [
+            "LeapFrog LeapPad"
         ]
     },
     "LeapFrog Leapster": {
@@ -2441,6 +3222,9 @@
         ],
         "short": [
             "leapster"
+        ],
+        "local": [
+            "LeapFrog Leapster Learning Game System"
         ]
     },
     "Apple Lisa": {
@@ -2449,6 +3233,9 @@
         ],
         "short": [
             "lisa"
+        ],
+        "local": [
+            "Apple Lisa"
         ]
     },
     "LK-3000": {
@@ -2465,6 +3252,9 @@
         ],
         "short": [
             "leapfrog_ltleappad_cart"
+        ],
+        "local": [
+            "LeapFrog Little Touch LeapPad"
         ]
     },
     "Lviv": {
@@ -2473,6 +3263,9 @@
         ],
         "short": [
             "lviv"
+        ],
+        "local": [
+            "Lviv PC-01"
         ]
     },
     "Atari Lynx": {
@@ -2481,6 +3274,9 @@
         ],
         "short": [
             "lynx"
+        ],
+        "local": [
+            "Atari Lynx"
         ]
     },
     "Camputers Lynx": {
@@ -2491,6 +3287,9 @@
         "short": [
             "camplynx_cass",
             "camplynx_flop"
+        ],
+        "local": [
+            "Camputers Lynx"
         ]
     },
     "Olivetti M20": {
@@ -2499,6 +3298,9 @@
         ],
         "short": [
             "m20"
+        ],
+        "local": [
+            "Olivetti M20"
         ]
     },
     "Olivetti M24": {
@@ -2507,6 +3309,9 @@
         ],
         "short": [
             "m24"
+        ],
+        "local": [
+            "Olivetti M24"
         ]
     },
     "Sord M5": {
@@ -2517,6 +3322,9 @@
         "short": [
             "m5_cart",
             "m5_cass"
+        ],
+        "local": [
+            "Sord M5"
         ]
     },
     "Sord m5": {
@@ -2525,6 +3333,9 @@
         ],
         "short": [
             "m5_flop"
+        ],
+        "local": [
+            "Sord M5"
         ]
     },
     "Mikrosha": {
@@ -2535,6 +3346,9 @@
         "short": [
             "mikrosha_cass",
             "mikrosha_cart"
+        ],
+        "local": [
+            "Radio-86RK Mikrosha"
         ]
     },
     "Macintosh 400K\/800K": {
@@ -2543,6 +3357,9 @@
         ],
         "short": [
             "mac_flop"
+        ],
+        "local": [
+            "Apple Macintosh"
         ]
     },
     "Mac Harddisks": {
@@ -2551,6 +3368,9 @@
         ],
         "short": [
             "mac_hdd"
+        ],
+        "local": [
+            "Apple Macintosh"
         ]
     },
     "Macintosh High Density": {
@@ -2567,6 +3387,9 @@
         ],
         "short": [
             "mbc200"
+        ],
+        "local": [
+            "Sanyo MBC-200-MBC-1200"
         ]
     },
     "Sanyo MBC-550 and MBC-555": {
@@ -2575,6 +3398,9 @@
         ],
         "short": [
             "mbc55x"
+        ],
+        "local": [
+            "Sanyo MBC-550 and MBC-555"
         ]
     },
     "Microbee": {
@@ -2603,6 +3429,9 @@
         ],
         "short": [
             "mc1000_cass"
+        ],
+        "local": [
+            "CCE MC-1000"
         ]
     },
     "MC-1502": {
@@ -2611,6 +3440,9 @@
         ],
         "short": [
             "mc1502_flop"
+        ],
+        "local": [
+            "Elektronika MC-1502"
         ]
     },
     "MD-2": {
@@ -2619,6 +3451,9 @@
         ],
         "short": [
             "md2_flop"
+        ],
+        "local": [
+            "Sega MD-2"
         ]
     },
     "Creatronic Mega Duck": {
@@ -2627,6 +3462,9 @@
         ],
         "short": [
             "megaduck"
+        ],
+        "local": [
+            "Creatronic Mega Duck & Cougar Boy"
         ]
     },
     "Amstrad Mega PC": {
@@ -2635,6 +3473,9 @@
         ],
         "short": [
             "megapc"
+        ],
+        "local": [
+            "Amstrad Mega PC"
         ]
     },
     "Sega MegaTech": {
@@ -2643,6 +3484,9 @@
         ],
         "short": [
             "megatech"
+        ],
+        "local": [
+            "Sega MegaTech"
         ]
     },
     "LeapFrog My First LeapPad": {
@@ -2651,6 +3495,9 @@
         ],
         "short": [
             "leapfrog_mfleappad_cart"
+        ],
+        "local": [
+            "LeapFrog My First LeapPad"
         ]
     },
     "Microtan 65": {
@@ -2663,6 +3510,10 @@
             "mt65_rom",
             "mt65_cass",
             "mt65_snap"
+        ],
+        "local": [
+            "Microtan 65",
+            "Tangerine Microtan 65"
         ]
     },
     "Milton Bradley Microvision": {
@@ -2671,6 +3522,9 @@
         ],
         "short": [
             "microvision"
+        ],
+        "local": [
+            "Milton Bradley Microvision"
         ]
     },
     "Mindset Corporation Mindset": {
@@ -2679,6 +3533,9 @@
         ],
         "short": [
             "mindset_flop"
+        ],
+        "local": [
+            "Mindset Corporation Mindset"
         ]
     },
     "Fidelity MSC": {
@@ -2687,6 +3544,9 @@
         ],
         "short": [
             "fidel_msc"
+        ],
+        "local": [
+            "Fidelity MSC"
         ]
     },
     "Mephisto MM I": {
@@ -2695,6 +3555,9 @@
         ],
         "short": [
             "mephisto_mm1"
+        ],
+        "local": [
+            "Mephisto MM I"
         ]
     },
     "MikroMikko 1": {
@@ -2703,6 +3566,9 @@
         ],
         "short": [
             "mm1_flop"
+        ],
+        "local": [
+            "MikroMikko 1"
         ]
     },
     "Mephisto MM II": {
@@ -2711,6 +3577,9 @@
         ],
         "short": [
             "mephisto_mm2"
+        ],
+        "local": [
+            "Mephisto MM II"
         ]
     },
     "Mephisto MM IV": {
@@ -2719,6 +3588,9 @@
         ],
         "short": [
             "mephisto_mm4"
+        ],
+        "local": [
+            "Mephisto MM IV"
         ]
     },
     "Mephisto MM V": {
@@ -2727,6 +3599,9 @@
         ],
         "short": [
             "mephisto_mm5"
+        ],
+        "local": [
+            "Mephisto MM V"
         ]
     },
     "Commodore SuperPET \/ MMF 9000": {
@@ -2735,6 +3610,9 @@
         ],
         "short": [
             "superpet_flop"
+        ],
+        "local": [
+            "Commodore SuperPET - MMF 9000"
         ]
     },
     "Jazz": {
@@ -2743,6 +3621,9 @@
         ],
         "short": [
             "jazz"
+        ],
+        "local": [
+            "Generic Jazz"
         ]
     },
     "Thomson MO5": {
@@ -2757,6 +3638,9 @@
             "mo5_cass",
             "mo5_flop",
             "mo5_qd"
+        ],
+        "local": [
+            "Thomson MO5"
         ]
     },
     "Thomson MO6": {
@@ -2767,6 +3651,9 @@
         "short": [
             "mo6_cass",
             "mo6_flop"
+        ],
+        "local": [
+            "Thomson MO6"
         ]
     },
     "VTech Mobigo": {
@@ -2775,6 +3662,9 @@
         ],
         "short": [
             "mobigo_cart"
+        ],
+        "local": [
+            "VTech Mobigo"
         ]
     },
     "M&D Monon Color": {
@@ -2783,6 +3673,9 @@
         ],
         "short": [
             "monon_color"
+        ],
+        "local": [
+            "M&D Monon Color"
         ]
     },
     "Acetronic MPU-1000": {
@@ -2791,6 +3684,9 @@
         ],
         "short": [
             "mpu1000"
+        ],
+        "local": [
+            "Acetronic MPU-1000"
         ]
     },
     "Morrow MPZ80": {
@@ -2799,6 +3695,9 @@
         ],
         "short": [
             "mpz80"
+        ],
+        "local": [
+            "Morrow MPZ80"
         ]
     },
     "Memotech MTX": {
@@ -2813,6 +3712,9 @@
             "mtx_flop",
             "mtx_cart",
             "mtx_rom"
+        ],
+        "local": [
+            "Memotech MTX512"
         ]
     },
     "Nichibutsu My Vision": {
@@ -2821,6 +3723,9 @@
         ],
         "short": [
             "myvision"
+        ],
+        "local": [
+            "Nichibutsu My Vision"
         ]
     },
     "Sharp MZ-800": {
@@ -2829,6 +3734,9 @@
         ],
         "short": [
             "mz800_cass"
+        ],
+        "local": [
+            "Sharp MZ-800"
         ]
     },
     "MZ-2000": {
@@ -2839,6 +3747,9 @@
         "short": [
             "mz2000_flop",
             "mz2000_cass"
+        ],
+        "local": [
+            "Sharp MZ-2000"
         ]
     },
     "Sharp MZ-2200": {
@@ -2847,6 +3758,9 @@
         ],
         "short": [
             "mz2200_cass"
+        ],
+        "local": [
+            "Sharp MZ-2200"
         ]
     },
     "MZ-2500": {
@@ -2855,6 +3769,9 @@
         ],
         "short": [
             "mz2500"
+        ],
+        "local": [
+            "Sharp MZ-2500"
         ]
     },
     "Sharp MZ-700": {
@@ -2863,6 +3780,9 @@
         ],
         "short": [
             "mz700_cass"
+        ],
+        "local": [
+            "Sharp MZ-700"
         ]
     },
     "Nintendo 64": {
@@ -2871,6 +3791,9 @@
         ],
         "short": [
             "n64"
+        ],
+        "local": [
+            "Nintendo 64"
         ]
     },
     "Nintendo 64 DD": {
@@ -2879,6 +3802,9 @@
         ],
         "short": [
             "n64dd"
+        ],
+        "local": [
+            "Nintendo 64DD"
         ]
     },
     "Nascom": {
@@ -2891,6 +3817,9 @@
             "nascom_snap",
             "nascom_socket",
             "nascom_flop"
+        ],
+        "local": [
+            "Nascom I & II"
         ]
     },
     "SNK NeoGeo CD": {
@@ -2899,6 +3828,9 @@
         ],
         "short": [
             "neocd"
+        ],
+        "local": [
+            "SNK Neo Geo CD"
         ]
     },
     "NeXT CD-ROM": {
@@ -2923,6 +3855,9 @@
         ],
         "short": [
             "next"
+        ],
+        "local": [
+            "Generic NeXT"
         ]
     },
     "SNK Neo Geo Pocket": {
@@ -2931,6 +3866,9 @@
         ],
         "short": [
             "ngp"
+        ],
+        "local": [
+            "SNK Neo Geo Pocket"
         ]
     },
     "SNK Neo Geo Pocket Color": {
@@ -2939,6 +3877,9 @@
         ],
         "short": [
             "ngpc"
+        ],
+        "local": [
+            "SNK Neo Geo Pocket Color"
         ]
     },
     "RM Nimbus": {
@@ -2947,6 +3888,9 @@
         ],
         "short": [
             "nimbus"
+        ],
+        "local": [
+            "RM Nimbus PC"
         ]
     },
     "NEC PC-8201(A)": {
@@ -2955,6 +3899,9 @@
         ],
         "short": [
             "pc8201"
+        ],
+        "local": [
+            "NEC PC-8201"
         ]
     },
     "NorthStar Horizon": {
@@ -2963,6 +3910,9 @@
         ],
         "short": [
             "horizon"
+        ],
+        "local": [
+            "NorthStar Horizon"
         ]
     },
     "LSI Octopus floppy": {
@@ -2971,6 +3921,9 @@
         ],
         "short": [
             "octopus"
+        ],
+        "local": [
+            "LSI Octopus floppy"
         ]
     },
     "Sega SG-1000 and SG-1000 MarkII": {
@@ -2979,6 +3932,9 @@
         ],
         "short": [
             "sg1000"
+        ],
+        "local": [
+            "Sega SG-1000"
         ]
     },
     "Ondra & Ondra ViLi": {
@@ -2987,6 +3943,9 @@
         ],
         "short": [
             "ondra"
+        ],
+        "local": [
+            "Ondra & Ondra ViLi"
         ]
     },
     "PEL Varazdin Orao": {
@@ -2995,6 +3954,9 @@
         ],
         "short": [
             "orao"
+        ],
+        "local": [
+            "PEL Varazdin Orao"
         ]
     },
     "Orion 128": {
@@ -3005,6 +3967,9 @@
         "short": [
             "orion_cass",
             "orion_flop"
+        ],
+        "local": [
+            "Generic Orion 128"
         ]
     },
     "Orion-128 & Pro": {
@@ -3013,6 +3978,9 @@
         ],
         "short": [
             "orion_cart"
+        ],
+        "local": [
+            "Generic Orion 128"
         ]
     },
     "OrionPro": {
@@ -3021,6 +3989,9 @@
         ],
         "short": [
             "orionpro_flop"
+        ],
+        "local": [
+            "Generic OrionPro"
         ]
     },
     "Osborne 2 Executive": {
@@ -3029,6 +4000,9 @@
         ],
         "short": [
             "osborne2"
+        ],
+        "local": [
+            "OCC Osborne 2 Executive"
         ]
     },
     "Osborne-1": {
@@ -3037,6 +4011,9 @@
         ],
         "short": [
             "osborne1"
+        ],
+        "local": [
+            "OCC Osborne-1"
         ]
     },
     "Commodore P500": {
@@ -3045,6 +4022,9 @@
         ],
         "short": [
             "p500_flop"
+        ],
+        "local": [
+            "Commodore P500"
         ]
     },
     "Partner-01.01": {
@@ -3055,6 +4035,9 @@
         "short": [
             "partner_cass",
             "partner_flop"
+        ],
+        "local": [
+            "Partner-01.01"
         ]
     },
     "Koei PasoGo": {
@@ -3063,6 +4046,9 @@
         ],
         "short": [
             "pasogo"
+        ],
+        "local": [
+            "Koei PasoGo"
         ]
     },
     "Toshiba Personal Computer Pasopia PA7010": {
@@ -3071,6 +4057,9 @@
         ],
         "short": [
             "pasopia_cass"
+        ],
+        "local": [
+            "Toshiba Personal Computer Pasopia PA7010"
         ]
     },
     "Amstrad PC1512": {
@@ -3081,6 +4070,9 @@
         "short": [
             "pc1512_flop",
             "pc1512_hdd"
+        ],
+        "local": [
+            "Amstrad PC1512"
         ]
     },
     "Amstrad PC1640": {
@@ -3091,6 +4083,9 @@
         "short": [
             "pc1640_flop",
             "pc1640_hdd"
+        ],
+        "local": [
+            "Amstrad PC1640"
         ]
     },
     "Sinclair PC200": {
@@ -3109,6 +4104,9 @@
         "short": [
             "pc98",
             "pc98_cd"
+        ],
+        "local": [
+            "NEC PC-9801"
         ]
     },
     "NEC PC-6001": {
@@ -3117,6 +4115,9 @@
         ],
         "short": [
             "pc6001_cart"
+        ],
+        "local": [
+            "NEC PC-6001"
         ]
     },
     "NEC PC-8001 (N-BASIC)": {
@@ -3151,6 +4152,9 @@
         "short": [
             "pc8801_cass",
             "pc8801_flop"
+        ],
+        "local": [
+            "NEC PC-8801"
         ]
     },
     "NEC PC-88VA": {
@@ -3159,6 +4163,9 @@
         ],
         "short": [
             "pc88va"
+        ],
+        "local": [
+            "NEC PC-88VA"
         ]
     },
     "Siemens PC-D": {
@@ -3167,6 +4174,9 @@
         ],
         "short": [
             "pcd_flop"
+        ],
+        "local": [
+            "Siemens PC-D"
         ]
     },
     "NEC PC-Engine \/ Turbografx 16": {
@@ -3175,6 +4185,9 @@
         ],
         "short": [
             "pcecd"
+        ],
+        "local": [
+            "NEC PC-Engine & TurboGrafx-16"
         ]
     },
     "NEC PC-Engine": {
@@ -3183,6 +4196,9 @@
         ],
         "short": [
             "pce"
+        ],
+        "local": [
+            "NEC PC-Engine"
         ]
     },
     "NEC PC-FX": {
@@ -3191,6 +4207,9 @@
         ],
         "short": [
             "pcfx"
+        ],
+        "local": [
+            "NEC PC-FX"
         ]
     },
     "Amstrad PCW": {
@@ -3199,6 +4218,9 @@
         ],
         "short": [
             "pcw"
+        ],
+        "local": [
+            "Amstrad PCW"
         ]
     },
     "Amstrad PCW16": {
@@ -3207,6 +4229,9 @@
         ],
         "short": [
             "pcw16"
+        ],
+        "local": [
+            "Amstrad PCW16"
         ]
     },
     "Siemens PC-X": {
@@ -3215,6 +4240,9 @@
         ],
         "short": [
             "pcx_flop"
+        ],
+        "local": [
+            "Siemens PC-X"
         ]
     },
     "PDP-1 Paper Tape Reader images": {
@@ -3231,6 +4259,9 @@
         ],
         "short": [
             "pecom_cass"
+        ],
+        "local": [
+            "Elektronska Industrija Nis PECOM 32 & 64"
         ]
     },
     "Technosys Aamber Pegasus": {
@@ -3239,6 +4270,9 @@
         ],
         "short": [
             "pegasus_cart"
+        ],
+        "local": [
+            "Technosys Aamber Pegasus"
         ]
     },
     "Hanimex Pencil II": {
@@ -3247,6 +4281,9 @@
         ],
         "short": [
             "pencil2"
+        ],
+        "local": [
+            "Hanimex Pencil II"
         ]
     },
     "Pentagon (ZX Spectrum clone)": {
@@ -3255,6 +4292,9 @@
         ],
         "short": [
             "pentagon_cass"
+        ],
+        "local": [
+            "Pentagon (ZX Spectrum clone)"
         ]
     },
     "PHC-25": {
@@ -3263,6 +4303,9 @@
         ],
         "short": [
             "phc25_cass"
+        ],
+        "local": [
+            "Generic PHC-25"
         ]
     },
     "Publications International Ltd. Story Reader": {
@@ -3271,6 +4314,9 @@
         ],
         "short": [
             "pi_storyreader_cart"
+        ],
+        "local": [
+            "Publications International Ltd. Story Reader"
         ]
     },
     "Publications International Ltd Story Reader 2.0": {
@@ -3279,6 +4325,9 @@
         ],
         "short": [
             "pi_storyreader_v2_cart"
+        ],
+        "local": [
+            "Publications International Ltd Story Reader 2.0"
         ]
     },
     "Konami Picno": {
@@ -3287,6 +4336,9 @@
         ],
         "short": [
             "picno"
+        ],
+        "local": [
+            "Konami Picno"
         ]
     },
     "Sega Pico": {
@@ -3295,6 +4347,9 @@
         ],
         "short": [
             "pico"
+        ],
+        "local": [
+            "Sega Pico"
         ]
     },
     "Pippin": {
@@ -3303,6 +4358,9 @@
         ],
         "short": [
             "pippin"
+        ],
+        "local": [
+            "Bandai Pippin"
         ]
     },
     "Tiger Playmaker playcards": {
@@ -3319,6 +4377,9 @@
         ],
         "short": [
             "pockchalw"
+        ],
+        "local": [
+            "Benesse Pocket Challenge W"
         ]
     },
     "Atari Portfolio": {
@@ -3327,6 +4388,9 @@
         ],
         "short": [
             "pofo"
+        ],
+        "local": [
+            "Atari Portfolio"
         ]
     },
     "Poisk-1": {
@@ -3335,6 +4399,9 @@
         ],
         "short": [
             "poisk1_flop"
+        ],
+        "local": [
+            "Generic Poisk-1"
         ]
     },
     "Nintendo Pokemini": {
@@ -3343,6 +4410,9 @@
         ],
         "short": [
             "pokemini"
+        ],
+        "local": [
+            "Nintendo Pokemon Mini"
         ]
     },
     "Poly": {
@@ -3351,6 +4421,9 @@
         ],
         "short": [
             "poly_flop"
+        ],
+        "local": [
+            "Generic Poly"
         ]
     },
     "Tomy Prin-C": {
@@ -3359,6 +4432,9 @@
         ],
         "short": [
             "princ"
+        ],
+        "local": [
+            "Tomy Prin-C"
         ]
     },
     "Olivetti Prodest PC 128": {
@@ -3371,6 +4447,9 @@
             "pro128_cart",
             "pro128_cass",
             "pro128_flop"
+        ],
+        "local": [
+            "Olivetti Prodest PC 128"
         ]
     },
     "Conitec PROF-180": {
@@ -3379,6 +4458,9 @@
         ],
         "short": [
             "prof180"
+        ],
+        "local": [
+            "Conitec PROF-180"
         ]
     },
     "Conitec PROF-80": {
@@ -3387,6 +4469,9 @@
         ],
         "short": [
             "prof80"
+        ],
+        "local": [
+            "Conitec PROF-80"
         ]
     },
     "Video Technology Socrates": {
@@ -3395,6 +4480,9 @@
         ],
         "short": [
             "socrates"
+        ],
+        "local": [
+            "VTech Socrates"
         ]
     },
     "Sony Playstation": {
@@ -3403,6 +4491,9 @@
         ],
         "short": [
             "psx"
+        ],
+        "local": [
+            "Sony Playstation"
         ]
     },
     "Kontron PSI98": {
@@ -3411,6 +4502,9 @@
         ],
         "short": [
             "psi98"
+        ],
+        "local": [
+            "Kontron PSI98"
         ]
     },
     "Psion Organiser I": {
@@ -3419,6 +4513,9 @@
         ],
         "short": [
             "psion1"
+        ],
+        "local": [
+            "Psion Organiser I"
         ]
     },
     "Psion Organiser II": {
@@ -3427,6 +4524,9 @@
         ],
         "short": [
             "psion2"
+        ],
+        "local": [
+            "Psion Organiser II"
         ]
     },
     "PT68K2": {
@@ -3435,6 +4535,9 @@
         ],
         "short": [
             "pt68k2"
+        ],
+        "local": [
+            "Generic PT68K2"
         ]
     },
     "Casio PV-1000": {
@@ -3443,6 +4546,9 @@
         ],
         "short": [
             "pv1000"
+        ],
+        "local": [
+            "Casio PV-1000"
         ]
     },
     "Casio PV-2000": {
@@ -3451,6 +4557,9 @@
         ],
         "short": [
             "pv2000"
+        ],
+        "local": [
+            "Casio PV-2000"
         ]
     },
     "EPSON PX-4": {
@@ -3459,6 +4568,9 @@
         ],
         "short": [
             "px4_cart"
+        ],
+        "local": [
+            "EPSON PX-4"
         ]
     },
     "EPSON PX-8": {
@@ -3467,6 +4579,9 @@
         ],
         "short": [
             "px8_cart"
+        ],
+        "local": [
+            "Epson PX-8, HC-88 & Geneva"
         ]
     },
     "Pyldin-601": {
@@ -3475,6 +4590,9 @@
         ],
         "short": [
             "pyl601"
+        ],
+        "local": [
+            "Generic Pyldin-601"
         ]
     },
     "Tomy Tutor & Pyuuta": {
@@ -3483,6 +4601,9 @@
         ],
         "short": [
             "tutor"
+        ],
+        "local": [
+            "Tomy Tutor & Pyuuta"
         ]
     },
     "Sinclair QL": {
@@ -3495,6 +4616,9 @@
             "ql_cart",
             "ql_cass",
             "ql_flop"
+        ],
+        "local": [
+            "Sinclair QL"
         ]
     },
     "Coleco Quiz Wiz": {
@@ -3503,6 +4627,9 @@
         ],
         "short": [
             "quizwiz"
+        ],
+        "local": [
+            "Coleco Quiz Wiz"
         ]
     },
     "Epson QX-10": {
@@ -3511,6 +4638,9 @@
         ],
         "short": [
             "qx10_flop"
+        ],
+        "local": [
+            "Epson QX-10"
         ]
     },
     "Roland R-8 PCM": {
@@ -3527,6 +4657,9 @@
         ],
         "short": [
             "r9751"
+        ],
+        "local": [
+            "ROLM CBX 9751 floppy"
         ]
     },
     "DEC Rainbow 100": {
@@ -3535,6 +4668,9 @@
         ],
         "short": [
             "rainbow"
+        ],
+        "local": [
+            "DEC Rainbow 100"
         ]
     },
     "Roland TN-SC1 Music Style Cards": {
@@ -3551,6 +4687,9 @@
         ],
         "short": [
             "rwtrntcs"
+        ],
+        "local": [
+            "Rowtron Television Computer System"
         ]
     },
     "Gundam RX-78": {
@@ -3561,6 +4700,9 @@
         "short": [
             "rx78_cart",
             "rx78_cass"
+        ],
+        "local": [
+            "Gundam RX-78"
         ]
     },
     "Select-A-Game": {
@@ -3569,6 +4711,9 @@
         ],
         "short": [
             "entex_sag"
+        ],
+        "local": [
+            "Entex Select-a-Game"
         ]
     },
     "Saga Fox": {
@@ -3585,6 +4730,9 @@
         ],
         "short": [
             "sage2"
+        ],
+        "local": [
+            "Sage II"
         ]
     },
     "SAM Coup\u00e9": {
@@ -3603,6 +4751,9 @@
         ],
         "short": [
             "sawatte"
+        ],
+        "local": [
+            "Sega Sawatte Pico"
         ]
     },
     "Super Brain": {
@@ -3611,6 +4762,9 @@
         ],
         "short": [
             "sbrain"
+        ],
+        "local": [
+            "Super Brain"
         ]
     },
     "Sega Computer 3000": {
@@ -3621,6 +4775,9 @@
         "short": [
             "sc3000_cart",
             "sc3000_cass"
+        ],
+        "local": [
+            "Sega Computer 3000"
         ]
     },
     "Sensor Chess": {
@@ -3629,6 +4786,9 @@
         ],
         "short": [
             "saitek_schess"
+        ],
+        "local": [
+            "Saitek Kasparov Sensor Chess"
         ]
     },
     "Epoch Super Cassette Vision": {
@@ -3637,6 +4797,9 @@
         ],
         "short": [
             "scv"
+        ],
+        "local": [
+            "Epoch Super Cassette Vision"
         ]
     },
     "SDK-85": {
@@ -3645,6 +4808,9 @@
         ],
         "short": [
             "sdk85"
+        ],
+        "local": [
+            "SDK-85"
         ]
     },
     "Sega Super Control Station SF-7000": {
@@ -3653,6 +4819,9 @@
         ],
         "short": [
             "sf7000"
+        ],
+        "local": [
+            "Sega Super Control Station SF-7000"
         ]
     },
     "Sega Master System": {
@@ -3661,6 +4830,9 @@
         ],
         "short": [
             "sms"
+        ],
+        "local": [
+            "Sega Mark III & Master System"
         ]
     },
     "NEC Supergrafx": {
@@ -3669,6 +4841,9 @@
         ],
         "short": [
             "sgx"
+        ],
+        "local": [
+            "NEC PC Engine SuperGrafx"
         ]
     },
     "SITCOM": {
@@ -3677,6 +4852,9 @@
         ],
         "short": [
             "sitcom"
+        ],
+        "local": [
+            "Generic SITCOM"
         ]
     },
     "WinFun KidConnection SmarTV Adventures \/ Funtastic TV Adventures": {
@@ -3685,6 +4863,9 @@
         ],
         "short": [
             "smarttv_cart"
+        ],
+        "local": [
+            "WinFun KidConnection SmarTV Adventures \/ Funtastic TV Adventures"
         ]
     },
     "Sony SMC777": {
@@ -3693,6 +4874,9 @@
         ],
         "short": [
             "smc777"
+        ],
+        "local": [
+            "Sony SMC777"
         ]
     },
     "Mephisto Super Mondial II": {
@@ -3701,6 +4885,9 @@
         ],
         "short": [
             "mephisto_smondial2"
+        ],
+        "local": [
+            "Mephisto Super Mondial II"
         ]
     },
     "Nintendo SNES": {
@@ -3709,6 +4896,9 @@
         ],
         "short": [
             "snes"
+        ],
+        "local": [
+            "Nintendo Super Nintendo Entertainment System"
         ]
     },
     "Nintendo SNES Satellaview": {
@@ -3717,6 +4907,9 @@
         ],
         "short": [
             "snes_bspack"
+        ],
+        "local": [
+            "Nintendo Satellaview"
         ]
     },
     "Nintendo SNES - Sufami Turbo": {
@@ -3725,6 +4918,9 @@
         ],
         "short": [
             "snes_strom"
+        ],
+        "local": [
+            "Nintendo Sufami Turbo"
         ]
     },
     "Speak & Read": {
@@ -3733,6 +4929,9 @@
         ],
         "short": [
             "snread"
+        ],
+        "local": [
+            "Texas Instruments Speak & Read"
         ]
     },
     "Speak & Spell": {
@@ -3741,6 +4940,9 @@
         ],
         "short": [
             "snspell"
+        ],
+        "local": [
+            "Texas Instruments Speak & Spell"
         ]
     },
     "SSE SoftBox": {
@@ -3749,6 +4951,9 @@
         ],
         "short": [
             "softbox"
+        ],
+        "local": [
+            "SSE SoftBox"
         ]
     },
     "PTC SOL-20": {
@@ -3757,6 +4962,9 @@
         ],
         "short": [
             "sol20_cass"
+        ],
+        "local": [
+            "PTC Sol Terminal Computer SOL-20"
         ]
     },
     "Exidy Sorcerer": {
@@ -3769,6 +4977,9 @@
             "sorcerer_cart",
             "sorcerer_cass",
             "sorcerer_flop"
+        ],
+        "local": [
+            "Exidy Sorcerer"
         ]
     },
     "Sinclair ZX Spectrum +3": {
@@ -3777,6 +4988,9 @@
         ],
         "short": [
             "specpls3_flop"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum +3"
         ]
     },
     "Samsung SPC-1000": {
@@ -3785,6 +4999,9 @@
         ],
         "short": [
             "spc1000_cass"
+        ],
+        "local": [
+            "Samsung SPC-1000"
         ]
     },
     "Samsung SPC-1500": {
@@ -3793,6 +5010,9 @@
         ],
         "short": [
             "spc1500_cass"
+        ],
+        "local": [
+            "Samsung SPC-1500"
         ]
     },
     "Specialist MX": {
@@ -3801,6 +5021,9 @@
         ],
         "short": [
             "special_flop"
+        ],
+        "local": [
+            "Specialist MX"
         ]
     },
     "Squale": {
@@ -3809,6 +5032,9 @@
         ],
         "short": [
             "squale_cart"
+        ],
+        "local": [
+            "Generic Squale"
         ]
     },
     "SSEM": {
@@ -3825,6 +5051,9 @@
         ],
         "short": [
             "novag_ssensor4"
+        ],
+        "local": [
+            "Super Sensor IV"
         ]
     },
     "Saitek KSO": {
@@ -3833,6 +5062,9 @@
         ],
         "short": [
             "saitek_kso"
+        ],
+        "local": [
+            "Saitek KSO"
         ]
     },
     "Taikee Singing Star Karaoke": {
@@ -3849,6 +5081,9 @@
         ],
         "short": [
             "stepone_flop"
+        ],
+        "local": [
+            "Ericsson PC step-one"
         ]
     },
     "VTech Storio V.Reader": {
@@ -3857,6 +5092,9 @@
         ],
         "short": [
             "vtech_storio_cart"
+        ],
+        "local": [
+            "VTech Storio V.Reader"
         ]
     },
     "Sega Titan Video": {
@@ -3865,6 +5103,9 @@
         ],
         "short": [
             "stv"
+        ],
+        "local": [
+            "Sega Titan Video"
         ]
     },
     "ADC Super Six": {
@@ -3873,6 +5114,9 @@
         ],
         "short": [
             "super6"
+        ],
+        "local": [
+            "ADC Super Six"
         ]
     },
     "Super-80": {
@@ -3881,6 +5125,9 @@
         ],
         "short": [
             "super80_cass"
+        ],
+        "local": [
+            "Dick Smith Super-80"
         ]
     },
     "Dick Smith Super-80": {
@@ -3889,6 +5136,9 @@
         ],
         "short": [
             "super80_flop"
+        ],
+        "local": [
+            "Dick Smith Super-80"
         ]
     },
     "Funtech Super A'Can": {
@@ -3897,6 +5147,9 @@
         ],
         "short": [
             "supracan"
+        ],
+        "local": [
+            "Funtech Super A'Can"
         ]
     },
     "Bandai Super Vision 8000": {
@@ -3905,6 +5158,9 @@
         ],
         "short": [
             "sv8000"
+        ],
+        "local": [
+            "Bandai Super Vision 8000"
         ]
     },
     "Spectravision SVI-318": {
@@ -3915,6 +5171,9 @@
         "short": [
             "svi318_cass",
             "svi318_cart"
+        ],
+        "local": [
+            "Spectravideo SVI-318 & SVI-328"
         ]
     },
     "Watara Supervision": {
@@ -3923,6 +5182,9 @@
         ],
         "short": [
             "svision"
+        ],
+        "local": [
+            "Watara Supervision"
         ]
     },
     "Sega Visual Memory Unit": {
@@ -3931,6 +5193,9 @@
         ],
         "short": [
             "svmu"
+        ],
+        "local": [
+            "Sega Visual Memory System"
         ]
     },
     "Tandy 1000 series": {
@@ -3939,6 +5204,9 @@
         ],
         "short": [
             "t1000"
+        ],
+        "local": [
+            "Tandy Radio Shack Tandy 1000 series"
         ]
     },
     "Thomson TO7": {
@@ -3947,6 +5215,9 @@
         ],
         "short": [
             "to7_cart"
+        ],
+        "local": [
+            "Thomson TO7"
         ]
     },
     "Thomson TO7 & TO7\/70 cassetes": {
@@ -3955,6 +5226,9 @@
         ],
         "short": [
             "to7_cass"
+        ],
+        "local": [
+            "Thomson TO7"
         ]
     },
     "Thomson TO-series": {
@@ -3963,6 +5237,9 @@
         ],
         "short": [
             "to_flop"
+        ],
+        "local": [
+            "Thomson TO-series"
         ]
     },
     "Thomson TO7 & TO7\/70": {
@@ -3971,6 +5248,9 @@
         ],
         "short": [
             "to7_qd"
+        ],
+        "local": [
+            "Thomson TO7"
         ]
     },
     "Tandy 200": {
@@ -3979,6 +5259,9 @@
         ],
         "short": [
             "tandy200"
+        ],
+        "local": [
+            "Tandy Radio Shack Tandy 200"
         ]
     },
     "Tandy 2000": {
@@ -3987,6 +5270,9 @@
         ],
         "short": [
             "tandy2k"
+        ],
+        "local": [
+            "Tandy Radio Shack Tandy 2000"
         ]
     },
     "Timex Sinclair 2068": {
@@ -3995,6 +5281,9 @@
         ],
         "short": [
             "timex_cass"
+        ],
+        "local": [
+            "Timex Sinclair 2068"
         ]
     },
     "Coleco Total Control 4": {
@@ -4003,6 +5292,9 @@
         ],
         "short": [
             "tc4"
+        ],
+        "local": [
+            "Coleco Total Control 4"
         ]
     },
     "Tandberg TDV 2324": {
@@ -4011,6 +5303,9 @@
         ],
         "short": [
             "tdv2324"
+        ],
+        "local": [
+            "Tandberg TDV 2324"
         ]
     },
     "Tektronix 4052": {
@@ -4019,6 +5314,9 @@
         ],
         "short": [
             "tek4052_cart"
+        ],
+        "local": [
+            "Tektronix 4052"
         ]
     },
     "JAKKS Pacific Telestory": {
@@ -4027,6 +5325,9 @@
         ],
         "short": [
             "telestory_cart"
+        ],
+        "local": [
+            "JAKKS Pacific Telestory"
         ]
     },
     "NEC Turbografx 16": {
@@ -4035,6 +5336,9 @@
         ],
         "short": [
             "tg16"
+        ],
+        "local": [
+            "NEC Turbografx 16"
         ]
     },
     "TI-74": {
@@ -4043,6 +5347,9 @@
         ],
         "short": [
             "ti74_cart"
+        ],
+        "local": [
+            "Texas Instruments TI-74"
         ]
     },
     "TI-95": {
@@ -4051,6 +5358,9 @@
         ],
         "short": [
             "ti95_cart"
+        ],
+        "local": [
+            "Texas Instruments TI-95"
         ]
     },
     "TI-99\/4A": {
@@ -4059,6 +5369,9 @@
         ],
         "short": [
             "ti99_cart"
+        ],
+        "local": [
+            "Texas Instruments TI-99-4A"
         ]
     },
     "Touch & Tell": {
@@ -4067,6 +5380,9 @@
         ],
         "short": [
             "tntell"
+        ],
+        "local": [
+            "Touch & Tell"
         ]
     },
     "Thomson TO7\/70": {
@@ -4075,6 +5391,9 @@
         ],
         "short": [
             "to770_cart"
+        ],
+        "local": [
+            "Thomson TO7-70"
         ]
     },
     "Thomson TO7\/70 Arabic": {
@@ -4083,6 +5402,9 @@
         ],
         "short": [
             "to770a_cart"
+        ],
+        "local": [
+            "Thomson TO7-70"
         ]
     },
     "Thomson TO8 cassetes": {
@@ -4091,6 +5413,9 @@
         ],
         "short": [
             "to8_cass"
+        ],
+        "local": [
+            "Thomson TO8"
         ]
     },
     "Thomson TO8": {
@@ -4099,6 +5424,9 @@
         ],
         "short": [
             "to8_qd"
+        ],
+        "local": [
+            "Thomson TO8"
         ]
     },
     "Torch Co-Processor": {
@@ -4107,6 +5435,9 @@
         ],
         "short": [
             "bbc_flop_torch"
+        ],
+        "local": [
+            "Torch Co-Processor"
         ]
     },
     "TourVisi\u00f3n (bootleg Arcade NEC PC-Engine)": {
@@ -4123,6 +5454,9 @@
         ],
         "short": [
             "trs80m2"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Model II"
         ]
     },
     "Timex Sinclair TS-2068 DOCK": {
@@ -4131,6 +5465,9 @@
         ],
         "short": [
             "timex_dock"
+        ],
+        "local": [
+            "Timex Sinclair TS-2068 DOCK"
         ]
     },
     "LeapFrog Turbo Twist Brain Quest": {
@@ -4155,6 +5492,9 @@
         ],
         "short": [
             "tvc_cart"
+        ],
+        "local": [
+            "Videoton TVC 64"
         ]
     },
     "Videoton TVC": {
@@ -4165,6 +5505,9 @@
         "short": [
             "tvc_cass",
             "tvc_flop"
+        ],
+        "local": [
+            "Videoton TVC"
         ]
     },
     "Toyquest TV Go Go": {
@@ -4173,6 +5516,9 @@
         ],
         "short": [
             "tvgogo"
+        ],
+        "local": [
+            "Toyquest TV Go Go"
         ]
     },
     "TX-0 Paper Tape Reader images": {
@@ -4189,6 +5535,9 @@
         ],
         "short": [
             "unichamp"
+        ],
+        "local": [
+            "Unisonic Champion 2711"
         ]
     },
     "UT-88": {
@@ -4197,6 +5546,9 @@
         ],
         "short": [
             "ut88"
+        ],
+        "local": [
+            "Generic UT-88"
         ]
     },
     "Uzebox internal EPROMs": {
@@ -4205,6 +5557,9 @@
         ],
         "short": [
             "uzebox"
+        ],
+        "local": [
+            "Uzebox internal EP"
         ]
     },
     "Visual Technology Visual 1050": {
@@ -4215,6 +5570,9 @@
         "short": [
             "v1050_flop",
             "v1050_hdd"
+        ],
+        "local": [
+            "Visual Technology Visual 1050"
         ]
     },
     "VTech V.Baby": {
@@ -4223,6 +5581,9 @@
         ],
         "short": [
             "vbaby_cart"
+        ],
+        "local": [
+            "VTech V.Baby"
         ]
     },
     "Nintendo Virtual Boy": {
@@ -4231,6 +5592,9 @@
         ],
         "short": [
             "vboy"
+        ],
+        "local": [
+            "Nintendo Virtual Boy"
         ]
     },
     "GCE Vectrex": {
@@ -4239,6 +5603,9 @@
         ],
         "short": [
             "vectrex"
+        ],
+        "local": [
+            "GCE Vectrex"
         ]
     },
     "Philips VG-5000": {
@@ -4247,6 +5614,9 @@
         ],
         "short": [
             "vg5k"
+        ],
+        "local": [
+            "Philips VG 5000"
         ]
     },
     "Video Game Music Files": {
@@ -4255,6 +5625,9 @@
         ],
         "short": [
             "vgmplay"
+        ],
+        "local": [
+            "Video Game Music Files"
         ]
     },
     "Commodore VIC-1001 \/ VIC-20": {
@@ -4267,6 +5640,9 @@
             "vic1001_cart",
             "vic1001_cass",
             "vic1001_flop"
+        ],
+        "local": [
+            "Commodore VIC-1001 - VIC-20"
         ]
     },
     "Victor 9000 \/ ACT Sirius 1": {
@@ -4275,6 +5651,9 @@
         ],
         "short": [
             "victor9k_flop"
+        ],
+        "local": [
+            "Victor 9000 - ACT Sirius 1"
         ]
     },
     "VideoBrain Family Computer": {
@@ -4283,6 +5662,9 @@
         ],
         "short": [
             "vidbrain"
+        ],
+        "local": [
+            "VideoBrain Family Computer"
         ]
     },
     "JungleTac\/KenSingTon Vii": {
@@ -4291,6 +5673,9 @@
         ],
         "short": [
             "vii"
+        ],
+        "local": [
+            "JungleTac-KenSingTon Vii"
         ]
     },
     "RCA VIP": {
@@ -4299,6 +5684,9 @@
         ],
         "short": [
             "vip"
+        ],
+        "local": [
+            "RCA VIP"
         ]
     },
     "Tandy\/Memorex Video Information System": {
@@ -4315,6 +5703,9 @@
         ],
         "short": [
             "visicom"
+        ],
+        "local": [
+            "Toshiba Visicom"
         ]
     },
     "Osborne 4 Vixen": {
@@ -4323,6 +5714,9 @@
         ],
         "short": [
             "vixen"
+        ],
+        "local": [
+            "OCC Osborne 4 Vixen"
         ]
     },
     "VTech V.Smile": {
@@ -4331,6 +5725,9 @@
         ],
         "short": [
             "vsmile_cart"
+        ],
+        "local": [
+            "VTech V.Smile"
         ]
     },
     "VTech V.Smile Motion": {
@@ -4339,6 +5736,9 @@
         ],
         "short": [
             "vsmilem_cart"
+        ],
+        "local": [
+            "VTech V.Smile Motion"
         ]
     },
     "VTech V.Smile Baby": {
@@ -4347,6 +5747,9 @@
         ],
         "short": [
             "vsmileb_cart"
+        ],
+        "local": [
+            "VTech V.Smile Baby"
         ]
     },
     "VTech V.Flash\/V.Smile Pro V.Disc images": {
@@ -4355,6 +5758,9 @@
         ],
         "short": [
             "vsmile_cd"
+        ],
+        "local": [
+            "VTech V.Flash"
         ]
     },
     "Wang PC": {
@@ -4363,6 +5769,9 @@
         ],
         "short": [
             "wangpc"
+        ],
+        "local": [
+            "Wang PC"
         ]
     },
     "Waveterm A": {
@@ -4371,6 +5780,9 @@
         ],
         "short": [
             "waveterm"
+        ],
+        "local": [
+            "Waveterm A"
         ]
     },
     "Millennium Systems Wicat": {
@@ -4379,6 +5791,9 @@
         ],
         "short": [
             "wicat"
+        ],
+        "local": [
+            "Millennium Systems Wicat"
         ]
     },
     "WaveMate Bullet": {
@@ -4387,6 +5802,9 @@
         ],
         "short": [
             "wmbullet"
+        ],
+        "local": [
+            "WaveMate Bullet"
         ]
     },
     "Bandai Wonderswan Color": {
@@ -4395,6 +5813,9 @@
         ],
         "short": [
             "wscolor"
+        ],
+        "local": [
+            "Bandai WonderSwan Color"
         ]
     },
     "Pocket Challenge V2": {
@@ -4403,6 +5824,9 @@
         ],
         "short": [
             "pockchalv2"
+        ],
+        "local": [
+            "Benesse Pocket Challenge V2"
         ]
     },
     "Bandai Wonderswan": {
@@ -4411,6 +5835,9 @@
         ],
         "short": [
             "wswan"
+        ],
+        "local": [
+            "Bandai WonderSwan"
         ]
     },
     "Canon X-07": {
@@ -4421,6 +5848,9 @@
         "short": [
             "x07_card",
             "x07_cass"
+        ],
+        "local": [
+            "Canon X-07"
         ]
     },
     "Sharp X1": {
@@ -4431,6 +5861,9 @@
         "short": [
             "x1_flop",
             "x1_cass"
+        ],
+        "local": [
+            "Sharp X1"
         ]
     },
     "Xerox 820-II": {
@@ -4439,6 +5872,9 @@
         ],
         "short": [
             "xerox820ii"
+        ],
+        "local": [
+            "Xerox 820-II"
         ]
     },
     "Sharp X68k": {
@@ -4447,6 +5883,9 @@
         ],
         "short": [
             "x68k_flop"
+        ],
+        "local": [
+            "Sharp X68000"
         ]
     },
     "Z80 Clock": {
@@ -4465,6 +5904,9 @@
         "short": [
             "z80ne_cass",
             "z80ne_flop"
+        ],
+        "local": [
+            "Nuova Elettronica Z80NE"
         ]
     },
     "Z88": {
@@ -4473,6 +5915,9 @@
         ],
         "short": [
             "z88_cart"
+        ],
+        "local": [
+            "Cambridge Z88"
         ]
     },
     "LeapFrog Zippity": {
@@ -4489,6 +5934,9 @@
         ],
         "short": [
             "zorba"
+        ],
+        "local": [
+            "Telcon Zorba"
         ]
     },
     "Sinclair ZX80": {
@@ -4497,6 +5945,9 @@
         ],
         "short": [
             "zx80_cass"
+        ],
+        "local": [
+            "Sinclair ZX-80"
         ]
     },
     "Spectravision SVI-318\/328": {
@@ -4505,6 +5956,9 @@
         ],
         "short": [
             "svi318_flop"
+        ],
+        "local": [
+            "Spectravideo SVI-318 & SVI-328"
         ]
     },
     "Sinclair ZX Microdrive": {
@@ -4513,6 +5967,9 @@
         ],
         "short": [
             "spectrum_microdrive"
+        ],
+        "local": [
+            "Sinclair ZX Microdrive"
         ]
     },
     "Sinclair ZX Spectrum Opus Discovery": {
@@ -4521,6 +5978,9 @@
         ],
         "short": [
             "spectrum_flop_opus"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum Opus Discovery"
         ]
     },
     "ZX Spectrum MGT DISCiPLE\/+D": {
@@ -4529,6 +5989,9 @@
         ],
         "short": [
             "spectrum_mgt_flop"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum MGT DISCiPLE\/+D"
         ]
     },
     "Sinclair ZX Wafadrive": {
@@ -4537,6 +6000,9 @@
         ],
         "short": [
             "spectrum_wafadrive"
+        ],
+        "local": [
+            "Sinclair ZX Wafadrive"
         ]
     },
     "Casper 68000": {
@@ -4545,6 +6011,9 @@
         ],
         "short": [
             "bbc_flop_68000"
+        ],
+        "local": [
+            "Casper 68000"
         ]
     },
     "Hybrid Music System": {
@@ -4553,6 +6022,9 @@
         ],
         "short": [
             "bbc_flop_hybrid"
+        ],
+        "local": [
+            "Generic Hybrid Music System"
         ]
     },
     "Acorn FileStore": {
@@ -4561,6 +6033,9 @@
         ],
         "short": [
             "e01_flop"
+        ],
+        "local": [
+            "Acorn FileStore"
         ]
     },
     "Hitachi Basic Master Level 3": {

@@ -20,6 +20,9 @@
             "3DO",
             "Panasonic 3DO",
             "Panasonic 3DO Interactive Multiplayer"
+        ],
+        "local": [
+            "Panasonic 3DO Interactive Multiplayer"
         ]
     },
     "Commodore Amiga": {
@@ -41,6 +44,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Amiga"
+        ],
+        "local": [
+            "Commodore Amiga"
         ]
     },
     "Amstrad CPC": {
@@ -66,6 +72,9 @@
             "Amstrad Color Personal Computer",
             "Colour Personal Computer",
             "Color Personal Computer"
+        ],
+        "local": [
+            "Amstrad CPC"
         ]
     },
     "Android": {
@@ -82,6 +91,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Droid"
+        ],
+        "local": [
+            "Generic Android"
         ]
     },
     "Arcade": {
@@ -93,6 +105,9 @@
         "usemamefiles": "true",
         "alternate": [
             "MAME"
+        ],
+        "local": [
+            "Generic Arcade"
         ]
     },
     "Atari 2600": {
@@ -115,6 +130,9 @@
         "alternate": [
             "Atari",
             "2600"
+        ],
+        "local": [
+            "Atari 2600"
         ]
     },
     "Atari 5200": {
@@ -140,6 +158,9 @@
             "5200 SuperSystem",
             "Atari SuperSystem",
             "SuperSystem"
+        ],
+        "local": [
+            "Atari 5200"
         ]
     },
     "Atari 7800": {
@@ -165,6 +186,9 @@
             "7800 ProSystem",
             "Atari ProSystem",
             "ProSystem"
+        ],
+        "local": [
+            "Atari 7800"
         ]
     },
     "Atari Jaguar": {
@@ -186,6 +210,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Jaguar"
+        ],
+        "local": [
+            "Atari Jaguar"
         ]
     },
     "Atari Jaguar CD": {
@@ -202,6 +229,9 @@
         "alternate": [
             "Jaguar CD",
             "Jag CD"
+        ],
+        "local": [
+            "Atari Jaguar CD"
         ]
     },
     "Atari Lynx": {
@@ -223,6 +253,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Lynx"
+        ],
+        "local": [
+            "Atari Lynx"
         ]
     },
     "Atari XEGS": {
@@ -241,7 +274,10 @@
         "maxcontrollers": "2",
         "notes": "The Atari XE Video Game System, commonly known as the Atari XEGS, is a third generation (1983-2003) video game console developed and distributed by Atari Corporation. It was released in November 1987 in North America at a retail price of $199.99. The console was not released outside North America. The XEGS was able to operate as either a stand-alone console or full computer with the addition of its specially designed keyboard. The console was discontinued on January 1, 1992.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Atari XEGS"
+        ]
     },
     "ColecoVision": {
         "id": 13,
@@ -263,6 +299,9 @@
         "alternate": [
             "Coleco",
             "Coleco Vision"
+        ],
+        "local": [
+            "Coleco ColecoVision"
         ]
     },
     "Commodore 64": {
@@ -296,6 +335,9 @@
             "Comm64",
             "Comodore 64",
             "Commodore"
+        ],
+        "local": [
+            "Commodore 64"
         ]
     },
     "Mattel Intellivision": {
@@ -317,6 +359,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Intellivision"
+        ],
+        "local": [
+            "Mattel Intellivision"
         ]
     },
     "Apple iOS": {
@@ -337,6 +382,10 @@
             "iPad",
             "iPod",
             "iPod Touch"
+        ],
+        "local": [
+            "Apple iOS",
+            "Apple iPad"
         ]
     },
     "Apple Mac OS": {
@@ -355,6 +404,9 @@
             "Mac OSX",
             "Mac",
             "Mac OS"
+        ],
+        "local": [
+            "Apple Macintosh"
         ]
     },
     "Microsoft Xbox": {
@@ -380,6 +432,9 @@
             "Microsoft X-box",
             "MS X-box",
             "Xbox"
+        ],
+        "local": [
+            "Microsoft Xbox"
         ]
     },
     "Microsoft Xbox 360": {
@@ -403,6 +458,9 @@
             "Xbox 360",
             "360",
             "MS Xbox 360"
+        ],
+        "local": [
+            "Microsoft Xbox 360"
         ]
     },
     "Microsoft Xbox One": {
@@ -424,6 +482,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Xbox One"
+        ],
+        "local": [
+            "Microsoft Xbox One"
         ]
     },
     "SNK Neo Geo Pocket": {
@@ -448,6 +509,9 @@
             "NGP",
             "Neo Geo Pocket",
             "SNK Neo-Geo Pocket"
+        ],
+        "local": [
+            "SNK Neo Geo Pocket"
         ]
     },
     "SNK Neo Geo Pocket Color": {
@@ -473,6 +537,9 @@
             "NeoGeo Pocket Color",
             "NeoGeo Color",
             "NGPC"
+        ],
+        "local": [
+            "SNK Neo Geo Pocket Color"
         ]
     },
     "SNK Neo Geo AES": {
@@ -511,6 +578,10 @@
             "SNK Neo Geo AES",
             "SNK NeoGeo",
             "NeoGeo"
+        ],
+        "local": [
+            "SNK Neo Geo",
+            "SNK Neo Geo AES"
         ]
     },
     "Nintendo 3DS": {
@@ -532,6 +603,9 @@
         "usemamefiles": "false",
         "alternate": [
             "3DS"
+        ],
+        "local": [
+            "Nintendo 3DS"
         ]
     },
     "Nintendo 64": {
@@ -554,6 +628,9 @@
         "alternate": [
             "N64",
             "Nintendo N64"
+        ],
+        "local": [
+            "Nintendo 64"
         ]
     },
     "Nintendo DS": {
@@ -578,6 +655,10 @@
             "NDSi",
             "DSi",
             "DS"
+        ],
+        "local": [
+            "Nintendo DS",
+            "Nintendo DSi"
         ]
     },
     "Nintendo Entertainment System": {
@@ -604,6 +685,10 @@
             "FC",
             "Nintendo NES",
             "Nintendo Entertainment System (NES)"
+        ],
+        "local": [
+            "Nintendo Entertainment System",
+            "Nintendo Famicom"
         ]
     },
     "Nintendo Game Boy": {
@@ -634,6 +719,9 @@
             "Nintendo GameBoy",
             "Nintendo GB",
             "Nintendo Super Game Boy"
+        ],
+        "local": [
+            "Nintendo Game Boy"
         ]
     },
     "Nintendo Game Boy Advance": {
@@ -659,6 +747,9 @@
             "GBA",
             "Nintendo GameBoy Advance",
             "Nintendo GBA"
+        ],
+        "local": [
+            "Nintendo Game Boy Advance"
         ]
     },
     "Nintendo Game Boy Color": {
@@ -684,6 +775,9 @@
             "GBC",
             "Nintendo GameBoy Color",
             "Nintendo GBC"
+        ],
+        "local": [
+            "Nintendo Game Boy Color"
         ]
     },
     "Nintendo GameCube": {
@@ -709,6 +803,9 @@
             "GameCube",
             "Game Cube",
             "GCN"
+        ],
+        "local": [
+            "Nintendo GameCube"
         ]
     },
     "Nintendo Virtual Boy": {
@@ -733,6 +830,9 @@
             "VirtualBoy",
             "Nintendo VirtualBoy",
             "NVB"
+        ],
+        "local": [
+            "Nintendo Virtual Boy"
         ]
     },
     "Nintendo Wii": {
@@ -754,6 +854,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Wii"
+        ],
+        "local": [
+            "Nintendo Wii"
         ]
     },
     "Nintendo Wii U": {
@@ -776,6 +879,9 @@
         "alternate": [
             "Wii U",
             "WiiU"
+        ],
+        "local": [
+            "Nintendo Wii U"
         ]
     },
     "Ouya": {
@@ -792,7 +898,10 @@
         "display": "HDMI 1080p, 720p",
         "notes": "The Ouya, stylized OUYA, is a microconsole running its own version of the Android operating system, developed by Ouya Inc. Julie Uhrman founded the project in 2012. She brought in designer Yves B\u00c3\u00a9har to collaborate on the design of the project, and Muffi Al-Ghadiali as product manager to put together the engineering team. Development was funded via Kickstarter, raising $8.5 million and becoming the website's fifth-highest earning project in its history.\n\nUnits started to ship to Kickstarter backers on March 28, 2013. The console was released to the general public on June 25, 2013, and features an exclusive Ouya store for applications and games designed specifically for the Ouya platform, of which the majority are casual games targeted at or used by a mass audience of casual gamers. Out of the box, Ouya supports media apps such as TwitchTV and XBMC media player. It runs a modified version of Android 4.1 Jelly Bean, and is open to rooting without voiding the warranty (developer models ordered during the Kickstarter campaign for $699 or $1,337 come pre-rooted). The console's hardware design allows it to be easily opened up, requiring only a standard screwdriver for easy modding and possible hardware addons.\n\nAll systems can be used as development kits, allowing any Ouya owner to also be a developer, without the need for licensing fees. All games were initially required to have some kind of free-to-play aspect, whether that be completely free, has a free trial, or has purchasable upgrades, levels, or other in-game items. This requirement has since been removed. The Ouya was released during the eighth generation of video game consoles, competing against the PlayStation 4, Xbox One, and Wii U.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Ouya"
+        ]
     },
     "Philips CD-i": {
         "id": 36,
@@ -817,6 +926,9 @@
             "Philips Compact Disc Interactive",
             "Philips",
             "CD-i"
+        ],
+        "local": [
+            "Philips CD-i"
         ]
     },
     "Sega 32X": {
@@ -838,6 +950,9 @@
         "usemamefiles": "false",
         "alternate": [
             "32X"
+        ],
+        "local": [
+            "Sega 32X"
         ]
     },
     "Sega CD": {
@@ -857,6 +972,9 @@
         "usemamefiles": "false",
         "alternate": [
             "CD"
+        ],
+        "local": [
+            "Sega CD"
         ]
     },
     "Sega Dreamcast": {
@@ -878,6 +996,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Dreamcast"
+        ],
+        "local": [
+            "Sega Dreamcast"
         ]
     },
     "Sega Game Gear": {
@@ -900,6 +1021,9 @@
         "alternate": [
             "Game Gear",
             "GameGear"
+        ],
+        "local": [
+            "Sega Game Gear"
         ]
     },
     "Sega Genesis": {
@@ -925,6 +1049,10 @@
             "MegaDrive",
             "Sega MegaDrive",
             "Sega Mega Drive"
+        ],
+        "local": [
+            "Sega Genesis",
+            "Sega Mega Drive"
         ]
     },
     "Sega Master System": {
@@ -947,6 +1075,9 @@
         "alternate": [
             "Master System",
             "SMS"
+        ],
+        "local": [
+            "Sega Mark III & Master System"
         ]
     },
     "Sega Saturn": {
@@ -968,6 +1099,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Saturn"
+        ],
+        "local": [
+            "Sega Saturn"
         ]
     },
     "Sinclair ZX Spectrum": {
@@ -991,6 +1125,9 @@
             "ZX Spectrum",
             "Spectrum",
             "ZX"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum +3"
         ]
     },
     "Sony Playstation": {
@@ -1020,6 +1157,9 @@
             "Sony PS1",
             "Sony PSX",
             "Sony PS"
+        ],
+        "local": [
+            "Sony Playstation"
         ]
     },
     "Sony Playstation 2": {
@@ -1044,6 +1184,9 @@
             "Play Station 2",
             "Sony Play Station 2",
             "PS2"
+        ],
+        "local": [
+            "Sony Playstation 2"
         ]
     },
     "Sony Playstation 3": {
@@ -1068,6 +1211,9 @@
             "Play Station 3",
             "Sony Play Station 3",
             "PS3"
+        ],
+        "local": [
+            "Sony Playstation 3"
         ]
     },
     "Sony Playstation 4": {
@@ -1092,6 +1238,9 @@
             "Play Station 4",
             "Sony Play Station 4",
             "PS4"
+        ],
+        "local": [
+            "Sony Playstation 4"
         ]
     },
     "Sony Playstation Vita": {
@@ -1116,6 +1265,9 @@
             "PS Vita",
             "PSVita",
             "Vita"
+        ],
+        "local": [
+            "Sony Playstation Vita"
         ]
     },
     "Sony PSP": {
@@ -1139,6 +1291,9 @@
             "PSP",
             "Sony Playstation Portable",
             "PlayStation Portable"
+        ],
+        "local": [
+            "Sony Playstation Portable"
         ]
     },
     "Super Nintendo Entertainment System": {
@@ -1170,6 +1325,9 @@
             "Super Famicom",
             "Nintendo SNES",
             "Nintendo Super Famicom"
+        ],
+        "local": [
+            "Nintendo Super Nintendo Entertainment System"
         ]
     },
     "NEC TurboGrafx-16": {
@@ -1200,6 +1358,9 @@
             "TurboGrafx 16",
             "TurboGrafx",
             "TESS"
+        ],
+        "local": [
+            "NEC Turbografx 16"
         ]
     },
     "WonderSwan": {
@@ -1221,6 +1382,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Wonder Swan",
+            "Bandai WonderSwan"
+        ],
+        "local": [
             "Bandai WonderSwan"
         ]
     },
@@ -1244,6 +1408,9 @@
         "alternate": [
             "Bandai WonderSwan Color",
             "Wonder Swan Color"
+        ],
+        "local": [
+            "Bandai WonderSwan Color"
         ]
     },
     "Magnavox Odyssey 2": {
@@ -1269,6 +1436,9 @@
             "Odyssey 2",
             "Odyssey\u00c2\u00b2",
             "Odyssey \u00c2\u00b2"
+        ],
+        "local": [
+            "Magnavox Odyssey 2"
         ]
     },
     "Fairchild Channel F": {
@@ -1292,6 +1462,9 @@
             "Channel F",
             "Video Entertainment System",
             "VES"
+        ],
+        "local": [
+            "Fairchild Channel F"
         ]
     },
     "BBC Microcomputer System": {
@@ -1315,6 +1488,10 @@
             "Acorn BBC Micro",
             "BBC Micro",
             "BBC"
+        ],
+        "local": [
+            "Acorn BBC",
+            "Acorn BBC Micro"
         ]
     },
     "Memotech MTX512": {
@@ -1336,6 +1513,9 @@
         "usemamefiles": "false",
         "alternate": [
             "MTX512"
+        ],
+        "local": [
+            "Memotech MTX512"
         ]
     },
     "Camputers Lynx": {
@@ -1356,6 +1536,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Camputers"
+        ],
+        "local": [
+            "Camputers Lynx"
         ]
     },
     "Tiger Game.com": {
@@ -1378,6 +1561,9 @@
             "Game.com",
             "Tiger Game com",
             "TGame com"
+        ],
+        "local": [
+            "Tiger Electronics Game.com"
         ]
     },
     "Oric Atmos": {
@@ -1399,6 +1585,9 @@
         "alternate": [
             "Atmos",
             "Tangerine Oric"
+        ],
+        "local": [
+            "Tangerine Oric-1 & Oric Atmos"
         ]
     },
     "Acorn Electron": {
@@ -1420,6 +1609,9 @@
         "alternate": [
             "Acorn Computers Electron",
             "Electron"
+        ],
+        "local": [
+            "Acorn Electron"
         ]
     },
     "Dragon 32\/64": {
@@ -1445,6 +1637,10 @@
             "Dragon 64",
             "Dragon 32-64",
             "Dragon Data Dragon"
+        ],
+        "local": [
+            "Dragon 32-64",
+            "Dragon Data Dragon"
         ]
     },
     "Entex Adventure Vision": {
@@ -1466,6 +1662,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Adventure Vision"
+        ],
+        "local": [
+            "Entex Adventure Vision"
         ]
     },
     "APF Imagination Machine": {
@@ -1489,6 +1688,9 @@
             "Imagination Machine",
             "APF",
             "APF-M1000"
+        ],
+        "local": [
+            "APF Imagination Machine"
         ]
     },
     "Mattel Aquarius": {
@@ -1509,6 +1711,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Aquarius"
+        ],
+        "local": [
+            "Mattel Aquarius"
         ]
     },
     "Jupiter Ace": {
@@ -1530,6 +1735,9 @@
         "alternate": [
             "Ace",
             "Jupiter"
+        ],
+        "local": [
+            "Jupiter Cantab Jupiter Ace"
         ]
     },
     "SAM Coup\u00c3\u00a9": {
@@ -1554,6 +1762,9 @@
             "SAM Coupe",
             "Coupe",
             "MGT SAM Coupe"
+        ],
+        "local": [
+            "MGT Sam Coupe"
         ]
     },
     "Enterprise": {
@@ -1578,6 +1789,9 @@
             "Enterprise 128",
             "Flan",
             "Elan"
+        ],
+        "local": [
+            "Enterprise 64 & 128"
         ]
     },
     "EACA EG2000 Colour Genie": {
@@ -1605,6 +1819,9 @@
             "EG2000 Colour Genie",
             "EG2000 Color Genie",
             "Color Genie"
+        ],
+        "local": [
+            "EACA EG2000 Colour Genie"
         ]
     },
     "Acorn Archimedes": {
@@ -1626,6 +1843,9 @@
         "alternate": [
             "Archimedes",
             "Acorn Computers Archimedes"
+        ],
+        "local": [
+            "Acorn Archimedes"
         ]
     },
     "Tapwave Zodiac": {
@@ -1651,6 +1871,9 @@
             "Zodiac 2",
             "Tapwave Zodiac 1",
             "Tapwave Zodiac 2"
+        ],
+        "local": [
+            "Tapwave Zodiac"
         ]
     },
     "Atari ST": {
@@ -1669,7 +1892,10 @@
         "maxcontrollers": "1",
         "notes": "The Atari ST is a line of home computers from Atari Corporation. The first models were released in June 1985 in North America at a retail price around $799.99 or $999.99, depending on the model. The computers were also released in limited availability in Europe (1985). The ST is the first personal computer to come with a bitmapped color GUI. The computers were manufactured until an unspecified time in 1993.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Atari ST"
+        ]
     },
     "Bally Astrocade": {
         "id": 74,
@@ -1693,6 +1919,9 @@
             "Bally Home Library Computer",
             "Bally Professional Arcade",
             "Professional Arcade"
+        ],
+        "local": [
+            "Bally Professional Arcade & Astrocade"
         ]
     },
     "Magnavox Odyssey": {
@@ -1714,6 +1943,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Odyssey"
+        ],
+        "local": [
+            "Magnavox Odyssey 1"
         ]
     },
     "Emerson Arcadia 2001": {
@@ -1737,6 +1969,9 @@
             "Emerson Arcadia",
             "Arcadia",
             "Arcadia 2001"
+        ],
+        "local": [
+            "Emerson Arcadia 2001"
         ]
     },
     "Sega SG-1000": {
@@ -1761,6 +1996,10 @@
             "Sega Game 1000",
             "SG1000",
             "Sega SG1000"
+        ],
+        "local": [
+            "Sega Game 1000",
+            "Sega SG-1000"
         ]
     },
     "Epoch Super Cassette Vision": {
@@ -1783,6 +2022,9 @@
         "alternate": [
             "Super Cassette Vision",
             "SCV"
+        ],
+        "local": [
+            "Epoch Super Cassette Vision"
         ]
     },
     "Microsoft MSX": {
@@ -1806,6 +2048,9 @@
             "MSX 2+",
             "MSX Laserdisc",
             "MSX"
+        ],
+        "local": [
+            "Microsoft MSX"
         ]
     },
     "MS-DOS": {
@@ -1825,6 +2070,9 @@
             "PC DOS",
             "PC-DOS",
             "IBM DOS"
+        ],
+        "local": [
+            "Microsoft MS-DOS"
         ]
     },
     "Windows": {
@@ -1868,6 +2116,10 @@
             "Microsoft Windows 3.11",
             "Microsoft Windows 3.0",
             "PC"
+        ],
+        "local": [
+            "Generic PC",
+            "Microsoft Windows"
         ]
     },
     "Web Browser": {
@@ -1887,6 +2139,9 @@
             "Chrome",
             "Firefox",
             "Internet Explorer"
+        ],
+        "local": [
+            "Generic Web Browser"
         ]
     },
     "Sega Model 2": {
@@ -1908,6 +2163,9 @@
         "usemamefiles": "true",
         "alternate": [
             "Model 2"
+        ],
+        "local": [
+            "Sega Model 2"
         ]
     },
     "Namco System 22": {
@@ -1928,6 +2186,9 @@
         "usemamefiles": "true",
         "alternate": [
             "System 22"
+        ],
+        "local": [
+            "Namco System 22"
         ]
     },
     "Sega Model 3": {
@@ -1949,6 +2210,9 @@
         "usemamefiles": "true",
         "alternate": [
             "Model 3"
+        ],
+        "local": [
+            "Sega Model 3"
         ]
     },
     "Sega System 32": {
@@ -1970,6 +2234,9 @@
         "usemamefiles": "true",
         "alternate": [
             "System 32"
+        ],
+        "local": [
+            "Sega System 32"
         ]
     },
     "Sega System 16": {
@@ -1990,6 +2257,9 @@
         "usemamefiles": "true",
         "alternate": [
             "System 16"
+        ],
+        "local": [
+            "Sega System 16"
         ]
     },
     "Sammy Atomiswave": {
@@ -2011,6 +2281,9 @@
         "usemamefiles": "true",
         "alternate": [
             "Atomiswave"
+        ],
+        "local": [
+            "Sammy Atomiswave"
         ]
     },
     "Sega Naomi": {
@@ -2032,6 +2305,9 @@
         "usemamefiles": "true",
         "alternate": [
             "Naomi"
+        ],
+        "local": [
+            "Sega Naomi"
         ]
     },
     "Sega Naomi 2": {
@@ -2053,6 +2329,9 @@
         "usemamefiles": "true",
         "alternate": [
             "Naomi 2"
+        ],
+        "local": [
+            "Sega Naomi 2"
         ]
     },
     "Atari 800": {
@@ -2074,6 +2353,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Atari 8-bit"
+        ],
+        "local": [
+            "Atari 800"
         ]
     },
     "Sega Model 1": {
@@ -2091,7 +2373,10 @@
         "maxcontrollers": "2",
         "notes": "Sega went to General Electric Aerospace (who made the first 3D simulators for NASA in the 1960s) in 1991-92 for assistance to develop a CG platform architecture for their new experimental 3D system, which later became known as Model 1. Virtua Racer was the game being written to find out how viable hardware 3D games were; it was never designed to be released, but it was such a success internally they decided to actually release it. \n\nUnfortunately, seeing as it was so expensive to manufacture it was never a stunning financial success for Sega, but it did cement their place in the history books as the world leader in 3D arcade technology, a title which they still hold to this day, and it led to possibly the most popular platform ever, Model 2.",
         "category": "Arcade",
-        "usemamefiles": "true"
+        "usemamefiles": "true",
+        "local": [
+            "Sega Model 1"
+        ]
     },
     "Sega Pico": {
         "id": 93,
@@ -2108,7 +2393,10 @@
         "media": "\"Storyware\" (Cartridge)",
         "notes": "The Sega Pico, also known as Kids Computer Pico, is an educational video game console by Sega. Marketed as \"edutainment\", the main focus of the Pico was educational video games for children between 3 and 7 years old. The Pico was released in 1993 in Japan and 1994 in North America and Europe, and later reached China. It was later succeeded by the Advanced Pico Beena, which was released in Japan in 2005. Though the Pico was sold continuously in Japan through the release of the Beena, in North America and Europe the Pico was less successful and was discontinued in early 1998, later being re-released by Majesco. Releases for the Pico were focused on education for children and included titles supported by licensed franchised animated characters, including Disney and Sega's own Sonic the Hedgehog series. Overall, Sega claims sales of 3.4 million Pico consoles and 11.2 million game cartridges, and over 350,000 Beena consoles and 800,000 cartridges.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Sega Pico"
+        ]
     },
     "Acorn Atom": {
         "id": 94,
@@ -2129,6 +2417,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Atom"
+        ],
+        "local": [
+            "Acorn Atom"
         ]
     },
     "Amstrad GX4000": {
@@ -2150,6 +2441,9 @@
         "usemamefiles": "false",
         "alternate": [
             "GX4000"
+        ],
+        "local": [
+            "Amstrad GX4000"
         ]
     },
     "Apple II": {
@@ -2168,7 +2462,10 @@
         "maxcontrollers": "1",
         "notes": "In 1976, computer pioneers Steve Wozniak and Steve Jobs began selling their Apple I computer in kit form to computer stores. A month later, Wozniak was working on a design for an improved version, the Apple II. They demonstrated a prototype in December, and then introduced it to the public in April 1977. The Apple II started the boom in personal computer sales in the late 1970s, and pushed Apple into the lead among personal computer makers.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Apple II"
+        ]
     },
     "Apple IIGS": {
         "id": 97,
@@ -2189,6 +2486,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Apple II GS"
+        ],
+        "local": [
+            "Apple IIGS"
         ]
     },
     "Casio Loopy": {
@@ -2210,6 +2510,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Loopy"
+        ],
+        "local": [
+            "Casio Loopy"
         ]
     },
     "Casio PV-1000": {
@@ -2231,6 +2534,9 @@
         "usemamefiles": "false",
         "alternate": [
             "PV-1000"
+        ],
+        "local": [
+            "Casio PV-1000"
         ]
     },
     "Coleco ADAM": {
@@ -2252,6 +2558,9 @@
         "usemamefiles": "false",
         "alternate": [
             "ADAM"
+        ],
+        "local": [
+            "Coleco ADAM"
         ]
     },
     "Commodore 128": {
@@ -2277,6 +2586,9 @@
             "C=128",
             "C= 128",
             "CBM 128"
+        ],
+        "local": [
+            "Commodore 128"
         ]
     },
     "Commodore Amiga CD32": {
@@ -2298,6 +2610,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Amiga CD32"
+        ],
+        "local": [
+            "Commodore Amiga CD32"
         ]
     },
     "Commodore CDTV": {
@@ -2319,6 +2634,9 @@
         "usemamefiles": "false",
         "alternate": [
             "CDTV"
+        ],
+        "local": [
+            "Commodore Amiga CDTV"
         ]
     },
     "Commodore Plus 4": {
@@ -2340,6 +2658,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Plus 4"
+        ],
+        "local": [
+            "Commodore Plus-4 - C16 - C116"
         ]
     },
     "Commodore VIC-20": {
@@ -2361,6 +2682,9 @@
         "usemamefiles": "false",
         "alternate": [
             "VIC-20"
+        ],
+        "local": [
+            "Commodore VIC-20"
         ]
     },
     "Fujitsu FM Towns Marty": {
@@ -2384,6 +2708,9 @@
             "Fujitsu FM Towns",
             "FM Towns Marty",
             "FM Towns"
+        ],
+        "local": [
+            "Fujitsu FM Towns"
         ]
     },
     "GCE Vectrex": {
@@ -2405,6 +2732,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Vectrex"
+        ],
+        "local": [
+            "GCE Vectrex"
         ]
     },
     "Nuon": {
@@ -2427,6 +2757,9 @@
         "alternate": [
             "Genesis Microchip Nuon",
             "VM Labs Nuon"
+        ],
+        "local": [
+            "VM Labs Nuon"
         ]
     },
     "Mega Duck": {
@@ -2447,6 +2780,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Creatronic Mega Duck"
+        ],
+        "local": [
+            "Creatronic Mega Duck & Cougar Boy"
         ]
     },
     "Sharp X68000": {
@@ -2467,6 +2803,9 @@
         "usemamefiles": "false",
         "alternate": [
             "X68000"
+        ],
+        "local": [
+            "Sharp X68000"
         ]
     },
     "Tandy TRS-80": {
@@ -2487,6 +2826,9 @@
             "Tandy TRS-80 Color",
             "TRS-80",
             "Tandy"
+        ],
+        "local": [
+            "Tandy Radio Shack TRS-80 Color Computer"
         ]
     },
     "Elektronika BK": {
@@ -2509,6 +2851,10 @@
         "alternate": [
             "BK 0011",
             "Elektronika BK 0011"
+        ],
+        "local": [
+            "Elektronika BK",
+            "Elektronika BK-0011-411"
         ]
     },
     "Epoch Game Pocket Computer": {
@@ -2530,6 +2876,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Epoch Game Pocket"
+        ],
+        "local": [
+            "Epoch Game Pocket Computer"
         ]
     },
     "Funtech Super Acan": {
@@ -2551,6 +2900,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Super Acan"
+        ],
+        "local": [
+            "Funtech Super A'Can"
         ]
     },
     "GamePark GP32": {
@@ -2573,6 +2925,9 @@
         "alternate": [
             "GP32",
             "GamePark 32"
+        ],
+        "local": [
+            "GamePark GP32"
         ]
     },
     "Hartung Game Master": {
@@ -2594,6 +2949,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Hartung"
+        ],
+        "local": [
+            "Hartung Game Master"
         ]
     },
     "Interton VC 4000": {
@@ -2615,6 +2973,9 @@
         "usemamefiles": "false",
         "alternate": [
             "VC 4000"
+        ],
+        "local": [
+            "Interton VC 4000"
         ]
     },
     "MUGEN": {
@@ -2626,7 +2987,10 @@
         "maxcontrollers": "2",
         "notes": "M.U.G.E.N (also written as Mugen, MUGEN and M.U.G.E.N.) is a freeware 2D fighting game engine designed by Elecbyte. Content is created by the community, and thousands of fighters, both original and from popular fiction, have been created. It is written in C and originally used the Allegro library. The latest versions of the engine now use the SDL library.",
         "category": "Arcade",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Elecbyte MUGEN"
+        ]
     },
     "OpenBOR": {
         "id": 119,
@@ -2637,7 +3001,10 @@
         "maxcontrollers": "4",
         "notes": "OpenBOR is an open source 2D customisable video game engine designed by Senile Team. It is a continuation of the Beats Of Rage 2D game engine. In 2004 Senile Team released Beats of Rage (BOR), a free beat-'em-up for DOS inspired by SEGA's classic \"Streets of Rage\" series of beat'em ups and using sprites from SNK Playmore's \"King of Fighters\" series. The game amassed popularity very quickly. Senile Team soon released an edit pack allowing anyone interested to create a module for the BOR engine. Later, in 2005, Senile Team opened the source code to BOR, and OpenBOR was born. Development on the engine was continued by the community, and still is to this day.",
         "category": "Arcade",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Generic OpenBOR"
+        ]
     },
     "Philips VG 5000": {
         "id": 120,
@@ -2656,6 +3023,9 @@
         "usemamefiles": "false",
         "alternate": [
             "VG 5000"
+        ],
+        "local": [
+            "Philips VG 5000"
         ]
     },
     "Philips Videopac+": {
@@ -2677,6 +3047,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Videopac+"
+        ],
+        "local": [
+            "Philips Videopac+"
         ]
     },
     "RCA Studio II": {
@@ -2698,6 +3071,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Studio II"
+        ],
+        "local": [
+            "RCA Studio II"
         ]
     },
     "ScummVM": {
@@ -2708,7 +3084,10 @@
         "developer": "ScummVM Team",
         "notes": "Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system, it also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft. It was originally written by Ludvig Strigeus. Released under the terms of the GNU General Public License, ScummVM is free software.  ScummVM is a reimplementation of the part of the software used to interpret the scripting languages such games used to describe the game world rather than emulating the hardware the games ran on; as such, ScummVM allows the games it supports to be played on platforms other than those for which they were originally released.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Generic ScummVM"
+        ]
     },
     "Sega Dreamcast VMU": {
         "id": 124,
@@ -2728,6 +3107,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Dreamcast VMU"
+        ],
+        "local": [
+            "Sega Dreamcast"
         ]
     },
     "Sega SC-3000": {
@@ -2749,6 +3131,9 @@
         "usemamefiles": "false",
         "alternate": [
             "SC-3000"
+        ],
+        "local": [
+            "Sega SC-3000"
         ]
     },
     "Sega ST-V": {
@@ -2769,6 +3154,9 @@
         "usemamefiles": "true",
         "alternate": [
             "ST-V"
+        ],
+        "local": [
+            "Sega ST-V"
         ]
     },
     "Sinclair ZX-81": {
@@ -2789,6 +3177,9 @@
         "alternate": [
             "ZX-81",
             "Sinclair ZX81"
+        ],
+        "local": [
+            "Sinclair ZX-81"
         ]
     },
     "Sord M5": {
@@ -2805,7 +3196,10 @@
         "media": "Cartridge",
         "notes": "The Sord M5 is a home computer launched by Sord Computer Corporation in 1982. Primarily the Sord M5 competed in the Japanese home computer market. It was also sold as the CGL M5 in the United Kingdom by Computer Games Limited, and was reasonably popular in Czechoslovakia, where the M5 stood as one of the first affordable computers available to the general public. Takara also sold models in Japan as the Game M5, and models were also exported to South Korea.  Original models of the Sord M5 are relatively small by home computing standards, with a built in keyboard with rubber keys, similar to the ZX Spectrum. The specifications of the computer are very similar to the MSX, a computer which likely forced the Sord M5 (along with many similar Japanese computers) out of the market by the mid-1980s.  The CGL M5 was released in the UK with an introductory price of \u00c2\u00a3195, higher than many of the system's competitors including the ZX Spectrum, and Commodore VIC-20. Whereas the M5 contained a cartridge slot in an age where most computers were using compact cassettes or floppy disks, the small amount of built-in RAM led to few games being produced for the system.  In South Korea, two electronics companies released different personal computers based on Sord M5. The FC-150 was produced and released by LG and the TommyCom was manufactured and launched by Koryo Systems. Both computers supported the Korean alphabet, Hangul. The system specifications of these computers were identical to the original M5 but they had differently shaped cartridge slots. Cartridges from the Sord M5 or other manufacturers could not be used on these computers directly. LG released some original software including several educational programs and games.  Despite its short production run, the M5 was supported by various big Japanese game developers such as Namco and Konami.  Other models include the M5 Pro and M5 Jr.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Sord M5"
+        ]
     },
     "Texas Instruments TI 99\/4A": {
         "id": 129,
@@ -2823,6 +3217,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Texas Instruments TI 99-4A"
+        ],
+        "local": [
+            "Texas Instruments TI-99-4A"
         ]
     },
     "Touhou Project": {
@@ -2833,7 +3230,10 @@
         "manufacturer": "Team Shanghai Alice",
         "notes": "The Touhou Project, also known as Toho Project or Project Shrine Maiden, is a series of Japanese bullet hell shooter video games developed by the single-person Team Shanghai Alice. Team Shanghai Alice's sole member, ZUN, independently produces the games' graphics, music, and programming.  Plots in the Touhou Project games revolve around the strange phenomena occurring in Gensokyo, a fictional realm inhabited by humans and yokai, supernatural beings. Prior to the events of the games, Gensokyo was sealed off from the outside world by a magical barrier. The main protagonist of the series, Reimu Hakurei, is a shrine maiden who manages the border, fighting antagonistic yokai. The first five games were produced for the Japanese NEC PC-9801 computer series; bullet hell mechanics were introduced in the second game, Story of Eastern Wonderland. The Embodiment of Scarlet Devil, released in August 2002, marked a shift to the Microsoft Windows platform, bringing the games to a larger audience. Several sequels followed, including spin-off fighting games that diverged from the series' traditional mechanics.  The series was inducted into the Guinness World Records in October 2010 for being the \"most prolific fan-made shooter series\". The Touhou Project has spawned a media franchise including commercial fan books, music, light novels, and manga, in addition to the main series.",
         "category": "Arcade",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Touhou Project"
+        ]
     },
     "Pinball": {
         "id": 131,
@@ -2841,7 +3241,10 @@
         "emulated": "true",
         "notes": "Pinball is a type of arcade game, in which points are scored by a player manipulating one or more steel balls on a play field inside a glass-covered cabinet called a pinball machine (or \"pinball table\"). The primary objective of the game is to score as many points as possible. Many modern pinball machines include a story line where the player must complete certain objectives in a certain fashion to complete the story, usually earning high scores for different methods of completing the game. Points are earned when the ball strikes different targets on the play field. A drain is situated at the bottom of the play field, partially protected by player-controlled plastic bats called flippers. A game ends after all the balls fall into the drain a certain number of times. Secondary objectives are to maximize the time spent playing (by earning \"extra balls\" and keeping the ball in play as long as possible) and to earn bonus games (known as \"replays\").",
         "category": "Pinball",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Generic Pinball"
+        ]
     },
     "VTech CreatiVision": {
         "id": 132,
@@ -2862,6 +3265,9 @@
         "usemamefiles": "false",
         "alternate": [
             "CreatiVision"
+        ],
+        "local": [
+            "VTech Creativision"
         ]
     },
     "Watara Supervision": {
@@ -2882,6 +3288,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Supervision"
+        ],
+        "local": [
+            "Watara Supervision"
         ]
     },
     "WoW Action Max": {
@@ -2903,6 +3312,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Action Max"
+        ],
+        "local": [
+            "WoW Action Max"
         ]
     },
     "ZiNc": {
@@ -2911,7 +3323,10 @@
         "emulated": "true",
         "notes": " Zinc is the Z Interpreter with Network Capabilities.  Zinc allows you to play text adventure games (also known as interactive fiction) either on your own, or cooperatively over a network. It comes with interpreters for two of the most popular interactive fiction file formats -- Z-machine games, and TADS games.",
         "category": "Arcade",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Sony ZiNc"
+        ]
     },
     "Nintendo Famicom Disk System": {
         "id": 136,
@@ -2934,6 +3349,9 @@
             "Famicom Disk System",
             "Famicon Disk System",
             "Nintendo Famicon Disk System"
+        ],
+        "local": [
+            "Nintendo Famicom"
         ]
     },
     "NEC PC-FX": {
@@ -2955,6 +3373,9 @@
         "usemamefiles": "false",
         "alternate": [
             "PC-FX"
+        ],
+        "local": [
+            "NEC PC-FX"
         ]
     },
     "PC Engine SuperGrafx": {
@@ -2977,6 +3398,9 @@
         "alternate": [
             "SuperGrafx",
             "NEC SuperGrafx"
+        ],
+        "local": [
+            "NEC PC Engine SuperGrafx"
         ]
     },
     "NEC TurboGrafx-CD": {
@@ -3003,6 +3427,9 @@
             "NEC TurboGrafx CD",
             "PC Engine CD",
             "NEC PC Engine CD"
+        ],
+        "local": [
+            "NEC TurboGrafx-CD"
         ]
     },
     "TRS-80 Color Computer": {
@@ -3018,7 +3445,10 @@
         "maxcontrollers": "2",
         "notes": "The Radio Shack TRS-80 Color Computer (also marketed as the Tandy Color Computer and affectionately nicknamed CoCo) is a line of home computers based on the Motorola 6809 processor. The Color Computer was launched in 1980, and lasted through three generations of hardware until being discontinued in 1991.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ]
     },
     "Nintendo Game & Watch": {
         "id": 141,
@@ -3038,6 +3468,9 @@
             "Game and Watch",
             "Nintendo Game and Watch",
             "Tricotronic"
+        ],
+        "local": [
+            "Nintendo Game & Watch"
         ]
     },
     "SNK Neo Geo CD": {
@@ -3064,6 +3497,9 @@
             "Neo Geo CD",
             "SNK NeoGeo CD",
             "NGCD"
+        ],
+        "local": [
+            "SNK Neo Geo CD"
         ]
     },
     "Nintendo Satellaview": {
@@ -3082,6 +3518,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Satellaview"
+        ],
+        "local": [
+            "Nintendo Satellaview"
         ]
     },
     "Taito Type X": {
@@ -3092,6 +3531,9 @@
         "alternate": [
             "ArcadePC",
             "Type X"
+        ],
+        "local": [
+            "Taito Type X"
         ]
     },
     "XaviXPORT": {
@@ -3102,7 +3544,10 @@
         "developer": "SSD COMPANY LIMITED",
         "cpu": "65816 CPU",
         "notes": "The XaviXPORT, sold as the Domyos Interactive System in Europe in Decathlon stores, is a fitness-based home video game console developed by Japanese company SSD COMPANY LIMITED and released in the United States in 2004 during the sixth generation of video game consoles.",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "SSD Xavix Port"
+        ]
     },
     "Mattel HyperScan": {
         "id": 182,
@@ -3120,6 +3565,9 @@
         "usemamefiles": "false",
         "alternate": [
             "HyperScan"
+        ],
+        "local": [
+            "Mattel HyperScan"
         ]
     },
     "Game Wave Family Entertainment System": {
@@ -3138,7 +3586,10 @@
         "maxcontrollers": "6",
         "notes": " The ZAPiT Game Wave Family Entertainment System, usually just referred to as the Game Wave, is a seventh generation (2005-2017) video game console developed and distributed by ZAPiT Games. It was released in October 2005 in North America, starting in Canada, at a retail price of $99.99. The Game Wave was a hybrid DVD player and home console, mostly focused on trivia based games. The console was discontinued in sometime in 2009.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "ZAPiT Games Game Wave Family Entertainment System"
+        ]
     },
     "Sega CD 32X": {
         "id": 148,
@@ -3160,6 +3611,9 @@
         "alternate": [
             "Sega Mega CD 32X",
             "Mega CD 32X"
+        ],
+        "local": [
+            "Sega CD 32X"
         ]
     },
     "Aamber Pegasus": {
@@ -3181,6 +3635,9 @@
         "usemamefiles": "false",
         "alternate": [
             "Pegasus"
+        ],
+        "local": [
+            "Technosys Aamber Pegasus"
         ]
     },
     "Apogee BK-01": {
@@ -3206,6 +3663,9 @@
             "Apogee BK01",
             "Apogey BK01",
             "Apogey BK-01"
+        ],
+        "local": [
+            "Apogee BK-01"
         ]
     },
     "Commodore MAX Machine": {
@@ -3224,7 +3684,10 @@
         "maxcontrollers": "1",
         "notes": "The Commodore MAX Machine, also known as Ultimax in the United States and VC-10 in Germany, was a home computer designed and sold by Commodore International in Japan, beginning in early 1982, a predecessor to the popular Commodore 64. The Commodore 64 manual mentions the machine by name, suggesting that Commodore intended to sell the machine internationally; however, it is unclear whether the machine was ever actually sold outside Japan. It is considered a rarity.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Commodore MAX Machine"
+        ]
     },
     "Commodore PET": {
         "id": 152,
@@ -3242,7 +3705,10 @@
         "maxcontrollers": "1",
         "notes": "The Commodore PET (Personal Electronic Transactor) is a line of home\/personal computers produced starting in 1977 by Commodore International. A top-seller in the Canadian and United States educational markets, it was Commodore's first full-featured computer, and formed the basis for their entire 8-bit product line, including the Commodore 64. The first model, which was named the PET 2001, was the first personal computer ever made available to retail consumers.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Commodore PET"
+        ]
     },
     "Exelvision EXL 100": {
         "id": 153,
@@ -3260,7 +3726,10 @@
         "maxcontrollers": "2",
         "notes": "The EXL 100 of the French brand Exelvision is a microprocessor computer based on the TMS7020 from Texas Instruments. It was original for the time because almost all home computers in France were equipped with microprocessors of the series 6502 of MOS Technology or the Zilog Z80.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Exelvision EXL 100"
+        ]
     },
     "Exidy Sorcerer": {
         "id": 154,
@@ -3278,7 +3747,10 @@
         "maxcontrollers": "1",
         "notes": "The Sorcerer is one of the early home computer systems, released in 1978 by the videogame company Exidy. It was comparatively advanced when released, especially when compared to the contemporary more commercially successful Commodore PET and TRS-80, but due to a number of problems, including a lack of marketing, the machine remained relatively unknown.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Exidy Sorcerer"
+        ]
     },
     "Fujitsu FM-7": {
         "id": 155,
@@ -3300,6 +3772,9 @@
         "alternate": [
             "FM7",
             "Fujitsu Micro 7"
+        ],
+        "local": [
+            "Fujitsu FM-7"
         ]
     },
     "Hector HRX": {
@@ -3318,7 +3793,10 @@
         "maxcontrollers": "2",
         "notes": "The Hector HRX follows the 2HR, and takes over exactly the same machine, while technically stretching it on certain points. The main evolution comes from the amount of RAM that goes to 64 KB, allowing it to display double the number of colors on screen. The machine also now has a cartridge port, which ultimately was used very little, mostly only near the end of its life. It is indeed the last machine of the French firm for the Victor \/ Hector range.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Hector HRX"
+        ]
     },
     "Lviv PC-01": {
         "id": 157,
@@ -3336,7 +3814,10 @@
         "maxcontrollers": "1",
         "notes": "The Lviv PC-01 was an i8080 clone first introduced in the city of Lviv in the Soviet Union. The PC-01 started to appear in computer shops in 1987 but was in development since the early 1980s.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Lviv PC-01"
+        ]
     },
     "Matra and Hachette Alice": {
         "id": 158,
@@ -3350,7 +3831,10 @@
         "media": "Cassette",
         "notes": "The Matra & Hachette Ordinateur Alice was a home computer sold in France beginning in 1983. It was a clone of the TRS-80 MC-10, produced through a collaboration between Matra and Hachette in France and Tandy Corporation in the United States. The Alice is distinguished by its unique, bright red casing. Functionally, it is equivalent to the MC-10, with a P\u00c3\u00a9ritel (SCART) connector replacing the RF modulator for video output.Unlike its progenitor, the Alice became a popular computer in its home country, aided by its presence in schools as part of the country's Informatique pour tous (\"Information technology for everyone\") programme. ",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Matra Hachette Alice 32"
+        ]
     },
     "Microsoft MSX2": {
         "id": 159,
@@ -3370,6 +3854,9 @@
         "usemamefiles": "false",
         "alternate": [
             "MSX2"
+        ],
+        "local": [
+            "Microsoft MSX2"
         ]
     },
     "Microsoft MSX2+": {
@@ -3390,6 +3877,9 @@
         "usemamefiles": "false",
         "alternate": [
             "MSX2+"
+        ],
+        "local": [
+            "Microsoft MSX2+"
         ]
     },
     "NEC PC-8801": {
@@ -3406,7 +3896,10 @@
         "media": "Cassette tape",
         "notes": "Featuring a 4MHz Z80A-compatible processor and a 640x200-pixel, 8-color display, the PC-8801 was twice as fast as the PC-8001, with eight times as many pixels and up to four times as much RAM. However, the biggest selling point was its backwards compatibility with PC-8001 software, providing a smooth upgrade path for customers who had already bought into the NEC ecosystem. Games were not the primary focus, as NEC intended to sell its high-end 8-bit machine to a whole spectrum of customers ranging from computer enthusiasts to small businesses and educational institutions.   Major models: - PC-8801 (November 1981). Original model. - PC-8801mkII (November 1983). Minor upgrade over original model. Built-in floppy disk drives. - PC-8801mkIISR (January 1985). Graphics significantly upgraded with the introduction of a new V2 mode, and built-in FM synthesis using a YM2203 (OPN) chip. This model marks the repositioning of the PC-8801 as a system for hobbyists and gamers. - PC-8801FH (November 1986). CPU upgraded to 8MHz, but switchable to 4MHz for compatibility. A sleek jet-black model was also available. - PC-88VA (March 1987). Featuring a 16-bit CPU, up to 65536 colors, a video processor providing hardware-based scrolling and spriting, and a custom OS, the PC-88VA was a powerhouse of a system that was unfortunately plagued by compatibility problems, and ultimately overshadowed by the Sharp X68000. Although technically part of the PC-8801 series, it's best to think of the PC-88VA as a completely separate system. - PC-8801FA (October 1987). Audio upgraded to the Yamaha YM2608 (OPNA) FM synthesis chip. Older models could also be upgraded to OPNA by purchasing the Sound Board II expansion board. - PC-98DO (June 1989). A hybrid computer that could switch between PC-8801 and PC-9801 modes. - PC-8801MC (November 1989). Included a built-in CD-ROM drive, but very few games took advantage of it.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "NEC PC-8801"
+        ]
     },
     "NEC PC-9801": {
         "id": 162,
@@ -3422,7 +3915,10 @@
         "media": "8\" floppy diskette",
         "notes": "The PC-9800 series, commonly shortened to PC-98, is a lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 through 2000. The platform established NEC's dominance in the Japanese personal computer market, and by 1999, more than 18 million PC-98 units had been sold. The first model, the PC-9801, was launched on October 1982, and employed an 8086 CPU. It ran at a clock speed of 5 MHz, with two \u00c2\u00b5PD7220 display controllers (one for text, the other for video graphics), and shipped with 128 KB of RAM, expandable to 640 KB. Its 8-color display had a maximum resolution of 640\u00c3\u0097400 pixels. Its successor, the PC-9801E, which appeared in 1983, employed an 8086-2 CPU, which could selectively run at a speed of either 5 or 8 MHz. The NEC PC-9801VM used NEC V30 CPU.  When the PC-9801 was launched in 1982, it was initially priced at 298,000 yen (about US$1,200 in 1982 dollars). In the 1980s and early 1990s, NEC dominated the Japan domestic PC market with more than 60% of the PCs sold as PC-9801 or PC-8801.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "NEC PC-9801"
+        ]
     },
     "Nintendo 64DD": {
         "id": 163,
@@ -3434,7 +3930,10 @@
         "media": "Magnetic disk (64 MB)",
         "notes": "The 64DD, colloquially referred to as the Nintendo 64DD, is a magnetic disk drive peripheral for the Nintendo 64 game console developed by Nintendo. It was originally announced in 1995, prior to the Nintendo 64's 1996 launch, and after numerous delays was finally released only in Japan on December 1, 1999. Only ten software titles were released until the unit was discontinued in February 2001. It was a commercial failure, with at least 15,000 total units sold and another 85,000 units unsold.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Nintendo 64DD"
+        ]
     },
     "Nintendo Pokemon Mini": {
         "id": 164,
@@ -3449,7 +3948,10 @@
         "media": "ROM cartridge",
         "notes": "The Pok\u00c3\u00a9mon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pok\u00c3\u00a9mon media franchise. It is the smallest game system with interchangeable cartridges ever produced by Nintendo, weighing just under two and a half ounces (70 grams). It was first released in North America on November 16, 2001, then in Japan on December 14, 2001, and in Europe on March 15, 2002. The systems were released in three colors: Wooper Blue, Chikorita Green, and Smoochum Purple.  Features of the Pok\u00c3\u00a9mon mini include an internal real-time clock, an infrared port used to facilitate multiplayer gaming, a reed switch for detecting shakes, and a motor used to implement force feedback. The GameCube game Pok\u00c3\u00a9mon Channel features playable demo versions of several Pok\u00c3\u00a9mon mini games via console emulation. Also included in the game is Snorlax's Lunch Time, a Pok\u00c3\u00a9mon Channel exclusive. Some games were only released in Japan, such as Togepi's Adventure.",
         "category": "Handhelds",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Nintendo Pokemon Mini"
+        ]
     },
     "Othello Multivision": {
         "id": 165,
@@ -3467,7 +3969,10 @@
         "maxcontrollers": "1",
         "notes": "The Othello Multivision is an SG-1000 clone manufactured by Tsukuda Original. It exists because Sega's original intention for the SC-3000 computer was to allow other manufacturers to produce compatible computers in the hope of having a worldwide standard. Unfortunately, possibly with the emergance of the MSX, this tactic failed, and very few SG-1000\/SC-3000 compatible machines were produced. The Othello Multivision was one of those machines.  Similar to the SG-1000, there are two versions of the Othello Multivision, named the FG-1000 (released 1983) and FG-2000 (released 1984) respectively. As well as being able to run SG-1000 and SC-3000 cartridges, the Othello Multivision saw a number of games and software released with Othello Multivision branding. The system also came with the game Othello built-in.  One of the major problems with the Othello Multivision is that rather than rely on external game controllers, all the controls are built into the unit. It is compatible with several SG-1000 add-ons, however, including the SK-1100 which would enable the SC-3000's keyboard functions. FG-1000 models shipped with an overlay which would explain the functions of each key.  The FG-2000 model brought support for a second controller. This model can easily be identified by the fact it uses blue keys rather than red ones and the fact the built-in joystick has been replaced with a directional pad.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Tsukuda Original Othello Multivision"
+        ]
     },
     "VTech Socrates": {
         "id": 166,
@@ -3485,7 +3990,10 @@
         "maxcontrollers": "2",
         "notes": "The VTech Socrates, usually just referred to as Socrates, is a third generation (1983-2003) video game console developed and distributed by VTech. It was released in July 1988 in North America at a retail price of $129.99. The console was also released in Germany (1988) as the Prof. Weiss-Alle and France (1988) as the Professeur Saitout. The Socrates was an educational machine that featured standard wireless controllers which communicated via infrared reception. The console was discontinued quietly in the early 1990's.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "VTech Socrates"
+        ]
     },
     "Vector-06C": {
         "id": 167,
@@ -3498,7 +4006,10 @@
         "media": "Cassette tape",
         "notes": "Vector-06C is a home computer with unique graphics capabilities that was designed and mass-produced in USSR in the late 1980s.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Vector-06C"
+        ]
     },
     "Tomy Tutor": {
         "id": 168,
@@ -3511,7 +4022,10 @@
         "display": "256 x 192",
         "notes": "The Tomy Tutor, originally sold in Japan as the Pyuta and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99\/4A, and used a similar 16-bit CPU. The computer was launched on the UK and European markets in late 1983. Outside Japan, however, sales were not significant.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Tomy Tutor"
+        ]
     },
     "Spectravideo": {
         "id": 169,
@@ -3519,7 +4033,10 @@
         "emulated": "true",
         "notes": "Spectravideo, or SVI (Spectravideo International), was an American computer company founded in 1981 as \"SpectraVision\" by Harry Fox. They originally made video games for Atari 2600 and VIC-20. Some of their computers were MSX-compliant or IBM PC compatible. They ceased operations in 1988.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Spectravideo SVI-318 & SVI-328"
+        ]
     },
     "Sony PSP Minis": {
         "id": 170,
@@ -3528,7 +4045,10 @@
         "releasedate": "2009-10-01T00:00:00-07:00",
         "notes": "PlayStation minis launched on October 1, 2009 for the PSP and the PSPGo in all regions. Under 100MB these games are smaller, cheaper, and download only. In December of 2009, an update was released on the PlayStation 3 (3.15) which enables most Minis to be played on the home console.",
         "category": "Handhelds",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Sony Playstation Portable"
+        ]
     },
     "Sony PocketStation": {
         "id": 171,
@@ -3545,7 +4065,10 @@
         "maxcontrollers": "1",
         "notes": "The PocketStation is a Memory Card peripheral by Sony Computer Entertainment for the PlayStation home video game console. Categorized by Sony as a combination of a Memory Card and a miniature personal digital assistant, the device features a monochrome liquid crystal display (LCD), infrared communication capability, a real-time clock, built-in flash memory, and sound capability. To use the device's memory card functionality, it must be connected to a PlayStation through a memory card slot. It was released exclusively in Japan on January 23, 1999.  Software for the PocketStation was typically distributed as extras for PlayStation games, included in the CD-ROM, enhancing the games with added features. Stand-alone software could also be downloaded through the PlayStation console. The software is then transferred to the PocketStation for use. A built-in infrared data interface allows direct transfer of data such as game saves between PocketStation units, as well as multiplayer gaming.  The original Japanese ship date for the PocketStation was set for December 23, 1998, but it was delayed a full month. Sony only shipped an initial 60,000 units of the peripheral when it was released on January 23, 1999. It was initially available in two case colors: white and clear. It proved extremely popular, selling out all over the region. Sony planned to release the PocketStation outside Japan, engaging in promotional activity in Europe and North America, but the release did not occur. SCEA cited an inability meeting Japanese demand as the reason for the PocketStation's absence. A few games, such as Final Fantasy VIII and SaGa Frontier 2, retained PocketStation functionality in their localized versions.  The PocketStation's most popular game was Dokodemo Issho, which sold over 1.5 million copies in Japan and is the first game to star Sony's mascot Toro. The PocketStation was discontinued in July 2002 after having shipped nearly five million units.  On November 5, 2013, it was announced that the PocketStation would be revived as an application for the PlayStation Vita, allowing users to play PocketStation format minigames for any classic PlayStation games that they own. Originally it was only available to PlayStation Plus members, it was later released to the general public. It remains an exclusive to the Japanese PlayStation Vitas.  The PocketStation also shares similarities with Sega's VMU for the Dreamcast.",
         "category": "Handhelds",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Sony PocketStation"
+        ]
     },
     "Sharp X1": {
         "id": 172,
@@ -3560,7 +4083,10 @@
         "media": "Cassette tape",
         "notes": "The X1, sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.  Despite the fact that the Computer Division of Sharp Corporation had released the MZ series, suddenly the Television Division released a new computer series called the X1. At the time the original X1 was released, all other home computers generally had a BASIC language in ROM. However the X1 did not have a BASIC ROM, and it had to load the Hu-BASIC interpreter from a cassette tape. On the plus side however, this concept meant that a free RAM area was available that was as big as possible when not using BASIC. This policy was originally copied from the Sharp MZ series, and they were called clean computers in Japan. The cabinet shape of X1 was also much more stylish than others at that time and a range of cabinet colors (including Red) was selectable.  The RGB display monitor for the X1 had a television tuner, and a computer screen could be super-imposed on TV. All the TV functions could be controlled from a computer program. The character font was completely programmable (A.K.A. PCG) with 4bit color, and it was effectively used into a lot of games. The entirety of the VRAM memory was mapped on to the I\/O area, so it was controlled without bank change. Since X1 had these features, it was very powerful for game software.  While X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popular in the Japanese market. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, while X1 had 640x200). It had a lot of improvements, but the clock speed was still only 4 MHz. In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was finally released as the last machine of the X1 series in 1987. Then this series was succeeded by the X68000 series.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Sharp X1"
+        ]
     },
     "Sharp MZ-2500": {
         "id": 173,
@@ -3575,7 +4101,10 @@
         "media": "Floppy disk",
         "notes": "The Sharp MZ-2500 (SuperMZ) series was launched on the Japan market in 1985, the computers in this series all used a Z80B processor running at 6MHz. They included a data recorder and at least one 3.5 internal floppy disk drive, as well as a YM2203 FM sound chip, hardware scrolling, and a palette of 256 colors (upgradable to 4096) and it takes from 2 to 8 seconds to define P.C.G (user generated characters, similar to sprites).  This makes them among the most powerful 8-bit machines ever released for home use. Some models are also compatible with the MZ-80B and MZ-2000.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Sharp MZ-2500"
+        ]
     },
     "Sega Triforce": {
         "id": 174,
@@ -3592,7 +4121,10 @@
         "maxcontrollers": "2",
         "notes": "The Triforce is an arcade system board developed jointly by Namco, Sega, and Nintendo, with the first games appearing in 2002. The name \"Triforce\" is a reference to Nintendo's Legend of Zelda series of games, and symbolized the three companies' involvement in the project. The system hardware is based on the Nintendo GameCube with several differences, like provisions for add-ons such as Sega's GD-ROM system and upgradeable RAM modules.",
         "category": "Arcade",
-        "usemamefiles": "true"
+        "usemamefiles": "true",
+        "local": [
+            "Sega Triforce"
+        ]
     },
     "Sega Hikaru": {
         "id": 175,
@@ -3608,7 +4140,10 @@
         "media": "ROM Board, up to 352 MB",
         "notes": "An evolution of the NAOMI hardware with superior graphics capabilities, the Hikaru was used for a handful of deluxe dedicated-cabinet games, beginning with 1999's Brave Fire Fighters, in which the flame and water effects were largely a showpiece for the hardware. The Hikaru hardware was the first arcade platform capable of effective Phong shading. Since it was comparatively expensive to produce, and most games did not necessarily need Hikaru's extended graphics capabilities, Sega soon abandoned the system in favor of continued NAOMI and NAOMI 2 development.",
         "category": "Arcade",
-        "usemamefiles": "true"
+        "usemamefiles": "true",
+        "local": [
+            "Sega Hikaru"
+        ]
     },
     "Radio-86RK Mikrosha": {
         "id": 176,
@@ -3621,7 +4156,10 @@
         "display": "25x80",
         "notes": "The Radio-86RK was the second DIY computer featured in Radio magazine, in an edition published in 1986. It was more popular than the Micro-80 because it was much simpler (29 ICs, i8080 @1.78 MHz with i8257 and i8275-based CRT terminal). Many factories started production of home computers based on this design (such as the Apogey BK-01, Mikrosha, Krista, Partner 01.01, and the Spektr-001). These computers had limited compatibility with the original software, although their schematics were very close to the original.",
         "category": "Computers",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Radio-86RK Mikrosha"
+        ]
     },
     "SNK Neo Geo MVS": {
         "id": 177,
@@ -3639,7 +4177,10 @@
         "maxcontrollers": "2",
         "notes": "The Neo Geo, stylised as NEO\u00c2\u00b7GEO, also written as NEOGEO, is a cartridge-based arcade system board and fourth-generation home video game console released on April 26, 1990, by Japanese game company SNK Corporation. It was the first system in SNK's Neo Geo family. The Neo Geo was marketed as 24-bit; its CPU is technically a parallel processing 16\/32-bit 68000-based system with an 8\/16-bit Z80 coprocessor much like the Sega Genesis, while its GPU chipset has a 24-bit graphics data bus.  The Neo Geo originally launched as the MVS (Multi Video System) coin-operated arcade machine. The MVS offers owners the ability to put up to six different cartridges into a single cabinet, a unique feature that was also a key economic consideration for operators with limited floorspace, as well as saving money in the long-run. With its games stored on self-contained cartridges, a game cabinet can be exchanged for a different game title by swapping the game's ROM Cartridge and cabinet artwork. A home console version was also made, called AES (Advanced Entertainment System). It was originally launched as a rental console for video game stores in Japan (called Neo Geo Rental System), with its high price causing SNK not to release it for home use \u00e2\u0080\u0093 this was later reversed due to high demand and it came into the market as a luxury console. The AES had the same raw specs as the MVS and had full compatibility, thus managed to bring a true arcade experience to home users. As of 2013 it was the most expensive home video game console ever released, costing US$1,125 adjusted for inflation. The Neo Geo was revived along with the brand overall in December 2012 through the introduction of the Neo Geo X handheld and home system.",
         "category": "Arcade",
-        "usemamefiles": "true"
+        "usemamefiles": "true",
+        "local": [
+            "SNK Neo Geo MVS"
+        ]
     },
     "Nintendo Switch": {
         "id": 178,
@@ -3657,7 +4198,10 @@
         "maxcontrollers": "8",
         "notes": "The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Nintendo Switch"
+        ]
     },
     "Windows 3.X": {
         "id": 179,
@@ -3666,7 +4210,10 @@
         "releasedate": "1990-05-22T00:00:00-07:00",
         "developer": "Microsoft",
         "notes": "Windows 3.0, a graphical environment, is the third major release of Microsoft Windows, and was released on May 22, 1990. It became the first widely successful version of Windows and a rival to Apple Macintosh and the Commodore Amiga on the graphical user interface (GUI) front. It was followed by Windows 3.1.  Windows 3.0 originated in 1989 when David Weise and Murray Sargent independently decided to develop a protected mode Windows as an experiment. They cobbled together a rough prototype and presented it to company executives, who were impressed enough to approve it as an official project. Windows 3.0 succeeded Windows 2.1x and included a significantly revamped user interface as well as technical improvements to make better use of the memory management capabilities of Intel's 80286 and 80386 processors. Text mode programs written for MS-DOS can be run within a window \u00e2\u0080\u0094 a feature previously available in a more limited form with Windows\/386 2.1 \u00e2\u0080\u0094 making the system usable as a crude multitasking base for legacy programs. However, this was of limited use for the home market, where most games and entertainment programs continued to require raw DOS access.",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Microsoft Windows 3.X"
+        ]
     },
     "Nokia N-Gage": {
         "id": 180,
@@ -3682,7 +4229,10 @@
         "media": "MultiMediaCard (MMC)",
         "maxcontrollers": "1",
         "notes": "The N-Gage is a PDA combining features of a telephone and a handheld game system from Nokia, released on 7 October 2003. It runs the original Series 60 platform on Symbian OS v6.1, and it's able to run all Series 60 software as well as Java MIDP apps. Multiplayer gaming was accomplished with Bluetooth or the Internet (via the N-Gage Arena service). The N-Gage also included MP3 and Real Audio\/Video playback. While the N-Gage did not have any significant financial successes, it did have a handful of critical successes.",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Nokia N-Gage"
+        ]
     },
     "GameWave": {
         "id": 183,
@@ -3694,7 +4244,10 @@
         "media": "DVD-ROM",
         "maxcontrollers": "4",
         "notes": "The Game Wave Family Entertainment System, commonly abbreviated as Game Wave, is a hybrid DVD player and home video game console manufactured by ZAPiT Games. It was first released in Canada in October 2005. It is part of the seventh generation of video game consoles.",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "ZAPiT Games Game Wave Family Entertainment System"
+        ]
     },
     "Linux": {
         "id": 185,
@@ -3705,7 +4258,10 @@
         "manufacturer": "\tCommunity",
         "maxcontrollers": "1",
         "notes": "is a name that broadly denotes a family of free and open-source software operating systems (OS) built around the Linux kernel. Typically, Linux is packaged in a form known as a Linux distribution (or distro for short) for both desktop and server use. The defining component of a Linux distribution is the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds. Many Linux distributions use the word \"Linux\" in their name. The Free Software Foundation uses the name GNU\/Linux to refer to the operating system family, as well as specific distributions, to emphasize that most Linux distributions are not just the Linux kernel, and that they have in common not only the kernel, but also numerous utilities and libraries, a large proportion of which are from the GNU project. This has led to some controversy",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Generic Linux"
+        ]
     },
     "Sony Playstation 5": {
         "id": 186,
@@ -3723,6 +4279,9 @@
         "maxcontrollers": "4",
         "notes": "The PlayStation 5 (PS5) is a home video game console developed by Sony Interactive Entertainment. Announced in 2019 as the successor to the PlayStation 4, the PS5 was released on November 12, 2020, in Australia, Japan, New Zealand, North America, and South Korea, with worldwide release following a week later. The PS5, along with Microsoft's Xbox Series X and Series S consoles were released in the same month, is part of the ninth generation of video game consoles.",
         "category": "Consoles",
-        "usemamefiles": "false"
+        "usemamefiles": "false",
+        "local": [
+            "Sony Playstation 5"
+        ]
     }
 }

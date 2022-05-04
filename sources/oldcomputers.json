@@ -207,7 +207,10 @@
         "peripherals": "Printers, additional disks",
         "power_supply": "Built-in PSU",
         "built_in_language": "Basic 80 delivered on disk",
-        "end_of_production": "1985"
+        "end_of_production": "1985",
+        "local": [
+            "Xerox 820"
+        ]
     },
     "Atari 1200 XL": {
         "id": 16,
@@ -776,7 +779,10 @@
         "graphic_modes": "78 x 72",
         "built_in_media": "Optional 2 x 5.25'' disk-drives",
         "power_supply": "Unknown",
-        "built_in_language": "Luxor Basic"
+        "built_in_language": "Luxor Basic",
+        "local": [
+            "Luxor ABC 80"
+        ]
     },
     "Microkey KFFT PRIMO A-32": {
         "id": 38,
@@ -1219,7 +1225,10 @@
         "built_in_media": "None",
         "peripherals": "All the Apple II cards and peripherals",
         "power_supply": "Built-in switching PSU with cooling fan",
-        "built_in_language": "Applesoft BASIC"
+        "built_in_language": "Applesoft BASIC",
+        "local": [
+            "Franklin ACE 1000"
+        ]
     },
     "Coleco ADAM": {
         "id": 57,
@@ -1252,7 +1261,10 @@
         "power_supply": "Built-in the printer !",
         "built_in_language": "SmartWriter wordprocessor, Smart BASIC delivered on data-pack",
         "end_of_production": "1985",
-        "co_processor": "6801 Master-microcomputer"
+        "co_processor": "6801 Master-microcomputer",
+        "local": [
+            "Coleco ADAM"
+        ]
     },
     "Rockwell AIM 65": {
         "id": 58,
@@ -1279,7 +1291,10 @@
         "origin": "U.S.A.",
         "power_supply": "Needs four power supply voltages: +5v, +12v, -12v, and +24v for the printer",
         "built_in_language": "Optional Basic ROM",
-        "end_of_production": "Unknown"
+        "end_of_production": "Unknown",
+        "local": [
+            "Rockwell AIM 65"
+        ]
     },
     "MBC ALCYANE A6E": {
         "id": 59,
@@ -1718,7 +1733,10 @@
         "graphic_modes": "80 x 72 \/ 320 x 192 dots",
         "peripherals": "Thermic printer and  plotter (1200 bauds), Tape-recorder (600 bauds), Mini-expander addon, RAM expansions (4 KB, 16 KB and 32 KB), Master expansion module & disk-drives (vaporware), Home Computer System",
         "power_supply": "External power supply (12v)",
-        "built_in_language": "Specific Microsoft Basic interpreter"
+        "built_in_language": "Specific Microsoft Basic interpreter",
+        "local": [
+            "Mattel Aquarius"
+        ]
     },
     "Radofin Electronics Limited AQUARIUS 2": {
         "id": 74,
@@ -1782,7 +1800,10 @@
         "power_supply": "Built-in switching power supply unit",
         "built_in_language": "BBC BASIC V",
         "end_of_production": "1989",
-        "co_processor": "MEMC (memory), VIDC (Video and Sound), IOC (I\/O)"
+        "co_processor": "MEMC (memory), VIDC (Video and Sound), IOC (I\/O)",
+        "local": [
+            "Acorn Archimedes"
+        ]
     },
     "Atari 400": {
         "id": 76,
@@ -1812,7 +1833,10 @@
         "graphic_modes": "several graphic modes, maximum : 320 x 192",
         "power_supply": "External power supply",
         "end_of_production": "1982",
-        "co_processor": "ANTIC (Scrolling, Sprites, Video), CTIA \/ GTIA (Color, Sprites, Collisions), POKEY (timers, sound, keyboard, serial I\/O), PIA 6810 (I\/O, including the 4 joystick ports)"
+        "co_processor": "ANTIC (Scrolling, Sprites, Video), CTIA \/ GTIA (Color, Sprites, Collisions), POKEY (timers, sound, keyboard, serial I\/O), PIA 6810 (I\/O, including the 4 joystick ports)",
+        "local": [
+            "Atari 400"
+        ]
     },
     "Atari PC": {
         "id": 77,
@@ -1845,7 +1869,11 @@
         "power_supply": "Built-in power supply unit",
         "built_in_language": "Unknown",
         "end_of_production": "Unknown",
-        "co_processor": "Optional 8087 Math coprocessor"
+        "co_processor": "Optional 8087 Math coprocessor",
+        "local": [
+            "Atari PC",
+            "Generic PC"
+        ]
     },
     "ATHENA COMPUTER & ELECTRONIC SYSTEM ATHENA 1": {
         "id": 78,
@@ -2265,7 +2293,10 @@
         "origin": "U.S.A.",
         "graphic_modes": "Several graphic modes, max : 256 x 192 (with 2 colors)",
         "power_supply": "Built-in power supply unit",
-        "built_in_language": "Tandy (Microsoft) BASIC interpreter"
+        "built_in_language": "Tandy (Microsoft) BASIC interpreter",
+        "local": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ]
     },
     "BASIS BASIS 108": {
         "id": 92,
@@ -2476,7 +2507,11 @@
         "power_supply": "External power supply unit",
         "built_in_language": "Basic",
         "end_of_production": "1993",
-        "co_processor": "VIC II (Video), SID (Sound)"
+        "co_processor": "VIC II (Video), SID (Sound)",
+        "local": [
+            "Commodore 64",
+            "Commodore C64"
+        ]
     },
     "CAB 65": {
         "id": 99,
@@ -2711,7 +2746,10 @@
         "graphic_modes": "several graphic modes, most used : 320 x 240 (32 colors) \/ 640 x 240 (16 colors)",
         "built_in_media": "Internal single speed CDROM (with caddy)",
         "end_of_production": "1995",
-        "co_processor": "Denise (8373 SuperDenise), Paula, Agnus, Gary"
+        "co_processor": "Denise (8373 SuperDenise), Paula, Agnus, Gary",
+        "local": [
+            "Commodore Amiga CDTV"
+        ]
     },
     "Seequa CHAMELEON": {
         "id": 107,
@@ -3012,7 +3050,10 @@
         "origin": "United Kingdom",
         "graphic_modes": "Several graphic modes, max : 256 x 192 (with 2 colors)",
         "built_in_language": "Microsoft Extended Basic<br>Basic Interpreter 1.0 (1982)",
-        "co_processor": "Motorola MC-6847 Video Display Generator"
+        "co_processor": "Motorola MC-6847 Video Display Generator",
+        "local": [
+            "Dragon 32-64"
+        ]
     },
     "DARLAY DY 80": {
         "id": 118,
@@ -3103,7 +3144,10 @@
         "graphic_modes": "160 x 256 (4 or 16 colors), 320 x 256 (2 or 4 colors), 640 x 256 (2 colors)",
         "power_supply": "External PSU, 18v",
         "built_in_language": "Acorn Electron Basic + 6502 assembler",
-        "co_processor": "custom ULA"
+        "co_processor": "custom ULA",
+        "local": [
+            "Acorn Electron"
+        ]
     },
     "Osborne Corp. ENCORE": {
         "id": 122,
@@ -3163,7 +3207,10 @@
         "built_in_media": "optional CMOS RAM card (16k or 64k)<br>Optional 3.4'' disk drives",
         "power_supply": "Built-in PSU",
         "built_in_language": "Exelbasic delivered on cartridge",
-        "co_processor": "TMS-7041 (I\/O), TMS-5220A (Speech synthesizer), VDP TMS 3556 (Video generator)"
+        "co_processor": "TMS-7041 (I\/O), TMS-5220A (Speech synthesizer), VDP TMS 3556 (Video generator)",
+        "local": [
+            "Exelvision EXL 100"
+        ]
     },
     "Motorola EXORSET 30": {
         "id": 124,
@@ -3783,7 +3830,10 @@
         "built_in_media": "2 x 5.25'' disk-drives (double side, double density), 280k each<br>average access time : 250ms<br>Up to 3 disk-drives mounted",
         "peripherals": "64k RAM expansions, 5''1\/4 and 8'' disk-drives, hard-disks (5,10,15 Mb), 8086 CPU, color video board, NTSC TV interface, graphic board, 8087 arithmetic coprocessor, real-time clock, 4 x RS232c interfa",
         "power_supply": "Built-in PSU (250-300w)",
-        "built_in_language": "Basic Microsoft 5.0 delivered on disks"
+        "built_in_language": "Basic Microsoft 5.0 delivered on disks",
+        "local": [
+            "ITT 3030"
+        ]
     },
     "JUPITER CANTAB Jupiter Ace": {
         "id": 147,
@@ -6779,7 +6829,10 @@
         "peripherals": "VG 5200 - Joystick interface<br>VG 5216 - Expansion unit<br>VU 0001 - Joytsick<br>VU 0011 - SECAM Modulator<br>VU 0031 - 16k RAM cartridge<br>VW 0010 - 40 columns printer<br>VW 0020 - 80 columns print",
         "power_supply": "External PSU (VU 0022)",
         "built_in_language": "Microsoft Basic",
-        "end_of_production": "1986"
+        "end_of_production": "1986",
+        "local": [
+            "Philips VG 5000"
+        ]
     },
     "Philips VG 8020": {
         "id": 250,
@@ -7040,7 +7093,10 @@
         "graphic_modes": "120 x 32",
         "built_in_media": "RAM-cards",
         "power_supply": "External PSU (4.5v - 450 mA) or 4 battery cells",
-        "built_in_language": "Microsoft Basic"
+        "built_in_language": "Microsoft Basic",
+        "local": [
+            "Canon X-07"
+        ]
     },
     "Sharp X1 Turbo": {
         "id": 259,
@@ -7070,7 +7126,10 @@
         "graphic_modes": "320 x 200 \/ 640 x 200 \/ 320 x 400 \/ 640 x 400",
         "built_in_media": "2 x 5.25'' FDD",
         "vram": "96 KB",
-        "power_supply": "Built-in PSU"
+        "power_supply": "Built-in PSU",
+        "local": [
+            "Sharp X1 Turbo"
+        ]
     },
     "IBM PC XT 286": {
         "id": 260,
@@ -7476,7 +7535,10 @@
         "built_in_media": "Built-in 3.5'' double sided, 1MB MFM capacity drive",
         "power_supply": "External power supply unit, +5VDC at 2.2A  and +12VDC at .85A",
         "built_in_language": "Basic 10.0",
-        "co_processor": "Video : Commodore CSG 4567 enhanced VIC chip<br>Sound : Commodore CSG8580 SID chips"
+        "co_processor": "Video : Commodore CSG 4567 enhanced VIC chip<br>Sound : Commodore CSG8580 SID chips",
+        "local": [
+            "Commodore C65"
+        ]
     },
     "IBM PC - Model 5150": {
         "id": 274,
@@ -8091,7 +8153,10 @@
         "built_in_media": "2 x 5.25'' disk-drive",
         "vram": "512 KB graphic + 512 KB text",
         "peripherals": "Built-in power supply unit",
-        "co_processor": "Unknown"
+        "co_processor": "Unknown",
+        "local": [
+            "Sharp X68000"
+        ]
     },
     "NCR Decision Mate V": {
         "id": 299,
@@ -8121,7 +8186,10 @@
         "built_in_media": "One or two floppy disk drives (320 KB each), 10 to 30 MB hard disk",
         "vram": "32 KB (monochrome mode) or 96 KB (colour mode)",
         "power_supply": "Built-in power supply unit",
-        "built_in_language": "None"
+        "built_in_language": "None",
+        "local": [
+            "NCR Decision Mate V"
+        ]
     },
     "Philips VG 8000 \/ 8010": {
         "id": 300,
@@ -9036,7 +9104,10 @@
         "graphic_modes": "64 x 48 (semi-graphic mode)<br>Galaksija Plus : 256 x 208",
         "vram": "Unknown",
         "power_supply": "External power supply",
-        "built_in_language": "Basic interpreter"
+        "built_in_language": "Basic interpreter",
+        "local": [
+            "Galaksija"
+        ]
     },
     "CCE MC 1000": {
         "id": 331,
@@ -9817,7 +9888,10 @@
         "graphic_modes": "640 x 400 (color), 1280 x 800 (monochrome)",
         "built_in_media": "Two 5.25'' disk-drives, optional 10 Mb \/ 60 Mb external hard-disk",
         "power_supply": "Power supply unit is located in the monitor",
-        "co_processor": "82720 (Graphic), 8087(arithmetic coprocessor),"
+        "co_processor": "82720 (Graphic), 8087(arithmetic coprocessor),",
+        "local": [
+            "Telenova Compis"
+        ]
     },
     "ACCESS COMPUTER ACCESS Computer": {
         "id": 359,
@@ -12431,7 +12505,10 @@
         "speed": "4 Mhz",
         "origin": "U.S.A.",
         "built_in_media": "8'' disk-drives : from 512 kb to 2 Mb<br>10, 20 or 40 Mb Winchester hard-disk (upgradable to 80 Mb)<br>17 Mb magnetic streamer (ACS-8000 MTU only)",
-        "power_supply": "Built-in PSU"
+        "power_supply": "Built-in PSU",
+        "local": [
+            "Altos Computer Systems ACS-8000"
+        ]
     },
     "Fox Fox-640": {
         "id": 457,
@@ -12537,7 +12614,10 @@
         "graphic_modes": "several graphic modes, maximum : 320 x 192",
         "power_supply": "External power supply",
         "end_of_production": "1982",
-        "co_processor": "ANTIC (Scrolling, Sprites, Video), CTIA \/ GTIA (Color, Sprites, Collisions), POKEY (timers, sound, keyboard, serial I\/O), PIA 6520 (I\/O, including the 4 joystick ports)"
+        "co_processor": "ANTIC (Scrolling, Sprites, Video), CTIA \/ GTIA (Color, Sprites, Collisions), POKEY (timers, sound, keyboard, serial I\/O), PIA 6520 (I\/O, including the 4 joystick ports)",
+        "local": [
+            "Atari 800"
+        ]
     },
     "TRIOS MICRO SYSTEMS MicroMate PMC 101": {
         "id": 461,
@@ -13033,7 +13113,10 @@
         "origin": "Japan",
         "graphic_modes": "192 x 184",
         "power_supply": "DC 10.6V, 820mA",
-        "built_in_language": "BS-BASIC delivered on cartridge"
+        "built_in_language": "BS-BASIC delivered on cartridge",
+        "local": [
+            "Gundam RX-78"
+        ]
     },
     "MULTITECH MPF-1 A\/B": {
         "id": 479,
@@ -13290,7 +13373,10 @@
         "peripherals": "Additional disk-drives, printer, modem, 16-bit board",
         "power_supply": "Built-in PSU",
         "built_in_language": "Basic 80 delivered on disk",
-        "end_of_production": "1985"
+        "end_of_production": "1985",
+        "local": [
+            "Xerox 820-II"
+        ]
     },
     "Xerox 860": {
         "id": 488,
@@ -13314,7 +13400,10 @@
         "graphic_modes": "None",
         "built_in_media": "2 x 600 KB 8'' double sided disk-drives (some systems were sold with single sided drives)",
         "peripherals": "Printer",
-        "power_supply": "PSU built-in"
+        "power_supply": "PSU built-in",
+        "local": [
+            "Xerox 860"
+        ]
     },
     "Xerox Sunrise 1800 \/ 1805": {
         "id": 489,
@@ -13426,7 +13515,10 @@
         "vram": "128k with the color option",
         "peripherals": "ACT's modem card, memory expansion, 10Mb external hard-disk, infrared mouse\/trackball",
         "power_supply": "Internal PSU",
-        "built_in_language": "None"
+        "built_in_language": "None",
+        "local": [
+            "ACT Apricot Portable"
+        ]
     },
     "ACT Apricot F2 \/ F10": {
         "id": 493,
@@ -13512,7 +13604,10 @@
         "peripherals": "10Mb hard-drive, external disk-drive, infrared trackball, RF modulator for TV output",
         "power_supply": "Internal PSU",
         "end_of_production": "1986",
-        "co_processor": "Z80 for I\/O control and Video"
+        "co_processor": "Z80 for I\/O control and Video",
+        "local": [
+            "ACT Apricot F1"
+        ]
     },
     "Sharp PC-7000": {
         "id": 496,
@@ -14268,7 +14363,10 @@
         "peripherals": "Exelwriter printer, RS232\/Centronics\/mouse\/superimposing addon, Exelmouse mouse, Exeldrum, Exeldisk, Exelrecorder (tape-recorder), Exelm?moire memory carts",
         "power_supply": "Built-in PSU",
         "built_in_language": "Exelcom, Exelquad, Exelspeech.<br>Exelbasic+ delivered on cartridge",
-        "co_processor": "TMS 7042 (I\/O)"
+        "co_processor": "TMS 7042 (I\/O)",
+        "local": [
+            "Exelvision Exeltel"
+        ]
     },
     "Amstrad CPC 5512": {
         "id": 522,
@@ -14657,7 +14755,10 @@
         "peripherals": "Hard-disk, IEEE 488, RS 422, RS 232, PC Net boards, IBM 3278 coaxial network board, mouse",
         "power_supply": "Built-in PSU, 135w",
         "built_in_language": "MS-DOS and GW-Basic delivered on disks",
-        "co_processor": "optional 8087 arithmetic co-processor, NEC 6845 video generator"
+        "co_processor": "optional 8087 arithmetic co-processor, NEC 6845 video generator",
+        "local": [
+            "Olivetti M24"
+        ]
     },
     "Kemitron Naja": {
         "id": 536,
@@ -15967,7 +16068,10 @@
         "power_supply": "13.8V AC \/ 1.25 Amp",
         "built_in_language": "APF Basic on cartridge",
         "end_of_production": "1981",
-        "co_processor": "Motorola MC-6847P video display generator"
+        "co_processor": "Motorola MC-6847P video display generator",
+        "local": [
+            "APF Imagination Machine"
+        ]
     },
     "NATIONAL CF-2700": {
         "id": 585,
@@ -16555,7 +16659,10 @@
         "graphic_modes": "none",
         "built_in_media": "1 or 2 x 5.25'' 800 KB F.D. drives",
         "power_supply": "Buit-in power supply unit",
-        "built_in_language": "None"
+        "built_in_language": "None",
+        "local": [
+            "Sage II"
+        ]
     },
     "Data Technology Industries Associate": {
         "id": 608,
@@ -16675,7 +16782,10 @@
         "peripherals": "128 KB memory card, Intel 8086 microprocessor card, IEEE-488 card",
         "power_supply": "Built-in power supply",
         "built_in_language": "None",
-        "co_processor": "None"
+        "co_processor": "None",
+        "local": [
+            "Olivetti M20"
+        ]
     },
     "Tesla ONDRA": {
         "id": 612,
@@ -18072,7 +18182,10 @@
         "power_supply": "9v DC",
         "controllers": "2 paddles, a steering wheel and a gun",
         "number_of_games": "1 - Road Race\/Tennis\/Quick Draw<br>2 - Hockey\/Tennis\/Handball\/Target<br>3 - Bonus Pinball\/Shooting Gallery\/Shoot the bear\/Deluxe Pinball<br>4 - Naval Battle\/Speed Ball\/Blast-Away",
-        "media": "Triangular cartridges"
+        "media": "Triangular cartridges",
+        "local": [
+            "Coleco Telstar Arcade"
+        ]
     },
     "KAWAI KMC-5000": {
         "id": 662,
@@ -19240,7 +19353,10 @@
         "power_supply": "8.5V DC (negative tip) external PSU",
         "co_processor": "EPOCH TV-1 (video chipset), UPD1771C (sound chipset)",
         "controllers": "Two joysticks",
-        "media": "Cartridges. Some with a small battery-powered persistent memory to save scores and user-built levels (<i>Pop & Chips, Basic, Dragon Slayer<\/i>)"
+        "media": "Cartridges. Some with a small battery-powered persistent memory to save scores and user-built levels (<i>Pop & Chips, Basic, Dragon Slayer<\/i>)",
+        "local": [
+            "Epoch Super Cassette Vision"
+        ]
     },
     "Acorn Computer Archimedes A4000": {
         "id": 709,
@@ -19359,7 +19475,10 @@
         "controllers": "2 pistol shaped controllers with 1 trigger and a short 8 directions joystick \/ analogic knob",
         "number_of_games": "About 40 cartridges released",
         "built_in_software_games": "4 built in programs (Gunfight, Checkmate, Calculator, Scribbling)",
-        "media": "Cartridges"
+        "media": "Cartridges",
+        "local": [
+            "Bally Professional Arcade & Astrocade"
+        ]
     },
     "Philips Odyssey 2001": {
         "id": 713,
@@ -19707,7 +19826,10 @@
         "controllers": "Two controllers with 12 buttons, 2 fire buttons and an analog joystick",
         "number_of_games": "40",
         "built_in_software_games": "None",
-        "media": "Cartridges"
+        "media": "Cartridges",
+        "local": [
+            "Interton VC 4000"
+        ]
     },
     "ROWTRON Television Computer System": {
         "id": 727,
@@ -19762,7 +19884,10 @@
         "controllers": "Two built-in keypads (10 keys: numbers from O to 9)",
         "number_of_games": "10 released by RCA",
         "built_in_software_games": "5 built-in games",
-        "media": "Catridges"
+        "media": "Catridges",
+        "local": [
+            "RCA Studio II"
+        ]
     },
     "Acorn Computer BBC Master Compact": {
         "id": 729,
@@ -19820,7 +19945,10 @@
         "built_in_media": "None",
         "peripherals": "Tape recorder",
         "power_supply": "Exxternal power supply unit,  +5V, +12V, -5V, Max 35VA",
-        "built_in_language": "BASIC G cartridge"
+        "built_in_language": "BASIC G cartridge",
+        "local": [
+            "Tesla PMD-85"
+        ]
     },
     "Medusa T-40": {
         "id": 731,
@@ -20450,7 +20578,10 @@
         "co_processor": "Texas Instruments TMS9928A (Video display unit), Texas Instruments SN76489AN (Sound generator)",
         "controllers": "2 controllers with joystick, 12-button keypad and two fire buttons",
         "number_of_games": "More than 170 (174?)",
-        "media": "Cartridges (8K\/16K\/24K\/32K)"
+        "media": "Cartridges (8K\/16K\/24K\/32K)",
+        "local": [
+            "Coleco ColecoVision"
+        ]
     },
     "Acorn Computer ABC 110": {
         "id": 756,
@@ -20779,7 +20910,10 @@
         "vram": "Unknown",
         "peripherals": "Apple II series expansion cards",
         "power_supply": "Built-in power supply unit",
-        "built_in_language": "Integer AppleSoft BASIC"
+        "built_in_language": "Integer AppleSoft BASIC",
+        "local": [
+            "Franklin ACE 2000"
+        ]
     },
     "PLAYTECH Telesport": {
         "id": 770,
@@ -21418,7 +21552,10 @@
         "controllers": "Knobs built-in the console",
         "number_of_games": "At least 10 cartridges released",
         "built_in_software_games": "None?",
-        "media": "Cartridges, TV out, External connector"
+        "media": "Cartridges, TV out, External connector",
+        "local": [
+            "Epoch Cassette Vision"
+        ]
     },
     "Franklin ACE 500": {
         "id": 793,
@@ -21448,7 +21585,10 @@
         "built_in_media": "Built-in 5.25",
         "power_supply": "Built-in power supply unit",
         "built_in_language": "Applesoft BASIC",
-        "end_of_production": "1983"
+        "end_of_production": "1983",
+        "local": [
+            "Franklin ACE 500"
+        ]
     },
     "IBM 5120": {
         "id": 794,
@@ -21536,7 +21676,10 @@
         "power_supply": "consumption : 16W",
         "co_processor": "Graphics CPU (9 parallax scrolls, cellophane, fade, rotation, and priority effects)",
         "controllers": "Control pad with 6 buttons",
-        "media": "Standard CD-ROM media, 2x speed drive, 256KB CD Buffer"
+        "media": "Standard CD-ROM media, 2x speed drive, 256KB CD Buffer",
+        "local": [
+            "NEC PC-FX"
+        ]
     },
     "Vector Graphics Vector 3 (VIP)": {
         "id": 797,
@@ -21737,7 +21880,10 @@
         "power_supply": "Built-in 110V\/220V power supply unit",
         "built_in_language": "HuBASIC",
         "end_of_production": "~1986",
-        "co_processor": "None"
+        "co_processor": "None",
+        "local": [
+            "Samsung SPC-1000"
+        ]
     },
     "Gakken Compact Vision TV-Boy": {
         "id": 804,
@@ -21794,7 +21940,10 @@
         "peripherals": "expansion area on board",
         "power_supply": "External 5V\/12V power supply unit",
         "built_in_language": "Monitor in ROM",
-        "co_processor": "None"
+        "co_processor": "None",
+        "local": [
+            "SDK-85"
+        ]
     },
     "Sega Mark III": {
         "id": 806,
@@ -22667,7 +22816,10 @@
         "controllers": "Two detachable controllers made of a screwable joystick, a 12-buttons keypad (0-9, CLEAR, ENTER) and two fire buttons (same function)",
         "number_of_games": "22 cartridges",
         "built_in_software_games": "None",
-        "media": "Cartridges"
+        "media": "Cartridges",
+        "local": [
+            "Emerson Arcadia 2001"
+        ]
     },
     "Olivetti P6040": {
         "id": 836,
@@ -22724,7 +22876,10 @@
         "controllers": "8-way d-pad, 3 buttons + Start",
         "number_of_games": "723? (total Genesis\/Mega Drive games)",
         "built_in_software_games": "None",
-        "media": "Cartridge"
+        "media": "Cartridge",
+        "local": [
+            "Sega Genesis"
+        ]
     },
     "Thomson MO5 E": {
         "id": 838,
@@ -22813,7 +22968,10 @@
         "controllers": "8-way d-pad, 2 buttons",
         "number_of_games": "303",
         "built_in_software_games": "Hang On or Missile Defense 3D or Hang On and Astro Warrior or Hang On and Safari Hunt",
-        "media": "Cartridge, Sega Cards"
+        "media": "Cartridge, Sega Cards",
+        "local": [
+            "Sega Mark III & Master System"
+        ]
     },
     "COLLINS INTERNATIONAL TRADING CORPORATION Orange 2": {
         "id": 841,
@@ -22935,7 +23093,10 @@
         "co_processor": "PD1771C (Sound generator), EPOCH TV-1 (Video chipset)",
         "controllers": "Two joysticks",
         "built_in_software_games": "None",
-        "media": "Cartridges. Some with a small battery-powered persistent memory to save scores and user-built levels (<i>Pop & Chips, Basic, Dragon Slayer<\/i>)"
+        "media": "Cartridges. Some with a small battery-powered persistent memory to save scores and user-built levels (<i>Pop & Chips, Basic, Dragon Slayer<\/i>)",
+        "local": [
+            "Epoch Super Cassette Vision"
+        ]
     },
     "Digital Equipment Corporation DECMATE II": {
         "id": 845,
@@ -23082,7 +23243,10 @@
         "controllers": "1 joystick with one fire button",
         "number_of_games": "Basic cartridge + At least 15 games ?",
         "built_in_software_games": "Unknown",
-        "media": "Cartridges"
+        "media": "Cartridges",
+        "local": [
+            "Casio PV-1000"
+        ]
     },
     "Acorn Computer BBC Master": {
         "id": 850,
@@ -23206,7 +23370,10 @@
         "graphic_modes": "8 modes, from 160 x 200 to 640 x 200 dots",
         "built_in_media": "built-in tape recorder",
         "power_supply": "Built-in power supply unit",
-        "built_in_language": "Microsoft BASIC interpreter"
+        "built_in_language": "Microsoft BASIC interpreter",
+        "local": [
+            "Olivetti Prodest PC 128"
+        ]
     },
     "Sony Hit-Bit F9": {
         "id": 854,
@@ -23586,7 +23753,10 @@
         "controllers": "8-way thumbpad, 4 buttons (Start, Select. A, B)",
         "number_of_games": "800+",
         "built_in_software_games": "None",
-        "media": "Cartridges"
+        "media": "Cartridges",
+        "local": [
+            "Nintendo Entertainment System"
+        ]
     },
     "IBM RT (6150)": {
         "id": 867,
@@ -24288,7 +24458,10 @@
         "controllers": "Two `grip-stick' controllers attached to main unit with dedicated wires. 8 way digital movement, forward\/backwards, left\/right, pull knob down\/pull up and twist counter-\/clockwise",
         "number_of_games": "26 programmable cartridges with between 2 and 4 games on each.",
         "built_in_software_games": "Hockey,Tennis",
-        "media": "Cartridges"
+        "media": "Cartridges",
+        "local": [
+            "Fairchild Channel F"
+        ]
     },
     "Convergent Technologies Workslate": {
         "id": 891,
@@ -24518,7 +24691,10 @@
         "controllers": "1 detachable joystick with 2 fire buttons (USA); 2 detachable controllers including a pad and 2 fire buttons each (Europe)",
         "number_of_games": "Over 65 cartridges, plus most 2600 VCS cartridges",
         "built_in_software_games": "Pole Position II (USA) - cartridge; Asteroids (Europe) ? in system memory; 32-in-1 (Australia and New Zealand) - cartridge",
-        "media": "Cartridge, 32 KB Maximum"
+        "media": "Cartridge, 32 KB Maximum",
+        "local": [
+            "Atari 7800"
+        ]
     },
     "CW\/P Cortex": {
         "id": 899,
@@ -24613,7 +24789,10 @@
         "co_processor": "3 custom VLSI's",
         "controllers": "Model Atari CX52 Joystick: Analog (360 Degrees of Motion); Four Fire Buttons (two on each side); 12 Button Keypad that Accepts Overlays; and Start, Pause and Reset Buttons",
         "number_of_games": "Over 75, including prototypes",
-        "media": "Cartridge, 32K Maximum"
+        "media": "Cartridge, 32K Maximum",
+        "local": [
+            "Atari 5200"
+        ]
     },
     "Sanyo MBC-1100 \/ 1150": {
         "id": 902,
@@ -25899,7 +26078,10 @@
         "built_in_media": "None",
         "peripherals": "All of the Sinclair Spectrum and third sources peripherals",
         "power_supply": "External 9V DC power supply unit",
-        "built_in_language": "Sinclair Basic"
+        "built_in_language": "Sinclair Basic",
+        "local": [
+            "Sinclair ZX Spectrum +3"
+        ]
     },
     "Hewlett Packard HP-9830": {
         "id": 950,
@@ -26455,7 +26637,10 @@
         "peripherals": "Unknown",
         "power_supply": "Built-in power supply unit",
         "end_of_production": "Unknown",
-        "co_processor": "80387 arithmetic coprocessor"
+        "co_processor": "80387 arithmetic coprocessor",
+        "local": [
+            "Fujitsu FM Towns"
+        ]
     },
     "Bainbridge Research and Development, Inc. Dolphin": {
         "id": 969,
@@ -27607,7 +27792,10 @@
         "controllers": "Light gun",
         "number_of_games": "5",
         "built_in_software_games": "None",
-        "media": "VHS tapes !"
+        "media": "VHS tapes !",
+        "local": [
+            "WoW Action Max"
+        ]
     },
     "APF TV Fun (Model 401)": {
         "id": 1009,
@@ -27754,7 +27942,10 @@
         "built_in_media": "5.25 1.2 MB floppy disk drive - 20 MB hard disk",
         "power_supply": "Built-in power supply unit",
         "built_in_language": "None",
-        "co_processor": "Socket for a 80287 math co-processor"
+        "co_processor": "Socket for a 80287 math co-processor",
+        "local": [
+            "Enterprise 64 & 128"
+        ]
     },
     "Casio PB-300": {
         "id": 1014,
@@ -27892,7 +28083,10 @@
         "controllers": "One built-in controller (joystick + 4 buttons). Second controller optional.",
         "number_of_games": "More than 30 games",
         "built_in_software_games": "Mine Storm (built-in the system)",
-        "media": "Cartridges"
+        "media": "Cartridges",
+        "local": [
+            "GCE Vectrex"
+        ]
     },
     "Microdigital TK-83": {
         "id": 1019,
@@ -28671,7 +28865,10 @@
         "built_in_media": "None",
         "peripherals": "CONSUL 2112 or 2113, MINIGRAF 0507 (Aritma), SESTYK (teleprinter connection), printer, tape-recorder TESLA M710A or K-10 (external memory), Basic G, VIDEO , TAPER external module (printer connection), GRAFIK external module (256x512).",
         "power_supply": "Built-in PSU",
-        "built_in_language": "Primitive monitor, various languages in cartridges"
+        "built_in_language": "Primitive monitor, various languages in cartridges",
+        "local": [
+            "Generic IQ-151"
+        ]
     },
     "Billings BC-12": {
         "id": 1046,
@@ -28885,7 +29082,10 @@
         "power_supply": "Built-in power supply unit",
         "built_in_language": "None",
         "end_of_production": "1989",
-        "co_processor": "Unknown"
+        "co_processor": "Unknown",
+        "local": [
+            "Xerox 6085"
+        ]
     },
     "SCIENCE FAIR Microcomputer Trainer": {
         "id": 1053,
@@ -28975,7 +29175,10 @@
         "graphic_modes": "640 x 256 (2 colors) \/ 320 x 256 (4 colors) \/ 160 x 256 (16 colors)",
         "built_in_media": "1 or 2 3.5'' 640 KB floppy-disk drives",
         "power_supply": "Switching PSU in the expansion box",
-        "built_in_language": "BBC BASIC Version 4"
+        "built_in_language": "BBC BASIC Version 4",
+        "local": [
+            "Olivetti Prodest PC 128S"
+        ]
     },
     "Toshiba HX-52": {
         "id": 1056,
@@ -29423,7 +29626,10 @@
         "peripherals": "All Apple II cards and peripherals",
         "power_supply": "Built-in switching PSU with cooling fan",
         "built_in_language": "AppleSoft BASIC",
-        "end_of_production": "1982"
+        "end_of_production": "1982",
+        "local": [
+            "Franklin ACE 100"
+        ]
     },
     "Robotron A5105": {
         "id": 1071,
@@ -30446,7 +30652,10 @@
         "controllers": "8-way d-pad + 2 buttons + Start",
         "number_of_games": "251",
         "built_in_software_games": "None",
-        "media": "Cartridge"
+        "media": "Cartridge",
+        "local": [
+            "Sega Game Gear"
+        ]
     },
     "Franklin PC 5000, 6000, 8000": {
         "id": 1110,
@@ -31287,7 +31496,10 @@
         "peripherals": "MD-100 3.5'' FDD unit, FA-7 tape interface (both devices include a printer port and an RS-232 interface)",
         "power_supply": "3 x AA batteries",
         "built_in_language": "C61 Basic interpreter, Assembler, File Manager, Editor",
-        "co_processor": "None"
+        "co_processor": "None",
+        "local": [
+            "Casio PB-1000"
+        ]
     },
     "Amstrad NC 150": {
         "id": 1140,
@@ -31883,7 +32095,10 @@
         "power_supply": "Built-in power supply",
         "controllers": "Standard DPad, 3 action buttons, L+R buttons, Start\/Select, Head Phone Jack and volume control dial",
         "number_of_games": "Tons (Japan has the LARGEST library for 3DO games than anywhere. Some game where released as late as early 1999)",
-        "media": "CD-ROMs"
+        "media": "CD-ROMs",
+        "local": [
+            "Panasonic 3DO Interactive Multiplayer"
+        ]
     },
     "Microdigital TK-2000": {
         "id": 1161,
@@ -32086,7 +32301,10 @@
         "peripherals": "Unknown",
         "power_supply": "External power supply",
         "built_in_language": "C83-BASIC",
-        "co_processor": "TMS9918 (Video chipset), SN76489 (PSG sound generator)"
+        "co_processor": "TMS9918 (Video chipset), SN76489 (PSG sound generator)",
+        "local": [
+            "Casio PV-2000"
+        ]
     },
     "LAMBDA ELECTRONICS LTD PC 8300": {
         "id": 1168,
@@ -32264,7 +32482,10 @@
         "controllers": "integrated into system chassis (11 software addressable buttons, 1",
         "number_of_games": "Unknown",
         "built_in_software_games": "None",
-        "media": "proprietary ROM cartridges with the ability to have a small amount of EEPROM for game saves (max 16 MB)"
+        "media": "proprietary ROM cartridges with the ability to have a small amount of EEPROM for game saves (max 16 MB)",
+        "local": [
+            "Bandai WonderSwan"
+        ]
     },
     "Yamaha C1": {
         "id": 1176,
@@ -33120,7 +33341,10 @@
         "controllers": "Twelve-button numeric keypad (0?9, Clear, and Enter) + 4 side-located action buttons (two of which are electronicaly the same) + 16-directions controller disk",
         "number_of_games": "More than 130 videogames have been produced in the console lifetime",
         "built_in_software_games": "None",
-        "media": "Cartridge"
+        "media": "Cartridge",
+        "local": [
+            "Mattel Intellivision"
+        ]
     },
     "G.Z.E. UNIMOR Bosman 8": {
         "id": 1206,
@@ -33646,7 +33870,10 @@
         "controllers": "8-way d-pad, 15 buttons + Option + Pause",
         "number_of_games": "44",
         "built_in_software_games": "None",
-        "media": "Cartridge (6 MB max.)"
+        "media": "Cartridge (6 MB max.)",
+        "local": [
+            "Atari Jaguar"
+        ]
     },
     "SNK Neo Geo Advanced Entertainment System (AES)": {
         "id": 1225,
@@ -33709,7 +33936,10 @@
         "controllers": "8-way d-pad, 6 buttons + Select + Start",
         "number_of_games": "750+",
         "built_in_software_games": "None",
-        "media": "Cartridge, 2 to 48 Megabits"
+        "media": "Cartridge, 2 to 48 Megabits",
+        "local": [
+            "Nintendo Super Nintendo Entertainment System"
+        ]
     },
     "Otrona Attache": {
         "id": 1227,
@@ -33739,7 +33969,10 @@
         "peripherals": "second 5.25'' floppy disk drive, 10 MB hard disk, parallel interface, carrying case, battery pack",
         "power_supply": "AC power or battery pack (optional)",
         "built_in_language": "Unknown",
-        "end_of_production": "1984"
+        "end_of_production": "1984",
+        "local": [
+            "Otrona Attache"
+        ]
     },
     "MBC Alcyane": {
         "id": 1228,
@@ -33800,7 +34033,10 @@
         "controllers": "Original - 8-way d-pad, 8 buttons + Start + Select<br>Dual Analog - 8-way d-pad, 10 buttons + Start + Select, two analogue sticks<br>DualShock had the same layout but was able to vibrate",
         "number_of_games": "A lot!",
         "built_in_software_games": "CD Player + Memory Card manager",
-        "media": "CD-ROMs"
+        "media": "CD-ROMs",
+        "local": [
+            "Sony Playstation"
+        ]
     },
     "Sony PlayStation 2": {
         "id": 1230,
@@ -33831,7 +34067,10 @@
         "controllers": "8-way d-pad, 10 buttons + Start + Select, two analog sticks",
         "number_of_games": "Loads!",
         "built_in_software_games": "CD Player + Memory Card manager",
-        "media": "CD-ROM\/DVD-ROM"
+        "media": "CD-ROM\/DVD-ROM",
+        "local": [
+            "Sony Playstation 2"
+        ]
     },
     "NEC PC Engine": {
         "id": 1231,
@@ -33863,7 +34102,10 @@
         "controllers": "8-way d-pad, 2 buttons + Run + Select",
         "number_of_games": "Unknown",
         "built_in_software_games": "None",
-        "media": "HuCard"
+        "media": "HuCard",
+        "local": [
+            "NEC Turbografx 16"
+        ]
     },
     "NEC PC Engine Duo": {
         "id": 1232,
@@ -34006,7 +34248,10 @@
         "controllers": "8-way d-pad, 8 buttons + Start",
         "number_of_games": "348?",
         "built_in_software_games": "CD Player",
-        "media": "CD-ROM"
+        "media": "CD-ROM",
+        "local": [
+            "Sega Saturn"
+        ]
     },
     "Sega Wondermega": {
         "id": 1237,
@@ -34313,7 +34558,10 @@
         "controllers": "8-way d-pad, analog stick, 4 buttons + 2x analog buttons + Start",
         "number_of_games": "311?",
         "built_in_software_games": "CD Player + VMU manager",
-        "media": "GD-ROM (proprietry disc format similar to CD-ROMs, developed by Sega & Yamaha)"
+        "media": "GD-ROM (proprietry disc format similar to CD-ROMs, developed by Sega & Yamaha)",
+        "local": [
+            "Sega Dreamcast"
+        ]
     },
     "Sega Mega Drive": {
         "id": 1247,
@@ -34344,7 +34592,10 @@
         "controllers": "8-way d-pad, 3 buttons + Start",
         "number_of_games": "723? (total Mega Drive\/Genesis games)",
         "built_in_software_games": "None",
-        "media": "Cartridge"
+        "media": "Cartridge",
+        "local": [
+            "Sega Mega Drive"
+        ]
     },
     "Nintendo Super Famicom": {
         "id": 1248,
@@ -34375,7 +34626,10 @@
         "controllers": "8-way d-pad, 6 buttons + Select + Start",
         "number_of_games": "750+",
         "built_in_software_games": "None",
-        "media": "Cartridge, 2 to 48 Megabits"
+        "media": "Cartridge, 2 to 48 Megabits",
+        "local": [
+            "Nintendo Super Nintendo Entertainment System"
+        ]
     },
     "Nintendo Super Nintendo Entertainment System 2": {
         "id": 1249,
@@ -34631,7 +34885,10 @@
         "controllers": "8-way joystick, 2 buttons",
         "number_of_games": "54?",
         "built_in_software_games": "None",
-        "media": "Cartridge"
+        "media": "Cartridge",
+        "local": [
+            "Sega SG-1000"
+        ]
     },
     "Merlin M4000": {
         "id": 1258,
@@ -34781,7 +35038,10 @@
         "controllers": "8-way d-pad, 4 buttons?",
         "number_of_games": "52?",
         "built_in_software_games": "Unknown",
-        "media": "CD-ROM"
+        "media": "CD-ROM",
+        "local": [
+            "Commodore Amiga CD32"
+        ]
     },
     "Saitek Micro Computer (?)": {
         "id": 1263,
@@ -34842,7 +35102,10 @@
         "controllers": "8-way thumbstick, 2 buttons + Option",
         "number_of_games": "40 (doesn't include later Pocket Color games)",
         "built_in_software_games": "None",
-        "media": "Cartridge, 4 MB max + 512 KB to 2 MB flash"
+        "media": "Cartridge, 4 MB max + 512 KB to 2 MB flash",
+        "local": [
+            "SNK Neo Geo Pocket"
+        ]
     },
     "SNK Neo Geo Pocket Color": {
         "id": 1265,
@@ -34873,7 +35136,10 @@
         "controllers": "8-way thumbstick, 2 buttons + Option",
         "number_of_games": "50 (doesn't include earlier black & white games)",
         "built_in_software_games": "None",
-        "media": "Cartridge, 4 MB max + 512 KB to 2 MB flash"
+        "media": "Cartridge, 4 MB max + 512 KB to 2 MB flash",
+        "local": [
+            "SNK Neo Geo Pocket Color"
+        ]
     },
     "Sega SG-1000 Mark II": {
         "id": 1266,
@@ -35127,7 +35393,10 @@
         "controllers": "8-way d-pad, 8 buttons + Start",
         "number_of_games": "348?",
         "built_in_software_games": "None",
-        "media": "CD-ROM"
+        "media": "CD-ROM",
+        "local": [
+            "Sega Saturn"
+        ]
     },
     "Victor V-Saturn": {
         "id": 1276,
@@ -36033,7 +36302,10 @@
         "controllers": "Two detachable controllers made of a screwable joystick, a 12-buttons keypad (0-9, CLEAR, ENTER) and two fire buttons (same function)",
         "number_of_games": "22 cartridges",
         "built_in_software_games": "None",
-        "media": "Cartridges"
+        "media": "Cartridges",
+        "local": [
+            "Emerson Arcadia 2001"
+        ]
     },
     "RCA Fred": {
         "id": 1308,

@@ -25,7 +25,10 @@
         "sound": "Dolby Pro Logic II",
         "maxcontrollers": "4",
         "display": "640\u00d7480 interlaced (480i) or progressive scan (480p) - 60 Hz",
-        "overview": "The Nintendo GameCube was the first Nintendo console to use optical discs as its primary storage medium, after several aborted projects from Nintendo and its partners to utilize optical-based storage media.  In contrast with the GameCube&#039;s contemporary competitors, Sony&#039;s PlayStation 2, Sega&#039;s Dreamcast and Microsoft&#039;s Xbox, the GameCube uses miniDVD-based discs instead of full-size DVDs. Partially as a result of this, it does not have the DVD-Video playback functionality of these systems, nor the audio CD playback ability of other consoles that use full-size optical discs.\r\nIn addition, the GameCube introduced a variety of connectivity options to Nintendo consoles, and was the fourth Nintendo console, after the Nintendo 64DD, Famicom Modem and Satellaview, to support online play officially, via the Nintendo GameCube Broadband Adapter and Modem Adapter (sold separately). It also enabled connectivity to the Game Boy Advance to access exclusive features of certain games or to use the portable system as a controller for the Game Boy Player."
+        "overview": "The Nintendo GameCube was the first Nintendo console to use optical discs as its primary storage medium, after several aborted projects from Nintendo and its partners to utilize optical-based storage media.  In contrast with the GameCube&#039;s contemporary competitors, Sony&#039;s PlayStation 2, Sega&#039;s Dreamcast and Microsoft&#039;s Xbox, the GameCube uses miniDVD-based discs instead of full-size DVDs. Partially as a result of this, it does not have the DVD-Video playback functionality of these systems, nor the audio CD playback ability of other consoles that use full-size optical discs.\r\nIn addition, the GameCube introduced a variety of connectivity options to Nintendo consoles, and was the fourth Nintendo console, after the Nintendo 64DD, Famicom Modem and Satellaview, to support online play officially, via the Nintendo GameCube Broadband Adapter and Modem Adapter (sold separately). It also enabled connectivity to the Game Boy Advance to access exclusive features of certain games or to use the portable system as a controller for the Game Boy Player.",
+        "local": [
+            "Nintendo GameCube"
+        ]
     },
     "Nintendo 64": {
         "id": 3,
@@ -44,7 +47,10 @@
         "maxcontrollers": "4",
         "display": "320 x 240 or 640 x 480 (supported by Expansion Pack)",
         "overview": "The Nintendo 64, often referred to as N64, was Nintendo\u2032s third home video game console for the international market. Named for its 64-bit CPU, it was released in June 1996 in Japan, September 1996 in North America, March 1997 in Europe and Australia, September 1997 in France and December 1997 in Brazil. It is Nintendo\u2032s last home console to use ROM cartridges to store games (Nintendo switched to a MiniDVD-based format for the successor GameCube); handhelds in the Game Boy line, however, continued to use Game Paks. It was discontinued in 2001 in Japan, North America and PAL regions by the launch of Nintendo\u2032s GameCube.",
-        "youtube": "Up9jO2l2wqo"
+        "youtube": "Up9jO2l2wqo",
+        "local": [
+            "Nintendo 64"
+        ]
     },
     "Nintendo Game Boy": {
         "id": 4,
@@ -61,7 +67,10 @@
         "sound": "2 square wave generators, 1 PCM 4-bit wave sample channel",
         "maxcontrollers": "1",
         "display": "160 \u00d7 144",
-        "overview": "The Game Boy, is an 8-bit handheld video game device developed and manufactured by Nintendo. It was released in Japan on April 21, 1989, in North America in August 1989, and in Europe on September 28, 1990. It is the first handheld console in the Game Boy line, and was created by Gunpei Yokoi and Nintendo Research & Development 1\u2014the same staff who had designed the Game & Watch series as well as several popular games for the Nintendo Entertainment System."
+        "overview": "The Game Boy, is an 8-bit handheld video game device developed and manufactured by Nintendo. It was released in Japan on April 21, 1989, in North America in August 1989, and in Europe on September 28, 1990. It is the first handheld console in the Game Boy line, and was created by Gunpei Yokoi and Nintendo Research & Development 1\u2014the same staff who had designed the Game & Watch series as well as several popular games for the Nintendo Entertainment System.",
+        "local": [
+            "Nintendo Game Boy"
+        ]
     },
     "Nintendo Game Boy Advance": {
         "id": 5,
@@ -78,7 +87,10 @@
         "sound": "Dual 8-bit DAC for stereo sound (called Direct Sound)",
         "maxcontrollers": "1",
         "display": "240 \u00d7 160",
-        "overview": "The Game Boy Advance, (often shortened to GBA) is a 32-bit handheld video game console developed, manufactured, and marketed by Nintendo. It is the successor to the Game Boy Color. It was released in Japan on March 21, 2001; in North America on June 11, 2001; in Australia and Europe on June 22, 2001; and in the People&#039;s Republic of China on June 8, 2004 (excluding Hong Kong)."
+        "overview": "The Game Boy Advance, (often shortened to GBA) is a 32-bit handheld video game console developed, manufactured, and marketed by Nintendo. It is the successor to the Game Boy Color. It was released in Japan on March 21, 2001; in North America on June 11, 2001; in Australia and Europe on June 22, 2001; and in the People&#039;s Republic of China on June 8, 2004 (excluding Hong Kong).",
+        "local": [
+            "Nintendo Game Boy Advance"
+        ]
     },
     "Nintendo Super Nintendo (SNES)": {
         "id": 6,
@@ -114,7 +126,10 @@
         "sound": "Pulse Code Modulation",
         "maxcontrollers": "2",
         "display": "RGB",
-        "overview": "The Nintendo Entertainment System (also abbreviated as NES or simply called Nintendo) is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics.\r\n\r\nAs the best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983, and set the standard for subsequent consoles of its generation. With the NES, Nintendo introduced a now-standard business model of licensing third-party developers, authorizing them to produce and distribute software for Nintendo&#039;s platform."
+        "overview": "The Nintendo Entertainment System (also abbreviated as NES or simply called Nintendo) is an 8-bit video game console that was released by Nintendo in North America during 1985, in Europe during 1986 and Australia in 1987. In most of Asia, including Japan (where it was first launched in 1983), China, Vietnam, Singapore, the Middle East and Hong Kong, it was released as the Family Computer, commonly shortened as either the romanized contraction Famicom, or abbreviated to FC. In South Korea, it was known as the Hyundai Comboy, and was distributed by Hynix which then was known as Hyundai Electronics.\r\n\r\nAs the best-selling gaming console of its time, the NES helped revitalize the US video game industry following the video game crash of 1983, and set the standard for subsequent consoles of its generation. With the NES, Nintendo introduced a now-standard business model of licensing third-party developers, authorizing them to produce and distribute software for Nintendo&#039;s platform.",
+        "local": [
+            "Nintendo Entertainment System"
+        ]
     },
     "Nintendo DS": {
         "id": 8,
@@ -131,7 +146,10 @@
         "sound": "ARM7TDMI",
         "maxcontrollers": "1",
         "display": "256 \u00d7 192",
-        "overview": "The Nintendo DS (abbreviated to DS or NDS) is a portable game console produced by Nintendo, first released on November 21, 2004. A distinctive feature of the system is the presence of two separate LCD screens, the lower of which is a touchscreen, encompassed within a clamshell design, similar to the Game Boy Advance SP. The Nintendo DS also features a built-in microphone and supports wireless standards, allowing players to interact with each other within short range, or online with the Nintendo Wi-Fi Connection service. The Nintendo DS is the first Nintendo console to be released in North America before Japan."
+        "overview": "The Nintendo DS (abbreviated to DS or NDS) is a portable game console produced by Nintendo, first released on November 21, 2004. A distinctive feature of the system is the presence of two separate LCD screens, the lower of which is a touchscreen, encompassed within a clamshell design, similar to the Game Boy Advance SP. The Nintendo DS also features a built-in microphone and supports wireless standards, allowing players to interact with each other within short range, or online with the Nintendo Wi-Fi Connection service. The Nintendo DS is the first Nintendo console to be released in North America before Japan.",
+        "local": [
+            "Nintendo DS"
+        ]
     },
     "Nintendo Wii": {
         "id": 9,
@@ -149,7 +167,10 @@
         "sound": "Stereo \u2013 Dolby Pro Logic II-capable",
         "maxcontrollers": "4",
         "display": "480p (PAL\/NTSC), 480i (PAL\/NTSC) or 576i (PAL\/SECAM), standard 4:3 and 16:9 anamorphic widescreen",
-        "overview": "The Wii is a home video game console released by Nintendo on November 19, 2006. As a seventh-generation console, the Wii primarily competes with Microsoft&#039;s Xbox 360 and Sony&#039;s PlayStation 3. Nintendo states that its console targets a broader demographic than that of the two others. As of November 2011, the Wii leads the generation over the PlayStation 3 and Xbox 360 in worldwide sales, and in December 2009 broke the record for best-selling console in a single month in the United States.\r\n\r\nA distinguishing feature of the console is its wireless controller, the Wii Remote, which can be used as a handheld pointing device and detects movement in three dimensions. Another distinctive feature of the console is WiiConnect24, which enables it to receive messages and updates over the Internet while in standby mode.\r\n\r\nThe Wii is Nintendo&#039;s fifth home console and the direct successor of the Nintendo GameCube, being fully backwardly compatible with all GameCube games and most accessories."
+        "overview": "The Wii is a home video game console released by Nintendo on November 19, 2006. As a seventh-generation console, the Wii primarily competes with Microsoft&#039;s Xbox 360 and Sony&#039;s PlayStation 3. Nintendo states that its console targets a broader demographic than that of the two others. As of November 2011, the Wii leads the generation over the PlayStation 3 and Xbox 360 in worldwide sales, and in December 2009 broke the record for best-selling console in a single month in the United States.\r\n\r\nA distinguishing feature of the console is its wireless controller, the Wii Remote, which can be used as a handheld pointing device and detects movement in three dimensions. Another distinctive feature of the console is WiiConnect24, which enables it to receive messages and updates over the Internet while in standby mode.\r\n\r\nThe Wii is Nintendo&#039;s fifth home console and the direct successor of the Nintendo GameCube, being fully backwardly compatible with all GameCube games and most accessories.",
+        "local": [
+            "Nintendo Wii"
+        ]
     },
     "Sony Playstation": {
         "id": 10,
@@ -167,7 +188,10 @@
         "maxcontrollers": "2",
         "display": "640x480",
         "overview": "The PlayStation , officially abbreviated as PS; unofficially referred to as the PSX or PS1) is a 32-bit fifth-generation video game console first released by Sony Computer Entertainment in Japan on December 3, 1994.\r\n\r\nThe PlayStation was the first of the PlayStation series of consoles and handheld game devices. The PlayStation 2 was the console&#039;s successor in 2000. The PlayStation was the first \"computer entertainment platform\" to ship 100 million units, which it had reached 9 years and 6 months after its initial launch.\r\n\r\nIn 2000, a re-designed, \"slim\" version was released, called the PSone. This marked the end of the original grey console.",
-        "youtube": "ldeeob-yZr0"
+        "youtube": "ldeeob-yZr0",
+        "local": [
+            "Sony Playstation"
+        ]
     },
     "Sony Playstation 2": {
         "id": 11,
@@ -186,7 +210,10 @@
         "maxcontrollers": "2",
         "display": "1280x1024",
         "overview": "The PlayStation 2, (officially abbreviated PS2) is a sixth-generation video game console manufactured by Sony as part of the PlayStation series. Its development was announced in March 1999 and it was first released on March 4, 2000, in Japan. Its primary competitors were Sega&#039;s Dreamcast, Microsoft&#039;s Xbox, and Nintendo&#039;s GameCube.\r\n\r\nThe PS2 is the best-selling console of all time, having reached over 150 million units sold as of January 31, 2011.",
-        "youtube": "NLU0EPLn_Gk"
+        "youtube": "NLU0EPLn_Gk",
+        "local": [
+            "Sony Playstation 2"
+        ]
     },
     "Sony Playstation 3": {
         "id": 12,
@@ -205,7 +232,10 @@
         "maxcontrollers": "2",
         "display": "1080p",
         "overview": "The PlayStation 3, (officially abbreviated as PS3) is the third home video game console produced by Sony Computer Entertainment and the successor to the PlayStation 2 as part of the PlayStation series.\r\n\r\nThe PlayStation 3 competes with Microsoft&#039;s Xbox 360 and Nintendo&#039;s Wii as part of the seventh generation of video game consoles. It was first released on November 11, 2006, in Japan, with international markets following shortly thereafter.",
-        "youtube": "K5JAg6mezlA"
+        "youtube": "K5JAg6mezlA",
+        "local": [
+            "Sony Playstation 3"
+        ]
     },
     "Sony Playstation Portable": {
         "id": 13,
@@ -224,7 +254,10 @@
         "maxcontrollers": "1",
         "display": "480 \u00d7 272",
         "overview": "The PlayStation Portable, officially abbreviated PSP, is a handheld game console manufactured and marketed by Sony Corporation.  The PlayStation Portable is the first and only handheld video game console to use an optical disc format, Universal Media Disc (UMD), as its primary storage medium.",
-        "youtube": "UqgEify4DOU"
+        "youtube": "UqgEify4DOU",
+        "local": [
+            "Sony Playstation Portable"
+        ]
     },
     "Microsoft Xbox": {
         "id": 14,
@@ -242,7 +275,10 @@
         "sound": "NVIDIA \"MCPX\" (a.k.a. SoundStorm \"NVAPU\")",
         "maxcontrollers": "4",
         "display": "480i, 480p, 576i, 576p, 720p, 1080i",
-        "overview": "The Xbox is a sixth-generation video game console manufactured by Microsoft. It was released on November 15, 2001 in North America, February 22, 2002 in Japan, and March 14, 2002 in Australia and Europe and is the predecessor to the Xbox 360. It was Microsoft&#039;s first foray into the gaming console market, and competed with Sony&#039;s PlayStation 2, Sega&#039;s Dreamcast, and Nintendo&#039;s GameCube. The integrated Xbox Live service allowed players to play games online."
+        "overview": "The Xbox is a sixth-generation video game console manufactured by Microsoft. It was released on November 15, 2001 in North America, February 22, 2002 in Japan, and March 14, 2002 in Australia and Europe and is the predecessor to the Xbox 360. It was Microsoft&#039;s first foray into the gaming console market, and competed with Sony&#039;s PlayStation 2, Sega&#039;s Dreamcast, and Nintendo&#039;s GameCube. The integrated Xbox Live service allowed players to play games online.",
+        "local": [
+            "Microsoft Xbox"
+        ]
     },
     "Microsoft Xbox 360": {
         "id": 15,
@@ -260,7 +296,10 @@
         "sound": "Dolby Digital 5.1 (TOSLINK and HDMI)",
         "maxcontrollers": "4",
         "display": "1920x1080",
-        "overview": "The Xbox 360 is the second video game console produced by Microsoft and the successor to the Xbox. The Xbox 360 competes with Sony&#039;s PlayStation 3 and Nintendo&#039;s Wii as part of the seventh generation of video game consoles. As of September 30, 2011, 57.6 million Xbox 360 consoles have been sold worldwide.\r\n\r\nSeveral major features of the Xbox 360 are its integrated Xbox Live service that allows players to compete online, download arcade games, game demos, trailers, TV shows, music and movies and its Windows Media Center multimedia capabilities. The Xbox 360 also offers region specific access to third-party media streaming services such as Netflix and ESPN in the US or Sky Go in the UK."
+        "overview": "The Xbox 360 is the second video game console produced by Microsoft and the successor to the Xbox. The Xbox 360 competes with Sony&#039;s PlayStation 3 and Nintendo&#039;s Wii as part of the seventh generation of video game consoles. As of September 30, 2011, 57.6 million Xbox 360 consoles have been sold worldwide.\r\n\r\nSeveral major features of the Xbox 360 are its integrated Xbox Live service that allows players to compete online, download arcade games, game demos, trailers, TV shows, music and movies and its Windows Media Center multimedia capabilities. The Xbox 360 also offers region specific access to third-party media streaming services such as Netflix and ESPN in the US or Sky Go in the UK.",
+        "local": [
+            "Microsoft Xbox 360"
+        ]
     },
     "Sega Dreamcast": {
         "id": 16,
@@ -279,7 +318,10 @@
         "maxcontrollers": "4",
         "display": "640 \u00d7 480",
         "overview": "The Dreamcast is a 128-bit video game console which was released by Sega in late 1998 in Japan and from September 1999 in other territories. It was the first entry in the sixth generation of video game consoles, preceding Sony&#039;s PlayStation 2, Microsoft&#039;s Xbox and the Nintendo GameCube.\r\n\r\nDreamcast sales were positive during launch, but because of the strong pressure from rival PlayStation 2, Dreamcast sales decreased, and Sega finally discontinued the Dreamcast in March 2001 and withdrew entirely from the console hardware business, making it the company&#039;s final console.",
-        "youtube": "G3k0yJB6IVE"
+        "youtube": "G3k0yJB6IVE",
+        "local": [
+            "Sega Dreamcast"
+        ]
     },
     "Sega Saturn": {
         "id": 17,
@@ -298,7 +340,10 @@
         "maxcontrollers": "2",
         "display": "320x240",
         "overview": "The Sega Saturn is a 32-bit fifth-generation video game console that was first released by Sega on November 22, 1994 in Japan, May 11, 1995 in North America, and July 8, 1995 in Europe. The system was discontinued in North America and Europe in 1998, and in 2000 in Japan.\r\n\r\nWhile it was popular in Japan, the Saturn failed to gain a similar market share in North America and Europe against its main competitors: Sony&#039;s PlayStation and the Nintendo 64.",
-        "youtube": "-cIvo8flaBc"
+        "youtube": "-cIvo8flaBc",
+        "local": [
+            "Sega Saturn"
+        ]
     },
     "Sega Genesis": {
         "id": 18,
@@ -317,7 +362,10 @@
         "maxcontrollers": "2",
         "display": "320\u00d7448",
         "overview": "The Sega Genesis is a fourth-generation video game console developed and produced by Sega. It was originally released in Japan in 1988 as Mega Drive, then in North America in 1989 as Sega Genesis, and in Europe, Australia and other PAL regions in 1990 as Mega Drive.\r\n\r\nThe reason for the two names is that Sega was unable to secure legal rights to the Mega Drive name in North America. The Sega Genesis is Sega&#039;s third console and the successor to the Sega Master System with which it has backward compatibility.\r\n\r\nThe controversy over games like Mortal Kombat in the United States forced Sega to create the first content rating system for video games, the Videogame Rating Council, rather than have the games heavily censored. The rating system allowed Sega to ship games with little to no censorship and gave it a competive edge when the same game was released by Nintendo. The success of those games eventually forced Nintendo to join its rating system.",
-        "youtube": "bun8tA_ksZw"
+        "youtube": "bun8tA_ksZw",
+        "local": [
+            "Sega Genesis"
+        ]
     },
     "Sega Game Gear": {
         "id": 20,
@@ -334,7 +382,10 @@
         "maxcontrollers": "1",
         "display": "160 x 144",
         "overview": "The Sega Game Gear was Sega&#039;s first handheld game console. It was the third commercially available color handheld console, after the Atari Lynx and the TurboExpress.\r\n\r\nWork began on the console in 1989 under the codename \"Project Mercury\", following Sega&#039;s policy at the time of codenaming their systems after planets. The system was released in Japan on October 6, 1990, North America, Europe and Argentina in 1991, and Australia in 1992. The launch price was $150 US and \u00a3145 UK. Sega dropped support for the Game Gear in early 1997.",
-        "youtube": "eVL3uW9uV4E"
+        "youtube": "eVL3uW9uV4E",
+        "local": [
+            "Sega Game Gear"
+        ]
     },
     "Sega CD": {
         "id": 21,
@@ -352,7 +403,10 @@
         "maxcontrollers": "2",
         "display": "320 \u00d7 224",
         "overview": "The Mega-CD is an add-on device for the Mega Drive video game console, designed and produced by Sega and released in Japan, Europe, Australia, New Zealand, and South Africa. The device was also released in North America under the name Sega CD, for the Sega Genesis. The device adds a CD-ROM drive to the console, allowing the user to play CD-based games and providing additional hardware functionality. It can also play audio CDs and CD+G discs.\r\n\r\nThe development of the Mega-CD was confidential; game developers were not made aware of what exactly they were working on until the add-on was finally revealed at the Tokyo Toy Show in Japan. The Mega-CD was designed to compete with the PC Engine CD (TurboGrafx-16 CD) in Japan, which had a separate CD-ROM drive.\r\n\r\nThe first version of the Mega-CD sits underneath the Mega Drive console and loads CDs via a motorized tray. A second version places a top-loading CD-ROM drive to the right of the console and is intended primarily for use with the redesigned Sega Mega Drive 2. Both versions of the Mega-CD are compatible with the initial two versions of the Mega Drive console, but not with the Mega Drive 3 or Genesis 3.",
-        "youtube": "fdoVjrhJn8Y"
+        "youtube": "fdoVjrhJn8Y",
+        "local": [
+            "Sega CD"
+        ]
     },
     "Atari 2600": {
         "id": 22,
@@ -368,7 +422,10 @@
         "graphics": "128-color palette",
         "sound": "Television Interface Adaptor",
         "maxcontrollers": "2",
-        "overview": "The Atari 2600 is a video game console released in October 1977 by Atari, Inc. It is credited with popularizing the use of microprocessor-based hardware and cartridges containing game code, instead of having non-microprocessor dedicated hardware with all games built in. The first game console to use this format was the Fairchild Channel F; however, the Atari 2600 receives credit for making the plug-in concept popular among the game-playing public.\r\nThe console was originally sold as the Atari VCS, for Video Computer System. Following the release of the Atari 5200, in 1982, the VCS was renamed \"Atari 2600\", after the unit&#039;s Atari part number, CX2600. The 2600 was typically bundled with two joystick controllers, a conjoined pair of paddle controllers, and a cartridge game\u2014initially Combat and later Pac-Man.\r\n\r\nThe Atari 2600 was wildly successful, and during much of the 1980s, \"Atari\" was a synonym for this model in mainstream media and, by extension, for video games in general."
+        "overview": "The Atari 2600 is a video game console released in October 1977 by Atari, Inc. It is credited with popularizing the use of microprocessor-based hardware and cartridges containing game code, instead of having non-microprocessor dedicated hardware with all games built in. The first game console to use this format was the Fairchild Channel F; however, the Atari 2600 receives credit for making the plug-in concept popular among the game-playing public.\r\nThe console was originally sold as the Atari VCS, for Video Computer System. Following the release of the Atari 5200, in 1982, the VCS was renamed \"Atari 2600\", after the unit&#039;s Atari part number, CX2600. The 2600 was typically bundled with two joystick controllers, a conjoined pair of paddle controllers, and a cartridge game\u2014initially Combat and later Pac-Man.\r\n\r\nThe Atari 2600 was wildly successful, and during much of the 1980s, \"Atari\" was a synonym for this model in mainstream media and, by extension, for video games in general.",
+        "local": [
+            "Atari 2600"
+        ]
     },
     "Arcade": {
         "id": 23,
@@ -376,7 +433,10 @@
         "alias": "arcade",
         "icon": "arcade-1336524196.png",
         "console": "23.png",
-        "overview": "An arcade game is a coin-operated (also bill-operated or card-operated) entertainment machine, usually installed in public businesses such as restaurants, public houses, and video arcades.\r\nArcade video games are often composed of short levels, intuitive control mechanisms and a rising difficulty. This is the main concept of an arcade video game in which the player is essentially obliged to pay to maintain the play."
+        "overview": "An arcade game is a coin-operated (also bill-operated or card-operated) entertainment machine, usually installed in public businesses such as restaurants, public houses, and video arcades.\r\nArcade video games are often composed of short levels, intuitive control mechanisms and a rising difficulty. This is the main concept of an arcade video game in which the player is essentially obliged to pay to maintain the play.",
+        "local": [
+            "Generic Arcade"
+        ]
     },
     "SNK Neo Geo": {
         "id": 24,
@@ -393,7 +453,10 @@
         "sound": "Yamaha YM2610",
         "maxcontrollers": "2",
         "display": "320\u00d7224",
-        "overview": "The NeoGeo is a cartridge-based arcade and home video game system released on July 1, 1991 by Japanese game company SNK. Being in the Fourth generation of Gaming, it was the first console in the former Neo Geo family, which only lived through the 1990s. The hardware featured comparatively colourful 2D graphics.\r\nThe MVS (Multi Video System), as the Neo Geo was known to the coin-op industry, offered arcade operators the ability to put up to 6 different arcade titles into a single cabinet, a key economic consideration for operators with limited floorspace. With its games stored on self-contained cartridges, a game-cabinet could be exchanged for a different game-title by swapping the game&#039;s ROM-cartridge and cabinet artwork. Several popular franchise-series, including Fatal Fury, The King of Fighters, Metal Slug and Samurai Shodown, were released for the platform.\r\nThe Neo Geo system was also marketed as a very costly home console, commonly referred to today as the AES (Advanced Entertainment System). The Neo Geo was marketed as 24-bit, though it was technically a parallel processing 16-bit system with an 8-bit Zilog Z80 as coprocessor. The coprocessor was used as a CPU, and for sound processing. The Super Nintendo and Sega Genesis also had similar co-processors, with neither Sega nor Nintendo claiming they were 24-bit."
+        "overview": "The NeoGeo is a cartridge-based arcade and home video game system released on July 1, 1991 by Japanese game company SNK. Being in the Fourth generation of Gaming, it was the first console in the former Neo Geo family, which only lived through the 1990s. The hardware featured comparatively colourful 2D graphics.\r\nThe MVS (Multi Video System), as the Neo Geo was known to the coin-op industry, offered arcade operators the ability to put up to 6 different arcade titles into a single cabinet, a key economic consideration for operators with limited floorspace. With its games stored on self-contained cartridges, a game-cabinet could be exchanged for a different game-title by swapping the game&#039;s ROM-cartridge and cabinet artwork. Several popular franchise-series, including Fatal Fury, The King of Fighters, Metal Slug and Samurai Shodown, were released for the platform.\r\nThe Neo Geo system was also marketed as a very costly home console, commonly referred to today as the AES (Advanced Entertainment System). The Neo Geo was marketed as 24-bit, though it was technically a parallel processing 16-bit system with an 8-bit Zilog Z80 as coprocessor. The coprocessor was used as a CPU, and for sound processing. The Super Nintendo and Sega Genesis also had similar co-processors, with neither Sega nor Nintendo claiming they were 24-bit.",
+        "local": [
+            "SNK Neo Geo"
+        ]
     },
     "The 3DO Company 3DO": {
         "id": 25,
@@ -427,7 +490,10 @@
         "sound": "Pot Keyboard Integrated Circuit",
         "maxcontrollers": "2",
         "display": "320\u00d7192",
-        "overview": "The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a video game console that was introduced in 1982 by Atari Inc. as a higher end complementary console for the popular Atari 2600.  The 5200 was created to compete with the Intellivision, but wound up more directly competing with the ColecoVision shortly after its release.\r\n\r\nThe 5200 was based on Atari Inc.&#039;s existing 400\/800 computers and the internal hardware was almost identical, although software was not directly compatible between the two systems. The 5200&#039;s controllers feature an analog joystick and a numeric keypad along with start, pause and reset buttons. The 360-degree non-centering joystick was touted as offering more control than the four-position joystick controller offered with the Atari 2600."
+        "overview": "The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a video game console that was introduced in 1982 by Atari Inc. as a higher end complementary console for the popular Atari 2600.  The 5200 was created to compete with the Intellivision, but wound up more directly competing with the ColecoVision shortly after its release.\r\n\r\nThe 5200 was based on Atari Inc.&#039;s existing 400\/800 computers and the internal hardware was almost identical, although software was not directly compatible between the two systems. The 5200&#039;s controllers feature an analog joystick and a numeric keypad along with start, pause and reset buttons. The 360-degree non-centering joystick was touted as offering more control than the four-position joystick controller offered with the Atari 2600.",
+        "local": [
+            "Atari 5200"
+        ]
     },
     "Atari 7800": {
         "id": 27,
@@ -444,7 +510,10 @@
         "sound": "Pot Keyboard Integrated Circuit",
         "maxcontrollers": "2",
         "display": "320\u00d7240",
-        "overview": "The Atari 7800 ProSystem, or simply the Atari 7800, is a video game console re-released by Atari Corporation in January 1986. The original release had occurred two years earlier under Atari Inc. The 7800 had originally been designed to replace Atari Inc.&#039;s Atari 5200 in 1984, but was temporarily shelved due to the sale of the company after the video game crash. In January 1986, the 7800 was again released and would compete that year with the Nintendo Entertainment System and the Sega Master System. It had simple digital joysticks; it was almost fully backward-compatible with the Atari 2600(and was the first console to have backward compatibility without the use of additional modules); and it was considered affordable at a price of US$140."
+        "overview": "The Atari 7800 ProSystem, or simply the Atari 7800, is a video game console re-released by Atari Corporation in January 1986. The original release had occurred two years earlier under Atari Inc. The 7800 had originally been designed to replace Atari Inc.&#039;s Atari 5200 in 1984, but was temporarily shelved due to the sale of the company after the video game crash. In January 1986, the 7800 was again released and would compete that year with the Nintendo Entertainment System and the Sega Master System. It had simple digital joysticks; it was almost fully backward-compatible with the Atari 2600(and was the first console to have backward compatibility without the use of additional modules); and it was considered affordable at a price of US$140.",
+        "local": [
+            "Atari 7800"
+        ]
     },
     "Atari Jaguar": {
         "id": 28,
@@ -459,7 +528,10 @@
         "graphics": "\"Tom\" Chip, 26.59 MHz",
         "sound": "CD-quality sound (16-bit stereo)",
         "maxcontrollers": "2",
-        "overview": "The Atari Jaguar is a video game console that was released by Atari Corporation in 1993. It was the last to be marketed under the Atari brand until the release of the Atari Flashback in 2004. It was designed to surpass the Mega Drive\/Genesis, Super Nintendo Entertainment System, and the Panasonic 3DO in processing power. Although launched one year earlier, it was eventually in competition with the Sega Saturn, the Sony PlayStation, and other consoles that made up the fifth generation of video game consoles. The console was first released in New York City and San Francisco on November 23, 1993, and the rest of the country in early 1994.  Although it was promoted as the first 64-bit gaming system, the Jaguar proved to be a commercial failure and prompted Atari to leave the home video game console market. Despite its commercial failure, the Jaguar has a dedicated fan base that produces homebrew games for it."
+        "overview": "The Atari Jaguar is a video game console that was released by Atari Corporation in 1993. It was the last to be marketed under the Atari brand until the release of the Atari Flashback in 2004. It was designed to surpass the Mega Drive\/Genesis, Super Nintendo Entertainment System, and the Panasonic 3DO in processing power. Although launched one year earlier, it was eventually in competition with the Sega Saturn, the Sony PlayStation, and other consoles that made up the fifth generation of video game consoles. The console was first released in New York City and San Francisco on November 23, 1993, and the rest of the country in early 1994.  Although it was promoted as the first 64-bit gaming system, the Jaguar proved to be a commercial failure and prompted Atari to leave the home video game console market. Despite its commercial failure, the Jaguar has a dedicated fan base that produces homebrew games for it.",
+        "local": [
+            "Atari Jaguar"
+        ]
     },
     "Atari Jaguar CD": {
         "id": 29,
@@ -474,7 +546,10 @@
         "memory": "2 MB",
         "graphics": "\"Tom\" Chip, 26.59 MHz",
         "maxcontrollers": "2",
-        "overview": "The Atari Jaguar CD or Jag CD is a CD-ROM peripheral for the Atari Jaguar video game console.\r\nLate in the life span of the company, Atari released this long-promised CD-ROM unit. The unit hit shelves on September 11, 1995 and retailed for $149.95.\r\n\r\nThe device sat atop the Jaguar console, snapping very firmly into the cartridge slot, and had a funnel-like shape. The drive had its own cartridge slot to allow cartridge games to be played without removing the CD drive. There was a separate \"Memory Track\" cartridge for storing saved game position and high scores.\r\nThe Jaguar CD unit featured a double speed (2x) drive and built-in VLM (Virtual Light Machine) software written by Jeff Minter. The VLM, which provided a sophisticated video light show when an audio CD was played in the machine, was as popular among buyers as the games themselves. Packaged with the drive were two games (Blue Lightning and Vid Grid), a music CD (Tempest 2000 soundtrack), and a Myst demo disc. Also, the startup screen was different than that of the cartridge-based Jaguar: using the VLM banks it created a random &#039;light show&#039; that was different every time the console was switched on. However, the startup was silent."
+        "overview": "The Atari Jaguar CD or Jag CD is a CD-ROM peripheral for the Atari Jaguar video game console.\r\nLate in the life span of the company, Atari released this long-promised CD-ROM unit. The unit hit shelves on September 11, 1995 and retailed for $149.95.\r\n\r\nThe device sat atop the Jaguar console, snapping very firmly into the cartridge slot, and had a funnel-like shape. The drive had its own cartridge slot to allow cartridge games to be played without removing the CD drive. There was a separate \"Memory Track\" cartridge for storing saved game position and high scores.\r\nThe Jaguar CD unit featured a double speed (2x) drive and built-in VLM (Virtual Light Machine) software written by Jeff Minter. The VLM, which provided a sophisticated video light show when an audio CD was played in the machine, was as popular among buyers as the games themselves. Packaged with the drive were two games (Blue Lightning and Vid Grid), a music CD (Tempest 2000 soundtrack), and a Myst demo disc. Also, the startup screen was different than that of the cartridge-based Jaguar: using the VLM banks it created a random &#039;light show&#039; that was different every time the console was switched on. However, the startup was silent.",
+        "local": [
+            "Atari Jaguar CD"
+        ]
     },
     "Atari XE": {
         "id": 30,
@@ -485,7 +560,10 @@
         "developer": "Atari",
         "manufacturer": "Atari",
         "cpu": "6502",
-        "overview": "Atari Corp. brought out the XE Game System (XEGS) in 1987. The XE Game System was sold bundled with a detachable keyboard, a joystick and a light gun (XG-1), and a couple of game cartridges (Bug Hunt and Flight Simulator II). The XE Game System was essentially a repackaged 65XE, and was compatible with almost all Atari 8-bit software and hardware as a result."
+        "overview": "Atari Corp. brought out the XE Game System (XEGS) in 1987. The XE Game System was sold bundled with a detachable keyboard, a joystick and a light gun (XG-1), and a couple of game cartridges (Bug Hunt and Flight Simulator II). The XE Game System was essentially a repackaged 65XE, and was compatible with almost all Atari 8-bit software and hardware as a result.",
+        "local": [
+            "Atari XE"
+        ]
     },
     "Coleco Colecovision": {
         "id": 31,
@@ -519,7 +597,10 @@
         "sound": "General Instrument AY-3-8910",
         "maxcontrollers": "1",
         "display": "159x96",
-        "overview": "The Intellivision is a video game console released by Mattel in 1979. Development of the console began in 1978, less than a year after the introduction of its main competitor, the Atari 2600. The word intellivision is a portmanteau of \"intelligent television\". Over 3 million Intellivision units were sold and a total of 125 games were released for the console."
+        "overview": "The Intellivision is a video game console released by Mattel in 1979. Development of the console began in 1978, less than a year after the introduction of its main competitor, the Atari 2600. The word intellivision is a portmanteau of \"intelligent television\". Over 3 million Intellivision units were sold and a total of 125 games were released for the console.",
+        "local": [
+            "Mattel Intellivision"
+        ]
     },
     "Sega 32X": {
         "id": 33,
@@ -536,7 +617,10 @@
         "maxcontrollers": "2",
         "display": "320 \u00d7 240",
         "overview": "The Sega 32X, codenamed Project Mars, is an add-on for the Mega Drive\/Genesis video game console by Sega. Its aim was to increase the lifespan of the aging Mega Drive\/Genesis system, which was facing stiff competition from the SNES. While connecting it to Mega Drive did increase its capabilities, reluctance to adapt due to the previous failure of the Mega-CD and the upcoming Sega Saturn system led to low sales and a short lifespan.\r\n\r\nIt was distributed under the name Sega Super 32X in Japan, Sega Genesis 32X in North America, Sega Mega Drive 32X in the PAL region, and Sega Mega 32X in Brazil.",
-        "youtube": "vbYkgDWAYAE"
+        "youtube": "vbYkgDWAYAE",
+        "local": [
+            "Sega 32X"
+        ]
     },
     "Hudson Soft TurboGrafx 16": {
         "id": 34,
@@ -574,7 +658,10 @@
         "maxcontrollers": "2",
         "display": "256\u00d7240",
         "overview": "The Master System (abbreviated to SMS) is a third-generation video game console that was manufactured and released by Sega in 1985 in Japan (as the Sega Mark III), 1986 in North America and 1987 in Europe.\r\n\r\nThe original SMS could play both cartridges and the credit card-sized \"Sega Cards,\" which retailed for cheaper prices than cartridges but had less code. The SMS also featured accessories such as a light gun and 3D glasses which were designed to work with a range of specially coded games.\r\n\r\nThe Master System was released as a direct competitor to the Nintendo Entertainment System in the third videogame generation The SMS was technically superior to the NES, which predated its release significantly, but failed to overturn Nintendo&#039;s significant market share advantage in Japan and North America.",
-        "youtube": "r6x3iNB0ddo"
+        "youtube": "r6x3iNB0ddo",
+        "local": [
+            "Sega Mark III & Master System"
+        ]
     },
     "Sega Mega Drive": {
         "id": 36,
@@ -589,7 +676,10 @@
         "graphics": "YM7101 VDP with 64Kb of Video RAM",
         "sound": "Yamaha YM2612 FM synthesizer and Texas Instruments SN76489 PSG; controlled by Zilog Z80 sub-processor",
         "display": "Display up to 61 colors at once from a palette of 512",
-        "overview": "(Most Europe countries have this versions and not the Genesis. The games do not even mention Genesis on their covers. Deleting this platform will induce in an enormous amount of database failures. Please DO NOT delete.)"
+        "overview": "(Most Europe countries have this versions and not the Genesis. The games do not even mention Genesis on their covers. Deleting this platform will induce in an enormous amount of database failures. Please DO NOT delete.)",
+        "local": [
+            "Sega Mega Drive"
+        ]
     },
     "Apple Mac OS": {
         "id": 37,
@@ -612,7 +702,10 @@
         "cpu": "IBM Power7",
         "graphics": "AMD Radeon HD GPU",
         "sound": "Six-channel PCM linear output through HDMI",
-        "overview": "The Wii U is Nintendo&#039;s sixth home console and the first Nintendo console to produce 1080p high-definition graphics, and features a new controller with an embedded touchscreen. The controller allows a player to continue playing certain games by displaying the game even when the television is off. The system will be backwards compatible with Wii, and Wii U games can support compatibility with Wii peripherals, such as the Wii Remote Plus, Nunchuck, and Classic Controller Pro. It will not be backwards compatible with Nintendo GameCube media or peripherals."
+        "overview": "The Wii U is Nintendo&#039;s sixth home console and the first Nintendo console to produce 1080p high-definition graphics, and features a new controller with an embedded touchscreen. The controller allows a player to continue playing certain games by displaying the game even when the television is off. The system will be backwards compatible with Wii, and Wii U games can support compatibility with Wii peripherals, such as the Wii Remote Plus, Nunchuck, and Classic Controller Pro. It will not be backwards compatible with Nintendo GameCube media or peripherals.",
+        "local": [
+            "Nintendo Wii U"
+        ]
     },
     "Sony Playstation Vita": {
         "id": 39,
@@ -629,7 +722,10 @@
         "maxcontrollers": "1",
         "display": "5-inch OLED multi-touch capacitive touchscreen, 24-bit color, 960 \u00d7 544 qHD @ 220 ppi",
         "overview": "The PlayStation Vita is a handheld game console manufactured and marketed by Sony Computer Entertainment. It is the successor to the PlayStation Portable as part of the PlayStation brand of gaming devices.\r\n\r\nThe handheld includes two analog sticks, a 5-inch (130 mm) OLED multi-touch capacitive touchscreen, and supports Bluetooth, Wi-Fi and optional 3G.",
-        "youtube": "VHJXqc5LocY"
+        "youtube": "VHJXqc5LocY",
+        "local": [
+            "Sony Playstation Vita"
+        ]
     },
     "Commodore International Commodore 64": {
         "id": 40,
@@ -662,7 +758,10 @@
         "sound": "2 square wave channels, 1 wave channel, 1 noise channel, mono speaker, stereo headphone jack",
         "maxcontrollers": "1",
         "display": "160 x 144",
-        "overview": "The Game Boy Color is Nintendo&#039;s successor to the 8-bit Game Boy handheld game console, and was released on October 21, 1998 in Japan, November 19, 1998 in North America, November 23, 1998 in Europe and November 27, 1998 in the United Kingdom. It features a color screen and is slightly thicker and taller than the Game Boy Pocket. As with the original Game Boy, it has an 8-bit processor.   The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide."
+        "overview": "The Game Boy Color is Nintendo&#039;s successor to the 8-bit Game Boy handheld game console, and was released on October 21, 1998 in Japan, November 19, 1998 in North America, November 23, 1998 in Europe and November 27, 1998 in the United Kingdom. It features a color screen and is slightly thicker and taller than the Game Boy Pocket. As with the original Game Boy, it has an 8-bit processor.   The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide.",
+        "local": [
+            "Nintendo Game Boy Color"
+        ]
     },
     "Commodore Amiga": {
         "id": 4911,
@@ -680,7 +779,10 @@
         "maxcontrollers": "1",
         "display": "1024\u00d7800 for NTSC and 1024\u00d71024 for PAL",
         "overview": "The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities. The Amiga provided a significant upgrade from 8-bit computers, such as the Commodore 64, and the platform quickly grew in popularity among computer enthusiasts. The best selling model, the Amiga 500, was introduced in 1987 and became the leading home computer of the late 1980s and early 1990s in much of Western Europe. In North America success was more modest. The Amiga went on to sell approximately six million units.\r\n\r\nSecond generation Amiga systems (A1200 and A4000) were released in 1992. However, poor marketing and failure to repeat the technological advances of the first systems meant that the Amiga quickly lost its market share to competing platforms, such as the fourth generation game consoles, Apple Macintosh and IBM PC compatibles.",
-        "youtube": "iUKKLzD4Pto"
+        "youtube": "iUKKLzD4Pto",
+        "local": [
+            "Commodore Amiga"
+        ]
     },
     "Nintendo 3DS": {
         "id": 4912,
@@ -696,7 +798,10 @@
         "graphics": "PICA200 by Digital Media Professionals",
         "maxcontrollers": "1",
         "display": "800 \u00d7 240 px (effectively 400 \u00d7 240 WQVGA per eye)",
-        "overview": "The autostereoscopic device is able to project stereoscopic 3D effects without the use of 3D glasses or any additional accessories. The Nintendo 3DS features backward compatibility with Nintendo DS series software, including Nintendo DSi software. Announcing the device in March 2010, Nintendo officially unveiled it at E3 2010, with the company inviting attendees to use demonstration units. The console succeeds the Nintendo DS series of handheld systems and competes with Sony PlayStation Vita handheld console."
+        "overview": "The autostereoscopic device is able to project stereoscopic 3D effects without the use of 3D glasses or any additional accessories. The Nintendo 3DS features backward compatibility with Nintendo DS series software, including Nintendo DSi software. Announcing the device in March 2010, Nintendo officially unveiled it at E3 2010, with the company inviting attendees to use demonstration units. The console succeeds the Nintendo DS series of handheld systems and competes with Sony PlayStation Vita handheld console.",
+        "local": [
+            "Nintendo 3DS"
+        ]
     },
     "Sinclair Research Ltd. Sinclair ZX Spectrum": {
         "id": 4913,
@@ -731,7 +836,10 @@
         "sound": "General Instrument AY-3-8912 sound chip",
         "maxcontrollers": "1 (Keyboard)",
         "overview": "The Amstrad CPC (short for Colour Personal Computer) is a series of 8-bit home computers produced by Amstrad between 1984 and 1990. It was designed to compete in the mid-1980s home computer market dominated by the Commodore 64 and the Sinclair ZX Spectrum, where it successfully established itself primarily in the United Kingdom, France, Spain, and the German-speaking parts of Europe.\r\n\r\nThe series spawned a total of six distinct models: The CPC464, CPC664, and CPC6128 were highly successful competitors in the European home computer market. The later plus models, 464plus and 6128plus, efforts to prolong the system&#039;s lifecycle with hardware updates, were considerably less successful, as was the attempt to repackage the plus hardware into a game console as the GX4000.\r\n\r\nThe CPC models&#039; hardware is based on the Zilog Z80A CPU, complemented with either 64 or 128 kB of memory. Their computer-in-a-keyboard design prominently features an integrated storage device, either a compact cassette deck or 3\" floppy disk drive. The main units were only sold bundled with a colour or monochrome monitor that doubles as the main unit&#039;s power supply. Additionally, a wide range of first and third party hardware extensions such as external disk drives, printers, and memory extensions, was available.\r\n\r\nThe CPC series was pitched against other home computers primarily used to play video games and enjoyed a strong supply of game software. The comparatively low price for a complete computer system with dedicated monitor, its high resolution monochrome text and graphic capabilities and the possibility to run CP\/M software also rendered the system attractive for business users, which was reflected by a wide selection of application software.",
-        "youtube": "B-W_RqMbA6c"
+        "youtube": "B-W_RqMbA6c",
+        "local": [
+            "Amstrad CPC"
+        ]
     },
     "Apple iOS": {
         "id": 4915,
@@ -739,7 +847,10 @@
         "alias": "ios",
         "icon": "4915-1393096970.png",
         "developer": "Apple",
-        "overview": "iOS (previously iPhone OS) is a mobile operating system developed and distributed by Apple Inc. Originally released in 2007 for the iPhone and iPod Touch platforms, it has been extended to support other Apple devices such as the iPad and Apple TV.\r\n\r\nThe user interface of iOS is based on the concept of direct manipulation, using multi-touch gestures. Interface control elements consist of sliders, switches, and buttons. Interaction with the OS includes gestures such as swipe, tap, pinch, and reverse pinch, all of which have specific definitions within the context of the iOS operating system and its multi-touch interface. Internal accelerometers are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it in three dimensions (one common result is switching from portrait to landscape mode)."
+        "overview": "iOS (previously iPhone OS) is a mobile operating system developed and distributed by Apple Inc. Originally released in 2007 for the iPhone and iPod Touch platforms, it has been extended to support other Apple devices such as the iPad and Apple TV.\r\n\r\nThe user interface of iOS is based on the concept of direct manipulation, using multi-touch gestures. Interface control elements consist of sliders, switches, and buttons. Interaction with the OS includes gestures such as swipe, tap, pinch, and reverse pinch, all of which have specific definitions within the context of the iOS operating system and its multi-touch interface. Internal accelerometers are used by some applications to respond to shaking the device (one common result is the undo command) or rotating it in three dimensions (one common result is switching from portrait to landscape mode).",
+        "local": [
+            "Apple iOS"
+        ]
     },
     "Google, Android Inc. Android": {
         "id": 4916,
@@ -765,7 +876,10 @@
         "sound": "MCD 221 16-bit stereo sound",
         "maxcontrollers": "1",
         "display": "384\u00d7280 to 768\u00d7560",
-        "overview": "The Philips CD-i (Compact Disc Interactive) is an interactive multimedia CD player developed and marketed by Royal Philips Electronics N.V. This category of device was created to provide more functionality than an audio CD player or game console, but at a lower price than a personal computer with CD-ROM drive at the time. The cost savings were due to the lack of a hard drive, floppy drive, keyboard, mouse, monitor (a standard television was used), and less operating system software. In addition to games, educational and multimedia reference titles were produced, such as interactive encyclopedias, museum tours, etc. before public Internet access was widespread. Competitors included the Tandy VIS and Commodore CDTV. CD-i also refers to the multimedia Compact Disc standard used by the CD-i console, also known as Green Book, which was developed by Philips and Sony (not to be confused with MMCD, the pre-DVD format also co-developed by Philips and Sony). Work on the CD-i began in 1984 and it was first publicly announced in 1986."
+        "overview": "The Philips CD-i (Compact Disc Interactive) is an interactive multimedia CD player developed and marketed by Royal Philips Electronics N.V. This category of device was created to provide more functionality than an audio CD player or game console, but at a lower price than a personal computer with CD-ROM drive at the time. The cost savings were due to the lack of a hard drive, floppy drive, keyboard, mouse, monitor (a standard television was used), and less operating system software. In addition to games, educational and multimedia reference titles were produced, such as interactive encyclopedias, museum tours, etc. before public Internet access was widespread. Competitors included the Tandy VIS and Commodore CDTV. CD-i also refers to the multimedia Compact Disc standard used by the CD-i console, also known as Green Book, which was developed by Philips and Sony (not to be confused with MMCD, the pre-DVD format also co-developed by Philips and Sony). Work on the CD-i began in 1984 and it was first publicly announced in 1986.",
+        "local": [
+            "Philips CD-i"
+        ]
     },
     "Nintendo Virtual Boy": {
         "id": 4918,
@@ -782,7 +896,10 @@
         "sound": "16-bit Stereo",
         "maxcontrollers": "1",
         "display": "84 x 224 pixel resolution (produced by scanning a 1 \u00d7 224 LED array)",
-        "overview": "The Virtual Boy was a table-top video game console developed and manufactured by Nintendo. It was the first video game console that was supposed to be capable of displaying \"true 3D graphics\" out of the box, in a form of virtual reality. Whereas most video games use monocular cues to achieve the illusion of three dimensions on a two-dimensional screen, The Virtual Boy creates an illusion of depth through the effect known as parallax. In a manner similar to using a head-mounted display, the user looks into an eyepiece made of neoprene on the front of the machine, and then an eyeglass-style projector allows viewing of the monochromatic (in this case, red) image.\r\n\r\nIt was released on July 21, 1995 in Japan and August 14, 1995 in North America at a price of around US$180. It then became a commercial failure and it was not released in PAL markets. It met with a lukewarm reception that was unaffected by continued price drops. Nintendo discontinued it the following year."
+        "overview": "The Virtual Boy was a table-top video game console developed and manufactured by Nintendo. It was the first video game console that was supposed to be capable of displaying \"true 3D graphics\" out of the box, in a form of virtual reality. Whereas most video games use monocular cues to achieve the illusion of three dimensions on a two-dimensional screen, The Virtual Boy creates an illusion of depth through the effect known as parallax. In a manner similar to using a head-mounted display, the user looks into an eyepiece made of neoprene on the front of the machine, and then an eyeglass-style projector allows viewing of the monochromatic (in this case, red) image.\r\n\r\nIt was released on July 21, 1995 in Japan and August 14, 1995 in North America at a price of around US$180. It then became a commercial failure and it was not released in PAL markets. It met with a lukewarm reception that was unaffected by continued price drops. Nintendo discontinued it the following year.",
+        "local": [
+            "Nintendo Virtual Boy"
+        ]
     },
     "Sony Playstation 4": {
         "id": 4919,
@@ -796,7 +913,10 @@
         "memory": "8GB",
         "graphics": "AMD Radeon GPU",
         "overview": "The Playstation 4 is the successor to Sony&#039;s Playstation 3 console. Moving away from the Cell architecture, the PlayStation 4 will be the first in the Sony series to feature compatibility with the x86 architecture, specifically x86-64, which is a widely used platform common in many modern PCs. The idea is to make video game development easier on the next-generation console, attracting a broader range of developers large and small. These changes highlight Sony&#039;s effort to improve upon the lessons learned during the development, production and release of the PS3. Other notable hardware features of the PS4 include 8 GB of memory and a faster Blu-ray drive.\r\n\r\nExpected Launch Q4 2013",
-        "youtube": "x7QhUL8NUK4"
+        "youtube": "x7QhUL8NUK4",
+        "local": [
+            "Sony Playstation 4"
+        ]
     },
     "Microsoft Xbox One": {
         "id": 4920,
@@ -812,7 +932,10 @@
         "graphics": "AMD Radeon GPU",
         "sound": "7.1 Surround sound",
         "display": "HDMI",
-        "overview": "The Xbox One was announced on May 21, 2013, and it is the successor to the Xbox 360 and the third console in the Xbox family of consoles.\r\n\r\nMoving away from the PowerPC based architecture used in the Xbox 360, the console features an AMD processor built around the x86-64 instruction set. The console places an increasing emphasis on entertainment and integration with the Kinect peripheral, offering the ability to use an existing set-top box to watch live television programming (augmented by an enhanced program guide with support for voice commands), a built-in Skype client, and improved second screen support. The console also provides new functionality for use in games, such as an expanded Xbox Live service, improved Kinect functionality, cloud computing, the ability to automatically record and share video highlights from gameplay, and integrated support for live streaming gameplay online."
+        "overview": "The Xbox One was announced on May 21, 2013, and it is the successor to the Xbox 360 and the third console in the Xbox family of consoles.\r\n\r\nMoving away from the PowerPC based architecture used in the Xbox 360, the console features an AMD processor built around the x86-64 instruction set. The console places an increasing emphasis on entertainment and integration with the Kinect peripheral, offering the ability to use an existing set-top box to watch live television programming (augmented by an enhanced program guide with support for voice commands), a built-in Skype client, and improved second screen support. The console also provides new functionality for use in games, such as an expanded Xbox Live service, improved Kinect functionality, cloud computing, the ability to automatically record and share video highlights from gameplay, and integrated support for live streaming gameplay online.",
+        "local": [
+            "Microsoft Xbox One"
+        ]
     },
     "Ouya, Inc. Ouya": {
         "id": 4921,
@@ -845,7 +968,10 @@
         "sound": "Z80 8 bit",
         "maxcontrollers": "1",
         "display": "Virtual screen 256\u00d7256 - 16 palettes\/plane, 64 sprites\/frame",
-        "overview": "The Neo Geo Pocket is a monochrome handheld video game console released by SNK. It was the company&#039;s first handheld system and is part of the Neo Geo family. It debuted in Japan in late 1998, however never saw a western release, being exclusive to Japan and smaller Asian markets such as Hong Kong."
+        "overview": "The Neo Geo Pocket is a monochrome handheld video game console released by SNK. It was the company&#039;s first handheld system and is part of the Neo Geo family. It debuted in Japan in late 1998, however never saw a western release, being exclusive to Japan and smaller Asian markets such as Hong Kong.",
+        "local": [
+            "SNK Neo Geo Pocket"
+        ]
     },
     "SNK Neo Geo Pocket Color": {
         "id": 4923,
@@ -863,7 +989,10 @@
         "maxcontrollers": "1",
         "display": "16 palettes per plane, 48 palettes. 146 colors on screen out of 4096 (or 20 colors out of 4096 in monochrome mode)",
         "overview": "The Neo Geo Pocket Color (shortened NGPC), is a 16-bit colour handheld video game console manufactured by SNK. It is a successor to SNK&#039;s monochrome Neo Geo Pocket handheld which debuted in 1998 in Japan. The Neo Geo Pocket Color was released on March 16, 1999 in Japan, August 6, 1999 in North America, and some time in 1999 in Europe.\r\n\r\nThe Neo Geo Pocket Color was SNK&#039;s last video game console, and is backwards compatible with the Neo Geo Pocket. In 2000, following SNK&#039;s purchase by American pachinko manufacturer Aruze, the Neo Geo Pocket Color was dropped from both the North American and European markets. It did, however, last until 2001 in Japan, with a total of 2 million units sold.",
-        "youtube": "https:\/\/U3dnMaGhwsE"
+        "youtube": "https:\/\/U3dnMaGhwsE",
+        "local": [
+            "SNK Neo Geo Pocket Color"
+        ]
     },
     "Epyx \/ Atari Atari Lynx": {
         "id": 4924,
@@ -890,7 +1019,10 @@
         "sound": "Four digital audio channels, each of which can play sequences of up to 32 4-bit samples, at different volumes and frequencies.",
         "maxcontrollers": "1",
         "display": "224 x 144",
-        "overview": "The WonderSwan was a line of handheld game consoles produced in Japan by Bandai. It was developed by Gunpei Yokoi&#039;s company Koto and Bandai. The WonderSwan was made to compete with the Neo Geo Pocket Color and the market leader Nintendo&#039;s Game Boy Color (even though the developer for the WonderSwan, Gunpei Yokoi, developed the original Nintendo Game Boy).\r\n\r\nThe original WonderSwan was later replaced by the WonderSwan Color; although some WonderSwan Color games are compatible with the original WonderSwan, many are designed exclusively for the WonderSwan Color and show a message such as \"This cartridge is for WonderSwan Color only\" when run on the original WonderSwan.\r\n\r\nThe WonderSwan is playable both vertically and horizontally, and feature a fairly large library of games, including numerous first-party titles based on licensed anime properties, with significant third-party support from Square and Capcom. As it was a console designed essentially for the Japanese market, most of the games are in Japanese, with only a few featuring English text."
+        "overview": "The WonderSwan was a line of handheld game consoles produced in Japan by Bandai. It was developed by Gunpei Yokoi&#039;s company Koto and Bandai. The WonderSwan was made to compete with the Neo Geo Pocket Color and the market leader Nintendo&#039;s Game Boy Color (even though the developer for the WonderSwan, Gunpei Yokoi, developed the original Nintendo Game Boy).\r\n\r\nThe original WonderSwan was later replaced by the WonderSwan Color; although some WonderSwan Color games are compatible with the original WonderSwan, many are designed exclusively for the WonderSwan Color and show a message such as \"This cartridge is for WonderSwan Color only\" when run on the original WonderSwan.\r\n\r\nThe WonderSwan is playable both vertically and horizontally, and feature a fairly large library of games, including numerous first-party titles based on licensed anime properties, with significant third-party support from Square and Capcom. As it was a console designed essentially for the Japanese market, most of the games are in Japanese, with only a few featuring English text.",
+        "local": [
+            "Bandai WonderSwan"
+        ]
     },
     "Bandai WonderSwan Color": {
         "id": 4926,
@@ -905,7 +1037,10 @@
         "sound": "Four digital audio channels, each of which can play sequences of up to 32 4-bit samples, at different volumes and frequencies.",
         "maxcontrollers": "1",
         "display": "224 x 144",
-        "overview": "The WonderSwan Color was released on December 9, 2000 in Japan, and was a moderate success.\r\nThe original WonderSwan had only a black and white screen. Although the WonderSwan Color was slightly larger and heavier (7 mm and 2 g) compared to the original WonderSwan, the color version featured 512KB of RAM and a larger color LCD screen. In addition, the WonderSwan Color is compatible with the original WonderSwan library of games.\r\nPrior to WonderSwan&#039;s release, Nintendo had a virtual monopoly in the Japanese video game handheld market. After the release of the WonderSwan Color, Bandai took approximately 8% of the market share in Japan partly due to its low price of \u00a56800 Japanese yen (approximately $59 USD).\r\nAnother reason for the WonderSwan&#039;s success in Japan was the fact that Bandai managed to get a deal with Square to port over the original Famicom Final Fantasy games with improved graphics and controls. However, with the popularity of the Game Boy Advance and the reconciliation between Square and Nintendo, the WonderSwan Color and its successor, the SwanCrystal, quickly lost its competitive advantage."
+        "overview": "The WonderSwan Color was released on December 9, 2000 in Japan, and was a moderate success.\r\nThe original WonderSwan had only a black and white screen. Although the WonderSwan Color was slightly larger and heavier (7 mm and 2 g) compared to the original WonderSwan, the color version featured 512KB of RAM and a larger color LCD screen. In addition, the WonderSwan Color is compatible with the original WonderSwan library of games.\r\nPrior to WonderSwan&#039;s release, Nintendo had a virtual monopoly in the Japanese video game handheld market. After the release of the WonderSwan Color, Bandai took approximately 8% of the market share in Japan partly due to its low price of \u00a56800 Japanese yen (approximately $59 USD).\r\nAnother reason for the WonderSwan&#039;s success in Japan was the fact that Bandai managed to get a deal with Square to port over the original Famicom Final Fantasy games with improved graphics and controls. However, with the popularity of the Game Boy Advance and the reconciliation between Square and Nintendo, the WonderSwan Color and its successor, the SwanCrystal, quickly lost its competitive advantage.",
+        "local": [
+            "Bandai WonderSwan Color"
+        ]
     },
     "Magnavox \/ Philips Magnavox Odyssey 2": {
         "id": 4927,
@@ -932,7 +1067,10 @@
         "alias": "fairchild",
         "icon": "fairchild-1445261469.png",
         "console": "4928.png",
-        "overview": "The Fairchild Channel F debuted August 1976 for $169.99 USD (about $700 USD in 2014) as the Fairchild Video Entertainment System (VES) later changing the console name to Fairchild Channel F when the Atari (VCS) 2600 was released. The \"F\" in Fairchild Channel F stood for the microprocessor the Fairchild F8. The system had signs of good success for the first year but was short lived do to the release of the Atari (VCS) 2600 and production of the console ceased in 1978.\r\n\r\nDespite the short life of the Fairchild Channel F it brought us many first that we take for granted. The Fairchild Channel F was the first system to make use of the microprocessor. This is important because the microprocessor allowed for another first, playing against a computer opponent. Finally the first that none of us would know what to do with out, the pause feature, to freeze game play. Now technically on the Fairchild Channel F the button was called \"hold\" but it was the first to allow a player to freeze game play and resume at a later time, it was just given the name \"pause\" later on the Atari 5200."
+        "overview": "The Fairchild Channel F debuted August 1976 for $169.99 USD (about $700 USD in 2014) as the Fairchild Video Entertainment System (VES) later changing the console name to Fairchild Channel F when the Atari (VCS) 2600 was released. The \"F\" in Fairchild Channel F stood for the microprocessor the Fairchild F8. The system had signs of good success for the first year but was short lived do to the release of the Atari (VCS) 2600 and production of the console ceased in 1978.\r\n\r\nDespite the short life of the Fairchild Channel F it brought us many first that we take for granted. The Fairchild Channel F was the first system to make use of the microprocessor. This is important because the microprocessor allowed for another first, playing against a computer opponent. Finally the first that none of us would know what to do with out, the pause feature, to freeze game play. Now technically on the Fairchild Channel F the button was called \"hold\" but it was the first to allow a player to freeze game play and resume at a later time, it was just given the name \"pause\" later on the Atari 5200.",
+        "local": [
+            "Fairchild Channel F"
+        ]
     },
     "ASCII Corporation MSX": {
         "id": 4929,
@@ -959,7 +1097,10 @@
         "sound": "16-Bit Stereo CD-DA",
         "maxcontrollers": "2",
         "display": "256x240p, 341x240p, 256x480i, 341x480i",
-        "overview": "The PC-FX is a 32-bit home video game console made by NEC Corporation. It was released in Japan on December 23, 1994, just weeks after Sony&#039;s PlayStation and a month after the Sega Saturn. It is the successor to NEC&#039;s PC Engine, known as TurboGrafx-16 in North America.\r\n\r\nUnlike its predecessor, the PC-FX was only released in Japan. The console is shaped just like a tower PC and was meant to be similarly upgradeable. However the PC-FX was using an outdated graphics chip that rendered the system underpowered in comparison to its competitors, which caused it to be a commercial failure. A lack of developers&#039; support also meant inadequate games and as a result it was unable to compete effectively with its fifth generation peers. The PC-FX was NEC&#039;s last home video game console, and was discontinued in February 1998."
+        "overview": "The PC-FX is a 32-bit home video game console made by NEC Corporation. It was released in Japan on December 23, 1994, just weeks after Sony&#039;s PlayStation and a month after the Sega Saturn. It is the successor to NEC&#039;s PC Engine, known as TurboGrafx-16 in North America.\r\n\r\nUnlike its predecessor, the PC-FX was only released in Japan. The console is shaped just like a tower PC and was meant to be similarly upgradeable. However the PC-FX was using an outdated graphics chip that rendered the system underpowered in comparison to its competitors, which caused it to be a commercial failure. A lack of developers&#039; support also meant inadequate games and as a result it was unable to compete effectively with its fifth generation peers. The PC-FX was NEC&#039;s last home video game console, and was discontinued in February 1998.",
+        "local": [
+            "NEC PC-FX"
+        ]
     },
     "Sharp Corporation Sharp X68000": {
         "id": 4931,
@@ -1030,7 +1171,10 @@
         "console": "4935.png",
         "developer": "VM Labs",
         "manufacturer": "Motorola, Samsung, Toshiba",
-        "overview": "Nuon is a technology developed by VM Labs that adds features to a DVD player. In addition to viewing DVDs, one can play 3D video games and use enhanced DVD navigational tools such as zoom and smooth scanning of DVD playback. One could also play CDs while the Nuon graphics processor generates synchronized graphics on the screen. There were plans to provide Internet access capability in the next generation of Nuon-equipped DVD players."
+        "overview": "Nuon is a technology developed by VM Labs that adds features to a DVD player. In addition to viewing DVDs, one can play 3D video games and use enhanced DVD navigational tools such as zoom and smooth scanning of DVD playback. One could also play CDs while the Nuon graphics processor generates synchronized graphics on the screen. There were plans to provide Internet access capability in the next generation of Nuon-equipped DVD players.",
+        "local": [
+            "VM Labs Nuon"
+        ]
     },
     "Nintendo Famicom Disk System": {
         "id": 4936,
@@ -1071,7 +1215,10 @@
         "media": "MMC",
         "cpu": "104 MHz ARM 920T",
         "memory": "MMC, 3.4 MB internal memory",
-        "overview": "The N-Gage is a feature phone and handheld game system from Nokia, announced on 4 November 2002 and released on 7 October 2003. It runs on the original Series 60 on Symbian OS v6.1.\r\n\r\nN-Gage attempted to lure gamers away from the Game Boy Advance by including mobile phone functionality. This was unsuccessful, partly because the buttons, designed for a phone, were not well-suited for gaming and when used as a phone the original N-Gage was described as resembling a \"taco\", which led to it becoming a well-known mocking nickname along with the \"Frankenphone\""
+        "overview": "The N-Gage is a feature phone and handheld game system from Nokia, announced on 4 November 2002 and released on 7 October 2003. It runs on the original Series 60 on Symbian OS v6.1.\r\n\r\nN-Gage attempted to lure gamers away from the Game Boy Advance by including mobile phone functionality. This was unsuccessful, partly because the buttons, designed for a phone, were not well-suited for gaming and when used as a phone the original N-Gage was described as resembling a \"taco\", which led to it becoming a well-known mocking nickname along with the \"Frankenphone\"",
+        "local": [
+            "Nokia N-Gage"
+        ]
     },
     "Western Technologies \/ Smith Engineering Vectrex": {
         "id": 4939,
@@ -1100,7 +1247,10 @@
         "media": "Cartridge",
         "cpu": "Sharp SM8521",
         "display": "200 x 160",
-        "overview": "The Game.com is a handheld game console released by Tiger Electronics in September 1997. It featured many new ideas for handheld consoles and was aimed at an older target audience, having PDA-style features and functions such as a touchscreen and stylus. Unlike other handheld game consoles, the first Game.com console included two slots for game cartridges and could be connected to a 14.4 kbit\/s modem. There were 21 games released for the Game.com, as well as 9 known unreleased."
+        "overview": "The Game.com is a handheld game console released by Tiger Electronics in September 1997. It featured many new ideas for handheld consoles and was aimed at an older target audience, having PDA-style features and functions such as a touchscreen and stylus. Unlike other handheld game consoles, the first Game.com console included two slots for game cartridges and could be connected to a 14.4 kbit\/s modem. There were 21 games released for the Game.com, as well as 9 known unreleased.",
+        "local": [
+            "Tiger Electronics Game.com"
+        ]
     },
     "Tandy Corporation TRS-80 Color Computer": {
         "id": 4941,
@@ -1128,7 +1278,10 @@
         "cpu": "MOS Technology 6502",
         "memory": "4KB, 8KB, 12KB, 16KB, 20KB, 24KB, 32KB, 36KB, 48KB, or 64KB",
         "graphics": "40\u00d748 to 280\u00d7192",
-        "overview": "The Apple II (styled as apple ][) is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak. It was introduced in 1977 at the West Coast Computer Faire by Jobs and was the first consumer product sold by Apple Computer. It is the first model in a series of computers which were produced until Apple IIe production ceased in November 1993."
+        "overview": "The Apple II (styled as apple ][) is an 8-bit home computer, one of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak. It was introduced in 1977 at the West Coast Computer Faire by Jobs and was the first consumer product sold by Apple Computer. It is the first model in a series of computers which were produced until Apple IIe production ceased in November 1993.",
+        "local": [
+            "Apple II"
+        ]
     },
     "Atari Corporation Atari 800": {
         "id": 4943,
@@ -1199,7 +1352,10 @@
         "sound": "4 \u00d7 8-bit PCM channels (2 stereo channels)",
         "maxcontrollers": "2",
         "display": "320\u00d7256",
-        "overview": "The Amiga CD32 is the first 32-bit home video game console released in western Europe, Australia, Canada and Brazil. It was based on Commodore&#039;s Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 computer. Using third party devices, it is possible to upgrade the CD32 with keyboard, floppy drive, hard drive, RAM and mouse, turning it into the equivalent of an Amiga 1200 personal computer. The CD32 is capable of running most of the titles developed for the Amiga CDTV multimedia device, but differences in CPU speed and Kickstart version prevent some of the earlier CDTV titles from running. Many of the games released for the CD32 are simply ports of games that are already available for Amiga computers. One benefit of this is that, when appropriate, many games retain the ability to use an Amiga mouse (in port 2) or Amiga keyboard (plugged into the AUX port)."
+        "overview": "The Amiga CD32 is the first 32-bit home video game console released in western Europe, Australia, Canada and Brazil. It was based on Commodore&#039;s Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 computer. Using third party devices, it is possible to upgrade the CD32 with keyboard, floppy drive, hard drive, RAM and mouse, turning it into the equivalent of an Amiga 1200 personal computer. The CD32 is capable of running most of the titles developed for the Amiga CDTV multimedia device, but differences in CPU speed and Kickstart version prevent some of the earlier CDTV titles from running. Many of the games released for the CD32 are simply ports of games that are already available for Amiga computers. One benefit of this is that, when appropriate, many games retain the ability to use an Amiga mouse (in port 2) or Amiga keyboard (plugged into the AUX port).",
+        "local": [
+            "Commodore Amiga CD32"
+        ]
     },
     "Welback Holdings Mega Duck": {
         "id": 4948,
@@ -1230,7 +1386,10 @@
         "sound": "Texas Instruments SN76489",
         "maxcontrollers": "2",
         "display": "256\u00d7192 resolution, 16 colours, 32 on-screen sprites",
-        "overview": "The SG-1000 is a cartridge-based home video game console manufactured by Sega and released in Japan, Australia, and other countries. This system marked Sega&#039;s first entry into the home video game hardware business, and provided the basis for the more successful Master System.\r\n\r\nThe SG-1000&#039;s game library comprises 68 standard cartridge releases and 29 Sega Card releases. All of the SG-1000&#039;s games play on each model of the console, though 26 of the cartridge releases require the attached keyboard accessory or the SC-3000. In addition, all titles are fully compatible with the Mark III and Master System. Titles for the system include Flicky, Congo Bongo, Sega-Galaga, and Girl&#039;s Garden, the first video game directed by Sonic the Hedgehog creator Yuji Naka. The game library for the SG-1000 also included licensed titles, such as Golgo 13."
+        "overview": "The SG-1000 is a cartridge-based home video game console manufactured by Sega and released in Japan, Australia, and other countries. This system marked Sega&#039;s first entry into the home video game hardware business, and provided the basis for the more successful Master System.\r\n\r\nThe SG-1000&#039;s game library comprises 68 standard cartridge releases and 29 Sega Card releases. All of the SG-1000&#039;s games play on each model of the console, though 26 of the cartridge releases require the attached keyboard accessory or the SC-3000. In addition, all titles are fully compatible with the Mark III and Master System. Titles for the system include Flicky, Congo Bongo, Sega-Galaga, and Girl&#039;s Garden, the first video game directed by Sonic the Hedgehog creator Yuji Naka. The game library for the SG-1000 also included licensed titles, such as Golgo 13.",
+        "local": [
+            "Sega SG-1000"
+        ]
     },
     "Nintendo Game & Watch": {
         "id": 4950,
@@ -1240,7 +1399,10 @@
         "console": "4950.png",
         "developer": "Nintendo",
         "manufacturer": "Nintendo",
-        "overview": "Game & Watch is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock, an alarm, or both. It was the earliest Nintendo product to garner major success.There were 59 different Game & Watch games produced for sale and one that was only available as a contest prize, making 60 in all. The prize game was given to winners of Nintendo&#039;s F-1 Grand Prix tournament, a yellow-cased version of Super Mario Bros. that came in a plastic box modeled after the Disk-kun character Nintendo used to advertise their Famicom Disk System. As only 10,000 units were produced and it was never available for retail sale, the yellow version is considered rare."
+        "overview": "Game & Watch is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock, an alarm, or both. It was the earliest Nintendo product to garner major success.There were 59 different Game & Watch games produced for sale and one that was only available as a contest prize, making 60 in all. The prize game was given to winners of Nintendo&#039;s F-1 Grand Prix tournament, a yellow-cased version of Super Mario Bros. that came in a plastic box modeled after the Disk-kun character Nintendo used to advertise their Famicom Disk System. As only 10,000 units were produced and it was never available for retail sale, the yellow version is considered rare.",
+        "local": [
+            "Nintendo Game & Watch"
+        ]
     },
     "Tiger Electronics, V-Tech, Coleco, Bandai, Konami Handheld Electronic Games (LCD)": {
         "id": 4951,
@@ -1278,7 +1440,10 @@
         "sound": "TI TMS9919, later SN94624",
         "maxcontrollers": "2",
         "overview": "The Texas Instruments TI-99\/4A is a home computer, released June 1981 in the United States at a price of $525 ($1,366 adjusted for inflation). It is an enhanced version of the less successful TI-99\/4 model, which was released in late 1979 at a price of $1,150 ($3,749 adjusted for inflation). The TI-99\/4 had a calculator-style chiclet keyboard and a character set that lacked lowercase text. The TI-99\/4A added an additional graphics mode, \"lowercase\" characters consisting of small capitals, and a full-travel keyboard. Both used 16-bit processors, making the TI-99\/4 series the first 16-bit home computers.",
-        "youtube": "uUKip0eNY1c"
+        "youtube": "uUKip0eNY1c",
+        "local": [
+            "Texas Instruments TI-99-4A"
+        ]
     },
     "Acorn Computers Acorn Electron": {
         "id": 4954,
@@ -1318,7 +1483,10 @@
         "manufacturer": "SNK",
         "media": "CD-ROM",
         "cpu": "Motorola 68000 at 12 MHz",
-        "overview": "From Wikipedia:\r\n\r\nNeo Geo CD (Japanese: \u30cd\u30aa\u30b8\u30aaCD Hepburn: Neo Jio Sh\u012b D\u012b?) is the second home video game console of SNK Corporation&#039;s Neo Geo family, released in September 1994, four years after its cartridge-based equivalent. This is the same platform, converted to the cheaper CD format retailing at $49 to $79 per title, compared to the $300 cartridges. The system was originally priced at US$399,[2] or \u00a3399 in the UK. The unit&#039;s 1X CD-ROM drive is slow, with very long loading times of up to 56 Mbit of data per load.[citation needed] The system can also play Audio CDs. All three versions of the system have no region-lock.\r\n\r\nThe Neo Geo CD was launched bundled with a control pad instead of a joystick like the AES version. However, the original AES joystick can be used with all three Neo Geo CD models.\r\n\r\nAs of March 1997, the Neo Geo CD had sold 570,000 units worldwide.["
+        "overview": "From Wikipedia:\r\n\r\nNeo Geo CD (Japanese: \u30cd\u30aa\u30b8\u30aaCD Hepburn: Neo Jio Sh\u012b D\u012b?) is the second home video game console of SNK Corporation&#039;s Neo Geo family, released in September 1994, four years after its cartridge-based equivalent. This is the same platform, converted to the cheaper CD format retailing at $49 to $79 per title, compared to the $300 cartridges. The system was originally priced at US$399,[2] or \u00a3399 in the UK. The unit&#039;s 1X CD-ROM drive is slow, with very long loading times of up to 56 Mbit of data per load.[citation needed] The system can also play Audio CDs. All three versions of the system have no region-lock.\r\n\r\nThe Neo Geo CD was launched bundled with a control pad instead of a joystick like the AES version. However, the original AES joystick can be used with all three Neo Geo CD models.\r\n\r\nAs of March 1997, the Neo Geo CD had sold 570,000 units worldwide.[",
+        "local": [
+            "SNK Neo Geo CD"
+        ]
     },
     "Nintendo Pok\u00e9mon Mini": {
         "id": 4957,
@@ -1333,7 +1501,10 @@
         "memory": "4 KB RAM",
         "maxcontrollers": "1",
         "display": "Monochrome LCD, 96 \u00d7 64 pixels",
-        "overview": "The Pok\u00e9mon Mini (Japanese: \u30dd\u30b1\u30e2\u30f3\u30df\u30cb Hepburn: Pokemon Mini, officially stylized as Pok\u00e9mon mini) is a handheld game console that was designed and manufactured by Nintendo and themed around the Pok\u00e9mon media franchise. It is the smallest game system with interchangeable cartridges ever produced by Nintendo, weighing just under two and a half ounces (70 grams).  It was first released in North America on November 16, 2001, then in Japan on December 14, 2001, and in Europe on March 15, 2002.  The systems were released in three colors: Wooper Blue, Chikorita Green, and Smoochum Purple."
+        "overview": "The Pok\u00e9mon Mini (Japanese: \u30dd\u30b1\u30e2\u30f3\u30df\u30cb Hepburn: Pokemon Mini, officially stylized as Pok\u00e9mon mini) is a handheld game console that was designed and manufactured by Nintendo and themed around the Pok\u00e9mon media franchise. It is the smallest game system with interchangeable cartridges ever produced by Nintendo, weighing just under two and a half ounces (70 grams).  It was first released in North America on November 16, 2001, then in Japan on December 14, 2001, and in Europe on March 15, 2002.  The systems were released in three colors: Wooper Blue, Chikorita Green, and Smoochum Purple.",
+        "local": [
+            "Nintendo Pokemon Mini"
+        ]
     },
     "Sega Pico": {
         "id": 4958,
@@ -1350,7 +1521,10 @@
         "sound": "Yamaha YM2612 5 channel FM and 1 channel FM\/PCM, Texas Instruments SN76489 4 channel PSG (Programmable Sound Generator)",
         "maxcontrollers": "1",
         "display": "320\u00d7448",
-        "overview": "The Sega Pico, also known as Kids Computer Pico (\u30ad\u30c3\u30ba\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u30fb\u30d4\u30b3 Kizzu Konpy\u016bt\u0101 Piko), is an educational video game console by Sega. Marketed as \"edutainment\", the main focus of the Pico was educational video games for children between 3 and 7 years old. The Pico was released in June 1993 in Japan and November 1994 in North America and Europe, later reaching China. It was succeeded by the Advanced Pico Beena, which was released in Japan in 2005. Though the Pico was sold continuously in Japan through the release of the Beena, in North America and Europe the Pico was less successful and was discontinued in early 1998, later being rereleased by Majesco Entertainment. Releases for the Pico were focused on education for children and included titles supported by licensed franchised animated characters, including Disney and Sega&#039;s own Sonic the Hedgehog series. Overall, Sega claims sales of 3.4 million Pico consoles and 11.2 million game cartridges, and over 350,000 Beena consoles and 800,000 cartridges."
+        "overview": "The Sega Pico, also known as Kids Computer Pico (\u30ad\u30c3\u30ba\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u30fb\u30d4\u30b3 Kizzu Konpy\u016bt\u0101 Piko), is an educational video game console by Sega. Marketed as \"edutainment\", the main focus of the Pico was educational video games for children between 3 and 7 years old. The Pico was released in June 1993 in Japan and November 1994 in North America and Europe, later reaching China. It was succeeded by the Advanced Pico Beena, which was released in Japan in 2005. Though the Pico was sold continuously in Japan through the release of the Beena, in North America and Europe the Pico was less successful and was discontinued in early 1998, later being rereleased by Majesco Entertainment. Releases for the Pico were focused on education for children and included titles supported by licensed franchised animated characters, including Disney and Sega&#039;s own Sonic the Hedgehog series. Overall, Sega claims sales of 3.4 million Pico consoles and 11.2 million game cartridges, and over 350,000 Beena consoles and 800,000 cartridges.",
+        "local": [
+            "Sega Pico"
+        ]
     },
     "Watara Supervision": {
         "id": 4959,
@@ -1364,7 +1538,10 @@
         "sound": "2 Tonal and 1 Noise Channel plus additional audio DMA stereo output channel. Built-in speaker and headphone jack with stereo earphones included.",
         "maxcontrollers": "N\/A",
         "display": "160\u00d7160 pixel resolution, 4 shades of grey",
-        "overview": "The Watara Supervision (also known as the QuickShot Supervision in the UK) is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo&#039;s Game Boy. It came packaged with a game called Crystball, which is similar to Breakout. One unique feature of the Supervision was that it could be linked up to a television via a link cable. Games played in this way would display in four colors, much like Nintendo&#039;s Super Game Boy add-on for the SNES.[1] A full color TV link was also in the works, but because of the Supervision&#039;s failure to make a major impression among gamers it was cancelled, along with the games which were in development for it.\r\n\r\nThough the machine garnered some attention at launch (mainly due to the low price point for the machine and its games, which many felt might enable it to make inroads into Nintendo&#039;s market share) it was ultimately unsuccessful in unseating the Game Boy from its position as the world&#039;s most popular handheld. Reasons commonly cited are the poor quality screen which was prone to blurring and made following the action difficult, a general lack of games and the simplistic nature of those that were released.\r\n\r\nYet another problem was that most of the games that were available were developed in Taiwan or Hong Kong, meaning that fans of big-name Western and Japanese developers were underwhelmed by the apparent lack of support from these companies. Only a tiny handful of games were developed by third parties, including Sachen and the British developer B.I.T.S.. Up against Nintendo&#039;s list of popular franchises (Zelda, Mario, Metroid) and those of its third parties (Castlevania, Mega Man) - all of which eventually surfaced on the Game Boy - the Supervision&#039;s games were of little interest to most."
+        "overview": "The Watara Supervision (also known as the QuickShot Supervision in the UK) is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo&#039;s Game Boy. It came packaged with a game called Crystball, which is similar to Breakout. One unique feature of the Supervision was that it could be linked up to a television via a link cable. Games played in this way would display in four colors, much like Nintendo&#039;s Super Game Boy add-on for the SNES.[1] A full color TV link was also in the works, but because of the Supervision&#039;s failure to make a major impression among gamers it was cancelled, along with the games which were in development for it.\r\n\r\nThough the machine garnered some attention at launch (mainly due to the low price point for the machine and its games, which many felt might enable it to make inroads into Nintendo&#039;s market share) it was ultimately unsuccessful in unseating the Game Boy from its position as the world&#039;s most popular handheld. Reasons commonly cited are the poor quality screen which was prone to blurring and made following the action difficult, a general lack of games and the simplistic nature of those that were released.\r\n\r\nYet another problem was that most of the games that were available were developed in Taiwan or Hong Kong, meaning that fans of big-name Western and Japanese developers were underwhelmed by the apparent lack of support from these companies. Only a tiny handful of games were developed by third parties, including Sachen and the British developer B.I.T.S.. Up against Nintendo&#039;s list of popular franchises (Zelda, Mario, Metroid) and those of its third parties (Castlevania, Mega Man) - all of which eventually surfaced on the Game Boy - the Supervision&#039;s games were of little interest to most.",
+        "local": [
+            "Watara Supervision"
+        ]
     },
     "Tomy Tutor": {
         "id": 4960,
@@ -1375,7 +1552,10 @@
         "developer": "Tomy",
         "manufacturer": "Matsushita",
         "memory": "16K RAM",
-        "overview": "The Tomy Tutor, originally sold in Japan as the Py\u016bta (\u3074\u3085\u3046\u592a?) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99\/4A, and used a similar 16-bit CPU. The computer was launched on the UK and European markets in late 1983. Outside Japan, however, sales were not significant.\r\n\r\nProduced by Matsushita, the machine was released in Japan in 1982 under the name of Tomy Py\u016bta.\r\n\r\nTomy described the Tutor, with 16K RAM, as good for games and education. The company stated that its documentation would let an eight-year-old child use the computer without adult supervision.\r\n\r\nOne of the major flaws pointed out with the Tutor was not its hardware, but its marketing: the Tutor was announced as a children&#039;s computer when in fact it was practically a cheap, evolved version of the TI-99\/4A, even having a similar 16-bit CPU (the TMS 9995, closely related to the TI-99\/4&#039;s TMS 9990);[1] other competitors in its price range still used 8-bit microprocessors.\r\n\r\nThe Tutor did not sell well against the ZX Spectrum in the UK and the Commodore 64 in other countries. It ended up being removed quickly from the market and replaced the following year by the Tomy Tutor MK II with a standard mechanical keyboard instead of the original \"Chiclet\"-style keyboard. However, the new model seems to have been sold only in Japan, and even then only for a short period of time.\r\n\r\nThe Py\u016bta Jr. was a console version of the Py\u016bta, and similarly was only sold in Japan."
+        "overview": "The Tomy Tutor, originally sold in Japan as the Py\u016bta (\u3074\u3085\u3046\u592a?) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99\/4A, and used a similar 16-bit CPU. The computer was launched on the UK and European markets in late 1983. Outside Japan, however, sales were not significant.\r\n\r\nProduced by Matsushita, the machine was released in Japan in 1982 under the name of Tomy Py\u016bta.\r\n\r\nTomy described the Tutor, with 16K RAM, as good for games and education. The company stated that its documentation would let an eight-year-old child use the computer without adult supervision.\r\n\r\nOne of the major flaws pointed out with the Tutor was not its hardware, but its marketing: the Tutor was announced as a children&#039;s computer when in fact it was practically a cheap, evolved version of the TI-99\/4A, even having a similar 16-bit CPU (the TMS 9995, closely related to the TI-99\/4&#039;s TMS 9990);[1] other competitors in its price range still used 8-bit microprocessors.\r\n\r\nThe Tutor did not sell well against the ZX Spectrum in the UK and the Commodore 64 in other countries. It ended up being removed quickly from the market and replaced the following year by the Tomy Tutor MK II with a standard mechanical keyboard instead of the original \"Chiclet\"-style keyboard. However, the new model seems to have been sold only in Japan, and even then only for a short period of time.\r\n\r\nThe Py\u016bta Jr. was a console version of the Py\u016bta, and similarly was only sold in Japan.",
+        "local": [
+            "Tomy Tutor"
+        ]
     },
     "Magnavox Odyssey 1": {
         "id": 4961,
@@ -1386,7 +1566,10 @@
         "developer": "Magnavox",
         "manufacturer": "Magnavox",
         "maxcontrollers": "2",
-        "overview": "The Magnavox Odyssey is the first commercial home video game console. It was developed by a small team led by Ralph H. Baer at Sanders Associates and released by Magnavox in the United States in September 1972 and overseas the following year. The Odyssey consists of a white, black, and brown box which connects to a television set and two rectangular controllers attached by wires. It is capable of displaying three square dots on the screen in monochrome black and white, with different behavior of the dots depending on the game played, and has no sound capabilities. Players place plastic overlays on the screen to create visuals, and the one or two players for each game control their dots with the three knobs and one button on the controller in accordance with the rules given for the game. The Odyssey console came packaged with dice, paper money, and other board game paraphernalia to go along with the games, and a peripheral controller\u2014the first video game light gun\u2014was sold separately.\r\n\r\nThe idea for a video game console was thought up by Baer in August 1966, and over the next three years he, along with Bill Harrison and Bill Rusch, created seven successive prototype consoles. The seventh, known as the Brown Box, was shown to several manufacturers before Magnavox agreed to produce it in January 1971. After releasing the console in September 1972 through their dealerships, Magnavox sold between 69,000 and 100,000 units by the end of the year, and 350,000 by the time the console was discontinued in 1975. The console spawned the Magnavox Odyssey series of dedicated consoles, as well as the 1978 Magnavox Odyssey\u00b2. One of the 28 games made for the system, a ping pong game, was an inspiration for Atari&#039;s successful Pong arcade game, in turn driving sales of the console. Baer&#039;s patents for the console and the games, including what was termed by a judge as \"the pioneering patent of the video game art\", formed the basis of a series of lawsuits over 20 years, earning Sanders and Magnavox over US$100 million. The release of the Odyssey marked the end of the early history of video games, and the rise of the commercial video game industry along with the start of the first generation of video game consoles."
+        "overview": "The Magnavox Odyssey is the first commercial home video game console. It was developed by a small team led by Ralph H. Baer at Sanders Associates and released by Magnavox in the United States in September 1972 and overseas the following year. The Odyssey consists of a white, black, and brown box which connects to a television set and two rectangular controllers attached by wires. It is capable of displaying three square dots on the screen in monochrome black and white, with different behavior of the dots depending on the game played, and has no sound capabilities. Players place plastic overlays on the screen to create visuals, and the one or two players for each game control their dots with the three knobs and one button on the controller in accordance with the rules given for the game. The Odyssey console came packaged with dice, paper money, and other board game paraphernalia to go along with the games, and a peripheral controller\u2014the first video game light gun\u2014was sold separately.\r\n\r\nThe idea for a video game console was thought up by Baer in August 1966, and over the next three years he, along with Bill Harrison and Bill Rusch, created seven successive prototype consoles. The seventh, known as the Brown Box, was shown to several manufacturers before Magnavox agreed to produce it in January 1971. After releasing the console in September 1972 through their dealerships, Magnavox sold between 69,000 and 100,000 units by the end of the year, and 350,000 by the time the console was discontinued in 1975. The console spawned the Magnavox Odyssey series of dedicated consoles, as well as the 1978 Magnavox Odyssey\u00b2. One of the 28 games made for the system, a ping pong game, was an inspiration for Atari&#039;s successful Pong arcade game, in turn driving sales of the console. Baer&#039;s patents for the console and the games, including what was termed by a judge as \"the pioneering patent of the video game art\", formed the basis of a series of lawsuits over 20 years, earning Sanders and Magnavox over US$100 million. The release of the Odyssey marked the end of the early history of video games, and the rise of the commercial video game industry along with the start of the first generation of video game consoles.",
+        "local": [
+            "Magnavox Odyssey 1"
+        ]
     },
     "Gakken Co., Ltd Gakken Compact Vision": {
         "id": 4962,
@@ -1421,7 +1604,10 @@
         "cpu": "Z80A clocked at 3.579 MHz",
         "memory": "2KB RAM",
         "display": "256x192 resolution, 8 colours",
-        "overview": "The PV-1000 (\u3074\u30fc\u3076\u3044\u305b\u3093 Pi Bui-Sen?) is a home video game console manufactured by Casio and released in Japan in 1983. The PV-1000 was powered by a Z80A micro-processor, and had 2 KB RAM available, with 1 KB devoted to its character generator. It had a 256x192 pixel resolution and had 8 available colours. It was released alongside a computer known as the PV-2000, which is compatible with PV-1000 controllers but not games. In the same year Casio released two other consoles, the PV-7 and the PV-16 which were MSX computers. The PV-1000 initially sold for 14,800\u00a5.\r\n\r\nCasio failed to achieve a significant market share. It is said to have been pulled from the shelves within a matter of weeks, making the system extremely rare."
+        "overview": "The PV-1000 (\u3074\u30fc\u3076\u3044\u305b\u3093 Pi Bui-Sen?) is a home video game console manufactured by Casio and released in Japan in 1983. The PV-1000 was powered by a Z80A micro-processor, and had 2 KB RAM available, with 1 KB devoted to its character generator. It had a 256x192 pixel resolution and had 8 available colours. It was released alongside a computer known as the PV-2000, which is compatible with PV-1000 controllers but not games. In the same year Casio released two other consoles, the PV-7 and the PV-16 which were MSX computers. The PV-1000 initially sold for 14,800\u00a5.\r\n\r\nCasio failed to achieve a significant market share. It is said to have been pulled from the shelves within a matter of weeks, making the system extremely rare.",
+        "local": [
+            "Casio PV-1000"
+        ]
     },
     "Epoch Co. Epoch Cassette Vision": {
         "id": 4965,
@@ -1453,7 +1639,10 @@
         "manufacturer": "RCA",
         "cpu": "RCA 1802 microprocessor, 1.78 MHz",
         "memory": "512 bytes RAM",
-        "overview": "The RCA Studio II is a home video game console made by RCA that debuted in January 1977. The graphics of Studio II games were black and white and resembled those of earlier Pong consoles and their clones. The Studio II also did not have joysticks or similar game controllers but instead used two ten button keypads that were built into the console itself. The console was capable of making simple beep sounds with slight variations in tone and length.\r\n\r\nOne distinct feature of the Studio II was its five built-in games.[3] Another was its use of a switchbox that relayed both the modulated RF signal of the console&#039;s video to the television set while powering the console with DC power. This type of switchbox would not be seen again until the Atari 5200.\r\n\r\nThe Studio II was not a successful product; the previously released Fairchild Channel F made it obsolete at launch and it suffered a final decisive blow when the superior (to both) Atari 2600 console was released only 10 months later. After poor Christmas sales in 1977, RCA ceased production of the Studio II and offloaded excess inventory to Radio Shack in a fire sale.\r\n\r\nIn 1978, RCA announced low Christmas sales, and cut production of its Studio II system. While losses were not announced, RCA laid off 120 workers at its plant that produced the system in North Carolina. Some analysts blamed the fact the RCA Studio II&#039;s games were in black and white, and could not compete with systems offering color."
+        "overview": "The RCA Studio II is a home video game console made by RCA that debuted in January 1977. The graphics of Studio II games were black and white and resembled those of earlier Pong consoles and their clones. The Studio II also did not have joysticks or similar game controllers but instead used two ten button keypads that were built into the console itself. The console was capable of making simple beep sounds with slight variations in tone and length.\r\n\r\nOne distinct feature of the Studio II was its five built-in games.[3] Another was its use of a switchbox that relayed both the modulated RF signal of the console&#039;s video to the television set while powering the console with DC power. This type of switchbox would not be seen again until the Atari 5200.\r\n\r\nThe Studio II was not a successful product; the previously released Fairchild Channel F made it obsolete at launch and it suffered a final decisive blow when the superior (to both) Atari 2600 console was released only 10 months later. After poor Christmas sales in 1977, RCA ceased production of the Studio II and offloaded excess inventory to Radio Shack in a fire sale.\r\n\r\nIn 1978, RCA announced low Christmas sales, and cut production of its Studio II system. While losses were not announced, RCA laid off 120 workers at its plant that produced the system in North Carolina. Some analysts blamed the fact the RCA Studio II&#039;s games were in black and white, and could not compete with systems offering color.",
+        "local": [
+            "RCA Studio II"
+        ]
     },
     "Bally Manufacturing Bally Astrocade": {
         "id": 4968,
@@ -1483,7 +1672,10 @@
         "console": "4970.png",
         "developer": "Coleco",
         "manufacturer": "Coleco",
-        "overview": "The Telstar is a series of video game consoles produced by Coleco from 1976 to 1978. Starting with Telstar Pong clone based on General Instrument&#039;s AY-3-8500 chip in 1976, there were 14 consoles released in the Telstar branded series. One million Telstar units were sold.\r\n\r\nThe large product lineup and the impending fading out of the Pong machines led Coleco to face near-bankruptcy in 1980."
+        "overview": "The Telstar is a series of video game consoles produced by Coleco from 1976 to 1978. Starting with Telstar Pong clone based on General Instrument&#039;s AY-3-8500 chip in 1976, there were 14 consoles released in the Telstar branded series. One million Telstar units were sold.\r\n\r\nThe large product lineup and the impending fading out of the Pong machines led Coleco to face near-bankruptcy in 1980.",
+        "local": [
+            "Coleco Telstar Arcade"
+        ]
     },
     "Nintendo Switch": {
         "id": 4971,
@@ -1499,7 +1691,10 @@
         "graphics": "Up to 1080p (1920 \u00d7 1080) while docked",
         "sound": "Linear PCM 5.1ch (via HDMI) Stereo speakers",
         "maxcontrollers": "8",
-        "overview": "The Nintendo Switch (Japanese: \u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c1 Hepburn: Nintend\u014d Suitchi?), is Nintendo&#039;s seventh major home console. Originally known in development as the NX, it was officially unveiled in October 2016 and released worldwide on March 3, 2017.\r\n\r\nThe Switch is a \"hybrid\" console, allowing different modes of play. Its main unit is shaped like a tablet computer which can be used portably as-is, or connected to a television display through a detachable docking station. In addition it can also be used in a tapletop form with its kickstand. Despite these characteristics, Nintendo markets the Switch primarily as a home console rather than as a portable.\r\n\r\nIts most distinguishable feature are the \"Joy-Con\" controllers. These are two detachable controllers that can be either attached to a \"Grip\" to provide a traditional home console gamepad form, attached on either side of the main unit for handheld play, or can be used individually in the hand like Nintendo&#039;s Wii Remote. The Joy-Cons are similarly motion-sensitive, and feature NFC for reading Amiibo data. The Switch uses flash ROM cartridges for media, rather than optical discs."
+        "overview": "The Nintendo Switch (Japanese: \u30cb\u30f3\u30c6\u30f3\u30c9\u30fc\u30b9\u30a4\u30c3\u30c1 Hepburn: Nintend\u014d Suitchi?), is Nintendo&#039;s seventh major home console. Originally known in development as the NX, it was officially unveiled in October 2016 and released worldwide on March 3, 2017.\r\n\r\nThe Switch is a \"hybrid\" console, allowing different modes of play. Its main unit is shaped like a tablet computer which can be used portably as-is, or connected to a television display through a detachable docking station. In addition it can also be used in a tapletop form with its kickstand. Despite these characteristics, Nintendo markets the Switch primarily as a home console rather than as a portable.\r\n\r\nIts most distinguishable feature are the \"Joy-Con\" controllers. These are two detachable controllers that can be either attached to a \"Grip\" to provide a traditional home console gamepad form, attached on either side of the main unit for handheld play, or can be used individually in the hand like Nintendo&#039;s Wii Remote. The Joy-Cons are similarly motion-sensitive, and feature NFC for reading Amiibo data. The Switch uses flash ROM cartridges for media, rather than optical discs.",
+        "local": [
+            "Nintendo Switch"
+        ]
     },
     "Milton Bradley Microvision": {
         "id": 4972,
@@ -1508,7 +1703,10 @@
         "icon": "console_default.png",
         "developer": "Milton Bradley",
         "cpu": "Texas Instruments TMS1100 (On cartridge) (Early cartridges were Intel 8021)",
-        "overview": "The Microvision is the very first handheld game console that used interchangeable cartridges. It was released by the Milton Bradley Company in November 1979. The Microvision was designed by Jay Smith, the engineer who would later design the Vectrex gaming console. The Microvision&#039;s combination of portability and a cartridge-based system led to moderate success, with Smith Engineering grossing $15 million in the first year of the system&#039;s release. However, very few cartridges, a small screen, and a lack of support from established home video game companies led to its demise in 1981.[2] According to Satoru Okada, the former head of R&D1 Department stated that the Microvision gave birth to Nintendo Game & Watch after Nintendo designed around Microvision&#039;s limitations."
+        "overview": "The Microvision is the very first handheld game console that used interchangeable cartridges. It was released by the Milton Bradley Company in November 1979. The Microvision was designed by Jay Smith, the engineer who would later design the Vectrex gaming console. The Microvision&#039;s combination of portability and a cartridge-based system led to moderate success, with Smith Engineering grossing $15 million in the first year of the system&#039;s release. However, very few cartridges, a small screen, and a lack of support from established home video game companies led to its demise in 1981.[2] According to Satoru Okada, the former head of R&D1 Department stated that the Microvision gave birth to Nintendo Game & Watch after Nintendo designed around Microvision&#039;s limitations.",
+        "local": [
+            "Milton Bradley Microvision"
+        ]
     },
     "Entex Industries Entex Select-a-Game": {
         "id": 4973,
@@ -1546,7 +1744,10 @@
         "console": "4975.png",
         "developer": "Pioneer",
         "manufacturer": "Pioneer",
-        "overview": "The LaserActive (\u30ec\u30fc\u30b6\u30fc\u30a2\u30af\u30c6\u30a3\u30d6? R\u0113z\u0101Akutibu) is a converged device and fourth-generation home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs. It was released by Pioneer Corporation in 1993. In addition to LaserActive games, separately sold add-on modules (called \"PACs\" by Pioneer) accepts Mega Drive\/Genesis and PC Engine\/TurboGrafx 16 ROM cartridges and CD-ROMs.\r\n\r\nPioneer released the LaserActive model CLD-A100 in Japan on August 20, 1993 at a cost of \u00a589,800, and in the United States on September 13, 1993 at a cost of $970. An NEC-branded version of the LaserActive player, the PCE-LD1, was released on December 1993, which was priced identically to the original system and also accepted Pioneer&#039;s PAC modules. The LaserActive has no regional lockout, allowing software from any region to be played on any system.\r\n\r\nPAC modules:\r\n\r\nThe Japanese LaserActive shown with the Sega and NEC pacs.\r\nIn the headings below, the Japanese model number occurs first, followed by the North American model number.\r\n\r\nMega LD PAC (PAC-S1 \/ PAC-S10)\r\nPioneer Electronics (USA) and Sega Enterprises released this module that allows users to play 8-inch and 12-inch LaserActive Mega LD discs, in addition to standard Sega CD discs and Genesis cartridges, as well as CD+G discs. It was the most popular add-on bought by the greater part of the LaserActive owners, costing roughly US $600. It comes with a LaserActive-branded version of Sega&#039;s 6-button control pad (CPD-S1).\r\nLD-ROM\u00b2 PAC (PAC-N1 \/ PAC-N10)\r\nPioneer Electronics (USA) and NEC Home Electronics released this module that allows users to play 8-inch and 12-inch LaserActive LD-ROM\u00b2 discs, as well as CD-ROM\u00b2 and Super CD-ROM\u00b2 discs, HuCards and CD+G discs. The Japanese version of the PAC can also run Arcade CD-ROM\u00b2 discs through the use of an Arcade Card Duo. The retail price was US $600. It comes with a LaserActive-branded version of NEC&#039;s Turbo Pad (CPD-N1\/CPD-N10). A NEC branded version of the LD-ROM\u00b2 PAC (the PCE-LP1) was also released. Due to the unpopularity of the TurboGrafx-16 platform in North America, very few PAC-N10 units were produced for the North American market, resulting in their scarcity compared to its Sega counterpart.\r\nKaraoke PAC (PAC-K1 \/ PAC-K10)\r\nThis PAC allows the CLD-A100 to use all NTSC LaserKaraoke titles. The front panel has two microphone inputs with separated volume controls, as well as tone control. The retail price was US $350.\r\nComputer Interface PAC (PAC-PC1)\r\nThe Computer Interface PAC has an RS-232 port, enabling the CLD-A100 to be controlled by a custom software developed for a home computer. The PAC came with a 33-button infrared remote control providing more functionality than the 24-button remote included with the CLD-A100. It also included a computer program called LaserActive Program Editor on floppy disk for DOS and classic Mac OS. The floppy disks had some sample programs created with the editor for use with the first five LaserDiscs in the Tenchi Muyo! anime series.\r\nLaserActive 3-D Goggles[edit]\r\nThe LaserActive 3-D Goggles (model GOL-1) employ an active shutter 3D system compatible with at least four 3D-ready LD-ROM software titles: 3-D Museum (1994), Vajra 2 (1994), and Virtual Cameraman 2 (1994), and 3D Virtual Australia (1996). 3D Virtual Australia was the last software title published for the LaserActive.\r\n\r\nThe goggles are also compatible with the Sega Master System, and are interchangeable with the SegaScope 3-D Glasses. They can also be used to view 3-D images from autostereograms.[4]\r\n\r\nA goggle adapter (model ADP-1), packaged and sold separately from the 3-D Goggles, enables the user to connect one or two pairs of goggles to the CLD-A100.\r\n\r\nGames:\r\nThe standard LaserActive games were on Laserdisc encoded as an LD-ROM. An LD-ROM had a capacity of 540 MB (where digital audio would have normally been stored) with 60 minutes of analog audio and video."
+        "overview": "The LaserActive (\u30ec\u30fc\u30b6\u30fc\u30a2\u30af\u30c6\u30a3\u30d6? R\u0113z\u0101Akutibu) is a converged device and fourth-generation home video game console capable of playing Laserdiscs, Compact Discs, console games, and LD-G karaoke discs. It was released by Pioneer Corporation in 1993. In addition to LaserActive games, separately sold add-on modules (called \"PACs\" by Pioneer) accepts Mega Drive\/Genesis and PC Engine\/TurboGrafx 16 ROM cartridges and CD-ROMs.\r\n\r\nPioneer released the LaserActive model CLD-A100 in Japan on August 20, 1993 at a cost of \u00a589,800, and in the United States on September 13, 1993 at a cost of $970. An NEC-branded version of the LaserActive player, the PCE-LD1, was released on December 1993, which was priced identically to the original system and also accepted Pioneer&#039;s PAC modules. The LaserActive has no regional lockout, allowing software from any region to be played on any system.\r\n\r\nPAC modules:\r\n\r\nThe Japanese LaserActive shown with the Sega and NEC pacs.\r\nIn the headings below, the Japanese model number occurs first, followed by the North American model number.\r\n\r\nMega LD PAC (PAC-S1 \/ PAC-S10)\r\nPioneer Electronics (USA) and Sega Enterprises released this module that allows users to play 8-inch and 12-inch LaserActive Mega LD discs, in addition to standard Sega CD discs and Genesis cartridges, as well as CD+G discs. It was the most popular add-on bought by the greater part of the LaserActive owners, costing roughly US $600. It comes with a LaserActive-branded version of Sega&#039;s 6-button control pad (CPD-S1).\r\nLD-ROM\u00b2 PAC (PAC-N1 \/ PAC-N10)\r\nPioneer Electronics (USA) and NEC Home Electronics released this module that allows users to play 8-inch and 12-inch LaserActive LD-ROM\u00b2 discs, as well as CD-ROM\u00b2 and Super CD-ROM\u00b2 discs, HuCards and CD+G discs. The Japanese version of the PAC can also run Arcade CD-ROM\u00b2 discs through the use of an Arcade Card Duo. The retail price was US $600. It comes with a LaserActive-branded version of NEC&#039;s Turbo Pad (CPD-N1\/CPD-N10). A NEC branded version of the LD-ROM\u00b2 PAC (the PCE-LP1) was also released. Due to the unpopularity of the TurboGrafx-16 platform in North America, very few PAC-N10 units were produced for the North American market, resulting in their scarcity compared to its Sega counterpart.\r\nKaraoke PAC (PAC-K1 \/ PAC-K10)\r\nThis PAC allows the CLD-A100 to use all NTSC LaserKaraoke titles. The front panel has two microphone inputs with separated volume controls, as well as tone control. The retail price was US $350.\r\nComputer Interface PAC (PAC-PC1)\r\nThe Computer Interface PAC has an RS-232 port, enabling the CLD-A100 to be controlled by a custom software developed for a home computer. The PAC came with a 33-button infrared remote control providing more functionality than the 24-button remote included with the CLD-A100. It also included a computer program called LaserActive Program Editor on floppy disk for DOS and classic Mac OS. The floppy disks had some sample programs created with the editor for use with the first five LaserDiscs in the Tenchi Muyo! anime series.\r\nLaserActive 3-D Goggles[edit]\r\nThe LaserActive 3-D Goggles (model GOL-1) employ an active shutter 3D system compatible with at least four 3D-ready LD-ROM software titles: 3-D Museum (1994), Vajra 2 (1994), and Virtual Cameraman 2 (1994), and 3D Virtual Australia (1996). 3D Virtual Australia was the last software title published for the LaserActive.\r\n\r\nThe goggles are also compatible with the Sega Master System, and are interchangeable with the SegaScope 3-D Glasses. They can also be used to view 3-D images from autostereograms.[4]\r\n\r\nA goggle adapter (model ADP-1), packaged and sold separately from the 3-D Goggles, enables the user to connect one or two pairs of goggles to the CLD-A100.\r\n\r\nGames:\r\nThe standard LaserActive games were on Laserdisc encoded as an LD-ROM. An LD-ROM had a capacity of 540 MB (where digital audio would have normally been stored) with 60 minutes of analog audio and video.",
+        "local": [
+            "Pioneer LaserActive"
+        ]
     },
     "Action Max": {
         "id": 4976,
@@ -1554,7 +1755,10 @@
         "alias": "action-max",
         "icon": "action_max.png",
         "console": "4976.png",
-        "overview": "Action Max is a home video game console using VHS tapes for games. It was created in 1987 by Worlds of Wonder. The Action Max had a very limited release outside of the U.S.\r\n\r\nInside the system.\r\n\r\nThe Action Max motherboard.\r\nThe Action Max system requires the player to also have a VCR, as the console has no way to play the requisite VHS tapes itself. Using light guns, players shoot at the screen. The gaming is strictly point-based and dependent on shot accuracy and as a result, players can&#039;t truly win or lose a game. The system&#039;s post-launch appeal was limited by this and by the fact that the only real genre on the system are light gun games that play exactly the same way every time, leading to its quick market decline.[1]\r\n\r\nBefore playing, a red sensor must be attached to the lower right corner of the television screen. This corner contains a circle that was usually black, but flashes rapidly whenever something on the screen is targetable. At the same time, targets are highlighted by rapidly flashing panels for the player to shoot at. The console uses the corner circle and light from the targets (picked up by the guns) to determine when something has been hit. Flashes in sync with the corner circle count as enemy hits, and earn points for the player. Flashes out of sync with the corner circle count as friendly hits, losing points.\r\n\r\nWith this implementation, the unit can function with copies of the original VHS tapes, including those on more modern formats such as DVD-R or personal computers. The console can work with any filmed footage properly formatted to function with the console&#039;s light gun.\r\n\r\nGames\r\nIn all, five VHS cassettes were released for the system: .38 Ambush Alley, a police target range; Blue Thunder, based on the eponymous 1983 motion picture; Hydrosub: 2021, a futuristic underwater voyage; The Rescue of Pops Ghostly, a comic haunted-house adventure; and Sonic Fury, aerial combat, bundled with the system.\r\n\r\nA planned sixth cassette, Fright Night, was unreleased at the time Action Max was discontinued.\r\n\r\nEach game follows an identical gameplay format, differing only in theme, playing the same way each time.\r\n\r\nTechnical specifications\r\nCPU: HD401010\r\nInternal Speaker\r\n2 Character, 7 segment LED score display"
+        "overview": "Action Max is a home video game console using VHS tapes for games. It was created in 1987 by Worlds of Wonder. The Action Max had a very limited release outside of the U.S.\r\n\r\nInside the system.\r\n\r\nThe Action Max motherboard.\r\nThe Action Max system requires the player to also have a VCR, as the console has no way to play the requisite VHS tapes itself. Using light guns, players shoot at the screen. The gaming is strictly point-based and dependent on shot accuracy and as a result, players can&#039;t truly win or lose a game. The system&#039;s post-launch appeal was limited by this and by the fact that the only real genre on the system are light gun games that play exactly the same way every time, leading to its quick market decline.[1]\r\n\r\nBefore playing, a red sensor must be attached to the lower right corner of the television screen. This corner contains a circle that was usually black, but flashes rapidly whenever something on the screen is targetable. At the same time, targets are highlighted by rapidly flashing panels for the player to shoot at. The console uses the corner circle and light from the targets (picked up by the guns) to determine when something has been hit. Flashes in sync with the corner circle count as enemy hits, and earn points for the player. Flashes out of sync with the corner circle count as friendly hits, losing points.\r\n\r\nWith this implementation, the unit can function with copies of the original VHS tapes, including those on more modern formats such as DVD-R or personal computers. The console can work with any filmed footage properly formatted to function with the console&#039;s light gun.\r\n\r\nGames\r\nIn all, five VHS cassettes were released for the system: .38 Ambush Alley, a police target range; Blue Thunder, based on the eponymous 1983 motion picture; Hydrosub: 2021, a futuristic underwater voyage; The Rescue of Pops Ghostly, a comic haunted-house adventure; and Sonic Fury, aerial combat, bundled with the system.\r\n\r\nA planned sixth cassette, Fright Night, was unreleased at the time Action Max was discontinued.\r\n\r\nEach game follows an identical gameplay format, differing only in theme, playing the same way each time.\r\n\r\nTechnical specifications\r\nCPU: HD401010\r\nInternal Speaker\r\n2 Character, 7 segment LED score display",
+        "local": [
+            "WoW Action Max"
+        ]
     },
     "Sharp X1": {
         "id": 4977,
@@ -1570,7 +1774,10 @@
         "sound": "General Instrument AY-3-8910, Yamaha YM2149, Yamaha YM2151",
         "maxcontrollers": "4",
         "display": "320 x 200, 640 x 200",
-        "overview": "The X1 (\u30a8\u30c3\u30af\u30b9\u30ef\u30f3 Ekkusuwan), sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.\r\n\r\nDespite the fact that the Computer Division of Sharp Corporation had released the MZ series, suddenly the Television Division released a new computer series called the X1. At the time the original X1 was released, all other home computers generally had a BASIC language in ROM. However the X1 did not have a BASIC ROM, and it had to load the Hu-BASIC interpreter from a cassette tape. On the plus side however, this concept meant that a free RAM area was available that was as big as possible when not using BASIC. This policy was originally copied from the Sharp MZ series, and they were called clean computers in Japan. The cabinet shape of X1 was also much more stylish than others at that time and a range of cabinet colors (including Red) was selectable.\r\n\r\nThe RGB display monitor for the X1 had a television tuner, and a computer screen could be super-imposed on TV. All the TV functions could be controlled from a computer program. The character font was completely programmable (A.K.A. PCG) with 4bit color, and it was effectively used into a lot of games. The entirety of the VRAM memory was mapped on to the I\/O area, so it was controlled without bank change. Since X1 had these features, it was very powerful for game software.\r\n\r\nWhile X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popular in the Japanese market. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, while X1 had 640x200). It had a lot of improvements, but the clock speed was still only 4 MHz. In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was finally released as the last machine of the X1 series in 1987. Then this series was succeeded by the X68000 series.\r\n\r\nSharp continues to sell desktop PC\/TV combos in Japan through its Internet Aquos line, where an X1-style red color scheme is available."
+        "overview": "The X1 (\u30a8\u30c3\u30af\u30b9\u30ef\u30f3 Ekkusuwan), sometimes called the Sharp X1, is a series of home computers released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.\r\n\r\nDespite the fact that the Computer Division of Sharp Corporation had released the MZ series, suddenly the Television Division released a new computer series called the X1. At the time the original X1 was released, all other home computers generally had a BASIC language in ROM. However the X1 did not have a BASIC ROM, and it had to load the Hu-BASIC interpreter from a cassette tape. On the plus side however, this concept meant that a free RAM area was available that was as big as possible when not using BASIC. This policy was originally copied from the Sharp MZ series, and they were called clean computers in Japan. The cabinet shape of X1 was also much more stylish than others at that time and a range of cabinet colors (including Red) was selectable.\r\n\r\nThe RGB display monitor for the X1 had a television tuner, and a computer screen could be super-imposed on TV. All the TV functions could be controlled from a computer program. The character font was completely programmable (A.K.A. PCG) with 4bit color, and it was effectively used into a lot of games. The entirety of the VRAM memory was mapped on to the I\/O area, so it was controlled without bank change. Since X1 had these features, it was very powerful for game software.\r\n\r\nWhile X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popular in the Japanese market. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, while X1 had 640x200). It had a lot of improvements, but the clock speed was still only 4 MHz. In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was finally released as the last machine of the X1 series in 1987. Then this series was succeeded by the X68000 series.\r\n\r\nSharp continues to sell desktop PC\/TV combos in Japan through its Internet Aquos line, where an X1-style red color scheme is available.",
+        "local": [
+            "Sharp X1"
+        ]
     },
     "Fujitsu FM-7": {
         "id": 4978,
@@ -1586,7 +1793,10 @@
         "sound": "3-channel (AY-3-8910) PSG chip",
         "maxcontrollers": "1",
         "display": "640\u00d7200, 8 colors OR 320\u00d7200, 262144 colors",
-        "overview": "The FM-7 (\"Fujitsu Micro 7\") is a home computer created by Fujitsu, first released in 1982, only sold in Japan. It is a stripped down version of their earlier FM-8; during development, the FM-7 was known as the \"FM-8 Jr.\".\r\n\r\nAlthough it is known as a lower cost model, most notably removing its (expensive) bubble memory technology, the FM-7 was given a more advanced sound synthesizer, leading to a strong uptake among the hobbyist computer market in Japan and making it a more dominant system than the FM-8.\r\n\r\nThis model competed primarily with the NEC PC-8801 and Sharp X1 series of computers in the early 1980s. It was succeeded by the FM-77 series in 1984 (which were backwards compatible with the FM-7), and later the 32-bit FM Towns in 1989.\r\n\r\nThe FM-7 is 6809-based, similar to the TRS-80 Color Computer by Radio Shack; some software is compatible with both systems."
+        "overview": "The FM-7 (\"Fujitsu Micro 7\") is a home computer created by Fujitsu, first released in 1982, only sold in Japan. It is a stripped down version of their earlier FM-8; during development, the FM-7 was known as the \"FM-8 Jr.\".\r\n\r\nAlthough it is known as a lower cost model, most notably removing its (expensive) bubble memory technology, the FM-7 was given a more advanced sound synthesizer, leading to a strong uptake among the hobbyist computer market in Japan and making it a more dominant system than the FM-8.\r\n\r\nThis model competed primarily with the NEC PC-8801 and Sharp X1 series of computers in the early 1980s. It was succeeded by the FM-77 series in 1984 (which were backwards compatible with the FM-7), and later the 32-bit FM Towns in 1989.\r\n\r\nThe FM-7 is 6809-based, similar to the TRS-80 Color Computer by Radio Shack; some software is compatible with both systems.",
+        "local": [
+            "Fujitsu FM-7"
+        ]
     },
     "Miles Gordon Technology SAM Coup\u00e9": {
         "id": 4979,
@@ -1601,7 +1811,10 @@
         "graphics": "128 colour maximum",
         "sound": "MIDI",
         "display": "256\u00d7192",
-        "overview": "The SAM Coup\u00e9 (pronounced \/s\u00e6m ku:pe\u026a\/ from its original British English branding) is an 8-bit British home computer that was first released in late 1989. It is commonly considered a clone of the Sinclair ZX Spectrum computer, since it features a compatible screen mode and emulated compatibility, and it was marketed as a logical upgrade from the Spectrum. It was originally manufactured by Miles Gordon Technology (MGT), based in Swansea in the United Kingdom."
+        "overview": "The SAM Coup\u00e9 (pronounced \/s\u00e6m ku:pe\u026a\/ from its original British English branding) is an 8-bit British home computer that was first released in late 1989. It is commonly considered a clone of the Sinclair ZX Spectrum computer, since it features a compatible screen mode and emulated compatibility, and it was marketed as a logical upgrade from the Spectrum. It was originally manufactured by Miles Gordon Technology (MGT), based in Swansea in the United Kingdom.",
+        "local": [
+            "MGT Sam Coupe"
+        ]
     },
     "Sony Playstation 5": {
         "id": 4980,
@@ -1616,7 +1829,10 @@
         "memory": "Unconfirmed",
         "graphics": "AMD Navi GPU",
         "overview": "The Playstation 5 is the successor to Sony&#039;s Playstation 4 console. Following the PlayStation 4 the PS5 be the second in the Sony series to feature compatibility with the x86 architecture.\r\nExpected Launch Q4 2020",
-        "youtube": "E429XW4isFs"
+        "youtube": "E429XW4isFs",
+        "local": [
+            "Sony Playstation 5"
+        ]
     },
     "Microsoft Xbox Series X": {
         "id": 4981,
@@ -1633,7 +1849,10 @@
         "sound": "",
         "display": "HDMI",
         "overview": "The Xbox Series X is an upcoming home video game console developed by Microsoft. It was announced during E3 2019 as \"Project Scarlett\" and scheduled for release in late 2020.\r\n\r\nMicrosoft will also be releasing a digital only version called Xbox Series S, with different specs:\r\nCPU: 8-core AMD Zen 2 CPU @ 3.6GHz (3.4GHz with SMT enabled)\r\nGPU: AMD RDNA 2 GPU, 20 compute units @ 1.565GHz\r\nGPU power: 4 TFLOPS\r\nRAM: 10GB GDDR6",
-        "youtube": "0tUqIHwHDEc"
+        "youtube": "0tUqIHwHDEc",
+        "local": [
+            "Microsoft Xbox Series X"
+        ]
     },
     "Tandy Visual Interactive System": {
         "id": 4982,
@@ -1650,7 +1869,10 @@
         "sound": "Yamaha",
         "maxcontrollers": "",
         "display": "",
-        "overview": "Tandy Memorex Visual Interactive System (VIS) is an interactive, multimedia CD-ROM player produced by the Tandy Corporation starting in 1992. It is similar in function to the Philips CD-i and Commodore CDTV systems (particularly the CDTV, since both the VIS and CDTV were adaptations of existing computer platforms and operating systems to the set-top-box design). The VIS systems were sold only at Radio Shack, under the Memorex brand, both of which Tandy owned at the time."
+        "overview": "Tandy Memorex Visual Interactive System (VIS) is an interactive, multimedia CD-ROM player produced by the Tandy Corporation starting in 1992. It is similar in function to the Philips CD-i and Commodore CDTV systems (particularly the CDTV, since both the VIS and CDTV were adaptations of existing computer platforms and operating systems to the set-top-box design). The VIS systems were sold only at Radio Shack, under the Memorex brand, both of which Tandy owned at the time.",
+        "local": [
+            "Tandy Radio Shack Visual Interactive System"
+        ]
     },
     "Tiger Electronics R-Zone": {
         "id": 4983,
@@ -1665,7 +1887,10 @@
         "sound": "",
         "maxcontrollers": "1",
         "display": "",
-        "overview": "Hardware Variants:\r\nR-Zone Headgear, R-Zone Super Screen, \"X.P.G. Xtreme Pocket Game\" & The R-Zone DataZone"
+        "overview": "Hardware Variants:\r\nR-Zone Headgear, R-Zone Super Screen, \"X.P.G. Xtreme Pocket Game\" & The R-Zone DataZone",
+        "local": [
+            "Tiger Electronics R-Zone"
+        ]
     },
     "SSD Company Limited Xavix Port": {
         "id": 4984,

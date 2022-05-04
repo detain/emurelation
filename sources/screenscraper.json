@@ -21,7 +21,10 @@
         "name": "Genesis",
         "company": "SEGA",
         "date_start": "1988",
-        "date_end": "1998"
+        "date_end": "1998",
+        "local": [
+            "Sega Genesis"
+        ]
     },
     "SEGA Master System": {
         "id": 2,
@@ -69,7 +72,11 @@
         "name": "NES",
         "company": "Nintendo",
         "date_start": "1983",
-        "date_end": "1995"
+        "date_end": "1995",
+        "local": [
+            "Nintendo Entertainment System",
+            "Nintendo Famicom"
+        ]
     },
     "Nintendo Super Nintendo": {
         "id": 4,
@@ -185,7 +192,10 @@
         "name": "Game Boy",
         "company": "Nintendo",
         "date_start": "1989",
-        "date_end": "2003"
+        "date_end": "2003",
+        "local": [
+            "Nintendo Game Boy"
+        ]
     },
     "Nintendo Game Boy Color": {
         "id": 10,
@@ -210,7 +220,10 @@
         "name": "Game Boy Color",
         "company": "Nintendo",
         "date_start": "1998",
-        "date_end": "2003"
+        "date_end": "2003",
+        "local": [
+            "Nintendo Game Boy Color"
+        ]
     },
     "Nintendo Virtual Boy": {
         "id": 11,
@@ -232,7 +245,10 @@
         "name": "Virtual Boy",
         "company": "Nintendo",
         "date_start": "1995",
-        "date_end": "1996"
+        "date_end": "1996",
+        "local": [
+            "Nintendo Virtual Boy"
+        ]
     },
     "Nintendo Game Boy Advance": {
         "id": 12,
@@ -256,7 +272,10 @@
         "name": "Game Boy Advance",
         "company": "Nintendo",
         "date_start": "2001",
-        "date_end": "2008"
+        "date_end": "2008",
+        "local": [
+            "Nintendo Game Boy Advance"
+        ]
     },
     "Nintendo Gamecube": {
         "id": 13,
@@ -299,7 +318,10 @@
         "name": "Nintendo 64",
         "company": "Nintendo",
         "date_start": "1996",
-        "date_end": "2002"
+        "date_end": "2002",
+        "local": [
+            "Nintendo 64"
+        ]
     },
     "Nintendo Nintendo DS": {
         "id": 15,
@@ -323,7 +345,11 @@
         "name": "Nintendo DS",
         "company": "Nintendo",
         "date_start": "2004",
-        "date_end": "2013"
+        "date_end": "2013",
+        "local": [
+            "Nintendo DS",
+            "Nintendo DSi"
+        ]
     },
     "Nintendo Wii": {
         "id": 16,
@@ -343,7 +369,10 @@
         "name": "Wii",
         "company": "Nintendo",
         "date_start": "2006",
-        "date_end": "2013"
+        "date_end": "2013",
+        "local": [
+            "Nintendo Wii"
+        ]
     },
     "Nintendo Nintendo 3DS": {
         "id": 17,
@@ -361,7 +390,10 @@
         "name": "Nintendo 3DS",
         "company": "Nintendo",
         "date_start": "2011",
-        "date_end": "2020"
+        "date_end": "2020",
+        "local": [
+            "Nintendo 3DS"
+        ]
     },
     "Nintendo Wii U": {
         "id": 18,
@@ -379,7 +411,10 @@
         "name": "Wii U",
         "company": "Nintendo",
         "date_start": "2012",
-        "date_end": "2017"
+        "date_end": "2017",
+        "local": [
+            "Nintendo Wii U"
+        ]
     },
     "SEGA Sega 32X": {
         "id": 19,
@@ -428,7 +463,10 @@
         "name": "Sega CD",
         "company": "SEGA",
         "date_start": "1991",
-        "date_end": "1996"
+        "date_end": "1996",
+        "local": [
+            "Sega CD"
+        ]
     },
     "SEGA Game Gear": {
         "id": 21,
@@ -450,7 +488,10 @@
         "name": "Game Gear",
         "company": "SEGA",
         "date_start": "1990",
-        "date_end": "1997"
+        "date_end": "1997",
+        "local": [
+            "Sega Game Gear"
+        ]
     },
     "SEGA Saturn": {
         "id": 22,
@@ -470,7 +511,10 @@
         "name": "Saturn",
         "company": "SEGA",
         "date_start": "1994",
-        "date_end": "2000"
+        "date_end": "2000",
+        "local": [
+            "Sega Saturn"
+        ]
     },
     "SEGA Dreamcast": {
         "id": 23,
@@ -492,7 +536,10 @@
         "name": "Dreamcast",
         "company": "SEGA",
         "date_start": "1998",
-        "date_end": "2004"
+        "date_end": "2004",
+        "local": [
+            "Sega Dreamcast"
+        ]
     },
     "SNK Neo-Geo Pocket": {
         "id": 25,
@@ -556,7 +603,10 @@
         "name": "Jaguar",
         "company": "Atari",
         "date_start": "1993",
-        "date_end": "1996"
+        "date_end": "1996",
+        "local": [
+            "Atari Jaguar"
+        ]
     },
     "Atari Lynx": {
         "id": 28,
@@ -576,7 +626,10 @@
         "name": "Lynx",
         "company": "Atari",
         "date_start": "1989",
-        "date_end": "1995"
+        "date_end": "1995",
+        "local": [
+            "Atari Lynx"
+        ]
     },
     "Panasonic 3DO": {
         "id": 29,
@@ -598,7 +651,10 @@
         "name": "3DO",
         "company": "Panasonic",
         "date_start": "1993",
-        "date_end": "1995"
+        "date_end": "1995",
+        "local": [
+            "Panasonic 3DO Interactive Multiplayer"
+        ]
     },
     "Nokia N-Gage": {
         "id": 30,
@@ -615,7 +671,10 @@
         "name": "N-Gage",
         "company": "Nokia",
         "date_start": "2003",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Nokia N-Gage"
+        ]
     },
     "TurboGrafx-16": {
         "id": 31,
@@ -655,7 +714,10 @@
         "name": "Xbox",
         "company": "Microsoft",
         "date_start": "2001",
-        "date_end": "2008"
+        "date_end": "2008",
+        "local": [
+            "Microsoft Xbox"
+        ]
     },
     "Microsoft Xbox 360": {
         "id": 33,
@@ -672,7 +734,10 @@
         "name": "Xbox 360",
         "company": "Microsoft",
         "date_start": "2005",
-        "date_end": "2016"
+        "date_end": "2016",
+        "local": [
+            "Microsoft Xbox 360"
+        ]
     },
     "Microsoft Xbox One": {
         "id": 34,
@@ -688,7 +753,10 @@
         "name_launchbox": "Microsoft Xbox One",
         "name": "Xbox One",
         "company": "Microsoft",
-        "date_start": "2013"
+        "date_start": "2013",
+        "local": [
+            "Microsoft Xbox One"
+        ]
     },
     "Atom": {
         "id": 36,
@@ -726,7 +794,10 @@
         "name_launchbox": "BBC Microcomputer System",
         "name": "BBC Micro",
         "date_start": "1981",
-        "date_end": "1994"
+        "date_end": "1994",
+        "local": [
+            "Acorn BBC Micro"
+        ]
     },
     "Atari Atari 2600 Supercharger": {
         "id": 39,
@@ -766,7 +837,10 @@
         "name": "Atari 5200",
         "company": "Atari",
         "date_start": "1982",
-        "date_end": "1984"
+        "date_end": "1984",
+        "local": [
+            "Atari 5200"
+        ]
     },
     "Atari Atari 7800": {
         "id": 41,
@@ -787,7 +861,10 @@
         "name": "Atari 7800",
         "company": "Atari",
         "date_start": "1986",
-        "date_end": "1992"
+        "date_end": "1992",
+        "local": [
+            "Atari 7800"
+        ]
     },
     "Atari Atari ST": {
         "id": 42,
@@ -811,7 +888,10 @@
         "name": "Atari ST",
         "company": "Atari",
         "date_start": "1985",
-        "date_end": "1993"
+        "date_end": "1993",
+        "local": [
+            "Atari ST"
+        ]
     },
     "Atari Atari 8bit": {
         "id": 43,
@@ -847,7 +927,12 @@
         "name": "Atari 8bit",
         "company": "Atari",
         "date_start": "1985",
-        "date_end": "1992"
+        "date_end": "1992",
+        "local": [
+            "Atari 400",
+            "Atari 800",
+            "Atari XEGS"
+        ]
     },
     "Astrocade": {
         "id": 44,
@@ -886,7 +971,10 @@
         "name_launchbox": "WonderSwan",
         "name": "WonderSwan",
         "date_start": "1999",
-        "date_end": "2003"
+        "date_end": "2003",
+        "local": [
+            "Bandai WonderSwan"
+        ]
     },
     "WonderSwan Color": {
         "id": 46,
@@ -908,7 +996,10 @@
         "name_launchbox": "WonderSwan Color",
         "name": "WonderSwan Color",
         "date_start": "2000",
-        "date_end": "2003"
+        "date_end": "2003",
+        "local": [
+            "Bandai WonderSwan Color"
+        ]
     },
     "Cave": {
         "id": 47,
@@ -1008,7 +1099,10 @@
         "name": "Game & Watch",
         "company": "Nintendo",
         "date_start": "1980",
-        "date_end": "1991"
+        "date_end": "1991",
+        "local": [
+            "Nintendo Game & Watch"
+        ]
     },
     "Atomiswave": {
         "id": 53,
@@ -1028,7 +1122,10 @@
         "name_launchbox": "Sammy Atomiswave",
         "name": "Atomiswave",
         "date_start": "2003",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Sammy Atomiswave"
+        ]
     },
     "SEGA Model 2": {
         "id": 54,
@@ -1051,7 +1148,10 @@
         "name": "Model 2",
         "company": "SEGA",
         "date_start": "1993",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Sega Model 2"
+        ]
     },
     "SEGA Model 3": {
         "id": 55,
@@ -1074,7 +1174,10 @@
         "name": "Model 3",
         "company": "SEGA",
         "date_start": "1996",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Sega Model 3"
+        ]
     },
     "SEGA Naomi": {
         "id": 56,
@@ -1095,7 +1198,10 @@
         "name": "Naomi",
         "company": "SEGA",
         "date_start": "1998",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Sega Naomi"
+        ]
     },
     "Sony Playstation": {
         "id": 57,
@@ -1119,7 +1225,10 @@
         "name": "Playstation",
         "company": "Sony",
         "date_start": "1994",
-        "date_end": "2006"
+        "date_end": "2006",
+        "local": [
+            "Sony Playstation"
+        ]
     },
     "Sony Playstation 2": {
         "id": 58,
@@ -1143,7 +1252,10 @@
         "name": "Playstation 2",
         "company": "Sony",
         "date_start": "2000",
-        "date_end": "2013"
+        "date_end": "2013",
+        "local": [
+            "Sony Playstation 2"
+        ]
     },
     "Sony Playstation 3": {
         "id": 59,
@@ -1164,7 +1276,10 @@
         "name": "Playstation 3",
         "company": "Sony",
         "date_start": "2006",
-        "date_end": "2017"
+        "date_end": "2017",
+        "local": [
+            "Sony Playstation 3"
+        ]
     },
     "Sony PSP": {
         "id": 61,
@@ -1188,7 +1303,10 @@
         "name": "PSP",
         "company": "Sony",
         "date_start": "2004",
-        "date_end": "2014"
+        "date_end": "2014",
+        "local": [
+            "Sony Playstation Portable"
+        ]
     },
     "Sony PS Vita": {
         "id": 62,
@@ -1209,7 +1327,10 @@
         "name": "PS Vita",
         "company": "Sony",
         "date_start": "2011",
-        "date_end": "2019"
+        "date_end": "2019",
+        "local": [
+            "Sony Playstation Vita"
+        ]
     },
     "Android": {
         "id": 63,
@@ -1275,7 +1396,12 @@
         "name": "Amiga",
         "company": "Commodore",
         "date_start": "1985",
-        "date_end": "1994"
+        "date_end": "1994",
+        "local": [
+            "Commodore Amiga",
+            "Commodore Amiga 1000",
+            "Commodore Amiga 3000"
+        ]
     },
     "Amstrad CPC": {
         "id": 65,
@@ -1317,7 +1443,10 @@
         "name": "CPC",
         "company": "Amstrad",
         "date_start": "1983",
-        "date_end": "1990"
+        "date_end": "1990",
+        "local": [
+            "Amstrad CPC"
+        ]
     },
     "Commodore Commodore 64": {
         "id": 66,
@@ -1337,7 +1466,10 @@
         "name": "Commodore 64",
         "company": "Commodore",
         "date_start": "1984",
-        "date_end": "1994"
+        "date_end": "1994",
+        "local": [
+            "Commodore 64"
+        ]
     },
     "Epoch Super Cassette Vision": {
         "id": 67,
@@ -1357,7 +1489,10 @@
         "name": "Super Cassette Vision",
         "company": "Epoch",
         "date_start": "1984",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Epoch Super Cassette Vision"
+        ]
     },
     "SNK Neo-Geo MVS": {
         "id": 68,
@@ -1397,7 +1532,10 @@
         "name": "Sega ST-V",
         "company": "SEGA",
         "date_start": "1994",
-        "date_end": "2001"
+        "date_end": "2001",
+        "local": [
+            "Sega ST-V"
+        ]
     },
     "SNK Neo-Geo CD": {
         "id": 70,
@@ -1437,7 +1575,10 @@
         "name_launchbox": "NEC PC-FX",
         "name": "PC-FX",
         "date_start": "1994",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "NEC PC-FX"
+        ]
     },
     "Commodore Vic-20": {
         "id": 73,
@@ -1475,7 +1616,10 @@
         "name": "PV-1000",
         "company": "Casio",
         "date_start": "1983",
-        "date_end": "1983"
+        "date_end": "1983",
+        "local": [
+            "Casio PV-1000"
+        ]
     },
     "Mame": {
         "id": 75,
@@ -1540,7 +1684,10 @@
         "name": "ZX81",
         "company": "Sinclair",
         "date_start": "1981",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Sinclair ZX-81"
+        ]
     },
     "Entex Industries, Inc Adventure Vision": {
         "id": 78,
@@ -1557,7 +1704,10 @@
         "name": "Adventure Vision",
         "company": "Entex Industries, Inc",
         "date_start": "1982",
-        "date_end": "1983"
+        "date_end": "1983",
+        "local": [
+            "Entex Adventure Vision"
+        ]
     },
     "Sharp Sharp X68000": {
         "id": 79,
@@ -1579,7 +1729,10 @@
         "name": "Sharp X68000",
         "company": "Sharp",
         "date_start": "1987",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Sharp X68000"
+        ]
     },
     "Channel F": {
         "id": 80,
@@ -1602,7 +1755,10 @@
         "name_launchbox": "Fairchild Channel F",
         "name": "Channel F",
         "date_start": "1976",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Fairchild Channel F"
+        ]
     },
     "Action Max": {
         "id": 81,
@@ -1621,7 +1777,10 @@
         "name_launchbox": "WoW Action Max",
         "name": "Action Max",
         "date_start": "1987",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "WoW Action Max"
+        ]
     },
     "SNK Neo-Geo Pocket Color": {
         "id": 82,
@@ -1678,7 +1837,10 @@
         "name_launchbox": "Acorn Archimedes",
         "name": "Archimedes",
         "date_start": "1987",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Acorn Archimedes"
+        ]
     },
     "Electron": {
         "id": 85,
@@ -1694,7 +1856,10 @@
         "name_hyperspin": "Acorn Electron",
         "name_launchbox": "Acorn Electron",
         "name": "Electron",
-        "date_start": "1983"
+        "date_start": "1983",
+        "local": [
+            "Acorn Electron"
+        ]
     },
     "Apple Apple II": {
         "id": 86,
@@ -1730,7 +1895,12 @@
         "name": "Apple II",
         "company": "Apple",
         "date_start": "1977",
-        "date_end": "1981"
+        "date_end": "1981",
+        "local": [
+            "Apple 1",
+            "Apple II",
+            "Apple III"
+        ]
     },
     "Amstrad GX4000": {
         "id": 87,
@@ -1749,7 +1919,10 @@
         "name": "GX4000",
         "company": "Amstrad",
         "date_start": "1990",
-        "date_end": "1991"
+        "date_end": "1991",
+        "local": [
+            "Amstrad GX4000"
+        ]
     },
     "Camputers Lynx": {
         "id": 88,
@@ -1771,7 +1944,10 @@
         "name_launchbox": "Camputers Lynx",
         "name": "Camputers Lynx",
         "date_start": "1983",
-        "date_end": "1984"
+        "date_end": "1984",
+        "local": [
+            "Camputers Lynx"
+        ]
     },
     "Adam": {
         "id": 89,
@@ -1873,7 +2049,10 @@
         "name": "BK",
         "company": "Elektronika",
         "date_start": "1984",
-        "date_end": "1993"
+        "date_end": "1993",
+        "local": [
+            "Elektronika BK"
+        ]
     },
     "Arcadia 2001": {
         "id": 94,
@@ -1942,7 +2121,10 @@
         "name": "Game Pocket Computer",
         "company": "Epoch",
         "date_start": "1984",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Epoch Game Pocket Computer"
+        ]
     },
     "EXL 100": {
         "id": 96,
@@ -1959,7 +2141,10 @@
         "name_launchbox": "Exelvision EXL 100",
         "name": "EXL 100",
         "date_start": "1984",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Exelvision EXL 100"
+        ]
     },
     "Fujitsu FM-7": {
         "id": 97,
@@ -1982,7 +2167,10 @@
         "name": "FM-7",
         "company": "Fujitsu",
         "date_start": "1982",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Fujitsu FM-7"
+        ]
     },
     "Casio Loopy": {
         "id": 98,
@@ -2000,7 +2188,10 @@
         "name": "Loopy",
         "company": "Casio",
         "date_start": "1995",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Casio Loopy"
+        ]
     },
     "Commodore Plus\/4": {
         "id": 99,
@@ -2039,7 +2230,10 @@
         "name_launchbox": "Funtech Super Acan",
         "name": "Super A'can",
         "date_start": "1995",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Funtech Super A'Can"
+        ]
     },
     "GP32": {
         "id": 101,
@@ -2074,7 +2268,10 @@
         "name_launchbox": "GCE Vectrex",
         "name": "Vectrex",
         "date_start": "1982",
-        "date_end": "1984"
+        "date_end": "1984",
+        "local": [
+            "GCE Vectrex"
+        ]
     },
     "Game Master": {
         "id": 103,
@@ -2093,7 +2290,10 @@
         "name_launchbox": "Hartung Game Master",
         "name": "Game Master",
         "date_start": "1990",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Hartung Game Master"
+        ]
     },
     "Philips Magnavox Odyssey\u00b2": {
         "id": 104,
@@ -2201,7 +2401,10 @@
         "name_launchbox": "PC Engine SuperGrafx",
         "name": "PC Engine SuperGrafx",
         "date_start": "1989",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "NEC PC Engine SuperGrafx"
+        ]
     },
     "Nintendo Family Computer Disk System": {
         "id": 106,
@@ -2260,7 +2463,10 @@
         "name": "Satellaview",
         "company": "Nintendo",
         "date_start": "1995",
-        "date_end": "2000"
+        "date_end": "2000",
+        "local": [
+            "Nintendo Satellaview"
+        ]
     },
     "Sufami Turbo": {
         "id": 108,
@@ -2303,7 +2509,11 @@
         "name": "SG-1000",
         "company": "SEGA",
         "date_start": "1983",
-        "date_end": "1985"
+        "date_end": "1985",
+        "local": [
+            "Sega Game 1000",
+            "Sega SG-1000"
+        ]
     },
     "Nintendo Power": {
         "id": 110,
@@ -2360,7 +2570,10 @@
         "name_launchbox": "Taito Type X",
         "name": "Type X",
         "company": "Taito",
-        "date_start": "2004"
+        "date_start": "2004",
+        "local": [
+            "Taito Type X"
+        ]
     },
     "Microsoft MSX": {
         "id": 113,
@@ -2381,7 +2594,10 @@
         "name_launchbox": "Microsoft MSX",
         "name": "MSX",
         "company": "Microsoft",
-        "date_start": "1980"
+        "date_start": "1980",
+        "local": [
+            "Microsoft MSX"
+        ]
     },
     "PC Engine CD-Rom": {
         "id": 114,
@@ -2432,7 +2648,10 @@
         "name_launchbox": "Mattel Intellivision",
         "name": "Intellivision",
         "date_start": "1979",
-        "date_end": "1984"
+        "date_end": "1984",
+        "local": [
+            "Mattel Intellivision"
+        ]
     },
     "Microsoft MSX2": {
         "id": 116,
@@ -2452,7 +2671,10 @@
         "name_launchbox": "Microsoft MSX2",
         "name": "MSX2",
         "company": "Microsoft",
-        "date_start": "1985"
+        "date_start": "1985",
+        "local": [
+            "Microsoft MSX2"
+        ]
     },
     "Microsoft MSX2+": {
         "id": 117,
@@ -2475,7 +2697,10 @@
         "name_launchbox": "Microsoft MSX2+",
         "name": "MSX2+",
         "company": "Microsoft",
-        "date_start": "1988"
+        "date_start": "1988",
+        "local": [
+            "Microsoft MSX2+"
+        ]
     },
     "Microsoft MSX Turbo R": {
         "id": 118,
@@ -2516,7 +2741,10 @@
         "name": "GBA e-Reader",
         "company": "Nintendo",
         "date_start": "2001",
-        "date_end": "2002"
+        "date_end": "2002",
+        "local": [
+            "Nintendo e-Reader"
+        ]
     },
     "VTech V.Smile": {
         "id": 120,
@@ -2532,7 +2760,10 @@
         "name": "V.Smile",
         "company": "VTech",
         "date_start": "2004",
-        "date_end": "2010"
+        "date_end": "2010",
+        "local": [
+            "VTech V.Smile"
+        ]
     },
     "Game.com": {
         "id": 121,
@@ -2699,7 +2930,10 @@
         "name": "Amiga CDTV",
         "company": "Commodore",
         "date_start": "1991",
-        "date_end": "1994"
+        "date_end": "1994",
+        "local": [
+            "Commodore Amiga CDTV"
+        ]
     },
     "Commodore Amiga CD32": {
         "id": 130,
@@ -2719,7 +2953,10 @@
         "name": "Amiga CD32",
         "company": "Commodore",
         "date_start": "1993",
-        "date_end": "1994"
+        "date_end": "1994",
+        "local": [
+            "Commodore Amiga CD32"
+        ]
     },
     "Oric 1 \/ Atmos": {
         "id": 131,
@@ -2785,7 +3022,10 @@
         "name_retropie": "amiga",
         "name_hyperspin": "Commodore Amiga CD32",
         "name": "Amiga CD",
-        "company": "Commodore"
+        "company": "Commodore",
+        "local": [
+            "Commodore Amiga CD"
+        ]
     },
     "Microsoft PC Dos": {
         "id": 135,
@@ -2813,7 +3053,10 @@
         "name_launchbox": "MS-DOS",
         "name": "PC Dos",
         "company": "Microsoft",
-        "date_start": "1981"
+        "date_start": "1981",
+        "local": [
+            "Microsoft MS-DOS"
+        ]
     },
     "Microsoft PC Win3.xx": {
         "id": 136,
@@ -2912,7 +3155,10 @@
         "name_launchbox": "Windows",
         "name": "PC Windows",
         "company": "Microsoft",
-        "date_start": "2000"
+        "date_start": "2000",
+        "local": [
+            "Microsoft Windows"
+        ]
     },
     "Commodore Amiga CD32 (hack)": {
         "id": 139,
@@ -2971,7 +3217,14 @@
         "name_launchbox": "Thomson TO7,Thomson MO5",
         "name": "Thomson MO\/TO",
         "date_start": "1982",
-        "date_end": "1986"
+        "date_end": "1986",
+        "local": [
+            "Thomson MO5",
+            "Thomson MO6",
+            "Thomson TO7",
+            "Thomson TO7-70",
+            "Thomson TO8"
+        ]
     },
     "SNK Neo-Geo": {
         "id": 142,
@@ -3251,7 +3504,10 @@
         "name_hyperspin": "Namco System 22",
         "name_launchbox": "Namco System 22",
         "name": "Namco System 22",
-        "company": "Namco"
+        "company": "Namco",
+        "local": [
+            "Namco System 22"
+        ]
     },
     "Taito Taito Classics": {
         "id": 157,
@@ -3510,7 +3766,10 @@
         "name": "Jaguar CD",
         "company": "Atari",
         "date_start": "1995",
-        "date_end": "1996"
+        "date_end": "1996",
+        "local": [
+            "Atari Jaguar CD"
+        ]
     },
     "Sony Playstation minis": {
         "id": 172,
@@ -4078,7 +4337,10 @@
         "name_launchbox": "Watara Supervision",
         "name": "Watara Supervision",
         "company": "Watara",
-        "date_start": "1992"
+        "date_start": "1992",
+        "local": [
+            "Watara Supervision"
+        ]
     },
     "NEC PC-9801": {
         "id": 208,
@@ -4094,7 +4356,10 @@
         "name_recalbox": "pc98",
         "name_retropie": "Pc98",
         "name": "NEC PC-9801",
-        "date_start": "1982"
+        "date_start": "1982",
+        "local": [
+            "NEC PC-9801"
+        ]
     },
     "Gottlieb Gottlieb": {
         "id": 209,
@@ -4228,7 +4493,10 @@
         "name": "Apple IIGS",
         "company": "Apple",
         "date_start": "1986",
-        "date_end": "1992"
+        "date_end": "1992",
+        "local": [
+            "Apple IIGS"
+        ]
     },
     "Spectravideo": {
         "id": 218,
@@ -4281,7 +4549,10 @@
         "name": "Sharp X1",
         "company": "Sharp",
         "date_start": "1982",
-        "date_end": "1988"
+        "date_end": "1988",
+        "local": [
+            "Sharp X1"
+        ]
     },
     "NEC PC-8801": {
         "id": 221,
@@ -4293,7 +4564,10 @@
         "name_recalbox": "pc88",
         "name_retropie": "pc88",
         "name": "NEC PC-8801",
-        "date_start": "1981"
+        "date_start": "1981",
+        "local": [
+            "NEC PC-8801"
+        ]
     },
     "TIC-80": {
         "id": 222,
@@ -4327,7 +4601,10 @@
         "name_launchbox": "Nintendo Switch",
         "name": "Switch",
         "company": "Nintendo",
-        "date_start": "2017"
+        "date_start": "2017",
+        "local": [
+            "Nintendo Switch"
+        ]
     },
     "SEGA Naomi GD-ROM": {
         "id": 227,
@@ -4366,7 +4643,10 @@
         "name": "Naomi 2",
         "company": "SEGA",
         "date_start": "2000",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Sega Naomi 2"
+        ]
     },
     "EasyRPG": {
         "id": 231,
@@ -4404,7 +4684,10 @@
         "name": "Pocket Challenge V2",
         "company": "Benesse",
         "date_start": "2001",
-        "date_end": "2002"
+        "date_end": "2002",
+        "local": [
+            "Benesse Pocket Challenge V2"
+        ]
     },
     "Commodore PET": {
         "id": 240,
@@ -4417,7 +4700,10 @@
         "name": "PET",
         "company": "Commodore",
         "date_start": "1977",
-        "date_end": "1982"
+        "date_end": "1982",
+        "local": [
+            "Commodore PET"
+        ]
     },
     "VTech CreatiVision": {
         "id": 241,
@@ -4467,6 +4753,9 @@
         "name": "FM Towns",
         "company": "Fujitsu",
         "date_start": "1989",
-        "date_end": "1997"
+        "date_end": "1997",
+        "local": [
+            "Fujitsu FM Towns"
+        ]
     }
 }
