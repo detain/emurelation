@@ -1206,6 +1206,8 @@
                 "Microsoft Xbox 360",
                 "Microsoft Xbox One",
                 "Mobile Palm OS",
+                "Mobile Pocket PC",
+                "Mobile Symbian",
                 "NEC PC Engine - TurboGrafx 16",
                 "NEC PC Engine SuperGrafx",
                 "NEC PC-88",
@@ -1341,14 +1343,12 @@
                 "Sega 32X",
                 "Sega Mega CD",
                 "Sega CD",
-                "IBM PC floppy",
-                "IBM PC\/AT floppy",
+                "IBM PC",
                 "IBM PC\/AT",
                 "Standard MIDI",
                 "SGI MIPS\/IRIX",
                 "Commodore Amiga",
                 "Commodore Amiga OCS",
-                "Commodore Amiga demos",
                 "Commodore Amiga 1000",
                 "Commodore Amiga AGA",
                 "Commodore Amiga ECS",
@@ -1368,7 +1368,6 @@
                 "Luxor ABC 80",
                 "Luxor ABC 800",
                 "Luxor ABC 806",
-                "Apple II cleanly cracked",
                 "Apple II",
                 "Acorn System",
                 "Acorn 32016 Co-Processor",
@@ -1392,13 +1391,12 @@
                 "Ampro Little Z80 Board",
                 "Specialist",
                 "NEC Advanced Personal Computer",
-                "APEXC Cylinder images",
+                "APEXC Cylinder",
                 "APF M-1000",
                 "APF Imagination",
                 "Apogee BK-01",
                 "RCA Studio II \/ Victory MPT-02",
                 "Apple 1",
-                "Apple IIgs cleanly cracked",
                 "Apple IIgs",
                 "Apple III",
                 "Applix 1616",
@@ -1442,9 +1440,6 @@
                 "Commodore VIC-10 \/ Max Machine \/ UltiMax",
                 "C2 Color",
                 "Commodore 65",
-                "Fujitsu FM Towns original floppy",
-                "Fujitsu FM Towns cracked floppy",
-                "Fujitsu FM Towns miscellaneous floppy",
                 "Fujitsu FM Towns",
                 "Casio",
                 "Casio Loopy",
@@ -1484,7 +1479,7 @@
                 "DAI Personal Computer",
                 "Voltmace Database",
                 "Sega Dreamcast GD-ROMs",
-                "Takara e-kara (Japan) P-xx \/ PCxxxx- series",
+                "Takara e-kara (Japan) P-xx \/ PCxxxx-",
                 "Nintendo Entertainment System",
                 "Nintendo Entertainment System - Karaoke Studio expansion",
                 "Nintendo FamicomBox",
@@ -1500,23 +1495,23 @@
                 "Nintendo Famicom",
                 "IVL Technologies Easy Karaoke",
                 "EC 1841",
-                "Epson HX-20 Optional",
+                "Epson HX-20",
                 "Epson CPM systems",
                 "Tatung Einstein TC-01",
                 "Takara e-kara (US)",
                 "Takara e-kara (UK\/Europe, PAL)",
-                "Takara e-kara (Japan) ECxxxx- series",
-                "Takara e-kara (Japan) G-xx \/ GCxxxx- series",
-                "Takara e-kara (Japan) S-xx \/ SCxxxx- series",
-                "Takara e-kara (Japan) M-xx \/ MCxxxx- series",
-                "Takara e-kara (Japan) D-xx \/ DCxxxx- series",
-                "Takara e-kara (Japan) EN-xx series",
-                "Takara e-kara (Japan) SP-xx series",
+                "Takara e-kara (Japan) ECxxxx-",
+                "Takara e-kara (Japan) G-xx \/ GCxxxx-",
+                "Takara e-kara (Japan) S-xx \/ SCxxxx-",
+                "Takara e-kara (Japan) M-xx \/ MCxxxx-",
+                "Takara e-kara (Japan) D-xx \/ DCxxxx-",
+                "Takara e-kara (Japan) EN-xx",
+                "Takara e-kara (Japan) SP-xx",
                 "Takara e-kara (Japan) Web",
-                "Takara e-pitch \/ e-kara (Japan) A-x series",
-                "Takara e-kara (Japan) GK-xx series",
-                "Takara e-kara (Japan) BH-xx series",
-                "Takara e-kara (Japan) ACxxxx series",
+                "Takara e-pitch \/ e-kara (Japan) A-x",
+                "Takara e-kara (Japan) GK-xx",
+                "Takara e-kara (Japan) BH-xx",
+                "Takara e-kara (Japan) ACxxxx",
                 "Acorn Electron",
                 "Enterprise Sixty Four",
                 "ETI-660",
@@ -1529,6 +1524,7 @@
                 "Fidelity SCC",
                 "Dick Smith Electronics VZ-200\/300",
                 "Fujitsu FM-7",
+                "Fujitsu FM-8",
                 "Fujitsu FM-77AV",
                 "MSX Turbo-R",
                 "Fidelity SC6",
@@ -1565,7 +1561,6 @@
                 "HP-85",
                 "HP-86\/7",
                 "HP Integral PC",
-                "HP Integral PC optional",
                 "HP 9825B",
                 "HP 9835A\/B",
                 "HP 9845A\/S",
@@ -1577,7 +1572,6 @@
                 "Itautec I-7000",
                 "IBM PC 5140 Convertible",
                 "IBM PC\/XT",
-                "IBM PC",
                 "IBM Displaywriter",
                 "IBM PC Jr",
                 "IBM PCjr",
@@ -1593,7 +1587,7 @@
                 "Intergraph InterPro",
                 "VTech Genius IQ 128",
                 "IQ-151",
-                "Sharp Wizard series",
+                "Sharp Wizard",
                 "LeapFrog IQuest",
                 "VTech IQ Unlimited",
                 "ITT 3030",
@@ -1606,7 +1600,7 @@
                 "JAKKS Pacific 'MV' Game Keys",
                 "Panasonic JB-3000",
                 "Philips Videopac \/ Odyssey 2",
-                "Takara Jumping Popira (Japan) JP-xx series",
+                "Takara Jumping Popira (Japan) JP-xx",
                 "Mattel Juice Box",
                 "Juku E5101",
                 "Jupiter Cantab Jupiter Ace",
@@ -1638,7 +1632,7 @@
                 "Mikrosha",
                 "Macintosh 400K\/800K",
                 "Mac Harddisks",
-                "Macintosh High Density",
+                "Macintosh",
                 "Sanyo MBC-200\/MBC-1200",
                 "Sanyo MBC-550 and MBC-555",
                 "Microbee",
@@ -1686,7 +1680,7 @@
                 "RM Nimbus",
                 "NEC PC-8201(A)",
                 "NorthStar Horizon",
-                "LSI Octopus floppy",
+                "LSI Octopus",
                 "Sega SG-1000 and SG-1000 MarkII",
                 "Ondra & Ondra ViLi",
                 "PEL Varazdin Orao",
@@ -1716,7 +1710,7 @@
                 "Amstrad PCW",
                 "Amstrad PCW16",
                 "Siemens PC-X",
-                "PDP-1 Paper Tape Reader images",
+                "PDP-1 Paper Tape Reader",
                 "Pecom32",
                 "Technosys Aamber Pegasus",
                 "Hanimex Pencil II",
@@ -1727,7 +1721,7 @@
                 "Konami Picno",
                 "Sega Pico",
                 "Pippin",
-                "Tiger Playmaker playcards",
+                "Tiger Playmaker",
                 "Pocket Challenge W",
                 "Atari Portfolio",
                 "Poisk-1",
@@ -1753,9 +1747,9 @@
                 "Coleco Quiz Wiz",
                 "Epson QX-10",
                 "Roland R-8 PCM",
-                "ROLM CBX 9751 floppy",
+                "ROLM CBX 9751",
                 "DEC Rainbow 100",
-                "Roland TN-SC1 Music Style Cards",
+                "Roland TN-SC1",
                 "Rowtron Television Computer System",
                 "Gundam RX-78",
                 "Select-A-Game",
@@ -1833,7 +1827,7 @@
                 "Videoton TVC 64",
                 "Videoton TVC",
                 "Toyquest TV Go Go",
-                "TX-0 Paper Tape Reader images",
+                "TX-0 Paper Tape Reader",
                 "Unisonic Champion 2711",
                 "UT-88",
                 "Uzebox internal EPROMs",
@@ -1854,7 +1848,7 @@
                 "VTech V.Smile",
                 "VTech V.Smile Motion",
                 "VTech V.Smile Baby",
-                "VTech V.Flash\/V.Smile Pro V.Disc images",
+                "VTech V.Flash\/V.Smile Pro V.Disc",
                 "Wang PC",
                 "Waveterm A",
                 "Millennium Systems Wicat",
@@ -1872,15 +1866,15 @@
                 "LeapFrog Zippity",
                 "Telcon Zorba",
                 "Sinclair ZX80",
-                "Spectravision SVI-318\/328",
-                "Sinclair ZX Microdrive",
-                "Sinclair ZX Spectrum Opus Discovery",
-                "ZX Spectrum MGT DISCiPLE\/+D",
-                "Sinclair ZX Wafadrive",
-                "Casper 68000",
                 "Hybrid Music System",
-                "Acorn FileStore",
-                "Hitachi Basic Master Level 3"
+                "Casper 68000",
+                "Hitachi Basic Master Level 3",
+                "Sinclair ZX Microdrive",
+                "ZX Spectrum MGT DISCiPLE\/+D",
+                "Sinclair ZX Spectrum Opus Discovery",
+                "Sinclair ZX Wafadrive",
+                "Spectravision SVI-318\/328",
+                "Acorn FileStore"
             ]
         },
         "launchbox": {
@@ -5649,10 +5643,6 @@
                 "to": "Apple II"
             },
             {
-                "from": "Apple II",
-                "to": "Apple II cleanly cracked"
-            },
-            {
                 "from": "Apple III",
                 "to": "Apple III"
             },
@@ -6086,7 +6076,7 @@
             },
             {
                 "from": "Epson HX-20 Optional",
-                "to": "Epson HX-20 Optional"
+                "to": "Epson HX-20"
             },
             {
                 "from": "Epson PX-8, HC-88 & Geneva",
@@ -6406,7 +6396,7 @@
             },
             {
                 "from": "LSI Octopus floppy",
-                "to": "LSI Octopus floppy"
+                "to": "LSI Octopus"
             },
             {
                 "from": "Language Tutor",
@@ -6798,7 +6788,7 @@
             },
             {
                 "from": "ROLM CBX 9751 floppy",
-                "to": "ROLM CBX 9751 floppy"
+                "to": "ROLM CBX 9751"
             },
             {
                 "from": "Radio-86RK",
@@ -7066,7 +7056,7 @@
             },
             {
                 "from": "Takara Jumping Popira (Japan) JP-xx series",
-                "to": "Takara Jumping Popira (Japan) JP-xx series"
+                "to": "Takara Jumping Popira (Japan) JP-xx"
             },
             {
                 "from": "Takara e-kara",
@@ -7082,51 +7072,51 @@
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) ACxxxx series"
+                "to": "Takara e-kara (Japan) ACxxxx"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) BH-xx series"
+                "to": "Takara e-kara (Japan) BH-xx"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) D-xx \/ DCxxxx- series"
+                "to": "Takara e-kara (Japan) D-xx \/ DCxxxx-"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) ECxxxx- series"
+                "to": "Takara e-kara (Japan) ECxxxx-"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) EN-xx series"
+                "to": "Takara e-kara (Japan) EN-xx"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) G-xx \/ GCxxxx- series"
+                "to": "Takara e-kara (Japan) G-xx \/ GCxxxx-"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) GK-xx series"
+                "to": "Takara e-kara (Japan) GK-xx"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) P-xx \/ PCxxxx- series"
+                "to": "Takara e-kara (Japan) P-xx \/ PCxxxx-"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) M-xx \/ MCxxxx- series"
+                "to": "Takara e-kara (Japan) M-xx \/ MCxxxx-"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) SP-xx series"
+                "to": "Takara e-kara (Japan) SP-xx"
             },
             {
                 "from": "Takara e-kara",
-                "to": "Takara e-kara (Japan) S-xx \/ SCxxxx- series"
+                "to": "Takara e-kara (Japan) S-xx \/ SCxxxx-"
             },
             {
                 "from": "Takara e-pitch - e-kara (Japan) A-x series",
-                "to": "Takara e-pitch \/ e-kara (Japan) A-x series"
+                "to": "Takara e-pitch \/ e-kara (Japan) A-x"
             },
             {
                 "from": "Tandberg TDV 2324",
@@ -7406,7 +7396,7 @@
             },
             {
                 "from": "VTech V.Flash",
-                "to": "VTech V.Flash\/V.Smile Pro V.Disc images"
+                "to": "VTech V.Flash\/V.Smile Pro V.Disc"
             },
             {
                 "from": "VTech V.Smile",
@@ -8821,6 +8811,10 @@
                 "to": "Archimedes"
             },
             {
+                "from": "Acorn Atom",
+                "to": "Atom"
+            },
+            {
                 "from": "Acorn BBC Micro",
                 "to": "BBC Micro"
             },
@@ -8851,6 +8845,10 @@
             {
                 "from": "Apple III",
                 "to": "Apple Apple II"
+            },
+            {
+                "from": "Atari 2600",
+                "to": "Atari Atari 2600"
             },
             {
                 "from": "Atari 400",
@@ -8913,12 +8911,20 @@
                 "to": "Casio PV-1000"
             },
             {
+                "from": "Coleco ADAM",
+                "to": "Adam"
+            },
+            {
+                "from": "Commodore 128",
+                "to": "Commodore Commodore 64"
+            },
+            {
                 "from": "Commodore 64",
                 "to": "Commodore Commodore 64"
             },
             {
                 "from": "Commodore Amiga",
-                "to": "Commodore Amiga"
+                "to": "Commodore Amiga (AGA)"
             },
             {
                 "from": "Commodore Amiga 1000",
@@ -8934,7 +8940,7 @@
             },
             {
                 "from": "Commodore Amiga CD32",
-                "to": "Commodore Amiga CD32"
+                "to": "Commodore Amiga CD32 (hack)"
             },
             {
                 "from": "Commodore Amiga CDTV",
@@ -8945,8 +8951,28 @@
                 "to": "Commodore PET"
             },
             {
+                "from": "Commodore VIC-20",
+                "to": "Commodore Vic-20"
+            },
+            {
+                "from": "Dragon 32-64",
+                "to": "Dragon 32\/64"
+            },
+            {
+                "from": "Dragon Data Dragon",
+                "to": "Dragon 32\/64"
+            },
+            {
+                "from": "EACA EG2000 Colour Genie",
+                "to": "EG2000 Colour Genie"
+            },
+            {
                 "from": "Elektronika BK",
                 "to": "Elektronika BK"
+            },
+            {
+                "from": "Emerson Arcadia 2001",
+                "to": "Arcadia 2001"
             },
             {
                 "from": "Entex Adventure Vision",
@@ -8963,6 +8989,10 @@
             {
                 "from": "Exelvision EXL 100",
                 "to": "EXL 100"
+            },
+            {
+                "from": "Exidy Sorcerer",
+                "to": "Exidy"
             },
             {
                 "from": "Fairchild Channel F",
@@ -8989,6 +9019,10 @@
                 "to": "Game Master"
             },
             {
+                "from": "Magnavox Odyssey 2",
+                "to": "Philips Magnavox Odyssey\u00b2"
+            },
+            {
                 "from": "Mattel Intellivision",
                 "to": "Intellivision"
             },
@@ -8998,7 +9032,7 @@
             },
             {
                 "from": "Microsoft MSX",
-                "to": "Microsoft MSX"
+                "to": "Microsoft MSX Turbo R"
             },
             {
                 "from": "Microsoft MSX2",
@@ -9041,6 +9075,10 @@
                 "to": "PC-FX"
             },
             {
+                "from": "NEC TurboGrafx-CD",
+                "to": "PC Engine CD-Rom"
+            },
+            {
                 "from": "Namco System 22",
                 "to": "Namco Namco System 22"
             },
@@ -9051,6 +9089,10 @@
             {
                 "from": "Nintendo 64",
                 "to": "Nintendo Nintendo 64"
+            },
+            {
+                "from": "Nintendo 64DD",
+                "to": "Nintendo Nintendo 64DD"
             },
             {
                 "from": "Nintendo DS",
@@ -9085,6 +9127,10 @@
                 "to": "Nintendo Game Boy Color"
             },
             {
+                "from": "Nintendo GameCube",
+                "to": "Nintendo Gamecube"
+            },
+            {
                 "from": "Nintendo Satellaview",
                 "to": "Nintendo Satellaview"
             },
@@ -9117,8 +9163,40 @@
                 "to": "Panasonic 3DO"
             },
             {
+                "from": "Philips CD-i",
+                "to": "CD-i"
+            },
+            {
+                "from": "Radio-86RK Mikrosha",
+                "to": "Mikrosha"
+            },
+            {
+                "from": "SNK Neo Geo",
+                "to": "SNK Neo-Geo"
+            },
+            {
+                "from": "SNK Neo Geo CD",
+                "to": "SNK Neo-Geo CD"
+            },
+            {
+                "from": "SNK Neo Geo MVS",
+                "to": "SNK Neo-Geo MVS"
+            },
+            {
+                "from": "SNK Neo Geo Pocket",
+                "to": "SNK Neo-Geo Pocket"
+            },
+            {
+                "from": "SNK Neo Geo Pocket Color",
+                "to": "SNK Neo-Geo Pocket Color"
+            },
+            {
                 "from": "Sammy Atomiswave",
                 "to": "Atomiswave"
+            },
+            {
+                "from": "Sega 32X",
+                "to": "SEGA Sega 32X"
             },
             {
                 "from": "Sega CD",
@@ -9138,7 +9216,7 @@
             },
             {
                 "from": "Sega Genesis",
-                "to": "SEGA Genesis"
+                "to": "SEGA Megadrive - Sonic The Hedgehog 2 Hacks"
             },
             {
                 "from": "Sega Model 2",

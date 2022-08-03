@@ -128,6 +128,9 @@
         ],
         "nointro": [
             "Acorn Atom"
+        ],
+        "screenscraper": [
+            "Atom"
         ]
     },
     "Acorn BBC": {
@@ -333,8 +336,7 @@
             "Apple II"
         ],
         "mame": [
-            "Apple II",
-            "Apple II cleanly cracked"
+            "Apple II"
         ],
         "nointro": [
             "Apple II"
@@ -437,6 +439,9 @@
         ],
         "tosec": [
             "Atari 2600 & VCS"
+        ],
+        "screenscraper": [
+            "Atari Atari 2600"
         ]
     },
     "Atari 400": {
@@ -954,6 +959,9 @@
         ],
         "tosec": [
             "Coleco ColecoVision ADAM"
+        ],
+        "screenscraper": [
+            "Adam"
         ]
     },
     "Coleco ColecoVision": {
@@ -997,6 +1005,9 @@
         ],
         "mame": [
             "Commodore 128"
+        ],
+        "screenscraper": [
+            "Commodore Commodore 64"
         ]
     },
     "Commodore 64": {
@@ -1048,7 +1059,7 @@
             "Commodore Amiga"
         ],
         "screenscraper": [
-            "Commodore Amiga"
+            "Commodore Amiga (AGA)"
         ]
     },
     "Commodore Amiga 1000": {
@@ -1100,7 +1111,7 @@
             "Commodore Amiga CD32"
         ],
         "screenscraper": [
-            "Commodore Amiga CD32"
+            "Commodore Amiga CD32 (hack)"
         ]
     },
     "Commodore Amiga CDTV": {
@@ -1240,6 +1251,9 @@
         ],
         "tosec": [
             "Commodore VIC20"
+        ],
+        "screenscraper": [
+            "Commodore Vic-20"
         ]
     },
     "Compucolor II": {
@@ -1402,6 +1416,9 @@
         ],
         "oldcomputers": [
             "Dragon Data Ltd Dragon 32"
+        ],
+        "screenscraper": [
+            "Dragon 32\/64"
         ]
     },
     "Dragon DOS": {
@@ -1422,6 +1439,9 @@
             "Dragon",
             "Dragon Alpha (Professional)",
             "Dragon Beta"
+        ],
+        "screenscraper": [
+            "Dragon 32\/64"
         ]
     },
     "Dragon FLEX": {
@@ -1448,6 +1468,9 @@
         ],
         "mame": [
             "EACA Colour Genie EG2000"
+        ],
+        "screenscraper": [
+            "EG2000 Colour Genie"
         ]
     },
     "EC 1841": {
@@ -1538,6 +1561,9 @@
         ],
         "mame": [
             "Emerson Arcadia 2001"
+        ],
+        "screenscraper": [
+            "Arcadia 2001"
         ]
     },
     "Enterprex Apollo": {
@@ -1628,7 +1654,7 @@
     },
     "Epson HX-20 Optional": {
         "mame": [
-            "Epson HX-20 Optional"
+            "Epson HX-20"
         ]
     },
     "Epson PX-8, HC-88 & Geneva": {
@@ -1696,6 +1722,9 @@
         ],
         "mame": [
             "Exidy Sorcerer"
+        ],
+        "screenscraper": [
+            "Exidy"
         ]
     },
     "Fairchild Channel F": {
@@ -2444,7 +2473,7 @@
     },
     "LSI Octopus floppy": {
         "mame": [
-            "LSI Octopus floppy"
+            "LSI Octopus"
         ]
     },
     "Language Tutor": {
@@ -2589,6 +2618,9 @@
         ],
         "nointro": [
             "Magnavox Odyssey 2"
+        ],
+        "screenscraper": [
+            "Philips Magnavox Odyssey\u00b2"
         ]
     },
     "Matra Hachette Alice 32": {
@@ -2767,7 +2799,7 @@
             "MSX1"
         ],
         "screenscraper": [
-            "Microsoft MSX"
+            "Microsoft MSX Turbo R"
         ]
     },
     "Microsoft MSX Turbo-R": {
@@ -3079,6 +3111,9 @@
     "NEC TurboGrafx-CD": {
         "launchbox": [
             "NEC TurboGrafx-CD"
+        ],
+        "screenscraper": [
+            "PC Engine CD-Rom"
         ]
     },
     "NEC Turbografx 16": {
@@ -3165,6 +3200,9 @@
         ],
         "mame": [
             "Nintendo 64 DD"
+        ],
+        "screenscraper": [
+            "Nintendo Nintendo 64DD"
         ]
     },
     "Nintendo DS": {
@@ -3312,6 +3350,9 @@
         ],
         "thegamesdb": [
             "Nintendo GameCube"
+        ],
+        "screenscraper": [
+            "Nintendo Gamecube"
         ]
     },
     "Nintendo Play-Yan": {
@@ -3649,6 +3690,9 @@
         ],
         "mame": [
             "Philips CD-i"
+        ],
+        "screenscraper": [
+            "CD-i"
         ]
     },
     "Philips P2000": {
@@ -3764,7 +3808,7 @@
     },
     "ROLM CBX 9751 floppy": {
         "mame": [
-            "ROLM CBX 9751 floppy"
+            "ROLM CBX 9751"
         ]
     },
     "Radica Arcade Legends & Play TV Legends": {
@@ -3798,6 +3842,9 @@
             "Radio-86RK Mikrosha"
         ],
         "mame": [
+            "Mikrosha"
+        ],
+        "screenscraper": [
             "Mikrosha"
         ]
     },
@@ -3885,6 +3932,9 @@
         ],
         "thegamesdb": [
             "SNK Neo Geo"
+        ],
+        "screenscraper": [
+            "SNK Neo-Geo"
         ]
     },
     "SNK Neo Geo AES": {
@@ -3907,11 +3957,17 @@
         ],
         "thegamesdb": [
             "SNK Neo Geo CD"
+        ],
+        "screenscraper": [
+            "SNK Neo-Geo CD"
         ]
     },
     "SNK Neo Geo MVS": {
         "launchbox": [
             "SNK Neo Geo MVS"
+        ],
+        "screenscraper": [
+            "SNK Neo-Geo MVS"
         ]
     },
     "SNK Neo Geo Pocket": {
@@ -3932,6 +3988,9 @@
         ],
         "thegamesdb": [
             "SNK Neo Geo Pocket"
+        ],
+        "screenscraper": [
+            "SNK Neo-Geo Pocket"
         ]
     },
     "SNK Neo Geo Pocket Color": {
@@ -3952,6 +4011,9 @@
         ],
         "thegamesdb": [
             "SNK Neo Geo Pocket Color"
+        ],
+        "screenscraper": [
+            "SNK Neo-Geo Pocket Color"
         ]
     },
     "SSD Xavix Port": {
@@ -4039,6 +4101,9 @@
         ],
         "mame": [
             "Sega 32X"
+        ],
+        "screenscraper": [
+            "SEGA Sega 32X"
         ]
     },
     "Sega Beena": {
@@ -4168,7 +4233,7 @@
             "Sega Mega Drive - Genesis"
         ],
         "screenscraper": [
-            "SEGA Genesis"
+            "SEGA Megadrive - Sonic The Hedgehog 2 Hacks"
         ]
     },
     "Sega Hikaru": {
@@ -4752,7 +4817,7 @@
     },
     "Takara Jumping Popira (Japan) JP-xx series": {
         "mame": [
-            "Takara Jumping Popira (Japan) JP-xx series"
+            "Takara Jumping Popira (Japan) JP-xx"
         ]
     },
     "Takara e-kara": {
@@ -4760,22 +4825,22 @@
             "Takara e-kara (US)",
             "Takara e-kara (UK\/Europe, PAL)",
             "Takara e-kara (Japan) Web",
-            "Takara e-kara (Japan) ACxxxx series",
-            "Takara e-kara (Japan) BH-xx series",
-            "Takara e-kara (Japan) D-xx \/ DCxxxx- series",
-            "Takara e-kara (Japan) ECxxxx- series",
-            "Takara e-kara (Japan) EN-xx series",
-            "Takara e-kara (Japan) G-xx \/ GCxxxx- series",
-            "Takara e-kara (Japan) GK-xx series",
-            "Takara e-kara (Japan) P-xx \/ PCxxxx- series",
-            "Takara e-kara (Japan) M-xx \/ MCxxxx- series",
-            "Takara e-kara (Japan) SP-xx series",
-            "Takara e-kara (Japan) S-xx \/ SCxxxx- series"
+            "Takara e-kara (Japan) ACxxxx",
+            "Takara e-kara (Japan) BH-xx",
+            "Takara e-kara (Japan) D-xx \/ DCxxxx-",
+            "Takara e-kara (Japan) ECxxxx-",
+            "Takara e-kara (Japan) EN-xx",
+            "Takara e-kara (Japan) G-xx \/ GCxxxx-",
+            "Takara e-kara (Japan) GK-xx",
+            "Takara e-kara (Japan) P-xx \/ PCxxxx-",
+            "Takara e-kara (Japan) M-xx \/ MCxxxx-",
+            "Takara e-kara (Japan) SP-xx",
+            "Takara e-kara (Japan) S-xx \/ SCxxxx-"
         ]
     },
     "Takara e-pitch - e-kara (Japan) A-x series": {
         "mame": [
-            "Takara e-pitch \/ e-kara (Japan) A-x series"
+            "Takara e-pitch \/ e-kara (Japan) A-x"
         ]
     },
     "Tandberg TDV 2324": {
@@ -5459,7 +5524,7 @@
             "VTech V.Flash & V.Smile Pro"
         ],
         "mame": [
-            "VTech V.Flash\/V.Smile Pro V.Disc images"
+            "VTech V.Flash\/V.Smile Pro V.Disc"
         ],
         "tosec": [
             "VTech V.Flash Home Edutainment System"

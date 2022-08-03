@@ -21,10 +21,7 @@
         "name": "Genesis",
         "company": "SEGA",
         "date_start": "1988",
-        "date_end": "1998",
-        "local": [
-            "Sega Genesis"
-        ]
+        "date_end": "1998"
     },
     "SEGA Master System": {
         "id": 2,
@@ -298,7 +295,10 @@
         "name": "Gamecube",
         "company": "Nintendo",
         "date_start": "2001",
-        "date_end": "2007"
+        "date_end": "2007",
+        "local": [
+            "Nintendo GameCube"
+        ]
     },
     "Nintendo Nintendo 64": {
         "id": 14,
@@ -442,7 +442,10 @@
         "name": "Sega 32X",
         "company": "SEGA",
         "date_start": "1994",
-        "date_end": "1996"
+        "date_end": "1996",
+        "local": [
+            "Sega 32X"
+        ]
     },
     "SEGA Sega CD": {
         "id": 20,
@@ -562,7 +565,10 @@
         "name": "Neo-Geo Pocket",
         "company": "SNK",
         "date_start": "1998",
-        "date_end": "2001"
+        "date_end": "2001",
+        "local": [
+            "SNK Neo Geo Pocket"
+        ]
     },
     "Atari Atari 2600": {
         "id": 26,
@@ -583,7 +589,10 @@
         "name": "Atari 2600",
         "company": "Atari",
         "date_start": "1977",
-        "date_end": "1992"
+        "date_end": "1992",
+        "local": [
+            "Atari 2600"
+        ]
     },
     "Atari Jaguar": {
         "id": 27,
@@ -773,7 +782,10 @@
         "name_launchbox": "Acorn Atom",
         "name": "Atom",
         "date_start": "1980",
-        "date_end": "1983"
+        "date_end": "1983",
+        "local": [
+            "Acorn Atom"
+        ]
     },
     "BBC Micro": {
         "id": 37,
@@ -1398,7 +1410,6 @@
         "date_start": "1985",
         "date_end": "1994",
         "local": [
-            "Commodore Amiga",
             "Commodore Amiga 1000",
             "Commodore Amiga 3000"
         ]
@@ -1468,6 +1479,7 @@
         "date_start": "1984",
         "date_end": "1994",
         "local": [
+            "Commodore 128",
             "Commodore 64"
         ]
     },
@@ -1511,7 +1523,10 @@
         "name": "Neo-Geo MVS",
         "company": "SNK",
         "date_start": "1990",
-        "date_end": "2004"
+        "date_end": "2004",
+        "local": [
+            "SNK Neo Geo MVS"
+        ]
     },
     "SEGA Sega ST-V": {
         "id": 69,
@@ -1556,7 +1571,10 @@
         "name": "Neo-Geo CD",
         "company": "SNK",
         "date_start": "1994",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "SNK Neo Geo CD"
+        ]
     },
     "PC-FX": {
         "id": 72,
@@ -1598,7 +1616,10 @@
         "name": "Vic-20",
         "company": "Commodore",
         "date_start": "1980",
-        "date_end": "1985"
+        "date_end": "1985",
+        "local": [
+            "Commodore VIC-20"
+        ]
     },
     "Casio PV-1000": {
         "id": 74,
@@ -1804,7 +1825,10 @@
         "name": "Neo-Geo Pocket Color",
         "company": "SNK",
         "date_start": "1999",
-        "date_end": "2000"
+        "date_end": "2000",
+        "local": [
+            "SNK Neo Geo Pocket Color"
+        ]
     },
     "Aamber Pegasus": {
         "id": 83,
@@ -1964,7 +1988,10 @@
         "name_launchbox": "Coleco ADAM",
         "name": "Adam",
         "date_start": "1983",
-        "date_end": "1985"
+        "date_end": "1985",
+        "local": [
+            "Coleco ADAM"
+        ]
     },
     "Cougar Boy": {
         "id": 90,
@@ -2002,7 +2029,11 @@
         "name_launchbox": "Dragon 32-64",
         "name": "Dragon 32\/64",
         "date_start": "1982",
-        "date_end": "1984"
+        "date_end": "1984",
+        "local": [
+            "Dragon 32-64",
+            "Dragon Data Dragon"
+        ]
     },
     "EG2000 Colour Genie": {
         "id": 92,
@@ -2021,7 +2052,10 @@
         "name_hyperspin": "EACA EG2000 Colour Genie",
         "name_launchbox": "EACA EG2000 Colour Genie",
         "name": "EG2000 Colour Genie",
-        "date_start": "1982"
+        "date_start": "1982",
+        "local": [
+            "EACA EG2000 Colour Genie"
+        ]
     },
     "Elektronika BK": {
         "id": 93,
@@ -2103,7 +2137,10 @@
         "name_launchbox": "Emerson Arcadia 2001",
         "name": "Arcadia 2001",
         "date_start": "1982",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Emerson Arcadia 2001"
+        ]
     },
     "Epoch Game Pocket Computer": {
         "id": 95,
@@ -2379,7 +2416,10 @@
         "name": "Magnavox Odyssey\u00b2",
         "company": "Philips",
         "date_start": "1978",
-        "date_end": "?"
+        "date_end": "?",
+        "local": [
+            "Magnavox Odyssey 2"
+        ]
     },
     "PC Engine SuperGrafx": {
         "id": 105,
@@ -2545,7 +2585,10 @@
         "name": "Amiga (AGA)",
         "company": "Commodore",
         "date_start": "1992",
-        "date_end": "1994"
+        "date_end": "1994",
+        "local": [
+            "Commodore Amiga"
+        ]
     },
     "Taito Type X": {
         "id": 112,
@@ -2594,10 +2637,7 @@
         "name_launchbox": "Microsoft MSX",
         "name": "MSX",
         "company": "Microsoft",
-        "date_start": "1980",
-        "local": [
-            "Microsoft MSX"
-        ]
+        "date_start": "1980"
     },
     "PC Engine CD-Rom": {
         "id": 114,
@@ -2619,7 +2659,10 @@
         "name_launchbox": "NEC PC Engine-CD",
         "name": "PC Engine CD-Rom",
         "date_start": "1988",
-        "date_end": "1994"
+        "date_end": "1994",
+        "local": [
+            "NEC TurboGrafx-CD"
+        ]
     },
     "Intellivision": {
         "id": 115,
@@ -2720,7 +2763,10 @@
         "name_launchbox": "Microsoft MSX",
         "name": "MSX Turbo R",
         "company": "Microsoft",
-        "date_start": "1990"
+        "date_start": "1990",
+        "local": [
+            "Microsoft MSX"
+        ]
     },
     "Nintendo GBA e-Reader": {
         "id": 119,
@@ -2801,7 +2847,10 @@
         "name": "Nintendo 64DD",
         "company": "Nintendo",
         "date_start": "1999",
-        "date_end": "2001"
+        "date_end": "2001",
+        "local": [
+            "Nintendo 64DD"
+        ]
     },
     "ScummVM": {
         "id": 123,
@@ -2835,7 +2884,10 @@
         "name_hyperspin": "Radio-86RK Mikrosha",
         "name_launchbox": "Radio-86RK Mikrosha",
         "name": "Mikrosha",
-        "date_start": "1986"
+        "date_start": "1986",
+        "local": [
+            "Radio-86RK Mikrosha"
+        ]
     },
     "Pecom 64": {
         "id": 125,
@@ -2953,10 +3005,7 @@
         "name": "Amiga CD32",
         "company": "Commodore",
         "date_start": "1993",
-        "date_end": "1994",
-        "local": [
-            "Commodore Amiga CD32"
-        ]
+        "date_end": "1994"
     },
     "Oric 1 \/ Atmos": {
         "id": 131,
@@ -3004,7 +3053,10 @@
         "name_launchbox": "Philips CD-i",
         "name": "CD-i",
         "date_start": "1991",
-        "date_end": "1997"
+        "date_end": "1997",
+        "local": [
+            "Philips CD-i"
+        ]
     },
     "Commodore Amiga CD": {
         "id": 134,
@@ -3177,7 +3229,10 @@
         "name": "Amiga CD32 (hack)",
         "company": "Commodore",
         "date_start": "1993",
-        "date_end": "1994"
+        "date_end": "1994",
+        "local": [
+            "Commodore Amiga CD32"
+        ]
     },
     "Thomson MO\/TO": {
         "id": 141,
@@ -3249,7 +3304,10 @@
         "name": "Neo-Geo",
         "company": "SNK",
         "date_start": "1990",
-        "date_end": "2004"
+        "date_end": "2004",
+        "local": [
+            "SNK Neo Geo"
+        ]
     },
     "Zen Studios Pinball FX2": {
         "id": 143,
@@ -3664,7 +3722,10 @@
         "name_retropie": "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess",
         "name_hyperspin": "Exidy Sorcerer",
         "name_launchbox": "arcade",
-        "name": "Exidy"
+        "name": "Exidy",
+        "local": [
+            "Exidy Sorcerer"
+        ]
     },
     "Acclaim Acclaim": {
         "id": 166,
@@ -4287,7 +4348,10 @@
         "name_launchbox": "Sega Genesis",
         "name": "Megadrive - Sonic The Hedgehog 2 Hacks",
         "company": "SEGA",
-        "date_start": "1988"
+        "date_start": "1988",
+        "local": [
+            "Sega Genesis"
+        ]
     },
     "Texas Instruments TI-99\/4A": {
         "id": 205,

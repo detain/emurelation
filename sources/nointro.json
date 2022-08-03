@@ -374,6 +374,7 @@
     "IBM PC and Compatibles": {
         "files": [
             "IBM - PC and Compatibles (Digital) (Desura)",
+            "IBM - PC and Compatibles (Digital) (JAST USA)",
             "IBM - PC and Compatibles (Digital) (Misc)",
             "IBM - PC and Compatibles (Digital) (Misc) (Adult)",
             "IBM - PC and Compatibles (Digital) (Unknown)",
@@ -479,7 +480,19 @@
     },
     "Mobile Palm OS": {
         "files": [
-            "Mobile - Palm OS"
+            "Mobile - Palm OS",
+            "Mobile - Palm OS (Digital)"
+        ]
+    },
+    "Mobile Pocket PC": {
+        "files": [
+            "Mobile - Pocket PC",
+            "Mobile - Pocket PC (Digital)"
+        ]
+    },
+    "Mobile Symbian": {
+        "files": [
+            "Mobile - Symbian"
         ]
     },
     "NEC PC Engine - TurboGrafx 16": {
@@ -644,7 +657,6 @@
     "Nintendo Nintendo GameCube": {
         "files": [
             "Nintendo - Nintendo GameCube (NPDP Carts)",
-            "Nintendo - Nintendo GameCube (NPDP Carts) (Combined)",
             "Non-Redump - Nintendo - Nintendo GameCube",
             "Source Code - Nintendo - Nintendo GameCube"
         ]

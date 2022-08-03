@@ -45,28 +45,27 @@
             "Sega CD"
         ]
     },
-    "IBM PC floppy": {
+    "IBM PC": {
         "types": [
-            "IBM PC floppy disk images"
+            "IBM PC floppy disk images",
+            "IBM PC hard disk images"
         ],
         "short": [
-            "ibm5150"
-        ]
-    },
-    "IBM PC\/AT floppy": {
-        "types": [
-            "IBM PC\/AT floppy disk images"
+            "ibm5150",
+            "ibm5150_hdd"
         ],
-        "short": [
-            "ibm5170"
+        "local": [
+            "IBM PC and Compatibles"
         ]
     },
     "IBM PC\/AT": {
         "types": [
+            "IBM PC\/AT floppy disk images",
             "IBM PC\/AT CD-ROM images",
             "IBM PC\/AT hard disk images"
         ],
         "short": [
+            "ibm5170",
             "ibm5170_cdrom",
             "ibm5170_hdd"
         ],
@@ -102,6 +101,7 @@
             "Commodore Amiga Hardware driver disks",
             "Commodore Amiga Application disks",
             "Commodore Amiga disk images (misc list)",
+            "Commodore Amiga demos",
             "Commodore Amiga hard disk images"
         ],
         "short": [
@@ -109,6 +109,7 @@
             "amiga_hardware",
             "amiga_apps",
             "amiga_flop",
+            "amiga_demos",
             "amiga_hdd"
         ],
         "local": [
@@ -124,14 +125,6 @@
         ],
         "local": [
             "Commodore Amiga OCS"
-        ]
-    },
-    "Commodore Amiga demos": {
-        "types": [
-            "Commodore Amiga demos"
-        ],
-        "short": [
-            "amiga_demos"
         ]
     },
     "Commodore Amiga 1000": {
@@ -363,24 +356,15 @@
             "Luxor ABC 806"
         ]
     },
-    "Apple II cleanly cracked": {
-        "types": [
-            "Apple II cleanly cracked disks"
-        ],
-        "short": [
-            "apple2_flop_clcracked"
-        ],
-        "local": [
-            "Apple II"
-        ]
-    },
     "Apple II": {
         "types": [
+            "Apple II cleanly cracked disks",
             "Apple II original disks",
             "Apple II miscellaneous disks",
             "Apple II cassettes"
         ],
         "short": [
+            "apple2_flop_clcracked",
             "apple2_flop_orig",
             "apple2_flop_misc",
             "apple2_cass"
@@ -639,7 +623,7 @@
             "NEC Advanced Personal Computer"
         ]
     },
-    "APEXC Cylinder images": {
+    "APEXC Cylinder": {
         "types": [
             "APEXC Cylinder images"
         ],
@@ -702,20 +686,14 @@
             "Apple 1"
         ]
     },
-    "Apple IIgs cleanly cracked": {
-        "types": [
-            "Apple IIgs cleanly cracked disks"
-        ],
-        "short": [
-            "apple2gs_flop_clcracked"
-        ]
-    },
     "Apple IIgs": {
         "types": [
+            "Apple IIgs cleanly cracked disks",
             "Apple IIgs original disks",
             "Apple IIgs miscellaneous disks"
         ],
         "short": [
+            "apple2gs_flop_clcracked",
             "apple2gs_flop_orig",
             "apple2gs_flop_misc"
         ]
@@ -1209,35 +1187,17 @@
             "Commodore 65"
         ]
     },
-    "Fujitsu FM Towns original floppy": {
-        "types": [
-            "Fujitsu FM Towns original floppy disk images"
-        ],
-        "short": [
-            "fmtowns_flop_orig"
-        ]
-    },
-    "Fujitsu FM Towns cracked floppy": {
-        "types": [
-            "Fujitsu FM Towns cracked floppy disk images"
-        ],
-        "short": [
-            "fmtowns_flop_cracked"
-        ]
-    },
-    "Fujitsu FM Towns miscellaneous floppy": {
-        "types": [
-            "Fujitsu FM Towns miscellaneous floppy disk images"
-        ],
-        "short": [
-            "fmtowns_flop_misc"
-        ]
-    },
     "Fujitsu FM Towns": {
         "types": [
+            "Fujitsu FM Towns original floppy disk images",
+            "Fujitsu FM Towns cracked floppy disk images",
+            "Fujitsu FM Towns miscellaneous floppy disk images",
             "Fujitsu FM Towns CD-ROMs"
         ],
         "short": [
+            "fmtowns_flop_orig",
+            "fmtowns_flop_cracked",
+            "fmtowns_flop_misc",
             "fmtowns_cd"
         ],
         "local": [
@@ -1670,7 +1630,7 @@
             "Sega Dreamcast"
         ]
     },
-    "Takara e-kara (Japan) P-xx \/ PCxxxx- series": {
+    "Takara e-kara (Japan) P-xx \/ PCxxxx-": {
         "types": [
             "Takara e-kara (Japan) P-xx \/ PCxxxx- series cartridges"
         ],
@@ -1843,7 +1803,7 @@
             "EC 1841"
         ]
     },
-    "Epson HX-20 Optional": {
+    "Epson HX-20": {
         "types": [
             "Epson HX-20 Optional ROMs"
         ],
@@ -1898,7 +1858,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) ECxxxx- series": {
+    "Takara e-kara (Japan) ECxxxx-": {
         "types": [
             "Takara e-kara (Japan) ECxxxx- series cartridges"
         ],
@@ -1909,7 +1869,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) G-xx \/ GCxxxx- series": {
+    "Takara e-kara (Japan) G-xx \/ GCxxxx-": {
         "types": [
             "Takara e-kara (Japan) G-xx \/ GCxxxx- series cartridges"
         ],
@@ -1920,7 +1880,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) S-xx \/ SCxxxx- series": {
+    "Takara e-kara (Japan) S-xx \/ SCxxxx-": {
         "types": [
             "Takara e-kara (Japan) S-xx \/ SCxxxx- series cartridges"
         ],
@@ -1931,7 +1891,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) M-xx \/ MCxxxx- series": {
+    "Takara e-kara (Japan) M-xx \/ MCxxxx-": {
         "types": [
             "Takara e-kara (Japan) M-xx \/ MCxxxx- series cartridges"
         ],
@@ -1942,7 +1902,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) D-xx \/ DCxxxx- series": {
+    "Takara e-kara (Japan) D-xx \/ DCxxxx-": {
         "types": [
             "Takara e-kara (Japan) D-xx \/ DCxxxx- series cartridges"
         ],
@@ -1953,7 +1913,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) EN-xx series": {
+    "Takara e-kara (Japan) EN-xx": {
         "types": [
             "Takara e-kara (Japan) EN-xx series cartridges"
         ],
@@ -1964,7 +1924,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) SP-xx series": {
+    "Takara e-kara (Japan) SP-xx": {
         "types": [
             "Takara e-kara (Japan) SP-xx series cartridges"
         ],
@@ -1986,7 +1946,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-pitch \/ e-kara (Japan) A-x series": {
+    "Takara e-pitch \/ e-kara (Japan) A-x": {
         "types": [
             "Takara e-pitch \/ e-kara (Japan) A-x series cartridges"
         ],
@@ -1997,7 +1957,7 @@
             "Takara e-pitch - e-kara (Japan) A-x series"
         ]
     },
-    "Takara e-kara (Japan) GK-xx series": {
+    "Takara e-kara (Japan) GK-xx": {
         "types": [
             "Takara e-kara (Japan) GK-xx series cartridges"
         ],
@@ -2008,7 +1968,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) BH-xx series": {
+    "Takara e-kara (Japan) BH-xx": {
         "types": [
             "Takara e-kara (Japan) BH-xx series cartridges"
         ],
@@ -2019,7 +1979,7 @@
             "Takara e-kara"
         ]
     },
-    "Takara e-kara (Japan) ACxxxx series": {
+    "Takara e-kara (Japan) ACxxxx": {
         "types": [
             "Takara e-kara (Japan) ACxxxx series cartridges"
         ],
@@ -2176,6 +2136,14 @@
         ],
         "local": [
             "Fujitsu FM-7"
+        ]
+    },
+    "Fujitsu FM-8": {
+        "types": [
+            "Fujitsu FM-8 cassettes"
+        ],
+        "short": [
+            "fm8_cass"
         ]
     },
     "Fujitsu FM-77AV": {
@@ -2564,21 +2532,15 @@
     },
     "HP Integral PC": {
         "types": [
-            "HP Integral PC diskettes"
-        ],
-        "short": [
-            "hp_ipc"
-        ],
-        "local": [
-            "Hewlett-Packard HP Integral PC"
-        ]
-    },
-    "HP Integral PC optional": {
-        "types": [
+            "HP Integral PC diskettes",
             "HP Integral PC optional ROMs"
         ],
         "short": [
+            "hp_ipc",
             "hp_ipc_rom"
+        ],
+        "local": [
+            "Hewlett-Packard HP Integral PC"
         ]
     },
     "HP 9825B": {
@@ -2704,17 +2666,6 @@
         ],
         "local": [
             "IBM PC-XT"
-        ]
-    },
-    "IBM PC": {
-        "types": [
-            "IBM PC hard disk images"
-        ],
-        "short": [
-            "ibm5150_hdd"
-        ],
-        "local": [
-            "IBM PC and Compatibles"
         ]
     },
     "IBM Displaywriter": {
@@ -2880,7 +2831,7 @@
             "Generic IQ-151"
         ]
     },
-    "Sharp Wizard series": {
+    "Sharp Wizard": {
         "types": [
             "Sharp Wizard series cartridges"
         ],
@@ -3017,7 +2968,7 @@
             "Philips Videopac \/ Odyssey 2"
         ]
     },
-    "Takara Jumping Popira (Japan) JP-xx series": {
+    "Takara Jumping Popira (Japan) JP-xx": {
         "types": [
             "Takara Jumping Popira (Japan) JP-xx series cartridges"
         ],
@@ -3373,7 +3324,7 @@
             "Apple Macintosh"
         ]
     },
-    "Macintosh High Density": {
+    "Macintosh": {
         "types": [
             "Macintosh High Density Disk images"
         ],
@@ -3705,12 +3656,14 @@
             "Memotech MTX cassettes",
             "Memotech MTX diskettes",
             "Memotech MTX ROMPAK cartridges",
+            "Memotech MTX Compact Flash images",
             "Memotech MTX ROM extensions"
         ],
         "short": [
             "mtx_cass",
             "mtx_flop",
             "mtx_cart",
+            "mtx_hdd",
             "mtx_rom"
         ],
         "local": [
@@ -3915,7 +3868,7 @@
             "NorthStar Horizon"
         ]
     },
-    "LSI Octopus floppy": {
+    "LSI Octopus": {
         "types": [
             "LSI Octopus floppy disk images"
         ],
@@ -4147,11 +4100,13 @@
     "NEC PC-8801": {
         "types": [
             "NEC PC-8801 cassettes",
-            "NEC PC-8801 disk images"
+            "NEC PC-8801 disk images",
+            "NEC PC-8801 CD-ROMs"
         ],
         "short": [
             "pc8801_cass",
-            "pc8801_flop"
+            "pc8801_flop",
+            "pc8801_cdrom"
         ],
         "local": [
             "NEC PC-8801"
@@ -4245,7 +4200,7 @@
             "Siemens PC-X"
         ]
     },
-    "PDP-1 Paper Tape Reader images": {
+    "PDP-1 Paper Tape Reader": {
         "types": [
             "PDP-1 Paper Tape Reader images"
         ],
@@ -4363,7 +4318,7 @@
             "Bandai Pippin"
         ]
     },
-    "Tiger Playmaker playcards": {
+    "Tiger Playmaker": {
         "types": [
             "Tiger Playmaker playcards"
         ],
@@ -4651,7 +4606,7 @@
             "r8_card"
         ]
     },
-    "ROLM CBX 9751 floppy": {
+    "ROLM CBX 9751": {
         "types": [
             "ROLM CBX 9751 floppy disk images"
         ],
@@ -4673,7 +4628,7 @@
             "DEC Rainbow 100"
         ]
     },
-    "Roland TN-SC1 Music Style Cards": {
+    "Roland TN-SC1": {
         "types": [
             "Roland TN-SC1 Music Style Cards"
         ],
@@ -5521,7 +5476,7 @@
             "Toyquest TV Go Go"
         ]
     },
-    "TX-0 Paper Tape Reader images": {
+    "TX-0 Paper Tape Reader": {
         "types": [
             "TX-0 Paper Tape Reader images"
         ],
@@ -5752,7 +5707,7 @@
             "VTech V.Smile Baby"
         ]
     },
-    "VTech V.Flash\/V.Smile Pro V.Disc images": {
+    "VTech V.Flash\/V.Smile Pro V.Disc": {
         "types": [
             "VTech V.Flash\/V.Smile Pro V.Disc images"
         ],
@@ -5950,59 +5905,15 @@
             "Sinclair ZX-80"
         ]
     },
-    "Spectravision SVI-318\/328": {
+    "Hybrid Music System": {
         "types": [
-            "Spectravision SVI-318\/328 disk images"
+            "Hybrid Music System discs"
         ],
         "short": [
-            "svi318_flop"
+            "bbc_flop_hybrid"
         ],
         "local": [
-            "Spectravideo SVI-318 & SVI-328"
-        ]
-    },
-    "Sinclair ZX Microdrive": {
-        "types": [
-            "Sinclair ZX Microdrive tapes\/cartridges"
-        ],
-        "short": [
-            "spectrum_microdrive"
-        ],
-        "local": [
-            "Sinclair ZX Microdrive"
-        ]
-    },
-    "Sinclair ZX Spectrum Opus Discovery": {
-        "types": [
-            "Sinclair ZX Spectrum Opus Discovery disk images"
-        ],
-        "short": [
-            "spectrum_flop_opus"
-        ],
-        "local": [
-            "Sinclair ZX Spectrum Opus Discovery"
-        ]
-    },
-    "ZX Spectrum MGT DISCiPLE\/+D": {
-        "types": [
-            "ZX Spectrum MGT DISCiPLE\/+D disks"
-        ],
-        "short": [
-            "spectrum_mgt_flop"
-        ],
-        "local": [
-            "Sinclair ZX Spectrum MGT DISCiPLE\/+D"
-        ]
-    },
-    "Sinclair ZX Wafadrive": {
-        "types": [
-            "Sinclair ZX Wafadrive tapes\/cartridges"
-        ],
-        "short": [
-            "spectrum_wafadrive"
-        ],
-        "local": [
-            "Sinclair ZX Wafadrive"
+            "Generic Hybrid Music System"
         ]
     },
     "Casper 68000": {
@@ -6016,15 +5927,67 @@
             "Casper 68000"
         ]
     },
-    "Hybrid Music System": {
+    "Hitachi Basic Master Level 3": {
         "types": [
-            "Hybrid Music System discs"
+            "Hitachi Basic Master Level 3 disk images"
         ],
         "short": [
-            "bbc_flop_hybrid"
+            "bml3_flop"
+        ]
+    },
+    "Sinclair ZX Microdrive": {
+        "types": [
+            "Sinclair ZX Microdrive tapes\/cartridges"
+        ],
+        "short": [
+            "spectrum_microdrive"
         ],
         "local": [
-            "Generic Hybrid Music System"
+            "Sinclair ZX Microdrive"
+        ]
+    },
+    "ZX Spectrum MGT DISCiPLE\/+D": {
+        "types": [
+            "ZX Spectrum MGT DISCiPLE\/+D disks"
+        ],
+        "short": [
+            "spectrum_mgt_flop"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum MGT DISCiPLE\/+D"
+        ]
+    },
+    "Sinclair ZX Spectrum Opus Discovery": {
+        "types": [
+            "Sinclair ZX Spectrum Opus Discovery disk images"
+        ],
+        "short": [
+            "spectrum_flop_opus"
+        ],
+        "local": [
+            "Sinclair ZX Spectrum Opus Discovery"
+        ]
+    },
+    "Sinclair ZX Wafadrive": {
+        "types": [
+            "Sinclair ZX Wafadrive tapes\/cartridges"
+        ],
+        "short": [
+            "spectrum_wafadrive"
+        ],
+        "local": [
+            "Sinclair ZX Wafadrive"
+        ]
+    },
+    "Spectravision SVI-318\/328": {
+        "types": [
+            "Spectravision SVI-318\/328 disk images"
+        ],
+        "short": [
+            "svi318_flop"
+        ],
+        "local": [
+            "Spectravideo SVI-318 & SVI-328"
         ]
     },
     "Acorn FileStore": {
@@ -6036,14 +5999,6 @@
         ],
         "local": [
             "Acorn FileStore"
-        ]
-    },
-    "Hitachi Basic Master Level 3": {
-        "types": [
-            "Hitachi Basic Master Level 3 disk images"
-        ],
-        "short": [
-            "bml3_flop"
         ]
     }
 }
