@@ -30,7 +30,7 @@
         "id": "nointro",
         "name": "No-Intro",
         "type": "DAT",
-        "provides": ["platforms"],
+        "provides": ["platforms", "games"],
         "info": "",
         "updatedLast": false,
         "updateTrigger": "commit",
@@ -41,7 +41,29 @@
         "id": "tosec",
         "name": "TOSEC",
         "type": "DAT",
-        "provides": ["platforms"],
+        "provides": ["platforms", "games"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "toseciso",
+        "name": "TOSEC-ISO",
+        "type": "DAT",
+        "provides": ["platforms", "games"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "tosecpix",
+        "name": "TOSEC-PIX",
+        "type": "DAT",
+        "provides": ["platforms", "games"],
         "info": "",
         "updatedLast": false,
         "updateTrigger": "commit",
@@ -52,7 +74,7 @@
         "id": "redump",
         "name": "Redump",
         "type": "DAT",
-        "provides": ["platforms"],
+        "provides": ["platforms", "games"],
         "info": "",
         "updatedLast": false,
         "updateTrigger": "commit",
@@ -63,7 +85,7 @@
         "id": "mame",
         "name": "MAME",
         "type": "Emulator",
-        "provides": ["emulators", "platforms"],
+        "provides": ["emulators", "platforms", "games"],
         "info": "",
         "updatedLast": false,
         "updateTrigger": "commit",
@@ -173,72 +195,6 @@
         "id": "es-de",
         "name": "EmulationStation-DE",
         "type": "Frontend",
-        "provides": ["emulators", "platforms"],
-        "info": "",
-        "updatedLast": false,
-        "updateTrigger": "commit",
-        "web": {
-        }
-    },
-    {
-        "id": "",
-        "name": "",
-        "type": "",
-        "provides": ["emulators", "platforms"],
-        "info": "",
-        "updatedLast": false,
-        "updateTrigger": "commit",
-        "web": {
-        }
-    },
-    {
-        "id": "",
-        "name": "",
-        "type": "",
-        "provides": ["emulators", "platforms"],
-        "info": "",
-        "updatedLast": false,
-        "updateTrigger": "commit",
-        "web": {
-        }
-    },
-    {
-        "id": "",
-        "name": "",
-        "type": "",
-        "provides": ["emulators", "platforms"],
-        "info": "",
-        "updatedLast": false,
-        "updateTrigger": "commit",
-        "web": {
-        }
-    },
-    {
-        "id": "",
-        "name": "",
-        "type": "",
-        "provides": ["emulators", "platforms"],
-        "info": "",
-        "updatedLast": false,
-        "updateTrigger": "commit",
-        "web": {
-        }
-    },
-    {
-        "id": "",
-        "name": "",
-        "type": "",
-        "provides": ["emulators", "platforms"],
-        "info": "",
-        "updatedLast": false,
-        "updateTrigger": "commit",
-        "web": {
-        }
-    },
-    {
-        "id": "",
-        "name": "",
-        "type": "",
         "provides": ["emulators", "platforms"],
         "info": "",
         "updatedLast": false,
