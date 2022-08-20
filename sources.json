@@ -1,5 +1,5 @@
-[
-    {
+{
+    "ecc": {
         "id": "ecc",
         "name": "emuControlCenter",
         "type": "Tools",
@@ -26,7 +26,7 @@
             "https://github.com/PhoenixInteractiveNL/edc-repo0009": "repo"
         }
     },
-    {
+    "nointro": {
         "id": "nointro",
         "name": "No-Intro",
         "type": "DAT",
@@ -37,7 +37,7 @@
         "web": {
         }
     },
-    {
+    "tosec": {
         "id": "tosec",
         "name": "TOSEC",
         "type": "DAT",
@@ -48,7 +48,7 @@
         "web": {
         }
     },
-    {
+    "toseciso": {
         "id": "toseciso",
         "name": "TOSEC-ISO",
         "type": "DAT",
@@ -59,7 +59,7 @@
         "web": {
         }
     },
-    {
+    "tosecpix": {
         "id": "tosecpix",
         "name": "TOSEC-PIX",
         "type": "DAT",
@@ -70,7 +70,7 @@
         "web": {
         }
     },
-    {
+    "redump": {
         "id": "redump",
         "name": "Redump",
         "type": "DAT",
@@ -81,7 +81,7 @@
         "web": {
         }
     },
-    {
+    "mame": {
         "id": "mame",
         "name": "MAME",
         "type": "Emulator",
@@ -92,7 +92,7 @@
         "web": {
         }
     },
-    {
+    "launchbox": {
         "id": "launchbox",
         "name": "LaunchBox",
         "type": "Frontend",
@@ -103,7 +103,7 @@
         "web": {
         }
     },
-    {
+    "tgdb": {
         "id": "tgdb",
         "name": "TheGamesDB",
         "type": "API",
@@ -114,7 +114,7 @@
         "web": {
         }
     },
-    {
+    "screenscraper": {
         "id": "screenscraper",
         "name": "ScreenScraper",
         "type": "API",
@@ -125,7 +125,7 @@
         "web": {
         }
     },
-    {
+    "oldcomputers": {
         "id": "oldcomputers",
         "name": "Old-Computers",
         "type": "Website",
@@ -136,7 +136,7 @@
         "web": {
         }
     },
-    {
+    "emucr": {
         "id": "emucr",
         "name": "EmuCR",
         "type": "Website",
@@ -147,7 +147,7 @@
         "web": {
         }
     },
-    {
+    "emulationking": {
         "id": "emulationking",
         "name": "EmulationKing",
         "type": "Website",
@@ -158,7 +158,7 @@
         "web": {
         }
     },
-    {
+    "emuparadise": {
         "id": "emuparadise",
         "name": "EmuParadise",
         "type": "Website",
@@ -169,7 +169,7 @@
         "web": {
         }
     },
-    {
+    "emutopia": {
         "id": "emutopia",
         "name": "Emutopia",
         "type": "Website",
@@ -180,7 +180,7 @@
         "web": {
         }
     },
-    {
+    "retrobat": {
         "id": "retrobat",
         "name": "RetroBat",
         "type": "Frontend",
@@ -191,7 +191,7 @@
         "web": {
         }
     },
-    {
+    "es-de": {
         "id": "es-de",
         "name": "EmulationStation-DE",
         "type": "Frontend",
@@ -202,7 +202,7 @@
         "web": {
         }
     },
-    {
+    "": {
         "id": "",
         "name": "",
         "type": "",
@@ -213,4 +213,4 @@
         "web": {
         }
     }
-]
+}
