@@ -191,8 +191,8 @@
         "web": {
         }
     },
-    "es-de": {
-        "id": "es-de",
+    "esde": {
+        "id": "esde",
         "name": "EmulationStation-DE",
         "type": "Frontend",
         "provides": ["emulators", "platforms"],
