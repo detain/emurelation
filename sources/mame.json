@@ -1,0 +1,5284 @@
+{
+    "platforms": {
+        "mame": {
+            "id": "mame",
+            "shortName": "mame",
+            "name": "MAME",
+            "altNames": [
+                "Arcade"
+            ]
+        },
+        "vc4000": {
+            "id": "vc4000",
+            "shortName": "vc4000",
+            "name": "Interton VC 4000 cartridges",
+            "altNames": [
+                "Interton VC 4000"
+            ]
+        },
+        "32x": {
+            "id": "32x",
+            "shortName": "32x",
+            "name": "Sega 32X cartridges",
+            "altNames": [
+                "Sega 32X"
+            ]
+        },
+        "megacd": {
+            "id": "megacd",
+            "shortName": "megacd",
+            "name": "Sega Mega CD (Euro) CD-ROMs",
+            "altNames": [
+                "Sega Mega CD"
+            ]
+        },
+        "megacdj": {
+            "id": "megacdj",
+            "shortName": "megacdj",
+            "name": "Sega Mega CD (Jpn) CD-ROMs",
+            "altNames": [
+                "Sega Mega CD"
+            ]
+        },
+        "segacd": {
+            "id": "segacd",
+            "shortName": "segacd",
+            "name": "Sega CD CD-ROMs",
+            "altNames": [
+                "Sega CD"
+            ]
+        },
+        "ibm5150": {
+            "id": "ibm5150",
+            "shortName": "ibm5150",
+            "name": "IBM PC floppy disk images",
+            "altNames": [
+                "IBM PC"
+            ]
+        },
+        "ibm5170": {
+            "id": "ibm5170",
+            "shortName": "ibm5170",
+            "name": "IBM PC/AT floppy disk images",
+            "altNames": [
+                "IBM PC/AT"
+            ]
+        },
+        "ibm5170_cdrom": {
+            "id": "ibm5170_cdrom",
+            "shortName": "ibm5170_cdrom",
+            "name": "IBM PC/AT CD-ROM images",
+            "altNames": [
+                "IBM PC/AT"
+            ]
+        },
+        "ibm5170_hdd": {
+            "id": "ibm5170_hdd",
+            "shortName": "ibm5170_hdd",
+            "name": "IBM PC/AT hard disk images",
+            "altNames": [
+                "IBM PC/AT"
+            ]
+        },
+        "midi_flop": {
+            "id": "midi_flop",
+            "shortName": "midi_flop",
+            "name": "Standard MIDI floppy disks",
+            "altNames": [
+                "Standard MIDI"
+            ]
+        },
+        "sgi_mips": {
+            "id": "sgi_mips",
+            "shortName": "sgi_mips",
+            "name": "SGI MIPS/IRIX software",
+            "altNames": [
+                "SGI MIPS/IRIX"
+            ]
+        },
+        "amiga_workbench": {
+            "id": "amiga_workbench",
+            "shortName": "amiga_workbench",
+            "name": "Commodore Amiga Workbench disks",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "amiga_hardware": {
+            "id": "amiga_hardware",
+            "shortName": "amiga_hardware",
+            "name": "Commodore Amiga Hardware driver disks",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "amiga_apps": {
+            "id": "amiga_apps",
+            "shortName": "amiga_apps",
+            "name": "Commodore Amiga Application disks",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "amiga_flop": {
+            "id": "amiga_flop",
+            "shortName": "amiga_flop",
+            "name": "Commodore Amiga disk images (misc list)",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "amigaocs_flop": {
+            "id": "amigaocs_flop",
+            "shortName": "amigaocs_flop",
+            "name": "Commodore Amiga OCS disk images",
+            "altNames": [
+                "Commodore Amiga OCS"
+            ]
+        },
+        "amiga_demos": {
+            "id": "amiga_demos",
+            "shortName": "amiga_demos",
+            "name": "Commodore Amiga demos",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "amiga_a1000": {
+            "id": "amiga_a1000",
+            "shortName": "amiga_a1000",
+            "name": "Commodore Amiga 1000 System disks",
+            "altNames": [
+                "Commodore Amiga 1000"
+            ]
+        },
+        "amigaaga_flop": {
+            "id": "amigaaga_flop",
+            "shortName": "amigaaga_flop",
+            "name": "Commodore Amiga AGA disk images",
+            "altNames": [
+                "Commodore Amiga AGA"
+            ]
+        },
+        "amigaecs_flop": {
+            "id": "amigaecs_flop",
+            "shortName": "amigaecs_flop",
+            "name": "Commodore Amiga ECS disk images",
+            "altNames": [
+                "Commodore Amiga ECS"
+            ]
+        },
+        "amiga_hdd": {
+            "id": "amiga_hdd",
+            "shortName": "amiga_hdd",
+            "name": "Commodore Amiga hard disk images",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "a800_flop": {
+            "id": "a800_flop",
+            "shortName": "a800_flop",
+            "name": "Atari 400 / 800 floppy disks",
+            "altNames": [
+                "Atari 400 / 800"
+            ]
+        },
+        "a800": {
+            "id": "a800",
+            "shortName": "a800",
+            "name": "Atari 800 cartridges",
+            "altNames": [
+                "Atari 800"
+            ]
+        },
+        "a800_cass": {
+            "id": "a800_cass",
+            "shortName": "a800_cass",
+            "name": "Atari 400 / 800 cassettes",
+            "altNames": [
+                "Atari 400 / 800"
+            ]
+        },
+        "xegs": {
+            "id": "xegs",
+            "shortName": "xegs",
+            "name": "Atari XE Game System cartridges",
+            "altNames": [
+                "Atari XE Game System"
+            ]
+        },
+        "a2600": {
+            "id": "a2600",
+            "shortName": "a2600",
+            "name": "Atari 2600 cartridges",
+            "altNames": [
+                "Atari 2600"
+            ]
+        },
+        "a2600_cass": {
+            "id": "a2600_cass",
+            "shortName": "a2600_cass",
+            "name": "Atari 2600 cassettes",
+            "altNames": [
+                "Atari 2600"
+            ]
+        },
+        "amiga_a3000": {
+            "id": "amiga_a3000",
+            "shortName": "amiga_a3000",
+            "name": "Commodore Amiga 3000 System disks",
+            "altNames": [
+                "Commodore Amiga 3000"
+            ]
+        },
+        "a5200": {
+            "id": "a5200",
+            "shortName": "a5200",
+            "name": "Atari 5200 cartridges",
+            "altNames": [
+                "Atari 5200"
+            ]
+        },
+        "a7800": {
+            "id": "a7800",
+            "shortName": "a7800",
+            "name": "Atari 7800 cartridges",
+            "altNames": [
+                "Atari 7800"
+            ]
+        },
+        "archimedes": {
+            "id": "archimedes",
+            "shortName": "archimedes",
+            "name": "Acorn Archimedes floppy images",
+            "altNames": [
+                "Acorn Archimedes"
+            ]
+        },
+        "archimedes_hdd": {
+            "id": "archimedes_hdd",
+            "shortName": "archimedes_hdd",
+            "name": "Acorn Archimedes hard disks",
+            "altNames": [
+                "Acorn Archimedes"
+            ]
+        },
+        "archimedes_rom": {
+            "id": "archimedes_rom",
+            "shortName": "archimedes_rom",
+            "name": "Acorn Archimedes ROM images",
+            "altNames": [
+                "Acorn Archimedes"
+            ]
+        },
+        "bbc_cass": {
+            "id": "bbc_cass",
+            "shortName": "bbc_cass",
+            "name": "Acorn BBC Micro cassettes",
+            "altNames": [
+                "Acorn BBC Micro"
+            ]
+        },
+        "bbc_rom": {
+            "id": "bbc_rom",
+            "shortName": "bbc_rom",
+            "name": "Acorn BBC Micro ROMs",
+            "altNames": [
+                "Acorn BBC Micro"
+            ]
+        },
+        "bbc_flop_z80": {
+            "id": "bbc_flop_z80",
+            "shortName": "bbc_flop_z80",
+            "name": "Acorn Z80 2nd Processor discs",
+            "altNames": [
+                "Acorn Z80"
+            ]
+        },
+        "bbcb_flop": {
+            "id": "bbcb_flop",
+            "shortName": "bbcb_flop",
+            "name": "Acorn BBC Micro Model B disks",
+            "altNames": [
+                "Acorn BBC Micro Model B"
+            ]
+        },
+        "bbcb_flop_orig": {
+            "id": "bbcb_flop_orig",
+            "shortName": "bbcb_flop_orig",
+            "name": "Acorn BBC Micro Model B Original disks",
+            "altNames": [
+                "Acorn BBC Micro Model B"
+            ]
+        },
+        "bbc_hdd": {
+            "id": "bbc_hdd",
+            "shortName": "bbc_hdd",
+            "name": "Acorn BBC Micro hard disks",
+            "altNames": [
+                "Acorn BBC Micro"
+            ]
+        },
+        "abc1600_flop": {
+            "id": "abc1600_flop",
+            "shortName": "abc1600_flop",
+            "name": "Luxor ABC 1600 diskettes",
+            "altNames": [
+                "Luxor ABC 1600"
+            ]
+        },
+        "bbc_flop_80186": {
+            "id": "bbc_flop_80186",
+            "shortName": "bbc_flop_80186",
+            "name": "Acorn 80186 Co-Processor discs",
+            "altNames": [
+                "Acorn 80186 Co-Processor"
+            ]
+        },
+        "abc80_cass": {
+            "id": "abc80_cass",
+            "shortName": "abc80_cass",
+            "name": "Luxor ABC 80 cassettes",
+            "altNames": [
+                "Luxor ABC 80"
+            ]
+        },
+        "abc80_flop": {
+            "id": "abc80_flop",
+            "shortName": "abc80_flop",
+            "name": "Luxor ABC 80 diskettes",
+            "altNames": [
+                "Luxor ABC 80"
+            ]
+        },
+        "abc800": {
+            "id": "abc800",
+            "shortName": "abc800",
+            "name": "Luxor ABC 800 diskettes",
+            "altNames": [
+                "Luxor ABC 800"
+            ]
+        },
+        "abc800_hdd": {
+            "id": "abc800_hdd",
+            "shortName": "abc800_hdd",
+            "name": "Luxor ABC 800 hard disks",
+            "altNames": [
+                "Luxor ABC 800"
+            ]
+        },
+        "abc806": {
+            "id": "abc806",
+            "shortName": "abc806",
+            "name": "Luxor ABC 806 diskettes",
+            "altNames": [
+                "Luxor ABC 806"
+            ]
+        },
+        "apple2_flop_clcracked": {
+            "id": "apple2_flop_clcracked",
+            "shortName": "apple2_flop_clcracked",
+            "name": "Apple II cleanly cracked disks",
+            "altNames": [
+                "Apple II"
+            ]
+        },
+        "apple2_flop_orig": {
+            "id": "apple2_flop_orig",
+            "shortName": "apple2_flop_orig",
+            "name": "Apple II original disks",
+            "altNames": [
+                "Apple II"
+            ]
+        },
+        "apple2_flop_misc": {
+            "id": "apple2_flop_misc",
+            "shortName": "apple2_flop_misc",
+            "name": "Apple II miscellaneous disks",
+            "altNames": [
+                "Apple II"
+            ]
+        },
+        "apple2_cass": {
+            "id": "apple2_cass",
+            "shortName": "apple2_cass",
+            "name": "Apple II cassettes",
+            "altNames": [
+                "Apple II"
+            ]
+        },
+        "acrnsys_flop": {
+            "id": "acrnsys_flop",
+            "shortName": "acrnsys_flop",
+            "name": "Acorn System disk images",
+            "altNames": [
+                "Acorn System"
+            ]
+        },
+        "acrnsys_rom": {
+            "id": "acrnsys_rom",
+            "shortName": "acrnsys_rom",
+            "name": "Acorn System ROM images",
+            "altNames": [
+                "Acorn System"
+            ]
+        },
+        "bbc_flop_32016": {
+            "id": "bbc_flop_32016",
+            "shortName": "bbc_flop_32016",
+            "name": "Acorn 32016 Co-Processor discs",
+            "altNames": [
+                "Acorn 32016 Co-Processor"
+            ]
+        },
+        "coleco": {
+            "id": "coleco",
+            "shortName": "coleco",
+            "name": "Coleco ColecoVision cartridges",
+            "altNames": [
+                "Coleco ColecoVision"
+            ]
+        },
+        "adam_cart": {
+            "id": "adam_cart",
+            "shortName": "adam_cart",
+            "name": "Coleco Adam cartridges",
+            "altNames": [
+                "Coleco Adam"
+            ]
+        },
+        "adam_cass": {
+            "id": "adam_cass",
+            "shortName": "adam_cass",
+            "name": "Coleco Adam Digital Data Packs",
+            "altNames": [
+                "Coleco Adam"
+            ]
+        },
+        "adam_flop": {
+            "id": "adam_flop",
+            "shortName": "adam_flop",
+            "name": "Coleco ADAM diskettes",
+            "altNames": [
+                "Coleco ADAM"
+            ]
+        },
+        "advision": {
+            "id": "advision",
+            "shortName": "advision",
+            "name": "Entex AdventureVision cartridges",
+            "altNames": [
+                "Entex AdventureVision"
+            ]
+        },
+        "arcadia": {
+            "id": "arcadia",
+            "shortName": "arcadia",
+            "name": "Emerson Arcadia 2001 cartridges",
+            "altNames": [
+                "Emerson Arcadia 2001"
+            ]
+        },
+        "neogeo": {
+            "id": "neogeo",
+            "shortName": "neogeo",
+            "name": "SNK Neo-Geo cartridges",
+            "altNames": [
+                "SNK Neo-Geo"
+            ]
+        },
+        "pb2000c": {
+            "id": "pb2000c",
+            "shortName": "pb2000c",
+            "name": "Casio PB-2000C memory cards",
+            "altNames": [
+                "Casio PB-2000C"
+            ]
+        },
+        "aim65_cart": {
+            "id": "aim65_cart",
+            "shortName": "aim65_cart",
+            "name": "Rockwell AIM 65 cartridges",
+            "altNames": [
+                "Rockwell AIM 65"
+            ]
+        },
+        "cpc_cass": {
+            "id": "cpc_cass",
+            "shortName": "cpc_cass",
+            "name": "Amstrad CPC cassettes",
+            "altNames": [
+                "Amstrad CPC"
+            ]
+        },
+        "aleste": {
+            "id": "aleste",
+            "shortName": "aleste",
+            "name": "Patisonic Aleste 520EX floppies",
+            "altNames": [
+                "Patisonic Aleste 520EX"
+            ]
+        },
+        "cpc_flop": {
+            "id": "cpc_flop",
+            "shortName": "cpc_flop",
+            "name": "Amstrad CPC disk images",
+            "altNames": [
+                "Amstrad CPC"
+            ]
+        },
+        "pmd85_cass": {
+            "id": "pmd85_cass",
+            "shortName": "pmd85_cass",
+            "name": "Tesla PMD-85 cassettes",
+            "altNames": [
+                "Tesla PMD-85"
+            ]
+        },
+        "mc10": {
+            "id": "mc10",
+            "shortName": "mc10",
+            "name": "Tandy MC-10 cassettes",
+            "altNames": [
+                "Tandy MC-10"
+            ]
+        },
+        "alice32": {
+            "id": "alice32",
+            "shortName": "alice32",
+            "name": "Matra Alice 32 cassettes",
+            "altNames": [
+                "Matra Alice 32"
+            ]
+        },
+        "alice90": {
+            "id": "alice90",
+            "shortName": "alice90",
+            "name": "Matra Alice 90 cassettes",
+            "altNames": [
+                "Matra Alice 90"
+            ]
+        },
+        "alphatro_flop": {
+            "id": "alphatro_flop",
+            "shortName": "alphatro_flop",
+            "name": "Triumph-Adler Alphatronic PC diskettes",
+            "altNames": [
+                "Triumph-Adler Alphatronic PC"
+            ]
+        },
+        "alphatro_cart": {
+            "id": "alphatro_cart",
+            "shortName": "alphatro_cart",
+            "name": "Triumph-Adler Alphatronic PC cartridges",
+            "altNames": [
+                "Triumph-Adler Alphatronic PC"
+            ]
+        },
+        "altos5": {
+            "id": "altos5",
+            "shortName": "altos5",
+            "name": "Altos Series 5 floppies",
+            "altNames": [
+                "Altos Series 5"
+            ]
+        },
+        "altos8600": {
+            "id": "altos8600",
+            "shortName": "altos8600",
+            "name": "Altos 8600 floppies",
+            "altNames": [
+                "Altos 8600"
+            ]
+        },
+        "ampro": {
+            "id": "ampro",
+            "shortName": "ampro",
+            "name": "Ampro Little Z80 Board Disk Images",
+            "altNames": [
+                "Ampro Little Z80 Board"
+            ]
+        },
+        "special_cass": {
+            "id": "special_cass",
+            "shortName": "special_cass",
+            "name": "Specialist cassettes",
+            "altNames": [
+                "Specialist"
+            ]
+        },
+        "apc": {
+            "id": "apc",
+            "shortName": "apc",
+            "name": "NEC Advanced Personal Computer Disk Images",
+            "altNames": [
+                "NEC Advanced Personal Computer"
+            ]
+        },
+        "apexc_cyl": {
+            "id": "apexc_cyl",
+            "shortName": "apexc_cyl",
+            "name": "APEXC Cylinder images",
+            "altNames": [
+                "APEXC Cylinder"
+            ]
+        },
+        "apfm1000": {
+            "id": "apfm1000",
+            "shortName": "apfm1000",
+            "name": "APF M-1000 cartridges",
+            "altNames": [
+                "APF M-1000"
+            ]
+        },
+        "apfimag_cass": {
+            "id": "apfimag_cass",
+            "shortName": "apfimag_cass",
+            "name": "APF Imagination cassettes",
+            "altNames": [
+                "APF Imagination"
+            ]
+        },
+        "apogee": {
+            "id": "apogee",
+            "shortName": "apogee",
+            "name": "Apogee BK-01 cassettes",
+            "altNames": [
+                "Apogee BK-01"
+            ]
+        },
+        "studio2": {
+            "id": "studio2",
+            "shortName": "studio2",
+            "name": "RCA Studio II / Victory MPT-02 cartridges",
+            "altNames": [
+                "RCA Studio II / Victory MPT-02"
+            ]
+        },
+        "apple1": {
+            "id": "apple1",
+            "shortName": "apple1",
+            "name": "Apple 1 cassettes",
+            "altNames": [
+                "Apple 1"
+            ]
+        },
+        "apple2gs_flop_clcracked": {
+            "id": "apple2gs_flop_clcracked",
+            "shortName": "apple2gs_flop_clcracked",
+            "name": "Apple IIgs cleanly cracked disks",
+            "altNames": [
+                "Apple IIgs"
+            ]
+        },
+        "apple2gs_flop_orig": {
+            "id": "apple2gs_flop_orig",
+            "shortName": "apple2gs_flop_orig",
+            "name": "Apple IIgs original disks",
+            "altNames": [
+                "Apple IIgs"
+            ]
+        },
+        "apple2gs_flop_misc": {
+            "id": "apple2gs_flop_misc",
+            "shortName": "apple2gs_flop_misc",
+            "name": "Apple IIgs miscellaneous disks",
+            "altNames": [
+                "Apple IIgs"
+            ]
+        },
+        "apple3": {
+            "id": "apple3",
+            "shortName": "apple3",
+            "name": "Apple III 5.25 disks",
+            "altNames": [
+                "Apple III"
+            ]
+        },
+        "applix_flop": {
+            "id": "applix_flop",
+            "shortName": "applix_flop",
+            "name": "Applix 1616 floppies",
+            "altNames": [
+                "Applix 1616"
+            ]
+        },
+        "apricot_flop": {
+            "id": "apricot_flop",
+            "shortName": "apricot_flop",
+            "name": "ACT Apricot PC/Xi floppy disks",
+            "altNames": [
+                "ACT Apricot PC/Xi"
+            ]
+        },
+        "apxen_flop": {
+            "id": "apxen_flop",
+            "shortName": "apxen_flop",
+            "name": "ACT Apricot XEN floppy disks",
+            "altNames": [
+                "ACT Apricot XEN"
+            ]
+        },
+        "aquarius_cart": {
+            "id": "aquarius_cart",
+            "shortName": "aquarius_cart",
+            "name": "Mattel Aquarius cartridges",
+            "altNames": [
+                "Mattel Aquarius"
+            ]
+        },
+        "aquarius_cass": {
+            "id": "aquarius_cass",
+            "shortName": "aquarius_cass",
+            "name": "Mattel Aquarius cassettes",
+            "altNames": [
+                "Mattel Aquarius"
+            ]
+        },
+        "arb": {
+            "id": "arb",
+            "shortName": "arb",
+            "name": "ARB Modules",
+            "altNames": [
+                "ARB"
+            ]
+        },
+        "alphasmart_kapps": {
+            "id": "alphasmart_kapps",
+            "shortName": "alphasmart_kapps",
+            "name": "AlphaSmart 3000 SmartApplets",
+            "altNames": [
+                "AlphaSmart 3000 SmartApplets"
+            ]
+        },
+        "astrocde": {
+            "id": "astrocde",
+            "shortName": "astrocde",
+            "name": "Bally Professional Arcade cartridges",
+            "altNames": [
+                "Bally Professional Arcade"
+            ]
+        },
+        "spectrum_cass": {
+            "id": "spectrum_cass",
+            "shortName": "spectrum_cass",
+            "name": "Sinclair ZX Spectrum cassettes",
+            "altNames": [
+                "Sinclair ZX Spectrum"
+            ]
+        },
+        "atom_rom": {
+            "id": "atom_rom",
+            "shortName": "atom_rom",
+            "name": "Acorn Atom Utility ROMs",
+            "altNames": [
+                "Acorn Atom Utility"
+            ]
+        },
+        "atom_cass": {
+            "id": "atom_cass",
+            "shortName": "atom_cass",
+            "name": "Acorn Atom cassettes",
+            "altNames": [
+                "Acorn Atom"
+            ]
+        },
+        "atom_flop": {
+            "id": "atom_flop",
+            "shortName": "atom_flop",
+            "name": "Acorn Atom disk images",
+            "altNames": [
+                "Acorn Atom"
+            ]
+        },
+        "attache": {
+            "id": "attache",
+            "shortName": "attache",
+            "name": "Otrona Attache disk images",
+            "altNames": [
+                "Otrona Attache"
+            ]
+        },
+        "aussiebyte": {
+            "id": "aussiebyte",
+            "shortName": "aussiebyte",
+            "name": "Aussie Byte II floppies",
+            "altNames": [
+                "Aussie Byte II"
+            ]
+        },
+        "bbcm_flop": {
+            "id": "bbcm_flop",
+            "shortName": "bbcm_flop",
+            "name": "Acorn BBC Master disks",
+            "altNames": [
+                "Acorn BBC"
+            ]
+        },
+        "bbcmc_flop": {
+            "id": "bbcmc_flop",
+            "shortName": "bbcmc_flop",
+            "name": "Acorn BBC Master Compact disks",
+            "altNames": [
+                "Acorn BBC"
+            ]
+        },
+        "pro128s_flop": {
+            "id": "pro128s_flop",
+            "shortName": "pro128s_flop",
+            "name": "Olivetti Prodest PC 128S disks",
+            "altNames": [
+                "Olivetti Prodest PC 128S"
+            ]
+        },
+        "msx1_cass": {
+            "id": "msx1_cass",
+            "shortName": "msx1_cass",
+            "name": "MSX1 cassettes",
+            "altNames": [
+                "MSX1"
+            ]
+        },
+        "msx1_cart": {
+            "id": "msx1_cart",
+            "shortName": "msx1_cart",
+            "name": "MSX1 cartridges",
+            "altNames": [
+                "MSX1"
+            ]
+        },
+        "msx2_cass": {
+            "id": "msx2_cass",
+            "shortName": "msx2_cass",
+            "name": "MSX2 cassettes",
+            "altNames": [
+                "MSX2"
+            ]
+        },
+        "msx2_flop": {
+            "id": "msx2_flop",
+            "shortName": "msx2_flop",
+            "name": "MSX2 disk images",
+            "altNames": [
+                "MSX2"
+            ]
+        },
+        "msx1_flop": {
+            "id": "msx1_flop",
+            "shortName": "msx1_flop",
+            "name": "MSX1 disk images",
+            "altNames": [
+                "MSX1"
+            ]
+        },
+        "msx2_cart": {
+            "id": "msx2_cart",
+            "shortName": "msx2_cart",
+            "name": "MSX2 cartridges",
+            "altNames": [
+                "MSX2"
+            ]
+        },
+        "cbm2_cart": {
+            "id": "cbm2_cart",
+            "shortName": "cbm2_cart",
+            "name": "Commodore CBM-II cartridges",
+            "altNames": [
+                "Commodore CBM-II"
+            ]
+        },
+        "cbm2_flop": {
+            "id": "cbm2_flop",
+            "shortName": "cbm2_flop",
+            "name": "Commodore CBM-II diskettes",
+            "altNames": [
+                "Commodore CBM-II"
+            ]
+        },
+        "b2m": {
+            "id": "b2m",
+            "shortName": "b2m",
+            "name": "BNPO Bashkiria-2M disk images",
+            "altNames": [
+                "BNPO Bashkiria-2M"
+            ]
+        },
+        "basf7100": {
+            "id": "basf7100",
+            "shortName": "basf7100",
+            "name": "BASF 7100 floppy disks",
+            "altNames": [
+                "BASF 7100"
+            ]
+        },
+        "bbcb_flop_us": {
+            "id": "bbcb_flop_us",
+            "shortName": "bbcb_flop_us",
+            "name": "Acorn BBC Micro Model B (US) disks",
+            "altNames": [
+                "Acorn BBC Micro Model B"
+            ]
+        },
+        "bbcbc": {
+            "id": "bbcbc",
+            "shortName": "bbcbc",
+            "name": "BBC Bridge Companion cartridges",
+            "altNames": [
+                "BBC Bridge Companion"
+            ]
+        },
+        "bbcm_cart": {
+            "id": "bbcm_cart",
+            "shortName": "bbcm_cart",
+            "name": "Acorn BBC Master cartridges",
+            "altNames": [
+                "Acorn BBC"
+            ]
+        },
+        "bbc_flop_6502": {
+            "id": "bbc_flop_6502",
+            "shortName": "bbc_flop_6502",
+            "name": "Acorn 6502 2nd Processor discs",
+            "altNames": [
+                "Acorn 6502"
+            ]
+        },
+        "bbc_flop_arm": {
+            "id": "bbc_flop_arm",
+            "shortName": "bbc_flop_arm",
+            "name": "Acorn ARM Co-Processor discs",
+            "altNames": [
+                "Acorn ARM Co-Processor"
+            ]
+        },
+        "bdesignm_game_cart": {
+            "id": "bdesignm_game_cart",
+            "shortName": "bdesignm_game_cart",
+            "name": "Bandai Design Master 'Game' cartridges",
+            "altNames": [
+                "Bandai Design Master"
+            ]
+        },
+        "bdesignm_design_cart": {
+            "id": "bdesignm_design_cart",
+            "shortName": "bdesignm_design_cart",
+            "name": "Bandai Design Master 'Design / Media' cartridges",
+            "altNames": [
+                "Bandai Design Master"
+            ]
+        },
+        "sega_beena_cart": {
+            "id": "sega_beena_cart",
+            "shortName": "sega_beena_cart",
+            "name": "Sega Beena Cartridges",
+            "altNames": [
+                "Sega Beena"
+            ]
+        },
+        "xerox820": {
+            "id": "xerox820",
+            "shortName": "xerox820",
+            "name": "Xerox 820 Disk Images",
+            "altNames": [
+                "Xerox 820"
+            ]
+        },
+        "bk0010": {
+            "id": "bk0010",
+            "shortName": "bk0010",
+            "name": "Elektronika BK-0010 cassettes",
+            "altNames": [
+                "Elektronika BK-0010"
+            ]
+        },
+        "korvet_flop": {
+            "id": "korvet_flop",
+            "shortName": "korvet_flop",
+            "name": "Korvet disk images",
+            "altNames": [
+                "Korvet"
+            ]
+        },
+        "bkrankp_cart": {
+            "id": "bkrankp_cart",
+            "shortName": "bkrankp_cart",
+            "name": "Bandai Karaoke Ranking Party cartridges",
+            "altNames": [
+                "Bandai Karaoke Ranking Party"
+            ]
+        },
+        "glcx": {
+            "id": "glcx",
+            "shortName": "glcx",
+            "name": "VTech Genius Leader CX cartridges",
+            "altNames": [
+                "VTech Genius Leader CX"
+            ]
+        },
+        "buzztime_cart": {
+            "id": "buzztime_cart",
+            "shortName": "buzztime_cart",
+            "name": "Cadaco Buzztime Trivia Cartridges",
+            "altNames": [
+                "Cadaco Buzztime Trivia"
+            ]
+        },
+        "bw12": {
+            "id": "bw12",
+            "shortName": "bw12",
+            "name": "Bondwell 12 disk images",
+            "altNames": [
+                "Bondwell 12"
+            ]
+        },
+        "bw14": {
+            "id": "bw14",
+            "shortName": "bw14",
+            "name": "Bondwell 14 disk images",
+            "altNames": [
+                "Bondwell 14"
+            ]
+        },
+        "bw2": {
+            "id": "bw2",
+            "shortName": "bw2",
+            "name": "Bondwell 2 disk images",
+            "altNames": [
+                "Bondwell 2"
+            ]
+        },
+        "bx256hp_flop": {
+            "id": "bx256hp_flop",
+            "shortName": "bx256hp_flop",
+            "name": "Commodore BX256-80HP / CBM 730 diskettes",
+            "altNames": [
+                "Commodore BX256-80HP / CBM 730"
+            ]
+        },
+        "plus4_cart": {
+            "id": "plus4_cart",
+            "shortName": "plus4_cart",
+            "name": "Commodore Plus/4 cartridges",
+            "altNames": [
+                "Commodore Plus/4"
+            ]
+        },
+        "plus4_cass": {
+            "id": "plus4_cass",
+            "shortName": "plus4_cass",
+            "name": "Commodore Plus/4 / C16 / C116 cassettes",
+            "altNames": [
+                "Commodore Plus/4 / C16 / C116"
+            ]
+        },
+        "plus4_flop": {
+            "id": "plus4_flop",
+            "shortName": "plus4_flop",
+            "name": "Commodore Plus/4 diskettes",
+            "altNames": [
+                "Commodore Plus/4"
+            ]
+        },
+        "c128_cart": {
+            "id": "c128_cart",
+            "shortName": "c128_cart",
+            "name": "Commodore 128 cartridges",
+            "altNames": [
+                "Commodore 128"
+            ]
+        },
+        "c128_flop": {
+            "id": "c128_flop",
+            "shortName": "c128_flop",
+            "name": "Commodore 128 diskettes",
+            "altNames": [
+                "Commodore 128"
+            ]
+        },
+        "c128_rom": {
+            "id": "c128_rom",
+            "shortName": "c128_rom",
+            "name": "Commodore 128 Function ROMs",
+            "altNames": [
+                "Commodore 128"
+            ]
+        },
+        "c64_cart": {
+            "id": "c64_cart",
+            "shortName": "c64_cart",
+            "name": "Commodore 64 cartridges",
+            "altNames": [
+                "Commodore 64"
+            ]
+        },
+        "c64_cass": {
+            "id": "c64_cass",
+            "shortName": "c64_cass",
+            "name": "Commodore 64 cassettes",
+            "altNames": [
+                "Commodore 64"
+            ]
+        },
+        "vic10": {
+            "id": "vic10",
+            "shortName": "vic10",
+            "name": "Commodore VIC-10 / Max Machine / UltiMax cartridges",
+            "altNames": [
+                "Commodore VIC-10 / Max Machine / UltiMax"
+            ]
+        },
+        "c64_flop_orig": {
+            "id": "c64_flop_orig",
+            "shortName": "c64_flop_orig",
+            "name": "Commodore 64 original disks",
+            "altNames": [
+                "Commodore 64"
+            ]
+        },
+        "c64_flop_misc": {
+            "id": "c64_flop_misc",
+            "shortName": "c64_flop_misc",
+            "name": "Commodore 64 miscellaneous disks",
+            "altNames": [
+                "Commodore 64"
+            ]
+        },
+        "c2color_cart": {
+            "id": "c2color_cart",
+            "shortName": "c2color_cart",
+            "name": "C2 Color cartridges",
+            "altNames": [
+                "C2 Color"
+            ]
+        },
+        "c65_flop": {
+            "id": "c65_flop",
+            "shortName": "c65_flop",
+            "name": "Commodore 65 diskettes",
+            "altNames": [
+                "Commodore 65"
+            ]
+        },
+        "fmtowns_flop_orig": {
+            "id": "fmtowns_flop_orig",
+            "shortName": "fmtowns_flop_orig",
+            "name": "Fujitsu FM Towns original floppy disk images",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "fmtowns_flop_cracked": {
+            "id": "fmtowns_flop_cracked",
+            "shortName": "fmtowns_flop_cracked",
+            "name": "Fujitsu FM Towns cracked floppy disk images",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "fmtowns_flop_misc": {
+            "id": "fmtowns_flop_misc",
+            "shortName": "fmtowns_flop_misc",
+            "name": "Fujitsu FM Towns miscellaneous floppy disk images",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "fmtowns_cd": {
+            "id": "fmtowns_cd",
+            "shortName": "fmtowns_cd",
+            "name": "Fujitsu FM Towns CD-ROMs",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "casio_rompack": {
+            "id": "casio_rompack",
+            "shortName": "casio_rompack",
+            "name": "Casio ROM Packs",
+            "altNames": [
+                "Casio"
+            ]
+        },
+        "casloopy": {
+            "id": "casloopy",
+            "shortName": "casloopy",
+            "name": "Casio Loopy cartridges",
+            "altNames": [
+                "Casio Loopy"
+            ]
+        },
+        "pet_cass": {
+            "id": "pet_cass",
+            "shortName": "pet_cass",
+            "name": "Commodore PET cassettes",
+            "altNames": [
+                "Commodore PET"
+            ]
+        },
+        "pet_flop": {
+            "id": "pet_flop",
+            "shortName": "pet_flop",
+            "name": "Commodore PET diskettes",
+            "altNames": [
+                "Commodore PET"
+            ]
+        },
+        "pet_hdd": {
+            "id": "pet_hdd",
+            "shortName": "pet_hdd",
+            "name": "Commodore PET hard disks",
+            "altNames": [
+                "Commodore PET"
+            ]
+        },
+        "pet_quik": {
+            "id": "pet_quik",
+            "shortName": "pet_quik",
+            "name": "Commodore PET quickload",
+            "altNames": [
+                "Commodore PET"
+            ]
+        },
+        "pet_rom": {
+            "id": "pet_rom",
+            "shortName": "pet_rom",
+            "name": "Commodore PET Function ROMs",
+            "altNames": [
+                "Commodore PET"
+            ]
+        },
+        "cbm8096_flop": {
+            "id": "cbm8096_flop",
+            "shortName": "cbm8096_flop",
+            "name": "Commodore 8096 diskettes",
+            "altNames": [
+                "Commodore 8096"
+            ]
+        },
+        "cbm8296_flop": {
+            "id": "cbm8296_flop",
+            "shortName": "cbm8296_flop",
+            "name": "Commodore 8296 diskettes",
+            "altNames": [
+                "Commodore 8296"
+            ]
+        },
+        "cc40_cart": {
+            "id": "cc40_cart",
+            "shortName": "cc40_cart",
+            "name": "CC-40 cartridges",
+            "altNames": [
+                "CC-40"
+            ]
+        },
+        "cd32": {
+            "id": "cd32",
+            "shortName": "cd32",
+            "name": "Commodore Amiga CD32 CD-ROMs",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "cdtv": {
+            "id": "cdtv",
+            "shortName": "cdtv",
+            "name": "Commodore Amiga CDTV CD-ROMs",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "coco_cart": {
+            "id": "coco_cart",
+            "shortName": "coco_cart",
+            "name": "Tandy Radio Shack Color Computer cartridges",
+            "altNames": [
+                "Tandy Radio Shack Color Computer"
+            ]
+        },
+        "coco_flop": {
+            "id": "coco_flop",
+            "shortName": "coco_flop",
+            "name": "Tandy Radio Shack Color Computer disk images",
+            "altNames": [
+                "Tandy Radio Shack Color Computer"
+            ]
+        },
+        "dragon_cart": {
+            "id": "dragon_cart",
+            "shortName": "dragon_cart",
+            "name": "Dragon cartridges",
+            "altNames": [
+                "Dragon"
+            ]
+        },
+        "cdi": {
+            "id": "cdi",
+            "shortName": "cdi",
+            "name": "Philips CD-i CD-ROMs",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "cecflop": {
+            "id": "cecflop",
+            "shortName": "cecflop",
+            "name": "China Education Computer 5.25 inch floppies",
+            "altNames": [
+                "China Education Computer"
+            ]
+        },
+        "cgenie_cass": {
+            "id": "cgenie_cass",
+            "shortName": "cgenie_cass",
+            "name": "EACA Colour Genie EG2000 cassettes",
+            "altNames": [
+                "EACA Colour Genie EG2000"
+            ]
+        },
+        "channelf": {
+            "id": "channelf",
+            "shortName": "channelf",
+            "name": "Fairchild Channel F cartridges",
+            "altNames": [
+                "Fairchild Channel F"
+            ]
+        },
+        "chessmstdm": {
+            "id": "chessmstdm",
+            "shortName": "chessmstdm",
+            "name": "Chess-Master Diamond Modules",
+            "altNames": [
+                "Chess-Master Diamond"
+            ]
+        },
+        "clickstart_cart": {
+            "id": "clickstart_cart",
+            "shortName": "clickstart_cart",
+            "name": "LeapFrog ClickStart cartridges",
+            "altNames": [
+                "LeapFrog ClickStart"
+            ]
+        },
+        "clipper_flop": {
+            "id": "clipper_flop",
+            "shortName": "clipper_flop",
+            "name": "PDC Clipper disks",
+            "altNames": [
+                "PDC Clipper"
+            ]
+        },
+        "u110_card": {
+            "id": "u110_card",
+            "shortName": "u110_card",
+            "name": "Roland U-110 PCM memory cards",
+            "altNames": [
+                "Roland U-110 PCM"
+            ]
+        },
+        "compclr2_flop": {
+            "id": "compclr2_flop",
+            "shortName": "compclr2_flop",
+            "name": "Compucolor II Disk Images",
+            "altNames": [
+                "Compucolor II"
+            ]
+        },
+        "compis": {
+            "id": "compis",
+            "shortName": "compis",
+            "name": "Telenova Compis disk images",
+            "altNames": [
+                "Telenova Compis"
+            ]
+        },
+        "comx35_flop": {
+            "id": "comx35_flop",
+            "shortName": "comx35_flop",
+            "name": "COMX-35 diskettes",
+            "altNames": [
+                "COMX-35"
+            ]
+        },
+        "conchess_plymate": {
+            "id": "conchess_plymate",
+            "shortName": "conchess_plymate",
+            "name": "Conchess Plymate Modules",
+            "altNames": [
+                "Conchess Plymate"
+            ]
+        },
+        "conchess_standard": {
+            "id": "conchess_standard",
+            "shortName": "conchess_standard",
+            "name": "Conchess Standard Modules",
+            "altNames": [
+                "Conchess Standard"
+            ]
+        },
+        "copera": {
+            "id": "copera",
+            "shortName": "copera",
+            "name": "Yamaha / Sega Copera cartridges",
+            "altNames": [
+                "Yamaha / Sega Copera"
+            ]
+        },
+        "saitek_egr": {
+            "id": "saitek_egr",
+            "shortName": "saitek_egr",
+            "name": "Saitek Endgame ROM",
+            "altNames": [
+                "Saitek Endgame"
+            ]
+        },
+        "trs80_cass": {
+            "id": "trs80_cass",
+            "shortName": "trs80_cass",
+            "name": "Radio Shack TRS-80 cassettes",
+            "altNames": [
+                "Radio Shack TRS-80"
+            ]
+        },
+        "trs80_quik": {
+            "id": "trs80_quik",
+            "shortName": "trs80_quik",
+            "name": "Radio Shack TRS-80 quickload",
+            "altNames": [
+                "Radio Shack TRS-80"
+            ]
+        },
+        "trs80_flop": {
+            "id": "trs80_flop",
+            "shortName": "trs80_flop",
+            "name": "Radio Shack TRS-80 floppies",
+            "altNames": [
+                "Radio Shack TRS-80"
+            ]
+        },
+        "gx4000": {
+            "id": "gx4000",
+            "shortName": "gx4000",
+            "name": "Amstrad CPC Plus & GX4000 cartridges",
+            "altNames": [
+                "Amstrad CPC Plus & GX4000"
+            ]
+        },
+        "guab": {
+            "id": "guab",
+            "shortName": "guab",
+            "name": "JPM Give us a Break floppy disks",
+            "altNames": [
+                "JPM Give us a Break"
+            ]
+        },
+        "crvision": {
+            "id": "crvision",
+            "shortName": "crvision",
+            "name": "V-Tech Creativision cartridges",
+            "altNames": [
+                "V-Tech Creativision"
+            ]
+        },
+        "cx3000tc": {
+            "id": "cx3000tc",
+            "shortName": "cx3000tc",
+            "name": "Palson CX 3000 Tele Computer cartridges",
+            "altNames": [
+                "Palson CX 3000 Tele Computer"
+            ]
+        },
+        "dragon_cass": {
+            "id": "dragon_cass",
+            "shortName": "dragon_cass",
+            "name": "Dragon 32/64 cassettes",
+            "altNames": [
+                "Dragon 32/64"
+            ]
+        },
+        "dragon_flop": {
+            "id": "dragon_flop",
+            "shortName": "dragon_flop",
+            "name": "Dragon DOS diskettes",
+            "altNames": [
+                "Dragon DOS"
+            ]
+        },
+        "dragon_flex": {
+            "id": "dragon_flex",
+            "shortName": "dragon_flex",
+            "name": "Dragon FLEX diskettes",
+            "altNames": [
+                "Dragon FLEX"
+            ]
+        },
+        "dragon_os9": {
+            "id": "dragon_os9",
+            "shortName": "dragon_os9",
+            "name": "Dragon OS-9 diskettes",
+            "altNames": [
+                "Dragon OS-9"
+            ]
+        },
+        "chip8_quik": {
+            "id": "chip8_quik",
+            "shortName": "chip8_quik",
+            "name": "CHIP8 quickload",
+            "altNames": [
+                "CHIP8"
+            ]
+        },
+        "dai_cass": {
+            "id": "dai_cass",
+            "shortName": "dai_cass",
+            "name": "DAI Personal Computer cassettes",
+            "altNames": [
+                "DAI Personal Computer"
+            ]
+        },
+        "database": {
+            "id": "database",
+            "shortName": "database",
+            "name": "Voltmace Database cartridges",
+            "altNames": [
+                "Voltmace Database"
+            ]
+        },
+        "dc": {
+            "id": "dc",
+            "shortName": "dc",
+            "name": "Sega Dreamcast GD-ROMs",
+            "altNames": [
+                "Sega Dreamcast GD-"
+            ]
+        },
+        "ekara_japan_p": {
+            "id": "ekara_japan_p",
+            "shortName": "ekara_japan_p",
+            "name": "Takara e-kara (Japan) Platinum Cartridge series (P-xx / PCxxxx-)",
+            "altNames": [
+                "Takara e-kara (Japan) Platinum Cartridge series (P-xx / PCxxxx-)"
+            ]
+        },
+        "nes": {
+            "id": "nes",
+            "shortName": "nes",
+            "name": "Nintendo Entertainment System cartridges",
+            "altNames": [
+                "Nintendo Entertainment System"
+            ]
+        },
+        "nes_ade": {
+            "id": "nes_ade",
+            "shortName": "nes_ade",
+            "name": "Nintendo Entertainment System - Aladdin Deck Enhancer cartridges",
+            "altNames": [
+                "Nintendo Entertainment System"
+            ]
+        },
+        "nes_ntbrom": {
+            "id": "nes_ntbrom",
+            "shortName": "nes_ntbrom",
+            "name": "Nintendo Entertainment System - Nantettatte!! Baseball mini-cartridges",
+            "altNames": [
+                "Nintendo Entertainment System"
+            ]
+        },
+        "nes_kstudio": {
+            "id": "nes_kstudio",
+            "shortName": "nes_kstudio",
+            "name": "Nintendo Entertainment System - Karaoke Studio expansion cartridges",
+            "altNames": [
+                "Nintendo Entertainment System - Karaoke Studio expansion"
+            ]
+        },
+        "nes_datach": {
+            "id": "nes_datach",
+            "shortName": "nes_datach",
+            "name": "Nintendo Entertainment System - Datach Joint ROM System mini-cartridges",
+            "altNames": [
+                "Nintendo Entertainment System"
+            ]
+        },
+        "famibox": {
+            "id": "famibox",
+            "shortName": "famibox",
+            "name": "Nintendo FamicomBox cartridges",
+            "altNames": [
+                "Nintendo FamicomBox"
+            ]
+        },
+        "famicom_cass": {
+            "id": "famicom_cass",
+            "shortName": "famicom_cass",
+            "name": "Nintendo Famicom Family BASIC cassettes",
+            "altNames": [
+                "Nintendo Famicom Family BASIC"
+            ]
+        },
+        "dgnalpha_flop": {
+            "id": "dgnalpha_flop",
+            "shortName": "dgnalpha_flop",
+            "name": "Dragon Alpha (Professional) diskettes",
+            "altNames": [
+                "Dragon Alpha (Professional)"
+            ]
+        },
+        "dgnbeta_flop": {
+            "id": "dgnbeta_flop",
+            "shortName": "dgnbeta_flop",
+            "name": "Dragon Beta diskettes",
+            "altNames": [
+                "Dragon Beta"
+            ]
+        },
+        "leapfrog_didj_cart": {
+            "id": "leapfrog_didj_cart",
+            "shortName": "leapfrog_didj_cart",
+            "name": "LeapFrog Didj Cartridges",
+            "altNames": [
+                "LeapFrog Didj"
+            ]
+        },
+        "digilog320": {
+            "id": "digilog320",
+            "shortName": "digilog320",
+            "name": "Digilog 320 Disks",
+            "altNames": [
+                "Digilog 320"
+            ]
+        },
+        "dim68k": {
+            "id": "dim68k",
+            "shortName": "dim68k",
+            "name": "Dimension 68000 Disks",
+            "altNames": [
+                "Dimension 68000"
+            ]
+        },
+        "dmv": {
+            "id": "dmv",
+            "shortName": "dmv",
+            "name": "NCR Decision Mate V disk images",
+            "altNames": [
+                "NCR Decision Mate V"
+            ]
+        },
+        "apollo_ctape": {
+            "id": "apollo_ctape",
+            "shortName": "apollo_ctape",
+            "name": "Apollo cartridge tapes",
+            "altNames": [
+                "Apollo"
+            ]
+        },
+        "dps1": {
+            "id": "dps1",
+            "shortName": "dps1",
+            "name": "Ithaca InterSystems DPS-1 diskettes",
+            "altNames": [
+                "Ithaca InterSystems DPS-1"
+            ]
+        },
+        "famicom_flop": {
+            "id": "famicom_flop",
+            "shortName": "famicom_flop",
+            "name": "Nintendo Famicom Disk images",
+            "altNames": [
+                "Nintendo Famicom"
+            ]
+        },
+        "easy_karaoke_cart": {
+            "id": "easy_karaoke_cart",
+            "shortName": "easy_karaoke_cart",
+            "name": "IVL Technologies Easy Karaoke cartridges",
+            "altNames": [
+                "IVL Technologies Easy Karaoke"
+            ]
+        },
+        "ec1841": {
+            "id": "ec1841",
+            "shortName": "ec1841",
+            "name": "EC 1841 disk images",
+            "altNames": [
+                "EC 1841"
+            ]
+        },
+        "hx20_rom": {
+            "id": "hx20_rom",
+            "shortName": "hx20_rom",
+            "name": "Epson HX-20 Optional ROMs",
+            "altNames": [
+                "Epson HX-20"
+            ]
+        },
+        "epson_cpm": {
+            "id": "epson_cpm",
+            "shortName": "epson_cpm",
+            "name": "Epson CPM systems floppy disks",
+            "altNames": [
+                "Epson CPM systems"
+            ]
+        },
+        "einstein": {
+            "id": "einstein",
+            "shortName": "einstein",
+            "name": "Tatung Einstein TC-01 disk images",
+            "altNames": [
+                "Tatung Einstein TC-01"
+            ]
+        },
+        "ekara_us": {
+            "id": "ekara_us",
+            "shortName": "ekara_us",
+            "name": "Takara e-kara (US) cartridges",
+            "altNames": [
+                "Takara e-kara (US)"
+            ]
+        },
+        "ekara_pal": {
+            "id": "ekara_pal",
+            "shortName": "ekara_pal",
+            "name": "Takara e-kara (UK/Europe, PAL) cartridges",
+            "altNames": [
+                "Takara e-kara (UK/Europe, PAL)"
+            ]
+        },
+        "ekara_japan": {
+            "id": "ekara_japan",
+            "shortName": "ekara_japan",
+            "name": "Takara e-kara (Japan) ECxxxx- series cartridges",
+            "altNames": [
+                "Takara e-kara (Japan) ECxxxx-"
+            ]
+        },
+        "ekara_japan_g": {
+            "id": "ekara_japan_g",
+            "shortName": "ekara_japan_g",
+            "name": "Takara e-kara (Japan) Gold Cartridge series (G-xx / GCxxxx-)",
+            "altNames": [
+                "Takara e-kara (Japan) Gold Cartridge series (G-xx / GCxxxx-)"
+            ]
+        },
+        "ekara_japan_s": {
+            "id": "ekara_japan_s",
+            "shortName": "ekara_japan_s",
+            "name": "Takara e-kara (Japan) Saiten Cartridge series (S-xx / SCxxxx-)",
+            "altNames": [
+                "Takara e-kara (Japan) Saiten Cartridge series (S-xx / SCxxxx-)"
+            ]
+        },
+        "ekara_japan_m": {
+            "id": "ekara_japan_m",
+            "shortName": "ekara_japan_m",
+            "name": "Takara e-kara (Japan) Saiten Cartridge mini series (M-xx / MCxxxx-)",
+            "altNames": [
+                "Takara e-kara (Japan) Saiten Cartridge mini series (M-xx / MCxxxx-)"
+            ]
+        },
+        "ekara_japan_d": {
+            "id": "ekara_japan_d",
+            "shortName": "ekara_japan_d",
+            "name": "Takara e-kara (Japan) Dream Cartridge series (D-xx / DCxxxx-)",
+            "altNames": [
+                "Takara e-kara (Japan) Dream Cartridge series (D-xx / DCxxxx-)"
+            ]
+        },
+        "ekara_japan_en": {
+            "id": "ekara_japan_en",
+            "shortName": "ekara_japan_en",
+            "name": "Takara e-kara (Japan) EN-xx series cartridges",
+            "altNames": [
+                "Takara e-kara (Japan) EN-xx"
+            ]
+        },
+        "ekara_japan_sp": {
+            "id": "ekara_japan_sp",
+            "shortName": "ekara_japan_sp",
+            "name": "Takara e-kara (Japan) Super Cartridge series (SP-xx)",
+            "altNames": [
+                "Takara e-kara (Japan) Super Cartridge series (SP-xx)"
+            ]
+        },
+        "ekara_japan_web": {
+            "id": "ekara_japan_web",
+            "shortName": "ekara_japan_web",
+            "name": "Takara e-kara (Japan) Web cartridges",
+            "altNames": [
+                "Takara e-kara (Japan) Web"
+            ]
+        },
+        "ekara_japan_a": {
+            "id": "ekara_japan_a",
+            "shortName": "ekara_japan_a",
+            "name": "Takara e-pitch / e-kara (Japan) A-x series cartridges",
+            "altNames": [
+                "Takara e-pitch / e-kara (Japan) A-x"
+            ]
+        },
+        "ekara_japan_gk": {
+            "id": "ekara_japan_gk",
+            "shortName": "ekara_japan_gk",
+            "name": "Takara e-kara (Japan) Game and Karaoke Cartridge series (GK-xx)",
+            "altNames": [
+                "Takara e-kara (Japan) Game and Karaoke Cartridge series (GK-xx)"
+            ]
+        },
+        "ekara_japan_bh": {
+            "id": "ekara_japan_bh",
+            "shortName": "ekara_japan_bh",
+            "name": "Takara e-kara (Japan) BH-xx series cartridges",
+            "altNames": [
+                "Takara e-kara (Japan) BH-xx"
+            ]
+        },
+        "ekara_japan_ac": {
+            "id": "ekara_japan_ac",
+            "shortName": "ekara_japan_ac",
+            "name": "Takara e-kara (Japan) ACxxxx series cartridges",
+            "altNames": [
+                "Takara e-kara (Japan) ACxxxx"
+            ]
+        },
+        "electron_cass": {
+            "id": "electron_cass",
+            "shortName": "electron_cass",
+            "name": "Acorn Electron cassettes",
+            "altNames": [
+                "Acorn Electron"
+            ]
+        },
+        "electron_cart": {
+            "id": "electron_cart",
+            "shortName": "electron_cart",
+            "name": "Acorn Electron cartridges",
+            "altNames": [
+                "Acorn Electron"
+            ]
+        },
+        "electron_flop": {
+            "id": "electron_flop",
+            "shortName": "electron_flop",
+            "name": "Acorn Electron disks",
+            "altNames": [
+                "Acorn Electron"
+            ]
+        },
+        "electron_rom": {
+            "id": "electron_rom",
+            "shortName": "electron_rom",
+            "name": "Acorn Electron ROMs",
+            "altNames": [
+                "Acorn Electron"
+            ]
+        },
+        "ep64_cart": {
+            "id": "ep64_cart",
+            "shortName": "ep64_cart",
+            "name": "Enterprise Sixty Four cartridges",
+            "altNames": [
+                "Enterprise Sixty Four"
+            ]
+        },
+        "ep64_cass": {
+            "id": "ep64_cass",
+            "shortName": "ep64_cass",
+            "name": "Enterprise Sixty Four cassettes",
+            "altNames": [
+                "Enterprise Sixty Four"
+            ]
+        },
+        "ep64_flop": {
+            "id": "ep64_flop",
+            "shortName": "ep64_flop",
+            "name": "Enterprise Sixty Four diskettes",
+            "altNames": [
+                "Enterprise Sixty Four"
+            ]
+        },
+        "eti660_quik": {
+            "id": "eti660_quik",
+            "shortName": "eti660_quik",
+            "name": "ETI-660 quickload",
+            "altNames": [
+                "ETI-660"
+            ]
+        },
+        "evio": {
+            "id": "evio",
+            "shortName": "evio",
+            "name": "Tomy evio Media cartridges",
+            "altNames": [
+                "Tomy evio"
+            ]
+        },
+        "ews286_flop": {
+            "id": "ews286_flop",
+            "shortName": "ews286_flop",
+            "name": "Ericsson PC AT WS286 diskettes",
+            "altNames": [
+                "Ericsson PC AT WS286"
+            ]
+        },
+        "excalibur64": {
+            "id": "excalibur64",
+            "shortName": "excalibur64",
+            "name": "Excalibur 64 floppies",
+            "altNames": [
+                "Excalibur 64"
+            ]
+        },
+        "exl100": {
+            "id": "exl100",
+            "shortName": "exl100",
+            "name": "Exelvision EXL 100 cartridges",
+            "altNames": [
+                "Exelvision EXL 100"
+            ]
+        },
+        "msx2p_flop": {
+            "id": "msx2p_flop",
+            "shortName": "msx2p_flop",
+            "name": "MSX2+ disk images",
+            "altNames": [
+                "MSX2+"
+            ]
+        },
+        "st_flop": {
+            "id": "st_flop",
+            "shortName": "st_flop",
+            "name": "Atari ST disk images",
+            "altNames": [
+                "Atari ST"
+            ]
+        },
+        "st_cart": {
+            "id": "st_cart",
+            "shortName": "st_cart",
+            "name": "Atari ST cartridges",
+            "altNames": [
+                "Atari ST"
+            ]
+        },
+        "fidel_scc": {
+            "id": "fidel_scc",
+            "shortName": "fidel_scc",
+            "name": "Fidelity SCC Modules",
+            "altNames": [
+                "Fidelity SCC"
+            ]
+        },
+        "vz_cass": {
+            "id": "vz_cass",
+            "shortName": "vz_cass",
+            "name": "Dick Smith Electronics VZ-200/300 cassettes",
+            "altNames": [
+                "Dick Smith Electronics VZ-200/300"
+            ]
+        },
+        "vz_snap": {
+            "id": "vz_snap",
+            "shortName": "vz_snap",
+            "name": "Dick Smith Electronics VZ-200/300 snapshots",
+            "altNames": [
+                "Dick Smith Electronics VZ-200/300"
+            ]
+        },
+        "fm7_cass": {
+            "id": "fm7_cass",
+            "shortName": "fm7_cass",
+            "name": "Fujitsu FM-7 cassettes",
+            "altNames": [
+                "Fujitsu FM-7"
+            ]
+        },
+        "fm8_cass": {
+            "id": "fm8_cass",
+            "shortName": "fm8_cass",
+            "name": "Fujitsu FM-8 cassettes",
+            "altNames": [
+                "Fujitsu FM-8"
+            ]
+        },
+        "fm7_disk": {
+            "id": "fm7_disk",
+            "shortName": "fm7_disk",
+            "name": "Fujitsu FM-7 disk images",
+            "altNames": [
+                "Fujitsu FM-7"
+            ]
+        },
+        "fm77av": {
+            "id": "fm77av",
+            "shortName": "fm77av",
+            "name": "Fujitsu FM-77AV disk images",
+            "altNames": [
+                "Fujitsu FM-77AV"
+            ]
+        },
+        "msxr_flop": {
+            "id": "msxr_flop",
+            "shortName": "msxr_flop",
+            "name": "MSX Turbo-R disk images",
+            "altNames": [
+                "MSX Turbo-R"
+            ]
+        },
+        "fidel_sc6": {
+            "id": "fidel_sc6",
+            "shortName": "fidel_sc6",
+            "name": "Fidelity SC6 Modules",
+            "altNames": [
+                "Fidelity SC6"
+            ]
+        },
+        "galaxy": {
+            "id": "galaxy",
+            "shortName": "galaxy",
+            "name": "Galaksija & Galaksija Plus cassettes",
+            "altNames": [
+                "Galaksija & Galaksija Plus"
+            ]
+        },
+        "gamate": {
+            "id": "gamate",
+            "shortName": "gamate",
+            "name": "Bit Corp Gamate cartridges",
+            "altNames": [
+                "Bit Corp Gamate"
+            ]
+        },
+        "gameboy": {
+            "id": "gameboy",
+            "shortName": "gameboy",
+            "name": "Nintendo Game Boy cartridges",
+            "altNames": [
+                "Nintendo Game Boy"
+            ]
+        },
+        "gbcolor": {
+            "id": "gbcolor",
+            "shortName": "gbcolor",
+            "name": "Nintendo Game Boy Color cartridges",
+            "altNames": [
+                "Nintendo Game Boy Color"
+            ]
+        },
+        "gamecom": {
+            "id": "gamecom",
+            "shortName": "gamecom",
+            "name": "Tiger Game.com cartridges",
+            "altNames": [
+                "Tiger Game.com"
+            ]
+        },
+        "gamegear": {
+            "id": "gamegear",
+            "shortName": "gamegear",
+            "name": "Sega Game Gear cartridges",
+            "altNames": [
+                "Sega Game Gear"
+            ]
+        },
+        "gameking": {
+            "id": "gameking",
+            "shortName": "gameking",
+            "name": "TimeTop GameKing cartridges",
+            "altNames": [
+                "TimeTop GameKing"
+            ]
+        },
+        "gameking3": {
+            "id": "gameking3",
+            "shortName": "gameking3",
+            "name": "TimeTop GameKing 3 cartridges",
+            "altNames": [
+                "TimeTop GameKing 3"
+            ]
+        },
+        "gamepock": {
+            "id": "gamepock",
+            "shortName": "gamepock",
+            "name": "Epoch Game Pocket Computer cartridges",
+            "altNames": [
+                "Epoch Game Pocket Computer"
+            ]
+        },
+        "gba": {
+            "id": "gba",
+            "shortName": "gba",
+            "name": "Nintendo Game Boy Advance cartridges",
+            "altNames": [
+                "Nintendo Game Boy Advance"
+            ]
+        },
+        "pc1000": {
+            "id": "pc1000",
+            "shortName": "pc1000",
+            "name": "VTech PreComputer 1000 cartridges",
+            "altNames": [
+                "VTech PreComputer 1000"
+            ]
+        },
+        "gcslottv": {
+            "id": "gcslottv",
+            "shortName": "gcslottv",
+            "name": "Gachinko Shōbu! PachisloTV cartridges",
+            "altNames": [
+                "Gachinko Shōbu! PachisloTV"
+            ]
+        },
+        "megadriv": {
+            "id": "megadriv",
+            "shortName": "megadriv",
+            "name": "Sega Mega Drive/Genesis cartridges",
+            "altNames": [
+                "Sega Mega Drive/Genesis"
+            ]
+        },
+        "ggm": {
+            "id": "ggm",
+            "shortName": "ggm",
+            "name": "GGM Cartridges",
+            "altNames": [
+                "GGM"
+            ]
+        },
+        "gimix": {
+            "id": "gimix",
+            "shortName": "gimix",
+            "name": "Gimix 6809 System disks",
+            "altNames": [
+                "Gimix 6809"
+            ]
+        },
+        "gj4000": {
+            "id": "gj4000",
+            "shortName": "gj4000",
+            "name": "VTech Genius Junior 4000 cartridges",
+            "altNames": [
+                "VTech Genius Junior 4000"
+            ]
+        },
+        "gjmovie": {
+            "id": "gjmovie",
+            "shortName": "gjmovie",
+            "name": "VTech Genius Junior Movie cartridges",
+            "altNames": [
+                "VTech Genius Junior Movie"
+            ]
+        },
+        "gjrstar": {
+            "id": "gjrstar",
+            "shortName": "gjrstar",
+            "name": "VTech Genius Junior Redstar cartridges",
+            "altNames": [
+                "VTech Genius Junior Redstar"
+            ]
+        },
+        "gl2000": {
+            "id": "gl2000",
+            "shortName": "gl2000",
+            "name": "VTech Genius Leader 2000 cartridges",
+            "altNames": [
+                "VTech Genius Leader 2000"
+            ]
+        },
+        "misterx": {
+            "id": "misterx",
+            "shortName": "misterx",
+            "name": "Yeno MisterX cartridges",
+            "altNames": [
+                "Yeno MisterX"
+            ]
+        },
+        "gl6000sl": {
+            "id": "gl6000sl",
+            "shortName": "gl6000sl",
+            "name": "VTech Genius Leader 6000SL cartridges",
+            "altNames": [
+                "VTech Genius Leader 6000SL"
+            ]
+        },
+        "glcolor": {
+            "id": "glcolor",
+            "shortName": "glcolor",
+            "name": "VTech Genius Leader Color cartridges",
+            "altNames": [
+                "VTech Genius Leader Color"
+            ]
+        },
+        "snotec": {
+            "id": "snotec",
+            "shortName": "snotec",
+            "name": "Bandai Super Note Club cartridges",
+            "altNames": [
+                "Bandai Super Note Club"
+            ]
+        },
+        "gln": {
+            "id": "gln",
+            "shortName": "gln",
+            "name": "VTech Genius Leader Notebook cartridges",
+            "altNames": [
+                "VTech Genius Leader Notebook"
+            ]
+        },
+        "gls": {
+            "id": "gls",
+            "shortName": "gls",
+            "name": "VTech Genius Leader Select cartridges",
+            "altNames": [
+                "VTech Genius Leader Select"
+            ]
+        },
+        "gmaster": {
+            "id": "gmaster",
+            "shortName": "gmaster",
+            "name": "Hartung Game Master cartridges",
+            "altNames": [
+                "Hartung Game"
+            ]
+        },
+        "gp32": {
+            "id": "gp32",
+            "shortName": "gp32",
+            "name": "GamePark GP32 SmartMedia cards",
+            "altNames": [
+                "GamePark GP32"
+            ]
+        },
+        "h21": {
+            "id": "h21",
+            "shortName": "h21",
+            "name": "TRQ Video Computer H-21 cartridges",
+            "altNames": [
+                "TRQ Video Computer H-21"
+            ]
+        },
+        "interact": {
+            "id": "interact",
+            "shortName": "interact",
+            "name": "Interact Family Computer cassettes",
+            "altNames": [
+                "Interact Family Computer"
+            ]
+        },
+        "saturn": {
+            "id": "saturn",
+            "shortName": "saturn",
+            "name": "Sega Saturn CD-ROMs",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "sat_cart": {
+            "id": "sat_cart",
+            "shortName": "sat_cart",
+            "name": "Sega Saturn cartridges",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "hp85_rom": {
+            "id": "hp85_rom",
+            "shortName": "hp85_rom",
+            "name": "HP-85 Option ROMs",
+            "altNames": [
+                "HP-85"
+            ]
+        },
+        "hp86_rom": {
+            "id": "hp86_rom",
+            "shortName": "hp86_rom",
+            "name": "HP-86/7 Option ROMs",
+            "altNames": [
+                "HP-86/7"
+            ]
+        },
+        "hp_ipc": {
+            "id": "hp_ipc",
+            "shortName": "hp_ipc",
+            "name": "HP Integral PC diskettes",
+            "altNames": [
+                "HP Integral PC"
+            ]
+        },
+        "hp_ipc_rom": {
+            "id": "hp_ipc_rom",
+            "shortName": "hp_ipc_rom",
+            "name": "HP Integral PC optional ROMs",
+            "altNames": [
+                "HP Integral PC"
+            ]
+        },
+        "hp9825b_rom": {
+            "id": "hp9825b_rom",
+            "shortName": "hp9825b_rom",
+            "name": "HP 9825B Option ROMs",
+            "altNames": [
+                "HP 9825B"
+            ]
+        },
+        "hp9835a_rom": {
+            "id": "hp9835a_rom",
+            "shortName": "hp9835a_rom",
+            "name": "HP 9835A/B Option ROMs",
+            "altNames": [
+                "HP 9835A/B"
+            ]
+        },
+        "hp9845a_rom": {
+            "id": "hp9845a_rom",
+            "shortName": "hp9845a_rom",
+            "name": "HP 9845A/S Option ROMs",
+            "altNames": [
+                "HP 9845A/S"
+            ]
+        },
+        "hp9845b_rom": {
+            "id": "hp9845b_rom",
+            "shortName": "hp9845b_rom",
+            "name": "HP 9845B/T/C Option ROMs",
+            "altNames": [
+                "HP 9845B/T/C"
+            ]
+        },
+        "hp9k3xx_flop": {
+            "id": "hp9k3xx_flop",
+            "shortName": "hp9k3xx_flop",
+            "name": "HP9000/300 disks",
+            "altNames": [
+                "HP9000/300"
+            ]
+        },
+        "hp9k3xx_cdrom": {
+            "id": "hp9k3xx_cdrom",
+            "shortName": "hp9k3xx_cdrom",
+            "name": "HP9000/300 CD-ROM images",
+            "altNames": [
+                "HP9000/300"
+            ]
+        },
+        "hp9k3xx_hdd": {
+            "id": "hp9k3xx_hdd",
+            "shortName": "hp9k3xx_hdd",
+            "name": "HP9000/300 hard disk images",
+            "altNames": [
+                "HP9000/300"
+            ]
+        },
+        "ht68k": {
+            "id": "ht68k",
+            "shortName": "ht68k",
+            "name": "HT68K 5.25 disks",
+            "altNames": [
+                "HT68K"
+            ]
+        },
+        "hyperscan": {
+            "id": "hyperscan",
+            "shortName": "hyperscan",
+            "name": "HyperScan CD-ROMs",
+            "altNames": [
+                "HyperScan"
+            ]
+        },
+        "hyperscan_card": {
+            "id": "hyperscan_card",
+            "shortName": "hyperscan_card",
+            "name": "Mattel Hyperscan RFID cards",
+            "altNames": [
+                "Mattel Hyperscan"
+            ]
+        },
+        "i7000_card": {
+            "id": "i7000_card",
+            "shortName": "i7000_card",
+            "name": "Itautec I-7000 cartridges",
+            "altNames": [
+                "Itautec I-7000"
+            ]
+        },
+        "ibm5140": {
+            "id": "ibm5140",
+            "shortName": "ibm5140",
+            "name": "IBM PC 5140 Convertible disk images",
+            "altNames": [
+                "IBM PC 5140 Convertible"
+            ]
+        },
+        "ibm5150_cass": {
+            "id": "ibm5150_cass",
+            "shortName": "ibm5150_cass",
+            "name": "IBM PC/XT cassettes",
+            "altNames": [
+                "IBM PC/XT"
+            ]
+        },
+        "ibm5150_hdd": {
+            "id": "ibm5150_hdd",
+            "shortName": "ibm5150_hdd",
+            "name": "IBM PC hard disk images",
+            "altNames": [
+                "IBM PC"
+            ]
+        },
+        "ibm6580": {
+            "id": "ibm6580",
+            "shortName": "ibm6580",
+            "name": "IBM Displaywriter disk images",
+            "altNames": [
+                "IBM Displaywriter"
+            ]
+        },
+        "ibmpcjr_cart": {
+            "id": "ibmpcjr_cart",
+            "shortName": "ibmpcjr_cart",
+            "name": "IBM PC Jr cartridges",
+            "altNames": [
+                "IBM PC Jr"
+            ]
+        },
+        "ibmpcjr_flop": {
+            "id": "ibmpcjr_flop",
+            "shortName": "ibmpcjr_flop",
+            "name": "IBM PCjr disk images",
+            "altNames": [
+                "IBM PCjr"
+            ]
+        },
+        "icanguit": {
+            "id": "icanguit",
+            "shortName": "icanguit",
+            "name": "Fisher-Price / Mattel I Can Play Guitar cartridges",
+            "altNames": [
+                "Fisher-Price / Mattel I Can Play Guitar"
+            ]
+        },
+        "icanpian": {
+            "id": "icanpian",
+            "shortName": "icanpian",
+            "name": "Fisher-Price / Mattel I Can Play Piano cartridges",
+            "altNames": [
+                "Fisher-Price / Mattel I Can Play Piano"
+            ]
+        },
+        "radio86_cass": {
+            "id": "radio86_cass",
+            "shortName": "radio86_cass",
+            "name": "Radio-86RK cassettes",
+            "altNames": [
+                "Radio-86RK"
+            ]
+        },
+        "sgi_mips_hdd": {
+            "id": "sgi_mips_hdd",
+            "shortName": "sgi_mips_hdd",
+            "name": "Hard disk images for SGI MIPS",
+            "altNames": [
+                "Hard disk images for SGI MIPS"
+            ]
+        },
+        "vtech_innotab_cart": {
+            "id": "vtech_innotab_cart",
+            "shortName": "vtech_innotab_cart",
+            "name": "VTech InnoTAB 1/2/3 Cartridges",
+            "altNames": [
+                "VTech InnoTAB 1/2/3"
+            ]
+        },
+        "vtech_innotv_cart": {
+            "id": "vtech_innotv_cart",
+            "shortName": "vtech_innotv_cart",
+            "name": "VTech InnoTV / InnoTAB MAX cartridges",
+            "altNames": [
+                "VTech InnoTV / InnoTAB MAX"
+            ]
+        },
+        "intellect02": {
+            "id": "intellect02",
+            "shortName": "intellect02",
+            "name": "Intellect-02 Cartridges",
+            "altNames": [
+                "Intellect-02"
+            ]
+        },
+        "intv": {
+            "id": "intv",
+            "shortName": "intv",
+            "name": "Intellivision cartridges",
+            "altNames": [
+                "Intellivision"
+            ]
+        },
+        "intvecs": {
+            "id": "intvecs",
+            "shortName": "intvecs",
+            "name": "Intellivision ECS cartridges",
+            "altNames": [
+                "Intellivision ECS"
+            ]
+        },
+        "interpro": {
+            "id": "interpro",
+            "shortName": "interpro",
+            "name": "Intergraph InterPro software",
+            "altNames": [
+                "Intergraph InterPro"
+            ]
+        },
+        "iq128": {
+            "id": "iq128",
+            "shortName": "iq128",
+            "name": "VTech Genius IQ 128 cartridges",
+            "altNames": [
+                "VTech Genius IQ 128"
+            ]
+        },
+        "iq151_cart": {
+            "id": "iq151_cart",
+            "shortName": "iq151_cart",
+            "name": "IQ-151 cartridges",
+            "altNames": [
+                "IQ-151"
+            ]
+        },
+        "iq151_flop": {
+            "id": "iq151_flop",
+            "shortName": "iq151_flop",
+            "name": "IQ-151 disk images",
+            "altNames": [
+                "IQ-151"
+            ]
+        },
+        "wizard_cart": {
+            "id": "wizard_cart",
+            "shortName": "wizard_cart",
+            "name": "Sharp Wizard series cartridges",
+            "altNames": [
+                "Sharp Wizard"
+            ]
+        },
+        "leapfrog_iquest_cart": {
+            "id": "leapfrog_iquest_cart",
+            "shortName": "leapfrog_iquest_cart",
+            "name": "LeapFrog IQuest cartridges",
+            "altNames": [
+                "LeapFrog IQuest"
+            ]
+        },
+        "iqunlim_cart": {
+            "id": "iqunlim_cart",
+            "shortName": "iqunlim_cart",
+            "name": "VTech IQ Unlimited cartridges",
+            "altNames": [
+                "VTech IQ Unlimited"
+            ]
+        },
+        "itt3030": {
+            "id": "itt3030",
+            "shortName": "itt3030",
+            "name": "ITT 3030 disk images",
+            "altNames": [
+                "ITT 3030"
+            ]
+        },
+        "jaguar": {
+            "id": "jaguar",
+            "shortName": "jaguar",
+            "name": "Atari Jaguar cartridges",
+            "altNames": [
+                "Atari Jaguar"
+            ]
+        },
+        "jakks_gamekey_dy": {
+            "id": "jakks_gamekey_dy",
+            "shortName": "jakks_gamekey_dy",
+            "name": "JAKKS Pacific 'DY' Game Keys",
+            "altNames": [
+                "JAKKS Pacific 'DY' Game Keys"
+            ]
+        },
+        "jakks_gamekey_nk": {
+            "id": "jakks_gamekey_nk",
+            "shortName": "jakks_gamekey_nk",
+            "name": "JAKKS Pacific 'NK' Game Keys",
+            "altNames": [
+                "JAKKS Pacific 'NK' Game Keys"
+            ]
+        },
+        "jakks_gamekey_dp": {
+            "id": "jakks_gamekey_dp",
+            "shortName": "jakks_gamekey_dp",
+            "name": "JAKKS Pacific 'DP' Game Keys",
+            "altNames": [
+                "JAKKS Pacific 'DP' Game Keys"
+            ]
+        },
+        "jakks_gamekey_nm": {
+            "id": "jakks_gamekey_nm",
+            "shortName": "jakks_gamekey_nm",
+            "name": "JAKKS Pacific 'NM' Game Keys",
+            "altNames": [
+                "JAKKS Pacific 'NM' Game Keys"
+            ]
+        },
+        "jakks_gamekey_sw": {
+            "id": "jakks_gamekey_sw",
+            "shortName": "jakks_gamekey_sw",
+            "name": "JAKKS Pacific 'SW' Game Keys",
+            "altNames": [
+                "JAKKS Pacific 'SW' Game Keys"
+            ]
+        },
+        "jakks_gamekey_mv": {
+            "id": "jakks_gamekey_mv",
+            "shortName": "jakks_gamekey_mv",
+            "name": "JAKKS Pacific 'MV' Game Keys",
+            "altNames": [
+                "JAKKS Pacific 'MV' Game Keys"
+            ]
+        },
+        "jb3000_flop": {
+            "id": "jb3000_flop",
+            "shortName": "jb3000_flop",
+            "name": "Panasonic JB-3000 diskettes",
+            "altNames": [
+                "Panasonic JB-3000"
+            ]
+        },
+        "videopac": {
+            "id": "videopac",
+            "shortName": "videopac",
+            "name": "Philips Videopac / Odyssey 2 cartridges",
+            "altNames": [
+                "Philips Videopac / Odyssey 2"
+            ]
+        },
+        "jpopira_jp": {
+            "id": "jpopira_jp",
+            "shortName": "jpopira_jp",
+            "name": "Takara Jumping Popira (Japan) JP-xx series cartridges",
+            "altNames": [
+                "Takara Jumping Popira (Japan) JP-xx"
+            ]
+        },
+        "juicebox": {
+            "id": "juicebox",
+            "shortName": "juicebox",
+            "name": "Mattel Juice Box SmartMedia Flash ROM",
+            "altNames": [
+                "Mattel Juice Box"
+            ]
+        },
+        "juku": {
+            "id": "juku",
+            "shortName": "juku",
+            "name": "Juku E5101 floppy disks",
+            "altNames": [
+                "Juku E5101"
+            ]
+        },
+        "jupace_cass": {
+            "id": "jupace_cass",
+            "shortName": "jupace_cass",
+            "name": "Jupiter Cantab Jupiter Ace cassettes",
+            "altNames": [
+                "Jupiter Cantab Jupiter Ace"
+            ]
+        },
+        "jupace_snap": {
+            "id": "jupace_snap",
+            "shortName": "jupace_snap",
+            "name": "Jupiter Cantab Jupiter Ace snapshots",
+            "altNames": [
+                "Jupiter Cantab Jupiter Ace"
+            ]
+        },
+        "k28m2": {
+            "id": "k28m2",
+            "shortName": "k28m2",
+            "name": "K28 model 7-232 modules",
+            "altNames": [
+                "K28 model 7-232"
+            ]
+        },
+        "kaypro": {
+            "id": "kaypro",
+            "shortName": "kaypro",
+            "name": "Kaypro CP/M disk images",
+            "altNames": [
+                "Kaypro CP/M"
+            ]
+        },
+        "trsm100": {
+            "id": "trsm100",
+            "shortName": "trsm100",
+            "name": "TRS-80 Model 100 Option ROMs",
+            "altNames": [
+                "TRS-80 Model 100"
+            ]
+        },
+        "kc_cart": {
+            "id": "kc_cart",
+            "shortName": "kc_cart",
+            "name": "VEB Mikroelektronik KC 85 cartridges",
+            "altNames": [
+                "VEB Mikroelektronik KC 85"
+            ]
+        },
+        "kc_flop": {
+            "id": "kc_flop",
+            "shortName": "kc_flop",
+            "name": "VEB Mikroelektronik KC 85 disk images",
+            "altNames": [
+                "VEB Mikroelektronik KC 85"
+            ]
+        },
+        "kc_cass": {
+            "id": "kc_cass",
+            "shortName": "kc_cass",
+            "name": "VEB Mikroelektronik KC 85 cassettes",
+            "altNames": [
+                "VEB Mikroelektronik KC 85"
+            ]
+        },
+        "kim1_cass": {
+            "id": "kim1_cass",
+            "shortName": "kim1_cass",
+            "name": "KIM-1 cassettes",
+            "altNames": [
+                "KIM-1"
+            ]
+        },
+        "tiki100": {
+            "id": "tiki100",
+            "shortName": "tiki100",
+            "name": "TIKI-100 Disk Images",
+            "altNames": [
+                "TIKI-100"
+            ]
+        },
+        "vector06_flop": {
+            "id": "vector06_flop",
+            "shortName": "vector06_flop",
+            "name": "Vector-06C disk images",
+            "altNames": [
+                "Vector-06C"
+            ]
+        },
+        "vector06_cart": {
+            "id": "vector06_cart",
+            "shortName": "vector06_cart",
+            "name": "Vector-06C cartridges",
+            "altNames": [
+                "Vector-06C"
+            ]
+        },
+        "mikro80": {
+            "id": "mikro80",
+            "shortName": "mikro80",
+            "name": "Mikro-80 cassettes",
+            "altNames": [
+                "Mikro-80"
+            ]
+        },
+        "zx81_cass": {
+            "id": "zx81_cass",
+            "shortName": "zx81_cass",
+            "name": "Sinclair ZX81 cassettes",
+            "altNames": [
+                "Sinclair ZX81"
+            ]
+        },
+        "lantutor": {
+            "id": "lantutor",
+            "shortName": "lantutor",
+            "name": "Language Tutor modules",
+            "altNames": [
+                "Language Tutor"
+            ]
+        },
+        "vtech2_cass": {
+            "id": "vtech2_cass",
+            "shortName": "vtech2_cass",
+            "name": "VTech Laser 500 cassettes",
+            "altNames": [
+                "VTech Laser 500"
+            ]
+        },
+        "laser2001_cart": {
+            "id": "laser2001_cart",
+            "shortName": "laser2001_cart",
+            "name": "V-Tech Laser 2001 / Salora Manager cartridges",
+            "altNames": [
+                "V-Tech Laser 2001 / Salora Manager"
+            ]
+        },
+        "laser2001_flop": {
+            "id": "laser2001_flop",
+            "shortName": "laser2001_flop",
+            "name": "V-Tech Laser 2001 / Salora Manager disks",
+            "altNames": [
+                "V-Tech Laser 2001 / Salora Manager"
+            ]
+        },
+        "leapster_explorer_cart": {
+            "id": "leapster_explorer_cart",
+            "shortName": "leapster_explorer_cart",
+            "name": "LeapFrog Leapster Explorer Cartridges",
+            "altNames": [
+                "LeapFrog Leapster Explorer"
+            ]
+        },
+        "leapfrog_leappad_cart": {
+            "id": "leapfrog_leappad_cart",
+            "shortName": "leapfrog_leappad_cart",
+            "name": "LeapFrog LeapPad cartridges",
+            "altNames": [
+                "LeapFrog LeapPad"
+            ]
+        },
+        "leapster": {
+            "id": "leapster",
+            "shortName": "leapster",
+            "name": "LeapFrog Leapster cartridges",
+            "altNames": [
+                "LeapFrog Leapster"
+            ]
+        },
+        "lisa": {
+            "id": "lisa",
+            "shortName": "lisa",
+            "name": "Apple Lisa",
+            "altNames": [
+                "Apple Lisa"
+            ]
+        },
+        "lk3000": {
+            "id": "lk3000",
+            "shortName": "lk3000",
+            "name": "LK-3000 Cartridges",
+            "altNames": [
+                "LK-3000"
+            ]
+        },
+        "leapfrog_ltleappad_cart": {
+            "id": "leapfrog_ltleappad_cart",
+            "shortName": "leapfrog_ltleappad_cart",
+            "name": "LeapFrog Little Touch LeapPad cartridges",
+            "altNames": [
+                "LeapFrog Little Touch LeapPad"
+            ]
+        },
+        "lviv": {
+            "id": "lviv",
+            "shortName": "lviv",
+            "name": "Lviv cassettes",
+            "altNames": [
+                "Lviv"
+            ]
+        },
+        "lynx": {
+            "id": "lynx",
+            "shortName": "lynx",
+            "name": "Atari Lynx cartridges",
+            "altNames": [
+                "Atari Lynx"
+            ]
+        },
+        "camplynx_cass": {
+            "id": "camplynx_cass",
+            "shortName": "camplynx_cass",
+            "name": "Camputers Lynx cassettes",
+            "altNames": [
+                "Camputers Lynx"
+            ]
+        },
+        "camplynx_flop": {
+            "id": "camplynx_flop",
+            "shortName": "camplynx_flop",
+            "name": "Camputers Lynx diskettes",
+            "altNames": [
+                "Camputers Lynx"
+            ]
+        },
+        "m20": {
+            "id": "m20",
+            "shortName": "m20",
+            "name": "Olivetti M20 floppies",
+            "altNames": [
+                "Olivetti M20"
+            ]
+        },
+        "m24": {
+            "id": "m24",
+            "shortName": "m24",
+            "name": "Olivetti M24 floppies",
+            "altNames": [
+                "Olivetti M24"
+            ]
+        },
+        "m5_cart": {
+            "id": "m5_cart",
+            "shortName": "m5_cart",
+            "name": "Sord M5 cartridges",
+            "altNames": [
+                "Sord M5"
+            ]
+        },
+        "m5_cass": {
+            "id": "m5_cass",
+            "shortName": "m5_cass",
+            "name": "Sord M5 cassettes",
+            "altNames": [
+                "Sord M5"
+            ]
+        },
+        "m5_flop": {
+            "id": "m5_flop",
+            "shortName": "m5_flop",
+            "name": "Sord m5 diskettes",
+            "altNames": [
+                "Sord m5"
+            ]
+        },
+        "mikrosha_cass": {
+            "id": "mikrosha_cass",
+            "shortName": "mikrosha_cass",
+            "name": "Mikrosha cassettes",
+            "altNames": [
+                "Mikrosha"
+            ]
+        },
+        "mikrosha_cart": {
+            "id": "mikrosha_cart",
+            "shortName": "mikrosha_cart",
+            "name": "Mikrosha cartridges",
+            "altNames": [
+                "Mikrosha"
+            ]
+        },
+        "mac_flop": {
+            "id": "mac_flop",
+            "shortName": "mac_flop",
+            "name": "Macintosh 400K/800K Disk images",
+            "altNames": [
+                "Macintosh 400K/800K"
+            ]
+        },
+        "mac_hdd": {
+            "id": "mac_hdd",
+            "shortName": "mac_hdd",
+            "name": "Mac Harddisks",
+            "altNames": [
+                "Mac Hard"
+            ]
+        },
+        "mac_hdflop": {
+            "id": "mac_hdflop",
+            "shortName": "mac_hdflop",
+            "name": "Macintosh High Density Disk images",
+            "altNames": [
+                "Macintosh"
+            ]
+        },
+        "mbc200": {
+            "id": "mbc200",
+            "shortName": "mbc200",
+            "name": "Sanyo MBC-200/MBC-1200 diskettes",
+            "altNames": [
+                "Sanyo MBC-200/MBC-1200"
+            ]
+        },
+        "mbc55x": {
+            "id": "mbc55x",
+            "shortName": "mbc55x",
+            "name": "Sanyo MBC-550 and MBC-555 disk images",
+            "altNames": [
+                "Sanyo MBC-550 and MBC-555"
+            ]
+        },
+        "mbee_cass": {
+            "id": "mbee_cass",
+            "shortName": "mbee_cass",
+            "name": "Microbee cassettes",
+            "altNames": [
+                "Microbee"
+            ]
+        },
+        "mbee_quik": {
+            "id": "mbee_quik",
+            "shortName": "mbee_quik",
+            "name": "Microbee quickload",
+            "altNames": [
+                "Microbee"
+            ]
+        },
+        "mbee_cart": {
+            "id": "mbee_cart",
+            "shortName": "mbee_cart",
+            "name": "Microbee NET/PAK roms",
+            "altNames": [
+                "Microbee NET/PAK"
+            ]
+        },
+        "mbee_flop": {
+            "id": "mbee_flop",
+            "shortName": "mbee_flop",
+            "name": "Microbee floppy disks",
+            "altNames": [
+                "Microbee"
+            ]
+        },
+        "mc1000_cass": {
+            "id": "mc1000_cass",
+            "shortName": "mc1000_cass",
+            "name": "CCE MC-1000 cassettes",
+            "altNames": [
+                "CCE MC-1000"
+            ]
+        },
+        "mc1502_flop": {
+            "id": "mc1502_flop",
+            "shortName": "mc1502_flop",
+            "name": "MC-1502 disk images",
+            "altNames": [
+                "MC-1502"
+            ]
+        },
+        "md2_flop": {
+            "id": "md2_flop",
+            "shortName": "md2_flop",
+            "name": "MD-2 disk images",
+            "altNames": [
+                "MD-2"
+            ]
+        },
+        "megaduck": {
+            "id": "megaduck",
+            "shortName": "megaduck",
+            "name": "Creatronic Mega Duck cartridges",
+            "altNames": [
+                "Creatronic Mega Duck"
+            ]
+        },
+        "megapc": {
+            "id": "megapc",
+            "shortName": "megapc",
+            "name": "Amstrad Mega PC disk images",
+            "altNames": [
+                "Amstrad Mega PC"
+            ]
+        },
+        "megatech": {
+            "id": "megatech",
+            "shortName": "megatech",
+            "name": "Sega MegaTech cartridges",
+            "altNames": [
+                "Sega MegaTech"
+            ]
+        },
+        "leapfrog_mfleappad_cart": {
+            "id": "leapfrog_mfleappad_cart",
+            "shortName": "leapfrog_mfleappad_cart",
+            "name": "LeapFrog My First LeapPad cartridges",
+            "altNames": [
+                "LeapFrog My First LeapPad"
+            ]
+        },
+        "mt65_rom": {
+            "id": "mt65_rom",
+            "shortName": "mt65_rom",
+            "name": "Microtan 65 ROM images",
+            "altNames": [
+                "Microtan 65"
+            ]
+        },
+        "mt65_cass": {
+            "id": "mt65_cass",
+            "shortName": "mt65_cass",
+            "name": "Microtan 65 cassettes",
+            "altNames": [
+                "Microtan 65"
+            ]
+        },
+        "mt65_snap": {
+            "id": "mt65_snap",
+            "shortName": "mt65_snap",
+            "name": "Microtan 65 snapshots",
+            "altNames": [
+                "Microtan 65"
+            ]
+        },
+        "microvision": {
+            "id": "microvision",
+            "shortName": "microvision",
+            "name": "Milton Bradley Microvision cartridges",
+            "altNames": [
+                "Milton Bradley Microvision"
+            ]
+        },
+        "mindset_flop": {
+            "id": "mindset_flop",
+            "shortName": "mindset_flop",
+            "name": "Mindset Corporation Mindset Floppy Discs",
+            "altNames": [
+                "Mindset Corporation Mindset"
+            ]
+        },
+        "fidel_msc": {
+            "id": "fidel_msc",
+            "shortName": "fidel_msc",
+            "name": "Fidelity MSC Modules",
+            "altNames": [
+                "Fidelity MSC"
+            ]
+        },
+        "mephisto_mm1": {
+            "id": "mephisto_mm1",
+            "shortName": "mephisto_mm1",
+            "name": "Mephisto MM I Modules",
+            "altNames": [
+                "Mephisto MM I"
+            ]
+        },
+        "mm1_flop": {
+            "id": "mm1_flop",
+            "shortName": "mm1_flop",
+            "name": "MikroMikko 1 floppies",
+            "altNames": [
+                "MikroMikko 1"
+            ]
+        },
+        "mephisto_mm2": {
+            "id": "mephisto_mm2",
+            "shortName": "mephisto_mm2",
+            "name": "Mephisto MM II Modules",
+            "altNames": [
+                "Mephisto MM II"
+            ]
+        },
+        "mephisto_mm4": {
+            "id": "mephisto_mm4",
+            "shortName": "mephisto_mm4",
+            "name": "Mephisto MM IV Modules",
+            "altNames": [
+                "Mephisto MM IV"
+            ]
+        },
+        "mephisto_mm5": {
+            "id": "mephisto_mm5",
+            "shortName": "mephisto_mm5",
+            "name": "Mephisto MM V Modules",
+            "altNames": [
+                "Mephisto MM V"
+            ]
+        },
+        "superpet_flop": {
+            "id": "superpet_flop",
+            "shortName": "superpet_flop",
+            "name": "Commodore SuperPET / MMF 9000 diskettes",
+            "altNames": [
+                "Commodore SuperPET / MMF 9000"
+            ]
+        },
+        "jazz": {
+            "id": "jazz",
+            "shortName": "jazz",
+            "name": "Jazz software",
+            "altNames": [
+                "Jazz"
+            ]
+        },
+        "mo5_cart": {
+            "id": "mo5_cart",
+            "shortName": "mo5_cart",
+            "name": "Thomson MO5 cartridges",
+            "altNames": [
+                "Thomson MO5"
+            ]
+        },
+        "mo5_cass": {
+            "id": "mo5_cass",
+            "shortName": "mo5_cass",
+            "name": "Thomson MO5 cassettes",
+            "altNames": [
+                "Thomson MO5"
+            ]
+        },
+        "mo5_flop": {
+            "id": "mo5_flop",
+            "shortName": "mo5_flop",
+            "name": "Thomson MO5 floppy disks",
+            "altNames": [
+                "Thomson MO5"
+            ]
+        },
+        "mo5_qd": {
+            "id": "mo5_qd",
+            "shortName": "mo5_qd",
+            "name": "Thomson MO5 QD disks",
+            "altNames": [
+                "Thomson MO5"
+            ]
+        },
+        "mo6_cass": {
+            "id": "mo6_cass",
+            "shortName": "mo6_cass",
+            "name": "Thomson MO6 cassettes",
+            "altNames": [
+                "Thomson MO6"
+            ]
+        },
+        "mo6_flop": {
+            "id": "mo6_flop",
+            "shortName": "mo6_flop",
+            "name": "Thomson MO6 floppy disks",
+            "altNames": [
+                "Thomson MO6"
+            ]
+        },
+        "mobigo_cart": {
+            "id": "mobigo_cart",
+            "shortName": "mobigo_cart",
+            "name": "VTech Mobigo Cartridges",
+            "altNames": [
+                "VTech Mobigo"
+            ]
+        },
+        "monon_color": {
+            "id": "monon_color",
+            "shortName": "monon_color",
+            "name": "M&D Monon Color cartridges",
+            "altNames": [
+                "M&D Monon Color"
+            ]
+        },
+        "mpu1000": {
+            "id": "mpu1000",
+            "shortName": "mpu1000",
+            "name": "Acetronic MPU-1000 cartridges",
+            "altNames": [
+                "Acetronic MPU-1000"
+            ]
+        },
+        "mpz80": {
+            "id": "mpz80",
+            "shortName": "mpz80",
+            "name": "Morrow MPZ80 diskettes",
+            "altNames": [
+                "Morrow MPZ80"
+            ]
+        },
+        "mtx_cass": {
+            "id": "mtx_cass",
+            "shortName": "mtx_cass",
+            "name": "Memotech MTX cassettes",
+            "altNames": [
+                "Memotech MTX"
+            ]
+        },
+        "mtx_flop": {
+            "id": "mtx_flop",
+            "shortName": "mtx_flop",
+            "name": "Memotech MTX diskettes",
+            "altNames": [
+                "Memotech MTX"
+            ]
+        },
+        "mtx_cart": {
+            "id": "mtx_cart",
+            "shortName": "mtx_cart",
+            "name": "Memotech MTX ROMPAK cartridges",
+            "altNames": [
+                "Memotech MTX"
+            ]
+        },
+        "mtx_hdd": {
+            "id": "mtx_hdd",
+            "shortName": "mtx_hdd",
+            "name": "Memotech MTX Compact Flash images",
+            "altNames": [
+                "Memotech MTX"
+            ]
+        },
+        "mtx_rom": {
+            "id": "mtx_rom",
+            "shortName": "mtx_rom",
+            "name": "Memotech MTX ROM extensions",
+            "altNames": [
+                "Memotech MTX"
+            ]
+        },
+        "myvision": {
+            "id": "myvision",
+            "shortName": "myvision",
+            "name": "Nichibutsu My Vision cartridges",
+            "altNames": [
+                "Nichibutsu My Vision"
+            ]
+        },
+        "mz800_cass": {
+            "id": "mz800_cass",
+            "shortName": "mz800_cass",
+            "name": "Sharp MZ-800 cassettes",
+            "altNames": [
+                "Sharp MZ-800"
+            ]
+        },
+        "mz2000_flop": {
+            "id": "mz2000_flop",
+            "shortName": "mz2000_flop",
+            "name": "MZ-2000 disk images",
+            "altNames": [
+                "MZ-2000"
+            ]
+        },
+        "mz2000_cass": {
+            "id": "mz2000_cass",
+            "shortName": "mz2000_cass",
+            "name": "MZ-2000 cassettes",
+            "altNames": [
+                "MZ-2000"
+            ]
+        },
+        "mz2200_cass": {
+            "id": "mz2200_cass",
+            "shortName": "mz2200_cass",
+            "name": "Sharp MZ-2200 cassettes",
+            "altNames": [
+                "Sharp MZ-2200"
+            ]
+        },
+        "mz2500": {
+            "id": "mz2500",
+            "shortName": "mz2500",
+            "name": "MZ-2500 disk images",
+            "altNames": [
+                "MZ-2500"
+            ]
+        },
+        "mz700_cass": {
+            "id": "mz700_cass",
+            "shortName": "mz700_cass",
+            "name": "Sharp MZ-700 cassettes",
+            "altNames": [
+                "Sharp MZ-700"
+            ]
+        },
+        "n64": {
+            "id": "n64",
+            "shortName": "n64",
+            "name": "Nintendo 64 cartridges",
+            "altNames": [
+                "Nintendo 64"
+            ]
+        },
+        "n64dd": {
+            "id": "n64dd",
+            "shortName": "n64dd",
+            "name": "Nintendo 64 DD disks",
+            "altNames": [
+                "Nintendo 64 DD"
+            ]
+        },
+        "nascom_snap": {
+            "id": "nascom_snap",
+            "shortName": "nascom_snap",
+            "name": "Nascom snapshot images",
+            "altNames": [
+                "Nascom"
+            ]
+        },
+        "nascom_socket": {
+            "id": "nascom_socket",
+            "shortName": "nascom_socket",
+            "name": "Nascom internal sockets",
+            "altNames": [
+                "Nascom"
+            ]
+        },
+        "nascom_flop": {
+            "id": "nascom_flop",
+            "shortName": "nascom_flop",
+            "name": "Nascom disk images",
+            "altNames": [
+                "Nascom"
+            ]
+        },
+        "neocd": {
+            "id": "neocd",
+            "shortName": "neocd",
+            "name": "SNK NeoGeo CD CD-ROMs",
+            "altNames": [
+                "SNK NeoGeo CD"
+            ]
+        },
+        "next_cdrom": {
+            "id": "next_cdrom",
+            "shortName": "next_cdrom",
+            "name": "NeXT CD-ROM software",
+            "altNames": [
+                "NeXT CD-"
+            ]
+        },
+        "next_hdd": {
+            "id": "next_hdd",
+            "shortName": "next_hdd",
+            "name": "Hard disk images for NeXT",
+            "altNames": [
+                "Hard disk images for NeXT"
+            ]
+        },
+        "next": {
+            "id": "next",
+            "shortName": "next",
+            "name": "NeXT disk images",
+            "altNames": [
+                "NeXT"
+            ]
+        },
+        "ngp": {
+            "id": "ngp",
+            "shortName": "ngp",
+            "name": "SNK Neo Geo Pocket cartridges",
+            "altNames": [
+                "SNK Neo Geo Pocket"
+            ]
+        },
+        "ngpc": {
+            "id": "ngpc",
+            "shortName": "ngpc",
+            "name": "SNK Neo Geo Pocket Color cartridges",
+            "altNames": [
+                "SNK Neo Geo Pocket Color"
+            ]
+        },
+        "nimbus": {
+            "id": "nimbus",
+            "shortName": "nimbus",
+            "name": "RM Nimbus disk images",
+            "altNames": [
+                "RM Nimbus"
+            ]
+        },
+        "pc8201": {
+            "id": "pc8201",
+            "shortName": "pc8201",
+            "name": "NEC PC-8201(A) Option ROMs",
+            "altNames": [
+                "NEC PC-8201(A)"
+            ]
+        },
+        "horizon": {
+            "id": "horizon",
+            "shortName": "horizon",
+            "name": "NorthStar Horizon diskettes",
+            "altNames": [
+                "NorthStar Horizon"
+            ]
+        },
+        "octopus": {
+            "id": "octopus",
+            "shortName": "octopus",
+            "name": "LSI Octopus floppy disk images",
+            "altNames": [
+                "LSI Octopus"
+            ]
+        },
+        "sg1000": {
+            "id": "sg1000",
+            "shortName": "sg1000",
+            "name": "Sega SG-1000 and SG-1000 MarkII cartridges",
+            "altNames": [
+                "Sega SG-1000 and SG-1000 MarkII"
+            ]
+        },
+        "ondra": {
+            "id": "ondra",
+            "shortName": "ondra",
+            "name": "Ondra & Ondra ViLi cassettes",
+            "altNames": [
+                "Ondra & Ondra ViLi"
+            ]
+        },
+        "orao": {
+            "id": "orao",
+            "shortName": "orao",
+            "name": "PEL Varazdin Orao cassettes",
+            "altNames": [
+                "PEL Varazdin Orao"
+            ]
+        },
+        "orion_cass": {
+            "id": "orion_cass",
+            "shortName": "orion_cass",
+            "name": "Orion 128 cassettes",
+            "altNames": [
+                "Orion 128"
+            ]
+        },
+        "orion_flop": {
+            "id": "orion_flop",
+            "shortName": "orion_flop",
+            "name": "Orion 128 disk images",
+            "altNames": [
+                "Orion 128"
+            ]
+        },
+        "orion_cart": {
+            "id": "orion_cart",
+            "shortName": "orion_cart",
+            "name": "Orion-128 & Pro cartridges",
+            "altNames": [
+                "Orion-128 & Pro"
+            ]
+        },
+        "orionpro_flop": {
+            "id": "orionpro_flop",
+            "shortName": "orionpro_flop",
+            "name": "OrionPro disk images",
+            "altNames": [
+                "OrionPro"
+            ]
+        },
+        "osborne2": {
+            "id": "osborne2",
+            "shortName": "osborne2",
+            "name": "Osborne 2 Executive diskettes",
+            "altNames": [
+                "Osborne 2 Executive"
+            ]
+        },
+        "osborne1": {
+            "id": "osborne1",
+            "shortName": "osborne1",
+            "name": "Osborne-1 floppies",
+            "altNames": [
+                "Osborne-1"
+            ]
+        },
+        "p500_flop": {
+            "id": "p500_flop",
+            "shortName": "p500_flop",
+            "name": "Commodore P500 diskettes",
+            "altNames": [
+                "Commodore P500"
+            ]
+        },
+        "partner_cass": {
+            "id": "partner_cass",
+            "shortName": "partner_cass",
+            "name": "Partner-01.01 cassettes",
+            "altNames": [
+                "Partner-01.01"
+            ]
+        },
+        "partner_flop": {
+            "id": "partner_flop",
+            "shortName": "partner_flop",
+            "name": "Partner-01.01 disk images",
+            "altNames": [
+                "Partner-01.01"
+            ]
+        },
+        "pasogo": {
+            "id": "pasogo",
+            "shortName": "pasogo",
+            "name": "Koei PasoGo cartridges",
+            "altNames": [
+                "Koei PasoGo"
+            ]
+        },
+        "pasopia_cass": {
+            "id": "pasopia_cass",
+            "shortName": "pasopia_cass",
+            "name": "Toshiba Personal Computer Pasopia PA7010 cassettes",
+            "altNames": [
+                "Toshiba Personal Computer Pasopia PA7010"
+            ]
+        },
+        "pc1512_flop": {
+            "id": "pc1512_flop",
+            "shortName": "pc1512_flop",
+            "name": "Amstrad PC1512 diskettes",
+            "altNames": [
+                "Amstrad PC1512"
+            ]
+        },
+        "pc1512_hdd": {
+            "id": "pc1512_hdd",
+            "shortName": "pc1512_hdd",
+            "name": "Amstrad PC1512 hard disks",
+            "altNames": [
+                "Amstrad PC1512"
+            ]
+        },
+        "pc1640_flop": {
+            "id": "pc1640_flop",
+            "shortName": "pc1640_flop",
+            "name": "Amstrad PC1640 diskettes",
+            "altNames": [
+                "Amstrad PC1640"
+            ]
+        },
+        "pc1640_hdd": {
+            "id": "pc1640_hdd",
+            "shortName": "pc1640_hdd",
+            "name": "Amstrad PC1640 hard disks",
+            "altNames": [
+                "Amstrad PC1640"
+            ]
+        },
+        "pc200": {
+            "id": "pc200",
+            "shortName": "pc200",
+            "name": "Sinclair PC200 disk images",
+            "altNames": [
+                "Sinclair PC200"
+            ]
+        },
+        "pc98": {
+            "id": "pc98",
+            "shortName": "pc98",
+            "name": "NEC PC-9801 disk images",
+            "altNames": [
+                "NEC PC-9801"
+            ]
+        },
+        "pc98_cd": {
+            "id": "pc98_cd",
+            "shortName": "pc98_cd",
+            "name": "NEC PC-9801 CD-ROMs",
+            "altNames": [
+                "NEC PC-9801"
+            ]
+        },
+        "pc6001_cart": {
+            "id": "pc6001_cart",
+            "shortName": "pc6001_cart",
+            "name": "NEC PC-6001 cartridges",
+            "altNames": [
+                "NEC PC-6001"
+            ]
+        },
+        "pc8001_flop": {
+            "id": "pc8001_flop",
+            "shortName": "pc8001_flop",
+            "name": "NEC PC-8001 (N-BASIC) disk images",
+            "altNames": [
+                "NEC PC-8001 (N-BASIC)"
+            ]
+        },
+        "pc8001mk2_flop": {
+            "id": "pc8001mk2_flop",
+            "shortName": "pc8001mk2_flop",
+            "name": "NEC PC-8001mkII (N80 BASIC) disk images",
+            "altNames": [
+                "NEC PC-8001mkII (N80 BASIC)"
+            ]
+        },
+        "pc8001mk2sr_flop": {
+            "id": "pc8001mk2sr_flop",
+            "shortName": "pc8001mk2sr_flop",
+            "name": "NEC PC-8001mkIISR (N80SR BASIC) disk images",
+            "altNames": [
+                "NEC PC-8001mkIISR (N80SR BASIC)"
+            ]
+        },
+        "pc8801_cass": {
+            "id": "pc8801_cass",
+            "shortName": "pc8801_cass",
+            "name": "NEC PC-8801 cassettes",
+            "altNames": [
+                "NEC PC-8801"
+            ]
+        },
+        "pc8801_flop": {
+            "id": "pc8801_flop",
+            "shortName": "pc8801_flop",
+            "name": "NEC PC-8801 disk images",
+            "altNames": [
+                "NEC PC-8801"
+            ]
+        },
+        "pc8801_cdrom": {
+            "id": "pc8801_cdrom",
+            "shortName": "pc8801_cdrom",
+            "name": "NEC PC-8801 CD-ROMs",
+            "altNames": [
+                "NEC PC-8801"
+            ]
+        },
+        "pc88va": {
+            "id": "pc88va",
+            "shortName": "pc88va",
+            "name": "NEC PC-88VA disk images",
+            "altNames": [
+                "NEC PC-88VA"
+            ]
+        },
+        "pcd_flop": {
+            "id": "pcd_flop",
+            "shortName": "pcd_flop",
+            "name": "Siemens PC-D disk images",
+            "altNames": [
+                "Siemens PC-D"
+            ]
+        },
+        "pcecd": {
+            "id": "pcecd",
+            "shortName": "pcecd",
+            "name": "NEC PC-Engine / Turbografx 16 CD-ROMs",
+            "altNames": [
+                "NEC PC-Engine / Turbografx 16"
+            ]
+        },
+        "pce": {
+            "id": "pce",
+            "shortName": "pce",
+            "name": "NEC PC-Engine cartridges",
+            "altNames": [
+                "NEC PC-Engine"
+            ]
+        },
+        "pcfx": {
+            "id": "pcfx",
+            "shortName": "pcfx",
+            "name": "NEC PC-FX CD-ROMs",
+            "altNames": [
+                "NEC PC-FX"
+            ]
+        },
+        "pcw": {
+            "id": "pcw",
+            "shortName": "pcw",
+            "name": "Amstrad PCW disk images",
+            "altNames": [
+                "Amstrad PCW"
+            ]
+        },
+        "pcw16": {
+            "id": "pcw16",
+            "shortName": "pcw16",
+            "name": "Amstrad PCW16 disk images",
+            "altNames": [
+                "Amstrad PCW16"
+            ]
+        },
+        "pcx_flop": {
+            "id": "pcx_flop",
+            "shortName": "pcx_flop",
+            "name": "Siemens PC-X disk images",
+            "altNames": [
+                "Siemens PC-X"
+            ]
+        },
+        "pdp1_ptp": {
+            "id": "pdp1_ptp",
+            "shortName": "pdp1_ptp",
+            "name": "PDP-1 Paper Tape Reader images",
+            "altNames": [
+                "PDP-1 Paper Tape Reader"
+            ]
+        },
+        "pecom_cass": {
+            "id": "pecom_cass",
+            "shortName": "pecom_cass",
+            "name": "Pecom32 cassettes",
+            "altNames": [
+                "Pecom32"
+            ]
+        },
+        "pegasus_cart": {
+            "id": "pegasus_cart",
+            "shortName": "pegasus_cart",
+            "name": "Technosys Aamber Pegasus ROM expansions",
+            "altNames": [
+                "Technosys Aamber Pegasus"
+            ]
+        },
+        "pencil2": {
+            "id": "pencil2",
+            "shortName": "pencil2",
+            "name": "Hanimex Pencil II cartridges",
+            "altNames": [
+                "Hanimex Pencil II"
+            ]
+        },
+        "pentagon_cass": {
+            "id": "pentagon_cass",
+            "shortName": "pentagon_cass",
+            "name": "Pentagon (ZX Spectrum clone) cassettes",
+            "altNames": [
+                "Pentagon (ZX Spectrum clone)"
+            ]
+        },
+        "spectrum_betadisc_flop": {
+            "id": "spectrum_betadisc_flop",
+            "shortName": "spectrum_betadisc_flop",
+            "name": "Sinclair ZX Spectrum Beta Disc / TR-DOS disk images",
+            "altNames": [
+                "Sinclair ZX Spectrum"
+            ]
+        },
+        "phc25_cass": {
+            "id": "phc25_cass",
+            "shortName": "phc25_cass",
+            "name": "PHC-25 cassettes",
+            "altNames": [
+                "PHC-25"
+            ]
+        },
+        "pi_storyreader_cart": {
+            "id": "pi_storyreader_cart",
+            "shortName": "pi_storyreader_cart",
+            "name": "Publications International Ltd. Story Reader cartridges",
+            "altNames": [
+                "Publications International Ltd. Story Reader"
+            ]
+        },
+        "pi_storyreader_v2_cart": {
+            "id": "pi_storyreader_v2_cart",
+            "shortName": "pi_storyreader_v2_cart",
+            "name": "Publications International Ltd Story Reader 2.0 cartridges",
+            "altNames": [
+                "Publications International Ltd Story Reader 2.0"
+            ]
+        },
+        "picno": {
+            "id": "picno",
+            "shortName": "picno",
+            "name": "Konami Picno cartridges",
+            "altNames": [
+                "Konami Picno"
+            ]
+        },
+        "pico": {
+            "id": "pico",
+            "shortName": "pico",
+            "name": "Sega Pico cartridges",
+            "altNames": [
+                "Sega Pico"
+            ]
+        },
+        "pippin": {
+            "id": "pippin",
+            "shortName": "pippin",
+            "name": "Pippin CD-ROMs",
+            "altNames": [
+                "Pippin"
+            ]
+        },
+        "playmaker": {
+            "id": "playmaker",
+            "shortName": "playmaker",
+            "name": "Tiger Playmaker playcards",
+            "altNames": [
+                "Tiger Playmaker"
+            ]
+        },
+        "pockchalw": {
+            "id": "pockchalw",
+            "shortName": "pockchalw",
+            "name": "Pocket Challenge W cartridges",
+            "altNames": [
+                "Pocket Challenge W"
+            ]
+        },
+        "pofo": {
+            "id": "pofo",
+            "shortName": "pofo",
+            "name": "Atari Portfolio cartridges",
+            "altNames": [
+                "Atari Portfolio"
+            ]
+        },
+        "poisk1_flop": {
+            "id": "poisk1_flop",
+            "shortName": "poisk1_flop",
+            "name": "Poisk-1 disk images",
+            "altNames": [
+                "Poisk-1"
+            ]
+        },
+        "pokemini": {
+            "id": "pokemini",
+            "shortName": "pokemini",
+            "name": "Nintendo Pokemini cartridges",
+            "altNames": [
+                "Nintendo Pokemini"
+            ]
+        },
+        "poly_flop": {
+            "id": "poly_flop",
+            "shortName": "poly_flop",
+            "name": "Poly diskettes",
+            "altNames": [
+                "Poly"
+            ]
+        },
+        "princ": {
+            "id": "princ",
+            "shortName": "princ",
+            "name": "Tomy Prin-C cartridges",
+            "altNames": [
+                "Tomy Prin-C"
+            ]
+        },
+        "pro128_cart": {
+            "id": "pro128_cart",
+            "shortName": "pro128_cart",
+            "name": "Olivetti Prodest PC 128 cartridges",
+            "altNames": [
+                "Olivetti Prodest PC 128"
+            ]
+        },
+        "pro128_cass": {
+            "id": "pro128_cass",
+            "shortName": "pro128_cass",
+            "name": "Olivetti Prodest PC 128 cassettes",
+            "altNames": [
+                "Olivetti Prodest PC 128"
+            ]
+        },
+        "pro128_flop": {
+            "id": "pro128_flop",
+            "shortName": "pro128_flop",
+            "name": "Olivetti Prodest PC 128 floppy disks",
+            "altNames": [
+                "Olivetti Prodest PC 128"
+            ]
+        },
+        "prof180": {
+            "id": "prof180",
+            "shortName": "prof180",
+            "name": "Conitec PROF-180 floppy disks",
+            "altNames": [
+                "Conitec PROF-180"
+            ]
+        },
+        "prof80": {
+            "id": "prof80",
+            "shortName": "prof80",
+            "name": "Conitec PROF-80 floppy disks",
+            "altNames": [
+                "Conitec PROF-80"
+            ]
+        },
+        "socrates": {
+            "id": "socrates",
+            "shortName": "socrates",
+            "name": "Video Technology Socrates cartridges",
+            "altNames": [
+                "Video Technology Socrates"
+            ]
+        },
+        "psx": {
+            "id": "psx",
+            "shortName": "psx",
+            "name": "Sony Playstation CD-ROMs",
+            "altNames": [
+                "Sony Playstation"
+            ]
+        },
+        "psi98": {
+            "id": "psi98",
+            "shortName": "psi98",
+            "name": "Kontron PSI98 floppy disks",
+            "altNames": [
+                "Kontron PSI98"
+            ]
+        },
+        "psion1": {
+            "id": "psion1",
+            "shortName": "psion1",
+            "name": "Psion Organiser I Datapack",
+            "altNames": [
+                "Psion Organiser I"
+            ]
+        },
+        "psion2": {
+            "id": "psion2",
+            "shortName": "psion2",
+            "name": "Psion Organiser II Datapack",
+            "altNames": [
+                "Psion Organiser II"
+            ]
+        },
+        "pt68k2": {
+            "id": "pt68k2",
+            "shortName": "pt68k2",
+            "name": "PT68K2 5.25 disks",
+            "altNames": [
+                "PT68K2"
+            ]
+        },
+        "pv1000": {
+            "id": "pv1000",
+            "shortName": "pv1000",
+            "name": "Casio PV-1000 cartridges",
+            "altNames": [
+                "Casio PV-1000"
+            ]
+        },
+        "pv2000": {
+            "id": "pv2000",
+            "shortName": "pv2000",
+            "name": "Casio PV-2000 cartridges",
+            "altNames": [
+                "Casio PV-2000"
+            ]
+        },
+        "px4_cart": {
+            "id": "px4_cart",
+            "shortName": "px4_cart",
+            "name": "EPSON PX-4 ROM capsules",
+            "altNames": [
+                "EPSON PX-4"
+            ]
+        },
+        "px8_cart": {
+            "id": "px8_cart",
+            "shortName": "px8_cart",
+            "name": "EPSON PX-8 ROM capsules",
+            "altNames": [
+                "EPSON PX-8"
+            ]
+        },
+        "pyl601": {
+            "id": "pyl601",
+            "shortName": "pyl601",
+            "name": "Pyldin-601 disk images",
+            "altNames": [
+                "Pyldin-601"
+            ]
+        },
+        "tutor": {
+            "id": "tutor",
+            "shortName": "tutor",
+            "name": "Tomy Tutor & Pyuuta cartridges",
+            "altNames": [
+                "Tomy Tutor & Pyuuta"
+            ]
+        },
+        "ql_cart": {
+            "id": "ql_cart",
+            "shortName": "ql_cart",
+            "name": "Sinclair QL cartridges",
+            "altNames": [
+                "Sinclair QL"
+            ]
+        },
+        "ql_cass": {
+            "id": "ql_cass",
+            "shortName": "ql_cass",
+            "name": "Sinclair QL cassettes",
+            "altNames": [
+                "Sinclair QL"
+            ]
+        },
+        "ql_flop": {
+            "id": "ql_flop",
+            "shortName": "ql_flop",
+            "name": "Sinclair QL diskettes",
+            "altNames": [
+                "Sinclair QL"
+            ]
+        },
+        "quizwiz": {
+            "id": "quizwiz",
+            "shortName": "quizwiz",
+            "name": "Coleco Quiz Wiz cartridges",
+            "altNames": [
+                "Coleco Quiz Wiz"
+            ]
+        },
+        "qx10_flop": {
+            "id": "qx10_flop",
+            "shortName": "qx10_flop",
+            "name": "Epson QX-10 diskettes",
+            "altNames": [
+                "Epson QX-10"
+            ]
+        },
+        "r8_card": {
+            "id": "r8_card",
+            "shortName": "r8_card",
+            "name": "Roland R-8 PCM memory cards",
+            "altNames": [
+                "Roland R-8 PCM"
+            ]
+        },
+        "r9751": {
+            "id": "r9751",
+            "shortName": "r9751",
+            "name": "ROLM CBX 9751 floppy disk images",
+            "altNames": [
+                "ROLM CBX 9751"
+            ]
+        },
+        "radio86_cart": {
+            "id": "radio86_cart",
+            "shortName": "radio86_cart",
+            "name": "Radio-86RK cartridges",
+            "altNames": [
+                "Radio-86RK"
+            ]
+        },
+        "rainbow": {
+            "id": "rainbow",
+            "shortName": "rainbow",
+            "name": "DEC Rainbow 100 Disk Images",
+            "altNames": [
+                "DEC Rainbow 100"
+            ]
+        },
+        "roland_tnsc1": {
+            "id": "roland_tnsc1",
+            "shortName": "roland_tnsc1",
+            "name": "Roland TN-SC1 Music Style Cards",
+            "altNames": [
+                "Roland TN-SC1"
+            ]
+        },
+        "rwtrntcs": {
+            "id": "rwtrntcs",
+            "shortName": "rwtrntcs",
+            "name": "Rowtron Television Computer System cartridges",
+            "altNames": [
+                "Rowtron Television Computer System"
+            ]
+        },
+        "rx78_cart": {
+            "id": "rx78_cart",
+            "shortName": "rx78_cart",
+            "name": "Gundam RX-78 cartridges",
+            "altNames": [
+                "Gundam RX-78"
+            ]
+        },
+        "rx78_cass": {
+            "id": "rx78_cass",
+            "shortName": "rx78_cass",
+            "name": "Gundam RX-78 cassettes",
+            "altNames": [
+                "Gundam RX-78"
+            ]
+        },
+        "entex_sag": {
+            "id": "entex_sag",
+            "shortName": "entex_sag",
+            "name": "Select-A-Game cartridges",
+            "altNames": [
+                "Select-A-Game"
+            ]
+        },
+        "sagafox": {
+            "id": "sagafox",
+            "shortName": "sagafox",
+            "name": "Saga Fox floppies",
+            "altNames": [
+                "Saga Fox"
+            ]
+        },
+        "sage2": {
+            "id": "sage2",
+            "shortName": "sage2",
+            "name": "Sage II Disk Images",
+            "altNames": [
+                "Sage II"
+            ]
+        },
+        "samcoupe_cass": {
+            "id": "samcoupe_cass",
+            "shortName": "samcoupe_cass",
+            "name": "SAM Coupé cassettes",
+            "altNames": [
+                "SAM Coupé"
+            ]
+        },
+        "samcoupe_flop": {
+            "id": "samcoupe_flop",
+            "shortName": "samcoupe_flop",
+            "name": "SAM Coupé floppy disks",
+            "altNames": [
+                "SAM Coupé"
+            ]
+        },
+        "sawatte": {
+            "id": "sawatte",
+            "shortName": "sawatte",
+            "name": "Sega Sawatte Pico cartridges",
+            "altNames": [
+                "Sega Sawatte Pico"
+            ]
+        },
+        "sbrain": {
+            "id": "sbrain",
+            "shortName": "sbrain",
+            "name": "Super Brain floppies",
+            "altNames": [
+                "Super Brain"
+            ]
+        },
+        "sc3000_cart": {
+            "id": "sc3000_cart",
+            "shortName": "sc3000_cart",
+            "name": "Sega Computer 3000 cartridges",
+            "altNames": [
+                "Sega Computer 3000"
+            ]
+        },
+        "sc3000_cass": {
+            "id": "sc3000_cass",
+            "shortName": "sc3000_cass",
+            "name": "Sega Computer 3000 cassettes",
+            "altNames": [
+                "Sega Computer 3000"
+            ]
+        },
+        "saitek_schess": {
+            "id": "saitek_schess",
+            "shortName": "saitek_schess",
+            "name": "Sensor Chess Modules",
+            "altNames": [
+                "Sensor Chess"
+            ]
+        },
+        "scv": {
+            "id": "scv",
+            "shortName": "scv",
+            "name": "Epoch Super Cassette Vision cartridges",
+            "altNames": [
+                "Epoch Super Cassette Vision"
+            ]
+        },
+        "sdk85": {
+            "id": "sdk85",
+            "shortName": "sdk85",
+            "name": "SDK-85 expansion ROMs",
+            "altNames": [
+                "SDK-85"
+            ]
+        },
+        "sf7000": {
+            "id": "sf7000",
+            "shortName": "sf7000",
+            "name": "Sega Super Control Station SF-7000 disk images",
+            "altNames": [
+                "Sega Super Control Station SF-7000"
+            ]
+        },
+        "sms": {
+            "id": "sms",
+            "shortName": "sms",
+            "name": "Sega Master System cartridges",
+            "altNames": [
+                "Sega Master System"
+            ]
+        },
+        "sgx": {
+            "id": "sgx",
+            "shortName": "sgx",
+            "name": "NEC Supergrafx cartridges",
+            "altNames": [
+                "NEC Supergrafx"
+            ]
+        },
+        "sitcom": {
+            "id": "sitcom",
+            "shortName": "sitcom",
+            "name": "SITCOM",
+            "altNames": [
+                "SITCOM"
+            ]
+        },
+        "smarttv_cart": {
+            "id": "smarttv_cart",
+            "shortName": "smarttv_cart",
+            "name": "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures cartridges",
+            "altNames": [
+                "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures"
+            ]
+        },
+        "smc777": {
+            "id": "smc777",
+            "shortName": "smc777",
+            "name": "Sony SMC777 Disks",
+            "altNames": [
+                "Sony SMC777"
+            ]
+        },
+        "mephisto_smondial2": {
+            "id": "mephisto_smondial2",
+            "shortName": "mephisto_smondial2",
+            "name": "Mephisto Super Mondial II Modules",
+            "altNames": [
+                "Mephisto Super Mondial II"
+            ]
+        },
+        "snes": {
+            "id": "snes",
+            "shortName": "snes",
+            "name": "Nintendo SNES cartridges",
+            "altNames": [
+                "Nintendo SNES"
+            ]
+        },
+        "snes_bspack": {
+            "id": "snes_bspack",
+            "shortName": "snes_bspack",
+            "name": "Nintendo SNES Satellaview Memory Packs",
+            "altNames": [
+                "Nintendo SNES Satellaview"
+            ]
+        },
+        "snes_strom": {
+            "id": "snes_strom",
+            "shortName": "snes_strom",
+            "name": "Nintendo SNES - Sufami Turbo cartridges",
+            "altNames": [
+                "Nintendo SNES - Sufami Turbo"
+            ]
+        },
+        "snread": {
+            "id": "snread",
+            "shortName": "snread",
+            "name": "Speak & Read modules",
+            "altNames": [
+                "Speak & Read"
+            ]
+        },
+        "snspell": {
+            "id": "snspell",
+            "shortName": "snspell",
+            "name": "Speak & Spell modules",
+            "altNames": [
+                "Speak & Spell"
+            ]
+        },
+        "softbox": {
+            "id": "softbox",
+            "shortName": "softbox",
+            "name": "SSE SoftBox diskettes",
+            "altNames": [
+                "SSE SoftBox"
+            ]
+        },
+        "sol20_cass": {
+            "id": "sol20_cass",
+            "shortName": "sol20_cass",
+            "name": "PTC SOL-20 cassettes",
+            "altNames": [
+                "PTC SOL-20"
+            ]
+        },
+        "sorcerer_cart": {
+            "id": "sorcerer_cart",
+            "shortName": "sorcerer_cart",
+            "name": "Exidy Sorcerer cartridges",
+            "altNames": [
+                "Exidy Sorcerer"
+            ]
+        },
+        "sorcerer_cass": {
+            "id": "sorcerer_cass",
+            "shortName": "sorcerer_cass",
+            "name": "Exidy Sorcerer cassettes",
+            "altNames": [
+                "Exidy Sorcerer"
+            ]
+        },
+        "sorcerer_flop": {
+            "id": "sorcerer_flop",
+            "shortName": "sorcerer_flop",
+            "name": "Exidy Sorcerer floppies",
+            "altNames": [
+                "Exidy Sorcerer"
+            ]
+        },
+        "specpls3_flop": {
+            "id": "specpls3_flop",
+            "shortName": "specpls3_flop",
+            "name": "Sinclair ZX Spectrum +3 disk images",
+            "altNames": [
+                "Sinclair ZX Spectrum +3"
+            ]
+        },
+        "spc1000_cass": {
+            "id": "spc1000_cass",
+            "shortName": "spc1000_cass",
+            "name": "Samsung SPC-1000 cassettes",
+            "altNames": [
+                "Samsung SPC-1000"
+            ]
+        },
+        "spc1500_cass": {
+            "id": "spc1500_cass",
+            "shortName": "spc1500_cass",
+            "name": "Samsung SPC-1500 cassettes",
+            "altNames": [
+                "Samsung SPC-1500"
+            ]
+        },
+        "special_flop": {
+            "id": "special_flop",
+            "shortName": "special_flop",
+            "name": "Specialist MX disk images",
+            "altNames": [
+                "Specialist MX"
+            ]
+        },
+        "squale_cart": {
+            "id": "squale_cart",
+            "shortName": "squale_cart",
+            "name": "Squale cartridges",
+            "altNames": [
+                "Squale"
+            ]
+        },
+        "ssem_quik": {
+            "id": "ssem_quik",
+            "shortName": "ssem_quik",
+            "name": "SSEM quickload",
+            "altNames": [
+                "SSEM"
+            ]
+        },
+        "novag_ssensor4": {
+            "id": "novag_ssensor4",
+            "shortName": "novag_ssensor4",
+            "name": "Super Sensor IV expansion ROMs",
+            "altNames": [
+                "Super Sensor IV"
+            ]
+        },
+        "saitek_kso": {
+            "id": "saitek_kso",
+            "shortName": "saitek_kso",
+            "name": "Saitek KSO ROM",
+            "altNames": [
+                "Saitek KSO"
+            ]
+        },
+        "singingstarkaraoke_cart": {
+            "id": "singingstarkaraoke_cart",
+            "shortName": "singingstarkaraoke_cart",
+            "name": "Taikee Singing Star Karaoke cartridges",
+            "altNames": [
+                "Taikee Singing Star Karaoke"
+            ]
+        },
+        "stepone_flop": {
+            "id": "stepone_flop",
+            "shortName": "stepone_flop",
+            "name": "Ericsson PC step/one diskettes",
+            "altNames": [
+                "Ericsson PC step/one"
+            ]
+        },
+        "vtech_storio_cart": {
+            "id": "vtech_storio_cart",
+            "shortName": "vtech_storio_cart",
+            "name": "VTech Storio V.Reader Cartridges",
+            "altNames": [
+                "VTech Storio V.Reader"
+            ]
+        },
+        "stv": {
+            "id": "stv",
+            "shortName": "stv",
+            "name": "Sega Titan Video cartridges",
+            "altNames": [
+                "Sega Titan Video"
+            ]
+        },
+        "super6": {
+            "id": "super6",
+            "shortName": "super6",
+            "name": "ADC Super Six diskettes",
+            "altNames": [
+                "ADC Super Six"
+            ]
+        },
+        "super80_cass": {
+            "id": "super80_cass",
+            "shortName": "super80_cass",
+            "name": "Super-80 cassettes",
+            "altNames": [
+                "Super-80"
+            ]
+        },
+        "super80_flop": {
+            "id": "super80_flop",
+            "shortName": "super80_flop",
+            "name": "Dick Smith Super-80 floppies",
+            "altNames": [
+                "Dick Smith Super-80"
+            ]
+        },
+        "supracan": {
+            "id": "supracan",
+            "shortName": "supracan",
+            "name": "Funtech Super A'Can cartridges",
+            "altNames": [
+                "Funtech Super A'Can"
+            ]
+        },
+        "sv8000": {
+            "id": "sv8000",
+            "shortName": "sv8000",
+            "name": "Bandai Super Vision 8000 cartridges",
+            "altNames": [
+                "Bandai Super Vision 8000"
+            ]
+        },
+        "svi318_cass": {
+            "id": "svi318_cass",
+            "shortName": "svi318_cass",
+            "name": "Spectravision SVI-318 cassettes",
+            "altNames": [
+                "Spectravision SVI-318"
+            ]
+        },
+        "svi318_cart": {
+            "id": "svi318_cart",
+            "shortName": "svi318_cart",
+            "name": "Spectravision SVI-318 cartridges",
+            "altNames": [
+                "Spectravision SVI-318"
+            ]
+        },
+        "svision": {
+            "id": "svision",
+            "shortName": "svision",
+            "name": "Watara Supervision cartridges",
+            "altNames": [
+                "Watara Supervision"
+            ]
+        },
+        "svmu": {
+            "id": "svmu",
+            "shortName": "svmu",
+            "name": "Sega Visual Memory Unit quickloads",
+            "altNames": [
+                "Sega Visual Memory Unit"
+            ]
+        },
+        "t1000": {
+            "id": "t1000",
+            "shortName": "t1000",
+            "name": "Tandy 1000 series disk images",
+            "altNames": [
+                "Tandy 1000 series"
+            ]
+        },
+        "to7_cart": {
+            "id": "to7_cart",
+            "shortName": "to7_cart",
+            "name": "Thomson TO7 cartridges",
+            "altNames": [
+                "Thomson TO7"
+            ]
+        },
+        "to7_cass": {
+            "id": "to7_cass",
+            "shortName": "to7_cass",
+            "name": "Thomson TO7 & TO7/70 cassetes",
+            "altNames": [
+                "Thomson TO7 & TO7/70 cassetes"
+            ]
+        },
+        "to_flop": {
+            "id": "to_flop",
+            "shortName": "to_flop",
+            "name": "Thomson TO-series floppy disks",
+            "altNames": [
+                "Thomson TO-series"
+            ]
+        },
+        "to7_qd": {
+            "id": "to7_qd",
+            "shortName": "to7_qd",
+            "name": "Thomson TO7 & TO7/70 QD disks",
+            "altNames": [
+                "Thomson TO7 & TO7/70"
+            ]
+        },
+        "tandy200": {
+            "id": "tandy200",
+            "shortName": "tandy200",
+            "name": "Tandy 200 Option ROMs",
+            "altNames": [
+                "Tandy 200"
+            ]
+        },
+        "tandy2k": {
+            "id": "tandy2k",
+            "shortName": "tandy2k",
+            "name": "Tandy 2000 disk images",
+            "altNames": [
+                "Tandy 2000"
+            ]
+        },
+        "timex_cass": {
+            "id": "timex_cass",
+            "shortName": "timex_cass",
+            "name": "Timex Sinclair 2068 cassettes",
+            "altNames": [
+                "Timex Sinclair 2068"
+            ]
+        },
+        "tc4": {
+            "id": "tc4",
+            "shortName": "tc4",
+            "name": "Coleco Total Control 4 cartridges",
+            "altNames": [
+                "Coleco Total Control 4"
+            ]
+        },
+        "tdv2324": {
+            "id": "tdv2324",
+            "shortName": "tdv2324",
+            "name": "Tandberg TDV 2324 disk images",
+            "altNames": [
+                "Tandberg TDV 2324"
+            ]
+        },
+        "tek4052_cart": {
+            "id": "tek4052_cart",
+            "shortName": "tek4052_cart",
+            "name": "Tektronix 4052 ROM packs",
+            "altNames": [
+                "Tektronix 4052"
+            ]
+        },
+        "telestory_cart": {
+            "id": "telestory_cart",
+            "shortName": "telestory_cart",
+            "name": "JAKKS Pacific Telestory cartridges",
+            "altNames": [
+                "JAKKS Pacific Telestory"
+            ]
+        },
+        "tg16": {
+            "id": "tg16",
+            "shortName": "tg16",
+            "name": "NEC Turbografx 16 cartridges",
+            "altNames": [
+                "NEC Turbografx 16"
+            ]
+        },
+        "ti74_cart": {
+            "id": "ti74_cart",
+            "shortName": "ti74_cart",
+            "name": "TI-74 cartridges",
+            "altNames": [
+                "TI-74"
+            ]
+        },
+        "ti95_cart": {
+            "id": "ti95_cart",
+            "shortName": "ti95_cart",
+            "name": "TI-95 cartridges",
+            "altNames": [
+                "TI-95"
+            ]
+        },
+        "ti99_cart": {
+            "id": "ti99_cart",
+            "shortName": "ti99_cart",
+            "name": "TI-99/4A cartridges",
+            "altNames": [
+                "TI-99/4A"
+            ]
+        },
+        "nes_vt_cart": {
+            "id": "nes_vt_cart",
+            "shortName": "nes_vt_cart",
+            "name": "Cartridges compatible with VRT VT0x based units",
+            "altNames": [
+                "Cartridges compatible with VRT VT0x based units"
+            ]
+        },
+        "tntell": {
+            "id": "tntell",
+            "shortName": "tntell",
+            "name": "Touch & Tell modules",
+            "altNames": [
+                "Touch & Tell"
+            ]
+        },
+        "to770_cart": {
+            "id": "to770_cart",
+            "shortName": "to770_cart",
+            "name": "Thomson TO7/70 cartridges",
+            "altNames": [
+                "Thomson TO7/70"
+            ]
+        },
+        "to770a_cart": {
+            "id": "to770a_cart",
+            "shortName": "to770a_cart",
+            "name": "Thomson TO7/70 Arabic cartridges",
+            "altNames": [
+                "Thomson TO7/70 Arabic"
+            ]
+        },
+        "to8_cass": {
+            "id": "to8_cass",
+            "shortName": "to8_cass",
+            "name": "Thomson TO8 cassetes",
+            "altNames": [
+                "Thomson TO8 cassetes"
+            ]
+        },
+        "to8_qd": {
+            "id": "to8_qd",
+            "shortName": "to8_qd",
+            "name": "Thomson TO8 QD disks",
+            "altNames": [
+                "Thomson TO8"
+            ]
+        },
+        "bbc_flop_torch": {
+            "id": "bbc_flop_torch",
+            "shortName": "bbc_flop_torch",
+            "name": "Torch Co-Processor discs",
+            "altNames": [
+                "Torch Co-Processor"
+            ]
+        },
+        "pce_tourvision": {
+            "id": "pce_tourvision",
+            "shortName": "pce_tourvision",
+            "name": "TourVisión (bootleg Arcade NEC PC-Engine) cartridges",
+            "altNames": [
+                "TourVisión (bootleg Arcade NEC PC-Engine)"
+            ]
+        },
+        "trs80m2": {
+            "id": "trs80m2",
+            "shortName": "trs80m2",
+            "name": "Tandy TRS-80 Model II disk images",
+            "altNames": [
+                "Tandy TRS-80 Model II"
+            ]
+        },
+        "timex_dock": {
+            "id": "timex_dock",
+            "shortName": "timex_dock",
+            "name": "Timex Sinclair TS-2068 DOCK cartridges",
+            "altNames": [
+                "Timex Sinclair TS-2068 DOCK"
+            ]
+        },
+        "ttwist_brainquest_cart": {
+            "id": "ttwist_brainquest_cart",
+            "shortName": "ttwist_brainquest_cart",
+            "name": "LeapFrog Turbo Twist Brain Quest cartridges",
+            "altNames": [
+                "LeapFrog Turbo Twist Brain Quest"
+            ]
+        },
+        "turboextreme_cart": {
+            "id": "turboextreme_cart",
+            "shortName": "turboextreme_cart",
+            "name": "LeapFrog Turbo Extreme cartridges",
+            "altNames": [
+                "LeapFrog Turbo Extreme"
+            ]
+        },
+        "tvc_cart": {
+            "id": "tvc_cart",
+            "shortName": "tvc_cart",
+            "name": "Videoton TVC 64 cartridges",
+            "altNames": [
+                "Videoton TVC 64"
+            ]
+        },
+        "tvc_cass": {
+            "id": "tvc_cass",
+            "shortName": "tvc_cass",
+            "name": "Videoton TVC cassettes",
+            "altNames": [
+                "Videoton TVC"
+            ]
+        },
+        "tvc_flop": {
+            "id": "tvc_flop",
+            "shortName": "tvc_flop",
+            "name": "Videoton TVC floppies",
+            "altNames": [
+                "Videoton TVC"
+            ]
+        },
+        "tvgogo": {
+            "id": "tvgogo",
+            "shortName": "tvgogo",
+            "name": "Toyquest TV Go Go cartridges",
+            "altNames": [
+                "Toyquest TV Go Go"
+            ]
+        },
+        "tx0_ptp": {
+            "id": "tx0_ptp",
+            "shortName": "tx0_ptp",
+            "name": "TX-0 Paper Tape Reader images",
+            "altNames": [
+                "TX-0 Paper Tape Reader"
+            ]
+        },
+        "unichamp": {
+            "id": "unichamp",
+            "shortName": "unichamp",
+            "name": "Unisonic Champion 2711 cartridges",
+            "altNames": [
+                "Unisonic Champion 2711"
+            ]
+        },
+        "ut88": {
+            "id": "ut88",
+            "shortName": "ut88",
+            "name": "UT-88 cassettes",
+            "altNames": [
+                "UT-88"
+            ]
+        },
+        "uzebox": {
+            "id": "uzebox",
+            "shortName": "uzebox",
+            "name": "Uzebox internal EPROMs",
+            "altNames": [
+                "Uzebox internal EP"
+            ]
+        },
+        "v1050_flop": {
+            "id": "v1050_flop",
+            "shortName": "v1050_flop",
+            "name": "Visual Technology Visual 1050 diskettes",
+            "altNames": [
+                "Visual Technology Visual 1050"
+            ]
+        },
+        "v1050_hdd": {
+            "id": "v1050_hdd",
+            "shortName": "v1050_hdd",
+            "name": "Visual Technology Visual 1050 hard disks",
+            "altNames": [
+                "Visual Technology Visual 1050"
+            ]
+        },
+        "vbaby_cart": {
+            "id": "vbaby_cart",
+            "shortName": "vbaby_cart",
+            "name": "VTech V.Baby cartridges",
+            "altNames": [
+                "VTech V.Baby"
+            ]
+        },
+        "vboy": {
+            "id": "vboy",
+            "shortName": "vboy",
+            "name": "Nintendo Virtual Boy cartridges",
+            "altNames": [
+                "Nintendo Virtual Boy"
+            ]
+        },
+        "vectrex": {
+            "id": "vectrex",
+            "shortName": "vectrex",
+            "name": "GCE Vectrex cartridges",
+            "altNames": [
+                "GCE Vectrex"
+            ]
+        },
+        "vg5k": {
+            "id": "vg5k",
+            "shortName": "vg5k",
+            "name": "Philips VG-5000 cassette",
+            "altNames": [
+                "Philips VG-5000"
+            ]
+        },
+        "vgmplay": {
+            "id": "vgmplay",
+            "shortName": "vgmplay",
+            "name": "Video Game Music Files",
+            "altNames": [
+                "Video Game Music Files"
+            ]
+        },
+        "vic1001_cart": {
+            "id": "vic1001_cart",
+            "shortName": "vic1001_cart",
+            "name": "Commodore VIC-1001 / VIC-20 cartridges",
+            "altNames": [
+                "Commodore VIC-1001 / VIC-20"
+            ]
+        },
+        "vic1001_cass": {
+            "id": "vic1001_cass",
+            "shortName": "vic1001_cass",
+            "name": "Commodore VIC-1001 / VIC-20 cassettes",
+            "altNames": [
+                "Commodore VIC-1001 / VIC-20"
+            ]
+        },
+        "vic1001_flop": {
+            "id": "vic1001_flop",
+            "shortName": "vic1001_flop",
+            "name": "Commodore VIC-1001 / VIC-20 diskettes",
+            "altNames": [
+                "Commodore VIC-1001 / VIC-20"
+            ]
+        },
+        "victor9k_flop": {
+            "id": "victor9k_flop",
+            "shortName": "victor9k_flop",
+            "name": "Victor 9000 / ACT Sirius 1 diskettes",
+            "altNames": [
+                "Victor 9000 / ACT Sirius 1"
+            ]
+        },
+        "vidbrain": {
+            "id": "vidbrain",
+            "shortName": "vidbrain",
+            "name": "VideoBrain Family Computer cartridges",
+            "altNames": [
+                "VideoBrain Family Computer"
+            ]
+        },
+        "vii": {
+            "id": "vii",
+            "shortName": "vii",
+            "name": "JungleTac/KenSingTon Vii cartridges",
+            "altNames": [
+                "JungleTac/KenSingTon Vii"
+            ]
+        },
+        "vip": {
+            "id": "vip",
+            "shortName": "vip",
+            "name": "RCA VIP cassettes",
+            "altNames": [
+                "RCA VIP"
+            ]
+        },
+        "vis": {
+            "id": "vis",
+            "shortName": "vis",
+            "name": "Tandy/Memorex Video Information System CD-ROM images",
+            "altNames": [
+                "Tandy/Memorex Video Information System"
+            ]
+        },
+        "visicom": {
+            "id": "visicom",
+            "shortName": "visicom",
+            "name": "Toshiba Visicom cartridges",
+            "altNames": [
+                "Toshiba Visicom"
+            ]
+        },
+        "vixen": {
+            "id": "vixen",
+            "shortName": "vixen",
+            "name": "Osborne 4 Vixen Disk Images",
+            "altNames": [
+                "Osborne 4 Vixen"
+            ]
+        },
+        "vsmile_cart": {
+            "id": "vsmile_cart",
+            "shortName": "vsmile_cart",
+            "name": "VTech V.Smile cartridges",
+            "altNames": [
+                "VTech V.Smile"
+            ]
+        },
+        "vsmilem_cart": {
+            "id": "vsmilem_cart",
+            "shortName": "vsmilem_cart",
+            "name": "VTech V.Smile Motion cartridges",
+            "altNames": [
+                "VTech V.Smile Motion"
+            ]
+        },
+        "vsmileb_cart": {
+            "id": "vsmileb_cart",
+            "shortName": "vsmileb_cart",
+            "name": "VTech V.Smile Baby cartridges",
+            "altNames": [
+                "VTech V.Smile Baby"
+            ]
+        },
+        "vsmile_cd": {
+            "id": "vsmile_cd",
+            "shortName": "vsmile_cd",
+            "name": "VTech V.Flash/V.Smile Pro V.Disc images",
+            "altNames": [
+                "VTech V.Flash/V.Smile Pro V."
+            ]
+        },
+        "wangpc": {
+            "id": "wangpc",
+            "shortName": "wangpc",
+            "name": "Wang PC disk images",
+            "altNames": [
+                "Wang PC"
+            ]
+        },
+        "waveterm": {
+            "id": "waveterm",
+            "shortName": "waveterm",
+            "name": "Waveterm A disk images",
+            "altNames": [
+                "Waveterm A"
+            ]
+        },
+        "wicat": {
+            "id": "wicat",
+            "shortName": "wicat",
+            "name": "Millennium Systems Wicat",
+            "altNames": [
+                "Millennium Systems Wicat"
+            ]
+        },
+        "wmbullet": {
+            "id": "wmbullet",
+            "shortName": "wmbullet",
+            "name": "WaveMate Bullet disk images",
+            "altNames": [
+                "WaveMate Bullet"
+            ]
+        },
+        "wscolor": {
+            "id": "wscolor",
+            "shortName": "wscolor",
+            "name": "Bandai Wonderswan Color cartridges",
+            "altNames": [
+                "Bandai Wonderswan Color"
+            ]
+        },
+        "pockchalv2": {
+            "id": "pockchalv2",
+            "shortName": "pockchalv2",
+            "name": "Pocket Challenge V2 cartridges",
+            "altNames": [
+                "Pocket Challenge V2"
+            ]
+        },
+        "wswan": {
+            "id": "wswan",
+            "shortName": "wswan",
+            "name": "Bandai Wonderswan cartridges",
+            "altNames": [
+                "Bandai Wonderswan"
+            ]
+        },
+        "x07_card": {
+            "id": "x07_card",
+            "shortName": "x07_card",
+            "name": "Canon X-07 memory cards",
+            "altNames": [
+                "Canon X-07"
+            ]
+        },
+        "x07_cass": {
+            "id": "x07_cass",
+            "shortName": "x07_cass",
+            "name": "Canon X-07 cassettes",
+            "altNames": [
+                "Canon X-07"
+            ]
+        },
+        "x1_flop": {
+            "id": "x1_flop",
+            "shortName": "x1_flop",
+            "name": "Sharp X1 disk images",
+            "altNames": [
+                "Sharp X1"
+            ]
+        },
+        "x1_cass": {
+            "id": "x1_cass",
+            "shortName": "x1_cass",
+            "name": "Sharp X1 cassettes",
+            "altNames": [
+                "Sharp X1"
+            ]
+        },
+        "xerox820ii": {
+            "id": "xerox820ii",
+            "shortName": "xerox820ii",
+            "name": "Xerox 820-II Disk Images",
+            "altNames": [
+                "Xerox 820-II"
+            ]
+        },
+        "x37_flop": {
+            "id": "x37_flop",
+            "shortName": "x37_flop",
+            "name": "Luxor X37 diskettes",
+            "altNames": [
+                "Luxor X37"
+            ]
+        },
+        "x68k_flop": {
+            "id": "x68k_flop",
+            "shortName": "x68k_flop",
+            "name": "Sharp X68k disk images",
+            "altNames": [
+                "Sharp X68k"
+            ]
+        },
+        "z80clock": {
+            "id": "z80clock",
+            "shortName": "z80clock",
+            "name": "Z80 Clock ROMs",
+            "altNames": [
+                "Z80 Clock"
+            ]
+        },
+        "z80ne_cass": {
+            "id": "z80ne_cass",
+            "shortName": "z80ne_cass",
+            "name": "Nuova Elettronica Z80NE cassettes",
+            "altNames": [
+                "Nuova Elettronica Z80NE"
+            ]
+        },
+        "z80ne_flop": {
+            "id": "z80ne_flop",
+            "shortName": "z80ne_flop",
+            "name": "Nuova Elettronica Z80NE floppies",
+            "altNames": [
+                "Nuova Elettronica Z80NE"
+            ]
+        },
+        "z88_cart": {
+            "id": "z88_cart",
+            "shortName": "z88_cart",
+            "name": "Z88 ROM cartridges",
+            "altNames": [
+                "Z88"
+            ]
+        },
+        "leapfrog_zippity_cart": {
+            "id": "leapfrog_zippity_cart",
+            "shortName": "leapfrog_zippity_cart",
+            "name": "LeapFrog Zippity Cartridges",
+            "altNames": [
+                "LeapFrog Zippity"
+            ]
+        },
+        "zorba": {
+            "id": "zorba",
+            "shortName": "zorba",
+            "name": "Telcon Zorba floppy disks",
+            "altNames": [
+                "Telcon Zorba"
+            ]
+        },
+        "zx80_cass": {
+            "id": "zx80_cass",
+            "shortName": "zx80_cass",
+            "name": "Sinclair ZX80 cassettes",
+            "altNames": [
+                "Sinclair ZX80"
+            ]
+        },
+        "svi318_flop": {
+            "id": "svi318_flop",
+            "shortName": "svi318_flop",
+            "name": "Spectravision SVI-318/328 disk images",
+            "altNames": [
+                "Spectravision SVI-318/328"
+            ]
+        },
+        "spectrum_microdrive": {
+            "id": "spectrum_microdrive",
+            "shortName": "spectrum_microdrive",
+            "name": "Sinclair ZX Microdrive tapes/cartridges",
+            "altNames": [
+                "Sinclair ZX Microdrive"
+            ]
+        },
+        "spectrum_cart": {
+            "id": "spectrum_cart",
+            "shortName": "spectrum_cart",
+            "name": "Sinclair ZX Spectrum cartridges",
+            "altNames": [
+                "Sinclair ZX Spectrum"
+            ]
+        },
+        "spectrum_flop_opus": {
+            "id": "spectrum_flop_opus",
+            "shortName": "spectrum_flop_opus",
+            "name": "Sinclair ZX Spectrum Opus Discovery disk images",
+            "altNames": [
+                "Sinclair ZX Spectrum Opus Discovery"
+            ]
+        },
+        "spectrum_mgt_flop": {
+            "id": "spectrum_mgt_flop",
+            "shortName": "spectrum_mgt_flop",
+            "name": "ZX Spectrum MGT DISCiPLE/+D disks",
+            "altNames": [
+                "ZX Spectrum MGT DISCiPLE/+D"
+            ]
+        },
+        "spectrum_wafadrive": {
+            "id": "spectrum_wafadrive",
+            "shortName": "spectrum_wafadrive",
+            "name": "Sinclair ZX Wafadrive tapes/cartridges",
+            "altNames": [
+                "Sinclair ZX Wafadrive"
+            ]
+        },
+        "cgenie_flop_rom": {
+            "id": "cgenie_flop_rom",
+            "shortName": "cgenie_flop_rom",
+            "name": "EACA Colour Genie EG2000 ROMs",
+            "altNames": [
+                "EACA Colour Genie EG2000"
+            ]
+        },
+        "bbc_flop_68000": {
+            "id": "bbc_flop_68000",
+            "shortName": "bbc_flop_68000",
+            "name": "Casper 68000 2nd Processor discs",
+            "altNames": [
+                "Casper 68000"
+            ]
+        },
+        "bbc_flop_hybrid": {
+            "id": "bbc_flop_hybrid",
+            "shortName": "bbc_flop_hybrid",
+            "name": "Hybrid Music System discs",
+            "altNames": [
+                "Hybrid Music System"
+            ]
+        },
+        "e01_flop": {
+            "id": "e01_flop",
+            "shortName": "e01_flop",
+            "name": "Acorn FileStore Discs",
+            "altNames": [
+                "Acorn FileStore"
+            ]
+        },
+        "bml3_flop": {
+            "id": "bml3_flop",
+            "shortName": "bml3_flop",
+            "name": "Hitachi Basic Master Level 3 disk images",
+            "altNames": [
+                "Hitachi Basic Master Level 3"
+            ]
+        }
+    }
+}
