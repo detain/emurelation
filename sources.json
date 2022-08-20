@@ -29,7 +29,7 @@
     {
         "id": "nointro",
         "name": "No-Intro",
-        "type": "",
+        "type": "DAT",
         "provides": ["platforms"],
         "info": "",
         "updatedLast": false,
@@ -40,7 +40,7 @@
     {
         "id": "tosec",
         "name": "TOSEC",
-        "type": "",
+        "type": "DAT",
         "provides": ["platforms"],
         "info": "",
         "updatedLast": false,
@@ -51,7 +51,7 @@
     {
         "id": "redump",
         "name": "Redump",
-        "type": "",
+        "type": "DAT",
         "provides": ["platforms"],
         "info": "",
         "updatedLast": false,
@@ -62,7 +62,7 @@
     {
         "id": "mame",
         "name": "MAME",
-        "type": "",
+        "type": "Emulator",
         "provides": ["emulators", "platforms"],
         "info": "",
         "updatedLast": false,
@@ -73,7 +73,7 @@
     {
         "id": "launchbox",
         "name": "LaunchBox",
-        "type": "",
+        "type": "Frontend",
         "provides": ["emulators", "platforms"],
         "info": "",
         "updatedLast": false,
@@ -84,7 +84,7 @@
     {
         "id": "tgdb",
         "name": "TheGamesDB",
-        "type": "",
+        "type": "API",
         "provides": ["platforms"],
         "info": "",
         "updatedLast": false,
@@ -95,7 +95,7 @@
     {
         "id": "screenscraper",
         "name": "ScreenScraper",
-        "type": "",
+        "type": "API",
         "provides": ["emulators", "platforms"],
         "info": "",
         "updatedLast": false,
@@ -106,8 +106,140 @@
     {
         "id": "oldcomputers",
         "name": "Old-Computers",
-        "type": "",
+        "type": "Website",
         "provides": ["platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "emucr",
+        "name": "EmuCR",
+        "type": "Website",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "emulationking",
+        "name": "EmulationKing",
+        "type": "Website",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "emuparadise",
+        "name": "EmuParadise",
+        "type": "Website",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "emutopia",
+        "name": "Emutopia",
+        "type": "Website",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "retrobat",
+        "name": "RetroBat",
+        "type": "Frontend",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "es-de",
+        "name": "EmulationStation-DE",
+        "type": "Frontend",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "type": "",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "type": "",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "type": "",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "type": "",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "type": "",
+        "provides": ["emulators", "platforms"],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+        }
+    },
+    {
+        "id": "",
+        "name": "",
+        "type": "",
+        "provides": ["emulators", "platforms"],
         "info": "",
         "updatedLast": false,
         "updateTrigger": "commit",
