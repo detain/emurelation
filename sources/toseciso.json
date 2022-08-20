@@ -1,0 +1,1691 @@
+{
+    "platforms": {
+        "3DO 3DO Interactive Multiplayer - Applications - [IMG]": {
+            "id": "3DO 3DO Interactive Multiplayer - Applications - [IMG]",
+            "name": "3DO 3DO Interactive Multiplayer - Applications - [IMG]",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Applications - [ISO]": {
+            "id": "3DO 3DO Interactive Multiplayer - Applications - [ISO]",
+            "name": "3DO 3DO Interactive Multiplayer - Applications - [ISO]",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Bonus Discs": {
+            "id": "3DO 3DO Interactive Multiplayer - Bonus Discs",
+            "name": "3DO 3DO Interactive Multiplayer - Bonus Discs",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Coverdiscs - [IMG]": {
+            "id": "3DO 3DO Interactive Multiplayer - Coverdiscs - [IMG]",
+            "name": "3DO 3DO Interactive Multiplayer - Coverdiscs - [IMG]",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Coverdiscs - [ISO]": {
+            "id": "3DO 3DO Interactive Multiplayer - Coverdiscs - [ISO]",
+            "name": "3DO 3DO Interactive Multiplayer - Coverdiscs - [ISO]",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Educational - [IMG]": {
+            "id": "3DO 3DO Interactive Multiplayer - Educational - [IMG]",
+            "name": "3DO 3DO Interactive Multiplayer - Educational - [IMG]",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Educational - [ISO]": {
+            "id": "3DO 3DO Interactive Multiplayer - Educational - [ISO]",
+            "name": "3DO 3DO Interactive Multiplayer - Educational - [ISO]",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Firmware": {
+            "id": "3DO 3DO Interactive Multiplayer - Firmware",
+            "name": "3DO 3DO Interactive Multiplayer - Firmware",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Games": {
+            "id": "3DO 3DO Interactive Multiplayer - Games",
+            "name": "3DO 3DO Interactive Multiplayer - Games",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Homebrew - Applications": {
+            "id": "3DO 3DO Interactive Multiplayer - Homebrew - Applications",
+            "name": "3DO 3DO Interactive Multiplayer - Homebrew - Applications",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Homebrew - Compilations": {
+            "id": "3DO 3DO Interactive Multiplayer - Homebrew - Compilations",
+            "name": "3DO 3DO Interactive Multiplayer - Homebrew - Compilations",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Homebrew - Demos": {
+            "id": "3DO 3DO Interactive Multiplayer - Homebrew - Demos",
+            "name": "3DO 3DO Interactive Multiplayer - Homebrew - Demos",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Homebrew - Games": {
+            "id": "3DO 3DO Interactive Multiplayer - Homebrew - Games",
+            "name": "3DO 3DO Interactive Multiplayer - Homebrew - Games",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Multimedia": {
+            "id": "3DO 3DO Interactive Multiplayer - Multimedia",
+            "name": "3DO 3DO Interactive Multiplayer - Multimedia",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "3DO 3DO Interactive Multiplayer - Samplers": {
+            "id": "3DO 3DO Interactive Multiplayer - Samplers",
+            "name": "3DO 3DO Interactive Multiplayer - Samplers",
+            "altNames": [
+                "3DO 3DO Interactive Multiplayer"
+            ]
+        },
+        "Acorn Archimedes - CD - Applications": {
+            "id": "Acorn Archimedes - CD - Applications",
+            "name": "Acorn Archimedes - CD - Applications",
+            "altNames": [
+                "Acorn Archimedes"
+            ]
+        },
+        "Acorn Archimedes - CD - Compilations": {
+            "id": "Acorn Archimedes - CD - Compilations",
+            "name": "Acorn Archimedes - CD - Compilations",
+            "altNames": [
+                "Acorn Archimedes"
+            ]
+        },
+        "Acorn Archimedes - CD - Coverdiscs": {
+            "id": "Acorn Archimedes - CD - Coverdiscs",
+            "name": "Acorn Archimedes - CD - Coverdiscs",
+            "altNames": [
+                "Acorn Archimedes"
+            ]
+        },
+        "American Laser Games CD-ROM System - Games": {
+            "id": "American Laser Games CD-ROM System - Games",
+            "name": "American Laser Games CD-ROM System - Games",
+            "altNames": [
+                "American Laser Games CD-ROM System"
+            ]
+        },
+        "Apple Macintosh - CD - Applications": {
+            "id": "Apple Macintosh - CD - Applications",
+            "name": "Apple Macintosh - CD - Applications",
+            "altNames": [
+                "Apple Macintosh"
+            ]
+        },
+        "Apple Macintosh - CD - Coverdiscs": {
+            "id": "Apple Macintosh - CD - Coverdiscs",
+            "name": "Apple Macintosh - CD - Coverdiscs",
+            "altNames": [
+                "Apple Macintosh"
+            ]
+        },
+        "Apple Macintosh - CD - Educational": {
+            "id": "Apple Macintosh - CD - Educational",
+            "name": "Apple Macintosh - CD - Educational",
+            "altNames": [
+                "Apple Macintosh"
+            ]
+        },
+        "Apple Macintosh - CD - Games": {
+            "id": "Apple Macintosh - CD - Games",
+            "name": "Apple Macintosh - CD - Games",
+            "altNames": [
+                "Apple Macintosh"
+            ]
+        },
+        "Apple Macintosh - CD - Multimedia": {
+            "id": "Apple Macintosh - CD - Multimedia",
+            "name": "Apple Macintosh - CD - Multimedia",
+            "altNames": [
+                "Apple Macintosh"
+            ]
+        },
+        "Atari Jaguar CD - Bonus Discs": {
+            "id": "Atari Jaguar CD - Bonus Discs",
+            "name": "Atari Jaguar CD - Bonus Discs",
+            "altNames": [
+                "Atari Jaguar CD"
+            ]
+        },
+        "Atari Jaguar CD - Games": {
+            "id": "Atari Jaguar CD - Games",
+            "name": "Atari Jaguar CD - Games",
+            "altNames": [
+                "Atari Jaguar CD"
+            ]
+        },
+        "Atari Jaguar CD - Homebrew - Games - [BIN]": {
+            "id": "Atari Jaguar CD - Homebrew - Games - [BIN]",
+            "name": "Atari Jaguar CD - Homebrew - Games - [BIN]",
+            "altNames": [
+                "Atari Jaguar CD"
+            ]
+        },
+        "Atari Jaguar CD - Homebrew - Games - [CDI]": {
+            "id": "Atari Jaguar CD - Homebrew - Games - [CDI]",
+            "name": "Atari Jaguar CD - Homebrew - Games - [CDI]",
+            "altNames": [
+                "Atari Jaguar CD"
+            ]
+        },
+        "Atari Jaguar CD - Homebrew - Games - [NRG]": {
+            "id": "Atari Jaguar CD - Homebrew - Games - [NRG]",
+            "name": "Atari Jaguar CD - Homebrew - Games - [NRG]",
+            "altNames": [
+                "Atari Jaguar CD"
+            ]
+        },
+        "Atari Jaguar CD - Samplers": {
+            "id": "Atari Jaguar CD - Samplers",
+            "name": "Atari Jaguar CD - Samplers",
+            "altNames": [
+                "Atari Jaguar CD"
+            ]
+        },
+        "Bandai Pippin @World & Pippin Atmark - Applications": {
+            "id": "Bandai Pippin @World & Pippin Atmark - Applications",
+            "name": "Bandai Pippin @World & Pippin Atmark - Applications",
+            "altNames": [
+                "Bandai Pippin @World & Pippin Atmark"
+            ]
+        },
+        "Bandai Pippin @World & Pippin Atmark - Multimedia": {
+            "id": "Bandai Pippin @World & Pippin Atmark - Multimedia",
+            "name": "Bandai Pippin @World & Pippin Atmark - Multimedia",
+            "altNames": [
+                "Bandai Pippin @World & Pippin Atmark"
+            ]
+        },
+        "Bandai Playdia - Educational - [IMG]": {
+            "id": "Bandai Playdia - Educational - [IMG]",
+            "name": "Bandai Playdia - Educational - [IMG]",
+            "altNames": [
+                "Bandai Playdia"
+            ]
+        },
+        "Bandai Playdia - Educational - [ISO]": {
+            "id": "Bandai Playdia - Educational - [ISO]",
+            "name": "Bandai Playdia - Educational - [ISO]",
+            "altNames": [
+                "Bandai Playdia"
+            ]
+        },
+        "Bandai Playdia - Games - [IMG]": {
+            "id": "Bandai Playdia - Games - [IMG]",
+            "name": "Bandai Playdia - Games - [IMG]",
+            "altNames": [
+                "Bandai Playdia"
+            ]
+        },
+        "Bandai Playdia - Games - [ISO]": {
+            "id": "Bandai Playdia - Games - [ISO]",
+            "name": "Bandai Playdia - Games - [ISO]",
+            "altNames": [
+                "Bandai Playdia"
+            ]
+        },
+        "Capcom CP System III - Games": {
+            "id": "Capcom CP System III - Games",
+            "name": "Capcom CP System III - Games",
+            "altNames": [
+                "Capcom CP System III"
+            ]
+        },
+        "Commodore Amiga - CD - Applications - [IMG]": {
+            "id": "Commodore Amiga - CD - Applications - [IMG]",
+            "name": "Commodore Amiga - CD - Applications - [IMG]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Applications - [ISO]": {
+            "id": "Commodore Amiga - CD - Applications - [ISO]",
+            "name": "Commodore Amiga - CD - Applications - [ISO]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Compilations - [BIN]": {
+            "id": "Commodore Amiga - CD - Compilations - [BIN]",
+            "name": "Commodore Amiga - CD - Compilations - [BIN]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Compilations - [IMG]": {
+            "id": "Commodore Amiga - CD - Compilations - [IMG]",
+            "name": "Commodore Amiga - CD - Compilations - [IMG]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Compilations - [ISO]": {
+            "id": "Commodore Amiga - CD - Compilations - [ISO]",
+            "name": "Commodore Amiga - CD - Compilations - [ISO]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Coverdiscs - [BIN]": {
+            "id": "Commodore Amiga - CD - Coverdiscs - [BIN]",
+            "name": "Commodore Amiga - CD - Coverdiscs - [BIN]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Coverdiscs - [ISO]": {
+            "id": "Commodore Amiga - CD - Coverdiscs - [ISO]",
+            "name": "Commodore Amiga - CD - Coverdiscs - [ISO]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Games - [BIN]": {
+            "id": "Commodore Amiga - CD - Games - [BIN]",
+            "name": "Commodore Amiga - CD - Games - [BIN]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Games - [IMG]": {
+            "id": "Commodore Amiga - CD - Games - [IMG]",
+            "name": "Commodore Amiga - CD - Games - [IMG]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Games - [ISO]": {
+            "id": "Commodore Amiga - CD - Games - [ISO]",
+            "name": "Commodore Amiga - CD - Games - [ISO]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Games - [MDF]": {
+            "id": "Commodore Amiga - CD - Games - [MDF]",
+            "name": "Commodore Amiga - CD - Games - [MDF]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Homebrew - [IMG]": {
+            "id": "Commodore Amiga - CD - Homebrew - [IMG]",
+            "name": "Commodore Amiga - CD - Homebrew - [IMG]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Multimedia - [IMG]": {
+            "id": "Commodore Amiga - CD - Multimedia - [IMG]",
+            "name": "Commodore Amiga - CD - Multimedia - [IMG]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Multimedia - [ISO]": {
+            "id": "Commodore Amiga - CD - Multimedia - [ISO]",
+            "name": "Commodore Amiga - CD - Multimedia - [ISO]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Operating Systems - [BIN]": {
+            "id": "Commodore Amiga - CD - Operating Systems - [BIN]",
+            "name": "Commodore Amiga - CD - Operating Systems - [BIN]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Operating Systems - [IMG]": {
+            "id": "Commodore Amiga - CD - Operating Systems - [IMG]",
+            "name": "Commodore Amiga - CD - Operating Systems - [IMG]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga - CD - Operating Systems - [ISO]": {
+            "id": "Commodore Amiga - CD - Operating Systems - [ISO]",
+            "name": "Commodore Amiga - CD - Operating Systems - [ISO]",
+            "altNames": [
+                "Commodore Amiga"
+            ]
+        },
+        "Commodore Amiga CD32 - Applications": {
+            "id": "Commodore Amiga CD32 - Applications",
+            "name": "Commodore Amiga CD32 - Applications",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Compilations - [IMG]": {
+            "id": "Commodore Amiga CD32 - Compilations - [IMG]",
+            "name": "Commodore Amiga CD32 - Compilations - [IMG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Compilations - [ISO]": {
+            "id": "Commodore Amiga CD32 - Compilations - [ISO]",
+            "name": "Commodore Amiga CD32 - Compilations - [ISO]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Coverdiscs - [BIN]": {
+            "id": "Commodore Amiga CD32 - Coverdiscs - [BIN]",
+            "name": "Commodore Amiga CD32 - Coverdiscs - [BIN]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Coverdiscs - [IMG]": {
+            "id": "Commodore Amiga CD32 - Coverdiscs - [IMG]",
+            "name": "Commodore Amiga CD32 - Coverdiscs - [IMG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Coverdiscs - [ISO]": {
+            "id": "Commodore Amiga CD32 - Coverdiscs - [ISO]",
+            "name": "Commodore Amiga CD32 - Coverdiscs - [ISO]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Demos": {
+            "id": "Commodore Amiga CD32 - Demos",
+            "name": "Commodore Amiga CD32 - Demos",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Educational - [IMG]": {
+            "id": "Commodore Amiga CD32 - Educational - [IMG]",
+            "name": "Commodore Amiga CD32 - Educational - [IMG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Educational - [ISO]": {
+            "id": "Commodore Amiga CD32 - Educational - [ISO]",
+            "name": "Commodore Amiga CD32 - Educational - [ISO]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Games - [BIN]": {
+            "id": "Commodore Amiga CD32 - Games - [BIN]",
+            "name": "Commodore Amiga CD32 - Games - [BIN]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Games - [IMG]": {
+            "id": "Commodore Amiga CD32 - Games - [IMG]",
+            "name": "Commodore Amiga CD32 - Games - [IMG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Games - [ISO]": {
+            "id": "Commodore Amiga CD32 - Games - [ISO]",
+            "name": "Commodore Amiga CD32 - Games - [ISO]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Compilations - [BIN]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Compilations - [BIN]",
+            "name": "Commodore Amiga CD32 - Homebrew - Compilations - [BIN]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Compilations - [IMG]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Compilations - [IMG]",
+            "name": "Commodore Amiga CD32 - Homebrew - Compilations - [IMG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Compilations - [ISO]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Compilations - [ISO]",
+            "name": "Commodore Amiga CD32 - Homebrew - Compilations - [ISO]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Compilations - [Multipart]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Compilations - [Multipart]",
+            "name": "Commodore Amiga CD32 - Homebrew - Compilations - [Multipart]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Compilations - [NRG]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Compilations - [NRG]",
+            "name": "Commodore Amiga CD32 - Homebrew - Compilations - [NRG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Games - [BIN]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Games - [BIN]",
+            "name": "Commodore Amiga CD32 - Homebrew - Games - [BIN]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Games - [IMG]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Games - [IMG]",
+            "name": "Commodore Amiga CD32 - Homebrew - Games - [IMG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Games - [ISO]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Games - [ISO]",
+            "name": "Commodore Amiga CD32 - Homebrew - Games - [ISO]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Games - [NRG]": {
+            "id": "Commodore Amiga CD32 - Homebrew - Games - [NRG]",
+            "name": "Commodore Amiga CD32 - Homebrew - Games - [NRG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Homebrew - Multimedia": {
+            "id": "Commodore Amiga CD32 - Homebrew - Multimedia",
+            "name": "Commodore Amiga CD32 - Homebrew - Multimedia",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Multimedia - [IMG]": {
+            "id": "Commodore Amiga CD32 - Multimedia - [IMG]",
+            "name": "Commodore Amiga CD32 - Multimedia - [IMG]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Multimedia - [ISO]": {
+            "id": "Commodore Amiga CD32 - Multimedia - [ISO]",
+            "name": "Commodore Amiga CD32 - Multimedia - [ISO]",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CD32 - Samplers": {
+            "id": "Commodore Amiga CD32 - Samplers",
+            "name": "Commodore Amiga CD32 - Samplers",
+            "altNames": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "Commodore Amiga CDTV - Applications - [IMG]": {
+            "id": "Commodore Amiga CDTV - Applications - [IMG]",
+            "name": "Commodore Amiga CDTV - Applications - [IMG]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Applications - [ISO]": {
+            "id": "Commodore Amiga CDTV - Applications - [ISO]",
+            "name": "Commodore Amiga CDTV - Applications - [ISO]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Compilations - [IMG]": {
+            "id": "Commodore Amiga CDTV - Compilations - [IMG]",
+            "name": "Commodore Amiga CDTV - Compilations - [IMG]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Compilations - [ISO]": {
+            "id": "Commodore Amiga CDTV - Compilations - [ISO]",
+            "name": "Commodore Amiga CDTV - Compilations - [ISO]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Educational - [IMG]": {
+            "id": "Commodore Amiga CDTV - Educational - [IMG]",
+            "name": "Commodore Amiga CDTV - Educational - [IMG]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Educational - [ISO]": {
+            "id": "Commodore Amiga CDTV - Educational - [ISO]",
+            "name": "Commodore Amiga CDTV - Educational - [ISO]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Entertainment": {
+            "id": "Commodore Amiga CDTV - Entertainment",
+            "name": "Commodore Amiga CDTV - Entertainment",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Games - [BIN]": {
+            "id": "Commodore Amiga CDTV - Games - [BIN]",
+            "name": "Commodore Amiga CDTV - Games - [BIN]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Games - [IMG]": {
+            "id": "Commodore Amiga CDTV - Games - [IMG]",
+            "name": "Commodore Amiga CDTV - Games - [IMG]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Games - [ISO]": {
+            "id": "Commodore Amiga CDTV - Games - [ISO]",
+            "name": "Commodore Amiga CDTV - Games - [ISO]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Games - [MDF]": {
+            "id": "Commodore Amiga CDTV - Games - [MDF]",
+            "name": "Commodore Amiga CDTV - Games - [MDF]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Homebrew - Compilations - [IMG]": {
+            "id": "Commodore Amiga CDTV - Homebrew - Compilations - [IMG]",
+            "name": "Commodore Amiga CDTV - Homebrew - Compilations - [IMG]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Homebrew - Compilations - [ISO]": {
+            "id": "Commodore Amiga CDTV - Homebrew - Compilations - [ISO]",
+            "name": "Commodore Amiga CDTV - Homebrew - Compilations - [ISO]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Homebrew - Games - [BIN]": {
+            "id": "Commodore Amiga CDTV - Homebrew - Games - [BIN]",
+            "name": "Commodore Amiga CDTV - Homebrew - Games - [BIN]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Homebrew - Games - [ISO]": {
+            "id": "Commodore Amiga CDTV - Homebrew - Games - [ISO]",
+            "name": "Commodore Amiga CDTV - Homebrew - Games - [ISO]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Multimedia - [IMG]": {
+            "id": "Commodore Amiga CDTV - Multimedia - [IMG]",
+            "name": "Commodore Amiga CDTV - Multimedia - [IMG]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Multimedia - [ISO]": {
+            "id": "Commodore Amiga CDTV - Multimedia - [ISO]",
+            "name": "Commodore Amiga CDTV - Multimedia - [ISO]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Samplers - [IMG]": {
+            "id": "Commodore Amiga CDTV - Samplers - [IMG]",
+            "name": "Commodore Amiga CDTV - Samplers - [IMG]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore Amiga CDTV - Samplers - [ISO]": {
+            "id": "Commodore Amiga CDTV - Samplers - [ISO]",
+            "name": "Commodore Amiga CDTV - Samplers - [ISO]",
+            "altNames": [
+                "Commodore Amiga CDTV"
+            ]
+        },
+        "Commodore C64 - CD - Compilations - [ISO]": {
+            "id": "Commodore C64 - CD - Compilations - [ISO]",
+            "name": "Commodore C64 - CD - Compilations - [ISO]",
+            "altNames": [
+                "Commodore C64"
+            ]
+        },
+        "Fujitsu FM Towns - CD - Applications": {
+            "id": "Fujitsu FM Towns - CD - Applications",
+            "name": "Fujitsu FM Towns - CD - Applications",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "Fujitsu FM Towns - CD - Compilations": {
+            "id": "Fujitsu FM Towns - CD - Compilations",
+            "name": "Fujitsu FM Towns - CD - Compilations",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "Fujitsu FM Towns - CD - Demos": {
+            "id": "Fujitsu FM Towns - CD - Demos",
+            "name": "Fujitsu FM Towns - CD - Demos",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "Fujitsu FM Towns - CD - Games": {
+            "id": "Fujitsu FM Towns - CD - Games",
+            "name": "Fujitsu FM Towns - CD - Games",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "Fujitsu FM Towns - CD - Homebrew - Demos": {
+            "id": "Fujitsu FM Towns - CD - Homebrew - Demos",
+            "name": "Fujitsu FM Towns - CD - Homebrew - Demos",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "Fujitsu FM Towns - CD - Homebrew - Games": {
+            "id": "Fujitsu FM Towns - CD - Homebrew - Games",
+            "name": "Fujitsu FM Towns - CD - Homebrew - Games",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "Fujitsu FM Towns - CD - Operating Systems": {
+            "id": "Fujitsu FM Towns - CD - Operating Systems",
+            "name": "Fujitsu FM Towns - CD - Operating Systems",
+            "altNames": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "IBM PC Compatibles - CD - Applications - [BIN-CUE]": {
+            "id": "IBM PC Compatibles - CD - Applications - [BIN-CUE]",
+            "name": "IBM PC Compatibles - CD - Applications - [BIN-CUE]",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "IBM PC Compatibles - CD - Applications - [ISO]": {
+            "id": "IBM PC Compatibles - CD - Applications - [ISO]",
+            "name": "IBM PC Compatibles - CD - Applications - [ISO]",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "IBM PC Compatibles - CD - Compilations": {
+            "id": "IBM PC Compatibles - CD - Compilations",
+            "name": "IBM PC Compatibles - CD - Compilations",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "IBM PC Compatibles - CD - Coverdiscs": {
+            "id": "IBM PC Compatibles - CD - Coverdiscs",
+            "name": "IBM PC Compatibles - CD - Coverdiscs",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "IBM PC Compatibles - CD - Educational": {
+            "id": "IBM PC Compatibles - CD - Educational",
+            "name": "IBM PC Compatibles - CD - Educational",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "IBM PC Compatibles - CD - Games": {
+            "id": "IBM PC Compatibles - CD - Games",
+            "name": "IBM PC Compatibles - CD - Games",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "IBM PC Compatibles - CD - Multimedia": {
+            "id": "IBM PC Compatibles - CD - Multimedia",
+            "name": "IBM PC Compatibles - CD - Multimedia",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "IBM PC Compatibles - CD - Operating Systems": {
+            "id": "IBM PC Compatibles - CD - Operating Systems",
+            "name": "IBM PC Compatibles - CD - Operating Systems",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "IBM PC Compatibles - CD - Samplers": {
+            "id": "IBM PC Compatibles - CD - Samplers",
+            "name": "IBM PC Compatibles - CD - Samplers",
+            "altNames": [
+                "IBM PC Compatibles"
+            ]
+        },
+        "Incredible Technologies Eagle - CD - Games": {
+            "id": "Incredible Technologies Eagle - CD - Games",
+            "name": "Incredible Technologies Eagle - CD - Games",
+            "altNames": [
+                "Incredible Technologies Eagle"
+            ]
+        },
+        "Konami Bemani System 573 Analog - Games": {
+            "id": "Konami Bemani System 573 Analog - Games",
+            "name": "Konami Bemani System 573 Analog - Games",
+            "altNames": [
+                "Konami Bemani System 573 Analog"
+            ]
+        },
+        "Konami Bemani System 573 Digital - Games": {
+            "id": "Konami Bemani System 573 Digital - Games",
+            "name": "Konami Bemani System 573 Digital - Games",
+            "altNames": [
+                "Konami Bemani System 573 Digital"
+            ]
+        },
+        "Konami System 573 - Games": {
+            "id": "Konami System 573 - Games",
+            "name": "Konami System 573 - Games",
+            "altNames": [
+                "Konami System 573"
+            ]
+        },
+        "Mattel HyperScan - Games": {
+            "id": "Mattel HyperScan - Games",
+            "name": "Mattel HyperScan - Games",
+            "altNames": [
+                "Mattel HyperScan"
+            ]
+        },
+        "Memorex Video Information System - Educational": {
+            "id": "Memorex Video Information System - Educational",
+            "name": "Memorex Video Information System - Educational",
+            "altNames": [
+                "Memorex Video Information System"
+            ]
+        },
+        "Memorex Video Information System - Games": {
+            "id": "Memorex Video Information System - Games",
+            "name": "Memorex Video Information System - Games",
+            "altNames": [
+                "Memorex Video Information System"
+            ]
+        },
+        "Memorex Video Information System - Multimedia": {
+            "id": "Memorex Video Information System - Multimedia",
+            "name": "Memorex Video Information System - Multimedia",
+            "altNames": [
+                "Memorex Video Information System"
+            ]
+        },
+        "Memorex Video Information System - Samplers": {
+            "id": "Memorex Video Information System - Samplers",
+            "name": "Memorex Video Information System - Samplers",
+            "altNames": [
+                "Memorex Video Information System"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Applications": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Applications",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Applications",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Compilations": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Compilations",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Compilations",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Educational": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Educational",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Educational",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [BIN]": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [BIN]",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [BIN]",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [IMG]": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [IMG]",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [IMG]",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [ISO]": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [ISO]",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Games - [ISO]",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Homebrew - Games": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Homebrew - Games",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Homebrew - Games",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Multimedia": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Multimedia",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Multimedia",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [BIN]": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [BIN]",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [BIN]",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG]": {
+            "id": "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG]",
+            "name": "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG]",
+            "altNames": [
+                "NEC PC-Engine CD & TurboGrafx-16 CD"
+            ]
+        },
+        "NEC PC-FX - Firmware": {
+            "id": "NEC PC-FX - Firmware",
+            "name": "NEC PC-FX - Firmware",
+            "altNames": [
+                "NEC PC-FX"
+            ]
+        },
+        "NEC PC-FX - Games": {
+            "id": "NEC PC-FX - Games",
+            "name": "NEC PC-FX - Games",
+            "altNames": [
+                "NEC PC-FX"
+            ]
+        },
+        "NEC PC-FXGA - Firmware": {
+            "id": "NEC PC-FXGA - Firmware",
+            "name": "NEC PC-FXGA - Firmware",
+            "altNames": [
+                "NEC PC-FXGA"
+            ]
+        },
+        "NEC PC-FXGA - Games": {
+            "id": "NEC PC-FXGA - Games",
+            "name": "NEC PC-FXGA - Games",
+            "altNames": [
+                "NEC PC-FXGA"
+            ]
+        },
+        "Namco-Sega-Nintendo Triforce - Games": {
+            "id": "Namco-Sega-Nintendo Triforce - Games",
+            "name": "Namco-Sega-Nintendo Triforce - Games",
+            "altNames": [
+                "Namco-Sega-Nintendo Triforce"
+            ]
+        },
+        "Nintendo GameCube - Applications": {
+            "id": "Nintendo GameCube - Applications",
+            "name": "Nintendo GameCube - Applications",
+            "altNames": [
+                "Nintendo GameCube"
+            ]
+        },
+        "Nintendo GameCube - Games": {
+            "id": "Nintendo GameCube - Games",
+            "name": "Nintendo GameCube - Games",
+            "altNames": [
+                "Nintendo GameCube"
+            ]
+        },
+        "Nintendo GameCube - Samplers": {
+            "id": "Nintendo GameCube - Samplers",
+            "name": "Nintendo GameCube - Samplers",
+            "altNames": [
+                "Nintendo GameCube"
+            ]
+        },
+        "Nintendo Super Famicom & Super Entertainment System - Voicer-kun Audio CDs": {
+            "id": "Nintendo Super Famicom & Super Entertainment System - Voicer-kun Audio CDs",
+            "name": "Nintendo Super Famicom & Super Entertainment System - Voicer-kun Audio CDs",
+            "altNames": [
+                "Nintendo Super Famicom & Super Entertainment System"
+            ]
+        },
+        "Philips CD-i - Applications": {
+            "id": "Philips CD-i - Applications",
+            "name": "Philips CD-i - Applications",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Bonus Discs": {
+            "id": "Philips CD-i - Bonus Discs",
+            "name": "Philips CD-i - Bonus Discs",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Coverdiscs": {
+            "id": "Philips CD-i - Coverdiscs",
+            "name": "Philips CD-i - Coverdiscs",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Educational": {
+            "id": "Philips CD-i - Educational",
+            "name": "Philips CD-i - Educational",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Firmware": {
+            "id": "Philips CD-i - Firmware",
+            "name": "Philips CD-i - Firmware",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Games": {
+            "id": "Philips CD-i - Games",
+            "name": "Philips CD-i - Games",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Homebrew - Demos": {
+            "id": "Philips CD-i - Homebrew - Demos",
+            "name": "Philips CD-i - Homebrew - Demos",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Homebrew - Games - [BIN]": {
+            "id": "Philips CD-i - Homebrew - Games - [BIN]",
+            "name": "Philips CD-i - Homebrew - Games - [BIN]",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Homebrew - Games - [NRG]": {
+            "id": "Philips CD-i - Homebrew - Games - [NRG]",
+            "name": "Philips CD-i - Homebrew - Games - [NRG]",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Multimedia": {
+            "id": "Philips CD-i - Multimedia",
+            "name": "Philips CD-i - Multimedia",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "Philips CD-i - Samplers": {
+            "id": "Philips CD-i - Samplers",
+            "name": "Philips CD-i - Samplers",
+            "altNames": [
+                "Philips CD-i"
+            ]
+        },
+        "SNK Hyper Neo-Geo 64 - CD - Multimedia": {
+            "id": "SNK Hyper Neo-Geo 64 - CD - Multimedia",
+            "name": "SNK Hyper Neo-Geo 64 - CD - Multimedia",
+            "altNames": [
+                "SNK Hyper Neo-Geo 64"
+            ]
+        },
+        "SNK Neo-Geo CD - Bonus Discs": {
+            "id": "SNK Neo-Geo CD - Bonus Discs",
+            "name": "SNK Neo-Geo CD - Bonus Discs",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Demos": {
+            "id": "SNK Neo-Geo CD - Demos",
+            "name": "SNK Neo-Geo CD - Demos",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Firmware": {
+            "id": "SNK Neo-Geo CD - Firmware",
+            "name": "SNK Neo-Geo CD - Firmware",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Games - [IMG]": {
+            "id": "SNK Neo-Geo CD - Games - [IMG]",
+            "name": "SNK Neo-Geo CD - Games - [IMG]",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Games - [ISO]": {
+            "id": "SNK Neo-Geo CD - Games - [ISO]",
+            "name": "SNK Neo-Geo CD - Games - [ISO]",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Games - [Multipart]": {
+            "id": "SNK Neo-Geo CD - Games - [Multipart]",
+            "name": "SNK Neo-Geo CD - Games - [Multipart]",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Multimedia - [IMG]": {
+            "id": "SNK Neo-Geo CD - Multimedia - [IMG]",
+            "name": "SNK Neo-Geo CD - Multimedia - [IMG]",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Multimedia - [ISO]": {
+            "id": "SNK Neo-Geo CD - Multimedia - [ISO]",
+            "name": "SNK Neo-Geo CD - Multimedia - [ISO]",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Samplers - [IMG]": {
+            "id": "SNK Neo-Geo CD - Samplers - [IMG]",
+            "name": "SNK Neo-Geo CD - Samplers - [IMG]",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Samplers - [ISO]": {
+            "id": "SNK Neo-Geo CD - Samplers - [ISO]",
+            "name": "SNK Neo-Geo CD - Samplers - [ISO]",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "SNK Neo-Geo CD - Samplers - [Multipart]": {
+            "id": "SNK Neo-Geo CD - Samplers - [Multipart]",
+            "name": "SNK Neo-Geo CD - Samplers - [Multipart]",
+            "altNames": [
+                "SNK Neo-Geo CD"
+            ]
+        },
+        "Sega 32X - CD - Games - [BIN-CUE]": {
+            "id": "Sega 32X - CD - Games - [BIN-CUE]",
+            "name": "Sega 32X - CD - Games - [BIN-CUE]",
+            "altNames": [
+                "Sega 32X"
+            ]
+        },
+        "Sega 32X - CD - Games - [IMG]": {
+            "id": "Sega 32X - CD - Games - [IMG]",
+            "name": "Sega 32X - CD - Games - [IMG]",
+            "altNames": [
+                "Sega 32X"
+            ]
+        },
+        "Sega 32X - CD - Games - [ISO]": {
+            "id": "Sega 32X - CD - Games - [ISO]",
+            "name": "Sega 32X - CD - Games - [ISO]",
+            "altNames": [
+                "Sega 32X"
+            ]
+        },
+        "Sega Chihiro - Games": {
+            "id": "Sega Chihiro - Games",
+            "name": "Sega Chihiro - Games",
+            "altNames": [
+                "Sega Chihiro"
+            ]
+        },
+        "Sega Dreamcast - Applications": {
+            "id": "Sega Dreamcast - Applications",
+            "name": "Sega Dreamcast - Applications",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Firmware": {
+            "id": "Sega Dreamcast - Firmware",
+            "name": "Sega Dreamcast - Firmware",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Games - Dev Builds - [BIN]": {
+            "id": "Sega Dreamcast - Games - Dev Builds - [BIN]",
+            "name": "Sega Dreamcast - Games - Dev Builds - [BIN]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Games - Dev Builds - [ISO]": {
+            "id": "Sega Dreamcast - Games - Dev Builds - [ISO]",
+            "name": "Sega Dreamcast - Games - Dev Builds - [ISO]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Games - JP": {
+            "id": "Sega Dreamcast - Games - JP",
+            "name": "Sega Dreamcast - Games - JP",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Games - PAL": {
+            "id": "Sega Dreamcast - Games - PAL",
+            "name": "Sega Dreamcast - Games - PAL",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Games - US": {
+            "id": "Sega Dreamcast - Games - US",
+            "name": "Sega Dreamcast - Games - US",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Applications - [CDI]": {
+            "id": "Sega Dreamcast - Homebrew - Applications - [CDI]",
+            "name": "Sega Dreamcast - Homebrew - Applications - [CDI]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Demos - [BIN]": {
+            "id": "Sega Dreamcast - Homebrew - Demos - [BIN]",
+            "name": "Sega Dreamcast - Homebrew - Demos - [BIN]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Demos - [CDI]": {
+            "id": "Sega Dreamcast - Homebrew - Demos - [CDI]",
+            "name": "Sega Dreamcast - Homebrew - Demos - [CDI]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Demos - [ELF]": {
+            "id": "Sega Dreamcast - Homebrew - Demos - [ELF]",
+            "name": "Sega Dreamcast - Homebrew - Demos - [ELF]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Demos - [Multipart]": {
+            "id": "Sega Dreamcast - Homebrew - Demos - [Multipart]",
+            "name": "Sega Dreamcast - Homebrew - Demos - [Multipart]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Demos - [NRG]": {
+            "id": "Sega Dreamcast - Homebrew - Demos - [NRG]",
+            "name": "Sega Dreamcast - Homebrew - Demos - [NRG]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Games - [CDI]": {
+            "id": "Sega Dreamcast - Homebrew - Games - [CDI]",
+            "name": "Sega Dreamcast - Homebrew - Games - [CDI]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Games - [GDI]": {
+            "id": "Sega Dreamcast - Homebrew - Games - [GDI]",
+            "name": "Sega Dreamcast - Homebrew - Games - [GDI]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Homebrew - Games - [MDF-MDS]": {
+            "id": "Sega Dreamcast - Homebrew - Games - [MDF-MDS]",
+            "name": "Sega Dreamcast - Homebrew - Games - [MDF-MDS]",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Multimedia": {
+            "id": "Sega Dreamcast - Multimedia",
+            "name": "Sega Dreamcast - Multimedia",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Samplers": {
+            "id": "Sega Dreamcast - Samplers",
+            "name": "Sega Dreamcast - Samplers",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Dreamcast - Various Unverified Dumps": {
+            "id": "Sega Dreamcast - Various Unverified Dumps",
+            "name": "Sega Dreamcast - Various Unverified Dumps",
+            "altNames": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Applications": {
+            "id": "Sega Mega-CD & Sega CD - CD - Applications",
+            "name": "Sega Mega-CD & Sega CD - CD - Applications",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Bonus Discs - [IMG]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Bonus Discs - [IMG]",
+            "name": "Sega Mega-CD & Sega CD - CD - Bonus Discs - [IMG]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Bonus Discs - [ISO]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Bonus Discs - [ISO]",
+            "name": "Sega Mega-CD & Sega CD - CD - Bonus Discs - [ISO]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Educational - [IMG]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Educational - [IMG]",
+            "name": "Sega Mega-CD & Sega CD - CD - Educational - [IMG]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Educational - [ISO]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Educational - [ISO]",
+            "name": "Sega Mega-CD & Sega CD - CD - Educational - [ISO]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Games - [IMG]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Games - [IMG]",
+            "name": "Sega Mega-CD & Sega CD - CD - Games - [IMG]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Games - [ISO]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Games - [ISO]",
+            "name": "Sega Mega-CD & Sega CD - CD - Games - [ISO]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Multimedia - [IMG]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Multimedia - [IMG]",
+            "name": "Sega Mega-CD & Sega CD - CD - Multimedia - [IMG]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Multimedia - [ISO]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Multimedia - [ISO]",
+            "name": "Sega Mega-CD & Sega CD - CD - Multimedia - [ISO]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Samplers - [IMG]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Samplers - [IMG]",
+            "name": "Sega Mega-CD & Sega CD - CD - Samplers - [IMG]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - CD - Samplers - [ISO]": {
+            "id": "Sega Mega-CD & Sega CD - CD - Samplers - [ISO]",
+            "name": "Sega Mega-CD & Sega CD - CD - Samplers - [ISO]",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - Homebrew - Demos": {
+            "id": "Sega Mega-CD & Sega CD - Homebrew - Demos",
+            "name": "Sega Mega-CD & Sega CD - Homebrew - Demos",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega Mega-CD & Sega CD - Homebrew - Games": {
+            "id": "Sega Mega-CD & Sega CD - Homebrew - Games",
+            "name": "Sega Mega-CD & Sega CD - Homebrew - Games",
+            "altNames": [
+                "Sega Mega-CD & Sega CD"
+            ]
+        },
+        "Sega NAOMI - Applications": {
+            "id": "Sega NAOMI - Applications",
+            "name": "Sega NAOMI - Applications",
+            "altNames": [
+                "Sega NAOMI"
+            ]
+        },
+        "Sega NAOMI - Games": {
+            "id": "Sega NAOMI - Games",
+            "name": "Sega NAOMI - Games",
+            "altNames": [
+                "Sega NAOMI"
+            ]
+        },
+        "Sega NAOMI 2 - Games": {
+            "id": "Sega NAOMI 2 - Games",
+            "name": "Sega NAOMI 2 - Games",
+            "altNames": [
+                "Sega NAOMI 2"
+            ]
+        },
+        "Sega Saturn - Applications": {
+            "id": "Sega Saturn - Applications",
+            "name": "Sega Saturn - Applications",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "Sega Saturn - Bonus Discs": {
+            "id": "Sega Saturn - Bonus Discs",
+            "name": "Sega Saturn - Bonus Discs",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "Sega Saturn - Firmware": {
+            "id": "Sega Saturn - Firmware",
+            "name": "Sega Saturn - Firmware",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "Sega Saturn - Games - [BIN]": {
+            "id": "Sega Saturn - Games - [BIN]",
+            "name": "Sega Saturn - Games - [BIN]",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "Sega Saturn - Games - [ISO]": {
+            "id": "Sega Saturn - Games - [ISO]",
+            "name": "Sega Saturn - Games - [ISO]",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "Sega Saturn - Homebrew - Games - [ISO]": {
+            "id": "Sega Saturn - Homebrew - Games - [ISO]",
+            "name": "Sega Saturn - Homebrew - Games - [ISO]",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "Sega Saturn - Multimedia": {
+            "id": "Sega Saturn - Multimedia",
+            "name": "Sega Saturn - Multimedia",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "Sega Saturn - Samplers": {
+            "id": "Sega Saturn - Samplers",
+            "name": "Sega Saturn - Samplers",
+            "altNames": [
+                "Sega Saturn"
+            ]
+        },
+        "Sega WonderMega - CD - Educational - [IMG]": {
+            "id": "Sega WonderMega - CD - Educational - [IMG]",
+            "name": "Sega WonderMega - CD - Educational - [IMG]",
+            "altNames": [
+                "Sega WonderMega"
+            ]
+        },
+        "Sega WonderMega - CD - Educational - [ISO]": {
+            "id": "Sega WonderMega - CD - Educational - [ISO]",
+            "name": "Sega WonderMega - CD - Educational - [ISO]",
+            "altNames": [
+                "Sega WonderMega"
+            ]
+        },
+        "Sega WonderMega - CD - Games": {
+            "id": "Sega WonderMega - CD - Games",
+            "name": "Sega WonderMega - CD - Games",
+            "altNames": [
+                "Sega WonderMega"
+            ]
+        },
+        "Sega WonderMega - CD - Samplers": {
+            "id": "Sega WonderMega - CD - Samplers",
+            "name": "Sega WonderMega - CD - Samplers",
+            "altNames": [
+                "Sega WonderMega"
+            ]
+        },
+        "Sinclair ZX Spectrum - CD - Compilations": {
+            "id": "Sinclair ZX Spectrum - CD - Compilations",
+            "name": "Sinclair ZX Spectrum - CD - Compilations",
+            "altNames": [
+                "Sinclair ZX Spectrum"
+            ]
+        },
+        "Sony PlayStation - Applications": {
+            "id": "Sony PlayStation - Applications",
+            "name": "Sony PlayStation - Applications",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Coverdiscs": {
+            "id": "Sony PlayStation - Coverdiscs",
+            "name": "Sony PlayStation - Coverdiscs",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Demos - [BIN]": {
+            "id": "Sony PlayStation - Demos - [BIN]",
+            "name": "Sony PlayStation - Demos - [BIN]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Demos - [EXE]": {
+            "id": "Sony PlayStation - Demos - [EXE]",
+            "name": "Sony PlayStation - Demos - [EXE]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Demos - [ISO]": {
+            "id": "Sony PlayStation - Demos - [ISO]",
+            "name": "Sony PlayStation - Demos - [ISO]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Demos - [Multipart]": {
+            "id": "Sony PlayStation - Demos - [Multipart]",
+            "name": "Sony PlayStation - Demos - [Multipart]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Demos - [PSX]": {
+            "id": "Sony PlayStation - Demos - [PSX]",
+            "name": "Sony PlayStation - Demos - [PSX]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Firmware": {
+            "id": "Sony PlayStation - Firmware",
+            "name": "Sony PlayStation - Firmware",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Games - [BIN]": {
+            "id": "Sony PlayStation - Games - [BIN]",
+            "name": "Sony PlayStation - Games - [BIN]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Games - [EXE]": {
+            "id": "Sony PlayStation - Games - [EXE]",
+            "name": "Sony PlayStation - Games - [EXE]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Games - [IMG]": {
+            "id": "Sony PlayStation - Games - [IMG]",
+            "name": "Sony PlayStation - Games - [IMG]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Games - [ISO]": {
+            "id": "Sony PlayStation - Games - [ISO]",
+            "name": "Sony PlayStation - Games - [ISO]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Homebrew - Games - [BIN]": {
+            "id": "Sony PlayStation - Homebrew - Games - [BIN]",
+            "name": "Sony PlayStation - Homebrew - Games - [BIN]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Homebrew - Games - [ISO]": {
+            "id": "Sony PlayStation - Homebrew - Games - [ISO]",
+            "name": "Sony PlayStation - Homebrew - Games - [ISO]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Samplers - [BIN]": {
+            "id": "Sony PlayStation - Samplers - [BIN]",
+            "name": "Sony PlayStation - Samplers - [BIN]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation - Samplers - [ISO]": {
+            "id": "Sony PlayStation - Samplers - [ISO]",
+            "name": "Sony PlayStation - Samplers - [ISO]",
+            "altNames": [
+                "Sony PlayStation"
+            ]
+        },
+        "Sony PlayStation 2 - Firmware": {
+            "id": "Sony PlayStation 2 - Firmware",
+            "name": "Sony PlayStation 2 - Firmware",
+            "altNames": [
+                "Sony PlayStation 2"
+            ]
+        },
+        "Sony PlayStation 2 - Homebrew - Games - [ISO]": {
+            "id": "Sony PlayStation 2 - Homebrew - Games - [ISO]",
+            "name": "Sony PlayStation 2 - Homebrew - Games - [ISO]",
+            "altNames": [
+                "Sony PlayStation 2"
+            ]
+        },
+        "Sony PlayStation Portable - Homebrew - Games - [ISO]": {
+            "id": "Sony PlayStation Portable - Homebrew - Games - [ISO]",
+            "name": "Sony PlayStation Portable - Homebrew - Games - [ISO]",
+            "altNames": [
+                "Sony PlayStation Portable"
+            ]
+        },
+        "Tomy KISS-Site - Games": {
+            "id": "Tomy KISS-Site - Games",
+            "name": "Tomy KISS-Site - Games",
+            "altNames": [
+                "Tomy KISS-Site"
+            ]
+        },
+        "VM Labs Nuon - Games": {
+            "id": "VM Labs Nuon - Games",
+            "name": "VM Labs Nuon - Games",
+            "altNames": [
+                "VM Labs Nuon"
+            ]
+        },
+        "VTech V.Flash Home Edutainment System - Educational": {
+            "id": "VTech V.Flash Home Edutainment System - Educational",
+            "name": "VTech V.Flash Home Edutainment System - Educational",
+            "altNames": [
+                "VTech V.Flash Home Edutainment System"
+            ]
+        },
+        "ZAPiT Games Game Wave Family Entertainment System - Games": {
+            "id": "ZAPiT Games Game Wave Family Entertainment System - Games",
+            "name": "ZAPiT Games Game Wave Family Entertainment System - Games",
+            "altNames": [
+                "ZAPiT Games Game Wave Family Entertainment System"
+            ]
+        }
+    }
+}
