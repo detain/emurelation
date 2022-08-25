@@ -205,9 +205,9 @@
             ],
             "company": "Apple"
         },
-        "Apple - Macintosh (BETA by MeguCocoa) (A2R)": {
-            "id": "Apple - Macintosh (BETA by MeguCocoa) (A2R)",
-            "name": "Apple - Macintosh (BETA by MeguCocoa) (A2R)",
+        "Apple - Macintosh (BETA) (A2R)": {
+            "id": "Apple - Macintosh (BETA) (A2R)",
+            "name": "Apple - Macintosh (BETA) (A2R)",
             "altNames": [
                 "Apple - Macintosh",
                 "Macintosh",
@@ -1674,6 +1674,13 @@
         "Non-Redump - Audio CD": {
             "id": "Non-Redump - Audio CD",
             "name": "Non-Redump - Audio CD",
+            "altNames": [
+                "Audio CD"
+            ]
+        },
+        "Non-Redump - Audio CD (Deprecated)": {
+            "id": "Non-Redump - Audio CD (Deprecated)",
+            "name": "Non-Redump - Audio CD (Deprecated)",
             "altNames": [
                 "Audio CD"
             ]
