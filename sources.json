@@ -104,7 +104,7 @@
             "games"
         ],
         "info": "",
-        "updatedLast": false,
+        "updatedLast": 1661415853,
         "updateTrigger": "commit",
         "web": []
     },
@@ -114,10 +114,11 @@
         "type": "Frontend",
         "provides": [
             "emulators",
-            "platforms"
+            "platforms",
+            "games"
         ],
         "info": "",
-        "updatedLast": false,
+        "updatedLast": 1661415161,
         "updateTrigger": "commit",
         "web": []
     },
@@ -126,7 +127,8 @@
         "name": "TheGamesDB",
         "type": "API",
         "provides": [
-            "platforms"
+            "platforms",
+            "games"
         ],
         "info": "",
         "updatedLast": false,
@@ -139,7 +141,8 @@
         "type": "API",
         "provides": [
             "emulators",
-            "platforms"
+            "platforms",
+            "games"
         ],
         "info": "",
         "updatedLast": false,
@@ -226,6 +229,45 @@
     "esde": {
         "id": "esde",
         "name": "EmulationStation-DE",
+        "type": "Frontend",
+        "provides": [
+            "emulators",
+            "platforms"
+        ],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": []
+    },
+    "hyperspin": {
+        "id": "hyperspin",
+        "name": "HyperSpin",
+        "type": "Frontend",
+        "provides": [
+            "emulators",
+            "platforms"
+        ],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": []
+    },
+    "recalbox": {
+        "id": "recalbox",
+        "name": "RecalBox",
+        "type": "Frontend",
+        "provides": [
+            "emulators",
+            "platforms"
+        ],
+        "info": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": []
+    },
+    "retropie": {
+        "id": "retropie",
+        "name": "RetroPie",
         "type": "Frontend",
         "provides": [
             "emulators",
