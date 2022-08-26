@@ -1,0 +1,3741 @@
+{
+    "platforms": {
+        "1": {
+            "id": 1,
+            "name": "Genesis",
+            "altNames": [
+                "Megadrive"
+            ],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Genesis"
+                ],
+                [
+                    "retropie",
+                    "genesis,megadrive"
+                ],
+                [
+                    "recalbox",
+                    "megadrive"
+                ]
+            ]
+        },
+        "2": {
+            "id": 2,
+            "name": "Master System",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Master System"
+                ],
+                [
+                    "retropie",
+                    "mastersystem"
+                ],
+                [
+                    "recalbox",
+                    "mastersystem"
+                ]
+            ]
+        },
+        "3": {
+            "id": 3,
+            "name": "NES",
+            "altNames": [
+                "Family Computer"
+            ],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Entertainment System"
+                ],
+                [
+                    "retropie",
+                    "nes"
+                ],
+                [
+                    "recalbox",
+                    "nes"
+                ]
+            ]
+        },
+        "4": {
+            "id": 4,
+            "name": "Super Nintendo",
+            "altNames": [
+                "Super Famicom"
+            ],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Super Nintendo Entertainment System"
+                ],
+                [
+                    "retropie",
+                    "snes"
+                ],
+                [
+                    "recalbox",
+                    "snes"
+                ]
+            ]
+        },
+        "6": {
+            "id": 6,
+            "name": "Capcom Play System",
+            "altNames": [],
+            "company": "Capcom",
+            "matches": [
+                [
+                    "launchbox",
+                    "Capcom Play System"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "7": {
+            "id": 7,
+            "name": "Capcom Play System 2",
+            "altNames": [],
+            "company": "Capcom",
+            "matches": [
+                [
+                    "launchbox",
+                    "Capcom Play System II"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "8": {
+            "id": 8,
+            "name": "Capcom Play System 3",
+            "altNames": [],
+            "company": "Capcom",
+            "matches": [
+                [
+                    "launchbox",
+                    "Capcom Play System III"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "9": {
+            "id": 9,
+            "name": "Game Boy",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Game Boy"
+                ],
+                [
+                    "retropie",
+                    "gb"
+                ],
+                [
+                    "recalbox",
+                    "gb"
+                ]
+            ]
+        },
+        "10": {
+            "id": 10,
+            "name": "Game Boy Color",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Game Boy Color"
+                ],
+                [
+                    "retropie",
+                    "gbc"
+                ],
+                [
+                    "recalbox",
+                    "gbc"
+                ]
+            ]
+        },
+        "11": {
+            "id": 11,
+            "name": "Virtual Boy",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Virtual Boy"
+                ],
+                [
+                    "retropie",
+                    "virtualboy"
+                ],
+                [
+                    "recalbox",
+                    "virtualboy"
+                ]
+            ]
+        },
+        "12": {
+            "id": 12,
+            "name": "Game Boy Advance",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Game Boy Advance"
+                ],
+                [
+                    "retropie",
+                    "gba"
+                ],
+                [
+                    "recalbox",
+                    "gba"
+                ]
+            ]
+        },
+        "13": {
+            "id": 13,
+            "name": "Gamecube",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo GameCube"
+                ],
+                [
+                    "retropie",
+                    "gc"
+                ],
+                [
+                    "recalbox",
+                    "gamecube"
+                ]
+            ]
+        },
+        "14": {
+            "id": 14,
+            "name": "Nintendo 64",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo 64"
+                ],
+                [
+                    "retropie",
+                    "n64"
+                ],
+                [
+                    "recalbox",
+                    "n64"
+                ]
+            ]
+        },
+        "15": {
+            "id": 15,
+            "name": "Nintendo DS",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo DS"
+                ],
+                [
+                    "retropie",
+                    "nds"
+                ],
+                [
+                    "recalbox",
+                    "nds"
+                ]
+            ]
+        },
+        "16": {
+            "id": 16,
+            "name": "Wii",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Wii"
+                ],
+                [
+                    "retropie",
+                    "wii"
+                ],
+                [
+                    "recalbox",
+                    "wii"
+                ]
+            ]
+        },
+        "17": {
+            "id": 17,
+            "name": "Nintendo 3DS",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo 3DS"
+                ]
+            ]
+        },
+        "18": {
+            "id": 18,
+            "name": "Wii U",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Wii U"
+                ]
+            ]
+        },
+        "19": {
+            "id": 19,
+            "name": "Sega 32X",
+            "altNames": [
+                "Megadrive 32X"
+            ],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega 32X"
+                ],
+                [
+                    "retropie",
+                    "sega32x"
+                ],
+                [
+                    "recalbox",
+                    "sega32x"
+                ]
+            ]
+        },
+        "20": {
+            "id": 20,
+            "name": "Sega CD",
+            "altNames": [
+                "Mega-CD"
+            ],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega CD"
+                ],
+                [
+                    "retropie",
+                    "segacd"
+                ],
+                [
+                    "recalbox",
+                    "segacd"
+                ]
+            ]
+        },
+        "21": {
+            "id": 21,
+            "name": "Game Gear",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Game Gear"
+                ],
+                [
+                    "retropie",
+                    "gamegear"
+                ],
+                [
+                    "recalbox",
+                    "gamegear"
+                ]
+            ]
+        },
+        "22": {
+            "id": 22,
+            "name": "Saturn",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Saturn"
+                ],
+                [
+                    "retropie",
+                    "saturn"
+                ],
+                [
+                    "recalbox",
+                    "saturn"
+                ]
+            ]
+        },
+        "23": {
+            "id": 23,
+            "name": "Dreamcast",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Dreamcast"
+                ],
+                [
+                    "retropie",
+                    "dreamcast"
+                ],
+                [
+                    "recalbox",
+                    "dreamcast"
+                ]
+            ]
+        },
+        "25": {
+            "id": 25,
+            "name": "Neo-Geo Pocket",
+            "altNames": [],
+            "company": "SNK",
+            "matches": [
+                [
+                    "launchbox",
+                    "SNK Neo Geo Pocket"
+                ],
+                [
+                    "retropie",
+                    "ngp"
+                ],
+                [
+                    "recalbox",
+                    "ngp"
+                ]
+            ]
+        },
+        "26": {
+            "id": 26,
+            "name": "Atari 2600",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "Atari 2600"
+                ],
+                [
+                    "retropie",
+                    "atari2600"
+                ],
+                [
+                    "recalbox",
+                    "atari2600"
+                ]
+            ]
+        },
+        "27": {
+            "id": 27,
+            "name": "Jaguar",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "Atari Jaguar"
+                ],
+                [
+                    "retropie",
+                    "atarijaguar"
+                ],
+                [
+                    "recalbox",
+                    "jaguar"
+                ]
+            ]
+        },
+        "28": {
+            "id": 28,
+            "name": "Lynx",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "Atari Lynx"
+                ],
+                [
+                    "retropie",
+                    "atarilynx"
+                ],
+                [
+                    "recalbox",
+                    "lynx"
+                ]
+            ]
+        },
+        "29": {
+            "id": 29,
+            "name": "3DO",
+            "altNames": [],
+            "company": "Panasonic",
+            "matches": [
+                [
+                    "launchbox",
+                    "3DO Interactive Multiplayer"
+                ],
+                [
+                    "retropie",
+                    "3do"
+                ],
+                [
+                    "recalbox",
+                    "3do"
+                ]
+            ]
+        },
+        "30": {
+            "id": 30,
+            "name": "N-Gage",
+            "altNames": [],
+            "company": "Nokia",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nokia N-Gage"
+                ]
+            ]
+        },
+        "31": {
+            "id": 31,
+            "name": "TurboGrafx-16",
+            "altNames": [
+                "PC Engine"
+            ],
+            "matches": [
+                [
+                    "launchbox",
+                    "NEC TurboGrafx-16"
+                ],
+                [
+                    "retropie",
+                    "pcengine,tg16"
+                ],
+                [
+                    "recalbox",
+                    "pcengine"
+                ]
+            ]
+        },
+        "32": {
+            "id": 32,
+            "name": "Xbox",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Microsoft Xbox"
+                ]
+            ]
+        },
+        "33": {
+            "id": 33,
+            "name": "Xbox 360",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Microsoft Xbox 360"
+                ]
+            ]
+        },
+        "34": {
+            "id": 34,
+            "name": "Xbox One",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Microsoft Xbox One"
+                ]
+            ]
+        },
+        "36": {
+            "id": 36,
+            "name": "Atom",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Acorn Atom"
+                ]
+            ]
+        },
+        "37": {
+            "id": 37,
+            "name": "BBC Micro",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "BBC Microcomputer System"
+                ],
+                [
+                    "retropie",
+                    "bbcmicro"
+                ],
+                [
+                    "recalbox",
+                    "bbcmicro"
+                ]
+            ]
+        },
+        "39": {
+            "id": 39,
+            "name": "Atari 2600 Supercharger",
+            "altNames": [],
+            "company": "Atari"
+        },
+        "40": {
+            "id": 40,
+            "name": "Atari 5200",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "Atari 5200"
+                ],
+                [
+                    "retropie",
+                    "atari5200"
+                ],
+                [
+                    "recalbox",
+                    "atari5200"
+                ]
+            ]
+        },
+        "41": {
+            "id": 41,
+            "name": "Atari 7800",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "Atari 7800"
+                ],
+                [
+                    "retropie",
+                    "atari7800"
+                ],
+                [
+                    "recalbox",
+                    "atari7800"
+                ]
+            ]
+        },
+        "42": {
+            "id": 42,
+            "name": "Atari ST",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "Atari ST"
+                ],
+                [
+                    "retropie",
+                    "atarist"
+                ],
+                [
+                    "recalbox",
+                    "atarist"
+                ]
+            ]
+        },
+        "43": {
+            "id": 43,
+            "name": "Atari 8bit",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "Atari 800"
+                ],
+                [
+                    "retropie",
+                    "Atari 800"
+                ],
+                [
+                    "recalbox",
+                    "atari800"
+                ]
+            ]
+        },
+        "44": {
+            "id": 44,
+            "name": "Astrocade",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Bally Astrocade"
+                ],
+                [
+                    "retropie",
+                    "astrocade"
+                ]
+            ]
+        },
+        "45": {
+            "id": 45,
+            "name": "WonderSwan",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "WonderSwan"
+                ],
+                [
+                    "retropie",
+                    "wonderswan"
+                ],
+                [
+                    "recalbox",
+                    "wswan"
+                ]
+            ]
+        },
+        "46": {
+            "id": 46,
+            "name": "WonderSwan Color",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "WonderSwan Color"
+                ],
+                [
+                    "retropie",
+                    "wonderswancolor"
+                ],
+                [
+                    "recalbox",
+                    "wswanc"
+                ]
+            ]
+        },
+        "47": {
+            "id": 47,
+            "name": "Cave",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "48": {
+            "id": 48,
+            "name": "Colecovision",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "ColecoVision"
+                ],
+                [
+                    "retropie",
+                    "colecovision"
+                ],
+                [
+                    "recalbox",
+                    "colecovision"
+                ]
+            ]
+        },
+        "49": {
+            "id": 49,
+            "name": "Daphne",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "daphne,arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "daphne,arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "50": {
+            "id": 50,
+            "name": "CoreGrafX",
+            "altNames": [],
+            "matches": [
+                [
+                    "retropie",
+                    "pcengine,tg16"
+                ],
+                [
+                    "recalbox",
+                    "pcengine"
+                ]
+            ]
+        },
+        "52": {
+            "id": 52,
+            "name": "Game &amp; Watch",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Game &amp; Watch"
+                ],
+                [
+                    "retropie",
+                    "gameandwatch"
+                ],
+                [
+                    "recalbox",
+                    "gw"
+                ]
+            ]
+        },
+        "53": {
+            "id": 53,
+            "name": "Atomiswave",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Sammy Atomiswave"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro,atomiswave"
+                ]
+            ]
+        },
+        "54": {
+            "id": 54,
+            "name": "Model 2",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Model 2"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "55": {
+            "id": 55,
+            "name": "Model 3",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Model 3"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "model3,arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "56": {
+            "id": 56,
+            "name": "Naomi",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Naomi"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro,naomigd,naomi"
+                ]
+            ]
+        },
+        "57": {
+            "id": 57,
+            "name": "Playstation",
+            "altNames": [],
+            "company": "Sony",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sony Playstation"
+                ],
+                [
+                    "retropie",
+                    "psx"
+                ],
+                [
+                    "recalbox",
+                    "psx"
+                ]
+            ]
+        },
+        "58": {
+            "id": 58,
+            "name": "Playstation 2",
+            "altNames": [],
+            "company": "Sony",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sony Playstation 2"
+                ],
+                [
+                    "retropie",
+                    "ps2"
+                ],
+                [
+                    "recalbox",
+                    "ps2"
+                ]
+            ]
+        },
+        "59": {
+            "id": 59,
+            "name": "Playstation 3",
+            "altNames": [],
+            "company": "Sony",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sony Playstation 3"
+                ]
+            ]
+        },
+        "60": {
+            "id": 60,
+            "name": "Playstation 4",
+            "altNames": [],
+            "company": "Sony",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sony Playstation 4"
+                ]
+            ]
+        },
+        "61": {
+            "id": 61,
+            "name": "PSP",
+            "altNames": [],
+            "company": "Sony",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sony PSP"
+                ],
+                [
+                    "retropie",
+                    "psp"
+                ],
+                [
+                    "recalbox",
+                    "psp"
+                ]
+            ]
+        },
+        "62": {
+            "id": 62,
+            "name": "PS Vita",
+            "altNames": [],
+            "company": "Sony",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sony Playstation Vita"
+                ]
+            ]
+        },
+        "63": {
+            "id": 63,
+            "name": "Android",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Android"
+                ]
+            ]
+        },
+        "64": {
+            "id": 64,
+            "name": "Amiga",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "launchbox",
+                    "Commodore Amiga"
+                ],
+                [
+                    "retropie",
+                    "amiga"
+                ],
+                [
+                    "recalbox",
+                    "amiga600"
+                ]
+            ]
+        },
+        "65": {
+            "id": 65,
+            "name": "CPC",
+            "altNames": [],
+            "company": "Amstrad",
+            "matches": [
+                [
+                    "launchbox",
+                    "Amstrad CPC"
+                ],
+                [
+                    "retropie",
+                    "amstradcpc"
+                ],
+                [
+                    "recalbox",
+                    "amstradcpc"
+                ]
+            ]
+        },
+        "66": {
+            "id": 66,
+            "name": "Commodore 64",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "launchbox",
+                    "Commodore 64"
+                ],
+                [
+                    "retropie",
+                    "c64"
+                ],
+                [
+                    "recalbox",
+                    "c64"
+                ]
+            ]
+        },
+        "67": {
+            "id": 67,
+            "name": "Super Cassette Vision",
+            "altNames": [],
+            "company": "Epoch",
+            "matches": [
+                [
+                    "launchbox",
+                    "Epoch Super Cassette Vision"
+                ],
+                [
+                    "recalbox",
+                    "scv"
+                ]
+            ]
+        },
+        "68": {
+            "id": 68,
+            "name": "Neo-Geo MVS",
+            "altNames": [],
+            "company": "SNK",
+            "matches": [
+                [
+                    "launchbox",
+                    "SNK Neo Geo MVS"
+                ]
+            ]
+        },
+        "69": {
+            "id": 69,
+            "name": "Sega ST-V",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega ST-V"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "70": {
+            "id": 70,
+            "name": "Neo-Geo CD",
+            "altNames": [],
+            "company": "SNK",
+            "matches": [
+                [
+                    "launchbox",
+                    "SNK Neo Geo CD"
+                ],
+                [
+                    "recalbox",
+                    "neogeocd"
+                ]
+            ]
+        },
+        "72": {
+            "id": 72,
+            "name": "PC-FX",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "NEC PC-FX"
+                ],
+                [
+                    "retropie",
+                    "pcfx"
+                ],
+                [
+                    "recalbox",
+                    "pcfx"
+                ]
+            ]
+        },
+        "73": {
+            "id": 73,
+            "name": "Vic-20",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "launchbox",
+                    "Commodore VIC-20"
+                ],
+                [
+                    "retropie",
+                    "c64"
+                ],
+                [
+                    "recalbox",
+                    "vic20"
+                ]
+            ]
+        },
+        "74": {
+            "id": 74,
+            "name": "PV-1000",
+            "altNames": [],
+            "company": "Casio",
+            "matches": [
+                [
+                    "launchbox",
+                    "Casio PV-1000"
+                ]
+            ]
+        },
+        "75": {
+            "id": 75,
+            "name": "Mame",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro,fbneo"
+                ]
+            ]
+        },
+        "76": {
+            "id": 76,
+            "name": "ZX Spectrum",
+            "altNames": [],
+            "company": "Sinclair",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sinclair ZX Spectrum"
+                ],
+                [
+                    "retropie",
+                    "zxspectrum"
+                ],
+                [
+                    "recalbox",
+                    "zxspectrum"
+                ]
+            ]
+        },
+        "77": {
+            "id": 77,
+            "name": "ZX81",
+            "altNames": [],
+            "company": "Sinclair",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sinclair ZX-81"
+                ],
+                [
+                    "recalbox",
+                    "zx81"
+                ]
+            ]
+        },
+        "78": {
+            "id": 78,
+            "name": "Adventure Vision",
+            "altNames": [],
+            "company": "Entex Industries, Inc",
+            "matches": [
+                [
+                    "launchbox",
+                    "Entex Adventure Vision"
+                ]
+            ]
+        },
+        "79": {
+            "id": 79,
+            "name": "Sharp X68000",
+            "altNames": [],
+            "company": "Sharp",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sharp X68000"
+                ],
+                [
+                    "retropie",
+                    "x68000"
+                ],
+                [
+                    "recalbox",
+                    "x68000"
+                ]
+            ]
+        },
+        "80": {
+            "id": 80,
+            "name": "Channel F",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Fairchild Channel F"
+                ],
+                [
+                    "retropie",
+                    "channelf"
+                ],
+                [
+                    "recalbox",
+                    "channelf"
+                ]
+            ]
+        },
+        "81": {
+            "id": 81,
+            "name": "Action Max",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "WoW Action Max"
+                ]
+            ]
+        },
+        "82": {
+            "id": 82,
+            "name": "Neo-Geo Pocket Color",
+            "altNames": [],
+            "company": "SNK",
+            "matches": [
+                [
+                    "launchbox",
+                    "SNK Neo Geo Pocket Color"
+                ],
+                [
+                    "retropie",
+                    "ngpc"
+                ],
+                [
+                    "recalbox",
+                    "ngpc"
+                ]
+            ]
+        },
+        "83": {
+            "id": 83,
+            "name": "Aamber Pegasus",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Aamber Pegasus"
+                ]
+            ]
+        },
+        "84": {
+            "id": 84,
+            "name": "Archimedes",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Acorn Archimedes"
+                ]
+            ]
+        },
+        "85": {
+            "id": 85,
+            "name": "Electron",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Acorn Electron"
+                ]
+            ]
+        },
+        "86": {
+            "id": 86,
+            "name": "Apple II",
+            "altNames": [],
+            "company": "Apple",
+            "matches": [
+                [
+                    "launchbox",
+                    "Apple II"
+                ],
+                [
+                    "retropie",
+                    "apple2"
+                ],
+                [
+                    "recalbox",
+                    "apple2"
+                ]
+            ]
+        },
+        "87": {
+            "id": 87,
+            "name": "GX4000",
+            "altNames": [],
+            "company": "Amstrad",
+            "matches": [
+                [
+                    "launchbox",
+                    "Amstrad GX4000"
+                ],
+                [
+                    "recalbox",
+                    "gx4000"
+                ]
+            ]
+        },
+        "88": {
+            "id": 88,
+            "name": "Camputers Lynx",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Camputers Lynx"
+                ]
+            ]
+        },
+        "89": {
+            "id": 89,
+            "name": "Adam",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Coleco ADAM"
+                ]
+            ]
+        },
+        "90": {
+            "id": 90,
+            "name": "Cougar Boy",
+            "altNames": [
+                "Mega Duck"
+            ],
+            "matches": [
+                [
+                    "launchbox",
+                    "Mega Duck"
+                ]
+            ]
+        },
+        "91": {
+            "id": 91,
+            "name": "Dragon 32/64",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Dragon 32-64"
+                ],
+                [
+                    "retropie",
+                    "dragon32"
+                ],
+                [
+                    "recalbox",
+                    "dragon"
+                ]
+            ]
+        },
+        "92": {
+            "id": 92,
+            "name": "EG2000 Colour Genie",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "EACA EG2000 Colour Genie"
+                ]
+            ]
+        },
+        "93": {
+            "id": 93,
+            "name": "BK",
+            "altNames": [],
+            "company": "Elektronika",
+            "matches": [
+                [
+                    "launchbox",
+                    "Elektronika BK"
+                ],
+                [
+                    "recalbox",
+                    "bk"
+                ]
+            ]
+        },
+        "94": {
+            "id": 94,
+            "name": "Arcadia 2001",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Emerson Arcadia 2001"
+                ]
+            ]
+        },
+        "95": {
+            "id": 95,
+            "name": "Game Pocket Computer",
+            "altNames": [],
+            "company": "Epoch",
+            "matches": [
+                [
+                    "launchbox",
+                    "Epoch Game Pocket Computer"
+                ]
+            ]
+        },
+        "96": {
+            "id": 96,
+            "name": "EXL 100",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Exelvision EXL 100"
+                ]
+            ]
+        },
+        "97": {
+            "id": 97,
+            "name": "FM-7",
+            "altNames": [],
+            "company": "Fujitsu",
+            "matches": [
+                [
+                    "launchbox",
+                    "Fujitsu FM-7"
+                ]
+            ]
+        },
+        "98": {
+            "id": 98,
+            "name": "Loopy",
+            "altNames": [],
+            "company": "Casio",
+            "matches": [
+                [
+                    "launchbox",
+                    "Casio Loopy"
+                ]
+            ]
+        },
+        "99": {
+            "id": 99,
+            "name": "Plus/4",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "launchbox",
+                    "Commodore Plus 4"
+                ]
+            ]
+        },
+        "100": {
+            "id": 100,
+            "name": "Super A&apos;can",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Funtech Super Acan"
+                ]
+            ]
+        },
+        "101": {
+            "id": 101,
+            "name": "GP32",
+            "altNames": []
+        },
+        "102": {
+            "id": 102,
+            "name": "Vectrex",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "GCE Vectrex"
+                ],
+                [
+                    "retropie",
+                    "vectrex"
+                ],
+                [
+                    "recalbox",
+                    "vectrex"
+                ]
+            ]
+        },
+        "103": {
+            "id": 103,
+            "name": "Game Master",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Hartung Game Master"
+                ]
+            ]
+        },
+        "104": {
+            "id": 104,
+            "name": "Magnavox Odyssey²",
+            "altNames": [
+                "Videopac G7000"
+            ],
+            "company": "Philips",
+            "matches": [
+                [
+                    "launchbox",
+                    "Magnavox Odyssey 2"
+                ],
+                [
+                    "retropie",
+                    "odyssey2,videopac"
+                ],
+                [
+                    "recalbox",
+                    "o2em,videopacplus"
+                ]
+            ]
+        },
+        "105": {
+            "id": 105,
+            "name": "PC Engine SuperGrafx",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "PC Engine SuperGrafx"
+                ],
+                [
+                    "retropie",
+                    "supergrafx"
+                ],
+                [
+                    "recalbox",
+                    "supergrafx"
+                ]
+            ]
+        },
+        "106": {
+            "id": 106,
+            "name": "Family Computer Disk System",
+            "altNames": [
+                "Famiri Konpyuta Disuku Shisutemu"
+            ],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Famicom Disk System"
+                ],
+                [
+                    "retropie",
+                    "fds"
+                ],
+                [
+                    "recalbox",
+                    "fds"
+                ]
+            ]
+        },
+        "107": {
+            "id": 107,
+            "name": "Satellaview",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Satellaview"
+                ],
+                [
+                    "retropie",
+                    "snes"
+                ],
+                [
+                    "recalbox",
+                    "satellaview"
+                ]
+            ]
+        },
+        "108": {
+            "id": 108,
+            "name": "Sufami Turbo",
+            "altNames": [],
+            "matches": [
+                [
+                    "retropie",
+                    "snes"
+                ],
+                [
+                    "recalbox",
+                    "sufami"
+                ]
+            ]
+        },
+        "109": {
+            "id": 109,
+            "name": "SG-1000",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega SG-1000"
+                ],
+                [
+                    "retropie",
+                    "sg-1000"
+                ],
+                [
+                    "recalbox",
+                    "sg1000,multivision"
+                ]
+            ]
+        },
+        "110": {
+            "id": 110,
+            "name": "Nintendo Power",
+            "altNames": []
+        },
+        "111": {
+            "id": 111,
+            "name": "Amiga (AGA)",
+            "altNames": [
+                "Amiga (AGA)"
+            ],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "launchbox",
+                    "Commodore Amiga"
+                ],
+                [
+                    "retropie",
+                    "amiga"
+                ],
+                [
+                    "recalbox",
+                    "amiga1200"
+                ]
+            ]
+        },
+        "112": {
+            "id": 112,
+            "name": "Type X",
+            "altNames": [],
+            "company": "Taito",
+            "matches": [
+                [
+                    "launchbox",
+                    "Taito Type X"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "113": {
+            "id": 113,
+            "name": "MSX",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Microsoft MSX"
+                ],
+                [
+                    "retropie",
+                    "msx"
+                ],
+                [
+                    "recalbox",
+                    "msx,msx1"
+                ]
+            ]
+        },
+        "114": {
+            "id": 114,
+            "name": "PC Engine CD-Rom",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "NEC PC Engine-CD"
+                ],
+                [
+                    "retropie",
+                    "pce-cd,tg-cd"
+                ],
+                [
+                    "recalbox",
+                    "pcenginecd"
+                ]
+            ]
+        },
+        "115": {
+            "id": 115,
+            "name": "Intellivision",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Mattel Intellivision"
+                ],
+                [
+                    "retropie",
+                    "Intellivision"
+                ],
+                [
+                    "recalbox",
+                    "intellivision"
+                ]
+            ]
+        },
+        "116": {
+            "id": 116,
+            "name": "MSX2",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Microsoft MSX2"
+                ],
+                [
+                    "retropie",
+                    "msx"
+                ],
+                [
+                    "recalbox",
+                    "msx,msx2"
+                ]
+            ]
+        },
+        "117": {
+            "id": 117,
+            "name": "MSX2+",
+            "altNames": [
+                "MSX2+"
+            ],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Microsoft MSX2+"
+                ],
+                [
+                    "retropie",
+                    "msx"
+                ],
+                [
+                    "recalbox",
+                    "msx,msx2"
+                ]
+            ]
+        },
+        "118": {
+            "id": 118,
+            "name": "MSX Turbo R",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Microsoft MSX"
+                ],
+                [
+                    "retropie",
+                    "msx"
+                ],
+                [
+                    "recalbox",
+                    "msxturbor"
+                ]
+            ]
+        },
+        "119": {
+            "id": 119,
+            "name": "GBA e-Reader",
+            "altNames": [],
+            "company": "Nintendo"
+        },
+        "120": {
+            "id": 120,
+            "name": "V.Smile",
+            "altNames": [],
+            "company": "VTech"
+        },
+        "121": {
+            "id": 121,
+            "name": "Game.com",
+            "altNames": []
+        },
+        "122": {
+            "id": 122,
+            "name": "Nintendo 64DD",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo 64DD"
+                ],
+                [
+                    "retropie",
+                    "n64"
+                ],
+                [
+                    "recalbox",
+                    "64dd"
+                ]
+            ]
+        },
+        "123": {
+            "id": 123,
+            "name": "ScummVM",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "ScummVM"
+                ],
+                [
+                    "retropie",
+                    "scummvm,residualvm"
+                ],
+                [
+                    "recalbox",
+                    "scummvm"
+                ]
+            ]
+        },
+        "124": {
+            "id": 124,
+            "name": "Mikrosha",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Radio-86RK Mikrosha"
+                ]
+            ]
+        },
+        "125": {
+            "id": 125,
+            "name": "Pecom 64",
+            "altNames": []
+        },
+        "126": {
+            "id": 126,
+            "name": "Ace4000",
+            "altNames": [
+                "Jupiter Ace"
+            ],
+            "matches": [
+                [
+                    "launchbox",
+                    "Jupiter Ace"
+                ]
+            ]
+        },
+        "127": {
+            "id": 127,
+            "name": "Super Game Boy",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "recalbox",
+                    "gb"
+                ]
+            ]
+        },
+        "128": {
+            "id": 128,
+            "name": "Super Game Boy 2",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "recalbox",
+                    "gb"
+                ]
+            ]
+        },
+        "129": {
+            "id": 129,
+            "name": "Amiga CDTV",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "launchbox",
+                    "Commodore CDTV"
+                ],
+                [
+                    "retropie",
+                    "amiga"
+                ],
+                [
+                    "recalbox",
+                    "amigacdtv"
+                ]
+            ]
+        },
+        "130": {
+            "id": 130,
+            "name": "Amiga CD32",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "launchbox",
+                    "Commodore Amiga CD32"
+                ],
+                [
+                    "retropie",
+                    "amiga"
+                ],
+                [
+                    "recalbox",
+                    "amigacd32"
+                ]
+            ]
+        },
+        "131": {
+            "id": 131,
+            "name": "Oric 1 / Atmos",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Oric Atmos"
+                ],
+                [
+                    "retropie",
+                    "oric"
+                ],
+                [
+                    "recalbox",
+                    "oricatmos"
+                ]
+            ]
+        },
+        "133": {
+            "id": 133,
+            "name": "CD-i",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Philips CD-i"
+                ],
+                [
+                    "recalbox",
+                    "cdi"
+                ]
+            ]
+        },
+        "134": {
+            "id": 134,
+            "name": "Amiga CD",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "retropie",
+                    "amiga"
+                ],
+                [
+                    "recalbox",
+                    "amiga"
+                ]
+            ]
+        },
+        "135": {
+            "id": 135,
+            "name": "PC Dos",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "MS-DOS"
+                ],
+                [
+                    "retropie",
+                    "pc"
+                ],
+                [
+                    "recalbox",
+                    "dos,prboom"
+                ]
+            ]
+        },
+        "136": {
+            "id": 136,
+            "name": "PC Win3.xx",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Windows 3.X"
+                ]
+            ]
+        },
+        "137": {
+            "id": 137,
+            "name": "PC Win9X",
+            "altNames": [],
+            "company": "Microsoft"
+        },
+        "138": {
+            "id": 138,
+            "name": "PC Windows",
+            "altNames": [],
+            "company": "Microsoft",
+            "matches": [
+                [
+                    "launchbox",
+                    "Windows"
+                ]
+            ]
+        },
+        "139": {
+            "id": 139,
+            "name": "Amiga CD32 (hack)",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "launchbox",
+                    "Commodore Amiga CD32"
+                ],
+                [
+                    "retropie",
+                    "amiga"
+                ],
+                [
+                    "recalbox",
+                    "amigacd32"
+                ]
+            ]
+        },
+        "141": {
+            "id": 141,
+            "name": "Thomson MO/TO",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Thomson TO7,Thomson MO5"
+                ],
+                [
+                    "recalbox",
+                    "thomson"
+                ]
+            ]
+        },
+        "142": {
+            "id": 142,
+            "name": "Neo-Geo",
+            "altNames": [],
+            "company": "SNK",
+            "matches": [
+                [
+                    "launchbox",
+                    "SNK Neo Geo"
+                ],
+                [
+                    "retropie",
+                    "neogeo"
+                ],
+                [
+                    "recalbox",
+                    "neogeo"
+                ]
+            ]
+        },
+        "143": {
+            "id": 143,
+            "name": "Pinball FX2",
+            "altNames": [],
+            "company": "Zen Studios"
+        },
+        "144": {
+            "id": 144,
+            "name": "TRS-80 Color Computer",
+            "altNames": [],
+            "company": "Tandy",
+            "matches": [
+                [
+                    "launchbox",
+                    "TRS-80 Color Computer"
+                ],
+                [
+                    "retropie",
+                    "coco"
+                ],
+                [
+                    "recalbox",
+                    "trs80coco"
+                ]
+            ]
+        },
+        "145": {
+            "id": 145,
+            "name": "Linux",
+            "altNames": [],
+            "company": "Public Domain"
+        },
+        "146": {
+            "id": 146,
+            "name": "Mac OS",
+            "altNames": [],
+            "company": "Apple",
+            "matches": [
+                [
+                    "launchbox",
+                    "Apple Mac OS"
+                ],
+                [
+                    "retropie",
+                    "macintosh"
+                ]
+            ]
+        },
+        "147": {
+            "id": 147,
+            "name": "Sega Classics",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "148": {
+            "id": 148,
+            "name": "Irem Classics",
+            "altNames": [],
+            "company": "Irem",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "149": {
+            "id": 149,
+            "name": "Seta",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "150": {
+            "id": 150,
+            "name": "Midway Classics",
+            "altNames": [],
+            "company": "Midway",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "151": {
+            "id": 151,
+            "name": "Capcom Classics",
+            "altNames": [],
+            "company": "Capcom",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "152": {
+            "id": 152,
+            "name": "Eighting / Raizing",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "153": {
+            "id": 153,
+            "name": "Tecmo",
+            "altNames": [],
+            "company": "Tecmo",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "154": {
+            "id": 154,
+            "name": "SNK Classics",
+            "altNames": [],
+            "company": "SNK",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "155": {
+            "id": 155,
+            "name": "Namco Classics",
+            "altNames": [],
+            "company": "Namco",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "156": {
+            "id": 156,
+            "name": "Namco System 22",
+            "altNames": [],
+            "company": "Namco",
+            "matches": [
+                [
+                    "launchbox",
+                    "Namco System 22"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "157": {
+            "id": 157,
+            "name": "Taito Classics",
+            "altNames": [],
+            "company": "Taito",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "158": {
+            "id": 158,
+            "name": "Konami Classics",
+            "altNames": [],
+            "company": "Konami",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "159": {
+            "id": 159,
+            "name": "Jaleco",
+            "altNames": [],
+            "company": "Jaleco",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "160": {
+            "id": 160,
+            "name": "Atari Classics",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "161": {
+            "id": 161,
+            "name": "Nintendo Classics",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "162": {
+            "id": 162,
+            "name": "Data East Classics",
+            "altNames": [],
+            "company": "Data East",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "163": {
+            "id": 163,
+            "name": "NMK",
+            "altNames": [],
+            "company": "NMK",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "164": {
+            "id": 164,
+            "name": "Sammy Classics",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "165": {
+            "id": 165,
+            "name": "Exidy",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "166": {
+            "id": 166,
+            "name": "Acclaim",
+            "altNames": [],
+            "company": "Acclaim",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "167": {
+            "id": 167,
+            "name": "Psikyo",
+            "altNames": [],
+            "company": "Psikyo",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "168": {
+            "id": 168,
+            "name": "non Jeu",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "169": {
+            "id": 169,
+            "name": "Technos",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "170": {
+            "id": 170,
+            "name": "American Laser Games",
+            "altNames": [],
+            "company": "American Laser Games",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "171": {
+            "id": 171,
+            "name": "Jaguar CD",
+            "altNames": [],
+            "company": "Atari",
+            "matches": [
+                [
+                    "launchbox",
+                    "Atari Jaguar CD"
+                ]
+            ]
+        },
+        "172": {
+            "id": 172,
+            "name": "Playstation minis",
+            "altNames": [],
+            "company": "Sony",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sony PSP Minis"
+                ],
+                [
+                    "retropie",
+                    "psp"
+                ],
+                [
+                    "recalbox",
+                    "psp"
+                ]
+            ]
+        },
+        "173": {
+            "id": 173,
+            "name": "Dynax",
+            "altNames": [],
+            "company": "Dynax",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "174": {
+            "id": 174,
+            "name": "Kaneko",
+            "altNames": [],
+            "company": "Kaneko",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "175": {
+            "id": 175,
+            "name": "Video System Co.",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "176": {
+            "id": 176,
+            "name": "IGS",
+            "altNames": [],
+            "company": "IGS",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "177": {
+            "id": 177,
+            "name": "Comad",
+            "altNames": [],
+            "company": "Comad",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "178": {
+            "id": 178,
+            "name": "Amcoe",
+            "altNames": [],
+            "company": "Amcoe",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "179": {
+            "id": 179,
+            "name": "Century Electronics",
+            "altNames": [],
+            "company": "Century Electronics",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "180": {
+            "id": 180,
+            "name": "Nichibutsu",
+            "altNames": [],
+            "company": "Nichibutsu",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "181": {
+            "id": 181,
+            "name": "Visco",
+            "altNames": [],
+            "company": "Visco",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "182": {
+            "id": 182,
+            "name": "Alpha Denshi Co.",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "183": {
+            "id": 183,
+            "name": "Coleco",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "184": {
+            "id": 184,
+            "name": "PlayChoice",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "185": {
+            "id": 185,
+            "name": "Atlus",
+            "altNames": [],
+            "company": "Atlus",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "186": {
+            "id": 186,
+            "name": "Banpresto",
+            "altNames": [],
+            "company": "Banpresto",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "187": {
+            "id": 187,
+            "name": "SemiCom",
+            "altNames": [],
+            "company": "SemiCom",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "188": {
+            "id": 188,
+            "name": "Universal",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "189": {
+            "id": 189,
+            "name": "Mitchell",
+            "altNames": [],
+            "company": "Mitchell",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "190": {
+            "id": 190,
+            "name": "Seibu Kaihatsu",
+            "altNames": [],
+            "company": "Seibu Kaihatsu",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "191": {
+            "id": 191,
+            "name": "Toaplan",
+            "altNames": [],
+            "company": "Toaplan",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "192": {
+            "id": 192,
+            "name": "Cinematronics",
+            "altNames": [],
+            "company": "Cinematronics",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "193": {
+            "id": 193,
+            "name": "Incredible Technologies",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "194": {
+            "id": 194,
+            "name": "Gaelco",
+            "altNames": [],
+            "company": "Gaelco",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "195": {
+            "id": 195,
+            "name": "Mega-Tech",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "196": {
+            "id": 196,
+            "name": "Mega-Play",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "197": {
+            "id": 197,
+            "name": "Pinball",
+            "altNames": [
+                "Flipper"
+            ]
+        },
+        "198": {
+            "id": 198,
+            "name": "Visual Pinball",
+            "altNames": []
+        },
+        "199": {
+            "id": 199,
+            "name": "Future Pinball",
+            "altNames": []
+        },
+        "200": {
+            "id": 200,
+            "name": "the Pinball Arcade",
+            "altNames": []
+        },
+        "201": {
+            "id": 201,
+            "name": "Pinball FX3",
+            "altNames": [],
+            "company": "Zen Studios"
+        },
+        "202": {
+            "id": 202,
+            "name": "Snes - Super Mario World Hacks",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Super Nintendo Entertainment System - Mario Hacks"
+                ],
+                [
+                    "retropie",
+                    "snes"
+                ],
+                [
+                    "recalbox",
+                    "snes"
+                ]
+            ]
+        },
+        "203": {
+            "id": 203,
+            "name": "Megadrive - Sonic The Hedgehog 2 Hacks",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Genesis"
+                ],
+                [
+                    "retropie",
+                    "genesis,megadrive"
+                ],
+                [
+                    "recalbox",
+                    "megadrive"
+                ]
+            ]
+        },
+        "205": {
+            "id": 205,
+            "name": "TI-99/4A",
+            "altNames": [],
+            "company": "Texas Instruments",
+            "matches": [
+                [
+                    "launchbox",
+                    "Texas Instruments TI 99/4A"
+                ],
+                [
+                    "retropie",
+                    "ti99"
+                ],
+                [
+                    "recalbox",
+                    "ti994a"
+                ]
+            ]
+        },
+        "206": {
+            "id": 206,
+            "name": "Lutro",
+            "altNames": [],
+            "matches": [
+                [
+                    "retropie",
+                    "lutro"
+                ],
+                [
+                    "recalbox",
+                    "lutro"
+                ]
+            ]
+        },
+        "207": {
+            "id": 207,
+            "name": "Watara Supervision",
+            "altNames": [
+                "Watara Supervision"
+            ],
+            "company": "Watara",
+            "matches": [
+                [
+                    "launchbox",
+                    "Watara Supervision"
+                ],
+                [
+                    "recalbox",
+                    "supervision"
+                ]
+            ]
+        },
+        "208": {
+            "id": 208,
+            "name": "NEC PC-9801",
+            "altNames": [],
+            "matches": [
+                [
+                    "retropie",
+                    "Pc98"
+                ],
+                [
+                    "recalbox",
+                    "pc98"
+                ]
+            ]
+        },
+        "209": {
+            "id": 209,
+            "name": "Gottlieb",
+            "altNames": [],
+            "company": "Gottlieb",
+            "matches": [
+                [
+                    "launchbox",
+                    "arcade"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "210": {
+            "id": 210,
+            "name": "Super Nintendo MSU-1",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Super Nintendo MSU-1"
+                ],
+                [
+                    "retropie",
+                    "Super Nintendo MSU-1"
+                ],
+                [
+                    "recalbox",
+                    "Super Nintendo MSU-1"
+                ]
+            ]
+        },
+        "211": {
+            "id": 211,
+            "name": "Pokémon mini",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "recalbox",
+                    "pokemini"
+                ]
+            ]
+        },
+        "213": {
+            "id": 213,
+            "name": "MGT SAM Coupé",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "MGT SAM Coupé"
+                ],
+                [
+                    "recalbox",
+                    "samcoupe"
+                ]
+            ]
+        },
+        "214": {
+            "id": 214,
+            "name": "OpenBOR",
+            "altNames": [
+                "OpenBOR"
+            ],
+            "matches": [
+                [
+                    "launchbox",
+                    "OpenBOR"
+                ],
+                [
+                    "retropie",
+                    "OpenBOR"
+                ],
+                [
+                    "recalbox",
+                    "openbor"
+                ]
+            ]
+        },
+        "215": {
+            "id": 215,
+            "name": "Z-Machine",
+            "altNames": []
+        },
+        "216": {
+            "id": 216,
+            "name": "Uzebox",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Uzebox"
+                ],
+                [
+                    "retropie",
+                    "uzebox"
+                ],
+                [
+                    "recalbox",
+                    "uzebox"
+                ]
+            ]
+        },
+        "217": {
+            "id": 217,
+            "name": "Apple IIGS",
+            "altNames": [],
+            "company": "Apple",
+            "matches": [
+                [
+                    "launchbox",
+                    "Apple IIGS"
+                ],
+                [
+                    "recalbox",
+                    "apple2gs"
+                ]
+            ]
+        },
+        "218": {
+            "id": 218,
+            "name": "Spectravideo",
+            "altNames": [],
+            "matches": [
+                [
+                    "launchbox",
+                    "Spectravideo"
+                ],
+                [
+                    "retropie",
+                    "Spectravideo"
+                ],
+                [
+                    "recalbox",
+                    "spectravideo"
+                ]
+            ]
+        },
+        "219": {
+            "id": 219,
+            "name": "Palm OS",
+            "altNames": [],
+            "matches": [
+                [
+                    "recalbox",
+                    "palm"
+                ]
+            ]
+        },
+        "220": {
+            "id": 220,
+            "name": "Sharp X1",
+            "altNames": [],
+            "company": "Sharp",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sharp X1"
+                ],
+                [
+                    "retropie",
+                    "x1"
+                ],
+                [
+                    "recalbox",
+                    "x1"
+                ]
+            ]
+        },
+        "221": {
+            "id": 221,
+            "name": "NEC PC-8801",
+            "altNames": [],
+            "matches": [
+                [
+                    "retropie",
+                    "pc88"
+                ],
+                [
+                    "recalbox",
+                    "pc88"
+                ]
+            ]
+        },
+        "222": {
+            "id": 222,
+            "name": "TIC-80",
+            "altNames": [],
+            "matches": [
+                [
+                    "recalbox",
+                    "tic80"
+                ]
+            ]
+        },
+        "223": {
+            "id": 223,
+            "name": "Solarus",
+            "altNames": [],
+            "matches": [
+                [
+                    "recalbox",
+                    "solarus"
+                ]
+            ]
+        },
+        "225": {
+            "id": 225,
+            "name": "Switch",
+            "altNames": [],
+            "company": "Nintendo",
+            "matches": [
+                [
+                    "launchbox",
+                    "Nintendo Switch"
+                ]
+            ]
+        },
+        "227": {
+            "id": 227,
+            "name": "Naomi GD-ROM",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro,naomigd,naomi"
+                ]
+            ]
+        },
+        "230": {
+            "id": 230,
+            "name": "Naomi 2",
+            "altNames": [],
+            "company": "SEGA",
+            "matches": [
+                [
+                    "launchbox",
+                    "Sega Naomi 2"
+                ],
+                [
+                    "retropie",
+                    "arcade,fba,mame-advmame,mame-libretro,mame-mame4all,mame,mess"
+                ],
+                [
+                    "recalbox",
+                    "arcade,mame,fba,fba_libretro"
+                ]
+            ]
+        },
+        "231": {
+            "id": 231,
+            "name": "EasyRPG",
+            "altNames": [],
+            "matches": [
+                [
+                    "retropie",
+                    "easyrpg"
+                ],
+                [
+                    "recalbox",
+                    "easyrpg"
+                ]
+            ]
+        },
+        "234": {
+            "id": 234,
+            "name": "Pico-8",
+            "altNames": [],
+            "matches": [
+                [
+                    "recalbox",
+                    "pico8"
+                ]
+            ]
+        },
+        "237": {
+            "id": 237,
+            "name": "Pocket Challenge V2",
+            "altNames": [],
+            "company": "Benesse",
+            "matches": [
+                [
+                    "recalbox",
+                    "pcv2"
+                ]
+            ]
+        },
+        "240": {
+            "id": 240,
+            "name": "PET",
+            "altNames": [],
+            "company": "Commodore",
+            "matches": [
+                [
+                    "recalbox",
+                    "pet"
+                ]
+            ]
+        },
+        "241": {
+            "id": 241,
+            "name": "CreatiVision",
+            "altNames": [],
+            "company": "VTech",
+            "matches": [
+                [
+                    "retropie",
+                    "crvision"
+                ]
+            ]
+        },
+        "244": {
+            "id": 244,
+            "name": "LowRes NX",
+            "altNames": [],
+            "matches": [
+                [
+                    "recalbox",
+                    "lowresnx"
+                ]
+            ]
+        },
+        "250": {
+            "id": 250,
+            "name": "Sega Pico",
+            "altNames": [
+                "Kids Computer Pico"
+            ],
+            "company": "SEGA"
+        },
+        "253": {
+            "id": 253,
+            "name": "FM Towns",
+            "altNames": [],
+            "company": "Fujitsu",
+            "matches": [
+                [
+                    "retropie",
+                    "fmtmarty"
+                ]
+            ]
+        }
+    }
+}

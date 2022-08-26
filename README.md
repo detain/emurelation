@@ -43,7 +43,6 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
 ##### TODO
 
 - Setup source exports for
-  - ScreenScraper
   - TheGamesDB
   - Old-Computers
 - Update matches utilizing new source exports
