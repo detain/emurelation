@@ -1,0 +1,1168 @@
+{
+    "platforms": {
+        "25": {
+            "id": 25,
+            "name": "3DO",
+            "altNames": [],
+            "shortName": "3do",
+            "developer": "The 3DO Company",
+            "manufacturer": "Panasonic"
+        },
+        "4944": {
+            "id": 4944,
+            "name": "Acorn Archimedes",
+            "altNames": [],
+            "shortName": "acorn-archimedes",
+            "developer": "Acorn Computers",
+            "manufacturer": "Acorn Computers"
+        },
+        "5014": {
+            "id": 5014,
+            "name": "Acorn Atom",
+            "altNames": [],
+            "shortName": "acorn-atom",
+            "developer": "Acorn Computers",
+            "manufacturer": "Acorn Computers"
+        },
+        "4954": {
+            "id": 4954,
+            "name": "Acorn Electron",
+            "altNames": [],
+            "shortName": "acorn-electron",
+            "developer": "Acorn Computers",
+            "manufacturer": "Acorn Computers"
+        },
+        "4976": {
+            "id": 4976,
+            "name": "Action Max",
+            "altNames": [],
+            "shortName": "action-max"
+        },
+        "4911": {
+            "id": 4911,
+            "name": "Amiga",
+            "altNames": [],
+            "shortName": "amiga",
+            "developer": "Commodore",
+            "manufacturer": "Commodore"
+        },
+        "4947": {
+            "id": 4947,
+            "name": "Amiga CD32",
+            "altNames": [],
+            "shortName": "amiga-cd32",
+            "developer": "Commodore",
+            "manufacturer": "Commodore"
+        },
+        "4914": {
+            "id": 4914,
+            "name": "Amstrad CPC",
+            "altNames": [],
+            "shortName": "amstrad-cpc",
+            "developer": "Amstrad",
+            "manufacturer": "Amstrad"
+        },
+        "4999": {
+            "id": 4999,
+            "name": "Amstrad GX4000",
+            "altNames": [],
+            "shortName": "amstrad-gx4000",
+            "developer": "",
+            "manufacturer": "Amstrad"
+        },
+        "4916": {
+            "id": 4916,
+            "name": "Android",
+            "altNames": [],
+            "shortName": "android",
+            "developer": "Google, Android Inc."
+        },
+        "4969": {
+            "id": 4969,
+            "name": "APF MP-1000",
+            "altNames": [],
+            "shortName": "apf-mp-1000",
+            "developer": "APF Electronics Inc",
+            "manufacturer": "APF Electronics Inc"
+        },
+        "4942": {
+            "id": 4942,
+            "name": "Apple II",
+            "altNames": [],
+            "shortName": "apple2",
+            "developer": "Apple",
+            "manufacturer": "Apple"
+        },
+        "5001": {
+            "id": 5001,
+            "name": "Apple Pippin",
+            "altNames": [],
+            "shortName": "apple-pippin",
+            "developer": "Apple Computer",
+            "manufacturer": "Bandai"
+        },
+        "23": {
+            "id": 23,
+            "name": "Arcade",
+            "altNames": [],
+            "shortName": "arcade"
+        },
+        "22": {
+            "id": 22,
+            "name": "Atari 2600",
+            "altNames": [],
+            "shortName": "atari-2600",
+            "developer": "Atari",
+            "manufacturer": "Atari"
+        },
+        "26": {
+            "id": 26,
+            "name": "Atari 5200",
+            "altNames": [],
+            "shortName": "atari-5200",
+            "developer": "Atari",
+            "manufacturer": "Atari"
+        },
+        "27": {
+            "id": 27,
+            "name": "Atari 7800",
+            "altNames": [],
+            "shortName": "atari-7800",
+            "developer": "Atari",
+            "manufacturer": "Atari"
+        },
+        "4943": {
+            "id": 4943,
+            "name": "Atari 800",
+            "altNames": [],
+            "shortName": "atari800",
+            "developer": "Atari Corporation",
+            "manufacturer": "Atari Corporation"
+        },
+        "28": {
+            "id": 28,
+            "name": "Atari Jaguar",
+            "altNames": [],
+            "shortName": "atari-jaguar",
+            "developer": "Atari",
+            "manufacturer": "Atari"
+        },
+        "29": {
+            "id": 29,
+            "name": "Atari Jaguar CD",
+            "altNames": [],
+            "shortName": "atari-jaguar-cd",
+            "developer": "Atari",
+            "manufacturer": "Atari"
+        },
+        "4924": {
+            "id": 4924,
+            "name": "Atari Lynx",
+            "altNames": [],
+            "shortName": "atari-lynx",
+            "developer": "Epyx / Atari",
+            "manufacturer": "Atari Corporation"
+        },
+        "4937": {
+            "id": 4937,
+            "name": "Atari ST",
+            "altNames": [],
+            "shortName": "atari-st",
+            "developer": "Atari Corporation",
+            "manufacturer": "Atari Corporation"
+        },
+        "30": {
+            "id": 30,
+            "name": "Atari XE",
+            "altNames": [],
+            "shortName": "atari-xe",
+            "developer": "Atari",
+            "manufacturer": "Atari"
+        },
+        "4968": {
+            "id": 4968,
+            "name": "Bally Astrocade",
+            "altNames": [],
+            "shortName": "bally-astrocade",
+            "developer": "Bally Manufacturing",
+            "manufacturer": "Bally Manufacturing"
+        },
+        "4995": {
+            "id": 4995,
+            "name": "Bandai TV Jack 5000",
+            "altNames": [],
+            "shortName": "bandai-tv-jack-5000",
+            "developer": "",
+            "manufacturer": "Bandai"
+        },
+        "4997": {
+            "id": 4997,
+            "name": "BBC Bridge Companion",
+            "altNames": [],
+            "shortName": "bbc-bridge-companion",
+            "developer": "",
+            "manufacturer": "Heber"
+        },
+        "5013": {
+            "id": 5013,
+            "name": "BBC Micro",
+            "altNames": [],
+            "shortName": "bbc-micro",
+            "developer": "BBC",
+            "manufacturer": "Acorn Computers"
+        },
+        "4991": {
+            "id": 4991,
+            "name": "Casio Loopy",
+            "altNames": [],
+            "shortName": "casio-loopy",
+            "developer": "",
+            "manufacturer": "Casio"
+        },
+        "4964": {
+            "id": 4964,
+            "name": "Casio PV-1000",
+            "altNames": [],
+            "shortName": "casio-pv-1000",
+            "developer": "Casio",
+            "manufacturer": "Casio"
+        },
+        "4970": {
+            "id": 4970,
+            "name": "Coleco Telstar Arcade",
+            "altNames": [],
+            "shortName": "coleco-telstar-arcade",
+            "developer": "Coleco",
+            "manufacturer": "Coleco"
+        },
+        "31": {
+            "id": 31,
+            "name": "Colecovision",
+            "altNames": [],
+            "shortName": "colecovision",
+            "developer": "Coleco",
+            "manufacturer": "Coleco"
+        },
+        "4946": {
+            "id": 4946,
+            "name": "Commodore 128",
+            "altNames": [],
+            "shortName": "c128",
+            "developer": "Commodore International",
+            "manufacturer": "Commodore Business Machines"
+        },
+        "5006": {
+            "id": 5006,
+            "name": "Commodore 16",
+            "altNames": [],
+            "shortName": "commodore-16",
+            "developer": "",
+            "manufacturer": "Commodore Business Machines"
+        },
+        "40": {
+            "id": 40,
+            "name": "Commodore 64",
+            "altNames": [],
+            "shortName": "commodore-64",
+            "developer": "Commodore International",
+            "manufacturer": "Commodore International"
+        },
+        "5008": {
+            "id": 5008,
+            "name": "Commodore PET",
+            "altNames": [],
+            "shortName": "commodore-pet",
+            "developer": "",
+            "manufacturer": "Commodore International"
+        },
+        "5007": {
+            "id": 5007,
+            "name": "Commodore Plus/4",
+            "altNames": [],
+            "shortName": "commodore-plus/4",
+            "developer": "",
+            "manufacturer": "Commodore Business Machines"
+        },
+        "4945": {
+            "id": 4945,
+            "name": "Commodore VIC-20",
+            "altNames": [],
+            "shortName": "commodore-vic20",
+            "developer": "Commodore International",
+            "manufacturer": "Commodore Business Machines"
+        },
+        "5012": {
+            "id": 5012,
+            "name": "Didj",
+            "altNames": [],
+            "shortName": "didj",
+            "developer": "",
+            "manufacturer": "LeapFrog Enterprises"
+        },
+        "4952": {
+            "id": 4952,
+            "name": "Dragon 32/64",
+            "altNames": [],
+            "shortName": "dragon32-64",
+            "developer": "Dragon Data",
+            "manufacturer": "Dragon Data"
+        },
+        "4963": {
+            "id": 4963,
+            "name": "Emerson Arcadia 2001",
+            "altNames": [],
+            "shortName": "emerson-arcadia-2001",
+            "developer": "Emerson Radio",
+            "manufacturer": "Emerson Radio"
+        },
+        "4974": {
+            "id": 4974,
+            "name": "Entex Adventure Vision",
+            "altNames": [],
+            "shortName": "entex-adventure-vision",
+            "developer": "Entex Industries",
+            "manufacturer": "Entex Industries"
+        },
+        "4973": {
+            "id": 4973,
+            "name": "Entex Select-a-Game",
+            "altNames": [],
+            "shortName": "entex-select-a-game",
+            "developer": "Entex Industries",
+            "manufacturer": "Entex Industries"
+        },
+        "4965": {
+            "id": 4965,
+            "name": "Epoch Cassette Vision",
+            "altNames": [],
+            "shortName": "epoch-cassette-vision",
+            "developer": "Epoch Co.",
+            "manufacturer": "Epoch Co."
+        },
+        "4966": {
+            "id": 4966,
+            "name": "Epoch Super Cassette Vision",
+            "altNames": [],
+            "shortName": "epoch-super-cassette-vision",
+            "developer": "Epoch Co.",
+            "manufacturer": "Epoch Co."
+        },
+        "4985": {
+            "id": 4985,
+            "name": "Evercade",
+            "altNames": [],
+            "shortName": "evercade",
+            "developer": "Blaze Entertainment",
+            "manufacturer": "Blaze Entertainment"
+        },
+        "4928": {
+            "id": 4928,
+            "name": "Fairchild Channel F",
+            "altNames": [],
+            "shortName": "fairchild"
+        },
+        "4936": {
+            "id": 4936,
+            "name": "Famicom Disk System",
+            "altNames": [],
+            "shortName": "fds",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "4932": {
+            "id": 4932,
+            "name": "FM Towns Marty",
+            "altNames": [],
+            "shortName": "fmtowns",
+            "developer": "Fujitsu",
+            "manufacturer": "Fujitsu"
+        },
+        "4978": {
+            "id": 4978,
+            "name": "Fujitsu FM-7",
+            "altNames": [],
+            "shortName": "fujitsu-fm-7",
+            "developer": "Fujitsu",
+            "manufacturer": "Fujitsu"
+        },
+        "4962": {
+            "id": 4962,
+            "name": "Gakken Compact Vision",
+            "altNames": [],
+            "shortName": "gakken-compact-vision",
+            "developer": "Gakken Co., Ltd"
+        },
+        "5004": {
+            "id": 5004,
+            "name": "Gamate",
+            "altNames": [],
+            "shortName": "gamate",
+            "developer": "",
+            "manufacturer": "Bit Corporation, United Microelectronics Corporation"
+        },
+        "4950": {
+            "id": 4950,
+            "name": "Game & Watch",
+            "altNames": [],
+            "shortName": "game-and-watch",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "5002": {
+            "id": 5002,
+            "name": "Game Wave",
+            "altNames": [],
+            "shortName": "game-wave",
+            "developer": "",
+            "manufacturer": "ZAPiT Games"
+        },
+        "4940": {
+            "id": 4940,
+            "name": "Game.com",
+            "altNames": [],
+            "shortName": "game-com",
+            "developer": "Tiger Electronics",
+            "manufacturer": "Tiger Electronics"
+        },
+        "4992": {
+            "id": 4992,
+            "name": "Gizmondo",
+            "altNames": [],
+            "shortName": "gizmondo",
+            "developer": "Tiger Telematics",
+            "manufacturer": "Tiger Telematics"
+        },
+        "5015": {
+            "id": 5015,
+            "name": "GP32",
+            "altNames": [],
+            "shortName": "gp32",
+            "developer": "",
+            "manufacturer": "Game Park"
+        },
+        "4951": {
+            "id": 4951,
+            "name": "Handheld Electronic Games (LCD)",
+            "altNames": [],
+            "shortName": "lcd",
+            "developer": "Tiger Electronics, V-Tech, Coleco, Bandai, Konami",
+            "manufacturer": "Tiger Electronics, V-Tech, Coleco, Bandai, Konami, Milton Bradley Company"
+        },
+        "4987": {
+            "id": 4987,
+            "name": "HyperScan",
+            "altNames": [],
+            "shortName": "hyperscan",
+            "developer": "",
+            "manufacturer": "Mattel"
+        },
+        "32": {
+            "id": 32,
+            "name": "Intellivision",
+            "altNames": [],
+            "shortName": "intellivision",
+            "developer": "Mattel",
+            "manufacturer": "Mattel"
+        },
+        "4994": {
+            "id": 4994,
+            "name": "Interton VC 4000",
+            "altNames": [],
+            "shortName": "interton-vc-4000",
+            "developer": "",
+            "manufacturer": "Interton"
+        },
+        "4915": {
+            "id": 4915,
+            "name": "iOS",
+            "altNames": [],
+            "shortName": "ios",
+            "developer": "Apple"
+        },
+        "37": {
+            "id": 37,
+            "name": "Mac OS",
+            "altNames": [],
+            "shortName": "mac-os",
+            "developer": "Apple",
+            "manufacturer": "Apple"
+        },
+        "4961": {
+            "id": 4961,
+            "name": "Magnavox Odyssey 1",
+            "altNames": [],
+            "shortName": "magnavox-odyssey",
+            "developer": "Magnavox",
+            "manufacturer": "Magnavox"
+        },
+        "4927": {
+            "id": 4927,
+            "name": "Magnavox Odyssey 2",
+            "altNames": [],
+            "shortName": "magnavox-odyssey-2",
+            "developer": "Magnavox / Philips",
+            "manufacturer": "Magnavox / Philips"
+        },
+        "4989": {
+            "id": 4989,
+            "name": "Mattel Aquarius",
+            "altNames": [],
+            "shortName": "mattel-aquarius",
+            "developer": "Mattel Electronics",
+            "manufacturer": "Mattel Electronics"
+        },
+        "4948": {
+            "id": 4948,
+            "name": "Mega Duck",
+            "altNames": [],
+            "shortName": "megaduck",
+            "developer": "Welback Holdings",
+            "manufacturer": "Timlex International"
+        },
+        "14": {
+            "id": 14,
+            "name": "Microsoft Xbox",
+            "altNames": [],
+            "shortName": "microsoft-xbox",
+            "developer": "Microsoft",
+            "manufacturer": "Microsoft"
+        },
+        "15": {
+            "id": 15,
+            "name": "Microsoft Xbox 360",
+            "altNames": [],
+            "shortName": "microsoft-xbox-360",
+            "developer": "Microsoft",
+            "manufacturer": "Microsoft"
+        },
+        "4920": {
+            "id": 4920,
+            "name": "Microsoft Xbox One",
+            "altNames": [],
+            "shortName": "microsoft-xbox-one",
+            "developer": "Microsoft",
+            "manufacturer": "Microsoft"
+        },
+        "4981": {
+            "id": 4981,
+            "name": "Microsoft Xbox Series X",
+            "altNames": [],
+            "shortName": "microsoft-xbox-series-x",
+            "developer": "Microsoft",
+            "manufacturer": "Microsoft"
+        },
+        "4972": {
+            "id": 4972,
+            "name": "Milton Bradley Microvision",
+            "altNames": [],
+            "shortName": "milton-bradley-microvision",
+            "developer": "Milton Bradley"
+        },
+        "4929": {
+            "id": 4929,
+            "name": "MSX",
+            "altNames": [],
+            "shortName": "msx",
+            "developer": "ASCII Corporation",
+            "manufacturer": "Microsoft"
+        },
+        "4938": {
+            "id": 4938,
+            "name": "N-Gage",
+            "altNames": [],
+            "shortName": "ngage",
+            "developer": "Nokia",
+            "manufacturer": "Nokia"
+        },
+        "24": {
+            "id": 24,
+            "name": "Neo Geo",
+            "altNames": [],
+            "shortName": "neogeo",
+            "developer": "SNK",
+            "manufacturer": "SNK"
+        },
+        "4956": {
+            "id": 4956,
+            "name": "Neo Geo CD",
+            "altNames": [],
+            "shortName": "neo-geo-cd",
+            "developer": "SNK",
+            "manufacturer": "SNK"
+        },
+        "4922": {
+            "id": 4922,
+            "name": "Neo Geo Pocket",
+            "altNames": [],
+            "shortName": "neo-geo-pocket",
+            "developer": "SNK",
+            "manufacturer": "SNK"
+        },
+        "4923": {
+            "id": 4923,
+            "name": "Neo Geo Pocket Color",
+            "altNames": [],
+            "shortName": "neo-geo-pocket-color",
+            "developer": "SNK",
+            "manufacturer": "SNK"
+        },
+        "4912": {
+            "id": 4912,
+            "name": "Nintendo 3DS",
+            "altNames": [],
+            "shortName": "nintendo-3ds",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "3": {
+            "id": 3,
+            "name": "Nintendo 64",
+            "altNames": [],
+            "shortName": "nintendo-64",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "8": {
+            "id": 8,
+            "name": "Nintendo DS",
+            "altNames": [],
+            "shortName": "nintendo-ds",
+            "developer": "Nintendo",
+            "manufacturer": "Foxconn"
+        },
+        "7": {
+            "id": 7,
+            "name": "Nintendo Entertainment System (NES)",
+            "altNames": [],
+            "shortName": "nintendo-entertainment-system-nes",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "4": {
+            "id": 4,
+            "name": "Nintendo Game Boy",
+            "altNames": [],
+            "shortName": "nintendo-gameboy",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "5": {
+            "id": 5,
+            "name": "Nintendo Game Boy Advance",
+            "altNames": [],
+            "shortName": "nintendo-gameboy-advance",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "41": {
+            "id": 41,
+            "name": "Nintendo Game Boy Color",
+            "altNames": [],
+            "shortName": "nintendo-gameboy-color",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "2": {
+            "id": 2,
+            "name": "Nintendo GameCube",
+            "altNames": [],
+            "shortName": "nintendo-gamecube",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "4957": {
+            "id": 4957,
+            "name": "Nintendo Pokémon Mini",
+            "altNames": [],
+            "shortName": "nintendo-pokmon-mini",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "4971": {
+            "id": 4971,
+            "name": "Nintendo Switch",
+            "altNames": [],
+            "shortName": "nintendo-switch",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "4918": {
+            "id": 4918,
+            "name": "Nintendo Virtual Boy",
+            "altNames": [],
+            "shortName": "nintendo-virtual-boy",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "9": {
+            "id": 9,
+            "name": "Nintendo Wii",
+            "altNames": [],
+            "shortName": "nintendo-wii",
+            "developer": "Nintendo",
+            "manufacturer": "Foxconn"
+        },
+        "38": {
+            "id": 38,
+            "name": "Nintendo Wii U",
+            "altNames": [],
+            "shortName": "nintendo-wii-u",
+            "developer": "Nintendo",
+            "manufacturer": "Foxconn"
+        },
+        "4935": {
+            "id": 4935,
+            "name": "Nuon",
+            "altNames": [],
+            "shortName": "nuon",
+            "developer": "VM Labs",
+            "manufacturer": "Motorola, Samsung, Toshiba"
+        },
+        "4990": {
+            "id": 4990,
+            "name": "Oculus Quest",
+            "altNames": [],
+            "shortName": "oculus-quest",
+            "developer": "Oculus",
+            "manufacturer": ""
+        },
+        "4986": {
+            "id": 4986,
+            "name": "Oric-1",
+            "altNames": [],
+            "shortName": "oric-1",
+            "developer": "Tangerine Computer Systems",
+            "manufacturer": "Tangerine Computer Systems"
+        },
+        "4921": {
+            "id": 4921,
+            "name": "Ouya",
+            "altNames": [],
+            "shortName": "ouya",
+            "developer": "Ouya, Inc.",
+            "manufacturer": "Ouya, Inc."
+        },
+        "5003": {
+            "id": 5003,
+            "name": "Palmtex Super Micro",
+            "altNames": [],
+            "shortName": "palmtex-super-micro",
+            "developer": "",
+            "manufacturer": "Palmtex"
+        },
+        "1": {
+            "id": 1,
+            "name": "PC",
+            "altNames": [],
+            "shortName": "pc",
+            "developer": "IBM"
+        },
+        "4933": {
+            "id": 4933,
+            "name": "PC-88",
+            "altNames": [],
+            "shortName": "pc88",
+            "developer": "NEC",
+            "manufacturer": "NEC"
+        },
+        "4934": {
+            "id": 4934,
+            "name": "PC-98",
+            "altNames": [],
+            "shortName": "pc98",
+            "developer": "NEC",
+            "manufacturer": "NEC"
+        },
+        "4930": {
+            "id": 4930,
+            "name": "PC-FX",
+            "altNames": [],
+            "shortName": "pcfx",
+            "developer": "NEC",
+            "manufacturer": "NEC"
+        },
+        "4917": {
+            "id": 4917,
+            "name": "Philips CD-i",
+            "altNames": [],
+            "shortName": "philips-cd-i",
+            "developer": "Philips",
+            "manufacturer": "Philips"
+        },
+        "4993": {
+            "id": 4993,
+            "name": "Philips Tele-Spiel ES-2201",
+            "altNames": [],
+            "shortName": "philips-tele-spiel-es-2201",
+            "developer": "",
+            "manufacturer": "Philips"
+        },
+        "4975": {
+            "id": 4975,
+            "name": "Pioneer LaserActive",
+            "altNames": [],
+            "shortName": "",
+            "developer": "Pioneer",
+            "manufacturer": "Pioneer"
+        },
+        "5016": {
+            "id": 5016,
+            "name": "Playdate",
+            "altNames": [],
+            "shortName": "playdate",
+            "developer": "Panic Inc.",
+            "manufacturer": ""
+        },
+        "5000": {
+            "id": 5000,
+            "name": "Playdia",
+            "altNames": [],
+            "shortName": "playdia",
+            "developer": "",
+            "manufacturer": "Bandai"
+        },
+        "4983": {
+            "id": 4983,
+            "name": "R-Zone",
+            "altNames": [],
+            "shortName": "r-zone",
+            "developer": "Tiger Electronics",
+            "manufacturer": "Tiger Electronics"
+        },
+        "4967": {
+            "id": 4967,
+            "name": "RCA Studio II",
+            "altNames": [],
+            "shortName": "rca-studio-ii",
+            "developer": "RCA",
+            "manufacturer": "RCA"
+        },
+        "4979": {
+            "id": 4979,
+            "name": "SAM Coupé",
+            "altNames": [],
+            "shortName": "sam-coupe",
+            "developer": "Miles Gordon Technology",
+            "manufacturer": "Miles Gordon Technology"
+        },
+        "33": {
+            "id": 33,
+            "name": "Sega 32X",
+            "altNames": [],
+            "shortName": "sega-32x",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "21": {
+            "id": 21,
+            "name": "Sega CD",
+            "altNames": [],
+            "shortName": "sega-cd",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "16": {
+            "id": 16,
+            "name": "Sega Dreamcast",
+            "altNames": [],
+            "shortName": "sega-dreamcast",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "20": {
+            "id": 20,
+            "name": "Sega Game Gear",
+            "altNames": [],
+            "shortName": "sega-game-gear",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "18": {
+            "id": 18,
+            "name": "Sega Genesis",
+            "altNames": [],
+            "shortName": "sega-genesis",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "35": {
+            "id": 35,
+            "name": "Sega Master System",
+            "altNames": [],
+            "shortName": "sega-master-system",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "36": {
+            "id": 36,
+            "name": "Sega Mega Drive",
+            "altNames": [],
+            "shortName": "sega-mega-drive",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "4958": {
+            "id": 4958,
+            "name": "Sega Pico",
+            "altNames": [],
+            "shortName": "sega-pico",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "17": {
+            "id": 17,
+            "name": "Sega Saturn",
+            "altNames": [],
+            "shortName": "sega-saturn",
+            "developer": "Sega",
+            "manufacturer": "Sega"
+        },
+        "4949": {
+            "id": 4949,
+            "name": "SEGA SG-1000",
+            "altNames": [],
+            "shortName": "sg1000",
+            "developer": "SEGA",
+            "manufacturer": "SEGA"
+        },
+        "4977": {
+            "id": 4977,
+            "name": "Sharp X1",
+            "altNames": [],
+            "shortName": "sharp-x1",
+            "developer": "Sharp",
+            "manufacturer": "Sharp"
+        },
+        "4931": {
+            "id": 4931,
+            "name": "Sharp X68000",
+            "altNames": [],
+            "shortName": "x68",
+            "developer": "Sharp Corporation",
+            "manufacturer": "Sharp Corporation"
+        },
+        "4996": {
+            "id": 4996,
+            "name": "SHG Black Point",
+            "altNames": [],
+            "shortName": "shg-black-point",
+            "developer": "Süddeutsche Elektro-Hausgeräte GmbH & Co. KG",
+            "manufacturer": "Süddeutsche Elektro-Hausgeräte GmbH & Co. KG"
+        },
+        "4913": {
+            "id": 4913,
+            "name": "Sinclair ZX Spectrum",
+            "altNames": [],
+            "shortName": "sinclair-zx-spectrum",
+            "developer": "Sinclair Research Ltd.",
+            "manufacturer": "Sinclair Research Ltd."
+        },
+        "5009": {
+            "id": 5009,
+            "name": "Sinclair ZX80",
+            "altNames": [],
+            "shortName": "sinclair-zx80",
+            "developer": "",
+            "manufacturer": "Sinclair Research"
+        },
+        "5010": {
+            "id": 5010,
+            "name": "Sinclair ZX81",
+            "altNames": [],
+            "shortName": "sinclair-zx81",
+            "developer": "Sinclair Research",
+            "manufacturer": "Timex Corporation"
+        },
+        "10": {
+            "id": 10,
+            "name": "Sony Playstation",
+            "altNames": [],
+            "shortName": "sony-playstation",
+            "developer": "Sony",
+            "manufacturer": "Sony"
+        },
+        "11": {
+            "id": 11,
+            "name": "Sony Playstation 2",
+            "altNames": [],
+            "shortName": "sony-playstation-2",
+            "developer": "Sony",
+            "manufacturer": "Sony"
+        },
+        "12": {
+            "id": 12,
+            "name": "Sony Playstation 3",
+            "altNames": [],
+            "shortName": "sony-playstation-3",
+            "developer": "Sony",
+            "manufacturer": "Sony"
+        },
+        "4919": {
+            "id": 4919,
+            "name": "Sony Playstation 4",
+            "altNames": [],
+            "shortName": "sony-playstation-4",
+            "developer": "Sony",
+            "manufacturer": "Sony"
+        },
+        "4980": {
+            "id": 4980,
+            "name": "Sony Playstation 5",
+            "altNames": [],
+            "shortName": "sony-playstation-5",
+            "developer": "Sony Interactive Entertainment",
+            "manufacturer": "Sony"
+        },
+        "13": {
+            "id": 13,
+            "name": "Sony Playstation Portable",
+            "altNames": [],
+            "shortName": "sony-psp",
+            "developer": "Sony",
+            "manufacturer": "Sony"
+        },
+        "39": {
+            "id": 39,
+            "name": "Sony Playstation Vita",
+            "altNames": [],
+            "shortName": "sony-playstation-vita",
+            "developer": "Sony",
+            "manufacturer": "Sony"
+        },
+        "5011": {
+            "id": 5011,
+            "name": "Stadia",
+            "altNames": [],
+            "shortName": "stadia",
+            "developer": "Google",
+            "manufacturer": ""
+        },
+        "6": {
+            "id": 6,
+            "name": "Super Nintendo (SNES)",
+            "altNames": [],
+            "shortName": "super-nintendo-snes",
+            "developer": "Nintendo",
+            "manufacturer": "Nintendo"
+        },
+        "4982": {
+            "id": 4982,
+            "name": "Tandy Visual Interactive System",
+            "altNames": [],
+            "shortName": "tandy-vis",
+            "developer": "Tandy",
+            "manufacturer": "Radio Shack"
+        },
+        "5017": {
+            "id": 5017,
+            "name": "Tapwave Zodiac",
+            "altNames": [],
+            "shortName": "tapwave-zodiac",
+            "developer": "",
+            "manufacturer": "Tapwave"
+        },
+        "4953": {
+            "id": 4953,
+            "name": "Texas Instruments TI-99/4A",
+            "altNames": [],
+            "shortName": "texas-instruments-ti-99-4a",
+            "developer": "Texas Instruments",
+            "manufacturer": "Texas Instruments"
+        },
+        "4960": {
+            "id": 4960,
+            "name": "Tomy Tutor",
+            "altNames": [],
+            "shortName": "tomy-pyta",
+            "developer": "Tomy",
+            "manufacturer": "Matsushita"
+        },
+        "4941": {
+            "id": 4941,
+            "name": "TRS-80 Color Computer",
+            "altNames": [],
+            "shortName": "trs80-color",
+            "developer": "Tandy Corporation",
+            "manufacturer": "Tandy Corporation"
+        },
+        "34": {
+            "id": 34,
+            "name": "TurboGrafx 16",
+            "altNames": [],
+            "shortName": "turbografx-16",
+            "developer": "Hudson Soft",
+            "manufacturer": "NEC"
+        },
+        "4955": {
+            "id": 4955,
+            "name": "TurboGrafx CD",
+            "altNames": [],
+            "shortName": "turbo-grafx-cd",
+            "developer": "Nec",
+            "manufacturer": "Nec"
+        },
+        "4988": {
+            "id": 4988,
+            "name": "V.Smile",
+            "altNames": [],
+            "shortName": "v-smile",
+            "developer": "",
+            "manufacturer": "VTech"
+        },
+        "4939": {
+            "id": 4939,
+            "name": "Vectrex",
+            "altNames": [],
+            "shortName": "vectrex",
+            "developer": "Western Technologies / Smith Engineering",
+            "manufacturer": "General Consumer Electronics"
+        },
+        "5005": {
+            "id": 5005,
+            "name": "VTech CreatiVision",
+            "altNames": [],
+            "shortName": "vtech-creativision",
+            "developer": "",
+            "manufacturer": "VTech"
+        },
+        "4998": {
+            "id": 4998,
+            "name": "VTech Socrates",
+            "altNames": [],
+            "shortName": "vtech-socrates",
+            "developer": "",
+            "manufacturer": "VTech"
+        },
+        "4959": {
+            "id": 4959,
+            "name": "Watara Supervision",
+            "altNames": [],
+            "shortName": "watara-supervision",
+            "manufacturer": "Watara"
+        },
+        "4925": {
+            "id": 4925,
+            "name": "WonderSwan",
+            "altNames": [],
+            "shortName": "wonderswan",
+            "developer": "Bandai",
+            "manufacturer": "Bandai"
+        },
+        "4926": {
+            "id": 4926,
+            "name": "WonderSwan Color",
+            "altNames": [],
+            "shortName": "wonderswan-color",
+            "developer": "Bandai",
+            "manufacturer": "Bandai"
+        },
+        "4984": {
+            "id": 4984,
+            "name": "Xavix Port",
+            "altNames": [],
+            "shortName": "xavix-port",
+            "developer": "SSD Company Limited",
+            "manufacturer": "SSD Company Limited"
+        }
+    }
+}
