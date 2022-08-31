@@ -42,9 +42,8 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
 
 ##### TODO
 
-- Setup source exports for
-  - Old-Computers
 - Update matches utilizing new source exports
+- Possibly drop description from source exports
 - Add local platforms for any unmatched nointro/redump/tosec/mame sources
 - remove excess local platforms without at least 1 nointro/redump/tosec/mame match
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
