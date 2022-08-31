@@ -61,14 +61,15 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
 
 ## Supported Mapping
 
-| Source | Platforms | Matched | Missing | % Completed |
-|--|--|--|--|--|
-| Master List | 717 | 0 | 717 | 0% |
-| TOSEC | 413 | 359 | 54 | 86.9% |
-| No-Intro | 135 | 92 | 43 | 68.1% |
-| Redump | 51 | 45 | 6 | 88.2% |
-| MAME | 544 | 491 | 53 | 90.3% |
-| LaunchBox | 183 | 183 | 0 | 100% |
-| TheGamesDB | 114 | 75 | 39 | 65.8% |
-| ScreenScraper.fr | 223 | 113 | 110 | 50.7% |
-| Old-Computers.com | 1278 | 90 | 1188 | 7% |
+| Source | Used | Unused | Total | Used % |
+|-|-|-|-|-|
+| launchbox | 194 | 0 | 194 | 100% |
+| toseciso | 241 | 1 | 242 | 99.6% |
+| tosec | 2714 | 106 | 2820 | 96.2% |
+| mame | 602 | 63 | 665 | 90.5% |
+| redump | 45 | 6 | 51 | 88.2% |
+| tgdb | 114 | 33 | 147 | 77.6% |
+| tosecpix | 581 | 300 | 881 | 65.9% |
+| nointro | 181 | 103 | 284 | 63.7% |
+| screenscraper | 116 | 113 | 229 | 50.7% |
+| oldcomputers | 95 | 1193 | 1288 | 7.4% |
