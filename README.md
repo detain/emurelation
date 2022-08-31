@@ -6,7 +6,7 @@ Emu⬅re➡lation is project with 1 simple purpose; to provide a mapping in JSON
 Currently undergoing restructuring and finishing scripts to generate the remaining source files.  After that I'll update the matches using the new files and finish up the matching data.  After which we should be ready for the first release.
 
 
-### Dev Notes
+## Dev Notes
 
 - Main list of platforms should come from sources that supply the actual games/roms to ensure we have whats needed without going too overboard:
   - No-Intro
@@ -40,7 +40,7 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
   - web<url, name>
   - matches<source,id>
 
-##### TODO
+#### TODO
 
 - Update matches utilizing new source exports
 - Possibly drop description from source exports
@@ -61,7 +61,9 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
 
 ## Supported Mapping
 
-| Source | Used | Unused | Total | Used % |
+### Platform Mapping Status
+
+| Source | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|
 | launchbox | 194 | 0 | 194 | 100% |
 | toseciso | 241 | 1 | 242 | 99.6% |
