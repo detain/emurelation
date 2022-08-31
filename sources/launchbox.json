@@ -1584,7 +1584,6 @@
                 "Apogey BK01",
                 "Apogey BK-01"
             ],
-            "developer": [],
             "manufacturer": "ARB Plant"
         },
         "Commodore MAX Machine": {
@@ -1635,9 +1634,7 @@
         "Lviv PC-01": {
             "id": "Lviv PC-01",
             "name": "Lviv PC-01",
-            "altNames": [],
-            "developer": [],
-            "manufacturer": []
+            "altNames": []
         },
         "Matra and Hachette Alice": {
             "id": "Matra and Hachette Alice",
@@ -1805,7 +1802,7 @@
             "name": "Linux",
             "altNames": [],
             "developer": "Community",
-            "manufacturer": "\tCommunity"
+            "manufacturer": "Community"
         },
         "Sony Playstation 5": {
             "id": "Sony Playstation 5",

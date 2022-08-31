@@ -322,7 +322,7 @@
             "Apple 1"
         ],
         "screenscraper": [
-            "Apple Apple II"
+            "Apple Apple I"
         ]
     },
     "Apple II": {
@@ -367,7 +367,7 @@
             "Apple III"
         ],
         "screenscraper": [
-            "Apple Apple II"
+            "Apple Apple III"
         ]
     },
     "Apple Lisa": {
@@ -447,9 +447,6 @@
     "Atari 400": {
         "oldcomputers": [
             "Atari 400"
-        ],
-        "screenscraper": [
-            "Atari Atari 8bit"
         ]
     },
     "Atari 400 \/ 800": {
@@ -515,9 +512,7 @@
         ],
         "screenscraper": [
             "Atari Atari 8bit"
-        ]
-    },
-    "Atari 8bit": {
+        ],
         "tosec": [
             "Atari 8bit"
         ]
@@ -617,9 +612,6 @@
     "Atari XEGS": {
         "launchbox": [
             "Atari XEGS"
-        ],
-        "screenscraper": [
-            "Atari Atari 8bit"
         ]
     },
     "Aussie Byte II": {
@@ -1005,9 +997,6 @@
         ],
         "mame": [
             "Commodore 128"
-        ],
-        "screenscraper": [
-            "Commodore Commodore 64"
         ]
     },
     "Commodore 64": {
@@ -1059,23 +1048,18 @@
             "Commodore Amiga"
         ],
         "screenscraper": [
-            "Commodore Amiga (AGA)"
+            "Commodore Amiga (AGA)",
+            "Commodore Amiga"
         ]
     },
     "Commodore Amiga 1000": {
         "mame": [
             "Commodore Amiga 1000"
-        ],
-        "screenscraper": [
-            "Commodore Amiga"
         ]
     },
     "Commodore Amiga 3000": {
         "mame": [
             "Commodore Amiga 3000"
-        ],
-        "screenscraper": [
-            "Commodore Amiga"
         ]
     },
     "Commodore Amiga AGA": {
@@ -1407,23 +1391,30 @@
             "Didact Esselte 100"
         ]
     },
+    "Dragon DOS": {
+        "mame": [
+            "Dragon DOS"
+        ]
+    },
     "Dragon 32-64": {
         "launchbox": [
+            "Dragon 32\/64",
+            "Dragon 32",
+            "Dragon 64",
+            "Dragon 32-64"
+        ],
+        "tgdb": [
             "Dragon 32\/64"
         ],
         "mame": [
-            "Dragon 32\/64"
+            "Dragon 32\/64",
+            "Dragon 32\/64 cassettes"
         ],
         "oldcomputers": [
             "Dragon Data Ltd Dragon 32"
         ],
         "screenscraper": [
             "Dragon 32\/64"
-        ]
-    },
-    "Dragon DOS": {
-        "mame": [
-            "Dragon DOS"
         ]
     },
     "Dragon Data Dragon": {
@@ -1433,15 +1424,12 @@
             "Dragon Data Dragon Beta"
         ],
         "launchbox": [
-            "Dragon 32\/64"
+            "Dragon"
         ],
         "mame": [
             "Dragon",
             "Dragon Alpha (Professional)",
             "Dragon Beta"
-        ],
-        "screenscraper": [
-            "Dragon 32\/64"
         ]
     },
     "Dragon FLEX": {
@@ -2797,9 +2785,6 @@
         ],
         "mame": [
             "MSX1"
-        ],
-        "screenscraper": [
-            "Microsoft MSX Turbo R"
         ]
     },
     "Microsoft MSX Turbo-R": {
@@ -2808,6 +2793,9 @@
         ],
         "tosec": [
             "MSX TurboR"
+        ],
+        "screenscraper": [
+            "Microsoft MSX Turbo R"
         ]
     },
     "Microsoft MSX2": {
@@ -3221,10 +3209,10 @@
     },
     "Nintendo DSi": {
         "launchbox": [
-            "Nintendo DS"
+            "Nintendo DSi"
         ],
         "screenscraper": [
-            "Nintendo Nintendo DS"
+            "Nintendo Nintendo DSi"
         ]
     },
     "Nintendo Entertainment System": {
@@ -3257,14 +3245,13 @@
             "Nintendo Family Computer Disk System"
         ],
         "launchbox": [
-            "Nintendo Famicom Disk System",
-            "Nintendo Entertainment System"
+            "Nintendo Famicom Disk System"
         ],
         "tosec": [
             "Nintendo Famicom Disk System"
         ],
         "screenscraper": [
-            "Nintendo NES"
+            "Nintendo Famicom"
         ]
     },
     "Nintendo Game & Watch": {
