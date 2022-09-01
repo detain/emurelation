@@ -17,12 +17,12 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | File | Description |
 |-|-|
-| sources.json | list of sources |
-| sources/local.json | local platform list with maches to the other sources |
-| sources/*.json | each sources list of ids+names |
-| matches/*.json | old matching files, will be phased out |
-| linker.json | old matching file, will be phased out |
-| platforms.json | old matching file, will be phased out |
+| [sources.json](sources.json) | list of sources |
+| [sources/local.json](sources/local.json) | local platform list with maches to the other sources |
+| [sources/*.json](sources/) | each sources list of ids+names |
+| [matches/*.json](matches/) | old matching files, will be phased out |
+| [linker.json](linker.json) | old matching file, will be phased out |
+| [platforms.json](platforms.json) | old matching file, will be phased out |
 
 ## 🗺 Supported Mapping
 
