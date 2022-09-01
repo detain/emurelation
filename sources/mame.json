@@ -856,6 +856,14 @@
                 "MSX2"
             ]
         },
+        "msx2_cart": {
+            "id": "msx2_cart",
+            "shortName": "msx2_cart",
+            "name": "MSX2 cartridges",
+            "altNames": [
+                "MSX2"
+            ]
+        },
         "msx2_flop": {
             "id": "msx2_flop",
             "shortName": "msx2_flop",
@@ -870,14 +878,6 @@
             "name": "MSX1 disk images",
             "altNames": [
                 "MSX1"
-            ]
-        },
-        "msx2_cart": {
-            "id": "msx2_cart",
-            "shortName": "msx2_cart",
-            "name": "MSX2 cartridges",
-            "altNames": [
-                "MSX2"
             ]
         },
         "cbm2_cart": {
@@ -1534,6 +1534,14 @@
             "name": "DAI Personal Computer cassettes",
             "altNames": [
                 "DAI Personal Computer"
+            ]
+        },
+        "kpython2": {
+            "id": "kpython2",
+            "shortName": "kpython2",
+            "name": "Python 2 upgrade DVD-ROM images",
+            "altNames": [
+                "Python 2 upgrade DVD-"
             ]
         },
         "database": {
@@ -2499,7 +2507,7 @@
         "intellect02": {
             "id": "intellect02",
             "shortName": "intellect02",
-            "name": "Intellect-02 Cartridges",
+            "name": "Intellect-02 cartridges",
             "altNames": [
                 "Intellect-02"
             ]
@@ -2792,12 +2800,20 @@
                 "Sinclair ZX81"
             ]
         },
-        "lantutor": {
-            "id": "lantutor",
-            "shortName": "lantutor",
-            "name": "Language Tutor modules",
+        "lanteach": {
+            "id": "lanteach",
+            "shortName": "lanteach",
+            "name": "Language Teacher modules",
             "altNames": [
-                "Language Tutor"
+                "Language Teacher"
+            ]
+        },
+        "lantrans": {
+            "id": "lantrans",
+            "shortName": "lantrans",
+            "name": "Language Translator modules",
+            "altNames": [
+                "Language Translator"
             ]
         },
         "vtech2_cass": {
@@ -3366,6 +3382,14 @@
             "name": "Sharp MZ-700 cassettes",
             "altNames": [
                 "Sharp MZ-700"
+            ]
+        },
+        "nuon": {
+            "id": "nuon",
+            "shortName": "nuon",
+            "name": "NUON DVD-ROMs",
+            "altNames": [
+                "NUON DVD-"
             ]
         },
         "n64": {
@@ -4774,6 +4798,14 @@
             "name": "Timex Sinclair TS-2068 DOCK cartridges",
             "altNames": [
                 "Timex Sinclair TS-2068 DOCK"
+            ]
+        },
+        "tsconf_betadisc_flop": {
+            "id": "tsconf_betadisc_flop",
+            "shortName": "tsconf_betadisc_flop",
+            "name": "TS-Configuration Beta Disc / TR-DOS disk images",
+            "altNames": [
+                "TS-Configuration"
             ]
         },
         "ttwist_brainquest_cart": {
