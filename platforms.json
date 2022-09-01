@@ -314,7 +314,7 @@
             "Apogee BK-01"
         ]
     },
-    "Apple 1": {
+    "Apple I": {
         "tosec": [
             "Apple 1"
         ],
@@ -323,6 +323,9 @@
         ],
         "screenscraper": [
             "Apple Apple I"
+        ],
+        "oldcomputers": [
+            "APPLE 1"
         ]
     },
     "Apple II": {
@@ -2709,6 +2712,9 @@
         ]
     },
     "Memorex Video Information System": {
+        "tgdb": [
+            "Tandy Visual Interactive System"
+        ],
         "tosec": [
             "Memorex Video Information System"
         ],
@@ -4898,11 +4904,6 @@
     "Tandy Radio Shack Tandy 2000": {
         "mame": [
             "Tandy 2000"
-        ]
-    },
-    "Tandy Radio Shack Visual Interactive System": {
-        "tgdb": [
-            "Tandy Visual Interactive System"
         ]
     },
     "Tangerine Microtan 65": {

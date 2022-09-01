@@ -756,9 +756,9 @@
                 ]
             }
         },
-        "Apple 1": {
-            "id": "Apple 1",
-            "name": "Apple 1",
+        "Apple I": {
+            "id": "Apple I",
+            "name": "Apple I",
             "matches": {
                 "tosec": [
                     "Apple 1 - Applications",
@@ -770,13 +770,10 @@
                 "tosecpix": [
                     "Apple 1 - Catalogs",
                     "Apple 1 - Manuals - Hardware"
-                ]
-            }
-        },
-        "Apple I": {
-            "id": "Apple I",
-            "name": "Apple I",
-            "matches": {
+                ],
+                "oldcomputers": [
+                    67
+                ],
                 "nointro": [
                     "Apple - I (Tapes)"
                 ]
@@ -938,6 +935,11 @@
                     "Apple IIGS - Games - [PO]",
                     "Apple IIGS - Operating Systems",
                     "Apple IIGS - Sources"
+                ],
+                "mame": [
+                    "apple2gs_flop_clcracked",
+                    "apple2gs_flop_orig",
+                    "apple2gs_flop_misc"
                 ],
                 "tosecpix": [
                     "Apple IIGS - Books",
@@ -6776,7 +6778,8 @@
                     "LeapFrog Leapster - Educational"
                 ],
                 "mame": [
-                    "leapster"
+                    "leapster",
+                    "leapster_explorer_cart"
                 ]
             }
         },
@@ -7266,6 +7269,12 @@
             "id": "Memorex Video Information System",
             "name": "Memorex Video Information System",
             "matches": {
+                "tgdb": [
+                    4982
+                ],
+                "mame": [
+                    "vis"
+                ],
                 "redump": [
                     "Memorex - Visual Information System"
                 ],
@@ -7867,6 +7876,11 @@
                     "NEC PC-8001 - Games - [CMT]",
                     "NEC PC-8001 - Games - [D88]",
                     "NEC PC-8001 - Games - [WAV]"
+                ],
+                "mame": [
+                    "pc8001_flop",
+                    "pc8001mk2_flop",
+                    "pc8001mk2sr_flop"
                 ]
             }
         },
@@ -8007,7 +8021,8 @@
             "name": "NEC PC-Engine",
             "matches": {
                 "mame": [
-                    "pce"
+                    "pce",
+                    "pce_tourvision"
                 ]
             }
         },
@@ -11703,6 +11718,12 @@
             "name": "Takara e-kara",
             "matches": {
                 "mame": [
+                    "ekara_japan_g",
+                    "ekara_japan_s",
+                    "ekara_japan_m",
+                    "ekara_japan_d",
+                    "ekara_japan_sp",
+                    "ekara_japan_gk",
                     "ekara_us",
                     "ekara_pal",
                     "ekara_japan_web",
@@ -11759,6 +11780,9 @@
                     91
                 ],
                 "mame": [
+                    "trs80_cass",
+                    "trs80_quik",
+                    "trs80_flop",
                     "coco_cart",
                     "coco_flop"
                 ],
@@ -11863,15 +11887,6 @@
             "matches": {
                 "mame": [
                     "tandy2k"
-                ]
-            }
-        },
-        "Tandy Radio Shack Visual Interactive System": {
-            "id": "Tandy Radio Shack Visual Interactive System",
-            "name": "Tandy Radio Shack Visual Interactive System",
-            "matches": {
-                "tgdb": [
-                    4982
                 ]
             }
         },

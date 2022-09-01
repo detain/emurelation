@@ -31,9 +31,9 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [LaunchBox](sources/launchbox.json) | Frontend | 183 | 0 | 183 | 100% |
-| [MAME](sources/mame.json) | Emulator | 600 | 60 | 660 | 90.9% |
+| [MAME](sources/mame.json) | Emulator | 618 | 42 | 660 | 93.6% |
 | [No-Intro](sources/nointro.json) | DAT | 246 | 38 | 284 | 86.6% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 110 | 1176 | 1286 | 8.6% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 111 | 1175 | 1286 | 8.6% |
 | [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
 | [ScreenScraper](sources/screenscraper.json) | API | 148 | 77 | 225 | 65.8% |
 | [TheGamesDB](sources/tgdb.json) | API | 133 | 14 | 147 | 90.5% |

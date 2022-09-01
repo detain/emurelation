@@ -358,7 +358,7 @@
             "Apogee BK-01 cassettes"
         ]
     },
-    "Apple 1": {
+    "Apple I": {
         "tosec": [
             "Apple 1"
         ],
@@ -366,7 +366,6 @@
             "Apple 1 cassettes"
         ]
     },
-    "Apple I": [],
     "Apple II": {
         "launchbox": [
             "Apple II"
@@ -400,7 +399,10 @@
             "Apple IIGS"
         ],
         "mame": [
-            "Apple IIgs 3.5 disks"
+            "Apple IIgs 3.5 disks",
+            "apple2gs_flop_clcracked",
+            "apple2gs_flop_orig",
+            "apple2gs_flop_misc"
         ]
     },
     "Apple III": {
@@ -2739,7 +2741,8 @@
             "LeapFrog Leapster"
         ],
         "mame": [
-            "LeapFrog Leapster cartridges"
+            "LeapFrog Leapster cartridges",
+            "leapster_explorer_cart"
         ]
     },
     "LeapFrog Little Touch LeapPad": {
@@ -2998,6 +3001,12 @@
         ]
     },
     "Memorex Video Information System": {
+        "tgdb": [
+            "Tandy Visual Interactive System"
+        ],
+        "mame": [
+            "vis"
+        ],
         "tosec": [
             "Memorex Video Information System"
         ],
@@ -3312,6 +3321,11 @@
     "NEC PC-8001": {
         "tosec": [
             "NEC PC-8001"
+        ],
+        "mame": [
+            "pc8001_flop",
+            "pc8001mk2_flop",
+            "pc8001mk2sr_flop"
         ]
     },
     "NEC PC-8201": {
@@ -3381,7 +3395,8 @@
     },
     "NEC PC-Engine": {
         "mame": [
-            "NEC PC-Engine cartridges"
+            "NEC PC-Engine cartridges",
+            "pce_tourvision"
         ]
     },
     "NEC PC-Engine & TurboGrafx-16": {
@@ -5337,6 +5352,12 @@
     },
     "Takara e-kara": {
         "mame": [
+            "ekara_japan_g",
+            "ekara_japan_s",
+            "ekara_japan_m",
+            "ekara_japan_d",
+            "ekara_japan_sp",
+            "ekara_japan_gk",
             "Takara e-kara (US) cartridges",
             "Takara e-kara (UK/Europe, PAL) cartridges",
             "Takara e-kara (Japan) Web cartridges",
@@ -5382,6 +5403,9 @@
             "Tandy Radio Shack Color Computer"
         ],
         "mame": [
+            "trs80_cass",
+            "trs80_quik",
+            "trs80_flop",
             "Tandy Radio Shack Color Computer cartridges",
             "Tandy Radio Shack Color Computer disk images"
         ]
@@ -5435,11 +5459,6 @@
     "Tandy Radio Shack Tandy 2000": {
         "mame": [
             "Tandy 2000 disk images"
-        ]
-    },
-    "Tandy Radio Shack Visual Interactive System": {
-        "tgdb": [
-            "Tandy Visual Interactive System"
         ]
     },
     "Tangerine Microtan 65": {
