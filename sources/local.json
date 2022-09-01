@@ -3109,8 +3109,8 @@
                     "Commodore Amiga - CD - Operating Systems - [ISO]"
                 ],
                 "screenscraper": [
-                    111,
-                    64
+                    64,
+                    111
                 ]
             }
         },
@@ -3208,8 +3208,8 @@
                     "cd32"
                 ],
                 "screenscraper": [
-                    139,
-                    130
+                    130,
+                    139
                 ]
             }
         },
@@ -5355,6 +5355,9 @@
                 ],
                 "tosec": [
                     "Funtech Super A'can - Games"
+                ],
+                "screenscraper": [
+                    100
                 ]
             }
         },
@@ -10353,8 +10356,8 @@
                     "Sega Mega Drive & Genesis - Video"
                 ],
                 "screenscraper": [
-                    203,
-                    1
+                    1,
+                    203
                 ]
             }
         },
@@ -11497,7 +11500,8 @@
                     "Sony PlayStation Portable - Homebrew - Games - [ISO]"
                 ],
                 "screenscraper": [
-                    61
+                    61,
+                    172
                 ]
             }
         },
