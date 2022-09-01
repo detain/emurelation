@@ -1,7 +1,8 @@
 # Emu⬅re➡lation
 
-Emu⬅re➡lation is project with 1 simple purpose; to provide a mapping in JSON format of platforms, emulators, and related inforamtion accross different sources.  There are several varied naming conventions used and many different programs and sites and this aims to allow you an easy way to convert or map the data from one type to another.
+Emu⬅re➡lation is project with 1 simple purpose; to provide a mapping of platforms, emulators, and games between varied sources in a easy to use JSON format.  There are many websites, programs, etc relating to emulation and many use entirely different names for the same thing.   This disparity adds difficulty to both the end user trying to play a game and developers.  We all have to deal with this in one way or another, and my goal with this project is to simplify and standardize that process.
 
+The mapping data will consist of IDs and names while intentionally avoiding data or content beyond that such as descriptions and images.  This is to avoid any of the sources we are linking from feeling like we are stealing thier data or circumventing them.  I hope to make everyones life a little easier, eventually.   The project is still in early stages and not really ready for use yet.
 
 ## Status
 
