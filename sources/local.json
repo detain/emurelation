@@ -197,6 +197,10 @@
                 [
                     "nointro",
                     "APF - Imagination Machine"
+                ],
+                [
+                    "nointro",
+                    "APF - MP-1000"
                 ]
             ]
         },
@@ -474,6 +478,10 @@
                 [
                     "screenscraper",
                     36
+                ],
+                [
+                    "tgdb",
+                    5014
                 ]
             ]
         },
@@ -652,6 +660,10 @@
                 [
                     "tosecpix",
                     "Acorn BBC - Manuals - Technical"
+                ],
+                [
+                    "tgdb",
+                    5013
                 ]
             ]
         },
@@ -1114,6 +1126,26 @@
                 [
                     "screenscraper",
                     65
+                ],
+                [
+                    "tosecpix",
+                    "Amstrad - Magazines - Amstrad Action"
+                ],
+                [
+                    "tosecpix",
+                    "Amstrad - Magazines - Amstrad Semanal (ES)"
+                ],
+                [
+                    "tosecpix",
+                    "Amstrad - Magazines - Amtix"
+                ],
+                [
+                    "tosecpix",
+                    "Amstrad - Magazines - Mundo Amstrad (ES)"
+                ],
+                [
+                    "tosecpix",
+                    "Amstrad - Manuals - Hardware"
                 ]
             ]
         },
@@ -1158,6 +1190,10 @@
                 [
                     "screenscraper",
                     87
+                ],
+                [
+                    "tgdb",
+                    4999
                 ]
             ]
         },
@@ -2002,6 +2038,14 @@
                 [
                     "nointro",
                     "Apple - Macintosh (WOZ)"
+                ],
+                [
+                    "mame",
+                    "mac_hdflop"
+                ],
+                [
+                    "screenscraper",
+                    146
                 ]
             ]
         },
@@ -2166,6 +2210,78 @@
                 [
                     "screenscraper",
                     26
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Comics - Atari Force"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Comics - Various"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - ANALOG Computing"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - ATARI News (IT)"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Antic the ATARI Resource"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Atari Age"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Atari Club (DE)"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Atari Connection"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Atari Explorer"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Atari User (GB)"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - AtariUser"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Atarian"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Input Output"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - L'Atarien (FR)"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - La rivista di ATARI (IT)"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - New Atari User"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Magazines - Winning at Videogames"
+                ],
+                [
+                    "tosecpix",
+                    "Atari - Newsletters - Atari Age"
                 ]
             ]
         },
@@ -2516,6 +2632,10 @@
                 [
                     "screenscraper",
                     43
+                ],
+                [
+                    "oldcomputers",
+                    54
                 ]
             ]
         },
@@ -2680,6 +2800,10 @@
                 [
                     "screenscraper",
                     171
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Atari - Atari Jaguar CD"
                 ]
             ]
         },
@@ -2752,6 +2876,14 @@
                 [
                     "oldcomputers",
                     77
+                ],
+                [
+                    "oldcomputers",
+                    1271
+                ],
+                [
+                    "oldcomputers",
+                    1346
                 ]
             ]
         },
@@ -3080,6 +3212,10 @@
                 [
                     "mame",
                     "bbcbc"
+                ],
+                [
+                    "tgdb",
+                    4997
                 ]
             ]
         },
@@ -3218,6 +3354,22 @@
                 [
                     "tosecpix",
                     "Bally Professional Arcade & Astrocade - Manuals - Hardware"
+                ],
+                [
+                    "nointro",
+                    "Bally - Astrocade"
+                ],
+                [
+                    "nointro",
+                    "Bally - Astrocade (Tapes) (BIN)"
+                ],
+                [
+                    "nointro",
+                    "Bally - Astrocade (Tapes) (WAV)"
+                ],
+                [
+                    "screenscraper",
+                    44
                 ]
             ]
         },
@@ -3264,6 +3416,14 @@
                 [
                     "toseciso",
                     "Bandai Pippin @World & Pippin Atmark - Multimedia"
+                ],
+                [
+                    "nointro",
+                    "Apple-Bandai - Pippin (Floppies)"
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Apple-Bandai - Pippin"
                 ]
             ]
         },
@@ -3302,6 +3462,10 @@
                 [
                     "toseciso",
                     "Bandai Playdia - Games - [ISO]"
+                ],
+                [
+                    "tgdb",
+                    5000
                 ]
             ]
         },
@@ -3476,6 +3640,10 @@
                 [
                     "nointro",
                     "Bit Corporation - Gamate"
+                ],
+                [
+                    "tgdb",
+                    5004
                 ]
             ]
         },
@@ -3746,6 +3914,10 @@
                 [
                     "screenscraper",
                     98
+                ],
+                [
+                    "tgdb",
+                    4991
                 ]
             ]
         },
@@ -4006,6 +4178,10 @@
                 [
                     "screenscraper",
                     89
+                ],
+                [
+                    "oldcomputers",
+                    1344
                 ]
             ]
         },
@@ -4084,6 +4260,14 @@
                 [
                     "tosecpix",
                     "Coleco ColecoVision - Overlays - Games"
+                ],
+                [
+                    "screenscraper",
+                    48
+                ],
+                [
+                    "screenscraper",
+                    183
                 ]
             ]
         },
@@ -5846,6 +6030,166 @@
                 [
                     "screenscraper",
                     66
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Commercials - Hardware"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Ahoy!"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - COMPUTE!'s Gazette"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Club Commodore (ES)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commander"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore (IT)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Computer Club (IT)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Computing International"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Disk User"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Fan Gazette (IT)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Gazette (IT)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Horizons"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Magazine (AU)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Magazine"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Microcomputers"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore Power-Play"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Commodore World"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Conoscere il Computer direttamente dal computer (IT)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Dream (FR)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Go Games (IT)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Guide to Computer Living"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - IC RUN (DK)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Info"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - RUN"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Re-RUN"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Transactor"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Your 64"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Your Commodore"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - Zzap!"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - dieHard"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - geoVision International"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Magazines - geoWorld Magazine"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Newsletters - A.C.E.S."
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Newsletters - Berkeley GEOS News"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Newsletters - CHUG Gazette"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Newsletters - CPU"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Newsletters - Eight Bit Bosters"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Newsletters - Feedback (AU)"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Newsletters - geoJournal"
+                ],
+                [
+                    "tosecpix",
+                    "Commodore - Newsletters - geoNews"
                 ]
             ]
         },
@@ -8926,6 +9270,10 @@
                 [
                     "screenscraper",
                     240
+                ],
+                [
+                    "tgdb",
+                    5008
                 ]
             ]
         },
@@ -9072,6 +9420,14 @@
                 [
                     "tosecpix",
                     "Commodore C16, C116 & Plus-4 - Newsletters - Plus Exchange"
+                ],
+                [
+                    "screenscraper",
+                    99
+                ],
+                [
+                    "tgdb",
+                    5007
                 ]
             ]
         },
@@ -9440,6 +9796,14 @@
                 [
                     "tgdb",
                     4948
+                ],
+                [
+                    "nointro",
+                    "Welback - Mega Duck"
+                ],
+                [
+                    "screenscraper",
+                    90
                 ]
             ]
         },
@@ -9820,6 +10184,10 @@
                 [
                     "screenscraper",
                     91
+                ],
+                [
+                    "oldcomputers",
+                    503
                 ]
             ]
         },
@@ -11457,6 +11825,14 @@
                 [
                     "tosec",
                     "Game Park GP32 - Games - [SMC]"
+                ],
+                [
+                    "screenscraper",
+                    101
+                ],
+                [
+                    "tgdb",
+                    5015
                 ]
             ]
         },
@@ -11471,6 +11847,22 @@
                 [
                     "tgdb",
                     4916
+                ],
+                [
+                    "nointro",
+                    "Google - Android (Amazon Appstore)"
+                ],
+                [
+                    "nointro",
+                    "Google - Android (Misc)"
+                ],
+                [
+                    "nointro",
+                    "Google - Android (Samsung Galaxy Apps)"
+                ],
+                [
+                    "screenscraper",
+                    63
                 ]
             ]
         },
@@ -11557,6 +11949,10 @@
                 [
                     "launchbox",
                     "Linux"
+                ],
+                [
+                    "screenscraper",
+                    145
                 ]
             ]
         },
@@ -11577,6 +11973,10 @@
                 [
                     "launchbox",
                     "OpenBOR"
+                ],
+                [
+                    "screenscraper",
+                    214
                 ]
             ]
         },
@@ -11655,6 +12055,10 @@
                 [
                     "mame",
                     "phc25_cass"
+                ],
+                [
+                    "oldcomputers",
+                    192
                 ]
             ]
         },
@@ -11685,6 +12089,10 @@
                 [
                     "launchbox",
                     "Pinball"
+                ],
+                [
+                    "screenscraper",
+                    197
                 ]
             ]
         },
@@ -11735,6 +12143,10 @@
                 [
                     "launchbox",
                     "ScummVM"
+                ],
+                [
+                    "screenscraper",
+                    123
                 ]
             ]
         },
@@ -11837,6 +12249,14 @@
                 [
                     "mame",
                     "rx78_cass"
+                ],
+                [
+                    "nointro",
+                    "Bandai - Gundam RX-78"
+                ],
+                [
+                    "tosec",
+                    "Bandai Gundam RX-78 - Games"
                 ]
             ]
         },
@@ -12035,6 +12455,10 @@
                 [
                     "mame",
                     "hp85_rom"
+                ],
+                [
+                    "oldcomputers",
+                    353
                 ]
             ]
         },
@@ -12835,6 +13259,10 @@
                 [
                     "toseciso",
                     "Incredible Technologies Eagle - CD - Games"
+                ],
+                [
+                    "oldcomputers",
+                    526
                 ]
             ]
         },
@@ -12913,6 +13341,10 @@
                 [
                     "nointro",
                     "Interton - VC 4000"
+                ],
+                [
+                    "tgdb",
+                    4994
                 ]
             ]
         },
@@ -13167,6 +13599,14 @@
                 [
                     "tosecpix",
                     "Jupiter Cantab Jupiter Ace - Manuals - Hardware"
+                ],
+                [
+                    "oldcomputers",
+                    147
+                ],
+                [
+                    "screenscraper",
+                    126
                 ]
             ]
         },
@@ -13686,6 +14126,18 @@
                 [
                     "tosec",
                     "MGT Sam Coupe - Magazines - [SAD]"
+                ],
+                [
+                    "mame",
+                    "samcoupe_cass"
+                ],
+                [
+                    "mame",
+                    "samcoupe_flop"
+                ],
+                [
+                    "screenscraper",
+                    213
                 ]
             ]
         },
@@ -13794,6 +14246,10 @@
                 [
                     "tosecpix",
                     "Magnavox Odyssey - Manuals - Software"
+                ],
+                [
+                    "oldcomputers",
+                    883
                 ]
             ]
         },
@@ -13860,6 +14316,10 @@
                 [
                     "screenscraper",
                     104
+                ],
+                [
+                    "oldcomputers",
+                    1080
                 ]
             ]
         },
@@ -13968,6 +14428,10 @@
                 [
                     "mame",
                     "aquarius_cass"
+                ],
+                [
+                    "tgdb",
+                    4989
                 ]
             ]
         },
@@ -14012,6 +14476,10 @@
                 [
                     "toseciso",
                     "Mattel HyperScan - Games"
+                ],
+                [
+                    "tgdb",
+                    4987
                 ]
             ]
         },
@@ -14600,6 +15068,14 @@
                 [
                     "tosecpix",
                     "MSX - Magazines - MSX-FAN (JP)"
+                ],
+                [
+                    "oldcomputers",
+                    291
+                ],
+                [
+                    "screenscraper",
+                    113
                 ]
             ]
         },
@@ -14638,6 +15114,10 @@
                 [
                     "screenscraper",
                     118
+                ],
+                [
+                    "oldcomputers",
+                    290
                 ]
             ]
         },
@@ -14820,6 +15300,10 @@
                 [
                     "screenscraper",
                     32
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Microsoft - Xbox"
                 ]
             ]
         },
@@ -14942,6 +15426,10 @@
                 [
                     "tgdb",
                     4981
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Microsoft - Xbox Series X"
                 ]
             ]
         },
@@ -15222,6 +15710,14 @@
                 [
                     "tgdb",
                     4933
+                ],
+                [
+                    "nointro",
+                    "NEC - PC-88 (Flux)"
+                ],
+                [
+                    "nointro",
+                    "NEC - PC-88 (KryoFlux)"
                 ]
             ]
         },
@@ -15312,6 +15808,26 @@
                 [
                     "tgdb",
                     4934
+                ],
+                [
+                    "nointro",
+                    "NEC - PC-98"
+                ],
+                [
+                    "nointro",
+                    "NEC - PC-98 (Flux)"
+                ],
+                [
+                    "nointro",
+                    "NEC - PC-98 (Greaseweazle)"
+                ],
+                [
+                    "nointro",
+                    "NEC - PC-98 (HardDisk)"
+                ],
+                [
+                    "nointro",
+                    "NEC - PC-98 (Uncategorized)"
                 ]
             ]
         },
@@ -15576,6 +16092,10 @@
                 [
                     "oldcomputers",
                     1231
+                ],
+                [
+                    "screenscraper",
+                    31
                 ]
             ]
         },
@@ -16130,6 +16650,78 @@
                 [
                     "screenscraper",
                     3
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Books"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Commercials - Games"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Club Nintendo (DE)"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Club Nintendo (GB)"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Club Nintendo (NL)"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - N-Force"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Nintendo Gamer (AU)"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Nintendo Gamer (GB)"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Nintendo Magazine"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Nintendo Magazine System (AU)"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Nintendo Magazine System (GB)"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Nintendo Official Magazine"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Nintendo Power"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - NintendoAGE"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Official Nintendo Magazine"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Planet Game Boy"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Magazines - Total!"
+                ],
+                [
+                    "tosecpix",
+                    "Nintendo - Video"
                 ]
             ]
         },
@@ -16264,6 +16856,10 @@
                 [
                     "screenscraper",
                     9
+                ],
+                [
+                    "screenscraper",
+                    127
                 ]
             ]
         },
@@ -16422,6 +17018,18 @@
                 [
                     "screenscraper",
                     13
+                ],
+                [
+                    "nointro",
+                    "Nintendo - Nintendo GameCube (NPDP Carts)"
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Nintendo - Nintendo GameCube"
+                ],
+                [
+                    "nointro",
+                    "Source Code - Nintendo - Nintendo GameCube"
                 ]
             ]
         },
@@ -16510,6 +17118,10 @@
                 [
                     "tosec",
                     "Nintendo Sufami Turbo - Games"
+                ],
+                [
+                    "screenscraper",
+                    108
                 ]
             ]
         },
@@ -16590,6 +17202,10 @@
                 [
                     "mame",
                     "snes"
+                ],
+                [
+                    "screenscraper",
+                    4
                 ]
             ]
         },
@@ -17042,6 +17658,10 @@
                 [
                     "tgdb",
                     4921
+                ],
+                [
+                    "nointro",
+                    "Ouya - Ouya"
                 ]
             ]
         },
@@ -17284,6 +17904,10 @@
                 [
                     "screenscraper",
                     29
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Panasonic - 3DO Interactive Multiplayer"
                 ]
             ]
         },
@@ -17470,6 +18094,10 @@
                 [
                     "mame",
                     "vg5k"
+                ],
+                [
+                    "oldcomputers",
+                    1073
                 ]
             ]
         },
@@ -17940,6 +18568,10 @@
                 [
                     "screenscraper",
                     142
+                ],
+                [
+                    "tosec",
+                    "SNK Neo-Geo - Games"
                 ]
             ]
         },
@@ -18984,6 +19616,10 @@
                 [
                     "tosecpix",
                     "Sega Mark III & Master System - Manuals - Hardware"
+                ],
+                [
+                    "screenscraper",
+                    2
                 ]
             ]
         },
@@ -19150,6 +19786,10 @@
                 [
                     "tosecpix",
                     "Sega Pico - Manuals - Games"
+                ],
+                [
+                    "screenscraper",
+                    250
                 ]
             ]
         },
@@ -19328,6 +19968,10 @@
                 [
                     "screenscraper",
                     22
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Sega - Sega Saturn"
                 ]
             ]
         },
@@ -19488,6 +20132,10 @@
                 [
                     "mame",
                     "mz2200_cass"
+                ],
+                [
+                    "nointro",
+                    "Sharp - MZ-2200 (Waveform)"
                 ]
             ]
         },
@@ -19536,6 +20184,10 @@
                 [
                     "mame",
                     "mz700_cass"
+                ],
+                [
+                    "nointro",
+                    "Sharp - MZ-700 (Waveform)"
                 ]
             ]
         },
@@ -20514,6 +21166,10 @@
                 [
                     "toseciso",
                     "Sinclair ZX Spectrum - CD - Compilations"
+                ],
+                [
+                    "screenscraper",
+                    76
                 ]
             ]
         },
@@ -20554,6 +21210,14 @@
                 [
                     "mame",
                     "zx80_cass"
+                ],
+                [
+                    "tgdb",
+                    5009
+                ],
+                [
+                    "tosec",
+                    "Sinclair ZX80 - Games"
                 ]
             ]
         },
@@ -20596,6 +21260,10 @@
                 [
                     "screenscraper",
                     77
+                ],
+                [
+                    "tgdb",
+                    5010
                 ]
             ]
         },
@@ -20730,6 +21398,14 @@
                 [
                     "screenscraper",
                     57
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Sony - PlayStation"
+                ],
+                [
+                    "nointro",
+                    "Sony - PlayStation (PS one Classics) (PSN)"
                 ]
             ]
         },
@@ -20776,6 +21452,10 @@
                 [
                     "screenscraper",
                     58
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - Sony - PlayStation 2"
                 ]
             ]
         },
@@ -20856,6 +21536,10 @@
                 [
                     "tosecpix",
                     "Sony PlayStation 4 - Commercials - Hardware"
+                ],
+                [
+                    "screenscraper",
+                    60
                 ]
             ]
         },
@@ -20986,6 +21670,10 @@
                 [
                     "screenscraper",
                     62
+                ],
+                [
+                    "tosec",
+                    "Sony PlayStation Vita - Homebrew - Games"
                 ]
             ]
         },
@@ -21124,6 +21812,10 @@
                 [
                     "launchbox",
                     "Spectravideo"
+                ],
+                [
+                    "screenscraper",
+                    218
                 ]
             ]
         },
@@ -21348,6 +22040,10 @@
                 [
                     "tosecpix",
                     "Tandy Radio Shack TRS-80 Color Computer - Manuals - Software"
+                ],
+                [
+                    "screenscraper",
+                    144
                 ]
             ]
         },
@@ -21590,6 +22286,10 @@
                 [
                     "launchbox",
                     "Tapwave Zodiac"
+                ],
+                [
+                    "tgdb",
+                    5017
                 ]
             ]
         },
@@ -21674,6 +22374,10 @@
                 [
                     "tosecpix",
                     "Technosys Aamber Pegasus - Manuals - Technical"
+                ],
+                [
+                    "screenscraper",
+                    83
                 ]
             ]
         },
@@ -21820,6 +22524,10 @@
                 [
                     "oldcomputers",
                     358
+                ],
+                [
+                    "nointro",
+                    "TeleNova - Compis (Flux)"
                 ]
             ]
         },
@@ -22198,6 +22906,14 @@
                 [
                     "tosecpix",
                     "Texas Instruments TI-99 4A - Manuals - Hardware"
+                ],
+                [
+                    "nointro",
+                    "Texas Instruments - TI-99-4A (A2R)"
+                ],
+                [
+                    "screenscraper",
+                    205
                 ]
             ]
         },
@@ -22586,6 +23302,10 @@
                 [
                     "tgdb",
                     4940
+                ],
+                [
+                    "screenscraper",
+                    121
                 ]
             ]
         },
@@ -22827,6 +23547,14 @@
                 [
                     "tosec",
                     "Toshiba Pasopia - Games - [WAV]"
+                ],
+                [
+                    "nointro",
+                    "Toshiba - Pasopia (BIN)"
+                ],
+                [
+                    "nointro",
+                    "Toshiba - Pasopia (WAV)"
                 ]
             ]
         },
@@ -23040,6 +23768,14 @@
                 [
                     "toseciso",
                     "VM Labs Nuon - Games"
+                ],
+                [
+                    "nointro",
+                    "Source Code - VM Labs - NUON"
+                ],
+                [
+                    "nointro",
+                    "VM Labs - NUON (Digital)"
                 ]
             ]
         },
@@ -23070,6 +23806,14 @@
                 [
                     "tosec",
                     "VTech Laser 2001 & CreatiVision - Games"
+                ],
+                [
+                    "screenscraper",
+                    241
+                ],
+                [
+                    "tgdb",
+                    5005
                 ]
             ]
         },
@@ -23295,6 +24039,10 @@
                 [
                     "mame",
                     "mobigo_cart"
+                ],
+                [
+                    "nointro",
+                    "VTech - Mobigo"
                 ]
             ]
         },
@@ -23319,6 +24067,10 @@
                 [
                     "mame",
                     "socrates"
+                ],
+                [
+                    "tgdb",
+                    4998
                 ]
             ]
         },
@@ -23383,6 +24135,10 @@
                 [
                     "screenscraper",
                     120
+                ],
+                [
+                    "tgdb",
+                    4988
                 ]
             ]
         },
@@ -23839,6 +24595,10 @@
                 [
                     "toseciso",
                     "ZAPiT Games Game Wave Family Entertainment System - Games"
+                ],
+                [
+                    "nointro",
+                    "Non-Redump - ZAPiT Games - Game Wave Family Entertainment System"
                 ]
             ]
         },

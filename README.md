@@ -42,9 +42,8 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
 
 ### TODO
 
-- Update matches utilizing new source exports
-- Possibly drop description from source exports
 - Add local platforms for any unmatched nointro/redump/tosec/mame sources
+- Possibly drop description from source exports
 - remove excess local platforms without at least 1 nointro/redump/tosec/mame match
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
 - Setup source exports for
@@ -66,15 +65,15 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
 | Source | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|
 | launchbox | 183 | 0 | 183 | 100% |
-| mame | 597 | 63 | 660 | 90.5% |
-| nointro | 181 | 103 | 284 | 63.7% |
-| oldcomputers | 93 | 1193 | 1286 | 7.2% |
+| mame | 600 | 60 | 660 | 90.9% |
+| nointro | 221 | 63 | 284 | 77.8% |
+| oldcomputers | 107 | 1179 | 1286 | 8.3% |
 | redump | 50 | 1 | 51 | 98% |
-| screenscraper | 116 | 108 | 224 | 51.8% |
-| tgdb | 114 | 33 | 147 | 77.6% |
-| tosec | 2322 | 106 | 2428 | 95.6% |
+| screenscraper | 145 | 79 | 224 | 64.7% |
+| tgdb | 133 | 14 | 147 | 90.5% |
+| tosec | 2326 | 102 | 2428 | 95.8% |
 | toseciso | 241 | 0 | 241 | 100% |
-| tosecpix | 561 | 300 | 861 | 65.2% |
+| tosecpix | 642 | 219 | 861 | 74.6% |
 
 ### Emulators
 
