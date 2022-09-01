@@ -1,5 +1,15 @@
 {
     "platforms": {
+        "8-Bit Productions Commander X16": {
+            "id": "8-Bit Productions Commander X16",
+            "name": "8-Bit Productions Commander X16",
+            "matches": [
+                [
+                    "tosec",
+                    "8-Bit Productions Commander X16 - Games"
+                ]
+            ]
+        },
         "ACT Apricot": {
             "id": "ACT Apricot",
             "name": "ACT Apricot",
@@ -203,6 +213,16 @@
                     "APF - MP-1000"
                 ]
             ]
+        },
+        "APF M-1000": {
+            "id": "APF M-1000",
+            "name": "APF M-1000",
+            "matches": []
+        },
+        "APF MP-1000": {
+            "id": "APF MP-1000",
+            "name": "APF MP-1000",
+            "matches": []
         },
         "APF PeCos One": {
             "id": "APF PeCos One",
@@ -835,6 +855,16 @@
                 ]
             ]
         },
+        "Acorn Risc PC": {
+            "id": "Acorn Risc PC",
+            "name": "Acorn Risc PC",
+            "matches": [
+                [
+                    "nointro",
+                    "Acorn - Risc PC (Pauline)"
+                ]
+            ]
+        },
         "Acorn System 1": {
             "id": "Acorn System 1",
             "name": "Acorn System 1",
@@ -998,6 +1028,11 @@
                     "American Laser Games CD-ROM System - Games"
                 ]
             ]
+        },
+        "American-Laser-Games CD-ROM System": {
+            "id": "American-Laser-Games CD-ROM System",
+            "name": "American-Laser-Games CD-ROM System",
+            "matches": []
         },
         "Amstrad CPC": {
             "id": "Amstrad CPC",
@@ -1207,6 +1242,26 @@
                 ]
             ]
         },
+        "Amstrad NC-100": {
+            "id": "Amstrad NC-100",
+            "name": "Amstrad NC-100",
+            "matches": [
+                [
+                    "tosec",
+                    "Amstrad NC-100 - Games"
+                ]
+            ]
+        },
+        "Amstrad NC-200": {
+            "id": "Amstrad NC-200",
+            "name": "Amstrad NC-200",
+            "matches": [
+                [
+                    "tosec",
+                    "Amstrad NC-200 - Games"
+                ]
+            ]
+        },
         "Amstrad PC1512": {
             "id": "Amstrad PC1512",
             "name": "Amstrad PC1512",
@@ -1304,6 +1359,16 @@
                 [
                     "tosecpix",
                     "Apple 1 - Manuals - Hardware"
+                ]
+            ]
+        },
+        "Apple I": {
+            "id": "Apple I",
+            "name": "Apple I",
+            "matches": [
+                [
+                    "nointro",
+                    "Apple - I (Tapes)"
                 ]
             ]
         },
@@ -1741,6 +1806,20 @@
                 ]
             ]
         },
+        "Apple II Plus": {
+            "id": "Apple II Plus",
+            "name": "Apple II Plus",
+            "matches": [
+                [
+                    "nointro",
+                    "Apple - II Plus (Flux)"
+                ],
+                [
+                    "nointro",
+                    "Apple - II Plus (WOZ)"
+                ]
+            ]
+        },
         "Apple IIGS": {
             "id": "Apple IIGS",
             "name": "Apple IIGS",
@@ -1862,6 +1941,24 @@
                 [
                     "tosecpix",
                     "Apple III - Newsletters - Dimensions"
+                ]
+            ]
+        },
+        "Apple IIe": {
+            "id": "Apple IIe",
+            "name": "Apple IIe",
+            "matches": [
+                [
+                    "nointro",
+                    "Apple - IIe (A2R)"
+                ],
+                [
+                    "nointro",
+                    "Apple - IIe (Kryoflux)"
+                ],
+                [
+                    "nointro",
+                    "Apple - IIe (WOZ)"
                 ]
             ]
         },
@@ -2285,6 +2382,11 @@
                 ]
             ]
         },
+        "Atari 2600 & VCS": {
+            "id": "Atari 2600 & VCS",
+            "name": "Atari 2600 & VCS",
+            "matches": []
+        },
         "Atari 400": {
             "id": "Atari 400",
             "name": "Atari 400",
@@ -2418,6 +2520,24 @@
                 [
                     "screenscraper",
                     41
+                ]
+            ]
+        },
+        "Atari 8-bit Family": {
+            "id": "Atari 8-bit Family",
+            "name": "Atari 8-bit Family",
+            "matches": [
+                [
+                    "nointro",
+                    "Atari - 8-bit Family"
+                ],
+                [
+                    "nointro",
+                    "Atari - 8-bit Family (Kryoflux)"
+                ],
+                [
+                    "nointro",
+                    "Source Code - Atari - 8-bit Family"
                 ]
             ]
         },
@@ -3219,6 +3339,16 @@
                 ]
             ]
         },
+        "BGR Computers Excalibur 64": {
+            "id": "BGR Computers Excalibur 64",
+            "name": "BGR Computers Excalibur 64",
+            "matches": [
+                [
+                    "tosec",
+                    "BGR Computers Excalibur 64 - Games"
+                ]
+            ]
+        },
         "BNPO Bashkiria-2M": {
             "id": "BNPO Bashkiria-2M",
             "name": "BNPO Bashkiria-2M",
@@ -3387,6 +3517,34 @@
                 ]
             ]
         },
+        "Bandai Design Master Denshi Mangajuku": {
+            "id": "Bandai Design Master Denshi Mangajuku",
+            "name": "Bandai Design Master Denshi Mangajuku",
+            "matches": [
+                [
+                    "nointro",
+                    "Bandai - Design Master Denshi Mangajuku"
+                ],
+                [
+                    "tosec",
+                    "Bandai Design Master Denshi Mangajuku - Design Cartridges"
+                ],
+                [
+                    "tosec",
+                    "Bandai Design Master Denshi Mangajuku - Games"
+                ]
+            ]
+        },
+        "Bandai Gundam RX-78": {
+            "id": "Bandai Gundam RX-78",
+            "name": "Bandai Gundam RX-78",
+            "matches": [
+                [
+                    "tosec",
+                    "Bandai Gundam RX-78 - Games"
+                ]
+            ]
+        },
         "Bandai Karaoke Ranking Party": {
             "id": "Bandai Karaoke Ranking Party",
             "name": "Bandai Karaoke Ranking Party",
@@ -3427,6 +3585,21 @@
                 ]
             ]
         },
+        "Bandai Pippin @World & Pippin Atmark": {
+            "id": "Bandai Pippin @World & Pippin Atmark",
+            "name": "Bandai Pippin @World & Pippin Atmark",
+            "matches": []
+        },
+        "Bandai Playdia": {
+            "id": "Bandai Playdia",
+            "name": "Bandai Playdia",
+            "matches": [
+                [
+                    "tgdb",
+                    5000
+                ]
+            ]
+        },
         "Bandai Playdia Quick Interactive System": {
             "id": "Bandai Playdia Quick Interactive System",
             "name": "Bandai Playdia Quick Interactive System",
@@ -3462,10 +3635,6 @@
                 [
                     "toseciso",
                     "Bandai Playdia - Games - [ISO]"
-                ],
-                [
-                    "tgdb",
-                    5000
                 ]
             ]
         },
@@ -3621,6 +3790,36 @@
                 ]
             ]
         },
+        "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC": {
+            "id": "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC",
+            "name": "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC",
+            "matches": [
+                [
+                    "tosec",
+                    "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC - Games"
+                ]
+            ]
+        },
+        "Bernd Huebler Huebler-Grafik-MC": {
+            "id": "Bernd Huebler Huebler-Grafik-MC",
+            "name": "Bernd Huebler Huebler-Grafik-MC",
+            "matches": [
+                [
+                    "tosec",
+                    "Bernd Huebler Huebler-Grafik-MC - Games"
+                ]
+            ]
+        },
+        "Bit Corporation BIT 90": {
+            "id": "Bit Corporation BIT 90",
+            "name": "Bit Corporation BIT 90",
+            "matches": [
+                [
+                    "tosec",
+                    "Bit Corporation BIT 90 - Games"
+                ]
+            ]
+        },
         "Bit Corporation Gamate": {
             "id": "Bit Corporation Gamate",
             "name": "Bit Corporation Gamate",
@@ -3733,6 +3932,20 @@
                 ]
             ]
         },
+        "COMX COMX-35": {
+            "id": "COMX COMX-35",
+            "name": "COMX COMX-35",
+            "matches": [
+                [
+                    "tosec",
+                    "COMX COMX-35 - Demos"
+                ],
+                [
+                    "tosec",
+                    "COMX COMX-35 - Games"
+                ]
+            ]
+        },
         "COMX-35": {
             "id": "COMX-35",
             "name": "COMX-35",
@@ -3750,6 +3963,20 @@
                 [
                     "mame",
                     "buzztime_cart"
+                ]
+            ]
+        },
+        "Cambridge Computer Z88": {
+            "id": "Cambridge Computer Z88",
+            "name": "Cambridge Computer Z88",
+            "matches": [
+                [
+                    "tosec",
+                    "Cambridge Computer Z88 - Games - [63]"
+                ],
+                [
+                    "tosec",
+                    "Cambridge Computer Z88 - Games - [EPR]"
                 ]
             ]
         },
@@ -3863,6 +4090,21 @@
                 ]
             ]
         },
+        "Capcom Capcom Play System 1": {
+            "id": "Capcom Capcom Play System 1",
+            "name": "Capcom Capcom Play System 1",
+            "matches": []
+        },
+        "Capcom Capcom Play System 2": {
+            "id": "Capcom Capcom Play System 2",
+            "name": "Capcom Capcom Play System 2",
+            "matches": [
+                [
+                    "screenscraper",
+                    7
+                ]
+            ]
+        },
         "Casio": {
             "id": "Casio",
             "name": "Casio",
@@ -3880,6 +4122,16 @@
                 [
                     "tosec",
                     "Casio CFX-9850 - Various"
+                ]
+            ]
+        },
+        "Casio FP-1000 & FP-1100": {
+            "id": "Casio FP-1000 & FP-1100",
+            "name": "Casio FP-1000 & FP-1100",
+            "matches": [
+                [
+                    "tosec",
+                    "Casio FP-1000 & FP-1100 - Games"
                 ]
             ]
         },
@@ -4270,6 +4522,11 @@
                     183
                 ]
             ]
+        },
+        "Coleco ColecoVision ADAM": {
+            "id": "Coleco ColecoVision ADAM",
+            "name": "Coleco ColecoVision ADAM",
+            "matches": []
         },
         "Coleco Quiz Wiz": {
             "id": "Coleco Quiz Wiz",
@@ -7431,6 +7688,11 @@
                 ]
             ]
         },
+        "Commodore C16, C116 & Plus-4": {
+            "id": "Commodore C16, C116 & Plus-4",
+            "name": "Commodore C16, C116 & Plus-4",
+            "matches": []
+        },
         "Commodore C64": {
             "id": "Commodore C64",
             "name": "Commodore C64",
@@ -9185,6 +9447,11 @@
                 ]
             ]
         },
+        "Commodore MAX Machine & VIC10": {
+            "id": "Commodore MAX Machine & VIC10",
+            "name": "Commodore MAX Machine & VIC10",
+            "matches": []
+        },
         "Commodore P500": {
             "id": "Commodore P500",
             "name": "Commodore P500",
@@ -10101,6 +10368,20 @@
                 ]
             ]
         },
+        "Data Applications International DAI Personal Computer": {
+            "id": "Data Applications International DAI Personal Computer",
+            "name": "Data Applications International DAI Personal Computer",
+            "matches": [
+                [
+                    "tosec",
+                    "Data Applications International DAI Personal Computer - Games - [DAI]"
+                ],
+                [
+                    "tosec",
+                    "Data Applications International DAI Personal Computer - Games - [WAV]"
+                ]
+            ]
+        },
         "Dick Smith Super-80": {
             "id": "Dick Smith Super-80",
             "name": "Dick Smith Super-80",
@@ -10112,6 +10393,26 @@
                 [
                     "mame",
                     "super80_cass"
+                ]
+            ]
+        },
+        "Dick Smith Super-80, Super-80D, Super-80E & Super-80M": {
+            "id": "Dick Smith Super-80, Super-80D, Super-80E & Super-80M",
+            "name": "Dick Smith Super-80, Super-80D, Super-80E & Super-80M",
+            "matches": [
+                [
+                    "tosec",
+                    "Dick Smith Super-80, Super-80D, Super-80E & Super-80M - Games"
+                ]
+            ]
+        },
+        "Dick Smith Super-80R & Super-80V": {
+            "id": "Dick Smith Super-80R & Super-80V",
+            "name": "Dick Smith Super-80R & Super-80V",
+            "matches": [
+                [
+                    "tosec",
+                    "Dick Smith Super-80R & Super-80V - Games"
                 ]
             ]
         },
@@ -10158,6 +10459,16 @@
                 [
                     "tosec",
                     "Didact Esselte 100 - Demos"
+                ]
+            ]
+        },
+        "Digital Electronics DIGIAC 3080": {
+            "id": "Digital Electronics DIGIAC 3080",
+            "name": "Digital Electronics DIGIAC 3080",
+            "matches": [
+                [
+                    "tosec",
+                    "Digital Electronics DIGIAC 3080 - Games"
                 ]
             ]
         },
@@ -10896,6 +11207,16 @@
                 [
                     "mame",
                     "hx20_rom"
+                ]
+            ]
+        },
+        "Epson PX-4 & HC-40": {
+            "id": "Epson PX-4 & HC-40",
+            "name": "Epson PX-4 & HC-40",
+            "matches": [
+                [
+                    "tosec",
+                    "Epson PX-4 & HC-40 - Games"
                 ]
             ]
         },
@@ -11647,6 +11968,39 @@
                 ]
             ]
         },
+        "Fujitsu FM77-AV": {
+            "id": "Fujitsu FM77-AV",
+            "name": "Fujitsu FM77-AV",
+            "matches": []
+        },
+        "Fujitsu FMR50": {
+            "id": "Fujitsu FMR50",
+            "name": "Fujitsu FMR50",
+            "matches": [
+                [
+                    "nointro",
+                    "Fujitsu - FMR50 (Flux)"
+                ]
+            ]
+        },
+        "Fukutake Publishing StudyBox": {
+            "id": "Fukutake Publishing StudyBox",
+            "name": "Fukutake Publishing StudyBox",
+            "matches": [
+                [
+                    "nointro",
+                    "Fukutake Publishing - StudyBox"
+                ],
+                [
+                    "tosec",
+                    "Fukutake Publishing StudyBox - Educational"
+                ],
+                [
+                    "tosec",
+                    "Fukutake Publishing StudyBox - Firmware"
+                ]
+            ]
+        },
         "Funtech Super A'Can": {
             "id": "Funtech Super A'Can",
             "name": "Funtech Super A'Can",
@@ -11670,6 +12024,21 @@
                 [
                     "screenscraper",
                     100
+                ]
+            ]
+        },
+        "Funtech Super A'can": {
+            "id": "Funtech Super A'can",
+            "name": "Funtech Super A'can",
+            "matches": []
+        },
+        "Future Pinball": {
+            "id": "Future Pinball",
+            "name": "Future Pinball",
+            "matches": [
+                [
+                    "screenscraper",
+                    199
                 ]
             ]
         },
@@ -11780,6 +12149,16 @@
                 ]
             ]
         },
+        "Galaksija Galaksija": {
+            "id": "Galaksija Galaksija",
+            "name": "Galaksija Galaksija",
+            "matches": []
+        },
+        "Galaksija Galaksija Plus": {
+            "id": "Galaksija Galaksija Plus",
+            "name": "Galaksija Galaksija Plus",
+            "matches": []
+        },
         "Galaksija Plus": {
             "id": "Galaksija Plus",
             "name": "Galaksija Plus",
@@ -11791,6 +12170,16 @@
                 [
                     "tosec",
                     "Galaksija Galaksija Plus - Games - [WAV]"
+                ]
+            ]
+        },
+        "GamePark GP2X": {
+            "id": "GamePark GP2X",
+            "name": "GamePark GP2X",
+            "matches": [
+                [
+                    "nointro",
+                    "GamePark - GP2X"
                 ]
             ]
         },
@@ -12234,6 +12623,16 @@
                 ]
             ]
         },
+        "Grundy NewBrain": {
+            "id": "Grundy NewBrain",
+            "name": "Grundy NewBrain",
+            "matches": [
+                [
+                    "tosec",
+                    "Grundy NewBrain - Games"
+                ]
+            ]
+        },
         "Gundam RX-78": {
             "id": "Gundam RX-78",
             "name": "Gundam RX-78",
@@ -12253,10 +12652,6 @@
                 [
                     "nointro",
                     "Bandai - Gundam RX-78"
-                ],
-                [
-                    "tosec",
-                    "Bandai Gundam RX-78 - Games"
                 ]
             ]
         },
@@ -12494,6 +12889,32 @@
                 ]
             ]
         },
+        "Hitachi S1": {
+            "id": "Hitachi S1",
+            "name": "Hitachi S1",
+            "matches": [
+                [
+                    "nointro",
+                    "Hitachi - S1 (Waveform)"
+                ],
+                [
+                    "oldcomputers",
+                    341
+                ],
+                [
+                    "tosec",
+                    "Hitachi S1 - Games - [L3B]"
+                ],
+                [
+                    "tosec",
+                    "Hitachi S1 - Games - [L3C]"
+                ],
+                [
+                    "tosec",
+                    "Hitachi S1 - Games - [WAV]"
+                ]
+            ]
+        },
         "HomeLab": {
             "id": "HomeLab",
             "name": "HomeLab",
@@ -12550,6 +12971,11 @@
                 ]
             ]
         },
+        "HomeLab HomeLab": {
+            "id": "HomeLab HomeLab",
+            "name": "HomeLab HomeLab",
+            "matches": []
+        },
         "IBM 1620": {
             "id": "IBM 1620",
             "name": "IBM 1620",
@@ -12599,6 +13025,11 @@
                     "ibm5140"
                 ]
             ]
+        },
+        "IBM PC Compatibles": {
+            "id": "IBM PC Compatibles",
+            "name": "IBM PC Compatibles",
+            "matches": []
         },
         "IBM PC and Compatibles": {
             "id": "IBM PC and Compatibles",
@@ -13266,6 +13697,11 @@
                 ]
             ]
         },
+        "Incredible-Technologies Eagle": {
+            "id": "Incredible-Technologies Eagle",
+            "name": "Incredible-Technologies Eagle",
+            "matches": []
+        },
         "Infocom Z-Machine": {
             "id": "Infocom Z-Machine",
             "name": "Infocom Z-Machine",
@@ -13767,6 +14203,16 @@
                 ]
             ]
         },
+        "Lambda Electronics Lambda 8300": {
+            "id": "Lambda Electronics Lambda 8300",
+            "name": "Lambda Electronics Lambda 8300",
+            "matches": [
+                [
+                    "tosec",
+                    "Lambda Electronics Lambda 8300 - Games"
+                ]
+            ]
+        },
         "Language Tutor": {
             "id": "Language Tutor",
             "name": "Language Tutor",
@@ -14067,6 +14513,16 @@
                 ]
             ]
         },
+        "MEGA MEGA65": {
+            "id": "MEGA MEGA65",
+            "name": "MEGA MEGA65",
+            "matches": [
+                [
+                    "tosec",
+                    "MEGA MEGA65 - Games"
+                ]
+            ]
+        },
         "MGT Sam Coupe": {
             "id": "MGT Sam Coupe",
             "name": "MGT Sam Coupe",
@@ -14217,6 +14673,21 @@
                 ]
             ]
         },
+        "MSX MSX": {
+            "id": "MSX MSX",
+            "name": "MSX MSX",
+            "matches": []
+        },
+        "MSX MSX2": {
+            "id": "MSX MSX2",
+            "name": "MSX MSX2",
+            "matches": []
+        },
+        "MSX MSX2+": {
+            "id": "MSX MSX2+",
+            "name": "MSX MSX2+",
+            "matches": []
+        },
         "MSX Palcom": {
             "id": "MSX Palcom",
             "name": "MSX Palcom",
@@ -14226,6 +14697,11 @@
                     "MSX Palcom - Manuals - Games"
                 ]
             ]
+        },
+        "MSX TurboR": {
+            "id": "MSX TurboR",
+            "name": "MSX TurboR",
+            "matches": []
         },
         "Magnavox Odyssey 1": {
             "id": "Magnavox Odyssey 1",
@@ -14320,6 +14796,16 @@
                 [
                     "oldcomputers",
                     1080
+                ]
+            ]
+        },
+        "Manfred Kramer Kramer-MC": {
+            "id": "Manfred Kramer Kramer-MC",
+            "name": "Manfred Kramer Kramer-MC",
+            "matches": [
+                [
+                    "tosec",
+                    "Manfred Kramer Kramer-MC - Games"
                 ]
             ]
         },
@@ -14601,6 +15087,11 @@
                 ]
             ]
         },
+        "Mattel Intellivision ECS": {
+            "id": "Mattel Intellivision ECS",
+            "name": "Mattel Intellivision ECS",
+            "matches": []
+        },
         "Mattel Juice Box": {
             "id": "Mattel Juice Box",
             "name": "Mattel Juice Box",
@@ -14670,6 +15161,11 @@
                     "Memorex Video Information System - Samplers"
                 ]
             ]
+        },
+        "Memotech MTX": {
+            "id": "Memotech MTX",
+            "name": "Memotech MTX",
+            "matches": []
         },
         "Memotech MTX512": {
             "id": "Memotech MTX512",
@@ -15237,6 +15733,11 @@
                 ]
             ]
         },
+        "Microsoft Operating Systems": {
+            "id": "Microsoft Operating Systems",
+            "name": "Microsoft Operating Systems",
+            "matches": []
+        },
         "Microsoft Windows": {
             "id": "Microsoft Windows",
             "name": "Microsoft Windows",
@@ -15505,6 +16006,28 @@
                 ]
             ]
         },
+        "Mitsubishi Multi 8": {
+            "id": "Mitsubishi Multi 8",
+            "name": "Mitsubishi Multi 8",
+            "matches": [
+                [
+                    "oldcomputers",
+                    335
+                ],
+                [
+                    "tosec",
+                    "Mitsubishi Multi 8 - Games - [CAS]"
+                ],
+                [
+                    "tosec",
+                    "Mitsubishi Multi 8 - Games - [CMT]"
+                ],
+                [
+                    "tosec",
+                    "Mitsubishi Multi 8 - Games - [WAV]"
+                ]
+            ]
+        },
         "Morrow MPZ80": {
             "id": "Morrow MPZ80",
             "name": "Morrow MPZ80",
@@ -15530,6 +16053,16 @@
                 [
                     "tosec",
                     "Motorola EXORciser - Various"
+                ]
+            ]
+        },
+        "Mr. Isizu Z80 TV Game System": {
+            "id": "Mr. Isizu Z80 TV Game System",
+            "name": "Mr. Isizu Z80 TV Game System",
+            "matches": [
+                [
+                    "tosec",
+                    "Mr. Isizu Z80 TV Game System - Games"
                 ]
             ]
         },
@@ -15699,6 +16232,11 @@
                 ]
             ]
         },
+        "NEC PC-88": {
+            "id": "NEC PC-88",
+            "name": "NEC PC-88",
+            "matches": []
+        },
         "NEC PC-88 series": {
             "id": "NEC PC-88 series",
             "name": "NEC PC-88 series",
@@ -15796,6 +16334,11 @@
                     "pc88va"
                 ]
             ]
+        },
+        "NEC PC-98": {
+            "id": "NEC PC-98",
+            "name": "NEC PC-98",
+            "matches": []
         },
         "NEC PC-98 series": {
             "id": "NEC PC-98 series",
@@ -16054,6 +16597,11 @@
                     "NEC PC-FXGA - Games"
                 ]
             ]
+        },
+        "NEC SuperGrafx": {
+            "id": "NEC SuperGrafx",
+            "name": "NEC SuperGrafx",
+            "matches": []
         },
         "NEC TurboGrafx-CD": {
             "id": "NEC TurboGrafx-CD",
@@ -16791,6 +17339,21 @@
                 ]
             ]
         },
+        "Nintendo Family Computer Disk System": {
+            "id": "Nintendo Family Computer Disk System",
+            "name": "Nintendo Family Computer Disk System",
+            "matches": []
+        },
+        "Nintendo Family Computer Network System": {
+            "id": "Nintendo Family Computer Network System",
+            "name": "Nintendo Family Computer Network System",
+            "matches": [
+                [
+                    "nointro",
+                    "Nintendo - Family Computer Network System"
+                ]
+            ]
+        },
         "Nintendo Game & Watch": {
             "id": "Nintendo Game & Watch",
             "name": "Nintendo Game & Watch",
@@ -16983,6 +17546,11 @@
                 ]
             ]
         },
+        "Nintendo Game and Watch": {
+            "id": "Nintendo Game and Watch",
+            "name": "Nintendo Game and Watch",
+            "matches": []
+        },
         "Nintendo GameCube": {
             "id": "Nintendo GameCube",
             "name": "Nintendo GameCube",
@@ -17032,6 +17600,35 @@
                     "Source Code - Nintendo - Nintendo GameCube"
                 ]
             ]
+        },
+        "Nintendo Kiosk Video Compact Flash": {
+            "id": "Nintendo Kiosk Video Compact Flash",
+            "name": "Nintendo Kiosk Video Compact Flash",
+            "matches": [
+                [
+                    "nointro",
+                    "Nintendo - Kiosk Video Compact Flash (CardImage)"
+                ],
+                [
+                    "nointro",
+                    "Nintendo - Kiosk Video Compact Flash (Extracted)"
+                ]
+            ]
+        },
+        "Nintendo Mario no Photopi SmartMedia": {
+            "id": "Nintendo Mario no Photopi SmartMedia",
+            "name": "Nintendo Mario no Photopi SmartMedia",
+            "matches": [
+                [
+                    "nointro",
+                    "Nintendo - Mario no Photopi SmartMedia"
+                ]
+            ]
+        },
+        "Nintendo Nintendo Entertainment System": {
+            "id": "Nintendo Nintendo Entertainment System",
+            "name": "Nintendo Nintendo Entertainment System",
+            "matches": []
         },
         "Nintendo Play-Yan": {
             "id": "Nintendo Play-Yan",
@@ -17389,6 +17986,21 @@
                 ]
             ]
         },
+        "Nintendo Wii-U": {
+            "id": "Nintendo Wii-U",
+            "name": "Nintendo Wii-U",
+            "matches": []
+        },
+        "Nintendo amiibo": {
+            "id": "Nintendo amiibo",
+            "name": "Nintendo amiibo",
+            "matches": [
+                [
+                    "nointro",
+                    "Nintendo - amiibo"
+                ]
+            ]
+        },
         "Nintendo e-Reader": {
             "id": "Nintendo e-Reader",
             "name": "Nintendo e-Reader",
@@ -17501,6 +18113,11 @@
                 ]
             ]
         },
+        "OCC Osborne 1 & Osborne Executive": {
+            "id": "OCC Osborne 1 & Osborne Executive",
+            "name": "OCC Osborne 1 & Osborne Executive",
+            "matches": []
+        },
         "OCC Osborne 2 Executive": {
             "id": "OCC Osborne 2 Executive",
             "name": "OCC Osborne 2 Executive",
@@ -17540,6 +18157,26 @@
                 [
                     "mame",
                     "osborne1"
+                ]
+            ]
+        },
+        "Oh! MZ S-OS": {
+            "id": "Oh! MZ S-OS",
+            "name": "Oh! MZ S-OS",
+            "matches": [
+                [
+                    "tosec",
+                    "Oh! MZ S-OS - Games"
+                ]
+            ]
+        },
+        "Ohio Scientific Challenger 1P": {
+            "id": "Ohio Scientific Challenger 1P",
+            "name": "Ohio Scientific Challenger 1P",
+            "matches": [
+                [
+                    "tosec",
+                    "Ohio Scientific Challenger 1P - Games"
                 ]
             ]
         },
@@ -17620,6 +18257,11 @@
                     "ondra"
                 ]
             ]
+        },
+        "OpenPandora Pandora": {
+            "id": "OpenPandora Pandora",
+            "name": "OpenPandora Pandora",
+            "matches": []
         },
         "Otrona Attache": {
             "id": "Otrona Attache",
@@ -17967,6 +18609,16 @@
                 ]
             ]
         },
+        "Peters Plus Sprinter": {
+            "id": "Peters Plus Sprinter",
+            "name": "Peters Plus Sprinter",
+            "matches": [
+                [
+                    "tosec",
+                    "Peters Plus Sprinter - Games"
+                ]
+            ]
+        },
         "Philips CD-i": {
             "id": "Philips CD-i",
             "name": "Philips CD-i",
@@ -18157,6 +18809,20 @@
                 ]
             ]
         },
+        "Pravetz 8D": {
+            "id": "Pravetz 8D",
+            "name": "Pravetz 8D",
+            "matches": [
+                [
+                    "oldcomputers",
+                    988
+                ],
+                [
+                    "tosec",
+                    "Pravetz 8D - Games - [DSK]"
+                ]
+            ]
+        },
         "Psion Organiser I": {
             "id": "Psion Organiser I",
             "name": "Psion Organiser I",
@@ -18208,6 +18874,16 @@
                 [
                     "tosec",
                     "RCA Chip-8 - Games"
+                ]
+            ]
+        },
+        "RCA Microboard Computer Development System": {
+            "id": "RCA Microboard Computer Development System",
+            "name": "RCA Microboard Computer Development System",
+            "matches": [
+                [
+                    "tosec",
+                    "RCA Microboard Computer Development System - Games"
                 ]
             ]
         },
@@ -18421,6 +19097,44 @@
                 ]
             ]
         },
+        "Regnecentralen RC 700": {
+            "id": "Regnecentralen RC 700",
+            "name": "Regnecentralen RC 700",
+            "matches": [
+                [
+                    "tosec",
+                    "Regnecentralen RC 700 - Games - [COM]"
+                ],
+                [
+                    "tosec",
+                    "Regnecentralen RC 700 - Games - [IMD]"
+                ]
+            ]
+        },
+        "Retroleum V6Z80P+": {
+            "id": "Retroleum V6Z80P+",
+            "name": "Retroleum V6Z80P+",
+            "matches": [
+                [
+                    "tosec",
+                    "Retroleum V6Z80P+ - Games"
+                ]
+            ]
+        },
+        "Robotron BIC A5105": {
+            "id": "Robotron BIC A5105",
+            "name": "Robotron BIC A5105",
+            "matches": [
+                [
+                    "tosec",
+                    "Robotron BIC A5105 - Games - [COM]"
+                ],
+                [
+                    "tosec",
+                    "Robotron BIC A5105 - Games - [DUMP]"
+                ]
+            ]
+        },
         "Robotron HC900, KC85 2, KC85 3 & KC85 4": {
             "id": "Robotron HC900, KC85 2, KC85 3 & KC85 4",
             "name": "Robotron HC900, KC85 2, KC85 3 & KC85 4",
@@ -18536,6 +19250,16 @@
                 [
                     "mame",
                     "sgi_mips_hdd"
+                ]
+            ]
+        },
+        "SME Systems Aussie Byte II": {
+            "id": "SME Systems Aussie Byte II",
+            "name": "SME Systems Aussie Byte II",
+            "matches": [
+                [
+                    "tosec",
+                    "SME Systems Aussie Byte II - Games"
                 ]
             ]
         },
@@ -18797,6 +19521,26 @@
                 ]
             ]
         },
+        "SNK Neo-Geo AES": {
+            "id": "SNK Neo-Geo AES",
+            "name": "SNK Neo-Geo AES",
+            "matches": []
+        },
+        "SNK Neo-Geo CD": {
+            "id": "SNK Neo-Geo CD",
+            "name": "SNK Neo-Geo CD",
+            "matches": []
+        },
+        "SNK Neo-Geo Pocket": {
+            "id": "SNK Neo-Geo Pocket",
+            "name": "SNK Neo-Geo Pocket",
+            "matches": []
+        },
+        "SNK Neo-Geo Pocket Color": {
+            "id": "SNK Neo-Geo Pocket Color",
+            "name": "SNK Neo-Geo Pocket Color",
+            "matches": []
+        },
         "SSD Xavix Port": {
             "id": "SSD Xavix Port",
             "name": "SSD Xavix Port",
@@ -18916,6 +19660,11 @@
                     "mbc200"
                 ]
             ]
+        },
+        "Sanyo MBC-550 & 555": {
+            "id": "Sanyo MBC-550 & 555",
+            "name": "Sanyo MBC-550 & 555",
+            "matches": []
         },
         "Sanyo MBC-550 and MBC-555": {
             "id": "Sanyo MBC-550 and MBC-555",
@@ -19655,6 +20404,16 @@
                 ]
             ]
         },
+        "Sega Mega Drive & Genesis": {
+            "id": "Sega Mega Drive & Genesis",
+            "name": "Sega Mega Drive & Genesis",
+            "matches": []
+        },
+        "Sega Mega-CD & Sega CD": {
+            "id": "Sega Mega-CD & Sega CD",
+            "name": "Sega Mega-CD & Sega CD",
+            "matches": []
+        },
         "Sega MegaTech": {
             "id": "Sega MegaTech",
             "name": "Sega MegaTech",
@@ -19703,6 +20462,11 @@
                 ]
             ]
         },
+        "Sega NAOMI 2": {
+            "id": "Sega NAOMI 2",
+            "name": "Sega NAOMI 2",
+            "matches": []
+        },
         "Sega Naomi": {
             "id": "Sega Naomi",
             "name": "Sega Naomi",
@@ -19750,6 +20514,11 @@
                     230
                 ]
             ]
+        },
+        "Sega PICO": {
+            "id": "Sega PICO",
+            "name": "Sega PICO",
+            "matches": []
         },
         "Sega Pico": {
             "id": "Sega Pico",
@@ -20111,6 +20880,20 @@
                 ]
             ]
         },
+        "Seta Aleck64": {
+            "id": "Seta Aleck64",
+            "name": "Seta Aleck64",
+            "matches": [
+                [
+                    "nointro",
+                    "Seta - Aleck64 (BigEndian)"
+                ],
+                [
+                    "nointro",
+                    "Seta - Aleck64 (ByteSwapped)"
+                ]
+            ]
+        },
         "Sharp MZ-2000": {
             "id": "Sharp MZ-2000",
             "name": "Sharp MZ-2000",
@@ -20218,6 +21001,31 @@
                 [
                     "tosec",
                     "Sharp MZ-800 & MZ-1500 - Games - [WAV]"
+                ]
+            ]
+        },
+        "Sharp MZ-800 & MZ-1500": {
+            "id": "Sharp MZ-800 & MZ-1500",
+            "name": "Sharp MZ-800 & MZ-1500",
+            "matches": []
+        },
+        "Sharp PC-G850, PC-G815 & E200": {
+            "id": "Sharp PC-G850, PC-G815 & E200",
+            "name": "Sharp PC-G850, PC-G815 & E200",
+            "matches": [
+                [
+                    "tosec",
+                    "Sharp PC-G850, PC-G815 & E200 - Games"
+                ]
+            ]
+        },
+        "Sharp Wizard OZ-700 Series": {
+            "id": "Sharp Wizard OZ-700 Series",
+            "name": "Sharp Wizard OZ-700 Series",
+            "matches": [
+                [
+                    "tosec",
+                    "Sharp Wizard OZ-700 Series - Games"
                 ]
             ]
         },
@@ -20422,6 +21230,11 @@
                     "spectrum_microdrive"
                 ]
             ]
+        },
+        "Sinclair ZX Spectrum": {
+            "id": "Sinclair ZX Spectrum",
+            "name": "Sinclair ZX Spectrum",
+            "matches": []
         },
         "Sinclair ZX Spectrum +3": {
             "id": "Sinclair ZX Spectrum +3",
@@ -21267,6 +22080,16 @@
                 ]
             ]
         },
+        "Sinclair ZX80": {
+            "id": "Sinclair ZX80",
+            "name": "Sinclair ZX80",
+            "matches": []
+        },
+        "Sinclair ZX81": {
+            "id": "Sinclair ZX81",
+            "name": "Sinclair ZX81",
+            "matches": []
+        },
         "Sony Playstation": {
             "id": "Sony Playstation",
             "name": "Sony Playstation",
@@ -21557,6 +22380,11 @@
                 ]
             ]
         },
+        "Sony Playstation GameShark": {
+            "id": "Sony Playstation GameShark",
+            "name": "Sony Playstation GameShark",
+            "matches": []
+        },
         "Sony Playstation Portable": {
             "id": "Sony Playstation Portable",
             "name": "Sony Playstation Portable",
@@ -21692,6 +22520,28 @@
                 [
                     "tosec",
                     "Sony PocketStation - Various"
+                ]
+            ]
+        },
+        "Sony SMC-777": {
+            "id": "Sony SMC-777",
+            "name": "Sony SMC-777",
+            "matches": [
+                [
+                    "tosec",
+                    "Sony SMC-777 - Games - [1DD]"
+                ],
+                [
+                    "tosec",
+                    "Sony SMC-777 - Games - [D88]"
+                ],
+                [
+                    "tosec",
+                    "Sony SMC-777 - Games - [DSK]"
+                ],
+                [
+                    "tosec",
+                    "Sony SMC-777 - Games - [RAW]"
                 ]
             ]
         },
@@ -22201,6 +23051,28 @@
                 ]
             ]
         },
+        "Tangerine Oric Telestrat": {
+            "id": "Tangerine Oric Telestrat",
+            "name": "Tangerine Oric Telestrat",
+            "matches": [
+                [
+                    "tosec",
+                    "Tangerine Oric Telestrat - Applications - [DSK]"
+                ],
+                [
+                    "tosec",
+                    "Tangerine Oric Telestrat - Demos - [DSK]"
+                ],
+                [
+                    "tosec",
+                    "Tangerine Oric Telestrat - Games - [DSK]"
+                ],
+                [
+                    "tosec",
+                    "Tangerine Oric Telestrat - Operating Systems - [DSK]"
+                ]
+            ]
+        },
         "Tangerine Oric-1 & Oric Atmos": {
             "id": "Tangerine Oric-1 & Oric Atmos",
             "name": "Tangerine Oric-1 & Oric Atmos",
@@ -22531,6 +23403,16 @@
                 ]
             ]
         },
+        "Telmac TMC-600": {
+            "id": "Telmac TMC-600",
+            "name": "Telmac TMC-600",
+            "matches": [
+                [
+                    "tosec",
+                    "Telmac TMC-600 - Games"
+                ]
+            ]
+        },
         "Terak 8510A & 8600": {
             "id": "Terak 8510A & 8600",
             "name": "Terak 8510A & 8600",
@@ -22544,6 +23426,25 @@
                     "Terak 8510A & 8600 - Utilities"
                 ]
             ]
+        },
+        "Tesla Ondra Vili": {
+            "id": "Tesla Ondra Vili",
+            "name": "Tesla Ondra Vili",
+            "matches": [
+                [
+                    "tosec",
+                    "Tesla Ondra Vili - Games - [TAP]"
+                ],
+                [
+                    "tosec",
+                    "Tesla Ondra Vili - Games - [WAV]"
+                ]
+            ]
+        },
+        "Tesla PMD 85": {
+            "id": "Tesla PMD 85",
+            "name": "Tesla PMD 85",
+            "matches": []
         },
         "Tesla PMD-85": {
             "id": "Tesla PMD-85",
@@ -22850,6 +23751,11 @@
                     "Texas Instruments TI-95 - Cartridges"
                 ]
             ]
+        },
+        "Texas Instruments TI-99 4A": {
+            "id": "Texas Instruments TI-99 4A",
+            "name": "Texas Instruments TI-99 4A",
+            "matches": []
         },
         "Texas Instruments TI-99-4A": {
             "id": "Texas Instruments TI-99-4A",
@@ -23309,6 +24215,11 @@
                 ]
             ]
         },
+        "Tiger Electronics Gizmondo": {
+            "id": "Tiger Electronics Gizmondo",
+            "name": "Tiger Electronics Gizmondo",
+            "matches": []
+        },
         "Tiger Electronics K28 Talking Learning Computer": {
             "id": "Tiger Electronics K28 Talking Learning Computer",
             "name": "Tiger Electronics K28 Talking Learning Computer",
@@ -23413,6 +24324,16 @@
                 ]
             ]
         },
+        "Timex Sinclair TS-2068": {
+            "id": "Timex Sinclair TS-2068",
+            "name": "Timex Sinclair TS-2068",
+            "matches": [
+                [
+                    "tosec",
+                    "Timex Sinclair TS-2068 - Games"
+                ]
+            ]
+        },
         "Timex Sinclair TS-2068 DOCK": {
             "id": "Timex Sinclair TS-2068 DOCK",
             "name": "Timex Sinclair TS-2068 DOCK",
@@ -23504,6 +24425,30 @@
             "name": "Torch Z80-68000",
             "matches": []
         },
+        "Toshiba Pasopia": {
+            "id": "Toshiba Pasopia",
+            "name": "Toshiba Pasopia",
+            "matches": [
+                [
+                    "nointro",
+                    "Toshiba - Pasopia (BIN)"
+                ],
+                [
+                    "nointro",
+                    "Toshiba - Pasopia (WAV)"
+                ]
+            ]
+        },
+        "Toshiba Pasopia 7": {
+            "id": "Toshiba Pasopia 7",
+            "name": "Toshiba Pasopia 7",
+            "matches": [
+                [
+                    "tosec",
+                    "Toshiba Pasopia 7 - Games"
+                ]
+            ]
+        },
         "Toshiba Personal Computer Pasopia PA7010": {
             "id": "Toshiba Personal Computer Pasopia PA7010",
             "name": "Toshiba Personal Computer Pasopia PA7010",
@@ -23547,14 +24492,6 @@
                 [
                     "tosec",
                     "Toshiba Pasopia - Games - [WAV]"
-                ],
-                [
-                    "nointro",
-                    "Toshiba - Pasopia (BIN)"
-                ],
-                [
-                    "nointro",
-                    "Toshiba - Pasopia (WAV)"
                 ]
             ]
         },
@@ -23662,6 +24599,16 @@
                 [
                     "tosec",
                     "UNIVAC Series 90 - Operating Systems"
+                ]
+            ]
+        },
+        "USSR Vector-06C": {
+            "id": "USSR Vector-06C",
+            "name": "USSR Vector-06C",
+            "matches": [
+                [
+                    "tosec",
+                    "USSR Vector-06C - Games"
                 ]
             ]
         },
@@ -23779,6 +24726,21 @@
                 ]
             ]
         },
+        "VM-Labs Nuon": {
+            "id": "VM-Labs Nuon",
+            "name": "VM-Labs Nuon",
+            "matches": []
+        },
+        "VTech CreatiVision": {
+            "id": "VTech CreatiVision",
+            "name": "VTech CreatiVision",
+            "matches": [
+                [
+                    "tgdb",
+                    5005
+                ]
+            ]
+        },
         "VTech Creativision": {
             "id": "VTech Creativision",
             "name": "VTech Creativision",
@@ -23810,10 +24772,6 @@
                 [
                     "screenscraper",
                     241
-                ],
-                [
-                    "tgdb",
-                    5005
                 ]
             ]
         },
@@ -24017,6 +24975,11 @@
                 ]
             ]
         },
+        "VTech Laser 2001 & CreatiVision": {
+            "id": "VTech Laser 2001 & CreatiVision",
+            "name": "VTech Laser 2001 & CreatiVision",
+            "matches": []
+        },
         "VTech Laser 3000 & Dick Smith CAT": {
             "id": "VTech Laser 3000 & Dick Smith CAT",
             "name": "VTech Laser 3000 & Dick Smith CAT",
@@ -24029,6 +24992,20 @@
                 [
                     "tosec",
                     "VTech Laser 310 - Applications"
+                ]
+            ]
+        },
+        "VTech Laser 350, 500, 700 & 750": {
+            "id": "VTech Laser 350, 500, 700 & 750",
+            "name": "VTech Laser 350, 500, 700 & 750",
+            "matches": [
+                [
+                    "tosec",
+                    "VTech Laser 350, 500, 700 & 750 - Games - [BIN]"
+                ],
+                [
+                    "tosec",
+                    "VTech Laser 350, 500, 700 & 750 - Games - [WAV]"
                 ]
             ]
         },
@@ -24120,6 +25097,11 @@
                 ]
             ]
         },
+        "VTech V.Flash Home Edutainment System": {
+            "id": "VTech V.Flash Home Edutainment System",
+            "name": "VTech V.Flash Home Edutainment System",
+            "matches": []
+        },
         "VTech V.Smile": {
             "id": "VTech V.Smile",
             "name": "VTech V.Smile",
@@ -24210,6 +25192,11 @@
                 ]
             ]
         },
+        "Videoton TV-Computer": {
+            "id": "Videoton TV-Computer",
+            "name": "Videoton TV-Computer",
+            "matches": []
+        },
         "Videoton TVC": {
             "id": "Videoton TVC",
             "name": "Videoton TVC",
@@ -24247,6 +25234,16 @@
                 [
                     "mame",
                     "tvc_cart"
+                ]
+            ]
+        },
+        "Visual Pinball": {
+            "id": "Visual Pinball",
+            "name": "Visual Pinball",
+            "matches": [
+                [
+                    "screenscraper",
+                    198
                 ]
             ]
         },
@@ -24367,6 +25364,11 @@
                     "waveterm"
                 ]
             ]
+        },
+        "Welback Mega Duck": {
+            "id": "Welback Mega Duck",
+            "name": "Welback Mega Duck",
+            "matches": []
         },
         "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures": {
             "id": "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures",
@@ -24602,6 +25604,16 @@
                 ]
             ]
         },
+        "Zeebo Zeebo": {
+            "id": "Zeebo Zeebo",
+            "name": "Zeebo Zeebo",
+            "matches": [
+                [
+                    "nointro",
+                    "Zeebo - Zeebo"
+                ]
+            ]
+        },
         "Zilog MCZ-2": {
             "id": "Zilog MCZ-2",
             "name": "Zilog MCZ-2",
@@ -24623,1014 +25635,6 @@
                 [
                     "redump",
                     "funworld - Photo Play"
-                ]
-            ]
-        },
-        "8-Bit Productions Commander X16": {
-            "id": "8-Bit Productions Commander X16",
-            "name": "8-Bit Productions Commander X16",
-            "matches": [
-                [
-                    "tosec",
-                    "8-Bit Productions Commander X16 - Games"
-                ]
-            ]
-        },
-        "APF M-1000": {
-            "id": "APF M-1000",
-            "name": "APF M-1000",
-            "matches": []
-        },
-        "APF MP-1000": {
-            "id": "APF MP-1000",
-            "name": "APF MP-1000",
-            "matches": []
-        },
-        "Acorn Risc PC": {
-            "id": "Acorn Risc PC",
-            "name": "Acorn Risc PC",
-            "matches": [
-                [
-                    "nointro",
-                    "Acorn - Risc PC (Pauline)"
-                ]
-            ]
-        },
-        "American-Laser-Games CD-ROM System": {
-            "id": "American-Laser-Games CD-ROM System",
-            "name": "American-Laser-Games CD-ROM System",
-            "matches": []
-        },
-        "Amstrad NC-100": {
-            "id": "Amstrad NC-100",
-            "name": "Amstrad NC-100",
-            "matches": [
-                [
-                    "tosec",
-                    "Amstrad NC-100 - Games"
-                ]
-            ]
-        },
-        "Amstrad NC-200": {
-            "id": "Amstrad NC-200",
-            "name": "Amstrad NC-200",
-            "matches": [
-                [
-                    "tosec",
-                    "Amstrad NC-200 - Games"
-                ]
-            ]
-        },
-        "Apple I": {
-            "id": "Apple I",
-            "name": "Apple I",
-            "matches": [
-                [
-                    "nointro",
-                    "Apple - I (Tapes)"
-                ]
-            ]
-        },
-        "Apple II Plus": {
-            "id": "Apple II Plus",
-            "name": "Apple II Plus",
-            "matches": [
-                [
-                    "nointro",
-                    "Apple - II Plus (Flux)"
-                ],
-                [
-                    "nointro",
-                    "Apple - II Plus (WOZ)"
-                ]
-            ]
-        },
-        "Apple IIe": {
-            "id": "Apple IIe",
-            "name": "Apple IIe",
-            "matches": [
-                [
-                    "nointro",
-                    "Apple - IIe (A2R)"
-                ],
-                [
-                    "nointro",
-                    "Apple - IIe (Kryoflux)"
-                ],
-                [
-                    "nointro",
-                    "Apple - IIe (WOZ)"
-                ]
-            ]
-        },
-        "Atari 2600 & VCS": {
-            "id": "Atari 2600 & VCS",
-            "name": "Atari 2600 & VCS",
-            "matches": []
-        },
-        "Atari 8-bit Family": {
-            "id": "Atari 8-bit Family",
-            "name": "Atari 8-bit Family",
-            "matches": [
-                [
-                    "nointro",
-                    "Atari - 8-bit Family"
-                ],
-                [
-                    "nointro",
-                    "Atari - 8-bit Family (Kryoflux)"
-                ],
-                [
-                    "nointro",
-                    "Source Code - Atari - 8-bit Family"
-                ]
-            ]
-        },
-        "BGR Computers Excalibur 64": {
-            "id": "BGR Computers Excalibur 64",
-            "name": "BGR Computers Excalibur 64",
-            "matches": [
-                [
-                    "tosec",
-                    "BGR Computers Excalibur 64 - Games"
-                ]
-            ]
-        },
-        "Bandai Design Master Denshi Mangajuku": {
-            "id": "Bandai Design Master Denshi Mangajuku",
-            "name": "Bandai Design Master Denshi Mangajuku",
-            "matches": [
-                [
-                    "nointro",
-                    "Bandai - Design Master Denshi Mangajuku"
-                ],
-                [
-                    "tosec",
-                    "Bandai Design Master Denshi Mangajuku - Design Cartridges"
-                ],
-                [
-                    "tosec",
-                    "Bandai Design Master Denshi Mangajuku - Games"
-                ]
-            ]
-        },
-        "Bandai Gundam RX-78": {
-            "id": "Bandai Gundam RX-78",
-            "name": "Bandai Gundam RX-78",
-            "matches": []
-        },
-        "Bandai Pippin @World & Pippin Atmark": {
-            "id": "Bandai Pippin @World & Pippin Atmark",
-            "name": "Bandai Pippin @World & Pippin Atmark",
-            "matches": []
-        },
-        "Bandai Playdia": {
-            "id": "Bandai Playdia",
-            "name": "Bandai Playdia",
-            "matches": []
-        },
-        "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC": {
-            "id": "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC",
-            "name": "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC",
-            "matches": [
-                [
-                    "tosec",
-                    "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC - Games"
-                ]
-            ]
-        },
-        "Bernd Huebler Huebler-Grafik-MC": {
-            "id": "Bernd Huebler Huebler-Grafik-MC",
-            "name": "Bernd Huebler Huebler-Grafik-MC",
-            "matches": [
-                [
-                    "tosec",
-                    "Bernd Huebler Huebler-Grafik-MC - Games"
-                ]
-            ]
-        },
-        "Bit Corporation BIT 90": {
-            "id": "Bit Corporation BIT 90",
-            "name": "Bit Corporation BIT 90",
-            "matches": [
-                [
-                    "tosec",
-                    "Bit Corporation BIT 90 - Games"
-                ]
-            ]
-        },
-        "COMX COMX-35": {
-            "id": "COMX COMX-35",
-            "name": "COMX COMX-35",
-            "matches": [
-                [
-                    "tosec",
-                    "COMX COMX-35 - Demos"
-                ],
-                [
-                    "tosec",
-                    "COMX COMX-35 - Games"
-                ]
-            ]
-        },
-        "Cambridge Computer Z88": {
-            "id": "Cambridge Computer Z88",
-            "name": "Cambridge Computer Z88",
-            "matches": [
-                [
-                    "tosec",
-                    "Cambridge Computer Z88 - Games - [63]"
-                ],
-                [
-                    "tosec",
-                    "Cambridge Computer Z88 - Games - [EPR]"
-                ]
-            ]
-        },
-        "Capcom Capcom Play System 1": {
-            "id": "Capcom Capcom Play System 1",
-            "name": "Capcom Capcom Play System 1",
-            "matches": []
-        },
-        "Capcom Capcom Play System 2": {
-            "id": "Capcom Capcom Play System 2",
-            "name": "Capcom Capcom Play System 2",
-            "matches": [
-                [
-                    "screenscraper",
-                    7
-                ]
-            ]
-        },
-        "Casio FP-1000 & FP-1100": {
-            "id": "Casio FP-1000 & FP-1100",
-            "name": "Casio FP-1000 & FP-1100",
-            "matches": [
-                [
-                    "tosec",
-                    "Casio FP-1000 & FP-1100 - Games"
-                ]
-            ]
-        },
-        "Coleco ColecoVision ADAM": {
-            "id": "Coleco ColecoVision ADAM",
-            "name": "Coleco ColecoVision ADAM",
-            "matches": []
-        },
-        "Commodore C16, C116 & Plus-4": {
-            "id": "Commodore C16, C116 & Plus-4",
-            "name": "Commodore C16, C116 & Plus-4",
-            "matches": []
-        },
-        "Commodore MAX Machine & VIC10": {
-            "id": "Commodore MAX Machine & VIC10",
-            "name": "Commodore MAX Machine & VIC10",
-            "matches": []
-        },
-        "Data Applications International DAI Personal Computer": {
-            "id": "Data Applications International DAI Personal Computer",
-            "name": "Data Applications International DAI Personal Computer",
-            "matches": [
-                [
-                    "tosec",
-                    "Data Applications International DAI Personal Computer - Games - [DAI]"
-                ],
-                [
-                    "tosec",
-                    "Data Applications International DAI Personal Computer - Games - [WAV]"
-                ]
-            ]
-        },
-        "Dick Smith Super-80, Super-80D, Super-80E & Super-80M": {
-            "id": "Dick Smith Super-80, Super-80D, Super-80E & Super-80M",
-            "name": "Dick Smith Super-80, Super-80D, Super-80E & Super-80M",
-            "matches": [
-                [
-                    "tosec",
-                    "Dick Smith Super-80, Super-80D, Super-80E & Super-80M - Games"
-                ]
-            ]
-        },
-        "Dick Smith Super-80R & Super-80V": {
-            "id": "Dick Smith Super-80R & Super-80V",
-            "name": "Dick Smith Super-80R & Super-80V",
-            "matches": [
-                [
-                    "tosec",
-                    "Dick Smith Super-80R & Super-80V - Games"
-                ]
-            ]
-        },
-        "Digital Electronics DIGIAC 3080": {
-            "id": "Digital Electronics DIGIAC 3080",
-            "name": "Digital Electronics DIGIAC 3080",
-            "matches": [
-                [
-                    "tosec",
-                    "Digital Electronics DIGIAC 3080 - Games"
-                ]
-            ]
-        },
-        "Epson PX-4 & HC-40": {
-            "id": "Epson PX-4 & HC-40",
-            "name": "Epson PX-4 & HC-40",
-            "matches": [
-                [
-                    "tosec",
-                    "Epson PX-4 & HC-40 - Games"
-                ]
-            ]
-        },
-        "Fujitsu FM77-AV": {
-            "id": "Fujitsu FM77-AV",
-            "name": "Fujitsu FM77-AV",
-            "matches": []
-        },
-        "Fujitsu FMR50": {
-            "id": "Fujitsu FMR50",
-            "name": "Fujitsu FMR50",
-            "matches": [
-                [
-                    "nointro",
-                    "Fujitsu - FMR50 (Flux)"
-                ]
-            ]
-        },
-        "Fukutake Publishing StudyBox": {
-            "id": "Fukutake Publishing StudyBox",
-            "name": "Fukutake Publishing StudyBox",
-            "matches": [
-                [
-                    "nointro",
-                    "Fukutake Publishing - StudyBox"
-                ],
-                [
-                    "tosec",
-                    "Fukutake Publishing StudyBox - Educational"
-                ],
-                [
-                    "tosec",
-                    "Fukutake Publishing StudyBox - Firmware"
-                ]
-            ]
-        },
-        "Funtech Super A'can": {
-            "id": "Funtech Super A'can",
-            "name": "Funtech Super A'can",
-            "matches": []
-        },
-        "Galaksija Galaksija": {
-            "id": "Galaksija Galaksija",
-            "name": "Galaksija Galaksija",
-            "matches": []
-        },
-        "Galaksija Galaksija Plus": {
-            "id": "Galaksija Galaksija Plus",
-            "name": "Galaksija Galaksija Plus",
-            "matches": []
-        },
-        "GamePark GP2X": {
-            "id": "GamePark GP2X",
-            "name": "GamePark GP2X",
-            "matches": [
-                [
-                    "nointro",
-                    "GamePark - GP2X"
-                ]
-            ]
-        },
-        "Grundy NewBrain": {
-            "id": "Grundy NewBrain",
-            "name": "Grundy NewBrain",
-            "matches": [
-                [
-                    "tosec",
-                    "Grundy NewBrain - Games"
-                ]
-            ]
-        },
-        "Hitachi S1": {
-            "id": "Hitachi S1",
-            "name": "Hitachi S1",
-            "matches": [
-                [
-                    "nointro",
-                    "Hitachi - S1 (Waveform)"
-                ],
-                [
-                    "oldcomputers",
-                    341
-                ],
-                [
-                    "tosec",
-                    "Hitachi S1 - Games - [L3B]"
-                ],
-                [
-                    "tosec",
-                    "Hitachi S1 - Games - [L3C]"
-                ],
-                [
-                    "tosec",
-                    "Hitachi S1 - Games - [WAV]"
-                ]
-            ]
-        },
-        "HomeLab HomeLab": {
-            "id": "HomeLab HomeLab",
-            "name": "HomeLab HomeLab",
-            "matches": []
-        },
-        "IBM PC Compatibles": {
-            "id": "IBM PC Compatibles",
-            "name": "IBM PC Compatibles",
-            "matches": []
-        },
-        "Incredible-Technologies Eagle": {
-            "id": "Incredible-Technologies Eagle",
-            "name": "Incredible-Technologies Eagle",
-            "matches": []
-        },
-        "Lambda Electronics Lambda 8300": {
-            "id": "Lambda Electronics Lambda 8300",
-            "name": "Lambda Electronics Lambda 8300",
-            "matches": [
-                [
-                    "tosec",
-                    "Lambda Electronics Lambda 8300 - Games"
-                ]
-            ]
-        },
-        "MEGA MEGA65": {
-            "id": "MEGA MEGA65",
-            "name": "MEGA MEGA65",
-            "matches": [
-                [
-                    "tosec",
-                    "MEGA MEGA65 - Games"
-                ]
-            ]
-        },
-        "MSX MSX": {
-            "id": "MSX MSX",
-            "name": "MSX MSX",
-            "matches": []
-        },
-        "MSX MSX2": {
-            "id": "MSX MSX2",
-            "name": "MSX MSX2",
-            "matches": []
-        },
-        "MSX MSX2+": {
-            "id": "MSX MSX2+",
-            "name": "MSX MSX2+",
-            "matches": []
-        },
-        "MSX TurboR": {
-            "id": "MSX TurboR",
-            "name": "MSX TurboR",
-            "matches": []
-        },
-        "Manfred Kramer Kramer-MC": {
-            "id": "Manfred Kramer Kramer-MC",
-            "name": "Manfred Kramer Kramer-MC",
-            "matches": [
-                [
-                    "tosec",
-                    "Manfred Kramer Kramer-MC - Games"
-                ]
-            ]
-        },
-        "Mattel Intellivision ECS": {
-            "id": "Mattel Intellivision ECS",
-            "name": "Mattel Intellivision ECS",
-            "matches": []
-        },
-        "Memotech MTX": {
-            "id": "Memotech MTX",
-            "name": "Memotech MTX",
-            "matches": []
-        },
-        "Microsoft Operating Systems": {
-            "id": "Microsoft Operating Systems",
-            "name": "Microsoft Operating Systems",
-            "matches": []
-        },
-        "Mitsubishi Multi 8": {
-            "id": "Mitsubishi Multi 8",
-            "name": "Mitsubishi Multi 8",
-            "matches": [
-                [
-                    "oldcomputers",
-                    335
-                ],
-                [
-                    "tosec",
-                    "Mitsubishi Multi 8 - Games - [CAS]"
-                ],
-                [
-                    "tosec",
-                    "Mitsubishi Multi 8 - Games - [CMT]"
-                ],
-                [
-                    "tosec",
-                    "Mitsubishi Multi 8 - Games - [WAV]"
-                ]
-            ]
-        },
-        "Mr. Isizu Z80 TV Game System": {
-            "id": "Mr. Isizu Z80 TV Game System",
-            "name": "Mr. Isizu Z80 TV Game System",
-            "matches": [
-                [
-                    "tosec",
-                    "Mr. Isizu Z80 TV Game System - Games"
-                ]
-            ]
-        },
-        "NEC PC-88": {
-            "id": "NEC PC-88",
-            "name": "NEC PC-88",
-            "matches": []
-        },
-        "NEC PC-98": {
-            "id": "NEC PC-98",
-            "name": "NEC PC-98",
-            "matches": []
-        },
-        "NEC SuperGrafx": {
-            "id": "NEC SuperGrafx",
-            "name": "NEC SuperGrafx",
-            "matches": []
-        },
-        "Nintendo Family Computer Disk System": {
-            "id": "Nintendo Family Computer Disk System",
-            "name": "Nintendo Family Computer Disk System",
-            "matches": []
-        },
-        "Nintendo Family Computer Network System": {
-            "id": "Nintendo Family Computer Network System",
-            "name": "Nintendo Family Computer Network System",
-            "matches": [
-                [
-                    "nointro",
-                    "Nintendo - Family Computer Network System"
-                ]
-            ]
-        },
-        "Nintendo Game and Watch": {
-            "id": "Nintendo Game and Watch",
-            "name": "Nintendo Game and Watch",
-            "matches": []
-        },
-        "Nintendo Kiosk Video Compact Flash": {
-            "id": "Nintendo Kiosk Video Compact Flash",
-            "name": "Nintendo Kiosk Video Compact Flash",
-            "matches": [
-                [
-                    "nointro",
-                    "Nintendo - Kiosk Video Compact Flash (CardImage)"
-                ],
-                [
-                    "nointro",
-                    "Nintendo - Kiosk Video Compact Flash (Extracted)"
-                ]
-            ]
-        },
-        "Nintendo Mario no Photopi SmartMedia": {
-            "id": "Nintendo Mario no Photopi SmartMedia",
-            "name": "Nintendo Mario no Photopi SmartMedia",
-            "matches": [
-                [
-                    "nointro",
-                    "Nintendo - Mario no Photopi SmartMedia"
-                ]
-            ]
-        },
-        "Nintendo Nintendo Entertainment System": {
-            "id": "Nintendo Nintendo Entertainment System",
-            "name": "Nintendo Nintendo Entertainment System",
-            "matches": []
-        },
-        "Nintendo Wii-U": {
-            "id": "Nintendo Wii-U",
-            "name": "Nintendo Wii-U",
-            "matches": []
-        },
-        "Nintendo amiibo": {
-            "id": "Nintendo amiibo",
-            "name": "Nintendo amiibo",
-            "matches": [
-                [
-                    "nointro",
-                    "Nintendo - amiibo"
-                ]
-            ]
-        },
-        "OCC Osborne 1 & Osborne Executive": {
-            "id": "OCC Osborne 1 & Osborne Executive",
-            "name": "OCC Osborne 1 & Osborne Executive",
-            "matches": []
-        },
-        "Oh! MZ S-OS": {
-            "id": "Oh! MZ S-OS",
-            "name": "Oh! MZ S-OS",
-            "matches": [
-                [
-                    "tosec",
-                    "Oh! MZ S-OS - Games"
-                ]
-            ]
-        },
-        "Ohio Scientific Challenger 1P": {
-            "id": "Ohio Scientific Challenger 1P",
-            "name": "Ohio Scientific Challenger 1P",
-            "matches": [
-                [
-                    "tosec",
-                    "Ohio Scientific Challenger 1P - Games"
-                ]
-            ]
-        },
-        "OpenPandora Pandora": {
-            "id": "OpenPandora Pandora",
-            "name": "OpenPandora Pandora",
-            "matches": []
-        },
-        "Peters Plus Sprinter": {
-            "id": "Peters Plus Sprinter",
-            "name": "Peters Plus Sprinter",
-            "matches": [
-                [
-                    "tosec",
-                    "Peters Plus Sprinter - Games"
-                ]
-            ]
-        },
-        "Future Pinball": {
-            "id": "Future Pinball",
-            "name": "Future Pinball",
-            "matches": [
-                [
-                    "screenscraper",
-                    199
-                ]
-            ]
-        },
-        "Visual Pinball": {
-            "id": "Visual Pinball",
-            "name": "Visual Pinball",
-            "matches": [
-                [
-                    "screenscraper",
-                    198
-                ]
-            ]
-        },
-        "Pravetz 8D": {
-            "id": "Pravetz 8D",
-            "name": "Pravetz 8D",
-            "matches": [
-                [
-                    "oldcomputers",
-                    988
-                ],
-                [
-                    "tosec",
-                    "Pravetz 8D - Games - [DSK]"
-                ]
-            ]
-        },
-        "RCA Microboard Computer Development System": {
-            "id": "RCA Microboard Computer Development System",
-            "name": "RCA Microboard Computer Development System",
-            "matches": [
-                [
-                    "tosec",
-                    "RCA Microboard Computer Development System - Games"
-                ]
-            ]
-        },
-        "Regnecentralen RC 700": {
-            "id": "Regnecentralen RC 700",
-            "name": "Regnecentralen RC 700",
-            "matches": [
-                [
-                    "tosec",
-                    "Regnecentralen RC 700 - Games - [COM]"
-                ],
-                [
-                    "tosec",
-                    "Regnecentralen RC 700 - Games - [IMD]"
-                ]
-            ]
-        },
-        "Retroleum V6Z80P+": {
-            "id": "Retroleum V6Z80P+",
-            "name": "Retroleum V6Z80P+",
-            "matches": [
-                [
-                    "tosec",
-                    "Retroleum V6Z80P+ - Games"
-                ]
-            ]
-        },
-        "Robotron BIC A5105": {
-            "id": "Robotron BIC A5105",
-            "name": "Robotron BIC A5105",
-            "matches": [
-                [
-                    "tosec",
-                    "Robotron BIC A5105 - Games - [COM]"
-                ],
-                [
-                    "tosec",
-                    "Robotron BIC A5105 - Games - [DUMP]"
-                ]
-            ]
-        },
-        "SME Systems Aussie Byte II": {
-            "id": "SME Systems Aussie Byte II",
-            "name": "SME Systems Aussie Byte II",
-            "matches": [
-                [
-                    "tosec",
-                    "SME Systems Aussie Byte II - Games"
-                ]
-            ]
-        },
-        "SNK Neo-Geo AES": {
-            "id": "SNK Neo-Geo AES",
-            "name": "SNK Neo-Geo AES",
-            "matches": []
-        },
-        "SNK Neo-Geo CD": {
-            "id": "SNK Neo-Geo CD",
-            "name": "SNK Neo-Geo CD",
-            "matches": []
-        },
-        "SNK Neo-Geo Pocket": {
-            "id": "SNK Neo-Geo Pocket",
-            "name": "SNK Neo-Geo Pocket",
-            "matches": []
-        },
-        "SNK Neo-Geo Pocket Color": {
-            "id": "SNK Neo-Geo Pocket Color",
-            "name": "SNK Neo-Geo Pocket Color",
-            "matches": []
-        },
-        "Sanyo MBC-550 & 555": {
-            "id": "Sanyo MBC-550 & 555",
-            "name": "Sanyo MBC-550 & 555",
-            "matches": []
-        },
-        "Sega Mega Drive & Genesis": {
-            "id": "Sega Mega Drive & Genesis",
-            "name": "Sega Mega Drive & Genesis",
-            "matches": []
-        },
-        "Sega Mega-CD & Sega CD": {
-            "id": "Sega Mega-CD & Sega CD",
-            "name": "Sega Mega-CD & Sega CD",
-            "matches": []
-        },
-        "Sega NAOMI 2": {
-            "id": "Sega NAOMI 2",
-            "name": "Sega NAOMI 2",
-            "matches": []
-        },
-        "Sega PICO": {
-            "id": "Sega PICO",
-            "name": "Sega PICO",
-            "matches": []
-        },
-        "Seta Aleck64": {
-            "id": "Seta Aleck64",
-            "name": "Seta Aleck64",
-            "matches": [
-                [
-                    "nointro",
-                    "Seta - Aleck64 (BigEndian)"
-                ],
-                [
-                    "nointro",
-                    "Seta - Aleck64 (ByteSwapped)"
-                ]
-            ]
-        },
-        "Sharp MZ-800 & MZ-1500": {
-            "id": "Sharp MZ-800 & MZ-1500",
-            "name": "Sharp MZ-800 & MZ-1500",
-            "matches": []
-        },
-        "Sharp PC-G850, PC-G815 & E200": {
-            "id": "Sharp PC-G850, PC-G815 & E200",
-            "name": "Sharp PC-G850, PC-G815 & E200",
-            "matches": [
-                [
-                    "tosec",
-                    "Sharp PC-G850, PC-G815 & E200 - Games"
-                ]
-            ]
-        },
-        "Sharp Wizard OZ-700 Series": {
-            "id": "Sharp Wizard OZ-700 Series",
-            "name": "Sharp Wizard OZ-700 Series",
-            "matches": [
-                [
-                    "tosec",
-                    "Sharp Wizard OZ-700 Series - Games"
-                ]
-            ]
-        },
-        "Sinclair ZX Spectrum": {
-            "id": "Sinclair ZX Spectrum",
-            "name": "Sinclair ZX Spectrum",
-            "matches": []
-        },
-        "Sinclair ZX80": {
-            "id": "Sinclair ZX80",
-            "name": "Sinclair ZX80",
-            "matches": []
-        },
-        "Sinclair ZX81": {
-            "id": "Sinclair ZX81",
-            "name": "Sinclair ZX81",
-            "matches": []
-        },
-        "Sony Playstation GameShark": {
-            "id": "Sony Playstation GameShark",
-            "name": "Sony Playstation GameShark",
-            "matches": []
-        },
-        "Sony SMC-777": {
-            "id": "Sony SMC-777",
-            "name": "Sony SMC-777",
-            "matches": [
-                [
-                    "tosec",
-                    "Sony SMC-777 - Games - [1DD]"
-                ],
-                [
-                    "tosec",
-                    "Sony SMC-777 - Games - [D88]"
-                ],
-                [
-                    "tosec",
-                    "Sony SMC-777 - Games - [DSK]"
-                ],
-                [
-                    "tosec",
-                    "Sony SMC-777 - Games - [RAW]"
-                ]
-            ]
-        },
-        "Tangerine Oric Telestrat": {
-            "id": "Tangerine Oric Telestrat",
-            "name": "Tangerine Oric Telestrat",
-            "matches": [
-                [
-                    "tosec",
-                    "Tangerine Oric Telestrat - Applications - [DSK]"
-                ],
-                [
-                    "tosec",
-                    "Tangerine Oric Telestrat - Demos - [DSK]"
-                ],
-                [
-                    "tosec",
-                    "Tangerine Oric Telestrat - Games - [DSK]"
-                ],
-                [
-                    "tosec",
-                    "Tangerine Oric Telestrat - Operating Systems - [DSK]"
-                ]
-            ]
-        },
-        "Telmac TMC-600": {
-            "id": "Telmac TMC-600",
-            "name": "Telmac TMC-600",
-            "matches": [
-                [
-                    "tosec",
-                    "Telmac TMC-600 - Games"
-                ]
-            ]
-        },
-        "Tesla Ondra Vili": {
-            "id": "Tesla Ondra Vili",
-            "name": "Tesla Ondra Vili",
-            "matches": [
-                [
-                    "tosec",
-                    "Tesla Ondra Vili - Games - [TAP]"
-                ],
-                [
-                    "tosec",
-                    "Tesla Ondra Vili - Games - [WAV]"
-                ]
-            ]
-        },
-        "Tesla PMD 85": {
-            "id": "Tesla PMD 85",
-            "name": "Tesla PMD 85",
-            "matches": []
-        },
-        "Texas Instruments TI-99 4A": {
-            "id": "Texas Instruments TI-99 4A",
-            "name": "Texas Instruments TI-99 4A",
-            "matches": []
-        },
-        "Tiger Electronics Gizmondo": {
-            "id": "Tiger Electronics Gizmondo",
-            "name": "Tiger Electronics Gizmondo",
-            "matches": []
-        },
-        "Timex Sinclair TS-2068": {
-            "id": "Timex Sinclair TS-2068",
-            "name": "Timex Sinclair TS-2068",
-            "matches": [
-                [
-                    "tosec",
-                    "Timex Sinclair TS-2068 - Games"
-                ]
-            ]
-        },
-        "Toshiba Pasopia": {
-            "id": "Toshiba Pasopia",
-            "name": "Toshiba Pasopia",
-            "matches": []
-        },
-        "Toshiba Pasopia 7": {
-            "id": "Toshiba Pasopia 7",
-            "name": "Toshiba Pasopia 7",
-            "matches": [
-                [
-                    "tosec",
-                    "Toshiba Pasopia 7 - Games"
-                ]
-            ]
-        },
-        "USSR Vector-06C": {
-            "id": "USSR Vector-06C",
-            "name": "USSR Vector-06C",
-            "matches": [
-                [
-                    "tosec",
-                    "USSR Vector-06C - Games"
-                ]
-            ]
-        },
-        "VM-Labs Nuon": {
-            "id": "VM-Labs Nuon",
-            "name": "VM-Labs Nuon",
-            "matches": []
-        },
-        "VTech CreatiVision": {
-            "id": "VTech CreatiVision",
-            "name": "VTech CreatiVision",
-            "matches": []
-        },
-        "VTech Laser 2001 & CreatiVision": {
-            "id": "VTech Laser 2001 & CreatiVision",
-            "name": "VTech Laser 2001 & CreatiVision",
-            "matches": []
-        },
-        "VTech Laser 350, 500, 700 & 750": {
-            "id": "VTech Laser 350, 500, 700 & 750",
-            "name": "VTech Laser 350, 500, 700 & 750",
-            "matches": [
-                [
-                    "tosec",
-                    "VTech Laser 350, 500, 700 & 750 - Games - [BIN]"
-                ],
-                [
-                    "tosec",
-                    "VTech Laser 350, 500, 700 & 750 - Games - [WAV]"
-                ]
-            ]
-        },
-        "VTech V.Flash Home Edutainment System": {
-            "id": "VTech V.Flash Home Edutainment System",
-            "name": "VTech V.Flash Home Edutainment System",
-            "matches": []
-        },
-        "Videoton TV-Computer": {
-            "id": "Videoton TV-Computer",
-            "name": "Videoton TV-Computer",
-            "matches": []
-        },
-        "Welback Mega Duck": {
-            "id": "Welback Mega Duck",
-            "name": "Welback Mega Duck",
-            "matches": []
-        },
-        "Zeebo Zeebo": {
-            "id": "Zeebo Zeebo",
-            "name": "Zeebo Zeebo",
-            "matches": [
-                [
-                    "nointro",
-                    "Zeebo - Zeebo"
                 ]
             ]
         },
