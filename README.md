@@ -32,14 +32,14 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 |-|-|-|-|-|-|
 | [LaunchBox](sources/launchbox.json) | Frontend | 183 | 0 | 183 | 100% |
 | [MAME](sources/mame.json) | Emulator | 618 | 42 | 660 | 93.6% |
-| [No-Intro](sources/nointro.json) | DAT | 246 | 38 | 284 | 86.6% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 111 | 1175 | 1286 | 8.6% |
+| [No-Intro](sources/nointro.json) | DAT | 251 | 33 | 284 | 88.4% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 115 | 1171 | 1286 | 8.9% |
 | [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
 | [ScreenScraper](sources/screenscraper.json) | API | 148 | 77 | 225 | 65.8% |
-| [TheGamesDB](sources/tgdb.json) | API | 133 | 14 | 147 | 90.5% |
-| [TOSEC](sources/tosec.json) | DAT | 2388 | 40 | 2428 | 98.4% |
+| [TheGamesDB](sources/tgdb.json) | API | 137 | 10 | 147 | 93.2% |
+| [TOSEC](sources/tosec.json) | DAT | 2395 | 33 | 2428 | 98.6% |
 | [TOSEC-ISO](sources/toseciso.json) | DAT | 241 | 0 | 241 | 100% |
-| [TOSEC-PIX](sources/tosecpix.json) | DAT | 642 | 219 | 861 | 74.6% |
+| [TOSEC-PIX](sources/tosecpix.json) | DAT | 643 | 218 | 861 | 74.7% |
 
 ### 💾 Emulators
 To be added soon

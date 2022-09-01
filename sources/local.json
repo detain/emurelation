@@ -42,6 +42,9 @@
                 ],
                 "mame": [
                     "apricot_flop"
+                ],
+                "nointro": [
+                    "ACT - Apricot PC Xi"
                 ]
             }
         },
@@ -357,6 +360,9 @@
                 "launchbox": [
                     "BBC Microcomputer System"
                 ],
+                "oldcomputers": [
+                    29
+                ],
                 "tosecpix": [
                     "Acorn BBC - Books",
                     "Acorn BBC - Magazines - Beebon, The",
@@ -368,6 +374,20 @@
                 ],
                 "tgdb": [
                     5013
+                ]
+            }
+        },
+        "Acorn BBC Master": {
+            "id": "Acorn BBC Master",
+            "name": "Acorn BBC Master",
+            "matches": {
+                "tosec": [
+                    "Acorn BBC Master - Demos"
+                ],
+                "oldcomputers": [
+                    729,
+                    850,
+                    989
                 ]
             }
         },
@@ -3373,11 +3393,6 @@
                 ]
             }
         },
-        "Commodore C16, C116 & Plus-4": {
-            "id": "Commodore C16, C116 & Plus-4",
-            "name": "Commodore C16, C116 & Plus-4",
-            "matches": []
-        },
         "Commodore C64": {
             "id": "Commodore C64",
             "name": "Commodore C64",
@@ -3943,6 +3958,10 @@
                 "launchbox": [
                     "Commodore Plus 4"
                 ],
+                "tgdb": [
+                    5006,
+                    5007
+                ],
                 "nointro": [
                     "Commodore - Plus-4"
                 ],
@@ -3961,9 +3980,6 @@
                 ],
                 "screenscraper": [
                     99
-                ],
-                "tgdb": [
-                    5007
                 ]
             }
         },
@@ -7116,12 +7132,27 @@
         "Matsushita National JR 200": {
             "id": "Matsushita National JR 200",
             "name": "Matsushita National JR 200",
-            "matches": []
+            "matches": {
+                "tosec": [
+                    "Matsushita JR-200 - Demos",
+                    "Matsushita JR-200 - Games - [CJR]",
+                    "Matsushita JR-200 - Games - [WAV]",
+                    "Matsushita JR-200 - Various"
+                ]
+            }
         },
         "Matsushita National JR-100": {
             "id": "Matsushita National JR-100",
             "name": "Matsushita National JR-100",
-            "matches": []
+            "matches": {
+                "tosec": [
+                    "Matsushita JR-100 - Games - [PRG]",
+                    "Matsushita JR-100 - Games - [WAV]"
+                ],
+                "tosecpix": [
+                    "Matsushita JR-100 - Manuals - Hardware"
+                ]
+            }
         },
         "Mattel Aquarius": {
             "id": "Mattel Aquarius",
@@ -8052,6 +8083,9 @@
             "id": "NEC PC-Engine CD & TurboGrafx-16 CD",
             "name": "NEC PC-Engine CD & TurboGrafx-16 CD",
             "matches": {
+                "nointro": [
+                    "Non-Redump - NEC - PC Engine CD + TurboGrafx CD"
+                ],
                 "tosecpix": [
                     "NEC PC-Engine CD & TurboGrafx-16 CD - Manuals - Games"
                 ],
@@ -10145,6 +10179,9 @@
                 "launchbox": [
                     "Sega CD"
                 ],
+                "nointro": [
+                    "Non-Redump - Sega - Sega Mega CD + Sega CD"
+                ],
                 "tgdb": [
                     21
                 ],
@@ -11942,6 +11979,13 @@
                     "Tangerine Oric-1 & Oric Atmos - Various - [Multipart]",
                     "Tangerine Oric-1 & Oric Atmos - Various - [TAP]"
                 ],
+                "tgdb": [
+                    4986
+                ],
+                "nointro": [
+                    "Tangerine Computer Systems - Oric (Flux)",
+                    "Tangerine Computer Systems - Oric (Waveform)"
+                ],
                 "launchbox": [
                     "Oric Atmos"
                 ]
@@ -12545,7 +12589,11 @@
         "Tiger Electronics Gizmondo": {
             "id": "Tiger Electronics Gizmondo",
             "name": "Tiger Electronics Gizmondo",
-            "matches": []
+            "matches": {
+                "tgdb": [
+                    4992
+                ]
+            }
         },
         "Tiger Electronics K28 Talking Learning Computer": {
             "id": "Tiger Electronics K28 Talking Learning Computer",
@@ -13574,6 +13622,9 @@
                 "launchbox": [
                     "Game Wave Family Entertainment System",
                     "GameWave"
+                ],
+                "tgdb": [
+                    5002
                 ],
                 "toseciso": [
                     "ZAPiT Games Game Wave Family Entertainment System - Games"

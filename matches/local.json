@@ -19,6 +19,9 @@
         ],
         "mame": [
             "ACT Apricot PC/Xi floppy disks"
+        ],
+        "nointro": [
+            "ACT - Apricot PC Xi"
         ]
     },
     "ACT Apricot Portable": {
@@ -161,6 +164,19 @@
         ],
         "launchbox": [
             "BBC"
+        ],
+        "oldcomputers": [
+            "BBC Model A / B / B+"
+        ]
+    },
+    "Acorn BBC Master": {
+        "tosec": [
+            "Acorn BBC Master - Demos"
+        ],
+        "oldcomputers": [
+            "BBC Master Compact",
+            "BBC Master",
+            "BBC Master AIV"
         ]
     },
     "Acorn BBC Micro": {
@@ -1258,7 +1274,6 @@
             "Commodore C128"
         ]
     },
-    "Commodore C16, C116 & Plus-4": [],
     "Commodore C64": {
         "tosec": [
             "Commodore C64"
@@ -1327,6 +1342,9 @@
         "launchbox": [
             "Commodore Plus 4",
             "Plus 4"
+        ],
+        "tgdb": [
+            "Commodore 16"
         ],
         "nointro": [
             "Commodore Plus-4",
@@ -2914,7 +2932,11 @@
     },
     "Matsushita National JR 200": {
         "tosec": [
-            "Matsushita National JR 200"
+            "Matsushita National JR 200",
+            "Matsushita JR-200 - Demos",
+            "Matsushita JR-200 - Games - [CJR]",
+            "Matsushita JR-200 - Games - [WAV]",
+            "Matsushita JR-200 - Various"
         ],
         "oldcomputers": [
             "Matsushita National JR 200"
@@ -2922,7 +2944,9 @@
     },
     "Matsushita National JR-100": {
         "tosec": [
-            "Matsushita National JR-100"
+            "Matsushita National JR-100",
+            "Matsushita JR-100 - Games - [PRG]",
+            "Matsushita JR-100 - Games - [WAV]"
         ]
     },
     "Mattel Aquarius": {
@@ -3414,6 +3438,9 @@
     "NEC PC-Engine CD & TurboGrafx-16 CD": {
         "tosec": [
             "NEC PC-Engine CD & TurboGrafx-16 CD"
+        ],
+        "nointro": [
+            "Non-Redump - NEC - PC Engine CD + TurboGrafx CD"
         ]
     },
     "NEC PC-FX": {
@@ -4577,6 +4604,9 @@
             "Sega CD",
             "CD"
         ],
+        "nointro": [
+            "Non-Redump - Sega - Sega Mega CD + Sega CD"
+        ],
         "tgdb": [
             "Sega CD"
         ],
@@ -5474,6 +5504,13 @@
         "tosec": [
             "Tangerine Oric-1 & Oric Atmos"
         ],
+        "tgdb": [
+            "Oric-1"
+        ],
+        "nointro": [
+            "Tangerine Computer Systems - Oric (Flux)",
+            "Tangerine Computer Systems - Oric (Waveform)"
+        ],
         "launchbox": [
             "Oric Atmos",
             "Atmos",
@@ -5742,7 +5779,11 @@
             "Game.com"
         ]
     },
-    "Tiger Electronics Gizmondo": [],
+    "Tiger Electronics Gizmondo": {
+        "tgdb": [
+            "Gizmondo"
+        ]
+    },
     "Tiger Electronics K28 Talking Learning Computer": {
         "tosec": [
             "Tiger Electronics K28 Talking Learning Computer"
@@ -6302,7 +6343,11 @@
         "launchbox": [
             "Game Wave Family Entertainment System",
             "GameWave"
+        ],
+        "tgdb": [
+            "Game Wave"
         ]
+
     },
     "Zeebo Zeebo": [],
     "Zilog MCZ-2": {
