@@ -1,4 +1,5 @@
 {
+    "8-Bit Productions Commander X16": [],
     "ACT Apricot": {
         "tosec": [
             "ACT Apricot"
@@ -17,7 +18,7 @@
             "ACT Apricot PC-Xi"
         ],
         "mame": [
-            "ACT Apricot PC\/Xi floppy disks"
+            "ACT Apricot PC/Xi floppy disks"
         ]
     },
     "ACT Apricot Portable": {
@@ -68,6 +69,8 @@
             "APF MP-1000"
         ]
     },
+    "APF M-1000": [],
+    "APF MP-1000": [],
     "APF PeCos One": {
         "tosec": [
             "APF PeCos One"
@@ -210,6 +213,7 @@
             "Acorn FileStore E01"
         ]
     },
+    "Acorn Risc PC": [],
     "Acorn System 1": {
         "tosec": [
             "Acorn System 1"
@@ -273,6 +277,7 @@
             "American Laser Games CD-ROM System"
         ]
     },
+    "American-Laser-Games CD-ROM System": [],
     "Amstrad CPC": {
         "launchbox": [
             "Amstrad CPC",
@@ -313,6 +318,8 @@
             "Amstrad Mega PC disk images"
         ]
     },
+    "Amstrad NC-100": [],
+    "Amstrad NC-200": [],
     "Amstrad PC1512": {
         "mame": [
             "Amstrad PC1512 diskettes",
@@ -359,6 +366,7 @@
             "Apple 1 cassettes"
         ]
     },
+    "Apple I": [],
     "Apple II": {
         "launchbox": [
             "Apple II"
@@ -382,6 +390,7 @@
             "apple2_flop_misc"
         ]
     },
+    "Apple II Plus": [],
     "Apple IIGS": {
         "launchbox": [
             "Apple IIGS",
@@ -402,6 +411,7 @@
             "Apple III 5.25 disks"
         ]
     },
+    "Apple IIe": [],
     "Apple Lisa": {
         "tosec": [
             "Apple Lisa"
@@ -421,7 +431,7 @@
         ],
         "mame": [
             "Mac Harddisks",
-            "Macintosh 400K\/800K Disk images"
+            "Macintosh 400K/800K Disk images"
         ],
         "tgdb": [
             "Mac OS"
@@ -491,15 +501,16 @@
             "Atari 2600 & VCS"
         ]
     },
+    "Atari 2600 & VCS": [],
     "Atari 400": {
         "oldcomputers": [
             "Atari 400"
         ]
     },
-    "Atari 400 \/ 800": {
+    "Atari 400 / 800": {
         "mame": [
-            "Atari 400 \/ 800 floppy disks",
-            "Atari 400 \/ 800 cassettes"
+            "Atari 400 / 800 floppy disks",
+            "Atari 400 / 800 cassettes"
         ]
     },
     "Atari 5200": {
@@ -554,6 +565,7 @@
             "Atari 7800 ProSystem"
         ]
     },
+    "Atari 8-bit Family": [],
     "Atari 800": {
         "launchbox": [
             "Atari 800",
@@ -681,6 +693,7 @@
             "BBC Bridge Companion cartridges"
         ]
     },
+    "BGR Computers Excalibur 64": [],
     "BNPO Bashkiria-2M": {
         "mame": [
             "BNPO Bashkiria-2M disk images"
@@ -715,9 +728,11 @@
     "Bandai Design Master": {
         "mame": [
             "Bandai Design Master 'Game' cartridges",
-            "Bandai Design Master 'Design \/ Media' cartridges"
+            "Bandai Design Master 'Design / Media' cartridges"
         ]
     },
+    "Bandai Design Master Denshi Mangajuku": [],
+    "Bandai Gundam RX-78": [],
     "Bandai Karaoke Ranking Party": {
         "mame": [
             "Bandai Karaoke Ranking Party cartridges"
@@ -735,6 +750,8 @@
             "Pippin CD-ROMs"
         ]
     },
+    "Bandai Pippin @World & Pippin Atmark": [],
+    "Bandai Playdia": [],
     "Bandai Playdia Quick Interactive System": {
         "redump": [
             "Bandai Playdia Quick Interactive System",
@@ -811,6 +828,9 @@
             "Pocket Challenge W cartridges"
         ]
     },
+    "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC": [],
+    "Bernd Huebler Huebler-Grafik-MC": [],
+    "Bit Corporation BIT 90": [],
     "Bit Corporation Gamate": {
         "tosec": [
             "Bit Corporation Gamate"
@@ -853,6 +873,7 @@
             "CCE MC-1000 cassettes"
         ]
     },
+    "COMX COMX-35": [],
     "COMX-35": {
         "mame": [
             "COMX-35 diskettes"
@@ -863,6 +884,7 @@
             "Cadaco Buzztime Trivia Cartridges"
         ]
     },
+    "Cambridge Computer Z88": [],
     "Cambridge Z88": {
         "mame": [
             "Z88 ROM cartridges"
@@ -900,6 +922,8 @@
             "Capcom CP System III"
         ]
     },
+    "Capcom Capcom Play System 1": [],
+    "Capcom Capcom Play System 2": [],
     "Casio": {
         "mame": [
             "Casio ROM Packs"
@@ -910,6 +934,7 @@
             "Casio CFX-9850"
         ]
     },
+    "Casio FP-1000 & FP-1100": [],
     "Casio Loopy": {
         "launchbox": [
             "Casio Loopy",
@@ -1024,6 +1049,7 @@
             "Coleco Colecovision"
         ]
     },
+    "Coleco ColecoVision ADAM": [],
     "Coleco Quiz Wiz": {
         "mame": [
             "Coleco Quiz Wiz cartridges"
@@ -1222,7 +1248,7 @@
     },
     "Commodore BX256-80HP - CBM 730": {
         "mame": [
-            "Commodore BX256-80HP \/ CBM 730 diskettes"
+            "Commodore BX256-80HP / CBM 730 diskettes"
         ]
     },
     "Commodore C128": {
@@ -1230,6 +1256,7 @@
             "Commodore C128"
         ]
     },
+    "Commodore C16, C116 & Plus-4": [],
     "Commodore C64": {
         "tosec": [
             "Commodore C64"
@@ -1265,6 +1292,7 @@
             "Commodore MAX Machine & VIC10"
         ]
     },
+    "Commodore MAX Machine & VIC10": [],
     "Commodore P500": {
         "mame": [
             "Commodore P500 diskettes"
@@ -1287,9 +1315,9 @@
     },
     "Commodore Plus-4 - C16 - C116": {
         "mame": [
-            "Commodore Plus\/4 \/ C16 \/ C116 cassettes",
-            "Commodore Plus\/4 cartridges",
-            "Commodore Plus\/4 diskettes"
+            "Commodore Plus/4 / C16 / C116 cassettes",
+            "Commodore Plus/4 cartridges",
+            "Commodore Plus/4 diskettes"
         ],
         "tosec": [
             "Commodore C16, C116 & Plus-4"
@@ -1305,19 +1333,19 @@
     },
     "Commodore SuperPET - MMF 9000": {
         "mame": [
-            "Commodore SuperPET \/ MMF 9000 diskettes"
+            "Commodore SuperPET / MMF 9000 diskettes"
         ]
     },
     "Commodore VIC-10": {
         "mame": [
-            "Commodore VIC-10 \/ Max Machine \/ UltiMax cartridges"
+            "Commodore VIC-10 / Max Machine / UltiMax cartridges"
         ]
     },
     "Commodore VIC-1001 - VIC-20": {
         "mame": [
-            "Commodore VIC-1001 \/ VIC-20 cartridges",
-            "Commodore VIC-1001 \/ VIC-20 cassettes",
-            "Commodore VIC-1001 \/ VIC-20 diskettes"
+            "Commodore VIC-1001 / VIC-20 cartridges",
+            "Commodore VIC-1001 / VIC-20 cassettes",
+            "Commodore VIC-1001 / VIC-20 diskettes"
         ]
     },
     "Commodore VIC-20": {
@@ -1474,12 +1502,15 @@
             "DEC VT-180"
         ]
     },
+    "Data Applications International DAI Personal Computer": [],
     "Dick Smith Super-80": {
         "mame": [
             "Dick Smith Super-80 floppies",
             "Super-80 cassettes"
         ]
     },
+    "Dick Smith Super-80, Super-80D, Super-80E & Super-80M": [],
+    "Dick Smith Super-80R & Super-80V": [],
     "Dick Smith System 80": {
         "tosec": [
             "Dick Smith System 80"
@@ -1487,9 +1518,9 @@
     },
     "Dick Smith VZ-200-300": {
         "mame": [
-            "Dick Smith VZ-200\/300 cassettes",
-            "Dick Smith Electronics VZ-200\/300 cassettes",
-            "Dick Smith Electronics VZ-200\/300 snapshots"
+            "Dick Smith VZ-200/300 cassettes",
+            "Dick Smith Electronics VZ-200/300 cassettes",
+            "Dick Smith Electronics VZ-200/300 snapshots"
         ]
     },
     "Didact Esselte 100": {
@@ -1497,19 +1528,20 @@
             "Didact Esselte 100"
         ]
     },
+    "Digital Electronics DIGIAC 3080": [],
     "Dragon 32-64": {
         "launchbox": [
-            "Dragon 32\/64",
+            "Dragon 32/64",
             "Dragon",
             "Dragon 32",
             "Dragon 64",
             "Dragon 32-64"
         ],
         "tgdb": [
-            "Dragon 32\/64"
+            "Dragon 32/64"
         ],
         "mame": [
-            "Dragon 32\/64 cassettes"
+            "Dragon 32/64 cassettes"
         ],
         "oldcomputers": [
             "Dragon Data Ltd Dragon 32"
@@ -1766,6 +1798,7 @@
             "Epson HX-20 Optional ROMs"
         ]
     },
+    "Epson PX-4 & HC-40": [],
     "Epson PX-8, HC-88 & Geneva": {
         "tosec": [
             "Epson PX-8, HC-88 & Geneva"
@@ -1786,7 +1819,7 @@
     },
     "Ericsson PC step-one": {
         "mame": [
-            "Ericsson PC step\/one diskettes"
+            "Ericsson PC step/one diskettes"
         ]
     },
     "Excalibur 64": {
@@ -1885,12 +1918,12 @@
     },
     "Fisher-Price - Mattel I Can Play Guitar": {
         "mame": [
-            "Fisher-Price \/ Mattel I Can Play Guitar cartridges"
+            "Fisher-Price / Mattel I Can Play Guitar cartridges"
         ]
     },
     "Fisher-Price - Mattel I Can Play Piano": {
         "mame": [
-            "Fisher-Price \/ Mattel I Can Play Piano cartridges"
+            "Fisher-Price / Mattel I Can Play Piano cartridges"
         ]
     },
     "Franklin ACE 100": {
@@ -1985,6 +2018,9 @@
             "Fujitsu FM77-AV"
         ]
     },
+    "Fujitsu FM77-AV": [],
+    "Fujitsu FMR50": [],
+    "Fukutake Publishing StudyBox": [],
     "Funtech Super A'Can": {
         "mame": [
             "Funtech Super A'Can cartridges"
@@ -2002,6 +2038,8 @@
             "Funtech Super A'can"
         ]
     },
+    "Funtech Super A'can": [],
+    "Future Pinball": [],
     "GCE Vectrex": {
         "launchbox": [
             "GCE Vectrex",
@@ -2045,11 +2083,14 @@
             "GALAKSIJA Galaksija"
         ]
     },
+    "Galaksija Galaksija": [],
+    "Galaksija Galaksija Plus": [],
     "Galaksija Plus": {
         "tosec": [
             "Galaksija Galaksija Plus"
         ]
     },
+    "GamePark GP2X": [],
     "GamePark GP32": {
         "launchbox": [
             "GamePark GP32",
@@ -2255,6 +2296,7 @@
             "Gould K450 Logic Analyzer"
         ]
     },
+    "Grundy NewBrain": [],
     "Gundam RX-78": {
         "mame": [
             "Gundam RX-78 cartridges"
@@ -2319,12 +2361,12 @@
     },
     "Hewlett-Packard HP 9845A-S": {
         "mame": [
-            "HP 9845A\/S Option ROMs"
+            "HP 9845A/S Option ROMs"
         ]
     },
     "Hewlett-Packard HP 9845B-T-C": {
         "mame": [
-            "HP 9845B\/T\/C Option ROMs"
+            "HP 9845B/T/C Option ROMs"
         ]
     },
     "Hewlett-Packard HP Integral PC": {
@@ -2332,9 +2374,9 @@
             "HP Integral PC diskettes"
         ]
     },
-    "Hewlett-Packard HP-86\/7": {
+    "Hewlett-Packard HP-86/7": {
         "mame": [
-            "HP-86\/7 Option ROMs"
+            "HP-86/7 Option ROMs"
         ]
     },
     "Hewlett-Packard HP48": {
@@ -2357,9 +2399,9 @@
     },
     "Hewlett-Packard HP9000-300": {
         "mame": [
-            "HP9000\/300 disks",
-            "HP9000\/300 CD-ROM images",
-            "HP9000\/300 hard disk images"
+            "HP9000/300 disks",
+            "HP9000/300 CD-ROM images",
+            "HP9000/300 hard disk images"
         ]
     },
     "Hewlett-Packard HP9835A-B": {
@@ -2367,9 +2409,10 @@
             "Hewlett-Packard HP9835A-B"
         ],
         "mame": [
-            "HP 9835A\/B Option ROMs"
+            "HP 9835A/B Option ROMs"
         ]
     },
+    "Hitachi S1": [],
     "HomeLab": {
         "tosec": [
             "HomeLab HomeLab"
@@ -2380,6 +2423,7 @@
             "HomeLab BraiLab"
         ]
     },
+    "HomeLab HomeLab": [],
     "IBM 1620": {
         "tosec": [
             "IBM 1620"
@@ -2395,6 +2439,7 @@
             "IBM PC 5140 Convertible disk images"
         ]
     },
+    "IBM PC Compatibles": [],
     "IBM PC and Compatibles": {
         "nointro": [
             "IBM PC and Compatibles",
@@ -2421,14 +2466,14 @@
     },
     "IBM PC-AT": {
         "mame": [
-            "IBM PC\/AT disk images",
-            "IBM PC\/AT CD-ROM images",
-            "IBM PC\/AT hard disk images"
+            "IBM PC/AT disk images",
+            "IBM PC/AT CD-ROM images",
+            "IBM PC/AT hard disk images"
         ]
     },
     "IBM PC-XT": {
         "mame": [
-            "IBM PC\/XT cassettes"
+            "IBM PC/XT cassettes"
         ]
     },
     "IBM PCjr": {
@@ -2462,6 +2507,7 @@
             "Incredible Technologies Eagle"
         ]
     },
+    "Incredible-Technologies Eagle": [],
     "Infocom Z-Machine": {
         "tosec": [
             "Infocom Z-Machine"
@@ -2560,7 +2606,7 @@
     },
     "JungleTac-KenSingTon Vii": {
         "mame": [
-            "JungleTac\/KenSingTon Vii cartridges"
+            "JungleTac/KenSingTon Vii cartridges"
         ]
     },
     "Jupiter Cantab Jupiter Ace": {
@@ -2581,9 +2627,9 @@
             "Jupiter"
         ]
     },
-    "Kaypro 4\/84": {
+    "Kaypro 4/84": {
         "mame": [
-            "Kaypro 4\/84 disk images"
+            "Kaypro 4/84 disk images"
         ]
     },
     "Kaypro II": {
@@ -2659,6 +2705,7 @@
             "LSI Octopus floppy disk images"
         ]
     },
+    "Lambda Electronics Lambda 8300": [],
     "Language Tutor": {
         "mame": [
             "Language Tutor modules"
@@ -2762,19 +2809,20 @@
             "M&D Monon Color cartridges"
         ]
     },
+    "MEGA MEGA65": [],
     "MGT Sam Coupe": {
         "launchbox": [
-            "SAM Coup\u00c3\u00a9",
-            "SAM Coup\u00e9",
-            "MGT SAM Coup\u00c3\u00a9",
-            "Coup\u00c3\u00a9",
+            "SAM CoupÃ©",
+            "SAM Coupé",
+            "MGT SAM CoupÃ©",
+            "CoupÃ©",
             "SAM Coupe",
             "Coupe",
             "MGT SAM Coupe"
         ],
         "tgdb": [
-            "Miles Gordon Technology SAM Coup\u00e9",
-            "SAM Coup\u00e9"
+            "Miles Gordon Technology SAM Coupé",
+            "SAM Coupé"
         ],
         "tosec": [
             "MGT Sam Coupe"
@@ -2794,11 +2842,15 @@
             "KIM-1 cassettes"
         ]
     },
+    "MSX MSX": [],
+    "MSX MSX2": [],
+    "MSX MSX2+": [],
     "MSX Palcom": {
         "tosec": [
             "MSX Palcom"
         ]
     },
+    "MSX TurboR": [],
     "Magnavox Odyssey 1": {
         "tgdb": [
             "Magnavox Odyssey 1"
@@ -2817,11 +2869,11 @@
     "Magnavox Odyssey 2": {
         "launchbox": [
             "Magnavox Odyssey 2",
-            "Magnavox Odyssey\u00c2\u00b2",
-            "Magnavox Odyssey \u00c2\u00b2",
+            "Magnavox OdysseyÂ²",
+            "Magnavox Odyssey Â²",
             "Odyssey 2",
-            "Odyssey\u00c2\u00b2",
-            "Odyssey \u00c2\u00b2"
+            "OdysseyÂ²",
+            "Odyssey Â²"
         ],
         "tgdb": [
             "Magnavox Odyssey 2"
@@ -2837,6 +2889,7 @@
             "Magnavox Odyssey2 cartridges"
         ]
     },
+    "Manfred Kramer Kramer-MC": [],
     "Matra Hachette Alice 32": {
         "tosec": [
             "Matra Hachette Alice 32"
@@ -2930,6 +2983,7 @@
             "Mattel Electronics Intellivision"
         ]
     },
+    "Mattel Intellivision ECS": [],
     "Mattel Juice Box": {
         "tosec": [
             "Mattel Juice Box"
@@ -2952,6 +3006,7 @@
             "Memorex - Visual Information System"
         ]
     },
+    "Memotech MTX": [],
     "Memotech MTX512": {
         "launchbox": [
             "Memotech MTX512",
@@ -3083,6 +3138,7 @@
             "MSX2+ disk images"
         ]
     },
+    "Microsoft Operating Systems": [],
     "Microsoft Windows": {
         "launchbox": [
             "Windows",
@@ -3139,26 +3195,7 @@
             "Microsoft Xbox"
         ]
     },
-    "Microsoft Xbox 360": {
-        "launchbox": [
-            "Microsoft Xbox 360",
-            "Xbox 360",
-            "360",
-            "MS Xbox 360"
-        ],
-        "tosec": [
-            "Microsoft Xbox 360"
-        ],
-        "tgdb": [
-            "Microsoft Xbox 360"
-        ],
-        "nointro": [
-            "Microsoft XBOX 360",
-            "Microsoft - XBOX 360 (Digital)",
-            "Microsoft XBOX 360 (Title Updates)",
-            "Microsoft - XBOX 360 (Title Updates) (Discontinued)"
-        ]
-    },
+    "Microsoft Xbox 360": [],
     "Microsoft Xbox One": {
         "launchbox": [
             "Microsoft Xbox One",
@@ -3213,6 +3250,7 @@
             "Mindset Corporation Mindset Floppy Discs"
         ]
     },
+    "Mitsubishi Multi 8": [],
     "Morrow MPZ80": {
         "mame": [
             "Morrow MPZ80 diskettes"
@@ -3223,6 +3261,7 @@
             "Motorola EXORciser"
         ]
     },
+    "Mr. Isizu Z80 TV Game System": [],
     "NCR Decision Mate V": {
         "tosec": [
             "NCR Decision Mate V"
@@ -3283,6 +3322,7 @@
             "NEC PC-8201(A) Option ROMs"
         ]
     },
+    "NEC PC-88": [],
     "NEC PC-88 series": {
         "redump": [
             "NEC PC-88 series",
@@ -3312,6 +3352,7 @@
             "NEC PC-88VA disk images"
         ]
     },
+    "NEC PC-98": [],
     "NEC PC-98 series": {
         "redump": [
             "NEC PC-98 series",
@@ -3348,7 +3389,7 @@
             "NEC PC-Engine & TurboGrafx-16"
         ],
         "mame": [
-            "NEC PC-Engine \/ Turbografx 16 CD-ROMs"
+            "NEC PC-Engine / Turbografx 16 CD-ROMs"
         ],
         "nointro": [
             "NEC - PC Engine TurboGrafx 16",
@@ -3389,6 +3430,7 @@
             "NEC PC-FXGA"
         ]
     },
+    "NEC SuperGrafx": [],
     "NEC TurboGrafx-CD": {
         "launchbox": [
             "NEC TurboGrafx-CD",
@@ -3599,6 +3641,8 @@
             "Famicom Disk System"
         ]
     },
+    "Nintendo Family Computer Disk System": [],
+    "Nintendo Family Computer Network System": [],
     "Nintendo Game & Watch": {
         "launchbox": [
             "Nintendo Game & Watch",
@@ -3685,6 +3729,7 @@
             "Nintendo Game Boy Color cartridges"
         ]
     },
+    "Nintendo Game and Watch": [],
     "Nintendo GameCube": {
         "launchbox": [
             "Nintendo GameCube",
@@ -3701,6 +3746,9 @@
             "Nintendo GameCube"
         ]
     },
+    "Nintendo Kiosk Video Compact Flash": [],
+    "Nintendo Mario no Photopi SmartMedia": [],
+    "Nintendo Nintendo Entertainment System": [],
     "Nintendo Play-Yan": {
         "tosec": [
             "Nintendo Play-Yan"
@@ -3718,7 +3766,7 @@
             "Nintendo Pokemon Mini"
         ],
         "tgdb": [
-            "Nintendo Pok\u00e9mon Mini"
+            "Nintendo Pokémon Mini"
         ],
         "mame": [
             "Nintendo Pokemini cartridges"
@@ -3810,25 +3858,7 @@
             "Nintendo Virtual Boy cartridges"
         ]
     },
-    "Nintendo Wii": {
-        "launchbox": [
-            "Nintendo Wii",
-            "Wii"
-        ],
-        "tosec": [
-            "Nintendo Wii"
-        ],
-        "tgdb": [
-            "Nintendo Wii"
-        ],
-        "nointro": [
-            "Nintendo Wii (Digital)",
-            "Nintendo - Wii (Digital) (CDN)",
-            "Nintendo - Wii (Digital) (WAD)",
-            "Nintendo Wii (Digital) (Split DLC)",
-            "Nintendo - Wii (Digital) (Split DLC) (WAD)"
-        ]
-    },
+    "Nintendo Wii": [],
     "Nintendo Wii U": {
         "launchbox": [
             "Nintendo Wii U",
@@ -3848,6 +3878,8 @@
             "Nintendo Wii U"
         ]
     },
+    "Nintendo Wii-U": [],
+    "Nintendo amiibo": [],
     "Nintendo e-Reader": {
         "nointro": [
             "Nintendo e-Reader",
@@ -3890,6 +3922,7 @@
             "Nuova Elettronica Z80NE floppies"
         ]
     },
+    "OCC Osborne 1 & Osborne Executive": [],
     "OCC Osborne 2 Executive": {
         "mame": [
             "Osborne 2 Executive diskettes"
@@ -3908,6 +3941,8 @@
             "Osborne-1 floppies"
         ]
     },
+    "Oh! MZ S-OS": [],
+    "Ohio Scientific Challenger 1P": [],
     "Olivetti M20": {
         "mame": [
             "Olivetti M20 floppies"
@@ -3947,6 +3982,7 @@
             "Ondra & Ondra ViLi cassettes"
         ]
     },
+    "OpenPandora Pandora": [],
     "Otrona Attache": {
         "tosec": [
             "Otrona Attache"
@@ -4040,6 +4076,7 @@
             "Pentagon (ZX Spectrum clone) cassettes"
         ]
     },
+    "Peters Plus Sprinter": [],
     "Philips CD-i": {
         "launchbox": [
             "Philips CD-i",
@@ -4083,9 +4120,9 @@
             "Philips VG-5000 cassette"
         ]
     },
-    "Philips Videopac \/ Odyssey 2": {
+    "Philips Videopac / Odyssey 2": {
         "mame": [
-            "Philips Videopac \/ Odyssey 2 cartridges"
+            "Philips Videopac / Odyssey 2 cartridges"
         ]
     },
     "Philips Videopac+": {
@@ -4117,6 +4154,7 @@
             "Pioneer LaserActive"
         ]
     },
+    "Pravetz 8D": [],
     "Psion Organiser I": {
         "mame": [
             "Psion Organiser I Datapack"
@@ -4142,6 +4180,7 @@
             "RCA Chip-8"
         ]
     },
+    "RCA Microboard Computer Development System": [],
     "RCA Studio II": {
         "launchbox": [
             "RCA Studio II",
@@ -4161,7 +4200,7 @@
             "RCA Studio II"
         ],
         "mame": [
-            "RCA Studio II \/ Victory MPT-02 cartridges"
+            "RCA Studio II / Victory MPT-02 cartridges"
         ]
     },
     "RCA Superchip": {
@@ -4238,6 +4277,9 @@
             "Raytheon 704"
         ]
     },
+    "Regnecentralen RC 700": [],
+    "Retroleum V6Z80P+": [],
+    "Robotron BIC A5105": [],
     "Robotron HC900, KC85 2, KC85 3 & KC85 4": {
         "tosec": [
             "Robotron HC900, KC85 2, KC85 3 & KC85 4"
@@ -4290,13 +4332,14 @@
             "Intel SDK-85"
         ]
     },
-    "SGI MIPS\/IRIX": {
+    "SGI MIPS/IRIX": {
         "mame": [
-            "SGI MIPS\/IRIX software",
+            "SGI MIPS/IRIX software",
             "Hard disk images for SGI MIPS",
             "sgi_mips_hdd"
         ]
     },
+    "SME Systems Aussie Byte II": [],
     "SNK Hyper Neo-Geo 64": {
         "tosec": [
             "SNK Hyper Neo-Geo 64"
@@ -4417,6 +4460,10 @@
             "Neo Geo Pocket Color"
         ]
     },
+    "SNK Neo-Geo AES": [],
+    "SNK Neo-Geo CD": [],
+    "SNK Neo-Geo Pocket": [],
+    "SNK Neo-Geo Pocket Color": [],
     "SSD Xavix Port": {
         "tgdb": [
             "Xavix Port"
@@ -4474,9 +4521,10 @@
     },
     "Sanyo MBC-200-MBC-1200": {
         "mame": [
-            "Sanyo MBC-200\/MBC-1200 diskettes"
+            "Sanyo MBC-200/MBC-1200 diskettes"
         ]
     },
+    "Sanyo MBC-550 & 555": [],
     "Sanyo MBC-550 and MBC-555": {
         "mame": [
             "Sanyo MBC-550 and MBC-555 disk images"
@@ -4631,7 +4679,7 @@
             "Sega - Mega Drive - Genesis"
         ],
         "mame": [
-            "Sega MegaDrive\/Genesis cartridges"
+            "Sega MegaDrive/Genesis cartridges"
         ]
     },
     "Sega Hikaru": {
@@ -4692,6 +4740,8 @@
             "Sega Mega Drive"
         ]
     },
+    "Sega Mega Drive & Genesis": [],
+    "Sega Mega-CD & Sega CD": [],
     "Sega MegaTech": {
         "mame": [
             "Sega MegaTech cartridges"
@@ -4714,6 +4764,7 @@
             "Model 3"
         ]
     },
+    "Sega NAOMI 2": [],
     "Sega Naomi": {
         "launchbox": [
             "Sega Naomi",
@@ -4740,6 +4791,7 @@
             "Sega NAOMI 2"
         ]
     },
+    "Sega PICO": [],
     "Sega Pico": {
         "launchbox": [
             "Sega Pico"
@@ -4876,6 +4928,7 @@
             "Sega WonderMega"
         ]
     },
+    "Seta Aleck64": [],
     "Sharp MZ-2000": {
         "mame": [
             "MZ-2000 cassettes",
@@ -4911,6 +4964,9 @@
             "Sharp MZ-800 & MZ-1500"
         ]
     },
+    "Sharp MZ-800 & MZ-1500": [],
+    "Sharp PC-G850, PC-G815 & E200": [],
+    "Sharp Wizard OZ-700 Series": [],
     "Sharp X1": {
         "launchbox": [
             "Sharp X1"
@@ -4974,9 +5030,10 @@
     },
     "Sinclair ZX Microdrive": {
         "mame": [
-            "Sinclair ZX Microdrive tapes\/cartridges"
+            "Sinclair ZX Microdrive tapes/cartridges"
         ]
     },
+    "Sinclair ZX Spectrum": [],
     "Sinclair ZX Spectrum +3": {
         "nointro": [
             "Sinclair ZX Spectrum +3",
@@ -4997,7 +5054,7 @@
         "mame": [
             "Sinclair ZX Spectrum cassettes",
             "ZX Spectrum +3 disk images",
-            "Sinclair ZX Spectrum Beta Disc \/ TR-DOS disk images",
+            "Sinclair ZX Spectrum Beta Disc / TR-DOS disk images",
             "spectrum_betadisc_flop",
             "Sinclair ZX Spectrum +3 disk images",
             "specpls3_flop",
@@ -5008,9 +5065,9 @@
             "Czerweny Spectrum"
         ]
     },
-    "Sinclair ZX Spectrum MGT DISCiPLE\/+D": {
+    "Sinclair ZX Spectrum MGT DISCiPLE/+D": {
         "mame": [
-            "ZX Spectrum MGT DISCiPLE\/+D disks"
+            "ZX Spectrum MGT DISCiPLE/+D disks"
         ]
     },
     "Sinclair ZX Spectrum Opus Discovery": {
@@ -5020,7 +5077,7 @@
     },
     "Sinclair ZX Wafadrive": {
         "mame": [
-            "Sinclair ZX Wafadrive tapes\/cartridges"
+            "Sinclair ZX Wafadrive tapes/cartridges"
         ]
     },
     "Sinclair ZX-80": {
@@ -5044,6 +5101,8 @@
             "zx81_cass"
         ]
     },
+    "Sinclair ZX80": [],
+    "Sinclair ZX81": [],
     "Sony Playstation": {
         "launchbox": [
             "Sony Playstation",
@@ -5138,6 +5197,7 @@
             "Sony Playstation 5"
         ]
     },
+    "Sony Playstation GameShark": [],
     "Sony Playstation Portable": {
         "nointro": [
             "Sony PlayStation Portable",
@@ -5192,6 +5252,7 @@
             "Sony PocketStation"
         ]
     },
+    "Sony SMC-777": [],
     "Sony SMC777": {
         "mame": [
             "Sony SMC777 Disks"
@@ -5232,7 +5293,7 @@
         "mame": [
             "Spectravision SVI-318 cartridges",
             "Spectravision SVI-318 cassettes",
-            "Spectravision SVI-318\/328 disk images"
+            "Spectravision SVI-318/328 disk images"
         ],
         "launchbox": [
             "Spectravideo"
@@ -5277,24 +5338,24 @@
     "Takara e-kara": {
         "mame": [
             "Takara e-kara (US) cartridges",
-            "Takara e-kara (UK\/Europe, PAL) cartridges",
+            "Takara e-kara (UK/Europe, PAL) cartridges",
             "Takara e-kara (Japan) Web cartridges",
             "Takara e-kara (Japan) ACxxxx series cartridges",
             "Takara e-kara (Japan) BH-xx series cartridges",
-            "Takara e-kara (Japan) D-xx \/ DCxxxx- series cartridges",
+            "Takara e-kara (Japan) D-xx / DCxxxx- series cartridges",
             "Takara e-kara (Japan) ECxxxx- series cartridges",
             "Takara e-kara (Japan) EN-xx series cartridges",
-            "Takara e-kara (Japan) G-xx \/ GCxxxx- series cartridges",
+            "Takara e-kara (Japan) G-xx / GCxxxx- series cartridges",
             "Takara e-kara (Japan) GK-xx series cartridges",
-            "Takara e-kara (Japan) P-xx \/ PCxxxx- series cartridges",
-            "Takara e-kara (Japan) M-xx \/ MCxxxx- series cartridges",
+            "Takara e-kara (Japan) P-xx / PCxxxx- series cartridges",
+            "Takara e-kara (Japan) M-xx / MCxxxx- series cartridges",
             "Takara e-kara (Japan) SP-xx series cartridges",
-            "Takara e-kara (Japan) S-xx \/ SCxxxx- series cartridges"
+            "Takara e-kara (Japan) S-xx / SCxxxx- series cartridges"
         ]
     },
     "Takara e-pitch - e-kara (Japan) A-x series": {
         "mame": [
-            "Takara e-pitch \/ e-kara (Japan) A-x series cartridges"
+            "Takara e-pitch / e-kara (Japan) A-x series cartridges"
         ]
     },
     "Tandberg TDV 2324": {
@@ -5389,6 +5450,7 @@
             "Microtan 65 snapshots"
         ]
     },
+    "Tangerine Oric Telestrat": [],
     "Tangerine Oric-1 & Oric Atmos": {
         "tosec": [
             "Tangerine Oric-1 & Oric Atmos"
@@ -5480,11 +5542,14 @@
             "Telenova Compis"
         ]
     },
+    "Telmac TMC-600": [],
     "Terak 8510A & 8600": {
         "tosec": [
             "Terak 8510A & 8600"
         ]
     },
+    "Tesla Ondra Vili": [],
+    "Tesla PMD 85": [],
     "Tesla PMD-85": {
         "mame": [
             "Tesla PMD-85 cassettes"
@@ -5569,19 +5634,20 @@
             "TI-95 cartridges"
         ]
     },
+    "Texas Instruments TI-99 4A": [],
     "Texas Instruments TI-99-4A": {
         "tgdb": [
-            "Texas Instruments TI-99\/4A"
+            "Texas Instruments TI-99/4A"
         ],
         "tosec": [
             "Texas Instruments TI-99 4A"
         ],
         "launchbox": [
-            "Texas Instruments TI 99\/4A",
+            "Texas Instruments TI 99/4A",
             "Texas Instruments TI 99-4A"
         ],
         "mame": [
-            "TI-99\/4A cartridges"
+            "TI-99/4A cartridges"
         ]
     },
     "Thomson MO5": {
@@ -5615,14 +5681,14 @@
         ],
         "mame": [
             "Thomson TO7 cartridges",
-            "Thomson TO7 & TO7\/70 QD disks",
-            "Thomson TO7 & TO7\/70 cassetes"
+            "Thomson TO7 & TO7/70 QD disks",
+            "Thomson TO7 & TO7/70 cassetes"
         ]
     },
     "Thomson TO7-70": {
         "mame": [
-            "Thomson TO7\/70 cartridges",
-            "Thomson TO7\/70 Arabic cartridges"
+            "Thomson TO7/70 cartridges",
+            "Thomson TO7/70 Arabic cartridges"
         ]
     },
     "Thomson TO8": {
@@ -5657,6 +5723,7 @@
             "Game.com"
         ]
     },
+    "Tiger Electronics Gizmondo": [],
     "Tiger Electronics K28 Talking Learning Computer": {
         "tosec": [
             "Tiger Electronics K28 Talking Learning Computer"
@@ -5699,6 +5766,7 @@
             "Timex Sinclair 2068 cassettes"
         ]
     },
+    "Timex Sinclair TS-2068": [],
     "Timex Sinclair TS-2068 DOCK": {
         "mame": [
             "Timex Sinclair TS-2068 DOCK cartridges"
@@ -5746,9 +5814,11 @@
     },
     "Torch Z80-68000": {
         "mame": [
-            "Torch Z80\/68000 Co-Processor discs"
+            "Torch Z80/68000 Co-Processor discs"
         ]
     },
+    "Toshiba Pasopia": [],
+    "Toshiba Pasopia 7": [],
     "Toshiba Personal Computer Pasopia PA7010": {
         "mame": [
             "Toshiba Personal Computer Pasopia PA7010 cassettes"
@@ -5801,6 +5871,7 @@
             "UNIVAC Series 90"
         ]
     },
+    "USSR Vector-06C": [],
     "Unisonic Champion 2711": {
         "mame": [
             "Unisonic Champion 2711 cartridges"
@@ -5853,6 +5924,8 @@
             "Nuon"
         ]
     },
+    "VM-Labs Nuon": [],
+    "VTech CreatiVision": [],
     "VTech Creativision": {
         "mame": [
             "V-Tech Creativision cartridges"
@@ -5948,9 +6021,10 @@
     },
     "VTech Laser 2001": {
         "mame": [
-            "V-Tech Laser 2001 \/ Salora Manager cartridges"
+            "V-Tech Laser 2001 / Salora Manager cartridges"
         ]
     },
+    "VTech Laser 2001 & CreatiVision": [],
     "VTech Laser 3000 & Dick Smith CAT": {
         "tosec": [
             "VTech Laser 3000 & Dick Smith CAT"
@@ -5961,6 +6035,7 @@
             "VTech Laser 310"
         ]
     },
+    "VTech Laser 350, 500, 700 & 750": [],
     "VTech Mobigo": {
         "mame": [
             "VTech Mobigo Cartridges"
@@ -5995,12 +6070,13 @@
             "VTech - V.Flash & V.Smile Pro"
         ],
         "mame": [
-            "VTech V.Flash\/V.Smile Pro V.Disc images"
+            "VTech V.Flash/V.Smile Pro V.Disc images"
         ],
         "tosec": [
             "VTech V.Flash Home Edutainment System"
         ]
     },
+    "VTech V.Flash Home Edutainment System": [],
     "VTech V.Smile": {
         "nointro": [
             "VTech V.Smile",
@@ -6031,7 +6107,7 @@
     },
     "Victor 9000 - ACT Sirius 1": {
         "mame": [
-            "Victor 9000 \/ ACT Sirius 1 diskettes"
+            "Victor 9000 / ACT Sirius 1 diskettes"
         ]
     },
     "Video Game Music Files": {
@@ -6045,6 +6121,7 @@
             "VideoBrain Family Computer cartridges"
         ]
     },
+    "Videoton TV-Computer": [],
     "Videoton TVC": {
         "mame": [
             "Videoton TVC cassettes",
@@ -6059,6 +6136,7 @@
             "Videoton TVC 64 cartridges"
         ]
     },
+    "Visual Pinball": [],
     "Visual Technology Visual 1050": {
         "tosec": [
             "Visual Technology Visual 1050"
@@ -6115,9 +6193,10 @@
             "Waveterm A disk images"
         ]
     },
-    "WinFun KidConnection SmarTV Adventures \/ Funtastic TV Adventures": {
+    "Welback Mega Duck": [],
+    "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures": {
         "mame": [
-            "WinFun KidConnection SmarTV Adventures \/ Funtastic TV Adventures cartridges"
+            "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures cartridges"
         ]
     },
     "WoW Action Max": {
@@ -6185,7 +6264,7 @@
             "Yamaha Copera"
         ],
         "mame": [
-            "Yamaha \/ Sega Copera cartridges"
+            "Yamaha / Sega Copera cartridges"
         ]
     },
     "Yeno MisterX": {
@@ -6206,6 +6285,7 @@
             "GameWave"
         ]
     },
+    "Zeebo Zeebo": [],
     "Zilog MCZ-2": {
         "tosec": [
             "Zilog MCZ-2"
@@ -6216,125 +6296,6 @@
             "funworld Photo Play"
         ]
     },
-    "8-Bit Productions Commander X16": [],
-    "APF M-1000": [],
-    "APF MP-1000": [],
-    "Acorn Risc PC": [],
-    "American-Laser-Games CD-ROM System": [],
-    "Amstrad NC-100": [],
-    "Amstrad NC-200": [],
-    "Apple I": [],
-    "Apple II Plus": [],
-    "Apple IIe": [],
-    "Atari 2600 & VCS": [],
-    "Atari 8-bit Family": [],
-    "BGR Computers Excalibur 64": [],
-    "Bandai Design Master Denshi Mangajuku": [],
-    "Bandai Gundam RX-78": [],
-    "Bandai Pippin @World & Pippin Atmark": [],
-    "Bandai Playdia": [],
-    "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC": [],
-    "Bernd Huebler Huebler-Grafik-MC": [],
-    "Bit Corporation BIT 90": [],
-    "COMX COMX-35": [],
-    "Cambridge Computer Z88": [],
-    "Capcom Capcom Play System 1": [],
-    "Capcom Capcom Play System 2": [],
-    "Casio FP-1000 & FP-1100": [],
-    "Coleco ColecoVision ADAM": [],
-    "Commodore C16, C116 & Plus-4": [],
-    "Commodore MAX Machine & VIC10": [],
-    "Data Applications International DAI Personal Computer": [],
-    "Dick Smith Super-80, Super-80D, Super-80E & Super-80M": [],
-    "Dick Smith Super-80R & Super-80V": [],
-    "Digital Electronics DIGIAC 3080": [],
-    "Epson PX-4 & HC-40": [],
-    "Fujitsu FM77-AV": [],
-    "Fujitsu FMR50": [],
-    "Fukutake Publishing StudyBox": [],
-    "Funtech Super A'can": [],
-    "Galaksija Galaksija": [],
-    "Galaksija Galaksija Plus": [],
-    "GamePark GP2X": [],
-    "Grundy NewBrain": [],
-    "Hitachi S1": [],
-    "HomeLab HomeLab": [],
-    "IBM PC Compatibles": [],
-    "Incredible-Technologies Eagle": [],
-    "Lambda Electronics Lambda 8300": [],
-    "MEGA MEGA65": [],
-    "MSX MSX": [],
-    "MSX MSX2": [],
-    "MSX MSX2+": [],
-    "MSX TurboR": [],
-    "Manfred Kramer Kramer-MC": [],
-    "Mattel Intellivision ECS": [],
-    "Memotech MTX": [],
-    "Microsoft Operating Systems": [],
-    "Microsoft Xbox 360": [],
-    "Mitsubishi Multi 8": [],
-    "Mr. Isizu Z80 TV Game System": [],
-    "NEC PC-88": [],
-    "NEC PC-98": [],
-    "NEC SuperGrafx": [],
-    "Nintendo Family Computer Disk System": [],
-    "Nintendo Family Computer Network System": [],
-    "Nintendo Game and Watch": [],
-    "Nintendo Kiosk Video Compact Flash": [],
-    "Nintendo Mario no Photopi SmartMedia": [],
-    "Nintendo Nintendo Entertainment System": [],
-    "Nintendo Wii": [],
-    "Nintendo Wii-U": [],
-    "Nintendo amiibo": [],
-    "OCC Osborne 1 & Osborne Executive": [],
-    "Oh! MZ S-OS": [],
-    "Ohio Scientific Challenger 1P": [],
-    "OpenPandora Pandora": [],
-    "Peters Plus Sprinter": [],
-    "Future Pinball": [],
-    "Visual Pinball": [],
-    "Pravetz 8D": [],
-    "RCA Microboard Computer Development System": [],
-    "Regnecentralen RC 700": [],
-    "Retroleum V6Z80P+": [],
-    "Robotron BIC A5105": [],
-    "SME Systems Aussie Byte II": [],
-    "SNK Neo-Geo AES": [],
-    "SNK Neo-Geo CD": [],
-    "SNK Neo-Geo Pocket": [],
-    "SNK Neo-Geo Pocket Color": [],
-    "Sanyo MBC-550 & 555": [],
-    "Sega Mega Drive & Genesis": [],
-    "Sega Mega-CD & Sega CD": [],
-    "Sega NAOMI 2": [],
-    "Sega PICO": [],
-    "Seta Aleck64": [],
-    "Sharp MZ-800 & MZ-1500": [],
-    "Sharp PC-G850, PC-G815 & E200": [],
-    "Sharp Wizard OZ-700 Series": [],
-    "Sinclair ZX Spectrum": [],
-    "Sinclair ZX80": [],
-    "Sinclair ZX81": [],
-    "Sony Playstation GameShark": [],
-    "Sony SMC-777": [],
-    "Tangerine Oric Telestrat": [],
-    "Telmac TMC-600": [],
-    "Tesla Ondra Vili": [],
-    "Tesla PMD 85": [],
-    "Texas Instruments TI-99 4A": [],
-    "Tiger Electronics Gizmondo": [],
-    "Timex Sinclair TS-2068": [],
-    "Toshiba Pasopia": [],
-    "Toshiba Pasopia 7": [],
-    "USSR Vector-06C": [],
-    "VM-Labs Nuon": [],
-    "VTech CreatiVision": [],
-    "VTech Laser 2001 & CreatiVision": [],
-    "VTech Laser 350, 500, 700 & 750": [],
-    "VTech V.Flash Home Edutainment System": [],
-    "Videoton TV-Computer": [],
-    "Welback Mega Duck": [],
-    "Zeebo Zeebo": [],
     "iQue iQue": {
         "tosec": [
             "iQue Player"
