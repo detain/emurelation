@@ -309,6 +309,9 @@
                 "screenscraper": [
                     36
                 ],
+                "oldcomputers": [
+                    80
+                ],
                 "tgdb": [
                     5014
                 ]
@@ -897,6 +900,9 @@
                 "tgdb": [
                     4942
                 ],
+                "oldcomputers": [
+                    68
+                ],
                 "mame": [
                     "apple2_cass",
                     "apple2_flop_clcracked",
@@ -930,6 +936,9 @@
             "id": "Apple II Plus",
             "name": "Apple II Plus",
             "matches": {
+                "oldcomputers": [
+                    36
+                ],
                 "nointro": [
                     "Apple - II Plus (Flux)",
                     "Apple - II Plus (WOZ)"
@@ -942,6 +951,9 @@
             "matches": {
                 "launchbox": [
                     "Apple IIGS"
+                ],
+                "oldcomputers": [
+                    71
                 ],
                 "tosec": [
                     "Apple IIGS - Applications - [2MG]",
@@ -994,6 +1006,9 @@
                     "Apple III - Magazines - On Three",
                     "Apple III - Manuals - Hardware",
                     "Apple III - Newsletters - Dimensions"
+                ],
+                "oldcomputers": [
+                    72
                 ]
             }
         },
@@ -1005,6 +1020,9 @@
                     "Apple - IIe (A2R)",
                     "Apple - IIe (Kryoflux)",
                     "Apple - IIe (WOZ)"
+                ],
+                "oldcomputers": [
+                    83
                 ]
             }
         },
@@ -1081,6 +1099,9 @@
                     "Apple - Macintosh (KryoFlux)",
                     "Apple - Macintosh (Uncategorized)",
                     "Apple - Macintosh (WOZ)"
+                ],
+                "oldcomputers": [
+                    271
                 ],
                 "screenscraper": [
                     146
@@ -1492,6 +1513,9 @@
                 ],
                 "screenscraper": [
                     28
+                ],
+                "oldcomputers": [
+                    158
                 ]
             }
         },
@@ -1512,6 +1536,9 @@
             "matches": {
                 "mame": [
                     "pofo"
+                ],
+                "oldcomputers": [
+                    356
                 ]
             }
         },
@@ -1953,6 +1980,9 @@
             "id": "Bit Corporation BIT 90",
             "name": "Bit Corporation BIT 90",
             "matches": {
+                "oldcomputers": [
+                    93
+                ],
                 "tosec": [
                     "Bit Corporation BIT 90 - Games"
                 ]
@@ -2120,6 +2150,9 @@
                     "Canon Cat - Manuals - Applications",
                     "Canon Cat - Manuals - Hardware",
                     "Canon Cat - Manuals - Technical"
+                ],
+                "oldcomputers": [
+                    642
                 ]
             }
         },
@@ -3142,6 +3175,9 @@
             "matches": {
                 "mame": [
                     "amiga_a1000"
+                ],
+                "oldcomputers": [
+                    28
                 ]
             }
         },
@@ -3151,6 +3187,9 @@
             "matches": {
                 "mame": [
                     "amiga_a3000"
+                ],
+                "oldcomputers": [
+                    30
                 ]
             }
         },
@@ -4076,6 +4115,9 @@
             "matches": {
                 "mame": [
                     "compclr2_flop"
+                ],
+                "oldcomputers": [
+                    560
                 ]
             }
         },
@@ -4121,6 +4163,9 @@
             "matches": {
                 "mame": [
                     "prof80"
+                ],
+                "oldcomputers": [
+                    992
                 ]
             }
         },
@@ -5053,6 +5098,9 @@
                 ],
                 "screenscraper": [
                     165
+                ],
+                "oldcomputers": [
+                    214
                 ]
             }
         },
@@ -5455,7 +5503,8 @@
                     "galaxy"
                 ],
                 "oldcomputers": [
-                    330
+                    330,
+                    385
                 ]
             }
         },
@@ -5547,6 +5596,9 @@
                 ],
                 "mame": [
                     "mame"
+                ],
+                "screenscraper": [
+                    75
                 ]
             }
         },
@@ -5775,6 +5827,9 @@
             "matches": {
                 "mame": [
                     "squale_cart"
+                ],
+                "oldcomputers": [
+                    224
                 ]
             }
         },
@@ -5873,6 +5928,9 @@
             "matches": {
                 "tgdb": [
                     4951
+                ],
+                "oldcomputers": [
+                    108
                 ]
             }
         },
@@ -5885,6 +5943,9 @@
                 ],
                 "tosec": [
                     "Hanimex Pencil II - Games"
+                ],
+                "oldcomputers": [
+                    136
                 ]
             }
         },
@@ -5929,6 +5990,9 @@
             "matches": {
                 "launchbox": [
                     "Hector HRX"
+                ],
+                "oldcomputers": [
+                    142
                 ]
             }
         },
@@ -6084,6 +6148,9 @@
                 "tosecpix": [
                     "HomeLab HomeLab - Manuals - Hardware (HU)",
                     "HomeLab HomeLab - Manuals - Software (HU)"
+                ],
+                "oldcomputers": [
+                    1095
                 ]
             }
         },
@@ -6165,7 +6232,9 @@
                     "IBM - PC and Compatibles (KryoFluxWIP)",
                     "IBM - PC and Compatibles (LooseFilesArchive)",
                     "IBM - PC and Compatibles (SCP)",
-                    "Source Code - IBM - PC and Compatibles"
+                    "Source Code - IBM - PC and Compatibles",
+                    "Non-Redump - IBM - PC Compatible (Discs)",
+                    "Non-Redump - IBM - PC Compatible (Discs) (Hentai)"
                 ],
                 "redump": [
                     "IBM - PC compatible"
@@ -6585,6 +6654,9 @@
                     "Jupiter Cantab Jupiter Ace - Sources - [ASM]",
                     "Jupiter Cantab Jupiter Ace - Sources - [TXT]"
                 ],
+                "oldcomputers": [
+                    147
+                ],
                 "mame": [
                     "jupace_cass",
                     "jupace_snap"
@@ -6597,9 +6669,6 @@
                     "Jupiter Cantab Jupiter Ace - Magazines - Ace User",
                     "Jupiter Cantab Jupiter Ace - Manuals - Applications",
                     "Jupiter Cantab Jupiter Ace - Manuals - Hardware"
-                ],
-                "oldcomputers": [
-                    147
                 ],
                 "screenscraper": [
                     126
@@ -6991,6 +7060,9 @@
                     "MITS Altair 8800 - Various - [BIN]",
                     "MITS Altair 8800 - Various - [DSK]",
                     "MITS Altair 8800 - Various - [HEX]"
+                ],
+                "oldcomputers": [
+                    62
                 ]
             }
         },
@@ -7042,12 +7114,12 @@
                 "launchbox": [
                     "Magnavox Odyssey"
                 ],
+                "oldcomputers": [
+                    883
+                ],
                 "tosecpix": [
                     "Magnavox Odyssey - Manuals - Hardware",
                     "Magnavox Odyssey - Manuals - Software"
-                ],
-                "oldcomputers": [
-                    883
                 ]
             }
         },
@@ -7126,6 +7198,9 @@
                 ],
                 "mame": [
                     "alice90"
+                ],
+                "oldcomputers": [
+                    61
                 ]
             }
         },
@@ -7138,6 +7213,9 @@
                     "Matsushita JR-200 - Games - [CJR]",
                     "Matsushita JR-200 - Games - [WAV]",
                     "Matsushita JR-200 - Various"
+                ],
+                "oldcomputers": [
+                    324
                 ]
             }
         },
@@ -7723,6 +7801,9 @@
                     "mt65_rom",
                     "mt65_cass",
                     "mt65_snap"
+                ],
+                "oldcomputers": [
+                    166
                 ]
             }
         },
@@ -7847,6 +7928,9 @@
                 ],
                 "mame": [
                     "apc"
+                ],
+                "oldcomputers": [
+                    333
                 ]
             }
         },
@@ -8738,6 +8822,9 @@
                 ],
                 "mame": [
                     "pokemini"
+                ],
+                "screenscraper": [
+                    211
                 ]
             }
         },
@@ -8984,6 +9071,9 @@
                     "NorthStar Advantage - Applications",
                     "NorthStar Advantage - Collections - North Star Computer Society",
                     "NorthStar Advantage - Operating Systems"
+                ],
+                "oldcomputers": [
+                    652
                 ]
             }
         },
@@ -9001,6 +9091,9 @@
                 ],
                 "mame": [
                     "horizon"
+                ],
+                "oldcomputers": [
+                    50
                 ]
             }
         },
@@ -9073,6 +9166,9 @@
             "id": "Ohio Scientific Challenger 1P",
             "name": "Ohio Scientific Challenger 1P",
             "matches": {
+                "oldcomputers": [
+                    813
+                ],
                 "tosec": [
                     "Ohio Scientific Challenger 1P - Games"
                 ]
@@ -9137,6 +9233,9 @@
             "matches": {
                 "mame": [
                     "ondra"
+                ],
+                "oldcomputers": [
+                    612
                 ]
             }
         },
@@ -9194,6 +9293,9 @@
                     "PEL Varazdin Orao - Firmware",
                     "PEL Varazdin Orao - Games",
                     "PEL Varazdin Orao - Various"
+                ],
+                "oldcomputers": [
+                    981
                 ],
                 "mame": [
                     "orao"
@@ -9486,6 +9588,9 @@
             "matches": {
                 "mame": [
                     "psion2"
+                ],
+                "oldcomputers": [
+                    1203
                 ]
             }
         },
@@ -9772,6 +9877,9 @@
             "matches": {
                 "mame": [
                     "rwtrntcs"
+                ],
+                "oldcomputers": [
+                    727
                 ]
             }
         },
@@ -10419,6 +10527,9 @@
             "matches": {
                 "launchbox": [
                     "Sega Hikaru"
+                ],
+                "screenscraper": [
+                    258
                 ]
             }
         },
@@ -10598,7 +10709,11 @@
         "Sega PICO": {
             "id": "Sega PICO",
             "name": "Sega PICO",
-            "matches": []
+            "matches": {
+                "screenscraper": [
+                    250
+                ]
+            }
         },
         "Sega Pico": {
             "id": "Sega Pico",
@@ -10623,9 +10738,6 @@
                 ],
                 "tosecpix": [
                     "Sega Pico - Manuals - Games"
-                ],
-                "screenscraper": [
-                    250
                 ]
             }
         },
@@ -10835,6 +10947,9 @@
                     "Sega WonderMega - CD - Educational - [ISO]",
                     "Sega WonderMega - CD - Games",
                     "Sega WonderMega - CD - Samplers"
+                ],
+                "oldcomputers": [
+                    1237
                 ]
             }
         },
@@ -11267,7 +11382,9 @@
                     "spectrum_cart"
                 ],
                 "oldcomputers": [
-                    949
+                    949,
+                    223,
+                    222
                 ],
                 "tosecpix": [
                     "Sinclair ZX Spectrum - Books",
@@ -11897,6 +12014,9 @@
             "matches": {
                 "tosec": [
                     "Tandy Radio Shack TRS-80 Model III - Various"
+                ],
+                "oldcomputers": [
+                    18
                 ]
             }
         },
@@ -11988,6 +12108,9 @@
                 ],
                 "launchbox": [
                     "Oric Atmos"
+                ],
+                "oldcomputers": [
+                    79
                 ]
             }
         },
@@ -12019,6 +12142,9 @@
                 ],
                 "mame": [
                     "einstein"
+                ],
+                "oldcomputers": [
+                    86
                 ]
             }
         },
@@ -12101,6 +12227,9 @@
                 ],
                 "mame": [
                     "zorba"
+                ],
+                "oldcomputers": [
+                    637
                 ]
             }
         },
@@ -12631,6 +12760,9 @@
                 ],
                 "mame": [
                     "tiki100"
+                ],
+                "oldcomputers": [
+                    734
                 ]
             }
         },
@@ -12762,6 +12894,9 @@
                 "nointro": [
                     "Toshiba - Pasopia (BIN)",
                     "Toshiba - Pasopia (WAV)"
+                ],
+                "oldcomputers": [
+                    412
                 ]
             }
         },
@@ -12769,6 +12904,9 @@
             "id": "Toshiba Pasopia 7",
             "name": "Toshiba Pasopia 7",
             "matches": {
+                "oldcomputers": [
+                    413
+                ],
                 "tosec": [
                     "Toshiba Pasopia 7 - Games"
                 ]
@@ -12925,6 +13063,9 @@
             "matches": {
                 "mame": [
                     "uzebox"
+                ],
+                "screenscraper": [
+                    216
                 ]
             }
         },
@@ -13167,7 +13308,11 @@
         "VTech Laser 3000 & Dick Smith CAT": {
             "id": "VTech Laser 3000 & Dick Smith CAT",
             "name": "VTech Laser 3000 & Dick Smith CAT",
-            "matches": []
+            "matches": {
+                "tosec": [
+                    "Vtech Laser 3000 & Dick Smith CAT - Operating Systems"
+                ]
+            }
         },
         "VTech Laser 310": {
             "id": "VTech Laser 310",
@@ -13390,6 +13535,9 @@
                     "Visual Technology Visual 1050 - Firmware",
                     "Visual Technology Visual 1050 - Operating Systems",
                     "Visual Technology Visual 1050 - Sources"
+                ],
+                "oldcomputers": [
+                    842
                 ],
                 "mame": [
                     "v1050_flop",
