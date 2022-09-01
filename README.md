@@ -74,12 +74,7 @@ Wont have these mapped for a while yet
   - IGDB
 
 ### 🔁 Schemas and Data Definitions
-- Types to match between sources:
-  - Companies
-  - Platforms
-  - Emulators
-  - Games
-- Sources list will define each source with (* required):
+- Source Definitions list will define each source with (* required):
   - id*
   - name*
   - type*
@@ -88,15 +83,29 @@ Wont have these mapped for a while yet
   - updatedLast
   - updateTrigger
   - web<url, name>
-- each Source will have (* required):
-  - id*
-  - name*
-  - shortName (dirname)
-  - company
-  - manufacturer
-  - developer
-  - altNames[]
-  - images<url,type>
-  - web<url, name>
-  - matches[source][id]
-
+- Source Data will have (* required):
+  - platforms<>
+    - id*
+    - name*
+    - shortName (dirname)
+    - company
+    - manufacturer
+    - developer
+    - altNames[]
+    - images<url,type>
+    - web<url, name>
+    - matches[source][id]
+  - companies<>
+    - id*
+    - name*
+    - matches[source][id]
+  - emulators<>
+    - id*
+    - name*
+    - platforms[]
+    - matches[source][id]
+  - games<>
+    - id*
+    - name*
+    - platform*
+    - matches[source][id]
