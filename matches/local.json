@@ -392,6 +392,9 @@
         "tgdb": [
             "Apple II"
         ],
+        "oldcomputers": [
+            "APPLE II"
+        ],
         "mame": [
             "Apple II cassettes",
             "Apple II cleanly cracked 5.25 disks",
@@ -405,11 +408,18 @@
             "apple2_flop_misc"
         ]
     },
-    "Apple II Plus": [],
+    "Apple II Plus": {
+        "oldcomputers": [
+            "APPLE IIc Plus"
+        ]
+    },
     "Apple IIGS": {
         "launchbox": [
             "Apple IIGS",
             "Apple II GS"
+        ],
+        "oldcomputers": [
+            "APPLE IIgs"
         ],
         "tosec": [
             "Apple IIGS"
@@ -5474,6 +5484,9 @@
     "Tandy Radio Shack TRS-80 Model III": {
         "tosec": [
             "Tandy Radio Shack TRS-80 Model III"
+        ],
+        "oldcomputers": [
+            "TRS 80 MODEL III"
         ]
     },
     "Tandy Radio Shack Tandy 1000 series": {
