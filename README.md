@@ -77,6 +77,8 @@ Wont have these mapped for a while yet
   - HyperSpin
   - RecalBox
   - RetroPie
+  - MobyGames
+  - IGDB
 
 ### 🔁 Schemas and Data Definitions
 - Types to match between sources:
@@ -88,7 +90,7 @@ Wont have these mapped for a while yet
   - id*
   - name*
   - type*
-  - info
+  - description
   - provides[]*
   - updatedLast
   - updateTrigger
