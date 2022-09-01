@@ -484,6 +484,9 @@
             "matches": {
                 "nointro": [
                     "Acorn - Risc PC (Pauline)"
+                ],
+                "oldcomputers": [
+                    1015
                 ]
             }
         },
@@ -2152,7 +2155,8 @@
                     "Canon Cat - Manuals - Technical"
                 ],
                 "oldcomputers": [
-                    642
+                    642,
+                    974
                 ]
             }
         },
