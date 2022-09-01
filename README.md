@@ -37,12 +37,12 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 |-|-|-|-|-|
 | launchbox | 183 | 0 | 183 | 100% |
 | mame | 600 | 60 | 660 | 90.9% |
-| nointro | 221 | 63 | 284 | 77.8% |
-| oldcomputers | 107 | 1179 | 1286 | 8.3% |
+| nointro | 246 | 38 | 284 | 86.6% |
+| oldcomputers | 110 | 1176 | 1286 | 8.6% |
 | redump | 50 | 1 | 51 | 98% |
-| screenscraper | 145 | 79 | 224 | 64.7% |
+| screenscraper | 148 | 76 | 224 | 66.1% |
 | tgdb | 133 | 14 | 147 | 90.5% |
-| tosec | 2326 | 102 | 2428 | 95.8% |
+| tosec | 2388 | 40 | 2428 | 98.4% |
 | toseciso | 241 | 0 | 241 | 100% |
 | tosecpix | 642 | 219 | 861 | 74.6% |
 
