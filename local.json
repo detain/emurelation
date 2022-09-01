@@ -13115,6 +13115,9 @@
                 "nointro": [
                     "Source Code - VM Labs - NUON",
                     "VM Labs - NUON (Digital)"
+                ],
+                "mame": [
+                    "nuon"
                 ]
             }
         },
@@ -13827,5 +13830,8 @@
                 ]
             }
         }
-    }
+    },
+    "companies": [],
+    "emulators": [],
+    "games": []
 }

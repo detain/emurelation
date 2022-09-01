@@ -1811,5 +1811,781 @@
             "developer": "Sony",
             "manufacturer": "Sony"
         }
-    }
+    },
+    "companies": {
+        "The 3DO Company": {
+            "id": "The 3DO Company",
+            "name": "The 3DO Company"
+        },
+        "Panasonic Corporation, Sanyo Electric Co., Ltd., GoldStar": {
+            "id": "Panasonic Corporation, Sanyo Electric Co., Ltd., GoldStar",
+            "name": "Panasonic Corporation, Sanyo Electric Co., Ltd., GoldStar"
+        },
+        "Commodore International": {
+            "id": "Commodore International",
+            "name": "Commodore International"
+        },
+        "Amstrad": {
+            "id": "Amstrad",
+            "name": "Amstrad"
+        },
+        "Google": {
+            "id": "Google",
+            "name": "Google"
+        },
+        "Various": {
+            "id": "Various",
+            "name": "Various"
+        },
+        "Atari, Inc.": {
+            "id": "Atari, Inc.",
+            "name": "Atari, Inc."
+        },
+        "Atari Corporation": {
+            "id": "Atari Corporation",
+            "name": "Atari Corporation"
+        },
+        "IBM": {
+            "id": "IBM",
+            "name": "IBM"
+        },
+        "Atari Corporation, Epyx, Inc.": {
+            "id": "Atari Corporation, Epyx, Inc.",
+            "name": "Atari Corporation, Epyx, Inc."
+        },
+        "Atari": {
+            "id": "Atari",
+            "name": "Atari"
+        },
+        "Coleco Industries, Inc.": {
+            "id": "Coleco Industries, Inc.",
+            "name": "Coleco Industries, Inc."
+        },
+        "Commodore Business Machines": {
+            "id": "Commodore Business Machines",
+            "name": "Commodore Business Machines"
+        },
+        "Mattel Electronics": {
+            "id": "Mattel Electronics",
+            "name": "Mattel Electronics"
+        },
+        "Apple": {
+            "id": "Apple",
+            "name": "Apple"
+        },
+        "Microsoft Corporation": {
+            "id": "Microsoft Corporation",
+            "name": "Microsoft Corporation"
+        },
+        "Flextronics International Ltd.": {
+            "id": "Flextronics International Ltd.",
+            "name": "Flextronics International Ltd."
+        },
+        "Flextronics International Ltd., Foxconn Technology Group, Celestica Inc., Wistron Corporation": {
+            "id": "Flextronics International Ltd., Foxconn Technology Group, Celestica Inc., Wistron Corporation",
+            "name": "Flextronics International Ltd., Foxconn Technology Group, Celestica Inc., Wistron Corporation"
+        },
+        "Microsoft": {
+            "id": "Microsoft",
+            "name": "Microsoft"
+        },
+        "SNK": {
+            "id": "SNK",
+            "name": "SNK"
+        },
+        "Nintendo RED": {
+            "id": "Nintendo RED",
+            "name": "Nintendo RED"
+        },
+        "Nintendo, Foxconn": {
+            "id": "Nintendo, Foxconn",
+            "name": "Nintendo, Foxconn"
+        },
+        "Nintendo IRD": {
+            "id": "Nintendo IRD",
+            "name": "Nintendo IRD"
+        },
+        "Nintendo": {
+            "id": "Nintendo",
+            "name": "Nintendo"
+        },
+        "Foxconn": {
+            "id": "Foxconn",
+            "name": "Foxconn"
+        },
+        "Nintendo R&D2": {
+            "id": "Nintendo R&D2",
+            "name": "Nintendo R&D2"
+        },
+        "Nintendo Co., Ltd.": {
+            "id": "Nintendo Co., Ltd.",
+            "name": "Nintendo Co., Ltd."
+        },
+        "Nintendo / Foxconn": {
+            "id": "Nintendo / Foxconn",
+            "name": "Nintendo / Foxconn"
+        },
+        "Nintendo, Foxconn, Mitsumi": {
+            "id": "Nintendo, Foxconn, Mitsumi",
+            "name": "Nintendo, Foxconn, Mitsumi"
+        },
+        "Ouya, Inc.": {
+            "id": "Ouya, Inc.",
+            "name": "Ouya, Inc."
+        },
+        "Philips": {
+            "id": "Philips",
+            "name": "Philips"
+        },
+        "Sega": {
+            "id": "Sega",
+            "name": "Sega"
+        },
+        "Sega Enterprises": {
+            "id": "Sega Enterprises",
+            "name": "Sega Enterprises"
+        },
+        "SEGA Enterprises Ltd.": {
+            "id": "SEGA Enterprises Ltd.",
+            "name": "SEGA Enterprises Ltd."
+        },
+        "Sega, Victor, Samsung, Hitachi": {
+            "id": "Sega, Victor, Samsung, Hitachi",
+            "name": "Sega, Victor, Samsung, Hitachi"
+        },
+        "Sinclair Research": {
+            "id": "Sinclair Research",
+            "name": "Sinclair Research"
+        },
+        "Sony Computer Entertainment": {
+            "id": "Sony Computer Entertainment",
+            "name": "Sony Computer Entertainment"
+        },
+        "Sony": {
+            "id": "Sony",
+            "name": "Sony"
+        },
+        "SCEI": {
+            "id": "SCEI",
+            "name": "SCEI"
+        },
+        "Sony EMCS, Foxconn, ASUSTeK": {
+            "id": "Sony EMCS, Foxconn, ASUSTeK",
+            "name": "Sony EMCS, Foxconn, ASUSTeK"
+        },
+        "Sony, Foxconn": {
+            "id": "Sony, Foxconn",
+            "name": "Sony, Foxconn"
+        },
+        "NEC Corporation, Hudson Soft": {
+            "id": "NEC Corporation, Hudson Soft",
+            "name": "NEC Corporation, Hudson Soft"
+        },
+        "Bandai Co., Ltd.": {
+            "id": "Bandai Co., Ltd.",
+            "name": "Bandai Co., Ltd."
+        },
+        "Magnavox / Philips": {
+            "id": "Magnavox / Philips",
+            "name": "Magnavox / Philips"
+        },
+        "Fairchild Semiconductor": {
+            "id": "Fairchild Semiconductor",
+            "name": "Fairchild Semiconductor"
+        },
+        "Acorn Computers": {
+            "id": "Acorn Computers",
+            "name": "Acorn Computers"
+        },
+        "Memotech": {
+            "id": "Memotech",
+            "name": "Memotech"
+        },
+        "Camputers": {
+            "id": "Camputers",
+            "name": "Camputers"
+        },
+        "Tiger Electronics": {
+            "id": "Tiger Electronics",
+            "name": "Tiger Electronics"
+        },
+        "Oric Products": {
+            "id": "Oric Products",
+            "name": "Oric Products"
+        },
+        "Dragon Data": {
+            "id": "Dragon Data",
+            "name": "Dragon Data"
+        },
+        "Entex Industries": {
+            "id": "Entex Industries",
+            "name": "Entex Industries"
+        },
+        "APF Electronics": {
+            "id": "APF Electronics",
+            "name": "APF Electronics"
+        },
+        "Radofin": {
+            "id": "Radofin",
+            "name": "Radofin"
+        },
+        "Jupiter Cantab": {
+            "id": "Jupiter Cantab",
+            "name": "Jupiter Cantab"
+        },
+        "MGT": {
+            "id": "MGT",
+            "name": "MGT"
+        },
+        "Intelligent Software": {
+            "id": "Intelligent Software",
+            "name": "Intelligent Software"
+        },
+        "Enterprise Computers": {
+            "id": "Enterprise Computers",
+            "name": "Enterprise Computers"
+        },
+        "EACA": {
+            "id": "EACA",
+            "name": "EACA"
+        },
+        "Tapwave": {
+            "id": "Tapwave",
+            "name": "Tapwave"
+        },
+        "Midway": {
+            "id": "Midway",
+            "name": "Midway"
+        },
+        "Bally, Astrovision": {
+            "id": "Bally, Astrovision",
+            "name": "Bally, Astrovision"
+        },
+        "Magnavox": {
+            "id": "Magnavox",
+            "name": "Magnavox"
+        },
+        "Emerson Radio": {
+            "id": "Emerson Radio",
+            "name": "Emerson Radio"
+        },
+        "Epoch": {
+            "id": "Epoch",
+            "name": "Epoch"
+        },
+        "Evans & Sutherland": {
+            "id": "Evans & Sutherland",
+            "name": "Evans & Sutherland"
+        },
+        "Namco": {
+            "id": "Namco",
+            "name": "Namco"
+        },
+        "Sega and Lockheed Martin": {
+            "id": "Sega and Lockheed Martin",
+            "name": "Sega and Lockheed Martin"
+        },
+        "Sammy Corporation": {
+            "id": "Sammy Corporation",
+            "name": "Sammy Corporation"
+        },
+        "Steve Wozniak/Steve Jobs, Apple Computer, Inc.": {
+            "id": "Steve Wozniak/Steve Jobs, Apple Computer, Inc.",
+            "name": "Steve Wozniak/Steve Jobs, Apple Computer, Inc."
+        },
+        "Apple Computer, Inc.": {
+            "id": "Apple Computer, Inc.",
+            "name": "Apple Computer, Inc."
+        },
+        "Casio": {
+            "id": "Casio",
+            "name": "Casio"
+        },
+        "Coleco": {
+            "id": "Coleco",
+            "name": "Coleco"
+        },
+        "Fujitsu": {
+            "id": "Fujitsu",
+            "name": "Fujitsu"
+        },
+        "Western Technologies/Smith Engineering": {
+            "id": "Western Technologies/Smith Engineering",
+            "name": "Western Technologies/Smith Engineering"
+        },
+        "General Consumer Electronics": {
+            "id": "General Consumer Electronics",
+            "name": "General Consumer Electronics"
+        },
+        "VM Labs": {
+            "id": "VM Labs",
+            "name": "VM Labs"
+        },
+        "Motorola, Samsung, Toshiba": {
+            "id": "Motorola, Samsung, Toshiba",
+            "name": "Motorola, Samsung, Toshiba"
+        },
+        "Welback Holdings": {
+            "id": "Welback Holdings",
+            "name": "Welback Holdings"
+        },
+        "Sharp Corporation": {
+            "id": "Sharp Corporation",
+            "name": "Sharp Corporation"
+        },
+        "Tandy Corporation": {
+            "id": "Tandy Corporation",
+            "name": "Tandy Corporation"
+        },
+        "NPO Scientific Center": {
+            "id": "NPO Scientific Center",
+            "name": "NPO Scientific Center"
+        },
+        "Epoch Co.": {
+            "id": "Epoch Co.",
+            "name": "Epoch Co."
+        },
+        "Funtech": {
+            "id": "Funtech",
+            "name": "Funtech"
+        },
+        "Game Park": {
+            "id": "Game Park",
+            "name": "Game Park"
+        },
+        "Hartung": {
+            "id": "Hartung",
+            "name": "Hartung"
+        },
+        "Interton": {
+            "id": "Interton",
+            "name": "Interton"
+        },
+        "Elecbyte": {
+            "id": "Elecbyte",
+            "name": "Elecbyte"
+        },
+        "Senile Team": {
+            "id": "Senile Team",
+            "name": "Senile Team"
+        },
+        "Radiotechnique": {
+            "id": "Radiotechnique",
+            "name": "Radiotechnique"
+        },
+        "RCA": {
+            "id": "RCA",
+            "name": "RCA"
+        },
+        "ScummVM Team": {
+            "id": "ScummVM Team",
+            "name": "ScummVM Team"
+        },
+        "Sinclair": {
+            "id": "Sinclair",
+            "name": "Sinclair"
+        },
+        "Sord Computer Corporation": {
+            "id": "Sord Computer Corporation",
+            "name": "Sord Computer Corporation"
+        },
+        "Texas Instruments": {
+            "id": "Texas Instruments",
+            "name": "Texas Instruments"
+        },
+        "Team Shanghai Alice (formerly ZUN Soft)": {
+            "id": "Team Shanghai Alice (formerly ZUN Soft)",
+            "name": "Team Shanghai Alice (formerly ZUN Soft)"
+        },
+        "Team Shanghai Alice": {
+            "id": "Team Shanghai Alice",
+            "name": "Team Shanghai Alice"
+        },
+        "VTech": {
+            "id": "VTech",
+            "name": "VTech"
+        },
+        "Watara": {
+            "id": "Watara",
+            "name": "Watara"
+        },
+        "Worlds of Wonder": {
+            "id": "Worlds of Wonder",
+            "name": "Worlds of Wonder"
+        },
+        "Mitsumi": {
+            "id": "Mitsumi",
+            "name": "Mitsumi"
+        },
+        "NEC Home Electronics": {
+            "id": "NEC Home Electronics",
+            "name": "NEC Home Electronics"
+        },
+        "Motorola": {
+            "id": "Motorola",
+            "name": "Motorola"
+        },
+        "Taito Corporation": {
+            "id": "Taito Corporation",
+            "name": "Taito Corporation"
+        },
+        "SSD COMPANY LIMITED": {
+            "id": "SSD COMPANY LIMITED",
+            "name": "SSD COMPANY LIMITED"
+        },
+        "Mattel": {
+            "id": "Mattel",
+            "name": "Mattel"
+        },
+        "ZAPiT Games": {
+            "id": "ZAPiT Games",
+            "name": "ZAPiT Games"
+        },
+        "Technosys Research Labs": {
+            "id": "Technosys Research Labs",
+            "name": "Technosys Research Labs"
+        },
+        "ARB Plant": {
+            "id": "ARB Plant",
+            "name": "ARB Plant"
+        },
+        "Exelvision": {
+            "id": "Exelvision",
+            "name": "Exelvision"
+        },
+        "Exidy": {
+            "id": "Exidy",
+            "name": "Exidy"
+        },
+        "Micronique": {
+            "id": "Micronique",
+            "name": "Micronique"
+        },
+        "Matra, Hachette, & Tandy": {
+            "id": "Matra, Hachette, & Tandy",
+            "name": "Matra, Hachette, & Tandy"
+        },
+        "NEC": {
+            "id": "NEC",
+            "name": "NEC"
+        },
+        "Nintendo, Alps Electric": {
+            "id": "Nintendo, Alps Electric",
+            "name": "Nintendo, Alps Electric"
+        },
+        "Alps Electric": {
+            "id": "Alps Electric",
+            "name": "Alps Electric"
+        },
+        "Tsukuda Original": {
+            "id": "Tsukuda Original",
+            "name": "Tsukuda Original"
+        },
+        "Tomy": {
+            "id": "Tomy",
+            "name": "Tomy"
+        },
+        "Matsushita": {
+            "id": "Matsushita",
+            "name": "Matsushita"
+        },
+        "Sharp": {
+            "id": "Sharp",
+            "name": "Sharp"
+        },
+        "SEGA/Namco/Nintendo": {
+            "id": "SEGA/Namco/Nintendo",
+            "name": "SEGA/Namco/Nintendo"
+        },
+        "Nintendo PTD": {
+            "id": "Nintendo PTD",
+            "name": "Nintendo PTD"
+        },
+        "Nokia": {
+            "id": "Nokia",
+            "name": "Nokia"
+        },
+        "Nytric Limited": {
+            "id": "Nytric Limited",
+            "name": "Nytric Limited"
+        },
+        "Community": {
+            "id": "Community",
+            "name": "Community"
+        },
+        "\tCommunity": {
+            "id": "\tCommunity",
+            "name": "\tCommunity"
+        }
+    },
+    "emulators": {
+        "4DO": {
+            "id": "4DO",
+            "name": "4DO",
+            "platforms": [
+                "3DO Interactive Multiplayer"
+            ]
+        },
+        "bsnes": {
+            "id": "bsnes",
+            "name": "bsnes",
+            "platforms": [
+                "Super Nintendo Entertainment System"
+            ]
+        },
+        "Cemu": {
+            "id": "Cemu",
+            "name": "Cemu",
+            "platforms": [
+                "Nintendo Wii U"
+            ]
+        },
+        "Cxbx-Reloaded": {
+            "id": "Cxbx-Reloaded",
+            "name": "Cxbx-Reloaded",
+            "platforms": [
+                "Microsoft Xbox"
+            ]
+        },
+        "Demul": {
+            "id": "Demul",
+            "name": "Demul",
+            "platforms": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Dolphin": {
+            "id": "Dolphin",
+            "name": "Dolphin",
+            "platforms": [
+                "Nintendo GameCube",
+                "Nintendo Wii"
+            ]
+        },
+        "DuckStation": {
+            "id": "DuckStation",
+            "name": "DuckStation",
+            "platforms": [
+                "Sony Playstation"
+            ]
+        },
+        "ePSXe": {
+            "id": "ePSXe",
+            "name": "ePSXe",
+            "platforms": [
+                "Sony Playstation"
+            ]
+        },
+        "FCEUX": {
+            "id": "FCEUX",
+            "name": "FCEUX",
+            "platforms": [
+                "Nintendo Entertainment System"
+            ]
+        },
+        "Higan": {
+            "id": "Higan",
+            "name": "Higan",
+            "platforms": [
+                "Super Nintendo Entertainment System"
+            ]
+        },
+        "Kega Fusion": {
+            "id": "Kega Fusion",
+            "name": "Kega Fusion",
+            "platforms": [
+                "Sega 32X",
+                "Sega CD",
+                "Sega Game Gear",
+                "Sega Genesis",
+                "Sega Master System",
+                "Sega SG-1000"
+            ]
+        },
+        "MAME": {
+            "id": "MAME",
+            "name": "MAME",
+            "platforms": [
+                "Arcade"
+            ]
+        },
+        "mupen64": {
+            "id": "mupen64",
+            "name": "mupen64",
+            "platforms": [
+                "Nintendo 64"
+            ]
+        },
+        "Nestopia": {
+            "id": "Nestopia",
+            "name": "Nestopia",
+            "platforms": [
+                "Nintendo Entertainment System"
+            ]
+        },
+        "nullDC": {
+            "id": "nullDC",
+            "name": "nullDC",
+            "platforms": [
+                "Sega Dreamcast"
+            ]
+        },
+        "PCSX2": {
+            "id": "PCSX2",
+            "name": "PCSX2",
+            "platforms": [
+                "Sony Playstation 2"
+            ]
+        },
+        "PCSX-Reloaded": {
+            "id": "PCSX-Reloaded",
+            "name": "PCSX-Reloaded",
+            "platforms": [
+                "Sony Playstation"
+            ]
+        },
+        "PPSSPP": {
+            "id": "PPSSPP",
+            "name": "PPSSPP",
+            "platforms": [
+                "Sony PSP"
+            ]
+        },
+        "Project64": {
+            "id": "Project64",
+            "name": "Project64",
+            "platforms": [
+                "Nintendo 64"
+            ]
+        },
+        "Project64 1.6": {
+            "id": "Project64 1.6",
+            "name": "Project64 1.6",
+            "platforms": [
+                "Nintendo 64"
+            ]
+        },
+        "Redream": {
+            "id": "Redream",
+            "name": "Redream",
+            "platforms": [
+                "Sega Dreamcast"
+            ]
+        },
+        "Retroarch": {
+            "id": "Retroarch",
+            "name": "Retroarch",
+            "platforms": [
+                "3DO Interactive Multiplayer",
+                "Amstrad CPC",
+                "Atari 2600",
+                "Atari 5200",
+                "Atari 7800",
+                "Atari Jaguar",
+                "Atari Lynx",
+                "Atari ST",
+                "ColecoVision",
+                "Commodore 128",
+                "Commodore 64",
+                "Commodore PET",
+                "Commodore Plus 4",
+                "Commodore VIC-20",
+                "GCE Vectrex",
+                "Magnavox Odyssey 2",
+                "Microsoft MSX",
+                "NEC PC-FX",
+                "NEC TurboGrafx-16",
+                "NEC TurboGrafx-CD",
+                "Nintendo 64",
+                "Nintendo DS",
+                "Nintendo Entertainment System",
+                "Nintendo Famicom Disk System",
+                "Nintendo Game & Watch",
+                "Nintendo Game Boy",
+                "Nintendo Game Boy Advance",
+                "Nintendo Game Boy Color",
+                "Nintendo GameCube",
+                "Nintendo Pokemon Mini",
+                "Nintendo Virtual Boy",
+                "Nintendo Wii",
+                "PC Engine SuperGrafx",
+                "Philips Videopac+",
+                "Sega 32X",
+                "Sega CD",
+                "Sega Dreamcast",
+                "Sega Game Gear",
+                "Sega Genesis",
+                "Sega Master System",
+                "Sega Saturn",
+                "Sinclair ZX Spectrum",
+                "Sinclair ZX-81",
+                "SNK Neo Geo AES",
+                "SNK Neo Geo MVS",
+                "SNK Neo Geo Pocket",
+                "SNK Neo Geo Pocket Color",
+                "Sony Playstation",
+                "Sony PSP",
+                "Super Nintendo Entertainment System",
+                "WonderSwan",
+                "WonderSwan Color"
+            ]
+        },
+        "Rocket Launcher": {
+            "id": "Rocket Launcher",
+            "name": "Rocket Launcher",
+            "platforms": []
+        },
+        "RPCS3": {
+            "id": "RPCS3",
+            "name": "RPCS3",
+            "platforms": [
+                "Sony Playstation 3"
+            ]
+        },
+        "Sega Model 2 Emulator": {
+            "id": "Sega Model 2 Emulator",
+            "name": "Sega Model 2 Emulator",
+            "platforms": [
+                "Sega Model 2"
+            ]
+        },
+        "Snes9x": {
+            "id": "Snes9x",
+            "name": "Snes9x",
+            "platforms": [
+                "Super Nintendo Entertainment System"
+            ]
+        },
+        "Supermodel": {
+            "id": "Supermodel",
+            "name": "Supermodel",
+            "platforms": [
+                "Sega Model 3"
+            ]
+        },
+        "VisualBoyAdvance-M": {
+            "id": "VisualBoyAdvance-M",
+            "name": "VisualBoyAdvance-M",
+            "platforms": [
+                "Nintendo Game Boy",
+                "Nintendo Game Boy Advance",
+                "Nintendo Game Boy Color"
+            ]
+        },
+        "Xemu": {
+            "id": "Xemu",
+            "name": "Xemu",
+            "platforms": [
+                "Microsoft Xbox"
+            ]
+        },
+        "Xenia": {
+            "id": "Xenia",
+            "name": "Xenia",
+            "platforms": [
+                "Microsoft Xbox 360"
+            ]
+        }
+    },
+    "games": []
 }

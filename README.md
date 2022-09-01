@@ -29,7 +29,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
-| [MAME](sources/mame.json) | Emulator | 623 | 42 | 665 | 93.7% |
+| [MAME](sources/mame.json) | Emulator | 624 | 46 | 670 | 93.1% |
 | [No-Intro](sources/nointro.json) | DAT | 253 | 31 | 284 | 89.1% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 164 | 1124 | 1288 | 12.7% |
 | [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
@@ -61,7 +61,6 @@ Wont have these mapped for a while yet
 - remove excess local platforms without at least 1 nointro/redump/tosec/mame match
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
 - Setup source exports for
-  - LaunchBox emulators
   - emuControlCenter
   - EmulationKing
   - EmuCR
