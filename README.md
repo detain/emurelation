@@ -6,13 +6,25 @@ Emu⬅re➡lation is project with 1 simple purpose; to provide a mapping in JSON
 Currently undergoing restructuring and finishing scripts to generate the remaining source files.  After that I'll update the matches using the new files and finish up the matching data.  After which we should be ready for the first release.
 
 
+## Mapping Files
+
+| File | Description |
+|-|-|
+| sources.json | list of sources |
+| sources/local.json | local platform list with maches to the other sources |
+| sources/*.json | each sources list of ids+names |
+| matches/*.json | old matching files, will be phased out |
+| linker.json | old matching file, will be phased out |
+| platforms.json | old matching file, will be phased out |
+
 ## Dev Notes
 
-- Main list of platforms should come from sources that supply the actual games/roms to ensure we have whats needed without going too overboard:
+- Local platforms should come from sources that supply the actual games/roms to ensure we have whats needed without going too overboard:
   - No-Intro
   - TOSEC
   - Redump
   - MAME
+- Local platforms should be a single platform rather than several unless all sources also group them.  This should help ensure ideal mapping.  ie having "Thomson MO5, MO6, and MO7" vs "Thomson MO5", "Thomson MO6", and "Thomson MO7" platforms
 - Types to match between sources:
   - Companies
   - Platforms
@@ -22,8 +34,8 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
   - id*
   - name*
   - type*
-  - provides[]*
   - info
+  - provides[]*
   - updatedLast
   - updateTrigger
   - web<url, name>
@@ -31,7 +43,6 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
   - id*
   - name*
   - shortName (dirname)
-  - description
   - company
   - manufacturer
   - developer
