@@ -40,7 +40,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | nointro | 246 | 38 | 284 | 86.6% |
 | oldcomputers | 110 | 1176 | 1286 | 8.6% |
 | redump | 50 | 1 | 51 | 98% |
-| screenscraper | 148 | 76 | 224 | 66.1% |
+| screenscraper | 146 | 78 | 224 | 65.2% |
 | tgdb | 133 | 14 | 147 | 90.5% |
 | tosec | 2388 | 40 | 2428 | 98.4% |
 | toseciso | 241 | 0 | 241 | 100% |
@@ -114,5 +114,5 @@ Wont have these mapped for a while yet
   - altNames[]
   - images<url,type>
   - web<url, name>
-  - matches<source,id>
+  - matches[source][id]
 
