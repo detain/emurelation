@@ -60,8 +60,8 @@ Wont have these mapped for a while yet
 
 ## Development Notes
 
-- Source file generation and is currently done by scripts in [detain/ConSolo](https://github.com/detain/ConSolo) but will likely be moving that.
-- CLI for management of the information in [detain/emurelator](https://github.com/detain/emurelator) but is in early development.
+- Source file generation and is currently done by scripts in [ConSolo](https://github.com/detain/ConSolo) project, but will likely be moving that.
+- [detainemurelator](https://github.com/detain/emurelator) is a CLI for management of the information but is in early development.
 - Local platforms
   - should come from sources that supply the actual games/roms to ensure we have whats needed without going too overboard:
     - No-Intro
