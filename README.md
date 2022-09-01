@@ -61,17 +61,30 @@ Currently undergoing restructuring and finishing scripts to generate the remaini
 
 ## Supported Mapping
 
-### Platform Mapping Status
+### Platforms
 
 | Source | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|
-| launchbox | 194 | 0 | 194 | 100% |
-| toseciso | 241 | 1 | 242 | 99.6% |
-| tosec | 2714 | 106 | 2820 | 96.2% |
-| mame | 602 | 63 | 665 | 90.5% |
-| redump | 45 | 6 | 51 | 88.2% |
-| tgdb | 114 | 33 | 147 | 77.6% |
-| tosecpix | 581 | 300 | 881 | 65.9% |
+| launchbox | 183 | 0 | 183 | 100% |
+| mame | 597 | 63 | 660 | 90.5% |
 | nointro | 181 | 103 | 284 | 63.7% |
-| screenscraper | 116 | 113 | 229 | 50.7% |
-| oldcomputers | 95 | 1193 | 1288 | 7.4% |
+| oldcomputers | 93 | 1193 | 1286 | 7.2% |
+| redump | 50 | 1 | 51 | 98% |
+| screenscraper | 116 | 108 | 224 | 51.8% |
+| tgdb | 114 | 33 | 147 | 77.6% |
+| tosec | 2322 | 106 | 2428 | 95.6% |
+| toseciso | 241 | 0 | 241 | 100% |
+| tosecpix | 561 | 300 | 861 | 65.2% |
+
+### Emulators
+
+To be added soon
+
+### Companies
+
+To be added soon
+
+### Games
+
+Wont have these mapped for a while yet
+

@@ -19153,6 +19153,36 @@
                 ]
             ]
         },
+        "Sega Prologue 21": {
+            "id": "Sega Prologue 21",
+            "name": "Sega Prologue 21",
+            "matches": [
+                [
+                    "redump",
+                    "Sega - Prologue 21"
+                ]
+            ]
+        },
+        "Sega RingEdge": {
+            "id": "Sega RingEdge",
+            "name": "Sega RingEdge",
+            "matches": [
+                [
+                    "redump",
+                    "Arcade - Sega - RingEdge"
+                ]
+            ]
+        },
+        "Sega RingEdge 2": {
+            "id": "Sega RingEdge 2",
+            "name": "Sega RingEdge 2",
+            "matches": [
+                [
+                    "redump",
+                    "Arcade - Sega - RingEdge 2"
+                ]
+            ]
+        },
         "Sega SC-3000": {
             "id": "Sega SC-3000",
             "name": "Sega SC-3000",
@@ -20772,6 +20802,10 @@
                 [
                     "nointro",
                     "Unofficial - Sony - PlayStation 3 (PSN) (Decrypted)"
+                ],
+                [
+                    "redump",
+                    "Sony - PlayStation 3"
                 ],
                 [
                     "tosecpix",
