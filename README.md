@@ -2,16 +2,13 @@
 
 Emu⬅re➡lation is project with 1 simple purpose; to provide a mapping of platforms, emulators, and games between varied sources in a easy to use JSON format.
 
-
 ## Why
 
 There are many websites, programs, etc relating to emulation and many use entirely different names for the same thing.   This disparity adds difficulty to both the end user trying to play a game and developers.  We all have to deal with this in one way or another, and my goal with this project is to simplify and standardize that process.
 
-
 ## What is being stored
 
-The mapping data will consist of IDs and names while intentionally avoiding data or content beyond that such as descriptions and images.  This is to avoid any of the sources we are linking from feeling like we are stealing thier data or circumventing them.  I hope to make everyones life a little easier, eventually.   The project is still in early stages and not really ready for use yet.
-
+The mapping data will consist of IDs and names while intentionally avoiding data or content beyond that such as descriptions and images.  This is to avoid any of the sources we are linking from feeling like we are stealing thier data or circumventing them.  I hope to make everyones life a little easier, eventually.
 
 ## Status
 
@@ -31,7 +28,6 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | matches/*.json | old matching files, will be phased out |
 | linker.json | old matching file, will be phased out |
 | platforms.json | old matching file, will be phased out |
-
 
 ## Supported Mapping
 
@@ -62,8 +58,19 @@ To be added soon
 
 Wont have these mapped for a while yet
 
+## Development Notes
 
-## TODO
+- Source file generation and is currently done by scripts in [detain/ConSolo](https://github.com/detain/ConSolo) but will likely be moving that.
+- CLI for management of the information in [detain/emurelator](https://github.com/detain/emurelator) but is in early development.
+- Local platforms
+  - should come from sources that supply the actual games/roms to ensure we have whats needed without going too overboard:
+    - No-Intro
+    - TOSEC
+    - Redump
+    - MAME
+  - should be a single platform rather than several unless all sources also group them.  This should help ensure ideal mapping.  ie having "Thomson MO5, MO6, and MO7" vs "Thomson MO5", "Thomson MO6", and "Thomson MO7" platforms
+
+### TODO
 
 - Add local platforms for any unmatched nointro/redump/tosec/mame sources
 - Possibly drop description from source exports
@@ -79,19 +86,6 @@ Wont have these mapped for a while yet
   - HyperSpin
   - RecalBox
   - RetroPie
-
-
-## Development Notes
-
-- Source file generation and is currently done by scripts in [detain/ConSolo](https://github.com/detain/ConSolo) but will likely be moving that.
-- CLI for management of the information in [detain/emurelator](https://github.com/detain/emurelator) but is in early development.
-- Local platforms
-  - should come from sources that supply the actual games/roms to ensure we have whats needed without going too overboard:
-    - No-Intro
-    - TOSEC
-    - Redump
-    - MAME
-  - should be a single platform rather than several unless all sources also group them.  This should help ensure ideal mapping.  ie having "Thomson MO5, MO6, and MO7" vs "Thomson MO5", "Thomson MO6", and "Thomson MO7" platforms
 
 ### Schemas and Data Definitions
 
