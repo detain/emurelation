@@ -1,24 +1,19 @@
 # Emu⬅re➡lation
-
 Emu⬅re➡lation is project with 1 simple purpose; to provide a mapping of platforms, emulators, and games between varied sources in a easy to use JSON format.
 
-## Why
-
+## ❓ Why
 There are many websites, programs, etc relating to emulation and many use entirely different names for the same thing.   This disparity adds difficulty to both the end user trying to play a game and developers.  We all have to deal with this in one way or another, and my goal with this project is to simplify and standardize that process.
 
-## What is being stored
-
+## 🔀 What is being stored
 The mapping data will consist of IDs and names while intentionally avoiding data or content beyond that such as descriptions and images.  This is to avoid any of the sources we are linking from feeling like we are stealing thier data or circumventing them.  I hope to make everyones life a little easier, eventually.
 
-## Status
-
+## 🔄 Status
 Currently undergoing restructuring and finishing scripts to generate the remaining source files.  After that I'll update the matches using the new files and finish up the matching data.  After which we should be ready for the first release.
 
-## Contributing
-
+## 🔃 Contributing
 All contributions (issues, comments, pull requests, etc) are welcomed and encouraged.  If you have any projects using or relating to this repo let me know and I can add a link to it.
 
-## Mapping Files
+## 📂 Mapping Files
 
 | File | Description |
 |-|-|
@@ -29,9 +24,9 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | linker.json | old matching file, will be phased out |
 | platforms.json | old matching file, will be phased out |
 
-## Supported Mapping
+## 🗺 Supported Mapping
 
-### Platforms
+### 🎮 Platforms
 
 | Source | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|
@@ -46,20 +41,16 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | toseciso | 241 | 0 | 241 | 100% |
 | tosecpix | 642 | 219 | 861 | 74.6% |
 
-### Emulators
-
+### 💾 Emulators
 To be added soon
 
-### Companies
-
+### 🏭 Companies
 To be added soon
 
-### Games
-
+### 🕹 Games
 Wont have these mapped for a while yet
 
-## Development Notes
-
+## 📒 Development Notes
 - Source file generation and is currently done by scripts in [ConSolo](https://github.com/detain/ConSolo) project, but will likely be moving that.
 - [emurelator](https://github.com/detain/emurelator) is a CLI for management of the information but is in early development.
 - Local platforms
@@ -71,8 +62,7 @@ Wont have these mapped for a while yet
   - should be a single platform rather than several unless all sources also group them.  This should help ensure ideal mapping.  ie having "Thomson MO5, MO6, and MO7" vs "Thomson MO5", "Thomson MO6", and "Thomson MO7" platforms
 - IDs should match the ID/Name used by the source.  An example from a TOSEC DAT is "Acorn BBC - Games - [DSD]".  While I could code in parsers and narrow it to say "Acorn BBC", I feel sticking with IDs that exactly match what the source uses for an entry will make it easier for people utilizing this information.
 
-### TODO
-
+### ☑ TODO
 - Add local platforms for any unmatched nointro/redump/tosec/mame sources
 - Possibly drop description from source exports
 - remove excess local platforms without at least 1 nointro/redump/tosec/mame match
@@ -88,8 +78,7 @@ Wont have these mapped for a while yet
   - RecalBox
   - RetroPie
 
-### Schemas and Data Definitions
-
+### 🔁 Schemas and Data Definitions
 - Types to match between sources:
   - Companies
   - Platforms
