@@ -17,6 +17,9 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 Currently undergoing restructuring and finishing scripts to generate the remaining source files.  After that I'll update the matches using the new files and finish up the matching data.  After which we should be ready for the first release.
 
+## Contributing
+
+All contributions (issues, comments, pull requests, etc) are welcomed and encouraged.  If you have any projects using or relating to this repo let me know and I can add a link to it.
 
 ## Mapping Files
 
@@ -80,12 +83,18 @@ Wont have these mapped for a while yet
 
 ## Development Notes
 
-- Local platforms should come from sources that supply the actual games/roms to ensure we have whats needed without going too overboard:
-  - No-Intro
-  - TOSEC
-  - Redump
-  - MAME
-- Local platforms should be a single platform rather than several unless all sources also group them.  This should help ensure ideal mapping.  ie having "Thomson MO5, MO6, and MO7" vs "Thomson MO5", "Thomson MO6", and "Thomson MO7" platforms
+- Source file generation and is currently done by scripts in [detain/ConSolo](https://github.com/detain/ConSolo) but will likely be moving that.
+- CLI for management of the information in [detain/emurelator](https://github.com/detain/emurelator) but is in early development.
+- Local platforms
+  - should come from sources that supply the actual games/roms to ensure we have whats needed without going too overboard:
+    - No-Intro
+    - TOSEC
+    - Redump
+    - MAME
+  - should be a single platform rather than several unless all sources also group them.  This should help ensure ideal mapping.  ie having "Thomson MO5, MO6, and MO7" vs "Thomson MO5", "Thomson MO6", and "Thomson MO7" platforms
+
+### Schemas and Data Definitions
+
 - Types to match between sources:
   - Companies
   - Platforms
