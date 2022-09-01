@@ -28,18 +28,18 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 ### 🎮 Platforms
 
-| Source | Mapped | Unmapped | Total | Mapped % |
-|-|-|-|-|-|
-| launchbox | 183 | 0 | 183 | 100% |
-| mame | 600 | 60 | 660 | 90.9% |
-| nointro | 246 | 38 | 284 | 86.6% |
-| oldcomputers | 110 | 1176 | 1286 | 8.6% |
-| redump | 50 | 1 | 51 | 98% |
-| screenscraper | 148 | 77 | 225 | 65.8% |
-| tgdb | 133 | 14 | 147 | 90.5% |
-| tosec | 2388 | 40 | 2428 | 98.4% |
-| toseciso | 241 | 0 | 241 | 100% |
-| tosecpix | 642 | 219 | 861 | 74.6% |
+| Source | Type | Mapped | Unmapped | Total | Mapped % |
+|-|-|-|-|-|-|
+| [LaunchBox](sources/launchbox.json) | Frontend | 183 | 0 | 183 | 100% |
+| [MAME](sources/mame.json) | Emulator | 600 | 60 | 660 | 90.9% |
+| [No-Intro](sources/nointro.json) | DAT | 246 | 38 | 284 | 86.6% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 110 | 1176 | 1286 | 8.6% |
+| [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
+| [ScreenScraper](sources/screenscraper.json) | API | 148 | 77 | 225 | 65.8% |
+| [TheGamesDB](sources/tgdb.json) | API | 133 | 14 | 147 | 90.5% |
+| [TOSEC](sources/tosec.json) | DAT | 2388 | 40 | 2428 | 98.4% |
+| [TOSEC-ISO](sources/toseciso.json) | DAT | 241 | 0 | 241 | 100% |
+| [TOSEC-PIX](sources/tosecpix.json) | DAT | 642 | 219 | 861 | 74.6% |
 
 ### 💾 Emulators
 To be added soon
