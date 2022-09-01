@@ -3437,9 +3437,18 @@
             "Arcade - Namco - System 246"
         ]
     },
-    "Namco\/Sega\/Nintendo Triforce": {
+    "Namco-Sega-Nintendo Triforce": {
         "redump": [
+            "Arcade - Namco - Sega - Nintendo - Triforce",
+            "Sega Triforce",
+            "Arcade - Sega - Triforce",
             "Namco - Sega - Nintendo Triforce"
+        ],
+        "toseciso": [
+            "Namco-Sega-Nintendo Triforce - Games"
+        ],
+        "launchbox": [
+            "Sega Triforce"
         ]
     },
     "Nascom I & II": {
@@ -4837,15 +4846,6 @@
     "Sega Titan Video": {
         "mame": [
             "Sega Titan Video cartridges"
-        ]
-    },
-    "Sega Triforce": {
-        "launchbox": [
-            "Sega Triforce"
-        ],
-        "redump": [
-            "Sega Triforce",
-            "Arcade - Sega - Triforce"
         ]
     },
     "Sega Visual Memory System": {

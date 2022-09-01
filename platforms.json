@@ -3128,7 +3128,11 @@
             "Namco System 246"
         ]
     },
-    "Namco\/Sega\/Nintendo Triforce": [],
+    "Namco-Sega-Nintendo Triforce": {
+        "launchbox": [
+            "Sega Triforce"
+        ]
+    },
     "Nascom I & II": {
         "tosec": [
             "Nascom I & II"
@@ -4431,11 +4435,6 @@
     "Sega Titan Video": {
         "mame": [
             "Sega Titan Video"
-        ]
-    },
-    "Sega Triforce": {
-        "launchbox": [
-            "Sega Triforce"
         ]
     },
     "Sega Visual Memory System": {
