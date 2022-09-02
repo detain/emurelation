@@ -28,11 +28,12 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
+| [local](local.json) | Local | - | - | 832 | - |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 157 | 40 | 197 | 79.7% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [MAME](sources/mame.json) | Emulator | 623 | 46 | 669 | 93.1% |
 | [No-Intro](sources/nointro.json) | DAT | 253 | 31 | 284 | 89.1% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 164 | 1124 | 1288 | 12.7% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 167 | 1121 | 1288 | 13% |
 | [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
 | [ScreenScraper](sources/screenscraper.json) | API | 157 | 73 | 230 | 68.3% |
 | [TheGamesDB](sources/tgdb.json) | API | 137 | 10 | 147 | 93.2% |
@@ -41,13 +42,25 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 663 | 218 | 881 | 75.3% |
 
 ### 💾 Emulators
-To be added soon
+
+| Source | Type | Mapped | Unmapped | Total | Mapped % |
+|-|-|-|-|-|-|
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 490 | 490 | 0% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 0 | 30 | 30 | 0% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 0 | 466 | 466 | 0% |
 
 ### 🏭 Companies
-To be added soon
+
+| Source | Type | Mapped | Unmapped | Total | Mapped % |
+|-|-|-|-|-|-|
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 100 | 100 | 0% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 0 | 126 | 126 | 0% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 0 | 641 | 641 | 0% |
 
 ### 🕹 Games
-Wont have these mapped for a while yet
+
+| Source | Type | Mapped | Unmapped | Total | Mapped % |
+|-|-|-|-|-|-|
 
 ## 📒 Development Notes
 - Source file generation and is currently done by scripts in [ConSolo](https://github.com/detain/ConSolo) project, but will likely be moving that.
