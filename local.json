@@ -132,6 +132,9 @@
                 "nointro": [
                     "APF - Imagination Machine",
                     "APF - MP-1000"
+                ],
+                "emucontrolcenter": [
+                    "im"
                 ]
             }
         },
@@ -275,6 +278,9 @@
                 ],
                 "screenscraper": [
                     84
+                ],
+                "emucontrolcenter": [
+                    "archi"
                 ]
             }
         },
@@ -314,6 +320,9 @@
                 ],
                 "tgdb": [
                     5014
+                ],
+                "emucontrolcenter": [
+                    "atom"
                 ]
             }
         },
@@ -377,6 +386,9 @@
                 ],
                 "tgdb": [
                     5013
+                ],
+                "emucontrolcenter": [
+                    "bbc"
                 ]
             }
         },
@@ -457,6 +469,9 @@
                 ],
                 "screenscraper": [
                     85
+                ],
+                "emucontrolcenter": [
+                    "etron"
                 ]
             }
         },
@@ -662,6 +677,9 @@
                 ],
                 "screenscraper": [
                     65
+                ],
+                "emucontrolcenter": [
+                    "cpc"
                 ]
             }
         },
@@ -670,6 +688,9 @@
             "name": "Amstrad CPC Plus & GX4000",
             "matches": {
                 "mame": [
+                    "gx4000"
+                ],
+                "emucontrolcenter": [
                     "gx4000"
                 ]
             }
@@ -758,6 +779,9 @@
                 ],
                 "tosecpix": [
                     "Amstrad PCW - Magazines - 8000 Plus"
+                ],
+                "emucontrolcenter": [
+                    "pcw"
                 ]
             }
         },
@@ -802,6 +826,9 @@
                 ],
                 "nointro": [
                     "Apple - I (Tapes)"
+                ],
+                "emucontrolcenter": [
+                    "apple1"
                 ]
             }
         },
@@ -932,6 +959,9 @@
                 ],
                 "screenscraper": [
                     86
+                ],
+                "emucontrolcenter": [
+                    "apple2"
                 ]
             }
         },
@@ -1012,6 +1042,9 @@
                 ],
                 "oldcomputers": [
                     72
+                ],
+                "emucontrolcenter": [
+                    "apple3"
                 ]
             }
         },
@@ -1042,6 +1075,9 @@
                 "tosecpix": [
                     "Apple Lisa - Manuals - Hardware",
                     "Apple Lisa - Manuals - Technical"
+                ],
+                "emucontrolcenter": [
+                    "lisa"
                 ]
             }
         },
@@ -1108,6 +1144,9 @@
                 ],
                 "screenscraper": [
                     146
+                ],
+                "emucontrolcenter": [
+                    "mtosh"
                 ]
             }
         },
@@ -1224,6 +1263,9 @@
                 ],
                 "screenscraper": [
                     26
+                ],
+                "emucontrolcenter": [
+                    "a2600"
                 ]
             }
         },
@@ -1283,6 +1325,9 @@
                 ],
                 "screenscraper": [
                     40
+                ],
+                "emucontrolcenter": [
+                    "a5200"
                 ]
             }
         },
@@ -1317,6 +1362,9 @@
                 ],
                 "screenscraper": [
                     41
+                ],
+                "emucontrolcenter": [
+                    "a7800"
                 ]
             }
         },
@@ -1449,6 +1497,9 @@
                 ],
                 "screenscraper": [
                     27
+                ],
+                "emucontrolcenter": [
+                    "jag"
                 ]
             }
         },
@@ -1482,6 +1533,9 @@
                 ],
                 "nointro": [
                     "Non-Redump - Atari - Atari Jaguar CD"
+                ],
+                "emucontrolcenter": [
+                    "jagcd"
                 ]
             }
         },
@@ -1519,6 +1573,10 @@
                 ],
                 "oldcomputers": [
                     158
+                ],
+                "emucontrolcenter": [
+                    "lynx",
+                    "clynx"
                 ]
             }
         },
@@ -1629,6 +1687,9 @@
                 ],
                 "screenscraper": [
                     42
+                ],
+                "emucontrolcenter": [
+                    "st"
                 ]
             }
         },
@@ -1752,6 +1813,9 @@
                 ],
                 "screenscraper": [
                     44
+                ],
+                "emucontrolcenter": [
+                    "ac"
                 ]
             }
         },
@@ -1898,6 +1962,9 @@
                 ],
                 "screenscraper": [
                     45
+                ],
+                "emucontrolcenter": [
+                    "ws"
                 ]
             }
         },
@@ -2088,6 +2155,9 @@
             "matches": {
                 "mame": [
                     "comx35_flop"
+                ],
+                "emucontrolcenter": [
+                    "comx35"
                 ]
             }
         },
@@ -2185,7 +2255,11 @@
         "Capcom Capcom Play System 1": {
             "id": "Capcom Capcom Play System 1",
             "name": "Capcom Capcom Play System 1",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cps1"
+                ]
+            }
         },
         "Capcom Capcom Play System 2": {
             "id": "Capcom Capcom Play System 2",
@@ -2193,6 +2267,9 @@
             "matches": {
                 "screenscraper": [
                     7
+                ],
+                "emucontrolcenter": [
+                    "cps2"
                 ]
             }
         },
@@ -2246,6 +2323,9 @@
                 ],
                 "tgdb": [
                     4991
+                ],
+                "emucontrolcenter": [
+                    "loopy"
                 ]
             }
         },
@@ -2298,6 +2378,9 @@
                 ],
                 "screenscraper": [
                     74
+                ],
+                "emucontrolcenter": [
+                    "pv1000"
                 ]
             }
         },
@@ -2313,6 +2396,9 @@
                     1167
                 ],
                 "mame": [
+                    "pv2000"
+                ],
+                "emucontrolcenter": [
                     "pv2000"
                 ]
             }
@@ -2394,6 +2480,9 @@
                 ],
                 "screenscraper": [
                     89
+                ],
+                "emucontrolcenter": [
+                    "adam"
                 ]
             }
         },
@@ -2436,6 +2525,9 @@
                 "screenscraper": [
                     48,
                     183
+                ],
+                "emucontrolcenter": [
+                    "col"
                 ]
             }
         },
@@ -2488,6 +2580,9 @@
                     "c128_cart",
                     "c128_flop",
                     "c128_rom"
+                ],
+                "emucontrolcenter": [
+                    "c128"
                 ]
             }
         },
@@ -2976,6 +3071,9 @@
                 ],
                 "screenscraper": [
                     66
+                ],
+                "emucontrolcenter": [
+                    "c64"
                 ]
             }
         },
@@ -3170,6 +3268,9 @@
                 "screenscraper": [
                     64,
                     111
+                ],
+                "emucontrolcenter": [
+                    "amiga"
                 ]
             }
         },
@@ -3275,6 +3376,9 @@
                 "screenscraper": [
                     130,
                     139
+                ],
+                "emucontrolcenter": [
+                    "amigacd32"
                 ]
             }
         },
@@ -3324,6 +3428,9 @@
                 ],
                 "screenscraper": [
                     129
+                ],
+                "emucontrolcenter": [
+                    "cdtv"
                 ]
             }
         },
@@ -3965,6 +4072,9 @@
                 ],
                 "tgdb": [
                     5008
+                ],
+                "emucontrolcenter": [
+                    "pet"
                 ]
             }
         },
@@ -4110,6 +4220,9 @@
                 ],
                 "screenscraper": [
                     73
+                ],
+                "emucontrolcenter": [
+                    "vic20"
                 ]
             }
         },
@@ -4246,6 +4359,9 @@
                     "Cybiko Cybiko - Demos",
                     "Cybiko Cybiko - Educational",
                     "Cybiko Cybiko - Games"
+                ],
+                "emucontrolcenter": [
+                    "cybiko"
                 ]
             }
         },
@@ -4296,6 +4412,9 @@
                     "DEC PDP-1 - Demos - [RIM]",
                     "DEC PDP-1 - Games - [MAC]",
                     "DEC PDP-1 - Games - [RIM]"
+                ],
+                "emucontrolcenter": [
+                    "pdp1"
                 ]
             }
         },
@@ -4347,6 +4466,9 @@
                 "tosec": [
                     "DEC PDP-7 - Collections - Digital - [BIN]",
                     "DEC PDP-7 - Collections - Digital - [TXT]"
+                ],
+                "emucontrolcenter": [
+                    "pdp7"
                 ]
             }
         },
@@ -4507,6 +4629,9 @@
                 ],
                 "screenscraper": [
                     91
+                ],
+                "emucontrolcenter": [
+                    "dragon"
                 ]
             }
         },
@@ -4626,6 +4751,9 @@
                 ],
                 "screenscraper": [
                     92
+                ],
+                "emucontrolcenter": [
+                    "cg"
                 ]
             }
         },
@@ -4783,6 +4911,9 @@
                 ],
                 "screenscraper": [
                     94
+                ],
+                "emucontrolcenter": [
+                    "arc"
                 ]
             }
         },
@@ -4822,6 +4953,9 @@
                 ],
                 "oldcomputers": [
                     1013
+                ],
+                "emucontrolcenter": [
+                    "enterprise"
                 ]
             }
         },
@@ -4851,6 +4985,9 @@
                 ],
                 "screenscraper": [
                     78
+                ],
+                "emucontrolcenter": [
+                    "advision"
                 ]
             }
         },
@@ -4922,6 +5059,9 @@
                 ],
                 "screenscraper": [
                     67
+                ],
+                "emucontrolcenter": [
+                    "scv"
                 ]
             }
         },
@@ -5049,6 +5189,9 @@
                 ],
                 "screenscraper": [
                     96
+                ],
+                "emucontrolcenter": [
+                    "exl100"
                 ]
             }
         },
@@ -5105,6 +5248,9 @@
                 ],
                 "oldcomputers": [
                     214
+                ],
+                "emucontrolcenter": [
+                    "sorcerer"
                 ]
             }
         },
@@ -5129,6 +5275,9 @@
                 ],
                 "screenscraper": [
                     80
+                ],
+                "emucontrolcenter": [
+                    "chaf"
                 ]
             }
         },
@@ -5330,6 +5479,9 @@
                 ],
                 "screenscraper": [
                     253
+                ],
+                "emucontrolcenter": [
+                    "fmtowns"
                 ]
             }
         },
@@ -5363,6 +5515,9 @@
                 ],
                 "screenscraper": [
                     97
+                ],
+                "emucontrolcenter": [
+                    "fm7"
                 ]
             }
         },
@@ -5442,6 +5597,9 @@
             "matches": {
                 "screenscraper": [
                     199
+                ],
+                "emucontrolcenter": [
+                    "fp"
                 ]
             }
         },
@@ -5475,6 +5633,9 @@
                 ],
                 "screenscraper": [
                     102
+                ],
+                "emucontrolcenter": [
+                    "vec"
                 ]
             }
         },
@@ -5529,6 +5690,9 @@
                 "tosec": [
                     "Galaksija Galaksija Plus - Games - [GTP]",
                     "Galaksija Galaksija Plus - Games - [WAV]"
+                ],
+                "emucontrolcenter": [
+                    "galplus"
                 ]
             }
         },
@@ -5565,6 +5729,9 @@
                 ],
                 "tgdb": [
                     5015
+                ],
+                "emucontrolcenter": [
+                    "gp32"
                 ]
             }
         },
@@ -5603,6 +5770,9 @@
                 ],
                 "screenscraper": [
                     75
+                ],
+                "emucontrolcenter": [
+                    "mame"
                 ]
             }
         },
@@ -5822,6 +5992,9 @@
                 ],
                 "screenscraper": [
                     123
+                ],
+                "emucontrolcenter": [
+                    "svm"
                 ]
             }
         },
@@ -5972,6 +6145,9 @@
                 ],
                 "screenscraper": [
                     103
+                ],
+                "emucontrolcenter": [
+                    "gm"
                 ]
             }
         },
@@ -6516,6 +6692,9 @@
                 ],
                 "tgdb": [
                     4994
+                ],
+                "emucontrolcenter": [
+                    "vc4000"
                 ]
             }
         },
@@ -6624,6 +6803,9 @@
             "matches": {
                 "mame": [
                     "vii"
+                ],
+                "emucontrolcenter": [
+                    "vii"
                 ]
             }
         },
@@ -6676,6 +6858,9 @@
                 ],
                 "screenscraper": [
                     126
+                ],
+                "emucontrolcenter": [
+                    "jupace"
                 ]
             }
         },
@@ -6981,6 +7166,9 @@
                 ],
                 "mame": [
                     "lviv"
+                ],
+                "emucontrolcenter": [
+                    "lviv"
                 ]
             }
         },
@@ -7032,6 +7220,9 @@
                 ],
                 "screenscraper": [
                     213
+                ],
+                "emucontrolcenter": [
+                    "samc"
                 ]
             }
         },
@@ -7151,6 +7342,9 @@
                 ],
                 "oldcomputers": [
                     1080
+                ],
+                "emucontrolcenter": [
+                    "vg7000"
                 ]
             }
         },
@@ -7250,6 +7444,9 @@
                 ],
                 "tgdb": [
                     4989
+                ],
+                "emucontrolcenter": [
+                    "aqua"
                 ]
             }
         },
@@ -7335,6 +7532,9 @@
                 ],
                 "screenscraper": [
                     115
+                ],
+                "emucontrolcenter": [
+                    "int"
                 ]
             }
         },
@@ -7393,7 +7593,11 @@
         "Memotech MTX": {
             "id": "Memotech MTX",
             "name": "Memotech MTX",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mtx"
+                ]
+            }
         },
         "Memotech MTX512": {
             "id": "Memotech MTX512",
@@ -7511,6 +7715,9 @@
                     "Microkey Primo - Books (HU)",
                     "Microkey Primo - Manuals - Hardware (HU)",
                     "Microkey Primo - Manuals - Software (HU)"
+                ],
+                "emucontrolcenter": [
+                    "primo"
                 ]
             }
         },
@@ -7583,6 +7790,10 @@
                 ],
                 "screenscraper": [
                     113
+                ],
+                "emucontrolcenter": [
+                    "msx2",
+                    "msx"
                 ]
             }
         },
@@ -7714,6 +7925,9 @@
                 ],
                 "nointro": [
                     "Non-Redump - Microsoft - Xbox"
+                ],
+                "emucontrolcenter": [
+                    "xbox"
                 ]
             }
         },
@@ -7973,6 +8187,9 @@
                 ],
                 "mame": [
                     "pc6001_cart"
+                ],
+                "emucontrolcenter": [
+                    "pc6001"
                 ]
             }
         },
@@ -8050,6 +8267,9 @@
                 ],
                 "screenscraper": [
                     221
+                ],
+                "emucontrolcenter": [
+                    "pc8801"
                 ]
             }
         },
@@ -8114,6 +8334,9 @@
                 ],
                 "screenscraper": [
                     208
+                ],
+                "emucontrolcenter": [
+                    "pc9801"
                 ]
             }
         },
@@ -8133,6 +8356,9 @@
                 "mame": [
                     "pce",
                     "pce_tourvision"
+                ],
+                "emucontrolcenter": [
+                    "pce"
                 ]
             }
         },
@@ -8207,6 +8433,9 @@
                 ],
                 "screenscraper": [
                     72
+                ],
+                "emucontrolcenter": [
+                    "pcfx"
                 ]
             }
         },
@@ -8246,6 +8475,9 @@
                 ],
                 "screenscraper": [
                     114
+                ],
+                "emucontrolcenter": [
+                    "pcecd"
                 ]
             }
         },
@@ -8279,6 +8511,9 @@
                 ],
                 "screenscraper": [
                     156
+                ],
+                "emucontrolcenter": [
+                    "s22"
                 ]
             }
         },
@@ -8381,6 +8616,9 @@
                 ],
                 "screenscraper": [
                     17
+                ],
+                "emucontrolcenter": [
+                    "3ds"
                 ]
             }
         },
@@ -8426,6 +8664,9 @@
                 ],
                 "screenscraper": [
                     14
+                ],
+                "emucontrolcenter": [
+                    "n64"
                 ]
             }
         },
@@ -8487,6 +8728,9 @@
                 ],
                 "screenscraper": [
                     15
+                ],
+                "emucontrolcenter": [
+                    "nds"
                 ]
             }
         },
@@ -8567,6 +8811,9 @@
                 ],
                 "screenscraper": [
                     3
+                ],
+                "emucontrolcenter": [
+                    "nes"
                 ]
             }
         },
@@ -8600,6 +8847,9 @@
                 ],
                 "screenscraper": [
                     106
+                ],
+                "emucontrolcenter": [
+                    "fds"
                 ]
             }
         },
@@ -8659,6 +8909,9 @@
                 "screenscraper": [
                     9,
                     127
+                ],
+                "emucontrolcenter": [
+                    "gb"
                 ]
             }
         },
@@ -8695,6 +8948,9 @@
                 ],
                 "screenscraper": [
                     12
+                ],
+                "emucontrolcenter": [
+                    "gba"
                 ]
             }
         },
@@ -8724,6 +8980,9 @@
                 ],
                 "screenscraper": [
                     10
+                ],
+                "emucontrolcenter": [
+                    "gbc"
                 ]
             }
         },
@@ -8758,6 +9017,9 @@
                     "Nintendo - Nintendo GameCube (NPDP Carts)",
                     "Non-Redump - Nintendo - Nintendo GameCube",
                     "Source Code - Nintendo - Nintendo GameCube"
+                ],
+                "emucontrolcenter": [
+                    "gc"
                 ]
             }
         },
@@ -8820,6 +9082,9 @@
                 ],
                 "screenscraper": [
                     211
+                ],
+                "emucontrolcenter": [
+                    "pmini"
                 ]
             }
         },
@@ -8904,6 +9169,9 @@
                 ],
                 "screenscraper": [
                     4
+                ],
+                "emucontrolcenter": [
+                    "snes"
                 ]
             }
         },
@@ -8950,6 +9218,9 @@
                 ],
                 "screenscraper": [
                     11
+                ],
+                "emucontrolcenter": [
+                    "vb"
                 ]
             }
         },
@@ -8983,6 +9254,9 @@
                     "Nintendo Wii - Books",
                     "Nintendo Wii - Catalogs",
                     "Nintendo Wii - Manuals - Games"
+                ],
+                "emucontrolcenter": [
+                    "wii"
                 ]
             }
         },
@@ -9011,6 +9285,9 @@
                 ],
                 "screenscraper": [
                     18
+                ],
+                "emucontrolcenter": [
+                    "wiiu"
                 ]
             }
         },
@@ -9037,6 +9314,9 @@
                 ],
                 "screenscraper": [
                     119
+                ],
+                "emucontrolcenter": [
+                    "ereader"
                 ]
             }
         },
@@ -9055,6 +9335,9 @@
                 ],
                 "screenscraper": [
                     30
+                ],
+                "emucontrolcenter": [
+                    "ngage"
                 ]
             }
         },
@@ -9383,6 +9666,9 @@
                 ],
                 "nointro": [
                     "Non-Redump - Panasonic - 3DO Interactive Multiplayer"
+                ],
+                "emucontrolcenter": [
+                    "3do"
                 ]
             }
         },
@@ -9477,6 +9763,9 @@
                 ],
                 "screenscraper": [
                     133
+                ],
+                "emucontrolcenter": [
+                    "cdi"
                 ]
             }
         },
@@ -9507,6 +9796,9 @@
                 ],
                 "mame": [
                     "vg5k"
+                ],
+                "emucontrolcenter": [
+                    "vg5000"
                 ]
             }
         },
@@ -9651,6 +9943,9 @@
                 ],
                 "mame": [
                     "studio2"
+                ],
+                "emucontrolcenter": [
+                    "studio2"
                 ]
             }
         },
@@ -9668,6 +9963,9 @@
             "name": "RCA VIP",
             "matches": {
                 "mame": [
+                    "vip"
+                ],
+                "emucontrolcenter": [
                     "vip"
                 ]
             }
@@ -9714,6 +10012,9 @@
                 "mame": [
                     "radio86_cart",
                     "radio86_cass"
+                ],
+                "emucontrolcenter": [
+                    "r86rk"
                 ]
             }
         },
@@ -9945,6 +10246,9 @@
                 ],
                 "tosec": [
                     "SNK Neo-Geo - Games"
+                ],
+                "emucontrolcenter": [
+                    "ng"
                 ]
             }
         },
@@ -9997,6 +10301,9 @@
                 ],
                 "screenscraper": [
                     70
+                ],
+                "emucontrolcenter": [
+                    "ngcd"
                 ]
             }
         },
@@ -10038,6 +10345,9 @@
                 ],
                 "screenscraper": [
                     25
+                ],
+                "emucontrolcenter": [
+                    "ngp"
                 ]
             }
         },
@@ -10071,6 +10381,9 @@
                 ],
                 "screenscraper": [
                     82
+                ],
+                "emucontrolcenter": [
+                    "ngpc"
                 ]
             }
         },
@@ -10163,6 +10476,9 @@
                 ],
                 "screenscraper": [
                     53
+                ],
+                "emucontrolcenter": [
+                    "atomisw"
                 ]
             }
         },
@@ -10260,6 +10576,9 @@
                 ],
                 "screenscraper": [
                     19
+                ],
+                "emucontrolcenter": [
+                    "32x"
                 ]
             }
         },
@@ -10320,6 +10639,9 @@
                 ],
                 "screenscraper": [
                     20
+                ],
+                "emucontrolcenter": [
+                    "smcd"
                 ]
             }
         },
@@ -10419,6 +10741,10 @@
                 ],
                 "screenscraper": [
                     23
+                ],
+                "emucontrolcenter": [
+                    "dc",
+                    "dcvmu"
                 ]
             }
         },
@@ -10437,6 +10763,9 @@
                 ],
                 "screenscraper": [
                     109
+                ],
+                "emucontrolcenter": [
+                    "sg1000"
                 ]
             }
         },
@@ -10473,6 +10802,9 @@
                 ],
                 "screenscraper": [
                     21
+                ],
+                "emucontrolcenter": [
+                    "gg"
                 ]
             }
         },
@@ -10579,6 +10911,9 @@
                 ],
                 "screenscraper": [
                     2
+                ],
+                "emucontrolcenter": [
+                    "sms"
                 ]
             }
         },
@@ -10632,6 +10967,9 @@
             "matches": {
                 "launchbox": [
                     "Sega Model 1"
+                ],
+                "emucontrolcenter": [
+                    "model1"
                 ]
             }
         },
@@ -10644,6 +10982,10 @@
                 ],
                 "screenscraper": [
                     54
+                ],
+                "emucontrolcenter": [
+                    "bw2",
+                    "model2"
                 ]
             }
         },
@@ -10656,6 +10998,9 @@
                 ],
                 "screenscraper": [
                     55
+                ],
+                "emucontrolcenter": [
+                    "model3"
                 ]
             }
         },
@@ -10680,6 +11025,9 @@
                 ],
                 "screenscraper": [
                     56
+                ],
+                "emucontrolcenter": [
+                    "naomi"
                 ]
             }
         },
@@ -10733,6 +11081,9 @@
                 ],
                 "tosecpix": [
                     "Sega Pico - Manuals - Games"
+                ],
+                "emucontrolcenter": [
+                    "pico"
                 ]
             }
         },
@@ -10769,6 +11120,9 @@
             "matches": {
                 "launchbox": [
                     "Sega SC-3000"
+                ],
+                "emucontrolcenter": [
+                    "sc3000"
                 ]
             }
         },
@@ -10852,6 +11206,9 @@
                 ],
                 "nointro": [
                     "Non-Redump - Sega - Sega Saturn"
+                ],
+                "emucontrolcenter": [
+                    "sat"
                 ]
             }
         },
@@ -10892,6 +11249,9 @@
             "matches": {
                 "launchbox": [
                     "Sega System 16"
+                ],
+                "emucontrolcenter": [
+                    "s16"
                 ]
             }
         },
@@ -10909,6 +11269,9 @@
             "name": "Sega Titan Video",
             "matches": {
                 "mame": [
+                    "stv"
+                ],
+                "emucontrolcenter": [
                     "stv"
                 ]
             }
@@ -10965,6 +11328,9 @@
                 "mame": [
                     "mz2000_cass",
                     "mz2000_flop"
+                ],
+                "emucontrolcenter": [
+                    "mz2000"
                 ]
             }
         },
@@ -10992,6 +11358,9 @@
                 ],
                 "tosec": [
                     "Sharp MZ-2500 - Games"
+                ],
+                "emucontrolcenter": [
+                    "mz2500"
                 ]
             }
         },
@@ -11081,6 +11450,9 @@
                 ],
                 "screenscraper": [
                     220
+                ],
+                "emucontrolcenter": [
+                    "x1"
                 ]
             }
         },
@@ -11130,6 +11502,9 @@
                 ],
                 "screenscraper": [
                     79
+                ],
+                "emucontrolcenter": [
+                    "x68000"
                 ]
             }
         },
@@ -11165,6 +11540,9 @@
                     "ql_cart",
                     "ql_cass",
                     "ql_flop"
+                ],
+                "emucontrolcenter": [
+                    "ql"
                 ]
             }
         },
@@ -11391,6 +11769,9 @@
                 ],
                 "screenscraper": [
                     76
+                ],
+                "emucontrolcenter": [
+                    "zxs"
                 ]
             }
         },
@@ -11459,6 +11840,9 @@
                 ],
                 "tgdb": [
                     5010
+                ],
+                "emucontrolcenter": [
+                    "zx81"
                 ]
             }
         },
@@ -11529,6 +11913,9 @@
                 "nointro": [
                     "Non-Redump - Sony - PlayStation",
                     "Sony - PlayStation (PS one Classics) (PSN)"
+                ],
+                "emucontrolcenter": [
+                    "ps1"
                 ]
             }
         },
@@ -11562,6 +11949,9 @@
                 ],
                 "nointro": [
                     "Non-Redump - Sony - PlayStation 2"
+                ],
+                "emucontrolcenter": [
+                    "ps2"
                 ]
             }
         },
@@ -11592,6 +11982,9 @@
                 ],
                 "screenscraper": [
                     59
+                ],
+                "emucontrolcenter": [
+                    "ps3"
                 ]
             }
         },
@@ -11614,6 +12007,9 @@
                 ],
                 "screenscraper": [
                     60
+                ],
+                "emucontrolcenter": [
+                    "ps4"
                 ]
             }
         },
@@ -11666,6 +12062,9 @@
                 "screenscraper": [
                     61,
                     172
+                ],
+                "emucontrolcenter": [
+                    "psp"
                 ]
             }
         },
@@ -11694,6 +12093,9 @@
                 ],
                 "tosec": [
                     "Sony PlayStation Vita - Homebrew - Games"
+                ],
+                "emucontrolcenter": [
+                    "psv"
                 ]
             }
         },
@@ -11707,6 +12109,9 @@
                 "tosec": [
                     "Sony PocketStation - Games",
                     "Sony PocketStation - Various"
+                ],
+                "emucontrolcenter": [
+                    "pstation"
                 ]
             }
         },
@@ -11737,6 +12142,9 @@
             "matches": {
                 "launchbox": [
                     "ZiNc"
+                ],
+                "emucontrolcenter": [
+                    "zinc"
                 ]
             }
         },
@@ -11759,6 +12167,9 @@
                     "m5_cart",
                     "m5_cass",
                     "m5_flop"
+                ],
+                "emucontrolcenter": [
+                    "sordm5"
                 ]
             }
         },
@@ -11946,6 +12357,9 @@
                 ],
                 "screenscraper": [
                     144
+                ],
+                "emucontrolcenter": [
+                    "trs80"
                 ]
             }
         },
@@ -12106,6 +12520,9 @@
                 ],
                 "oldcomputers": [
                     79
+                ],
+                "emucontrolcenter": [
+                    "oric"
                 ]
             }
         },
@@ -12140,6 +12557,9 @@
                 ],
                 "oldcomputers": [
                     86
+                ],
+                "emucontrolcenter": [
+                    "einst"
                 ]
             }
         },
@@ -12321,6 +12741,9 @@
                 ],
                 "oldcomputers": [
                     730
+                ],
+                "emucontrolcenter": [
+                    "pmd85"
                 ]
             }
         },
@@ -12422,6 +12845,9 @@
                     "Texas Instruments TI-82 - Games",
                     "Texas Instruments TI-82 - Shells",
                     "Texas Instruments TI-82 - Sources"
+                ],
+                "emucontrolcenter": [
+                    "ti82"
                 ]
             }
         },
@@ -12449,6 +12875,9 @@
                 "tosec": [
                     "Texas Instruments TI-85 - Firmware",
                     "Texas Instruments TI-85 - Games"
+                ],
+                "emucontrolcenter": [
+                    "ti85"
                 ]
             }
         },
@@ -12459,6 +12888,9 @@
                 "tosec": [
                     "Texas Instruments TI-86 - Firmware",
                     "Texas Instruments TI-86 - Games"
+                ],
+                "emucontrolcenter": [
+                    "ti86"
                 ]
             }
         },
@@ -12479,6 +12911,9 @@
                     "Texas Instruments TI-92 - Applications",
                     "Texas Instruments TI-92 - Firmware",
                     "Texas Instruments TI-92 - Games"
+                ],
+                "emucontrolcenter": [
+                    "ti92"
                 ]
             }
         },
@@ -12531,6 +12966,10 @@
                 ],
                 "screenscraper": [
                     205
+                ],
+                "emucontrolcenter": [
+                    "ti83",
+                    "ti99"
                 ]
             }
         },
@@ -12572,6 +13011,9 @@
                 ],
                 "screenscraper": [
                     141
+                ],
+                "emucontrolcenter": [
+                    "mo5"
                 ]
             }
         },
@@ -12707,6 +13149,9 @@
                 ],
                 "screenscraper": [
                     121
+                ],
+                "emucontrolcenter": [
+                    "gamecom"
                 ]
             }
         },
@@ -12716,6 +13161,9 @@
             "matches": {
                 "tgdb": [
                     4992
+                ],
+                "emucontrolcenter": [
+                    "gizmondo"
                 ]
             }
         },
@@ -12855,6 +13303,9 @@
                     "Tomy Tutor & Pyuuta - Games"
                 ],
                 "mame": [
+                    "tutor"
+                ],
+                "emucontrolcenter": [
                     "tutor"
                 ]
             }
@@ -13146,6 +13597,9 @@
                 ],
                 "screenscraper": [
                     241
+                ],
+                "emucontrolcenter": [
+                    "cv"
                 ]
             }
         },
@@ -13488,7 +13942,11 @@
         "Videoton TV-Computer": {
             "id": "Videoton TV-Computer",
             "name": "Videoton TV-Computer",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "tvc"
+                ]
+            }
         },
         "Videoton TVC": {
             "id": "Videoton TVC",
@@ -13521,6 +13979,9 @@
             "matches": {
                 "screenscraper": [
                     198
+                ],
+                "emucontrolcenter": [
+                    "vp"
                 ]
             }
         },
@@ -13593,6 +14054,9 @@
                 ],
                 "screenscraper": [
                     207
+                ],
+                "emucontrolcenter": [
+                    "svn"
                 ]
             }
         },

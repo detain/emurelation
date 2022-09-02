@@ -28,6 +28,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 157 | 40 | 197 | 79.7% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [MAME](sources/mame.json) | Emulator | 623 | 46 | 669 | 93.1% |
 | [No-Intro](sources/nointro.json) | DAT | 253 | 31 | 284 | 89.1% |
