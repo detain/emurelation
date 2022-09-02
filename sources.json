@@ -41,7 +41,9 @@
         "description": "",
         "updatedLast": 1661405222,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://no-intro.org/": "home"
+        }
     },
     "tosec": {
         "id": "tosec",
@@ -54,7 +56,9 @@
         "description": "",
         "updatedLast": 1661942241,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.tosecdev.org/": "home"
+        }
     },
     "toseciso": {
         "id": "toseciso",
@@ -67,7 +71,9 @@
         "description": "",
         "updatedLast": 1661942244,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.tosecdev.org/": "home"
+        }
     },
     "tosecpix": {
         "id": "tosecpix",
@@ -80,7 +86,9 @@
         "description": "",
         "updatedLast": 1661942253,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.tosecdev.org/": "home"
+        }
     },
     "redump": {
         "id": "redump",
@@ -93,7 +101,9 @@
         "description": "",
         "updatedLast": 1661404803,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "http://redump.org/": "home"
+        }
     },
     "mame": {
         "id": "mame",
@@ -107,7 +117,10 @@
         "description": "",
         "updatedLast": 1662074631,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.mamedev.org/": "home",
+            "https://github.com/mamedev/mame/": "repo"
+        }
     },
     "launchbox": {
         "id": "launchbox",
@@ -122,7 +135,9 @@
         "description": "",
         "updatedLast": 1662076059,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.launchbox-app.com/": "home"
+        }
     },
     "tgdb": {
         "id": "tgdb",
@@ -135,7 +150,9 @@
         "description": "",
         "updatedLast": 1661483278,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://thegamesdb.net/": "home"
+        }
     },
     "screenscraper": {
         "id": "screenscraper",
@@ -149,7 +166,9 @@
         "description": "",
         "updatedLast": 1662034517,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.screenscraper.fr/": "home"
+        }
     },
     "oldcomputers": {
         "id": "oldcomputers",
@@ -163,7 +182,9 @@
         "description": "",
         "updatedLast": 1662078604,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.old-computers.com/": "home"
+        }
     },
     "emucr": {
         "id": "emucr",
@@ -176,7 +197,9 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.emucr.com/": "home"
+        }
     },
     "emulationking": {
         "id": "emulationking",
@@ -189,7 +212,9 @@
         "description": "",
         "updatedLast": 1662104512,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://emulationking.com/": "home"
+        }
     },
     "emuparadise": {
         "id": "emuparadise",
@@ -202,7 +227,9 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.emuparadise.me/": "home"
+        }
     },
     "emutopia": {
         "id": "emutopia",
@@ -215,7 +242,9 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://emutopia.com/": "home"
+        }
     },
     "retrobat": {
         "id": "retrobat",
@@ -228,7 +257,10 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://github.com/kaylh/RetroBat": "repo",
+            "https://www.retrobat.ovh/": "home"
+        }
     },
     "esde": {
         "id": "esde",
@@ -241,7 +273,10 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://es-de.org/": "home",
+            "https://gitlab.com/es-de/emulationstation-de/": "repo"
+        }
     },
     "hyperspin": {
         "id": "hyperspin",
@@ -254,7 +289,9 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://hyperspin-fe.com/": "home"
+        }
     },
     "recalbox": {
         "id": "recalbox",
@@ -267,7 +304,10 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.recalbox.com/": "home",
+            "https://gitlab.com/recalbox/recalbox": "repo"
+        }
     },
     "retropie": {
         "id": "retropie",
@@ -280,7 +320,10 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://retropie.org.uk/": "home",
+            "https://github.com/RetroPie/RetroPie-Setup": "repo"
+        }
     },
     "igdb": {
         "id": "igdb",
@@ -292,7 +335,9 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.igdb.com/": "home"
+        }
     },
     "mobygames": {
         "id": "mobygames",
@@ -304,7 +349,9 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "web": []
+        "web": {
+            "https://www.mobygames.com/": "home"
+        }
     },
     "": {
         "id": "",

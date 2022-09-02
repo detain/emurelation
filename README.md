@@ -38,8 +38,8 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [local](local.json) | Local | - | - | 832 | - |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 157 | 40 | 197 | 79.7% |
-| [EmulationKing](sources/emulationking.json) | Website | 30 | 4 | 34 | 88.2% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 159 | 38 | 197 | 80.7% |
+| [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [MAME](sources/mame.json) | Emulator | 623 | 46 | 669 | 93.1% |
 | [No-Intro](sources/nointro.json) | DAT | 253 | 31 | 284 | 89.1% |

@@ -1211,6 +1211,9 @@
             "id": "Atari 2600",
             "name": "Atari 2600",
             "matches": {
+                "emulationking": [
+                    "atari2600"
+                ],
                 "launchbox": [
                     "Atari 2600"
                 ],
@@ -1297,6 +1300,9 @@
             "id": "Atari 5200",
             "name": "Atari 5200",
             "matches": {
+                "emulationking": [
+                    "atari5200"
+                ],
                 "launchbox": [
                     "Atari 5200"
                 ],
@@ -1335,6 +1341,9 @@
             "id": "Atari 7800",
             "name": "Atari 7800",
             "matches": {
+                "emulationking": [
+                    "atari7800"
+                ],
                 "launchbox": [
                     "Atari 7800"
                 ],
@@ -7980,6 +7989,9 @@
                 ],
                 "emulationking": [
                     "xbox360"
+                ],
+                "emucontrolcenter": [
+                    "xbox360"
                 ]
             }
         },
@@ -8005,6 +8017,9 @@
                 ],
                 "emulationking": [
                     "xboxone"
+                ],
+                "emucontrolcenter": [
+                    "xboxone"
                 ]
             }
         },
@@ -8012,6 +8027,9 @@
             "id": "Microsoft Xbox Series X",
             "name": "Microsoft Xbox Series X",
             "matches": {
+                "emulationking": [
+                    "xboxseries"
+                ],
                 "tgdb": [
                     4981
                 ],
