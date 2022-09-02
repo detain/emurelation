@@ -1500,6 +1500,9 @@
                 ],
                 "emucontrolcenter": [
                     "jag"
+                ],
+                "emulationking": [
+                    "atarijaguar"
                 ]
             }
         },
@@ -1577,6 +1580,9 @@
                 "emucontrolcenter": [
                     "lynx",
                     "clynx"
+                ],
+                "emulationking": [
+                    "atarilynx"
                 ]
             }
         },
@@ -7730,6 +7736,9 @@
                 ],
                 "screenscraper": [
                     135
+                ],
+                "emulationking": [
+                    "ms-dos"
                 ]
             }
         },
@@ -7928,6 +7937,9 @@
                 ],
                 "emucontrolcenter": [
                     "xbox"
+                ],
+                "emulationking": [
+                    "xbox"
                 ]
             }
         },
@@ -7965,6 +7977,9 @@
                     "Microsoft Xbox 360 - Magazines - Xbox World",
                     "Microsoft Xbox 360 - Manuals - Games",
                     "Microsoft Xbox 360 - Manuals - Hardware"
+                ],
+                "emulationking": [
+                    "xbox360"
                 ]
             }
         },
@@ -7987,6 +8002,9 @@
                 ],
                 "screenscraper": [
                     34
+                ],
+                "emulationking": [
+                    "xboxone"
                 ]
             }
         },
@@ -8619,6 +8637,9 @@
                 ],
                 "emucontrolcenter": [
                     "3ds"
+                ],
+                "emulationking": [
+                    "nintendo-3ds"
                 ]
             }
         },
@@ -8667,6 +8688,9 @@
                 ],
                 "emucontrolcenter": [
                     "n64"
+                ],
+                "emulationking": [
+                    "nintendo64"
                 ]
             }
         },
@@ -8731,6 +8755,9 @@
                 ],
                 "emucontrolcenter": [
                     "nds"
+                ],
+                "emulationking": [
+                    "nintendods"
                 ]
             }
         },
@@ -8813,6 +8840,9 @@
                     3
                 ],
                 "emucontrolcenter": [
+                    "nes"
+                ],
+                "emulationking": [
                     "nes"
                 ]
             }
@@ -8951,6 +8981,9 @@
                 ],
                 "emucontrolcenter": [
                     "gba"
+                ],
+                "emulationking": [
+                    "gameboyadvance"
                 ]
             }
         },
@@ -8983,6 +9016,9 @@
                 ],
                 "emucontrolcenter": [
                     "gbc"
+                ],
+                "emulationking": [
+                    "gameboycolor"
                 ]
             }
         },
@@ -9020,6 +9056,9 @@
                 ],
                 "emucontrolcenter": [
                     "gc"
+                ],
+                "emulationking": [
+                    "gamecube"
                 ]
             }
         },
@@ -9172,6 +9211,9 @@
                 ],
                 "emucontrolcenter": [
                     "snes"
+                ],
+                "emulationking": [
+                    "snes"
                 ]
             }
         },
@@ -9187,6 +9229,9 @@
                 ],
                 "screenscraper": [
                     225
+                ],
+                "emulationking": [
+                    "nintendoswitch"
                 ]
             }
         },
@@ -9221,6 +9266,9 @@
                 ],
                 "emucontrolcenter": [
                     "vb"
+                ],
+                "emulationking": [
+                    "virtualboy"
                 ]
             }
         },
@@ -9257,6 +9305,9 @@
                 ],
                 "emucontrolcenter": [
                     "wii"
+                ],
+                "emulationking": [
+                    "wii"
                 ]
             }
         },
@@ -9288,6 +9339,9 @@
                 ],
                 "emucontrolcenter": [
                     "wiiu"
+                ],
+                "emulationking": [
+                    "wii-u"
                 ]
             }
         },
@@ -10748,6 +10802,9 @@
                 "emucontrolcenter": [
                     "dc",
                     "dcvmu"
+                ],
+                "emulationking": [
+                    "segadreamcast"
                 ]
             }
         },
@@ -10769,6 +10826,9 @@
                 ],
                 "emucontrolcenter": [
                     "sg1000"
+                ],
+                "emulationking": [
+                    "sg-1000"
                 ]
             }
         },
@@ -10848,6 +10908,9 @@
                 "screenscraper": [
                     1,
                     203
+                ],
+                "emulationking": [
+                    "segagenesis"
                 ]
             }
         },
@@ -10917,6 +10980,9 @@
                 ],
                 "emucontrolcenter": [
                     "sms"
+                ],
+                "emulationking": [
+                    "segamastersystem"
                 ]
             }
         },
@@ -11212,6 +11278,9 @@
                 ],
                 "emucontrolcenter": [
                     "sat"
+                ],
+                "emulationking": [
+                    "segasaturn"
                 ]
             }
         },
@@ -11922,6 +11991,9 @@
                 ],
                 "emucontrolcenter": [
                     "ps1"
+                ],
+                "emulationking": [
+                    "psx"
                 ]
             }
         },
@@ -11958,6 +12030,9 @@
                 ],
                 "emucontrolcenter": [
                     "ps2"
+                ],
+                "emulationking": [
+                    "playstation2"
                 ]
             }
         },
@@ -11991,6 +12066,9 @@
                 ],
                 "emucontrolcenter": [
                     "ps3"
+                ],
+                "emulationking": [
+                    "playstation3"
                 ]
             }
         },
@@ -12016,6 +12094,9 @@
                 ],
                 "emucontrolcenter": [
                     "ps4"
+                ],
+                "emulationking": [
+                    "playstation4"
                 ]
             }
         },
@@ -12028,6 +12109,9 @@
                 ],
                 "launchbox": [
                     "Sony Playstation 5"
+                ],
+                "emulationking": [
+                    "playstation5"
                 ]
             }
         },
@@ -12071,6 +12155,9 @@
                 ],
                 "emucontrolcenter": [
                     "psp"
+                ],
+                "emulationking": [
+                    "playstationportable"
                 ]
             }
         },
@@ -12102,6 +12189,9 @@
                 ],
                 "emucontrolcenter": [
                     "psv"
+                ],
+                "emulationking": [
+                    "psvita"
                 ]
             }
         },

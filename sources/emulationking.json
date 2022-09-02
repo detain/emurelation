@@ -1,0 +1,1017 @@
+{
+    "platforms": {
+        "nintendoswitch": {
+            "id": "nintendoswitch",
+            "name": "Nintendo Switch",
+            "shortName": "nintendoswitch",
+            "company": "nintendo"
+        },
+        "wii-u": {
+            "id": "wii-u",
+            "name": "Nintendo Wii U",
+            "shortName": "wii-u",
+            "company": "nintendo"
+        },
+        "nintendo-3ds": {
+            "id": "nintendo-3ds",
+            "name": "Nintendo 3DS",
+            "shortName": "nintendo-3ds",
+            "company": "nintendo"
+        },
+        "wii": {
+            "id": "wii",
+            "name": "Nintendo Wii",
+            "shortName": "wii",
+            "company": "nintendo"
+        },
+        "nintendods": {
+            "id": "nintendods",
+            "name": "Nintendo DS",
+            "shortName": "nintendods",
+            "company": "nintendo"
+        },
+        "gamecube": {
+            "id": "gamecube",
+            "name": "Nintendo GameCube",
+            "shortName": "gamecube",
+            "company": "nintendo"
+        },
+        "gameboyadvance": {
+            "id": "gameboyadvance",
+            "name": "Game Boy Advance",
+            "shortName": "gameboyadvance",
+            "company": "nintendo"
+        },
+        "gameboycolor": {
+            "id": "gameboycolor",
+            "name": "Game Boy Color",
+            "shortName": "gameboycolor",
+            "company": "nintendo"
+        },
+        "nintendo64": {
+            "id": "nintendo64",
+            "name": "Nintendo 64",
+            "shortName": "nintendo64",
+            "company": "nintendo"
+        },
+        "virtualboy": {
+            "id": "virtualboy",
+            "name": "Virtual Boy",
+            "shortName": "virtualboy",
+            "company": "nintendo"
+        },
+        "snes": {
+            "id": "snes",
+            "name": "SNES / Super Famicon",
+            "shortName": "snes",
+            "company": "nintendo"
+        },
+        "nes": {
+            "id": "nes",
+            "name": "NES / Famicon",
+            "shortName": "nes",
+            "company": "nintendo"
+        },
+        "playstation5": {
+            "id": "playstation5",
+            "name": "PlayStation 5",
+            "shortName": "playstation5",
+            "company": "sony"
+        },
+        "playstation4": {
+            "id": "playstation4",
+            "name": "PlayStation 4",
+            "shortName": "playstation4",
+            "company": "sony"
+        },
+        "psvita": {
+            "id": "psvita",
+            "name": "PlayStation Vita",
+            "shortName": "psvita",
+            "company": "sony"
+        },
+        "playstation3": {
+            "id": "playstation3",
+            "name": "PlayStation 3",
+            "shortName": "playstation3",
+            "company": "sony"
+        },
+        "playstationportable": {
+            "id": "playstationportable",
+            "name": "PSP",
+            "shortName": "playstationportable",
+            "company": "sony"
+        },
+        "playstation2": {
+            "id": "playstation2",
+            "name": "PlayStation 2",
+            "shortName": "playstation2",
+            "company": "sony"
+        },
+        "psx": {
+            "id": "psx",
+            "name": "PlayStation",
+            "shortName": "psx",
+            "company": "sony"
+        },
+        "segadreamcast": {
+            "id": "segadreamcast",
+            "name": "Dreamcast",
+            "shortName": "segadreamcast",
+            "company": "sega"
+        },
+        "segasaturn": {
+            "id": "segasaturn",
+            "name": "SEGA Saturn",
+            "shortName": "segasaturn",
+            "company": "sega"
+        },
+        "segagenesis": {
+            "id": "segagenesis",
+            "name": "SEGA Genesis",
+            "shortName": "segagenesis",
+            "company": "sega"
+        },
+        "segamastersystem": {
+            "id": "segamastersystem",
+            "name": "Master System",
+            "shortName": "segamastersystem",
+            "company": "sega"
+        },
+        "sg-1000": {
+            "id": "sg-1000",
+            "name": "SG-1000",
+            "shortName": "sg-1000",
+            "company": "sega"
+        },
+        "xboxseries": {
+            "id": "xboxseries",
+            "name": "Xbox Series X/S",
+            "shortName": "xboxseries",
+            "company": "microsoft"
+        },
+        "xboxone": {
+            "id": "xboxone",
+            "name": "Xbox One",
+            "shortName": "xboxone",
+            "company": "microsoft"
+        },
+        "xbox360": {
+            "id": "xbox360",
+            "name": "Xbox 360",
+            "shortName": "xbox360",
+            "company": "microsoft"
+        },
+        "xbox": {
+            "id": "xbox",
+            "name": "Xbox",
+            "shortName": "xbox",
+            "company": "microsoft"
+        },
+        "ms-dos": {
+            "id": "ms-dos",
+            "name": "MS-DOS",
+            "shortName": "ms-dos",
+            "company": "microsoft"
+        },
+        "atarijaguar": {
+            "id": "atarijaguar",
+            "name": "Atari Jaguar",
+            "shortName": "atarijaguar",
+            "company": "atari"
+        },
+        "atarilynx": {
+            "id": "atarilynx",
+            "name": "Atari Lynx",
+            "shortName": "atarilynx",
+            "company": "atari"
+        },
+        "atari7800": {
+            "id": "atari7800",
+            "name": "Atari 7800 System",
+            "shortName": "atari7800",
+            "company": "atari"
+        },
+        "atari5200": {
+            "id": "atari5200",
+            "name": "Atari 5200 System",
+            "shortName": "atari5200",
+            "company": "atari"
+        },
+        "atari2600": {
+            "id": "atari2600",
+            "name": "Atari 2600 System",
+            "shortName": "atari2600",
+            "company": "atari"
+        }
+    },
+    "companies": {
+        "nintendo": {
+            "id": "nintendo",
+            "name": "Nintendo",
+            "shortName": "nintendo"
+        },
+        "sony": {
+            "id": "sony",
+            "name": "Sony",
+            "shortName": "sony"
+        },
+        "sega": {
+            "id": "sega",
+            "name": "SEGA",
+            "shortName": "sega"
+        },
+        "microsoft": {
+            "id": "microsoft",
+            "name": "Microsoft",
+            "shortName": "microsoft"
+        },
+        "atari": {
+            "id": "atari",
+            "name": "Atari",
+            "shortName": "atari"
+        }
+    },
+    "emulators": {
+        "yuzu-emulator": {
+            "id": "yuzu-emulator",
+            "name": "Yuzu",
+            "shortName": "yuzu-emulator",
+            "platforms": [
+                "nintendoswitch"
+            ]
+        },
+        "cemu": {
+            "id": "cemu",
+            "name": "Cemu",
+            "shortName": "cemu",
+            "platforms": [
+                "wii-u"
+            ]
+        },
+        "decaf-emulator": {
+            "id": "decaf-emulator",
+            "name": "Decaf Emulator",
+            "shortName": "decaf-emulator",
+            "platforms": [
+                "wii-u"
+            ]
+        },
+        "citra": {
+            "id": "citra",
+            "name": "Citra",
+            "shortName": "citra",
+            "platforms": [
+                "nintendo-3ds"
+            ]
+        },
+        "tronds": {
+            "id": "tronds",
+            "name": "TronDS",
+            "shortName": "tronds",
+            "platforms": [
+                "nintendo-3ds"
+            ]
+        },
+        "dolphin": {
+            "id": "dolphin",
+            "name": "Dolphin",
+            "shortName": "dolphin",
+            "platforms": [
+                "wii",
+                "gamecube"
+            ]
+        },
+        "desmume": {
+            "id": "desmume",
+            "name": "DeSmuME",
+            "shortName": "desmume",
+            "platforms": [
+                "nintendods"
+            ]
+        },
+        "nogba": {
+            "id": "nogba",
+            "name": "no$gba",
+            "shortName": "nogba",
+            "platforms": [
+                "nintendods",
+                "gameboyadvance"
+            ]
+        },
+        "ideas-emulator": {
+            "id": "ideas-emulator",
+            "name": "iDeaS",
+            "shortName": "ideas-emulator",
+            "platforms": [
+                "nintendods"
+            ]
+        },
+        "duos-emulator": {
+            "id": "duos-emulator",
+            "name": "DuoS",
+            "shortName": "duos-emulator",
+            "platforms": [
+                "nintendods"
+            ]
+        },
+        "dualis-emulator": {
+            "id": "dualis-emulator",
+            "name": "Dualis",
+            "shortName": "dualis-emulator",
+            "platforms": [
+                "nintendods"
+            ]
+        },
+        "gcube": {
+            "id": "gcube",
+            "name": "GCube",
+            "shortName": "gcube",
+            "platforms": [
+                "gamecube"
+            ]
+        },
+        "dolwin": {
+            "id": "dolwin",
+            "name": "Dolwin",
+            "shortName": "dolwin",
+            "platforms": [
+                "gamecube"
+            ]
+        },
+        "gekko": {
+            "id": "gekko",
+            "name": "Gekko",
+            "shortName": "gekko",
+            "platforms": [
+                "gamecube"
+            ]
+        },
+        "supergcube": {
+            "id": "supergcube",
+            "name": "SuperGCube",
+            "shortName": "supergcube",
+            "platforms": [
+                "gamecube"
+            ]
+        },
+        "whinecube": {
+            "id": "whinecube",
+            "name": "WhineCube",
+            "shortName": "whinecube",
+            "platforms": [
+                "gamecube"
+            ]
+        },
+        "gcemu": {
+            "id": "gcemu",
+            "name": "GCEmu",
+            "shortName": "gcemu",
+            "platforms": [
+                "gamecube"
+            ]
+        },
+        "visual-boy-advance": {
+            "id": "visual-boy-advance",
+            "name": "Visual Boy Advance",
+            "shortName": "visual-boy-advance",
+            "platforms": [
+                "gameboyadvance",
+                "gameboycolor"
+            ]
+        },
+        "mgba": {
+            "id": "mgba",
+            "name": "mGBA",
+            "shortName": "mgba",
+            "platforms": [
+                "gameboyadvance"
+            ]
+        },
+        "higan": {
+            "id": "higan",
+            "name": "higan",
+            "shortName": "higan",
+            "platforms": [
+                "gameboyadvance",
+                "gameboycolor",
+                "snes",
+                "nes"
+            ]
+        },
+        "gbeplus": {
+            "id": "gbeplus",
+            "name": "GBE+",
+            "shortName": "gbeplus",
+            "platforms": [
+                "gameboyadvance",
+                "gameboycolor"
+            ]
+        },
+        "boycottadvance": {
+            "id": "boycottadvance",
+            "name": "BoycottAdvance",
+            "shortName": "boycottadvance",
+            "platforms": [
+                "gameboyadvance"
+            ]
+        },
+        "rascalboy-advance": {
+            "id": "rascalboy-advance",
+            "name": "RascalBoy Advance",
+            "shortName": "rascalboy-advance",
+            "platforms": [
+                "gameboyadvance"
+            ]
+        },
+        "batgba": {
+            "id": "batgba",
+            "name": "BatGBA",
+            "shortName": "batgba",
+            "platforms": [
+                "gameboyadvance"
+            ]
+        },
+        "dreamgba": {
+            "id": "dreamgba",
+            "name": "DreamGBA",
+            "shortName": "dreamgba",
+            "platforms": [
+                "gameboyadvance"
+            ]
+        },
+        "kigb": {
+            "id": "kigb",
+            "name": "KiGB",
+            "shortName": "kigb",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "gearboy": {
+            "id": "gearboy",
+            "name": "GearBoy",
+            "shortName": "gearboy",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "gambatte": {
+            "id": "gambatte",
+            "name": "Gambatte",
+            "shortName": "gambatte",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "basicboy": {
+            "id": "basicboy",
+            "name": "BasicBoy",
+            "shortName": "basicboy",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "bgb": {
+            "id": "bgb",
+            "name": "BGB",
+            "shortName": "bgb",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "dreamgbc": {
+            "id": "dreamgbc",
+            "name": "DreamGBC",
+            "shortName": "dreamgbc",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "gest": {
+            "id": "gest",
+            "name": "GEST",
+            "shortName": "gest",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "gnuboy": {
+            "id": "gnuboy",
+            "name": "gnuboy",
+            "shortName": "gnuboy",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "playguy": {
+            "id": "playguy",
+            "name": "PlayGuy",
+            "shortName": "playguy",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "tgb-dual": {
+            "id": "tgb-dual",
+            "name": "TGB Dual",
+            "shortName": "tgb-dual",
+            "platforms": [
+                "gameboycolor"
+            ]
+        },
+        "project-64": {
+            "id": "project-64",
+            "name": "Project 64",
+            "shortName": "project-64",
+            "platforms": [
+                "nintendo64"
+            ]
+        },
+        "mupen64": {
+            "id": "mupen64",
+            "name": "Mupen64 Plus",
+            "shortName": "mupen64",
+            "platforms": [
+                "nintendo64"
+            ]
+        },
+        "1964-emulator": {
+            "id": "1964-emulator",
+            "name": "1964 Emulator",
+            "shortName": "1964-emulator",
+            "platforms": [
+                "nintendo64"
+            ]
+        },
+        "vbjin": {
+            "id": "vbjin",
+            "name": "vbjin",
+            "shortName": "vbjin",
+            "platforms": [
+                "virtualboy"
+            ]
+        },
+        "snes9x": {
+            "id": "snes9x",
+            "name": "snes9x",
+            "shortName": "snes9x",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "zsnes": {
+            "id": "zsnes",
+            "name": "zsnes",
+            "shortName": "zsnes",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "nestopia": {
+            "id": "nestopia",
+            "name": "Nestopia",
+            "shortName": "nestopia",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "jnes": {
+            "id": "jnes",
+            "name": "Jnes",
+            "shortName": "jnes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "nemulator": {
+            "id": "nemulator",
+            "name": "Nemulator",
+            "shortName": "nemulator",
+            "platforms": [
+                "nes",
+                "segamastersystem"
+            ]
+        },
+        "fceux": {
+            "id": "fceux",
+            "name": "FCEUX",
+            "shortName": "fceux",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "nintendulator": {
+            "id": "nintendulator",
+            "name": "Nintendulator",
+            "shortName": "nintendulator",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "rpcs3": {
+            "id": "rpcs3",
+            "name": "RCPS3",
+            "shortName": "rpcs3",
+            "platforms": [
+                "playstation3"
+            ]
+        },
+        "ppsspp": {
+            "id": "ppsspp",
+            "name": "PPSSPP",
+            "shortName": "ppsspp",
+            "platforms": [
+                "playstationportable"
+            ]
+        },
+        "jpcsp": {
+            "id": "jpcsp",
+            "name": "JPCSP",
+            "shortName": "jpcsp",
+            "platforms": [
+                "playstationportable"
+            ]
+        },
+        "soywiz-psp-emu": {
+            "id": "soywiz-psp-emu",
+            "name": "Soywiz PSP Emu",
+            "shortName": "soywiz-psp-emu",
+            "platforms": [
+                "playstationportable"
+            ]
+        },
+        "pcsp": {
+            "id": "pcsp",
+            "name": "PCSP",
+            "shortName": "pcsp",
+            "platforms": [
+                "playstationportable"
+            ]
+        },
+        "pcsx2": {
+            "id": "pcsx2",
+            "name": "PCSX2",
+            "shortName": "pcsx2",
+            "platforms": [
+                "playstation2"
+            ]
+        },
+        "play-ps2": {
+            "id": "play-ps2",
+            "name": "Play!",
+            "shortName": "play-ps2",
+            "platforms": [
+                "playstation2"
+            ]
+        },
+        "ps2emu": {
+            "id": "ps2emu",
+            "name": "PS2emu",
+            "shortName": "ps2emu",
+            "platforms": [
+                "playstation2"
+            ]
+        },
+        "neutrinosx2": {
+            "id": "neutrinosx2",
+            "name": "NeutrinoSX2",
+            "shortName": "neutrinosx2",
+            "platforms": [
+                "playstation2"
+            ]
+        },
+        "epsxe": {
+            "id": "epsxe",
+            "name": "ePSXe",
+            "shortName": "epsxe",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "pcsx-reloaded": {
+            "id": "pcsx-reloaded",
+            "name": "PCXS Reloaded",
+            "shortName": "pcsx-reloaded",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "nopsx": {
+            "id": "nopsx",
+            "name": "No$PSX",
+            "shortName": "nopsx",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "psx-emu": {
+            "id": "psx-emu",
+            "name": "pSX",
+            "shortName": "psx-emu",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "psxeven": {
+            "id": "psxeven",
+            "name": "PSXeven",
+            "shortName": "psxeven",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "ssspsx": {
+            "id": "ssspsx",
+            "name": "SSSPSX",
+            "shortName": "ssspsx",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "andripsx": {
+            "id": "andripsx",
+            "name": "AndriPSX",
+            "shortName": "andripsx",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "bleem": {
+            "id": "bleem",
+            "name": "Bleem!",
+            "shortName": "bleem",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "reicast": {
+            "id": "reicast",
+            "name": "Reicast",
+            "shortName": "reicast",
+            "platforms": [
+                "segadreamcast"
+            ]
+        },
+        "nulldc": {
+            "id": "nulldc",
+            "name": "NullDC",
+            "shortName": "nulldc",
+            "platforms": [
+                "segadreamcast"
+            ]
+        },
+        "demul": {
+            "id": "demul",
+            "name": "Demul",
+            "shortName": "demul",
+            "platforms": [
+                "segadreamcast"
+            ]
+        },
+        "chankast": {
+            "id": "chankast",
+            "name": "Chankast",
+            "shortName": "chankast",
+            "platforms": [
+                "segadreamcast"
+            ]
+        },
+        "yabause": {
+            "id": "yabause",
+            "name": "Yabause",
+            "shortName": "yabause",
+            "platforms": [
+                "segasaturn"
+            ]
+        },
+        "ssf": {
+            "id": "ssf",
+            "name": "SSF",
+            "shortName": "ssf",
+            "platforms": [
+                "segasaturn"
+            ]
+        },
+        "satourne": {
+            "id": "satourne",
+            "name": "Satourne",
+            "shortName": "satourne",
+            "platforms": [
+                "segasaturn"
+            ]
+        },
+        "kega-fusion": {
+            "id": "kega-fusion",
+            "name": "KEGA Fusion",
+            "shortName": "kega-fusion",
+            "platforms": [
+                "segagenesis",
+                "segamastersystem",
+                "sg-1000"
+            ]
+        },
+        "blastem": {
+            "id": "blastem",
+            "name": "BlastEM",
+            "shortName": "blastem",
+            "platforms": [
+                "segagenesis"
+            ]
+        },
+        "genesis-plus": {
+            "id": "genesis-plus",
+            "name": "Genesis Plus",
+            "shortName": "genesis-plus",
+            "platforms": [
+                "segagenesis"
+            ]
+        },
+        "gens32": {
+            "id": "gens32",
+            "name": "Gens32 Surreal",
+            "shortName": "gens32",
+            "platforms": [
+                "segagenesis"
+            ]
+        },
+        "exodus": {
+            "id": "exodus",
+            "name": "Exodus",
+            "shortName": "exodus",
+            "platforms": [
+                "segagenesis"
+            ]
+        },
+        "gearsystem": {
+            "id": "gearsystem",
+            "name": "GearSystem",
+            "shortName": "gearsystem",
+            "platforms": [
+                "segamastersystem"
+            ]
+        },
+        "crabemu": {
+            "id": "crabemu",
+            "name": "CrabEmu",
+            "shortName": "crabemu",
+            "platforms": [
+                "segamastersystem",
+                "sg-1000"
+            ]
+        },
+        "xenia": {
+            "id": "xenia",
+            "name": "Xenia",
+            "shortName": "xenia",
+            "platforms": [
+                "xbox360"
+            ]
+        },
+        "cxbx": {
+            "id": "cxbx",
+            "name": "CXBX",
+            "shortName": "cxbx",
+            "platforms": [
+                "xbox"
+            ]
+        },
+        "dxbx": {
+            "id": "dxbx",
+            "name": "DXBX",
+            "shortName": "dxbx",
+            "platforms": [
+                "xbox"
+            ]
+        },
+        "xeon": {
+            "id": "xeon",
+            "name": "Xeon",
+            "shortName": "xeon",
+            "platforms": [
+                "xbox"
+            ]
+        },
+        "virtualjaguar": {
+            "id": "virtualjaguar",
+            "name": "Virtual Jaguar",
+            "shortName": "virtualjaguar",
+            "platforms": [
+                "atarijaguar"
+            ]
+        },
+        "project-tempest": {
+            "id": "project-tempest",
+            "name": "Project Tempest",
+            "shortName": "project-tempest",
+            "platforms": [
+                "atarijaguar"
+            ]
+        },
+        "jagulator": {
+            "id": "jagulator",
+            "name": "Jagulator",
+            "shortName": "jagulator",
+            "platforms": [
+                "atarijaguar"
+            ]
+        },
+        "handy": {
+            "id": "handy",
+            "name": "Handy",
+            "shortName": "handy",
+            "platforms": [
+                "atarilynx"
+            ]
+        },
+        "emu7800": {
+            "id": "emu7800",
+            "name": "emu7800",
+            "shortName": "emu7800",
+            "platforms": [
+                "atari7800",
+                "atari2600"
+            ]
+        },
+        "prosystem-emulator": {
+            "id": "prosystem-emulator",
+            "name": "ProSystem Emulator",
+            "shortName": "prosystem-emulator",
+            "platforms": [
+                "atari7800"
+            ]
+        },
+        "atari800": {
+            "id": "atari800",
+            "name": "Atari800",
+            "shortName": "atari800",
+            "platforms": [
+                "atari5200"
+            ]
+        },
+        "jum52": {
+            "id": "jum52",
+            "name": "Jum52",
+            "shortName": "jum52",
+            "platforms": [
+                "atari5200"
+            ]
+        },
+        "rainbow": {
+            "id": "rainbow",
+            "name": "Rainbow",
+            "shortName": "rainbow",
+            "platforms": [
+                "atari5200"
+            ]
+        },
+        "altirra": {
+            "id": "altirra",
+            "name": "Altirra",
+            "shortName": "altirra",
+            "platforms": [
+                "atari5200"
+            ]
+        },
+        "atariplusplus": {
+            "id": "atariplusplus",
+            "name": "Atari++",
+            "shortName": "atariplusplus",
+            "platforms": [
+                "atari5200"
+            ]
+        },
+        "kat5200": {
+            "id": "kat5200",
+            "name": "Kat5200",
+            "shortName": "kat5200",
+            "platforms": [
+                "atari5200"
+            ]
+        },
+        "stella": {
+            "id": "stella",
+            "name": "Stella",
+            "shortName": "stella",
+            "platforms": [
+                "atari2600"
+            ]
+        },
+        "z26": {
+            "id": "z26",
+            "name": "z26",
+            "shortName": "z26",
+            "platforms": [
+                "atari2600"
+            ]
+        },
+        "pc-atari-emulator": {
+            "id": "pc-atari-emulator",
+            "name": "PC Atari Emulator",
+            "shortName": "pc-atari-emulator",
+            "platforms": [
+                "atari2600"
+            ]
+        }
+    }
+}

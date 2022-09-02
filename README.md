@@ -39,6 +39,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 |-|-|-|-|-|-|
 | [local](local.json) | Local | - | - | 832 | - |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 157 | 40 | 197 | 79.7% |
+| [EmulationKing](sources/emulationking.json) | Website | 30 | 4 | 34 | 88.2% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [MAME](sources/mame.json) | Emulator | 623 | 46 | 669 | 93.1% |
 | [No-Intro](sources/nointro.json) | DAT | 253 | 31 | 284 | 89.1% |
@@ -55,6 +56,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 490 | 490 | 0% |
+| [EmulationKing](sources/emulationking.json) | Website | 0 | 96 | 96 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 30 | 30 | 0% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 0 | 466 | 466 | 0% |
 
@@ -63,6 +65,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 100 | 100 | 0% |
+| [EmulationKing](sources/emulationking.json) | Website | 0 | 5 | 5 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 126 | 126 | 0% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 0 | 641 | 641 | 0% |
 
@@ -86,7 +89,6 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 - remove excess local platforms without at least 1 nointro/redump/tosec/mame match
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
 - Setup source exports for
-  - EmulationKing
   - EmuCR
   - EmuTopia
   - EmuParadise
@@ -113,7 +115,7 @@ _fields ending in * are required_
   - platforms<>
     - id*
     - name*
-    - shortName (dirname)
+    - shortName
     - company
     - manufacturer
     - developer
@@ -124,14 +126,17 @@ _fields ending in * are required_
   - companies<>
     - id*
     - name*
+    - shortName
     - matches[source][id]
   - emulators<>
     - id*
     - name*
+    - shortName
     - platforms[]
     - matches[source][id]
   - games<>
     - id*
     - name*
+    - shortName
     - platform*
     - matches[source][id]
