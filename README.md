@@ -89,14 +89,24 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 - remove excess local platforms without at least 1 nointro/redump/tosec/mame match
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
 - Setup source exports for
-  - EmuCR
-  - EmuTopia
-  - EmuParadise
-  - HyperSpin
-  - RecalBox
-  - RetroPie
-  - MobyGames
-  - IGDB
+  - Frontends
+    - HyperSpin
+    - EmulationStation
+    - EmulationStation-Desktop Edition
+    - RetroArch
+    - RetroBat
+    - RecalBox
+    - RetroPie
+  - APIs
+    - MobyGames
+    - IGDB
+  - Tools
+    - skeletonKey
+    - ARRM
+  - Websites
+    - EmuCR
+    - EmuTopia
+    - EmuParadise
 
 ### 🔁 Schemas and Data Definitions
 
