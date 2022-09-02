@@ -1,10 +1,13 @@
 # Emu⬅re➡lation
+
 Emu⬅re➡lation is project with 1 simple purpose; to provide a mapping of platforms, emulators, and games between varied sources in a easy to use JSON format.
 
 ## ❓ Why
+
 There are many websites, programs, etc relating to emulation and many use entirely different names for the same thing.   This disparity adds difficulty to both the end user trying to play a game and developers.  We all have to deal with this in one way or another, and my goal with this project is to simplify and standardize that process.
 
 ## 🔀 What is being stored
+
 The mapping data will consist of IDs and names while intentionally avoiding data or content beyond that such as descriptions and images.  This is to avoid any of the sources we are linking from feeling like we are stealing thier data or circumventing them.  I hope to make everyones life a little easier, eventually.
 
 ## 🔄 Status
@@ -17,6 +20,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | Games | ❎ | ❎ | ❎ |
 
 ## 🔃 Contributing
+
 All contributions (issues, comments, pull requests, etc) are welcomed and encouraged.  If you have any projects using or relating to this repo let me know and I can add a link to it.
 
 ## 📂 Mapping Files
@@ -24,7 +28,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | File | Description |
 |-|-|
 | [sources.json](sources.json) | list of sources |
-| [local.json](local.json) | local platform list with maches to the other sources |
+| [local.json](local.json) | local/main listing providing matching between other sources |
 | [sources/*.json](sources/) | each sources list of ids+names |
 
 ## 🗺 Supported Mapping
@@ -68,6 +72,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 |-|-|-|-|-|-|
 
 ## 📒 Development Notes
+
 - Source file generation and is currently done by scripts in [ConSolo](https://github.com/detain/ConSolo) project, but will likely be moving that.
 - [emurelator](https://github.com/detain/emurelator) is a CLI for management of the information but is in early development.
 - Local platforms
@@ -76,6 +81,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 - IDs should match the ID/Name used by the source.  An example from a TOSEC DAT is "Acorn BBC - Games - [DSD]".  While I could code in parsers and narrow it to say "Acorn BBC", I feel sticking with IDs that exactly match what the source uses for an entry will make it easier for people utilizing this information. If a more specific or alternate name is calculated, then it should be used in the AltNames[] section.
 
 ### ☑ TODO
+
 - Add local platforms for any unmatched nointro/redump/tosec/mame sources
 - remove excess local platforms without at least 1 nointro/redump/tosec/mame match
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
@@ -91,7 +97,10 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
   - IGDB
 
 ### 🔁 Schemas and Data Definitions
-- Source Definitions list will define each source with (* required):
+
+_fields ending in * are required_
+
+- Source Definitions list will define each source with
   - id*
   - name*
   - type*
@@ -100,7 +109,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
   - updatedLast
   - updateTrigger
   - web<url, name>
-- Source Data will have (* required):
+- Source Data will have
   - platforms<>
     - id*
     - name*
