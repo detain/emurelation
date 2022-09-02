@@ -114,6 +114,7 @@
         "type": "Frontend",
         "provides": [
             "emulators",
+            "companies",
             "platforms",
             "games"
         ],
@@ -154,10 +155,12 @@
         "name": "Old-Computers",
         "type": "Website",
         "provides": [
-            "platforms"
+            "platforms",
+            "companies",
+            "emulators"
         ],
         "description": "",
-        "updatedLast": 1661922773,
+        "updatedLast": 1662078604,
         "updateTrigger": "commit",
         "web": []
     },
