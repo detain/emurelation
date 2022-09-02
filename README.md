@@ -9,7 +9,12 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 ## 🔄 Status
 
-The _Platform_ matches are finished/usable.  The _Emulators_ and _Companies_ matching will be added shortly.  After that I'll make the first release and announce the project.  Later on the _Games_ matches will get added.
+| Type | Sources Generated | Local Entries | Mapping |
+|-|-|-|-|
+| Platforms | ✅ | ✅ | ✅ |
+| Emulators | ✅ | ❎ | ❎ |
+| Companies | ✅ | ❎ | ❎ |
+| Games | ❎ | ❎ | ❎ |
 
 ## 🔃 Contributing
 All contributions (issues, comments, pull requests, etc) are welcomed and encouraged.  If you have any projects using or relating to this repo let me know and I can add a link to it.
