@@ -1,0 +1,6173 @@
+{
+    "platforms": {
+        "archi": {
+            "id": "archi",
+            "name": "Archimedes",
+            "shortName": "archi",
+            "manufacturer": "Acorn"
+        },
+        "atom": {
+            "id": "atom",
+            "name": "Atom",
+            "shortName": "atom",
+            "manufacturer": "Acorn"
+        },
+        "bbc": {
+            "id": "bbc",
+            "name": "BBC",
+            "shortName": "bbc",
+            "manufacturer": "Acorn"
+        },
+        "etron": {
+            "id": "etron",
+            "name": "Electron",
+            "shortName": "etron",
+            "manufacturer": "Acorn"
+        },
+        "flash": {
+            "id": "flash",
+            "name": "Flash",
+            "shortName": "flash",
+            "manufacturer": "Adobe"
+        },
+        "cpc": {
+            "id": "cpc",
+            "name": "Amstrad CPC",
+            "shortName": "cpc",
+            "manufacturer": "Amstrad"
+        },
+        "gx4000": {
+            "id": "gx4000",
+            "name": "GX4000",
+            "shortName": "gx4000",
+            "manufacturer": "Amstrad"
+        },
+        "pcw": {
+            "id": "pcw",
+            "name": "PCW/Joyce",
+            "shortName": "pcw",
+            "manufacturer": "Amstrad/Schneider"
+        },
+        "im": {
+            "id": "im",
+            "name": "Imagination Machine",
+            "shortName": "im",
+            "manufacturer": "APF Electronics"
+        },
+        "apple1": {
+            "id": "apple1",
+            "name": "Apple 1",
+            "shortName": "apple1",
+            "manufacturer": "Apple"
+        },
+        "apple2": {
+            "id": "apple2",
+            "name": "Apple 2",
+            "shortName": "apple2",
+            "manufacturer": "Apple"
+        },
+        "apple2gs": {
+            "id": "apple2gs",
+            "name": "Apple 2GS",
+            "shortName": "apple2gs",
+            "manufacturer": "Apple"
+        },
+        "apple3": {
+            "id": "apple3",
+            "name": "3",
+            "shortName": "apple3",
+            "manufacturer": "Apple"
+        },
+        "lisa": {
+            "id": "lisa",
+            "name": "Apple Lisa",
+            "shortName": "lisa",
+            "manufacturer": "Apple"
+        },
+        "mtosh": {
+            "id": "mtosh",
+            "name": "Apple Macintosh",
+            "shortName": "mtosh",
+            "manufacturer": "Apple"
+        },
+        "mb": {
+            "id": "mb",
+            "name": "Microbee",
+            "shortName": "mb",
+            "manufacturer": "Applied Technologies"
+        },
+        "a2600": {
+            "id": "a2600",
+            "name": "Atari 2600 Video Computer System",
+            "shortName": "a2600",
+            "manufacturer": "Atari"
+        },
+        "a5200": {
+            "id": "a5200",
+            "name": "Atari 5200 SuperSystem",
+            "shortName": "a5200",
+            "manufacturer": "Atari"
+        },
+        "a7800": {
+            "id": "a7800",
+            "name": "Atari 7800 ProSystem",
+            "shortName": "a7800",
+            "manufacturer": "Atari"
+        },
+        "a8bit": {
+            "id": "a8bit",
+            "name": "Atari 8-bit Computer Systems",
+            "shortName": "a8bit",
+            "manufacturer": "Atari"
+        },
+        "falcon": {
+            "id": "falcon",
+            "name": "Atari Falcon",
+            "shortName": "falcon",
+            "manufacturer": "Atari"
+        },
+        "jag": {
+            "id": "jag",
+            "name": "Jaguar",
+            "shortName": "jag",
+            "manufacturer": "Atari"
+        },
+        "jagcd": {
+            "id": "jagcd",
+            "name": "Jaguar CD",
+            "shortName": "jagcd",
+            "manufacturer": "Atari"
+        },
+        "lynx": {
+            "id": "lynx",
+            "name": "Lynx",
+            "shortName": "lynx",
+            "manufacturer": "Atari"
+        },
+        "st": {
+            "id": "st",
+            "name": "ST",
+            "shortName": "st",
+            "manufacturer": "Atari"
+        },
+        "ac": {
+            "id": "ac",
+            "name": "Astrocade",
+            "shortName": "ac",
+            "manufacturer": "Bally"
+        },
+        "ws": {
+            "id": "ws",
+            "name": "Bandai WonderSwan",
+            "shortName": "ws",
+            "manufacturer": "Bandai"
+        },
+        "wsc": {
+            "id": "wsc",
+            "name": "Wonderwan Color",
+            "shortName": "wsc",
+            "manufacturer": "Bandai"
+        },
+        "bw2": {
+            "id": "bw2",
+            "name": "Model 2",
+            "shortName": "bw2",
+            "manufacturer": "Bondwell"
+        },
+        "clynx": {
+            "id": "clynx",
+            "name": "Lynx",
+            "shortName": "clynx",
+            "manufacturer": "Camputers"
+        },
+        "cps1": {
+            "id": "cps1",
+            "name": "Capcom Play System 1",
+            "shortName": "cps1",
+            "manufacturer": "Capcom"
+        },
+        "cps2": {
+            "id": "cps2",
+            "name": "Capcom Play System 2",
+            "shortName": "cps2",
+            "manufacturer": "Capcom"
+        },
+        "cps3": {
+            "id": "cps3",
+            "name": "Capcom Play System 3",
+            "shortName": "cps3",
+            "manufacturer": "Capcom"
+        },
+        "loopy": {
+            "id": "loopy",
+            "name": "Loopy",
+            "shortName": "loopy",
+            "manufacturer": "Casio"
+        },
+        "pv1000": {
+            "id": "pv1000",
+            "name": "PV-1000",
+            "shortName": "pv1000",
+            "manufacturer": "Casio"
+        },
+        "pv2000": {
+            "id": "pv2000",
+            "name": "PV-2000",
+            "shortName": "pv2000",
+            "manufacturer": "Casio"
+        },
+        "cpjava": {
+            "id": "cpjava",
+            "name": "Java games",
+            "shortName": "cpjava",
+            "manufacturer": "Sun Microsystems (java)"
+        },
+        "chip8": {
+            "id": "chip8",
+            "name": "Chip-8",
+            "shortName": "chip8",
+            "manufacturer": "Chip-8"
+        },
+        "adam": {
+            "id": "adam",
+            "name": "Adam",
+            "shortName": "adam",
+            "manufacturer": "Coleco"
+        },
+        "col": {
+            "id": "col",
+            "name": "ColecoVision",
+            "shortName": "col",
+            "manufacturer": "Coleco"
+        },
+        "c16plus4": {
+            "id": "c16plus4",
+            "name": "Commodore 16/plus4",
+            "shortName": "c16plus4",
+            "manufacturer": "Commodore"
+        },
+        "c64": {
+            "id": "c64",
+            "name": "Commodore 64",
+            "shortName": "c64",
+            "manufacturer": "Commodore"
+        },
+        "amiga": {
+            "id": "amiga",
+            "name": "Amiga",
+            "shortName": "amiga",
+            "manufacturer": "Commodore"
+        },
+        "amigacd32": {
+            "id": "amigacd32",
+            "name": "Amiga CD32",
+            "shortName": "amigacd32",
+            "manufacturer": "Commodore"
+        },
+        "c128": {
+            "id": "c128",
+            "name": "128",
+            "shortName": "c128",
+            "manufacturer": "Commodore"
+        },
+        "cdtv": {
+            "id": "cdtv",
+            "name": "CDTV",
+            "shortName": "cdtv",
+            "manufacturer": "Commodore"
+        },
+        "pet": {
+            "id": "pet",
+            "name": "PET",
+            "shortName": "pet",
+            "manufacturer": "Commodore PET"
+        },
+        "vic20": {
+            "id": "vic20",
+            "name": "VIC-20",
+            "shortName": "vic20",
+            "manufacturer": "Commodore"
+        },
+        "comx35": {
+            "id": "comx35",
+            "name": "Comx-35",
+            "shortName": "comx35",
+            "manufacturer": "Comx WOL"
+        },
+        "vip": {
+            "id": "vip",
+            "name": "VIP",
+            "shortName": "vip",
+            "manufacturer": "Cosmac"
+        },
+        "mdcb": {
+            "id": "mdcb",
+            "name": "Mega Duck/Cougar Boy",
+            "shortName": "mdcb",
+            "manufacturer": "CVT (Creatonic, Videojet, and Timlex)"
+        },
+        "cybiko": {
+            "id": "cybiko",
+            "name": "Cybiko",
+            "shortName": "cybiko",
+            "manufacturer": "Cybiko"
+        },
+        "pdp1": {
+            "id": "pdp1",
+            "name": "PDP-1",
+            "shortName": "pdp1",
+            "manufacturer": "DEC"
+        },
+        "pdp7": {
+            "id": "pdp7",
+            "name": "PDP-7",
+            "shortName": "pdp7",
+            "manufacturer": "DEC"
+        },
+        "dosbox": {
+            "id": "dosbox",
+            "name": "DOSbox",
+            "shortName": "dosbox",
+            "manufacturer": "DOSbox"
+        },
+        "dragon": {
+            "id": "dragon",
+            "name": "Dragon 32/64",
+            "shortName": "dragon",
+            "manufacturer": "Dragon Data"
+        },
+        "cg": {
+            "id": "cg",
+            "name": "Colour Genie",
+            "shortName": "cg",
+            "manufacturer": "EACA"
+        },
+        "tvgames": {
+            "id": "tvgames",
+            "name": "TV Games",
+            "shortName": "tvgames",
+            "manufacturer": "Elektor"
+        },
+        "arc": {
+            "id": "arc",
+            "name": "Arcadia",
+            "shortName": "arc",
+            "manufacturer": "Emerson"
+        },
+        "enterprise": {
+            "id": "enterprise",
+            "name": "Enterprise Systems",
+            "shortName": "enterprise",
+            "manufacturer": "Enterprise 64/128"
+        },
+        "advision": {
+            "id": "advision",
+            "name": "Adventure Vision",
+            "shortName": "advision",
+            "manufacturer": "Entex"
+        },
+        "scv": {
+            "id": "scv",
+            "name": "super cassette vision",
+            "shortName": "scv",
+            "manufacturer": "Epoch/Yeno"
+        },
+        "exl100": {
+            "id": "exl100",
+            "name": "EXL100",
+            "shortName": "exl100",
+            "manufacturer": "Exelvision"
+        },
+        "sorcerer": {
+            "id": "sorcerer",
+            "name": "Sorcerer",
+            "shortName": "sorcerer",
+            "manufacturer": "Exidy"
+        },
+        "chaf": {
+            "id": "chaf",
+            "name": "Channel F",
+            "shortName": "chaf",
+            "manufacturer": "Fairchild"
+        },
+        "fruit": {
+            "id": "fruit",
+            "name": "Gambling",
+            "shortName": "fruit",
+            "manufacturer": "----------"
+        },
+        "fmtowns": {
+            "id": "fmtowns",
+            "name": "FM Towns",
+            "shortName": "fmtowns",
+            "manufacturer": "Fujitsu"
+        },
+        "fm7": {
+            "id": "fm7",
+            "name": "FM-7",
+            "shortName": "fm7",
+            "manufacturer": "Fujitsu"
+        },
+        "acan": {
+            "id": "acan",
+            "name": "Super A'Can",
+            "shortName": "acan",
+            "manufacturer": "Funtech Entertainment"
+        },
+        "galplus": {
+            "id": "galplus",
+            "name": "Galaksija Plus",
+            "shortName": "galplus",
+            "manufacturer": "Galaksija"
+        },
+        "gp32": {
+            "id": "gp32",
+            "name": "Game Park 32",
+            "shortName": "gp32",
+            "manufacturer": "Game Park"
+        },
+        "vec": {
+            "id": "vec",
+            "name": "Vectrex",
+            "shortName": "vec",
+            "manufacturer": "Smith Engineering"
+        },
+        "gm": {
+            "id": "gm",
+            "name": "Game Master",
+            "shortName": "gm",
+            "manufacturer": "Hartung"
+        },
+        "ht1080z": {
+            "id": "ht1080z",
+            "name": "HT-1080Z",
+            "shortName": "ht1080z",
+            "manufacturer": "Híradástechnika Szövetkezet"
+        },
+        "homelab4": {
+            "id": "homelab4",
+            "name": "HomeLAB 4",
+            "shortName": "homelab4",
+            "manufacturer": "HomeLAB"
+        },
+        "pgm": {
+            "id": "pgm",
+            "name": "PolyGameMaster",
+            "shortName": "pgm",
+            "manufacturer": "IGS"
+        },
+        "hcs": {
+            "id": "hcs",
+            "name": "Home Computer System",
+            "shortName": "hcs",
+            "manufacturer": "Interact"
+        },
+        "vc4000": {
+            "id": "vc4000",
+            "name": "VC-4000",
+            "shortName": "vc4000",
+            "manufacturer": "Interton"
+        },
+        "vii": {
+            "id": "vii",
+            "name": "Vii",
+            "shortName": "vii",
+            "manufacturer": "Jungle Soft"
+        },
+        "jupace": {
+            "id": "jupace",
+            "name": "Jupiter Ace",
+            "shortName": "jupace",
+            "manufacturer": "Jupiter Cantab"
+        },
+        "mame": {
+            "id": "mame",
+            "name": "MAME",
+            "shortName": "mame",
+            "manufacturer": "-"
+        },
+        "alice": {
+            "id": "alice",
+            "name": "Alice",
+            "shortName": "alice",
+            "manufacturer": "Matra/Hachette"
+        },
+        "aqua": {
+            "id": "aqua",
+            "name": "Aquarius",
+            "shortName": "aqua",
+            "manufacturer": "Mattel"
+        },
+        "int": {
+            "id": "int",
+            "name": "Intellivision",
+            "shortName": "int",
+            "manufacturer": "Mattel"
+        },
+        "ld": {
+            "id": "ld",
+            "name": "Laserdisc",
+            "shortName": "ld",
+            "manufacturer": "MCA"
+        },
+        "mtx": {
+            "id": "mtx",
+            "name": "MTX 500/512",
+            "shortName": "mtx",
+            "manufacturer": "Memotech"
+        },
+        "samc": {
+            "id": "samc",
+            "name": "Sam Coupé",
+            "shortName": "samc",
+            "manufacturer": "Miles Gordon Technology"
+        },
+        "primo": {
+            "id": "primo",
+            "name": "Primo",
+            "shortName": "primo",
+            "manufacturer": "Microkey"
+        },
+        "xbox": {
+            "id": "xbox",
+            "name": "X-Box",
+            "shortName": "xbox",
+            "manufacturer": "Microsoft"
+        },
+        "xbox360": {
+            "id": "xbox360",
+            "name": "X-Box 360",
+            "shortName": "xbox360",
+            "manufacturer": "Microsoft"
+        },
+        "xboxone": {
+            "id": "xboxone",
+            "name": "X-Box One",
+            "shortName": "xboxone",
+            "manufacturer": "Microsoft"
+        },
+        "r86rk": {
+            "id": "r86rk",
+            "name": "Radio-86RK",
+            "shortName": "r86rk",
+            "manufacturer": "Mikrosha"
+        },
+        "msx2": {
+            "id": "msx2",
+            "name": "MSX",
+            "shortName": "msx2",
+            "manufacturer": "Sony - Philips - Sanyo - Panasonic..."
+        },
+        "msx": {
+            "id": "msx",
+            "name": "MSX",
+            "shortName": "msx",
+            "manufacturer": "Sony - Philips - Sanyo - Panasonic..."
+        },
+        "msxtr": {
+            "id": "msxtr",
+            "name": "MSX Turbo R (FS-A1GT/ST)",
+            "shortName": "msxtr",
+            "manufacturer": "Panasonic"
+        },
+        "s11": {
+            "id": "s11",
+            "name": "System 11",
+            "shortName": "s11",
+            "manufacturer": "Namco"
+        },
+        "s22": {
+            "id": "s22",
+            "name": "System 22",
+            "shortName": "s22",
+            "manufacturer": "Namco"
+        },
+        "pc6001": {
+            "id": "pc6001",
+            "name": "PC-6001",
+            "shortName": "pc6001",
+            "manufacturer": "NEC"
+        },
+        "pc8801": {
+            "id": "pc8801",
+            "name": "PC-8801",
+            "shortName": "pc8801",
+            "manufacturer": "NEC"
+        },
+        "pc9801": {
+            "id": "pc9801",
+            "name": "PC-9801",
+            "shortName": "pc9801",
+            "manufacturer": "NEC"
+        },
+        "pcecd": {
+            "id": "pcecd",
+            "name": "PC Engine CD",
+            "shortName": "pcecd",
+            "manufacturer": "NEC"
+        },
+        "pcfx": {
+            "id": "pcfx",
+            "name": "PC-FX",
+            "shortName": "pcfx",
+            "manufacturer": "NEC"
+        },
+        "pce2": {
+            "id": "pce2",
+            "name": "Supergrafx / PC Engine 2",
+            "shortName": "pce2",
+            "manufacturer": "NEC"
+        },
+        "pce": {
+            "id": "pce",
+            "name": "TurboGrafx-16 / PC Engine",
+            "shortName": "pce",
+            "manufacturer": "NEC"
+        },
+        "3ds": {
+            "id": "3ds",
+            "name": "Nintendo 3DS",
+            "shortName": "3ds",
+            "manufacturer": "Nintendo"
+        },
+        "nds": {
+            "id": "nds",
+            "name": "Nintendo DS",
+            "shortName": "nds",
+            "manufacturer": "Nintendo"
+        },
+        "ereader": {
+            "id": "ereader",
+            "name": "Nintendo e-Reader",
+            "shortName": "ereader",
+            "manufacturer": "Nintendo"
+        },
+        "fds": {
+            "id": "fds",
+            "name": "Nintendo FDS",
+            "shortName": "fds",
+            "manufacturer": "Nintendo"
+        },
+        "gb": {
+            "id": "gb",
+            "name": "Game Boy",
+            "shortName": "gb",
+            "manufacturer": "Nintendo"
+        },
+        "gba": {
+            "id": "gba",
+            "name": "Gameboy Advance",
+            "shortName": "gba",
+            "manufacturer": "Nintendo"
+        },
+        "gbc": {
+            "id": "gbc",
+            "name": "Gameboy Color",
+            "shortName": "gbc",
+            "manufacturer": "Nintendo"
+        },
+        "gc": {
+            "id": "gc",
+            "name": "GameCube",
+            "shortName": "gc",
+            "manufacturer": "Nintendo"
+        },
+        "n64": {
+            "id": "n64",
+            "name": "Nintendo 64",
+            "shortName": "n64",
+            "manufacturer": "Nintendo"
+        },
+        "nes": {
+            "id": "nes",
+            "name": "Nintendo Entertainment System",
+            "shortName": "nes",
+            "manufacturer": "Nintendo"
+        },
+        "pmini": {
+            "id": "pmini",
+            "name": "Pokémon mini",
+            "shortName": "pmini",
+            "manufacturer": "Nintendo"
+        },
+        "snes": {
+            "id": "snes",
+            "name": "Super Nintendo Entertainment System",
+            "shortName": "snes",
+            "manufacturer": "Nintendo"
+        },
+        "vb": {
+            "id": "vb",
+            "name": "Nintendo Virtual Boy",
+            "shortName": "vb",
+            "manufacturer": "Nintendo"
+        },
+        "wii": {
+            "id": "wii",
+            "name": "Wii",
+            "shortName": "wii",
+            "manufacturer": "Nintendo"
+        },
+        "wiiu": {
+            "id": "wiiu",
+            "name": "Wii U",
+            "shortName": "wiiu",
+            "manufacturer": "Nintendo"
+        },
+        "ngage": {
+            "id": "ngage",
+            "name": "N-Gage",
+            "shortName": "ngage",
+            "manufacturer": "Nokia"
+        },
+        "oric": {
+            "id": "oric",
+            "name": "Atmos / Telestrat",
+            "shortName": "oric",
+            "manufacturer": "Oric"
+        },
+        "3do": {
+            "id": "3do",
+            "name": "3DO",
+            "shortName": "3do",
+            "manufacturer": "Panasonic, Sanyo and Goldstar"
+        },
+        "jr200": {
+            "id": "jr200",
+            "name": "JR-200",
+            "shortName": "jr200",
+            "manufacturer": "Panasonic"
+        },
+        "cdi": {
+            "id": "cdi",
+            "name": "CD-i",
+            "shortName": "cdi",
+            "manufacturer": "Royal Philips Electronics"
+        },
+        "p2000": {
+            "id": "p2000",
+            "name": "P2000 Series",
+            "shortName": "p2000",
+            "manufacturer": "Phillips"
+        },
+        "vg5000": {
+            "id": "vg5000",
+            "name": "VG-5000",
+            "shortName": "vg5000",
+            "manufacturer": "Philips"
+        },
+        "vg7000": {
+            "id": "vg7000",
+            "name": "Videopac G7000",
+            "shortName": "vg7000",
+            "manufacturer": "Philips"
+        },
+        "vg7400": {
+            "id": "vg7400",
+            "name": "Videopac+ G7400",
+            "shortName": "vg7400",
+            "manufacturer": "Philips"
+        },
+        "fp": {
+            "id": "fp",
+            "name": "Future Pinball",
+            "shortName": "fp",
+            "manufacturer": "Pinball"
+        },
+        "vp": {
+            "id": "vp",
+            "name": "Visual Pinball",
+            "shortName": "vp",
+            "manufacturer": "Pinball"
+        },
+        "studio2": {
+            "id": "studio2",
+            "name": "Studio II",
+            "shortName": "studio2",
+            "manufacturer": "RCA"
+        },
+        "kc": {
+            "id": "kc",
+            "name": "KC series",
+            "shortName": "kc",
+            "manufacturer": "Robotron"
+        },
+        "svm": {
+            "id": "svm",
+            "name": "ScummVM",
+            "shortName": "svm",
+            "manufacturer": "ScummVM team"
+        },
+        "dc": {
+            "id": "dc",
+            "name": "Dreamcast",
+            "shortName": "dc",
+            "manufacturer": "Sega"
+        },
+        "dcvmu": {
+            "id": "dcvmu",
+            "name": "Dreamcast VMU",
+            "shortName": "dcvmu",
+            "manufacturer": "Sega"
+        },
+        "gg": {
+            "id": "gg",
+            "name": "Game Gear",
+            "shortName": "gg",
+            "manufacturer": "Sega"
+        },
+        "sms": {
+            "id": "sms",
+            "name": "Master System / Mark III",
+            "shortName": "sms",
+            "manufacturer": "Sega"
+        },
+        "32x": {
+            "id": "32x",
+            "name": "Mega Drive 32X",
+            "shortName": "32x",
+            "manufacturer": "Sega"
+        },
+        "gen": {
+            "id": "gen",
+            "name": "Mega Drive/Genesis",
+            "shortName": "gen",
+            "manufacturer": "Sega"
+        },
+        "smcd": {
+            "id": "smcd",
+            "name": "Sega Mega-CD",
+            "shortName": "smcd",
+            "manufacturer": "Sega"
+        },
+        "model1": {
+            "id": "model1",
+            "name": "Model 1",
+            "shortName": "model1",
+            "manufacturer": "Sega"
+        },
+        "model2": {
+            "id": "model2",
+            "name": "Model 2",
+            "shortName": "model2",
+            "manufacturer": "Sega"
+        },
+        "model3": {
+            "id": "model3",
+            "name": "Model 3",
+            "shortName": "model3",
+            "manufacturer": "Sega"
+        },
+        "naomi": {
+            "id": "naomi",
+            "name": "Naomi",
+            "shortName": "naomi",
+            "manufacturer": "Sega"
+        },
+        "pico": {
+            "id": "pico",
+            "name": "Pico",
+            "shortName": "pico",
+            "manufacturer": "Sega"
+        },
+        "atomisw": {
+            "id": "atomisw",
+            "name": "Atomiswave",
+            "shortName": "atomisw",
+            "manufacturer": "Sega-Sammy Corporation"
+        },
+        "sat": {
+            "id": "sat",
+            "name": "Sega Saturn",
+            "shortName": "sat",
+            "manufacturer": "Saturn"
+        },
+        "sc3000": {
+            "id": "sc3000",
+            "name": "SC-3000",
+            "shortName": "sc3000",
+            "manufacturer": "Sega"
+        },
+        "sg1000": {
+            "id": "sg1000",
+            "name": "SG-1000",
+            "shortName": "sg1000",
+            "manufacturer": "Sega"
+        },
+        "s16": {
+            "id": "s16",
+            "name": "System 16",
+            "shortName": "s16",
+            "manufacturer": "Sega"
+        },
+        "s18": {
+            "id": "s18",
+            "name": "System 18",
+            "shortName": "s18",
+            "manufacturer": "Sega"
+        },
+        "stv": {
+            "id": "stv",
+            "name": "Titan Video game system",
+            "shortName": "stv",
+            "manufacturer": "Sega"
+        },
+        "onhandpc": {
+            "id": "onhandpc",
+            "name": "OnHand PC/Ruputer",
+            "shortName": "onhandpc",
+            "manufacturer": "Seiko/Matsucom"
+        },
+        "mz2000": {
+            "id": "mz2000",
+            "name": "MZ-2000",
+            "shortName": "mz2000",
+            "manufacturer": "Sharp"
+        },
+        "mz2500": {
+            "id": "mz2500",
+            "name": "MZ-2500",
+            "shortName": "mz2500",
+            "manufacturer": "Sharp"
+        },
+        "mz1500": {
+            "id": "mz1500",
+            "name": "MZ-700/1500",
+            "shortName": "mz1500",
+            "manufacturer": "Sharp"
+        },
+        "x1": {
+            "id": "x1",
+            "name": "X1",
+            "shortName": "x1",
+            "manufacturer": "Sharp"
+        },
+        "x68000": {
+            "id": "x68000",
+            "name": "X68000",
+            "shortName": "x68000",
+            "manufacturer": "Sharp"
+        },
+        "pipbug": {
+            "id": "pipbug",
+            "name": "Signetics Adaptable Board Computer",
+            "shortName": "pipbug",
+            "manufacturer": "Pipbug"
+        },
+        "ql": {
+            "id": "ql",
+            "name": "QL (Quantum Leap)",
+            "shortName": "ql",
+            "manufacturer": "Sinclair"
+        },
+        "zxs": {
+            "id": "zxs",
+            "name": "ZX Spectrum",
+            "shortName": "zxs",
+            "manufacturer": "Sinclair Research"
+        },
+        "zx81": {
+            "id": "zx81",
+            "name": "ZX81",
+            "shortName": "zx81",
+            "manufacturer": "Sinclair"
+        },
+        "ng": {
+            "id": "ng",
+            "name": "SNK Neo-Geo",
+            "shortName": "ng",
+            "manufacturer": "SNK"
+        },
+        "ngcd": {
+            "id": "ngcd",
+            "name": "NeoGeo CD",
+            "shortName": "ngcd",
+            "manufacturer": "SNK"
+        },
+        "ngp": {
+            "id": "ngp",
+            "name": "NeoGeo Pocket",
+            "shortName": "ngp",
+            "manufacturer": "SNK"
+        },
+        "ngpc": {
+            "id": "ngpc",
+            "name": "NeoGeo Pocket Color",
+            "shortName": "ngpc",
+            "manufacturer": "SNK"
+        },
+        "ps1": {
+            "id": "ps1",
+            "name": "Playstation",
+            "shortName": "ps1",
+            "manufacturer": "Sony Computer Entertainment"
+        },
+        "ps2": {
+            "id": "ps2",
+            "name": "Playstation 2",
+            "shortName": "ps2",
+            "manufacturer": "Sony"
+        },
+        "ps3": {
+            "id": "ps3",
+            "name": "PlayStation 3",
+            "shortName": "ps3",
+            "manufacturer": "Sony"
+        },
+        "ps4": {
+            "id": "ps4",
+            "name": "PlayStation 4",
+            "shortName": "ps4",
+            "manufacturer": "Sony"
+        },
+        "psp": {
+            "id": "psp",
+            "name": "Playstation Portable",
+            "shortName": "psp",
+            "manufacturer": "Sony"
+        },
+        "psv": {
+            "id": "psv",
+            "name": "PlayStation Vita",
+            "shortName": "psv",
+            "manufacturer": "Sony"
+        },
+        "pstation": {
+            "id": "pstation",
+            "name": "Pocketstation",
+            "shortName": "pstation",
+            "manufacturer": "Sony"
+        },
+        "zinc": {
+            "id": "zinc",
+            "name": "ZN-1 & ZN-2",
+            "shortName": "zinc",
+            "manufacturer": "Sony"
+        },
+        "sordm5": {
+            "id": "sordm5",
+            "name": "M5",
+            "shortName": "sordm5",
+            "manufacturer": "Sord"
+        },
+        "sv318": {
+            "id": "sv318",
+            "name": "SV318/328",
+            "shortName": "sv318",
+            "manufacturer": "Spectravideo"
+        },
+        "gnet": {
+            "id": "gnet",
+            "name": "GNET",
+            "shortName": "gnet",
+            "manufacturer": "Taito"
+        },
+        "trs80": {
+            "id": "trs80",
+            "name": "TRS-80",
+            "shortName": "trs80",
+            "manufacturer": "Tandy/Radio Shack"
+        },
+        "einst": {
+            "id": "einst",
+            "name": "Einstein TC-01",
+            "shortName": "einst",
+            "manufacturer": "Tatung"
+        },
+        "pmd85": {
+            "id": "pmd85",
+            "name": "PMD-85",
+            "shortName": "pmd85",
+            "manufacturer": "Tesla"
+        },
+        "ti82": {
+            "id": "ti82",
+            "name": "TI-82",
+            "shortName": "ti82",
+            "manufacturer": "Texas Instruments"
+        },
+        "ti83": {
+            "id": "ti83",
+            "name": "TI-99/4A",
+            "shortName": "ti83",
+            "manufacturer": "Texas Instruments"
+        },
+        "ti85": {
+            "id": "ti85",
+            "name": "TI-85",
+            "shortName": "ti85",
+            "manufacturer": "Texas Instruments"
+        },
+        "ti86": {
+            "id": "ti86",
+            "name": "TI-86",
+            "shortName": "ti86",
+            "manufacturer": "Texas Instruments"
+        },
+        "ti92": {
+            "id": "ti92",
+            "name": "TI-92",
+            "shortName": "ti92",
+            "manufacturer": "Texas Instruments"
+        },
+        "ti99": {
+            "id": "ti99",
+            "name": "TI-99/4A",
+            "shortName": "ti99",
+            "manufacturer": "Texas Instruments"
+        },
+        "mo5": {
+            "id": "mo5",
+            "name": "MO-5",
+            "shortName": "mo5",
+            "manufacturer": "Thomson"
+        },
+        "gamecom": {
+            "id": "gamecom",
+            "name": "Game.com",
+            "shortName": "gamecom",
+            "manufacturer": "Tiger Electronics"
+        },
+        "gizmondo": {
+            "id": "gizmondo",
+            "name": "Gizmondo",
+            "shortName": "gizmondo",
+            "manufacturer": "Tiger Electronics"
+        },
+        "tutor": {
+            "id": "tutor",
+            "name": "Tutor/Pyuta",
+            "shortName": "tutor",
+            "manufacturer": "Tomy"
+        },
+        "lviv": {
+            "id": "lviv",
+            "name": "????? (L'vov)",
+            "shortName": "lviv",
+            "manufacturer": "V. I. Lenin"
+        },
+        "tvc": {
+            "id": "tvc",
+            "name": "TV-Computer",
+            "shortName": "tvc",
+            "manufacturer": "Videoton"
+        },
+        "cv": {
+            "id": "cv",
+            "name": "Creativision",
+            "shortName": "cv",
+            "manufacturer": "VTech"
+        },
+        "l100": {
+            "id": "l100",
+            "name": "Laser 100/110",
+            "shortName": "l100",
+            "manufacturer": "Video Technology"
+        },
+        "l200": {
+            "id": "l200",
+            "name": "Laser 200/210/310",
+            "shortName": "l200",
+            "manufacturer": "Vtech"
+        },
+        "l350": {
+            "id": "l350",
+            "name": "Laser 350/500/700",
+            "shortName": "l350",
+            "manufacturer": "Video Technology"
+        },
+        "svn": {
+            "id": "svn",
+            "name": "Watara Supervision",
+            "shortName": "svn",
+            "manufacturer": "Watara"
+        }
+    },
+    "companies": {
+        "Acorn": {
+            "id": "Acorn",
+            "name": "Acorn"
+        },
+        "Adobe": {
+            "id": "Adobe",
+            "name": "Adobe"
+        },
+        "Amstrad": {
+            "id": "Amstrad",
+            "name": "Amstrad"
+        },
+        "Amstrad/Schneider": {
+            "id": "Amstrad/Schneider",
+            "name": "Amstrad/Schneider"
+        },
+        "APF Electronics": {
+            "id": "APF Electronics",
+            "name": "APF Electronics"
+        },
+        "Apple": {
+            "id": "Apple",
+            "name": "Apple"
+        },
+        "Applied Technologies": {
+            "id": "Applied Technologies",
+            "name": "Applied Technologies"
+        },
+        "Atari": {
+            "id": "Atari",
+            "name": "Atari"
+        },
+        "Bally": {
+            "id": "Bally",
+            "name": "Bally"
+        },
+        "Bandai": {
+            "id": "Bandai",
+            "name": "Bandai"
+        },
+        "Bondwell": {
+            "id": "Bondwell",
+            "name": "Bondwell"
+        },
+        "Camputers": {
+            "id": "Camputers",
+            "name": "Camputers"
+        },
+        "Capcom": {
+            "id": "Capcom",
+            "name": "Capcom"
+        },
+        "Casio": {
+            "id": "Casio",
+            "name": "Casio"
+        },
+        "Sun Microsystems (java)": {
+            "id": "Sun Microsystems (java)",
+            "name": "Sun Microsystems (java)"
+        },
+        "Chip-8": {
+            "id": "Chip-8",
+            "name": "Chip-8"
+        },
+        "Coleco": {
+            "id": "Coleco",
+            "name": "Coleco"
+        },
+        "Commodore": {
+            "id": "Commodore",
+            "name": "Commodore"
+        },
+        "Commodore PET": {
+            "id": "Commodore PET",
+            "name": "Commodore PET"
+        },
+        "Comx WOL": {
+            "id": "Comx WOL",
+            "name": "Comx WOL"
+        },
+        "Cosmac": {
+            "id": "Cosmac",
+            "name": "Cosmac"
+        },
+        "CVT (Creatonic, Videojet, and Timlex)": {
+            "id": "CVT (Creatonic, Videojet, and Timlex)",
+            "name": "CVT (Creatonic, Videojet, and Timlex)"
+        },
+        "Cybiko": {
+            "id": "Cybiko",
+            "name": "Cybiko"
+        },
+        "DEC": {
+            "id": "DEC",
+            "name": "DEC"
+        },
+        "DOSbox": {
+            "id": "DOSbox",
+            "name": "DOSbox"
+        },
+        "Dragon Data": {
+            "id": "Dragon Data",
+            "name": "Dragon Data"
+        },
+        "EACA": {
+            "id": "EACA",
+            "name": "EACA"
+        },
+        "Elektor": {
+            "id": "Elektor",
+            "name": "Elektor"
+        },
+        "Emerson": {
+            "id": "Emerson",
+            "name": "Emerson"
+        },
+        "Enterprise 64/128": {
+            "id": "Enterprise 64/128",
+            "name": "Enterprise 64/128"
+        },
+        "Entex": {
+            "id": "Entex",
+            "name": "Entex"
+        },
+        "Epoch/Yeno": {
+            "id": "Epoch/Yeno",
+            "name": "Epoch/Yeno"
+        },
+        "Exelvision": {
+            "id": "Exelvision",
+            "name": "Exelvision"
+        },
+        "Exidy": {
+            "id": "Exidy",
+            "name": "Exidy"
+        },
+        "Fairchild": {
+            "id": "Fairchild",
+            "name": "Fairchild"
+        },
+        "----------": {
+            "id": "----------",
+            "name": "----------"
+        },
+        "Fujitsu": {
+            "id": "Fujitsu",
+            "name": "Fujitsu"
+        },
+        "Funtech Entertainment": {
+            "id": "Funtech Entertainment",
+            "name": "Funtech Entertainment"
+        },
+        "Galaksija": {
+            "id": "Galaksija",
+            "name": "Galaksija"
+        },
+        "Game Park": {
+            "id": "Game Park",
+            "name": "Game Park"
+        },
+        "Smith Engineering": {
+            "id": "Smith Engineering",
+            "name": "Smith Engineering"
+        },
+        "Hartung": {
+            "id": "Hartung",
+            "name": "Hartung"
+        },
+        "Híradástechnika Szövetkezet": {
+            "id": "Híradástechnika Szövetkezet",
+            "name": "Híradástechnika Szövetkezet"
+        },
+        "HomeLAB": {
+            "id": "HomeLAB",
+            "name": "HomeLAB"
+        },
+        "IGS": {
+            "id": "IGS",
+            "name": "IGS"
+        },
+        "Interact": {
+            "id": "Interact",
+            "name": "Interact"
+        },
+        "Interton": {
+            "id": "Interton",
+            "name": "Interton"
+        },
+        "Jungle Soft": {
+            "id": "Jungle Soft",
+            "name": "Jungle Soft"
+        },
+        "Jupiter Cantab": {
+            "id": "Jupiter Cantab",
+            "name": "Jupiter Cantab"
+        },
+        "-": {
+            "id": "-",
+            "name": "-"
+        },
+        "Matra/Hachette": {
+            "id": "Matra/Hachette",
+            "name": "Matra/Hachette"
+        },
+        "Mattel": {
+            "id": "Mattel",
+            "name": "Mattel"
+        },
+        "MCA": {
+            "id": "MCA",
+            "name": "MCA"
+        },
+        "Memotech": {
+            "id": "Memotech",
+            "name": "Memotech"
+        },
+        "Miles Gordon Technology": {
+            "id": "Miles Gordon Technology",
+            "name": "Miles Gordon Technology"
+        },
+        "Microkey": {
+            "id": "Microkey",
+            "name": "Microkey"
+        },
+        "Microsoft": {
+            "id": "Microsoft",
+            "name": "Microsoft"
+        },
+        "Mikrosha": {
+            "id": "Mikrosha",
+            "name": "Mikrosha"
+        },
+        "Sony - Philips - Sanyo - Panasonic...": {
+            "id": "Sony - Philips - Sanyo - Panasonic...",
+            "name": "Sony - Philips - Sanyo - Panasonic..."
+        },
+        "Panasonic": {
+            "id": "Panasonic",
+            "name": "Panasonic"
+        },
+        "Namco": {
+            "id": "Namco",
+            "name": "Namco"
+        },
+        "NEC": {
+            "id": "NEC",
+            "name": "NEC"
+        },
+        "Nintendo": {
+            "id": "Nintendo",
+            "name": "Nintendo"
+        },
+        "Nokia": {
+            "id": "Nokia",
+            "name": "Nokia"
+        },
+        "Oric": {
+            "id": "Oric",
+            "name": "Oric"
+        },
+        "Panasonic, Sanyo and Goldstar": {
+            "id": "Panasonic, Sanyo and Goldstar",
+            "name": "Panasonic, Sanyo and Goldstar"
+        },
+        "Royal Philips Electronics": {
+            "id": "Royal Philips Electronics",
+            "name": "Royal Philips Electronics"
+        },
+        "Phillips": {
+            "id": "Phillips",
+            "name": "Phillips"
+        },
+        "Philips": {
+            "id": "Philips",
+            "name": "Philips"
+        },
+        "Pinball": {
+            "id": "Pinball",
+            "name": "Pinball"
+        },
+        "RCA": {
+            "id": "RCA",
+            "name": "RCA"
+        },
+        "Robotron": {
+            "id": "Robotron",
+            "name": "Robotron"
+        },
+        "ScummVM team": {
+            "id": "ScummVM team",
+            "name": "ScummVM team"
+        },
+        "Sega": {
+            "id": "Sega",
+            "name": "Sega"
+        },
+        "Sega-Sammy Corporation": {
+            "id": "Sega-Sammy Corporation",
+            "name": "Sega-Sammy Corporation"
+        },
+        "Saturn": {
+            "id": "Saturn",
+            "name": "Saturn"
+        },
+        "Seiko/Matsucom": {
+            "id": "Seiko/Matsucom",
+            "name": "Seiko/Matsucom"
+        },
+        "Sharp": {
+            "id": "Sharp",
+            "name": "Sharp"
+        },
+        "Pipbug": {
+            "id": "Pipbug",
+            "name": "Pipbug"
+        },
+        "Sinclair": {
+            "id": "Sinclair",
+            "name": "Sinclair"
+        },
+        "Sinclair Research": {
+            "id": "Sinclair Research",
+            "name": "Sinclair Research"
+        },
+        "SNK": {
+            "id": "SNK",
+            "name": "SNK"
+        },
+        "Sony Computer Entertainment": {
+            "id": "Sony Computer Entertainment",
+            "name": "Sony Computer Entertainment"
+        },
+        "Sony": {
+            "id": "Sony",
+            "name": "Sony"
+        },
+        "Sord": {
+            "id": "Sord",
+            "name": "Sord"
+        },
+        "Spectravideo": {
+            "id": "Spectravideo",
+            "name": "Spectravideo"
+        },
+        "Taito": {
+            "id": "Taito",
+            "name": "Taito"
+        },
+        "Tandy/Radio Shack": {
+            "id": "Tandy/Radio Shack",
+            "name": "Tandy/Radio Shack"
+        },
+        "Tatung": {
+            "id": "Tatung",
+            "name": "Tatung"
+        },
+        "Tesla": {
+            "id": "Tesla",
+            "name": "Tesla"
+        },
+        "Texas Instruments": {
+            "id": "Texas Instruments",
+            "name": "Texas Instruments"
+        },
+        "Thomson": {
+            "id": "Thomson",
+            "name": "Thomson"
+        },
+        "Tiger Electronics": {
+            "id": "Tiger Electronics",
+            "name": "Tiger Electronics"
+        },
+        "Tomy": {
+            "id": "Tomy",
+            "name": "Tomy"
+        },
+        "V. I. Lenin": {
+            "id": "V. I. Lenin",
+            "name": "V. I. Lenin"
+        },
+        "Videoton": {
+            "id": "Videoton",
+            "name": "Videoton"
+        },
+        "VTech": {
+            "id": "VTech",
+            "name": "VTech"
+        },
+        "Video Technology": {
+            "id": "Video Technology",
+            "name": "Video Technology"
+        },
+        "Vtech": {
+            "id": "Vtech",
+            "name": "Vtech"
+        },
+        "Watara": {
+            "id": "Watara",
+            "name": "Watara"
+        }
+    },
+    "emulators": {
+        "1964": {
+            "id": "1964",
+            "name": "1964",
+            "shortName": "1964",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "3dmoo": {
+            "id": "3dmoo",
+            "name": "3dmoo",
+            "shortName": "3dmoo",
+            "platforms": [
+                "3ds"
+            ]
+        },
+        "3dnes": {
+            "id": "3dnes",
+            "name": "3DNes",
+            "shortName": "3dnes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "3doplay": {
+            "id": "3doplay",
+            "name": "3DOplay",
+            "shortName": "3doplay",
+            "platforms": [
+                "3do"
+            ]
+        },
+        "4do": {
+            "id": "4do",
+            "name": "4DO",
+            "shortName": "4do",
+            "platforms": [
+                "3do"
+            ]
+        },
+        "88va": {
+            "id": "88va",
+            "name": "88VA Eternal Grafx",
+            "shortName": "88va",
+            "platforms": [
+                "pc9801"
+            ]
+        },
+        "ace32": {
+            "id": "ace32",
+            "name": "ACE32",
+            "shortName": "ace32",
+            "platforms": [
+                "jupace"
+            ]
+        },
+        "atom": {
+            "id": "atom",
+            "name": "ACORN ATOM",
+            "shortName": "atom",
+            "platforms": [
+                "atom"
+            ]
+        },
+        "activegs": {
+            "id": "activegs",
+            "name": "ActiveGS",
+            "shortName": "activegs",
+            "platforms": [
+                "apple2gs"
+            ]
+        },
+        "adamem": {
+            "id": "adamem",
+            "name": "ADAMEm",
+            "shortName": "adamem",
+            "platforms": [
+                "adam"
+            ]
+        },
+        "adripsx": {
+            "id": "adripsx",
+            "name": "AdriPSX",
+            "shortName": "adripsx",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "adviem": {
+            "id": "adviem",
+            "name": "AdViEmulator",
+            "shortName": "adviem",
+            "platforms": [
+                "advision"
+            ]
+        },
+        "aes4all": {
+            "id": "aes4all",
+            "name": "AES4ALL",
+            "shortName": "aes4all",
+            "platforms": [
+                "ng"
+            ]
+        },
+        "agat": {
+            "id": "agat",
+            "name": "Agat Emulator",
+            "shortName": "agat",
+            "platforms": [
+                "apple1",
+                "apple2"
+            ]
+        },
+        "aipc": {
+            "id": "aipc",
+            "name": "AIPC (Apple in a PC)",
+            "shortName": "aipc",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "akiko": {
+            "id": "akiko",
+            "name": "Akiko",
+            "shortName": "akiko",
+            "platforms": [
+                "amigacd32",
+                "cdtv"
+            ]
+        },
+        "alice32": {
+            "id": "alice32",
+            "name": "Alice32",
+            "shortName": "alice32",
+            "platforms": [
+                "alice"
+            ]
+        },
+        "altirra": {
+            "id": "altirra",
+            "name": "Altirra",
+            "shortName": "altirra",
+            "platforms": [
+                "a5200",
+                "a8bit"
+            ]
+        },
+        "anex86": {
+            "id": "anex86",
+            "name": "Anex86",
+            "shortName": "anex86",
+            "platforms": [
+                "pc9801"
+            ]
+        },
+        "ace": {
+            "id": "ace",
+            "name": "Another Capcom (play system) Emulator",
+            "shortName": "ace",
+            "platforms": [
+                "cps1",
+                "cps2",
+                "s16",
+                "s18",
+                "ng"
+            ]
+        },
+        "apfemuw": {
+            "id": "apfemuw",
+            "name": "APF EMUW",
+            "shortName": "apfemuw",
+            "platforms": [
+                "im"
+            ]
+        },
+        "apollo": {
+            "id": "apollo",
+            "name": "Apollo",
+            "shortName": "apollo",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "apple1": {
+            "id": "apple1",
+            "name": "Apple 1 Emulator",
+            "shortName": "apple1",
+            "platforms": [
+                "apple1"
+            ]
+        },
+        "applepc": {
+            "id": "applepc",
+            "name": "ApplePC",
+            "shortName": "applepc",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "appler": {
+            "id": "appler",
+            "name": "APPLER",
+            "shortName": "appler",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "applewin": {
+            "id": "applewin",
+            "name": "AppleWin",
+            "shortName": "applewin",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "aprnes": {
+            "id": "aprnes",
+            "name": "April NES Emulator",
+            "shortName": "aprnes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "aqemu": {
+            "id": "aqemu",
+            "name": "AqEmu",
+            "shortName": "aqemu",
+            "platforms": [
+                "aqua"
+            ]
+        },
+        "arcem": {
+            "id": "arcem",
+            "name": "ArcEm",
+            "shortName": "arcem",
+            "platforms": [
+                "archi"
+            ]
+        },
+        "archie": {
+            "id": "archie",
+            "name": "Archie",
+            "shortName": "archie",
+            "platforms": [
+                "archi"
+            ]
+        },
+        "arculator": {
+            "id": "arculator",
+            "name": "Arculator",
+            "shortName": "arculator",
+            "platforms": [
+                "archi"
+            ]
+        },
+        "arnimedes": {
+            "id": "arnimedes",
+            "name": "ARNIMEDES",
+            "shortName": "arnimedes",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "arnold": {
+            "id": "arnold",
+            "name": "Arnold",
+            "shortName": "arnold",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "ascd": {
+            "id": "ascd",
+            "name": "ASCD",
+            "shortName": "ascd",
+            "platforms": [
+                "samc",
+                "zxs"
+            ]
+        },
+        "aspectrum": {
+            "id": "aspectrum",
+            "name": "Aspectrum",
+            "shortName": "aspectrum",
+            "platforms": [
+                "zxs"
+            ]
+        },
+        "aranym": {
+            "id": "aranym",
+            "name": "Atari on Any Machine",
+            "shortName": "aranym",
+            "platforms": [
+                "falcon",
+                "st"
+            ]
+        },
+        "atariplusplus": {
+            "id": "atariplusplus",
+            "name": "atari++",
+            "shortName": "atariplusplus",
+            "platforms": [
+                "a5200",
+                "a8bit"
+            ]
+        },
+        "atari800": {
+            "id": "atari800",
+            "name": "Atari800",
+            "shortName": "atari800",
+            "platforms": [
+                "a5200",
+                "a8bit"
+            ]
+        },
+        "atari800winplus": {
+            "id": "atari800winplus",
+            "name": "Atari800Win-PLus",
+            "shortName": "atari800winplus",
+            "platforms": [
+                "a5200",
+                "a8bit"
+            ]
+        },
+        "atomulator": {
+            "id": "atomulator",
+            "name": "Atomulator",
+            "shortName": "atomulator",
+            "platforms": [
+                "atom"
+            ]
+        },
+        "aurex2": {
+            "id": "aurex2",
+            "name": "Aurex2",
+            "shortName": "aurex2",
+            "platforms": [
+                "onhandpc"
+            ]
+        },
+        "basiliskii": {
+            "id": "basiliskii",
+            "name": "Basilisk II",
+            "shortName": "basiliskii",
+            "platforms": [
+                "mtosh"
+            ]
+        },
+        "beebem": {
+            "id": "beebem",
+            "name": "BeebEm",
+            "shortName": "beebem",
+            "platforms": [
+                "bbc"
+            ]
+        },
+        "bem": {
+            "id": "bem",
+            "name": "B-em",
+            "shortName": "bem",
+            "platforms": [
+                "bbc"
+            ]
+        },
+        "bfmulator": {
+            "id": "bfmulator",
+            "name": "BFMulator",
+            "shortName": "bfmulator",
+            "platforms": [
+                "fruit"
+            ]
+        },
+        "bgb": {
+            "id": "bgb",
+            "name": "BGB",
+            "shortName": "bgb",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "bizhawk": {
+            "id": "bizhawk",
+            "name": "BizHawk",
+            "shortName": "bizhawk",
+            "platforms": [
+                "apple2",
+                "a2600",
+                "a7800",
+                "lynx",
+                "ws",
+                "col",
+                "pcecd",
+                "pce2",
+                "pce",
+                "fds",
+                "gb",
+                "gba",
+                "gbc",
+                "n64",
+                "nes",
+                "snes",
+                "gg",
+                "sms",
+                "gen",
+                "sat",
+                "sg1000",
+                "ps1",
+                "ti83"
+            ]
+        },
+        "blastem": {
+            "id": "blastem",
+            "name": "BlastEm",
+            "shortName": "blastem",
+            "platforms": [
+                "gen"
+            ]
+        },
+        "bliss": {
+            "id": "bliss",
+            "name": "Bliss",
+            "shortName": "bliss",
+            "platforms": [
+                "int"
+            ]
+        },
+        "bloodswan": {
+            "id": "bloodswan",
+            "name": "BLooDsWan",
+            "shortName": "bloodswan",
+            "platforms": [
+                "ws",
+                "wsc"
+            ]
+        },
+        "bluemsx": {
+            "id": "bluemsx",
+            "name": "blueMSX",
+            "shortName": "bluemsx",
+            "platforms": [
+                "col",
+                "msx2",
+                "msx",
+                "msxtr",
+                "sc3000",
+                "sg1000",
+                "sv318"
+            ]
+        },
+        "boycottadv": {
+            "id": "boycottadv",
+            "name": "BoycottAdvance",
+            "shortName": "boycottadv",
+            "platforms": [
+                "gba"
+            ]
+        },
+        "bsnes": {
+            "id": "bsnes",
+            "name": "BSNES",
+            "shortName": "bsnes",
+            "platforms": [
+                "nes",
+                "snes"
+            ]
+        },
+        "bsnesclassic": {
+            "id": "bsnesclassic",
+            "name": "BSNES Classic",
+            "shortName": "bsnesclassic",
+            "platforms": [
+                "gbc",
+                "nes",
+                "snes"
+            ]
+        },
+        "bsnesplus": {
+            "id": "bsnesplus",
+            "name": "BSNES+",
+            "shortName": "bsnesplus",
+            "platforms": [
+                "gbc",
+                "nes",
+                "snes"
+            ]
+        },
+        "bsnessx2": {
+            "id": "bsnessx2",
+            "name": "BSNES-SX2",
+            "shortName": "bsnessx2",
+            "platforms": [
+                "gbc",
+                "nes",
+                "snes"
+            ]
+        },
+        "bws": {
+            "id": "bws",
+            "name": "bws",
+            "shortName": "bws",
+            "platforms": [
+                "ws",
+                "wsc"
+            ]
+        },
+        "bzsnes": {
+            "id": "bzsnes",
+            "name": "bZSNES",
+            "shortName": "bzsnes",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "c4pc": {
+            "id": "c4pc",
+            "name": "C4PC",
+            "shortName": "c4pc",
+            "platforms": [
+                "cybiko"
+            ]
+        },
+        "calcem": {
+            "id": "calcem",
+            "name": "CalcEm",
+            "shortName": "calcem",
+            "platforms": [
+                "ti82",
+                "ti83",
+                "ti85"
+            ]
+        },
+        "calice": {
+            "id": "calice",
+            "name": "Calice32",
+            "shortName": "calice",
+            "platforms": [
+                "cps1",
+                "cps2",
+                "s16",
+                "s18",
+                "ng",
+                "zinc"
+            ]
+        },
+        "callus": {
+            "id": "callus",
+            "name": "Callus95",
+            "shortName": "callus",
+            "platforms": [
+                "cps1"
+            ]
+        },
+        "cps3emulator": {
+            "id": "cps3emulator",
+            "name": "Capcom Play System 3 Emulator",
+            "shortName": "cps3emulator",
+            "platforms": [
+                "cps3"
+            ]
+        },
+        "caprice32": {
+            "id": "caprice32",
+            "name": "CaPriCe32",
+            "shortName": "caprice32",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "ccs64": {
+            "id": "ccs64",
+            "name": "CCS64",
+            "shortName": "ccs64",
+            "platforms": [
+                "c16plus4",
+                "c64"
+            ]
+        },
+        "cdiemulator": {
+            "id": "cdiemulator",
+            "name": "CD-i Emulator",
+            "shortName": "cdiemulator",
+            "platforms": [
+                "cdi"
+            ]
+        },
+        "cemu": {
+            "id": "cemu",
+            "name": "Cemu",
+            "shortName": "cemu",
+            "platforms": [
+                "wiiu"
+            ]
+        },
+        "chankast": {
+            "id": "chankast",
+            "name": "Chankast",
+            "shortName": "chankast",
+            "platforms": [
+                "dc"
+            ]
+        },
+        "citra": {
+            "id": "citra",
+            "name": "Citra",
+            "shortName": "citra",
+            "platforms": [
+                "3ds"
+            ]
+        },
+        "classic99": {
+            "id": "classic99",
+            "name": "Classic99",
+            "shortName": "classic99",
+            "platforms": [
+                "ti99"
+            ]
+        },
+        "cogwheel": {
+            "id": "cogwheel",
+            "name": "Cogwheel",
+            "shortName": "cogwheel",
+            "platforms": [
+                "col",
+                "gg",
+                "sms",
+                "sg1000"
+            ]
+        },
+        "colem": {
+            "id": "colem",
+            "name": "ColEm",
+            "shortName": "colem",
+            "platforms": [
+                "col"
+            ]
+        },
+        "coloremu": {
+            "id": "coloremu",
+            "name": "Colour Emu",
+            "shortName": "coloremu",
+            "platforms": [
+                "cg"
+            ]
+        },
+        "comeback64": {
+            "id": "comeback64",
+            "name": "Come Back 64",
+            "shortName": "comeback64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "coolcv": {
+            "id": "coolcv",
+            "name": "CoolCV",
+            "shortName": "coolcv",
+            "platforms": [
+                "adam",
+                "sg1000",
+                "cv"
+            ]
+        },
+        "copacabana": {
+            "id": "copacabana",
+            "name": "CoPaCabana",
+            "shortName": "copacabana",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "cpmbox": {
+            "id": "cpmbox",
+            "name": "CP/M Box",
+            "shortName": "cpmbox",
+            "platforms": [
+                "pcw"
+            ]
+        },
+        "cpcalive": {
+            "id": "cpcalive",
+            "name": "CpcAlive",
+            "shortName": "cpcalive",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "cpce": {
+            "id": "cpce",
+            "name": "CPCE",
+            "shortName": "cpce",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "cpcem": {
+            "id": "cpcem",
+            "name": "CPC-em",
+            "shortName": "cpcem",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "cpcemu": {
+            "id": "cpcemu",
+            "name": "CPCemu",
+            "shortName": "cpcemu",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "cpe": {
+            "id": "cpe",
+            "name": "CPE",
+            "shortName": "cpe",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "cpspemu": {
+            "id": "cpspemu",
+            "name": "CPSPEmu",
+            "shortName": "cpspemu",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "creativision": {
+            "id": "creativision",
+            "name": "creatiVision Emulator",
+            "shortName": "creativision",
+            "platforms": [
+                "cv"
+            ]
+        },
+        "cxbx": {
+            "id": "cxbx",
+            "name": "Cxbx",
+            "shortName": "cxbx",
+            "platforms": [
+                "xbox"
+            ]
+        },
+        "cxbxreloaded": {
+            "id": "cxbxreloaded",
+            "name": "Cxbx Reloaded",
+            "shortName": "cxbxreloaded",
+            "platforms": [
+                "xbox"
+            ]
+        },
+        "cygne": {
+            "id": "cygne",
+            "name": "Cygne",
+            "shortName": "cygne",
+            "platforms": [
+                "ws",
+                "wsc"
+            ]
+        },
+        "daedalus": {
+            "id": "daedalus",
+            "name": "Daedalus",
+            "shortName": "daedalus",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "daphne": {
+            "id": "daphne",
+            "name": "Daphne",
+            "shortName": "daphne",
+            "platforms": [
+                "ld"
+            ]
+        },
+        "dapple": {
+            "id": "dapple",
+            "name": "Dapple",
+            "shortName": "dapple",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "dapple2-emuii": {
+            "id": "dapple2-emuii",
+            "name": "Dapple2-emuII",
+            "shortName": "dapple2-emuii",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "dcalice": {
+            "id": "dcalice",
+            "name": "DCALICE",
+            "shortName": "dcalice",
+            "platforms": [
+                "alice"
+            ]
+        },
+        "dcexel": {
+            "id": "dcexel",
+            "name": "DCEXEL",
+            "shortName": "dcexel",
+            "platforms": [
+                "exl100"
+            ]
+        },
+        "dchector": {
+            "id": "dchector",
+            "name": "DCHector",
+            "shortName": "dchector",
+            "platforms": [
+                "hcs"
+            ]
+        },
+        "dcmicro": {
+            "id": "dcmicro",
+            "name": "DCMicroColor",
+            "shortName": "dcmicro",
+            "platforms": [
+                "alice",
+                "trs80"
+            ]
+        },
+        "dcmo5": {
+            "id": "dcmo5",
+            "name": "DCMO5",
+            "shortName": "dcmo5",
+            "platforms": [
+                "mo5"
+            ]
+        },
+        "dcmoto": {
+            "id": "dcmoto",
+            "name": "DCMOTO",
+            "shortName": "dcmoto",
+            "platforms": [
+                "mo5"
+            ]
+        },
+        "dcvg5k": {
+            "id": "dcvg5k",
+            "name": "DCVG5K",
+            "shortName": "dcvg5k",
+            "platforms": [
+                "vg5000"
+            ]
+        },
+        "dega": {
+            "id": "dega",
+            "name": "Dega",
+            "shortName": "dega",
+            "platforms": [
+                "gg",
+                "sms"
+            ]
+        },
+        "demul": {
+            "id": "demul",
+            "name": "Demul",
+            "shortName": "demul",
+            "platforms": [
+                "dc",
+                "naomi",
+                "atomisw"
+            ]
+        },
+        "desmume": {
+            "id": "desmume",
+            "name": "DesMuME",
+            "shortName": "desmume",
+            "platforms": [
+                "nds"
+            ]
+        },
+        "dgen": {
+            "id": "dgen",
+            "name": "DGen",
+            "shortName": "dgen",
+            "platforms": [
+                "gen"
+            ]
+        },
+        "dinoboy": {
+            "id": "dinoboy",
+            "name": "DinoBoy",
+            "shortName": "dinoboy",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "directvms": {
+            "id": "directvms",
+            "name": "DirectVMS",
+            "shortName": "directvms",
+            "platforms": [
+                "dcvmu"
+            ]
+        },
+        "dmgboy": {
+            "id": "dmgboy",
+            "name": "DMGBoy",
+            "shortName": "dmgboy",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "dolphin": {
+            "id": "dolphin",
+            "name": "Dolphin",
+            "shortName": "dolphin",
+            "platforms": [
+                "gc",
+                "wii"
+            ]
+        },
+        "dolwin": {
+            "id": "dolwin",
+            "name": "Dolwin",
+            "shortName": "dolwin",
+            "platforms": [
+                "gc"
+            ]
+        },
+        "dosbox": {
+            "id": "dosbox",
+            "name": "DOSBox",
+            "shortName": "dosbox",
+            "platforms": [
+                "dosbox"
+            ]
+        },
+        "dream64": {
+            "id": "dream64",
+            "name": "Dream64",
+            "shortName": "dream64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "dreamemu": {
+            "id": "dreamemu",
+            "name": "DreamEmu",
+            "shortName": "dreamemu",
+            "platforms": [
+                "dc"
+            ]
+        },
+        "dreamgba": {
+            "id": "dreamgba",
+            "name": "DreamGBA",
+            "shortName": "dreamgba",
+            "platforms": [
+                "gba"
+            ]
+        },
+        "dreamgbatng": {
+            "id": "dreamgbatng",
+            "name": "DreamGBA TNG",
+            "shortName": "dreamgbatng",
+            "platforms": [
+                "gba"
+            ]
+        },
+        "dreamvmu": {
+            "id": "dreamvmu",
+            "name": "DreamVMU",
+            "shortName": "dreamvmu",
+            "platforms": [
+                "dcvmu"
+            ]
+        },
+        "dsp": {
+            "id": "dsp",
+            "name": "DSP Emulator",
+            "shortName": "dsp",
+            "platforms": [
+                "cpc",
+                "chip8",
+                "col",
+                "gb",
+                "gbc",
+                "nes",
+                "sms",
+                "zxs"
+            ]
+        },
+        "dsvz200": {
+            "id": "dsvz200",
+            "name": "DSVZ200",
+            "shortName": "dsvz200",
+            "platforms": [
+                "l200",
+                "l350"
+            ]
+        },
+        "dualis": {
+            "id": "dualis",
+            "name": "Dualis",
+            "shortName": "dualis",
+            "platforms": [
+                "nds"
+            ]
+        },
+        "dve": {
+            "id": "dve",
+            "name": "DVE",
+            "shortName": "dve",
+            "platforms": [
+                "vec"
+            ]
+        },
+        "eightyone": {
+            "id": "eightyone",
+            "name": "EightyOne",
+            "shortName": "eightyone",
+            "platforms": [
+                "jupace",
+                "ql",
+                "zxs",
+                "zx81"
+            ]
+        },
+        "electrem": {
+            "id": "electrem",
+            "name": "ElectrEm",
+            "shortName": "electrem",
+            "platforms": [
+                "etron"
+            ]
+        },
+        "elkulator": {
+            "id": "elkulator",
+            "name": "Elkulator",
+            "shortName": "elkulator",
+            "platforms": [
+                "etron"
+            ]
+        },
+        "em7": {
+            "id": "em7",
+            "name": "EM-7",
+            "shortName": "em7",
+            "platforms": [
+                "fm7"
+            ]
+        },
+        "emma02": {
+            "id": "emma02",
+            "name": "EMMA 02",
+            "shortName": "emma02",
+            "platforms": [
+                "comx35",
+                "studio2"
+            ]
+        },
+        "emu": {
+            "id": "emu",
+            "name": "EMU",
+            "shortName": "emu",
+            "platforms": [
+                "r86rk",
+                "msx2",
+                "msx",
+                "lviv"
+            ]
+        },
+        "emu64": {
+            "id": "emu64",
+            "name": "Emu64",
+            "shortName": "emu64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "emu7800": {
+            "id": "emu7800",
+            "name": "EMU7800",
+            "shortName": "emu7800",
+            "platforms": [
+                "a2600",
+                "a7800"
+            ]
+        },
+        "emukon": {
+            "id": "emukon",
+            "name": "Emukon",
+            "shortName": "emukon",
+            "platforms": [
+                "gg",
+                "sms"
+            ]
+        },
+        "emu2001": {
+            "id": "emu2001",
+            "name": "Emulator2001",
+            "shortName": "emu2001",
+            "platforms": [
+                "tvgames",
+                "arc",
+                "vc4000",
+                "l200"
+            ]
+        },
+        "emulator3000": {
+            "id": "emulator3000",
+            "name": "Emulator3000",
+            "shortName": "emulator3000",
+            "platforms": [
+                "col",
+                "c64",
+                "ld",
+                "r86rk",
+                "zxs",
+                "lviv"
+            ]
+        },
+        "emuz2000": {
+            "id": "emuz2000",
+            "name": "EmuZ-2000",
+            "shortName": "emuz2000",
+            "platforms": [
+                "mz2000"
+            ]
+        },
+        "emuzwin": {
+            "id": "emuzwin",
+            "name": "EmuZWin",
+            "shortName": "emuzwin",
+            "platforms": [
+                "zxs"
+            ]
+        },
+        "enter": {
+            "id": "enter",
+            "name": "ENTER",
+            "shortName": "enter",
+            "platforms": [
+                "enterprise"
+            ]
+        },
+        "ep128emu": {
+            "id": "ep128emu",
+            "name": "ep128emu",
+            "shortName": "ep128emu",
+            "platforms": [
+                "cpc",
+                "enterprise",
+                "zxs"
+            ]
+        },
+        "ep32": {
+            "id": "ep32",
+            "name": "ep32",
+            "shortName": "ep32",
+            "platforms": [
+                "enterprise"
+            ]
+        },
+        "epsxe": {
+            "id": "epsxe",
+            "name": "ePSXe",
+            "shortName": "epsxe",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "euphoric": {
+            "id": "euphoric",
+            "name": "Euphoric",
+            "shortName": "euphoric",
+            "platforms": [
+                "oric"
+            ]
+        },
+        "ex68": {
+            "id": "ex68",
+            "name": "EX68",
+            "shortName": "ex68",
+            "platforms": [
+                "x68000"
+            ]
+        },
+        "exodus": {
+            "id": "exodus",
+            "name": "Exodus",
+            "shortName": "exodus",
+            "platforms": [
+                "gen"
+            ]
+        },
+        "fakenes": {
+            "id": "fakenes",
+            "name": "FakeNES",
+            "shortName": "fakenes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "fastz80": {
+            "id": "fastz80",
+            "name": "FastZ80",
+            "shortName": "fastz80",
+            "platforms": [
+                "ht1080z",
+                "trs80"
+            ]
+        },
+        "faux1": {
+            "id": "faux1",
+            "name": "faux1",
+            "shortName": "faux1",
+            "platforms": [
+                "apple1"
+            ]
+        },
+        "fceux": {
+            "id": "fceux",
+            "name": "FCEUX",
+            "shortName": "fceux",
+            "platforms": [
+                "fds",
+                "nes"
+            ]
+        },
+        "fbalpha": {
+            "id": "fbalpha",
+            "name": "FinalBurn Alpha",
+            "shortName": "fbalpha",
+            "platforms": [
+                "cps1",
+                "cps2",
+                "cps3",
+                "col",
+                "pgm",
+                "msx",
+                "pce2",
+                "pce",
+                "gg",
+                "sms",
+                "gen",
+                "sg1000",
+                "s16",
+                "s18",
+                "ng"
+            ]
+        },
+        "fbalphashuffle": {
+            "id": "fbalphashuffle",
+            "name": "FinalBurn Alpha Shuffle",
+            "shortName": "fbalphashuffle",
+            "platforms": [
+                "cps1",
+                "cps2",
+                "cps3",
+                "col",
+                "pgm",
+                "msx",
+                "pce2",
+                "pce",
+                "gg",
+                "sms",
+                "gen",
+                "sg1000",
+                "s16",
+                "s18",
+                "ng"
+            ]
+        },
+        "firegb": {
+            "id": "firegb",
+            "name": "FireGB",
+            "shortName": "firegb",
+            "platforms": [
+                "gb"
+            ]
+        },
+        "fnc": {
+            "id": "fnc",
+            "name": "Fish 'N' Chips",
+            "shortName": "fnc",
+            "platforms": [
+                "chip8",
+                "vip"
+            ]
+        },
+        "fmsx": {
+            "id": "fmsx",
+            "name": "fMSX",
+            "shortName": "fmsx",
+            "platforms": [
+                "msx2",
+                "msx"
+            ]
+        },
+        "free64": {
+            "id": "free64",
+            "name": "Free 64",
+            "shortName": "free64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "freedo": {
+            "id": "freedo",
+            "name": "FreeDo",
+            "shortName": "freedo",
+            "platforms": [
+                "3do"
+            ]
+        },
+        "frodo": {
+            "id": "frodo",
+            "name": "Frodo",
+            "shortName": "frodo",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "fsuae": {
+            "id": "fsuae",
+            "name": "FS-UAE Amiga Emulator",
+            "shortName": "fsuae",
+            "platforms": [
+                "amiga",
+                "amigacd32",
+                "cdtv"
+            ]
+        },
+        "funnymu": {
+            "id": "funnymu",
+            "name": "FunnyMU",
+            "shortName": "funnymu",
+            "platforms": [
+                "cv"
+            ]
+        },
+        "fuse": {
+            "id": "fuse",
+            "name": "Fuse (The Free Unix Spectrum Emulator)",
+            "shortName": "fuse",
+            "platforms": [
+                "zxs"
+            ]
+        },
+        "futurepinball": {
+            "id": "futurepinball",
+            "name": "Future Pinball",
+            "shortName": "futurepinball",
+            "platforms": [
+                "fp"
+            ]
+        },
+        "galaxywin": {
+            "id": "galaxywin",
+            "name": "Galaxy Win",
+            "shortName": "galaxywin",
+            "platforms": [
+                "galplus"
+            ]
+        },
+        "gamecomemu": {
+            "id": "gamecomemu",
+            "name": "Game.Com Emulator",
+            "shortName": "gamecomemu",
+            "platforms": [
+                "gamecom"
+            ]
+        },
+        "gamelad": {
+            "id": "gamelad",
+            "name": "GameLad",
+            "shortName": "gamelad",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "gbeplus": {
+            "id": "gbeplus",
+            "name": "GB Enhanced+",
+            "shortName": "gbeplus",
+            "platforms": [
+                "gb",
+                "gba",
+                "gbc"
+            ]
+        },
+        "gcemu": {
+            "id": "gcemu",
+            "name": "GCEmu",
+            "shortName": "gcemu",
+            "platforms": [
+                "gc"
+            ]
+        },
+        "gcube": {
+            "id": "gcube",
+            "name": "Gcube",
+            "shortName": "gcube",
+            "platforms": [
+                "gc"
+            ]
+        },
+        "gearsystem": {
+            "id": "gearsystem",
+            "name": "GearSystem",
+            "shortName": "gearsystem",
+            "platforms": [
+                "gg",
+                "sms"
+            ]
+        },
+        "geepee32": {
+            "id": "geepee32",
+            "name": "GeePee32",
+            "shortName": "geepee32",
+            "platforms": [
+                "gp32"
+            ]
+        },
+        "gekko": {
+            "id": "gekko",
+            "name": "Gekko",
+            "shortName": "gekko",
+            "platforms": [
+                "gc"
+            ]
+        },
+        "gemulator": {
+            "id": "gemulator",
+            "name": "Gemulator 9.0",
+            "shortName": "gemulator",
+            "platforms": [
+                "mtosh",
+                "a8bit",
+                "st"
+            ]
+        },
+        "genesisplus": {
+            "id": "genesisplus",
+            "name": "Genesis Plus",
+            "shortName": "genesisplus",
+            "platforms": [
+                "gen"
+            ]
+        },
+        "genieous": {
+            "id": "genieous",
+            "name": "Genieous",
+            "shortName": "genieous",
+            "platforms": [
+                "cg"
+            ]
+        },
+        "gens": {
+            "id": "gens",
+            "name": "Gens",
+            "shortName": "gens",
+            "platforms": [
+                "32x",
+                "gen",
+                "smcd"
+            ]
+        },
+        "gensplus": {
+            "id": "gensplus",
+            "name": "Gens Plus!",
+            "shortName": "gensplus",
+            "platforms": [
+                "gg",
+                "sms",
+                "32x",
+                "gen",
+                "smcd"
+            ]
+        },
+        "gensgs": {
+            "id": "gensgs",
+            "name": "Gens/GS",
+            "shortName": "gensgs",
+            "platforms": [
+                "sms",
+                "32x",
+                "gen",
+                "smcd"
+            ]
+        },
+        "gens32": {
+            "id": "gens32",
+            "name": "Gens32 Surreal",
+            "shortName": "gens32",
+            "platforms": [
+                "gg",
+                "sms",
+                "32x",
+                "gen",
+                "smcd"
+            ]
+        },
+        "gest": {
+            "id": "gest",
+            "name": "GEST",
+            "shortName": "gest",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "gm2001": {
+            "id": "gm2001",
+            "name": "GM2001",
+            "shortName": "gm2001",
+            "platforms": [
+                "gm"
+            ]
+        },
+        "gsport": {
+            "id": "gsport",
+            "name": "GSPort",
+            "shortName": "gsport",
+            "platforms": [
+                "apple2",
+                "apple2gs"
+            ]
+        },
+        "handy": {
+            "id": "handy",
+            "name": "Handy",
+            "shortName": "handy",
+            "platforms": [
+                "lynx"
+            ]
+        },
+        "hatari": {
+            "id": "hatari",
+            "name": "Hatari",
+            "shortName": "hatari",
+            "platforms": [
+                "falcon",
+                "st"
+            ]
+        },
+        "hdnes": {
+            "id": "hdnes",
+            "name": "HDNes",
+            "shortName": "hdnes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "hhugboy": {
+            "id": "hhugboy",
+            "name": "hhugboy",
+            "shortName": "hhugboy",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "higan": {
+            "id": "higan",
+            "name": "higan",
+            "shortName": "higan",
+            "platforms": [
+                "ws",
+                "wsc",
+                "fds",
+                "gb",
+                "gba",
+                "gbc",
+                "snes"
+            ]
+        },
+        "hola": {
+            "id": "hola",
+            "name": "HoLa!",
+            "shortName": "hola",
+            "platforms": [
+                "homelab4"
+            ]
+        },
+        "homelab": {
+            "id": "homelab",
+            "name": "HomeLAB",
+            "shortName": "homelab",
+            "platforms": [
+                "homelab4"
+            ]
+        },
+        "horizon": {
+            "id": "horizon",
+            "name": "Horizon",
+            "shortName": "horizon",
+            "platforms": [
+                "bbc"
+            ]
+        },
+        "hoxs64": {
+            "id": "hoxs64",
+            "name": "Hoxs64",
+            "shortName": "hoxs64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "hpsx64": {
+            "id": "hpsx64",
+            "name": "HPSX (Highly-Experimental Playstation Emulator)",
+            "shortName": "hpsx64",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "ht1080z": {
+            "id": "ht1080z",
+            "name": "HT1080Z",
+            "shortName": "ht1080z",
+            "platforms": [
+                "ht1080z",
+                "trs80"
+            ]
+        },
+        "hu6280": {
+            "id": "hu6280",
+            "name": "Hu6280",
+            "shortName": "hu6280",
+            "platforms": [
+                "pce"
+            ]
+        },
+        "hugo": {
+            "id": "hugo",
+            "name": "Hu-Go!",
+            "shortName": "hugo",
+            "platforms": [
+                "pcecd",
+                "pce"
+            ]
+        },
+        "hyper64": {
+            "id": "hyper64",
+            "name": "Hyper64",
+            "shortName": "hyper64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "ice64": {
+            "id": "ice64",
+            "name": "ICE64",
+            "shortName": "ice64",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "ideas": {
+            "id": "ideas",
+            "name": "iDeaS",
+            "shortName": "ideas",
+            "platforms": [
+                "nds",
+                "gba"
+            ]
+        },
+        "ines": {
+            "id": "ines",
+            "name": "iNES",
+            "shortName": "ines",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "infovectrex": {
+            "id": "infovectrex",
+            "name": "InfoVectrex",
+            "shortName": "infovectrex",
+            "platforms": [
+                "vec"
+            ]
+        },
+        "ip6": {
+            "id": "ip6",
+            "name": "iP6",
+            "shortName": "ip6",
+            "platforms": [
+                "pc6001"
+            ]
+        },
+        "ip6plus": {
+            "id": "ip6plus",
+            "name": "iP6 Plus",
+            "shortName": "ip6plus",
+            "platforms": [
+                "pc6001"
+            ]
+        },
+        "ishiirukadolphin": {
+            "id": "ishiirukadolphin",
+            "name": "ishiiruka dolphin",
+            "shortName": "ishiirukadolphin",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "jackal": {
+            "id": "jackal",
+            "name": "Jackal",
+            "shortName": "jackal",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "t2k": {
+            "id": "t2k",
+            "name": "Jaguar Tempest 2000 Emulator",
+            "shortName": "t2k",
+            "platforms": [
+                "jag"
+            ]
+        },
+        "jagulator": {
+            "id": "jagulator",
+            "name": "Jagulator",
+            "shortName": "jagulator",
+            "platforms": [
+                "jag"
+            ]
+        },
+        "jvz200": {
+            "id": "jvz200",
+            "name": "James VZ200",
+            "shortName": "jvz200",
+            "platforms": [
+                "l200"
+            ]
+        },
+        "javacpc": {
+            "id": "javacpc",
+            "name": "JavaCPC",
+            "shortName": "javacpc",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "jnes": {
+            "id": "jnes",
+            "name": "Jnes",
+            "shortName": "jnes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "joyce": {
+            "id": "joyce",
+            "name": "JOYCE",
+            "shortName": "joyce",
+            "platforms": [
+                "pcw"
+            ]
+        },
+        "jpcsp": {
+            "id": "jpcsp",
+            "name": "JPCSP",
+            "shortName": "jpcsp",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "jpemu": {
+            "id": "jpemu",
+            "name": "JPeMu IMPACT Emulator",
+            "shortName": "jpemu",
+            "platforms": [
+                "fruit"
+            ]
+        },
+        "jum52": {
+            "id": "jum52",
+            "name": "Jum52",
+            "shortName": "jum52",
+            "platforms": [
+                "a5200"
+            ]
+        },
+        "jynx": {
+            "id": "jynx",
+            "name": "Jynx",
+            "shortName": "jynx",
+            "platforms": [
+                "clynx"
+            ]
+        },
+        "jzintv": {
+            "id": "jzintv",
+            "name": "jzIntv",
+            "shortName": "jzintv",
+            "platforms": [
+                "int"
+            ]
+        },
+        "kat5200": {
+            "id": "kat5200",
+            "name": "kat5200",
+            "shortName": "kat5200",
+            "platforms": [
+                "a5200"
+            ]
+        },
+        "kc85emu": {
+            "id": "kc85emu",
+            "name": "KC85EMU",
+            "shortName": "kc85emu",
+            "platforms": [
+                "kc"
+            ]
+        },
+        "kcemu": {
+            "id": "kcemu",
+            "name": "KCemu",
+            "shortName": "kcemu",
+            "platforms": [
+                "kc"
+            ]
+        },
+        "kegafusion": {
+            "id": "kegafusion",
+            "name": "Kega Fusion",
+            "shortName": "kegafusion",
+            "platforms": [
+                "gg",
+                "sms",
+                "32x",
+                "gen",
+                "smcd",
+                "pico",
+                "sc3000",
+                "sg1000"
+            ]
+        },
+        "kegs": {
+            "id": "kegs",
+            "name": "Kent's Emulated GS",
+            "shortName": "kegs",
+            "platforms": [
+                "apple2",
+                "apple2gs"
+            ]
+        },
+        "kegs32": {
+            "id": "kegs32",
+            "name": "Kent's Emulated GS32",
+            "shortName": "kegs32",
+            "platforms": [
+                "apple2",
+                "apple2gs"
+            ]
+        },
+        "kigb": {
+            "id": "kigb",
+            "name": "KiGB",
+            "shortName": "kigb",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "kindred": {
+            "id": "kindred",
+            "name": "Kindred",
+            "shortName": "kindred",
+            "platforms": [
+                "gb",
+                "nes",
+                "snes",
+                "sms"
+            ]
+        },
+        "klive": {
+            "id": "klive",
+            "name": "Klive",
+            "shortName": "klive",
+            "platforms": [
+                "zxs"
+            ]
+        },
+        "koleko": {
+            "id": "koleko",
+            "name": "KOLEKO",
+            "shortName": "koleko",
+            "platforms": [
+                "col"
+            ]
+        },
+        "koyote": {
+            "id": "koyote",
+            "name": "Koyote",
+            "shortName": "koyote",
+            "platforms": [
+                "ngp",
+                "ngpc"
+            ]
+        },
+        "lisa": {
+            "id": "lisa",
+            "name": "Lisa",
+            "shortName": "lisa",
+            "platforms": [
+                "lisa"
+            ]
+        },
+        "lisaem": {
+            "id": "lisaem",
+            "name": "LisaEm",
+            "shortName": "lisaem",
+            "platforms": [
+                "lisa"
+            ]
+        },
+        "luagb": {
+            "id": "luagb",
+            "name": "LuaGB",
+            "shortName": "luagb",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "mame": {
+            "id": "mame",
+            "name": "M.A.M.E.",
+            "shortName": "mame",
+            "platforms": [
+                "archi",
+                "atom",
+                "bbc",
+                "etron",
+                "cpc",
+                "gx4000",
+                "pcw",
+                "im",
+                "apple1",
+                "apple2",
+                "apple2gs",
+                "apple3",
+                "lisa",
+                "mtosh",
+                "mb",
+                "a2600",
+                "a5200",
+                "a7800",
+                "a8bit",
+                "falcon",
+                "jag",
+                "jagcd",
+                "lynx",
+                "st",
+                "ac",
+                "ws",
+                "wsc",
+                "bw2",
+                "clynx",
+                "cps1",
+                "cps2",
+                "cps3",
+                "loopy",
+                "pv1000",
+                "pv2000",
+                "adam",
+                "col",
+                "c16plus4",
+                "c64",
+                "amiga",
+                "amigacd32",
+                "c128",
+                "cdtv",
+                "pet",
+                "vic20",
+                "comx35",
+                "vip",
+                "mdcb",
+                "cybiko",
+                "pdp1",
+                "dragon",
+                "cg",
+                "tvgames",
+                "arc",
+                "enterprise",
+                "advision",
+                "scv",
+                "exl100",
+                "sorcerer",
+                "chaf",
+                "fmtowns",
+                "fm7",
+                "acan",
+                "galplus",
+                "gp32",
+                "vec",
+                "gm",
+                "ht1080z",
+                "homelab4",
+                "pgm",
+                "hcs",
+                "vc4000",
+                "vii",
+                "jupace",
+                "mame",
+                "alice",
+                "aqua",
+                "int",
+                "mtx",
+                "samc",
+                "primo",
+                "r86rk",
+                "msx2",
+                "msx",
+                "msxtr",
+                "s11",
+                "s22",
+                "pc6001",
+                "pc8801",
+                "pc9801",
+                "pcecd",
+                "pce2",
+                "pce",
+                "fds",
+                "gb",
+                "gba",
+                "gbc",
+                "n64",
+                "nes",
+                "pmini",
+                "snes",
+                "vb",
+                "oric",
+                "3do",
+                "cdi",
+                "vg5000",
+                "vg7000",
+                "vg7400",
+                "studio2",
+                "kc",
+                "dc",
+                "dcvmu",
+                "gg",
+                "sms",
+                "32x",
+                "gen",
+                "smcd",
+                "model1",
+                "model2",
+                "naomi",
+                "pico",
+                "sat",
+                "sc3000",
+                "sg1000",
+                "s16",
+                "s18",
+                "mz2000",
+                "mz2500",
+                "mz1500",
+                "x1",
+                "x68000",
+                "pipbug",
+                "ql",
+                "zxs",
+                "zx81",
+                "ng",
+                "ngcd",
+                "ngp",
+                "ngpc",
+                "ps1",
+                "pstation",
+                "zinc",
+                "sordm5",
+                "sv318",
+                "trs80",
+                "einst",
+                "pmd85",
+                "ti85",
+                "ti86",
+                "ti99",
+                "mo5",
+                "gamecom",
+                "tutor",
+                "lviv",
+                "cv",
+                "l100",
+                "l200",
+                "l350",
+                "svn"
+            ]
+        },
+        "mameclassic": {
+            "id": "mameclassic",
+            "name": "M.A.M.E. classic (till v0.161)",
+            "shortName": "mameclassic",
+            "platforms": [
+                "cps1",
+                "cps2",
+                "cps3",
+                "pgm",
+                "mame",
+                "s11",
+                "s22",
+                "model1",
+                "model2",
+                "naomi",
+                "s16",
+                "s18",
+                "ng",
+                "zinc"
+            ]
+        },
+        "mess": {
+            "id": "mess",
+            "name": "M.E.S.S.",
+            "shortName": "mess",
+            "platforms": [
+                "archi",
+                "atom",
+                "bbc",
+                "etron",
+                "cpc",
+                "gx4000",
+                "pcw",
+                "im",
+                "apple1",
+                "apple2",
+                "apple2gs",
+                "apple3",
+                "lisa",
+                "mtosh",
+                "mb",
+                "a2600",
+                "a5200",
+                "a7800",
+                "a8bit",
+                "falcon",
+                "jag",
+                "jagcd",
+                "lynx",
+                "st",
+                "ac",
+                "ws",
+                "wsc",
+                "bw2",
+                "clynx",
+                "loopy",
+                "pv1000",
+                "pv2000",
+                "adam",
+                "col",
+                "c16plus4",
+                "c64",
+                "amiga",
+                "amigacd32",
+                "c128",
+                "cdtv",
+                "pet",
+                "vic20",
+                "comx35",
+                "vip",
+                "mdcb",
+                "cybiko",
+                "pdp1",
+                "dragon",
+                "cg",
+                "tvgames",
+                "arc",
+                "enterprise",
+                "advision",
+                "scv",
+                "exl100",
+                "sorcerer",
+                "chaf",
+                "fmtowns",
+                "fm7",
+                "acan",
+                "galplus",
+                "gp32",
+                "vec",
+                "gm",
+                "ht1080z",
+                "homelab4",
+                "hcs",
+                "vc4000",
+                "vii",
+                "jupace",
+                "alice",
+                "aqua",
+                "int",
+                "mtx",
+                "samc",
+                "primo",
+                "r86rk",
+                "msx2",
+                "msx",
+                "msxtr",
+                "pc6001",
+                "pc8801",
+                "pc9801",
+                "pcecd",
+                "pce2",
+                "pce",
+                "fds",
+                "gb",
+                "gba",
+                "gbc",
+                "n64",
+                "nes",
+                "pmini",
+                "snes",
+                "vb",
+                "oric",
+                "3do",
+                "cdi",
+                "vg5000",
+                "vg7000",
+                "vg7400",
+                "studio2",
+                "kc",
+                "dc",
+                "dcvmu",
+                "gg",
+                "sms",
+                "32x",
+                "gen",
+                "smcd",
+                "pico",
+                "sat",
+                "sc3000",
+                "sg1000",
+                "mz2000",
+                "mz2500",
+                "mz1500",
+                "x1",
+                "x68000",
+                "pipbug",
+                "ql",
+                "zxs",
+                "zx81",
+                "ng",
+                "ngcd",
+                "ngp",
+                "ngpc",
+                "ps1",
+                "pstation",
+                "sordm5",
+                "sv318",
+                "trs80",
+                "einst",
+                "pmd85",
+                "ti85",
+                "ti86",
+                "ti99",
+                "mo5",
+                "gamecom",
+                "tutor",
+                "lviv",
+                "cv",
+                "l100",
+                "l200",
+                "l350",
+                "svn"
+            ]
+        },
+        "m88": {
+            "id": "m88",
+            "name": "M88",
+            "shortName": "m88",
+            "platforms": [
+                "pc8801"
+            ]
+        },
+        "mahnes": {
+            "id": "mahnes",
+            "name": "MahNES",
+            "shortName": "mahnes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "makaron": {
+            "id": "makaron",
+            "name": "Makaron",
+            "shortName": "makaron",
+            "platforms": [
+                "dc",
+                "naomi"
+            ]
+        },
+        "makaronex": {
+            "id": "makaronex",
+            "name": "MakaronEX",
+            "shortName": "makaronex",
+            "platforms": [
+                "dc"
+            ]
+        },
+        "80five": {
+            "id": "80five",
+            "name": "MarioNES / 80five",
+            "shortName": "80five",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "mednafen": {
+            "id": "mednafen",
+            "name": "Mednafen",
+            "shortName": "mednafen",
+            "platforms": [
+                "lynx",
+                "ws",
+                "wsc",
+                "pcfx",
+                "pce2",
+                "pce",
+                "fds",
+                "gb",
+                "gba",
+                "gbc",
+                "nes",
+                "snes",
+                "vb",
+                "gg",
+                "sms",
+                "gen",
+                "sat",
+                "ngp",
+                "ngpc",
+                "ps1"
+            ]
+        },
+        "medusa": {
+            "id": "medusa",
+            "name": "Medusa",
+            "shortName": "medusa",
+            "platforms": [
+                "nds",
+                "gb",
+                "gba",
+                "gbc"
+            ]
+        },
+        "mega8": {
+            "id": "mega8",
+            "name": "Mega8",
+            "shortName": "mega8",
+            "platforms": [
+                "chip8"
+            ]
+        },
+        "meisei": {
+            "id": "meisei",
+            "name": "meisei",
+            "shortName": "meisei",
+            "platforms": [
+                "msx"
+            ]
+        },
+        "meka": {
+            "id": "meka",
+            "name": "MEKA",
+            "shortName": "meka",
+            "platforms": [
+                "col",
+                "gg",
+                "sms",
+                "sc3000",
+                "sg1000"
+            ]
+        },
+        "melonds": {
+            "id": "melonds",
+            "name": "melonDS",
+            "shortName": "melonds",
+            "platforms": [
+                "nds"
+            ]
+        },
+        "mercury": {
+            "id": "mercury",
+            "name": "Mercury Revival",
+            "shortName": "mercury",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "mesadx": {
+            "id": "mesadx",
+            "name": "MesaDX",
+            "shortName": "mesadx",
+            "platforms": [
+                "gg",
+                "sms"
+            ]
+        },
+        "mesen": {
+            "id": "mesen",
+            "name": "Mesen",
+            "shortName": "mesen",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "mgba": {
+            "id": "mgba",
+            "name": "mGBA",
+            "shortName": "mgba",
+            "platforms": [
+                "gb",
+                "gba",
+                "gbc"
+            ]
+        },
+        "micro64": {
+            "id": "micro64",
+            "name": "Micro64",
+            "shortName": "micro64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "minivmac": {
+            "id": "minivmac",
+            "name": "Mini vMac",
+            "shortName": "minivmac",
+            "platforms": [
+                "mtosh"
+            ]
+        },
+        "minimon": {
+            "id": "minimon",
+            "name": "Minimon",
+            "shortName": "minimon",
+            "platforms": [
+                "pmini"
+            ]
+        },
+        "minus4": {
+            "id": "minus4",
+            "name": "Minus4w",
+            "shortName": "minus4",
+            "platforms": [
+                "c16plus4"
+            ]
+        },
+        "modelb": {
+            "id": "modelb",
+            "name": "model-b",
+            "shortName": "modelb",
+            "platforms": [
+                "bbc"
+            ]
+        },
+        "modeler": {
+            "id": "modeler",
+            "name": "Modeler",
+            "shortName": "modeler",
+            "platforms": [
+                "model1"
+            ]
+        },
+        "mtxemu": {
+            "id": "mtxemu",
+            "name": "Mt. Xemu",
+            "shortName": "mtxemu",
+            "platforms": [
+                "mtx"
+            ]
+        },
+        "mfme": {
+            "id": "mfme",
+            "name": "Multiple Fruit Machine Emulator",
+            "shortName": "mfme",
+            "platforms": [
+                "fruit"
+            ]
+        },
+        "mupen64plus": {
+            "id": "mupen64plus",
+            "name": "Mupen64+",
+            "shortName": "mupen64plus",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "mupen64plusplus": {
+            "id": "mupen64plusplus",
+            "name": "Mupen64++",
+            "shortName": "mupen64plusplus",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "mupen64k": {
+            "id": "mupen64k",
+            "name": "Mupen64k",
+            "shortName": "mupen64k",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "mynes": {
+            "id": "mynes",
+            "name": "My NES",
+            "shortName": "mynes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "mz700win": {
+            "id": "mz700win",
+            "name": "MZ700WIN",
+            "shortName": "mz700win",
+            "platforms": [
+                "mz1500"
+            ]
+        },
+        "mz800emu": {
+            "id": "mz800emu",
+            "name": "MZ-800 Emulator",
+            "shortName": "mz800emu",
+            "platforms": [
+                "mz1500"
+            ]
+        },
+        "mzxx": {
+            "id": "mzxx",
+            "name": "MZXX",
+            "shortName": "mzxx",
+            "platforms": [
+                "col",
+                "jupace",
+                "mz1500",
+                "zxs",
+                "zx81"
+            ]
+        },
+        "nanowasp": {
+            "id": "nanowasp",
+            "name": "NanoWasp",
+            "shortName": "nanowasp",
+            "platforms": [
+                "mb"
+            ]
+        },
+        "nebula": {
+            "id": "nebula",
+            "name": "Nebula",
+            "shortName": "nebula",
+            "platforms": [
+                "cps1",
+                "cps2",
+                "pgm",
+                "ng"
+            ]
+        },
+        "nekoprojectii": {
+            "id": "nekoprojectii",
+            "name": "Neko Project II",
+            "shortName": "nekoprojectii",
+            "platforms": [
+                "pc9801"
+            ]
+        },
+        "nemu64": {
+            "id": "nemu64",
+            "name": "Nemu64",
+            "shortName": "nemu64",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "nemulator": {
+            "id": "nemulator",
+            "name": "Nemulator",
+            "shortName": "nemulator",
+            "platforms": [
+                "nes",
+                "gg",
+                "sms"
+            ]
+        },
+        "neocdsdl": {
+            "id": "neocdsdl",
+            "name": "NeoCD/SDL",
+            "shortName": "neocdsdl",
+            "platforms": [
+                "ngcd"
+            ]
+        },
+        "neochip8": {
+            "id": "neochip8",
+            "name": "NeoChip8",
+            "shortName": "neochip8",
+            "platforms": [
+                "chip8",
+                "vip"
+            ]
+        },
+        "ncdz": {
+            "id": "ncdz",
+            "name": "NEOGEO CD Emulator-Z",
+            "shortName": "ncdz",
+            "platforms": [
+                "ngcd"
+            ]
+        },
+        "neonds": {
+            "id": "neonds",
+            "name": "NeonDS",
+            "shortName": "neonds",
+            "platforms": [
+                "nds"
+            ]
+        },
+        "neopocott": {
+            "id": "neopocott",
+            "name": "NeoPocott",
+            "shortName": "neopocott",
+            "platforms": [
+                "ngp",
+                "ngpc"
+            ]
+        },
+        "neopop": {
+            "id": "neopop",
+            "name": "NeoPop",
+            "shortName": "neopop",
+            "platforms": [
+                "ngpc"
+            ]
+        },
+        "nesemu": {
+            "id": "nesemu",
+            "name": "nes-emu",
+            "shortName": "nesemu",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "nesterj": {
+            "id": "nesterj",
+            "name": "nesterJ",
+            "shortName": "nesterj",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "nesticle": {
+            "id": "nesticle",
+            "name": "NESticle",
+            "shortName": "nesticle",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "nestopia": {
+            "id": "nestopia",
+            "name": "Nestopia",
+            "shortName": "nestopia",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "neutrinosx2": {
+            "id": "neutrinosx2",
+            "name": "neutrinoSX2",
+            "shortName": "neutrinosx2",
+            "platforms": [
+                "ps2"
+            ]
+        },
+        "neusnem": {
+            "id": "neusnem",
+            "name": "NewSneM",
+            "shortName": "neusnem",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "ngae": {
+            "id": "ngae",
+            "name": "NGAE",
+            "shortName": "ngae",
+            "platforms": [
+                "ng"
+            ]
+        },
+        "nice64": {
+            "id": "nice64",
+            "name": "NICE64",
+            "shortName": "nice64",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "nintendulator": {
+            "id": "nintendulator",
+            "name": "Nintendulator",
+            "shortName": "nintendulator",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "nlmsx": {
+            "id": "nlmsx",
+            "name": "NLMSX",
+            "shortName": "nlmsx",
+            "platforms": [
+                "msx2",
+                "msx",
+                "msxtr"
+            ]
+        },
+        "nnnesterj": {
+            "id": "nnnesterj",
+            "name": "NNNesterJ",
+            "shortName": "nnnesterj",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "no2k6": {
+            "id": "no2k6",
+            "name": "no$2k6",
+            "shortName": "no2k6",
+            "platforms": [
+                "a2600"
+            ]
+        },
+        "noc64": {
+            "id": "noc64",
+            "name": "no$c64",
+            "shortName": "noc64",
+            "platforms": [
+                "c16plus4",
+                "c64",
+                "vic20"
+            ]
+        },
+        "nocpc": {
+            "id": "nocpc",
+            "name": "no$cpc",
+            "shortName": "nocpc",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "nogba": {
+            "id": "nogba",
+            "name": "no$gba",
+            "shortName": "nogba",
+            "platforms": [
+                "nds",
+                "gba",
+                "pstation"
+            ]
+        },
+        "nogmb": {
+            "id": "nogmb",
+            "name": "no$gmb",
+            "shortName": "nogmb",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "nomsx": {
+            "id": "nomsx",
+            "name": "no$msx",
+            "shortName": "nomsx",
+            "platforms": [
+                "msx2",
+                "msx"
+            ]
+        },
+        "nones": {
+            "id": "nones",
+            "name": "no$nes",
+            "shortName": "nones",
+            "platforms": [
+                "fds",
+                "nes"
+            ]
+        },
+        "nopsx": {
+            "id": "nopsx",
+            "name": "no$psx",
+            "shortName": "nopsx",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "nosns": {
+            "id": "nosns",
+            "name": "no$sns",
+            "shortName": "nosns",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "nozx": {
+            "id": "nozx",
+            "name": "no$zx",
+            "shortName": "nozx",
+            "platforms": [
+                "jupace",
+                "zxs",
+                "zx81"
+            ]
+        },
+        "nostalgia": {
+            "id": "nostalgia",
+            "name": "Nostalgia",
+            "shortName": "nostalgia",
+            "platforms": [
+                "int"
+            ]
+        },
+        "nucleus": {
+            "id": "nucleus",
+            "name": "Nucleus",
+            "shortName": "nucleus",
+            "platforms": [
+                "ps3"
+            ]
+        },
+        "nulldc": {
+            "id": "nulldc",
+            "name": "nullDC",
+            "shortName": "nulldc",
+            "platforms": [
+                "dc"
+            ]
+        },
+        "nulldcn": {
+            "id": "nulldcn",
+            "name": "nullDC NAOMI",
+            "shortName": "nulldcn",
+            "platforms": [
+                "naomi"
+            ]
+        },
+        "o2em": {
+            "id": "o2em",
+            "name": "O2EM",
+            "shortName": "o2em",
+            "platforms": [
+                "vg7000",
+                "vg7400"
+            ]
+        },
+        "ootake": {
+            "id": "ootake",
+            "name": "Ootake",
+            "shortName": "ootake",
+            "platforms": [
+                "pce"
+            ]
+        },
+        "oricutron": {
+            "id": "oricutron",
+            "name": "Oricutron",
+            "shortName": "oricutron",
+            "platforms": [
+                "oric"
+            ]
+        },
+        "osmose": {
+            "id": "osmose",
+            "name": "Osmose",
+            "shortName": "osmose",
+            "platforms": [
+                "gg",
+                "sms"
+            ]
+        },
+        "oswan": {
+            "id": "oswan",
+            "name": "Oswan",
+            "shortName": "oswan",
+            "platforms": [
+                "ws",
+                "wsc"
+            ]
+        },
+        "oswanu": {
+            "id": "oswanu",
+            "name": "Oswan (Unofficial)",
+            "shortName": "oswanu",
+            "platforms": [
+                "ws",
+                "wsc"
+            ]
+        },
+        "parajve": {
+            "id": "parajve",
+            "name": "Parabellum's Java Vectrex Emulator",
+            "shortName": "parajve",
+            "platforms": [
+                "vec"
+            ]
+        },
+        "pasofami": {
+            "id": "pasofami",
+            "name": "Pasofami",
+            "shortName": "pasofami",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "pcae": {
+            "id": "pcae",
+            "name": "PC Atari Emulator",
+            "shortName": "pcae",
+            "platforms": [
+                "a2600"
+            ]
+        },
+        "pc6001v": {
+            "id": "pc6001v",
+            "name": "PC6001V",
+            "shortName": "pc6001v",
+            "platforms": [
+                "pc6001"
+            ]
+        },
+        "pc6001vw": {
+            "id": "pc6001vw",
+            "name": "PC6001VW",
+            "shortName": "pc6001vw",
+            "platforms": [
+                "pc6001"
+            ]
+        },
+        "pc6001vx": {
+            "id": "pc6001vx",
+            "name": "PC6001VX",
+            "shortName": "pc6001vx",
+            "platforms": [
+                "pc6001"
+            ]
+        },
+        "pc88win": {
+            "id": "pc88win",
+            "name": "PC88Win",
+            "shortName": "pc88win",
+            "platforms": [
+                "pc8801"
+            ]
+        },
+        "pcejin": {
+            "id": "pcejin",
+            "name": "PCEjin",
+            "shortName": "pcejin",
+            "platforms": [
+                "pce"
+            ]
+        },
+        "pcemacplus": {
+            "id": "pcemacplus",
+            "name": "PCE-MacPlus",
+            "shortName": "pcemacplus",
+            "platforms": [
+                "mtosh"
+            ]
+        },
+        "pcsp": {
+            "id": "pcsp",
+            "name": "PCSP",
+            "shortName": "pcsp",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "pcsx": {
+            "id": "pcsx",
+            "name": "PCSX",
+            "shortName": "pcsx",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "pcsx2": {
+            "id": "pcsx2",
+            "name": "PCSX2",
+            "shortName": "pcsx2",
+            "platforms": [
+                "ps2"
+            ]
+        },
+        "pcsxr": {
+            "id": "pcsxr",
+            "name": "PCSX-Reloaded",
+            "shortName": "pcsxr",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "pcsxrr": {
+            "id": "pcsxrr",
+            "name": "PCSX-RR",
+            "shortName": "pcsxrr",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "pearpc": {
+            "id": "pearpc",
+            "name": "PearPC",
+            "shortName": "pearpc",
+            "platforms": [
+                "mtosh"
+            ]
+        },
+        "pc64": {
+            "id": "pc64",
+            "name": "Personal C64",
+            "shortName": "pc64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "pale": {
+            "id": "pale",
+            "name": "Pete's Amazing Lynx Emulator",
+            "shortName": "pale",
+            "platforms": [
+                "clynx"
+            ]
+        },
+        "phoenix": {
+            "id": "phoenix",
+            "name": "Phoenix",
+            "shortName": "phoenix",
+            "platforms": [
+                "col",
+                "3do",
+                "gg",
+                "sms",
+                "sg1000"
+            ]
+        },
+        "picodrive": {
+            "id": "picodrive",
+            "name": "PicoDrive",
+            "shortName": "picodrive",
+            "platforms": [
+                "sms",
+                "gen",
+                "smcd",
+                "pico"
+            ]
+        },
+        "pk201": {
+            "id": "pk201",
+            "name": "PK201",
+            "shortName": "pk201",
+            "platforms": [
+                "pstation"
+            ]
+        },
+        "pkemu": {
+            "id": "pkemu",
+            "name": "PKEmu",
+            "shortName": "pkemu",
+            "platforms": [
+                "pstation"
+            ]
+        },
+        "plus4emu": {
+            "id": "plus4emu",
+            "name": "plus4emu",
+            "shortName": "plus4emu",
+            "platforms": [
+                "c16plus4"
+            ]
+        },
+        "pmd85": {
+            "id": "pmd85",
+            "name": "PMD85",
+            "shortName": "pmd85",
+            "platforms": [
+                "pmd85"
+            ]
+        },
+        "pokemini": {
+            "id": "pokemini",
+            "name": "Poke Mini",
+            "shortName": "pokemini",
+            "platforms": [
+                "pmini"
+            ]
+        },
+        "pom1": {
+            "id": "pom1",
+            "name": "Pom1",
+            "shortName": "pom1",
+            "platforms": [
+                "apple1"
+            ]
+        },
+        "potator": {
+            "id": "potator",
+            "name": "Potator",
+            "shortName": "potator",
+            "platforms": [
+                "svn"
+            ]
+        },
+        "potemkin": {
+            "id": "potemkin",
+            "name": "Potemkin",
+            "shortName": "potemkin",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "ppsspp": {
+            "id": "ppsspp",
+            "name": "PPSSPP",
+            "shortName": "ppsspp",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "projecttempest": {
+            "id": "projecttempest",
+            "name": "Project Tempest",
+            "shortName": "projecttempest",
+            "platforms": [
+                "jag"
+            ]
+        },
+        "project64": {
+            "id": "project64",
+            "name": "Project64",
+            "shortName": "project64",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "project64k": {
+            "id": "project64k",
+            "name": "Project64k",
+            "shortName": "project64k",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "project64k7e": {
+            "id": "project64k7e",
+            "name": "Project64K7E",
+            "shortName": "project64k7e",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "prosystem": {
+            "id": "prosystem",
+            "name": "ProSystem",
+            "shortName": "prosystem",
+            "platforms": [
+                "a7800"
+            ]
+        },
+        "ps2emu": {
+            "id": "ps2emu",
+            "name": "PS2EMU",
+            "shortName": "ps2emu",
+            "platforms": [
+                "ps2"
+            ]
+        },
+        "psinex": {
+            "id": "psinex",
+            "name": "PSinex",
+            "shortName": "psinex",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "pspe": {
+            "id": "pspe",
+            "name": "pspe",
+            "shortName": "pspe",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "dpspemu": {
+            "id": "dpspemu",
+            "name": "PSPEmu",
+            "shortName": "dpspemu",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "psx": {
+            "id": "psx",
+            "name": "pSX",
+            "shortName": "psx",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "psxeven": {
+            "id": "psxeven",
+            "name": "PSXeven",
+            "shortName": "psxeven",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "psxjin": {
+            "id": "psxjin",
+            "name": "PSXjin",
+            "shortName": "psxjin",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "psyke": {
+            "id": "psyke",
+            "name": "PSyKe",
+            "shortName": "psyke",
+            "platforms": [
+                "ps1"
+            ]
+        },
+        "punes": {
+            "id": "punes",
+            "name": "puNES",
+            "shortName": "punes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "ql2k": {
+            "id": "ql2k",
+            "name": "QL2K",
+            "shortName": "ql2k",
+            "platforms": [
+                "ql"
+            ]
+        },
+        "qlayw": {
+            "id": "qlayw",
+            "name": "QLAY",
+            "shortName": "qlayw",
+            "platforms": [
+                "ql"
+            ]
+        },
+        "qlay2": {
+            "id": "qlay2",
+            "name": "QLAY2",
+            "shortName": "qlay2",
+            "platforms": [
+                "ql"
+            ]
+        },
+        "quasi88": {
+            "id": "quasi88",
+            "name": "QUASI88",
+            "shortName": "quasi88",
+            "platforms": [
+                "pc8801"
+            ]
+        },
+        "race": {
+            "id": "race",
+            "name": "RACE!",
+            "shortName": "race",
+            "platforms": [
+                "ngpc"
+            ]
+        },
+        "radio86": {
+            "id": "radio86",
+            "name": "RADIO-86",
+            "shortName": "radio86",
+            "platforms": [
+                "r86rk"
+            ]
+        },
+        "rainbow": {
+            "id": "rainbow",
+            "name": "Rainbow",
+            "shortName": "rainbow",
+            "platforms": [
+                "a5200",
+                "a8bit"
+            ]
+        },
+        "rascalboyadv": {
+            "id": "rascalboyadv",
+            "name": "RascalBoy Advance",
+            "shortName": "rascalboyadv",
+            "platforms": [
+                "gba"
+            ]
+        },
+        "elf": {
+            "id": "elf",
+            "name": "RCS Elf Emulator",
+            "shortName": "elf",
+            "platforms": [
+                "comx35",
+                "studio2"
+            ]
+        },
+        "real80pro": {
+            "id": "real80pro",
+            "name": "Real-80 PRO",
+            "shortName": "real80pro",
+            "platforms": [
+                "ht1080z"
+            ]
+        },
+        "realityboy": {
+            "id": "realityboy",
+            "name": "Reality Boy",
+            "shortName": "realityboy",
+            "platforms": [
+                "vb"
+            ]
+        },
+        "reddragon": {
+            "id": "reddragon",
+            "name": "Red Dragon",
+            "shortName": "reddragon",
+            "platforms": [
+                "vb"
+            ]
+        },
+        "redsquirrel": {
+            "id": "redsquirrel",
+            "name": "Red Squirrel",
+            "shortName": "redsquirrel",
+            "platforms": [
+                "archi"
+            ]
+        },
+        "redmsx": {
+            "id": "redmsx",
+            "name": "RedMSX",
+            "shortName": "redmsx",
+            "platforms": [
+                "msx2",
+                "msx"
+            ]
+        },
+        "regen": {
+            "id": "regen",
+            "name": "Regen",
+            "shortName": "regen",
+            "platforms": [
+                "gg",
+                "sms",
+                "gen",
+                "sc3000",
+                "sg1000"
+            ]
+        },
+        "retrocopy": {
+            "id": "retrocopy",
+            "name": "RetroCopy",
+            "shortName": "retrocopy",
+            "platforms": [
+                "nes",
+                "gg",
+                "sms",
+                "gen"
+            ]
+        },
+        "roc": {
+            "id": "roc",
+            "name": "Return of CoCo",
+            "shortName": "roc",
+            "platforms": [
+                "dragon",
+                "trs80"
+            ]
+        },
+        "rocknes": {
+            "id": "rocknes",
+            "name": "RockNES",
+            "shortName": "rocknes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "rocknesx": {
+            "id": "rocknesx",
+            "name": "RockNES X",
+            "shortName": "rocknesx",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "roland": {
+            "id": "roland",
+            "name": "Roland",
+            "shortName": "roland",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "rpcemu": {
+            "id": "rpcemu",
+            "name": "RPCemu",
+            "shortName": "rpcemu",
+            "platforms": [
+                "archi"
+            ]
+        },
+        "rpcs3": {
+            "id": "rpcs3",
+            "name": "RPCS3",
+            "shortName": "rpcs3",
+            "platforms": [
+                "ps3"
+            ]
+        },
+        "rxnes": {
+            "id": "rxnes",
+            "name": "RxNES",
+            "shortName": "rxnes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "saint": {
+            "id": "saint",
+            "name": "SainT",
+            "shortName": "saint",
+            "platforms": [
+                "st"
+            ]
+        },
+        "satourne": {
+            "id": "satourne",
+            "name": "Satourne",
+            "shortName": "satourne",
+            "platforms": [
+                "sat"
+            ]
+        },
+        "saturnin": {
+            "id": "saturnin",
+            "name": "Saturnin",
+            "shortName": "saturnin",
+            "platforms": [
+                "sat"
+            ]
+        },
+        "scummvm": {
+            "id": "scummvm",
+            "name": "ScummVM",
+            "shortName": "scummvm",
+            "platforms": [
+                "svm"
+            ]
+        },
+        "sdltrs": {
+            "id": "sdltrs",
+            "name": "sdltrs",
+            "shortName": "sdltrs",
+            "platforms": [
+                "trs80"
+            ]
+        },
+        "m2emulator": {
+            "id": "m2emulator",
+            "name": "Sega Model 2 Emulator",
+            "shortName": "m2emulator",
+            "platforms": [
+                "model2"
+            ]
+        },
+        "sharp80": {
+            "id": "sharp80",
+            "name": "Sharp 80",
+            "shortName": "sharp80",
+            "platforms": [
+                "trs80"
+            ]
+        },
+        "sharpchip8": {
+            "id": "sharpchip8",
+            "name": "SharpChip-8",
+            "shortName": "sharpchip8",
+            "platforms": [
+                "chip8"
+            ]
+        },
+        "sheepshaver": {
+            "id": "sheepshaver",
+            "name": "Sheep Shaver",
+            "shortName": "sheepshaver",
+            "platforms": [
+                "mtosh"
+            ]
+        },
+        "shortwaves": {
+            "id": "shortwaves",
+            "name": "Short Waves",
+            "shortName": "shortwaves",
+            "platforms": [
+                "ps3"
+            ]
+        },
+        "simcoupe": {
+            "id": "simcoupe",
+            "name": "SimCoupe",
+            "shortName": "simcoupe",
+            "platforms": [
+                "samc"
+            ]
+        },
+        "simh": {
+            "id": "simh",
+            "name": "SIMH",
+            "shortName": "simh",
+            "platforms": [
+                "pdp1",
+                "pdp7"
+            ]
+        },
+        "sneese": {
+            "id": "sneese",
+            "name": "SNEeSe",
+            "shortName": "sneese",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "snem": {
+            "id": "snem",
+            "name": "SneM",
+            "shortName": "snem",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "snes9x": {
+            "id": "snes9x",
+            "name": "SNES9X",
+            "shortName": "snes9x",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "snes9xrr": {
+            "id": "snes9xrr",
+            "name": "SNES9X Rerecording",
+            "shortName": "snes9xrr",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "snes9xsx2": {
+            "id": "snes9xsx2",
+            "name": "SNES9X-SX2",
+            "shortName": "snes9xsx2",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "snesgt": {
+            "id": "snesgt",
+            "name": "SNESGT",
+            "shortName": "snesgt",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "softvms": {
+            "id": "softvms",
+            "name": "SoftVMS",
+            "shortName": "softvms",
+            "platforms": [
+                "dcvmu"
+            ]
+        },
+        "sorcerer": {
+            "id": "sorcerer",
+            "name": "Sorcerer",
+            "shortName": "sorcerer",
+            "platforms": [
+                "sorcerer"
+            ]
+        },
+        "speccy": {
+            "id": "speccy",
+            "name": "Speccy",
+            "shortName": "speccy",
+            "platforms": [
+                "samc",
+                "zxs"
+            ]
+        },
+        "spud": {
+            "id": "spud",
+            "name": "Spud",
+            "shortName": "spud",
+            "platforms": [
+                "zxs"
+            ]
+        },
+        "spudace": {
+            "id": "spudace",
+            "name": "SpudACE",
+            "shortName": "spudace",
+            "platforms": [
+                "jupace"
+            ]
+        },
+        "ssf": {
+            "id": "ssf",
+            "name": "SSF",
+            "shortName": "ssf",
+            "platforms": [
+                "sat",
+                "stv"
+            ]
+        },
+        "steem": {
+            "id": "steem",
+            "name": "Steem",
+            "shortName": "steem",
+            "platforms": [
+                "st"
+            ]
+        },
+        "steemsse": {
+            "id": "steemsse",
+            "name": "Steem SSE (Steven Seagal Edition)",
+            "shortName": "steemsse",
+            "platforms": [
+                "st"
+            ]
+        },
+        "stella": {
+            "id": "stella",
+            "name": "Stella",
+            "shortName": "stella",
+            "platforms": [
+                "a2600"
+            ]
+        },
+        "stem": {
+            "id": "stem",
+            "name": "STEM",
+            "shortName": "stem",
+            "platforms": [
+                "studio2"
+            ]
+        },
+        "sugarbox": {
+            "id": "sugarbox",
+            "name": "Sugarbox",
+            "shortName": "sugarbox",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "supergcube": {
+            "id": "supergcube",
+            "name": "SuperGCube",
+            "shortName": "supergcube",
+            "platforms": [
+                "gc"
+            ]
+        },
+        "supermodel": {
+            "id": "supermodel",
+            "name": "Supermodel",
+            "shortName": "supermodel",
+            "platforms": [
+                "model3"
+            ]
+        },
+        "swfopener": {
+            "id": "swfopener",
+            "name": "SWF Opener",
+            "shortName": "swfopener",
+            "platforms": [
+                "flash"
+            ]
+        },
+        "takeda": {
+            "id": "takeda",
+            "name": "Takeda Archive",
+            "shortName": "takeda",
+            "platforms": [
+                "pv1000",
+                "pv2000",
+                "scv",
+                "fm7",
+                "msx2",
+                "msx",
+                "pc6001",
+                "pc8801",
+                "pc9801",
+                "pce2",
+                "gg",
+                "sms",
+                "sc3000",
+                "mz2000",
+                "mz2500",
+                "mz1500",
+                "x1",
+                "sordm5",
+                "tutor"
+            ]
+        },
+        "tgbdual": {
+            "id": "tgbdual",
+            "name": "TGB Dual",
+            "shortName": "tgbdual",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "ti994w": {
+            "id": "ti994w",
+            "name": "Ti994W",
+            "shortName": "ti994w",
+            "platforms": [
+                "ti99"
+            ]
+        },
+        "tilem": {
+            "id": "tilem",
+            "name": "TilEm",
+            "shortName": "tilem",
+            "platforms": [
+                "ti82",
+                "ti83",
+                "ti85",
+                "ti86"
+            ]
+        },
+        "tronds": {
+            "id": "tronds",
+            "name": "TronDS",
+            "shortName": "tronds",
+            "platforms": [
+                "3ds"
+            ]
+        },
+        "trs80gp": {
+            "id": "trs80gp",
+            "name": "trs80gp",
+            "shortName": "trs80gp",
+            "platforms": [
+                "trs80"
+            ]
+        },
+        "tunix2001": {
+            "id": "tunix2001",
+            "name": "Tunix 2001",
+            "shortName": "tunix2001",
+            "platforms": [
+                "arc",
+                "vc4000",
+                "zxs",
+                "l200"
+            ]
+        },
+        "turboengine": {
+            "id": "turboengine",
+            "name": "Turbo Engine 16",
+            "shortName": "turboengine",
+            "platforms": [
+                "pcecd",
+                "pce2",
+                "pce"
+            ]
+        },
+        "twombit": {
+            "id": "twombit",
+            "name": "TwoMBit",
+            "shortName": "twombit",
+            "platforms": [
+                "gg",
+                "sms",
+                "sg1000"
+            ]
+        },
+        "ubee512": {
+            "id": "ubee512",
+            "name": "uBee512",
+            "shortName": "ubee512",
+            "platforms": [
+                "mb"
+            ]
+        },
+        "ubernes": {
+            "id": "ubernes",
+            "name": "UberNES",
+            "shortName": "ubernes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "ultimo": {
+            "id": "ultimo",
+            "name": "Ultimo",
+            "shortName": "ultimo",
+            "platforms": [
+                "primo"
+            ]
+        },
+        "ultrahle": {
+            "id": "ultrahle",
+            "name": "UltraHLE",
+            "shortName": "ultrahle",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "ultrahle2064": {
+            "id": "ultrahle2064",
+            "name": "UltraHLE 2064",
+            "shortName": "ultrahle2064",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "unrealspeccy": {
+            "id": "unrealspeccy",
+            "name": "UnrealSpeccy",
+            "shortName": "unrealspeccy",
+            "platforms": [
+                "zxs"
+            ]
+        },
+        "unz": {
+            "id": "unz",
+            "name": "UNZ",
+            "shortName": "unz",
+            "platforms": [
+                "fmtowns"
+            ]
+        },
+        "uosnes": {
+            "id": "uosnes",
+            "name": "uosnes",
+            "shortName": "uosnes",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "uoyabause": {
+            "id": "uoyabause",
+            "name": "uoYabause",
+            "shortName": "uoyabause",
+            "platforms": [
+                "sat"
+            ]
+        },
+        "vace": {
+            "id": "vace",
+            "name": "Vace",
+            "shortName": "vace",
+            "platforms": [
+                "jupace"
+            ]
+        },
+        "vace3d": {
+            "id": "vace3d",
+            "name": "Vace3D",
+            "shortName": "vace3d",
+            "platforms": [
+                "jupace"
+            ]
+        },
+        "vb64": {
+            "id": "vb64",
+            "name": "VB64",
+            "shortName": "vb64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "vbjin": {
+            "id": "vbjin",
+            "name": "VBjin",
+            "shortName": "vbjin",
+            "platforms": [
+                "vb"
+            ]
+        },
+        "vbjin-ovr": {
+            "id": "vbjin-ovr",
+            "name": "VBjin-OVR",
+            "shortName": "vbjin-ovr",
+            "platforms": [
+                "vb"
+            ]
+        },
+        "vdmgr": {
+            "id": "vdmgr",
+            "name": "vdmgr",
+            "shortName": "vdmgr",
+            "platforms": [
+                "col",
+                "msx",
+                "nes",
+                "sc3000",
+                "sg1000",
+                "ngp"
+            ]
+        },
+        "vecx": {
+            "id": "vecx",
+            "name": "vecx",
+            "shortName": "vecx",
+            "platforms": [
+                "vec"
+            ]
+        },
+        "vecxgl": {
+            "id": "vecxgl",
+            "name": "VecXGL",
+            "shortName": "vecxgl",
+            "platforms": [
+                "vec"
+            ]
+        },
+        "vic20emu": {
+            "id": "vic20emu",
+            "name": "Vic-20 Emulator",
+            "shortName": "vic20emu",
+            "platforms": [
+                "vic20"
+            ]
+        },
+        "virtu": {
+            "id": "virtu",
+            "name": "Virtu",
+            "shortName": "virtu",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "virtualapf": {
+            "id": "virtualapf",
+            "name": "Virtual APF",
+            "shortName": "virtualapf",
+            "platforms": [
+                "im"
+            ]
+        },
+        "vaquarius": {
+            "id": "vaquarius",
+            "name": "Virtual Aquarius",
+            "shortName": "vaquarius",
+            "platforms": [
+                "aqua"
+            ]
+        },
+        "vgb": {
+            "id": "vgb",
+            "name": "Virtual GameBoy",
+            "shortName": "vgb",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "vgba": {
+            "id": "vgba",
+            "name": "Virtual GameBoy Advance",
+            "shortName": "vgba",
+            "platforms": [
+                "gba"
+            ]
+        },
+        "vinter": {
+            "id": "vinter",
+            "name": "Virtual Interact",
+            "shortName": "vinter",
+            "platforms": [
+                "hcs"
+            ]
+        },
+        "virtualjaguar": {
+            "id": "virtualjaguar",
+            "name": "Virtual Jaguar",
+            "shortName": "virtualjaguar",
+            "platforms": [
+                "jag"
+            ]
+        },
+        "virtualmc10": {
+            "id": "virtualmc10",
+            "name": "Virtual MC-10",
+            "shortName": "virtualmc10",
+            "platforms": [
+                "trs80"
+            ]
+        },
+        "virtualnectrek": {
+            "id": "virtualnectrek",
+            "name": "Virtual NEC Trek",
+            "shortName": "virtualnectrek",
+            "platforms": [
+                "pc6001"
+            ]
+        },
+        "virtpanajr": {
+            "id": "virtpanajr",
+            "name": "Virtual Panasonic JR-200U",
+            "shortName": "virtpanajr",
+            "platforms": [
+                "jr200"
+            ]
+        },
+        "vss": {
+            "id": "vss",
+            "name": "Virtual Super System",
+            "shortName": "vss",
+            "platforms": [
+                "a5200"
+            ]
+        },
+        "virtualt": {
+            "id": "virtualt",
+            "name": "Virtual T",
+            "shortName": "virtualt",
+            "platforms": [
+                "trs80"
+            ]
+        },
+        "virtual98": {
+            "id": "virtual98",
+            "name": "Virtual98",
+            "shortName": "virtual98",
+            "platforms": [
+                "pc9801"
+            ]
+        },
+        "virtuanes": {
+            "id": "virtuanes",
+            "name": "VirtuaNES",
+            "shortName": "virtuanes",
+            "platforms": [
+                "fds",
+                "nes"
+            ]
+        },
+        "virtuanesplus": {
+            "id": "virtuanesplus",
+            "name": "VirtuaNES Plus",
+            "shortName": "virtuanesplus",
+            "platforms": [
+                "fds",
+                "nes"
+            ]
+        },
+        "visualpinball": {
+            "id": "visualpinball",
+            "name": "Visual Pinball",
+            "shortName": "visualpinball",
+            "platforms": [
+                "vp"
+            ]
+        },
+        "visualboy": {
+            "id": "visualboy",
+            "name": "VisualBoy",
+            "shortName": "visualboy",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "visualboyadvance": {
+            "id": "visualboyadvance",
+            "name": "VisualBoyAdvance",
+            "shortName": "visualboyadvance",
+            "platforms": [
+                "gb",
+                "gba",
+                "gbc"
+            ]
+        },
+        "visualboyadvancerr": {
+            "id": "visualboyadvancerr",
+            "name": "VisualBoyAdvance ReRecording",
+            "shortName": "visualboyadvancerr",
+            "platforms": [
+                "gb",
+                "gba",
+                "gbc"
+            ]
+        },
+        "vbam": {
+            "id": "vbam",
+            "name": "VisualBoyAdvance-M-WX",
+            "shortName": "vbam",
+            "platforms": [
+                "gb",
+                "gba"
+            ]
+        },
+        "vbarr": {
+            "id": "vbarr",
+            "name": "VisualBoyAdvance-rerecording",
+            "shortName": "vbarr",
+            "platforms": [
+                "gb",
+                "gba",
+                "gbc"
+            ]
+        },
+        "vivanonno": {
+            "id": "vivanonno",
+            "name": "viva nonno",
+            "shortName": "vivanonno",
+            "platforms": [
+                "s22"
+            ]
+        },
+        "vzem": {
+            "id": "vzem",
+            "name": "VZEM",
+            "shortName": "vzem",
+            "platforms": [
+                "l200"
+            ]
+        },
+        "w88": {
+            "id": "w88",
+            "name": "W88",
+            "shortName": "w88",
+            "platforms": [
+                "pc8801"
+            ]
+        },
+        "wataroo": {
+            "id": "wataroo",
+            "name": "Wataroo",
+            "shortName": "wataroo",
+            "platforms": [
+                "svn"
+            ]
+        },
+        "whinecube": {
+            "id": "whinecube",
+            "name": "WhineCube",
+            "shortName": "whinecube",
+            "platforms": [
+                "gc"
+            ]
+        },
+        "win64": {
+            "id": "win64",
+            "name": "Win64",
+            "shortName": "win64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "win994a": {
+            "id": "win994a",
+            "name": "Win994a",
+            "shortName": "win994a",
+            "platforms": [
+                "ti99"
+            ]
+        },
+        "ages": {
+            "id": "ages",
+            "name": "WinAGES",
+            "shortName": "ages",
+            "platforms": [
+                "gg",
+                "sms",
+                "32x",
+                "gen",
+                "smcd"
+            ]
+        },
+        "winape": {
+            "id": "winape",
+            "name": "WinAPE",
+            "shortName": "winape",
+            "platforms": [
+                "cpc",
+                "gx4000"
+            ]
+        },
+        "winarcadia": {
+            "id": "winarcadia",
+            "name": "WinArcadia",
+            "shortName": "winarcadia",
+            "platforms": [
+                "tvgames",
+                "arc",
+                "vc4000",
+                "pipbug"
+            ]
+        },
+        "winboycott": {
+            "id": "winboycott",
+            "name": "WinBoycott",
+            "shortName": "winboycott",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "wincpc": {
+            "id": "wincpc",
+            "name": "WinCPC",
+            "shortName": "wincpc",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "winfellow": {
+            "id": "winfellow",
+            "name": "WinFellow",
+            "shortName": "winfellow",
+            "platforms": [
+                "amiga"
+            ]
+        },
+        "winkawaks": {
+            "id": "winkawaks",
+            "name": "WinKawaks",
+            "shortName": "winkawaks",
+            "platforms": [
+                "cps1",
+                "cps2",
+                "ng"
+            ]
+        },
+        "wintvc": {
+            "id": "wintvc",
+            "name": "winTVC",
+            "shortName": "wintvc",
+            "platforms": [
+                "tvc"
+            ]
+        },
+        "winuae": {
+            "id": "winuae",
+            "name": "WinUAE",
+            "shortName": "winuae",
+            "platforms": [
+                "amiga",
+                "amigacd32"
+            ]
+        },
+        "winvice": {
+            "id": "winvice",
+            "name": "WinVICE",
+            "shortName": "winvice",
+            "platforms": [
+                "c16plus4",
+                "c64",
+                "c128",
+                "cdtv",
+                "pet",
+                "vic20"
+            ]
+        },
+        "winvz": {
+            "id": "winvz",
+            "name": "WinVZ",
+            "shortName": "winvz",
+            "platforms": [
+                "l200"
+            ]
+        },
+        "winvz300": {
+            "id": "winvz300",
+            "name": "WinVZ300",
+            "shortName": "winvz300",
+            "platforms": [
+                "l100",
+                "l200",
+                "l350"
+            ]
+        },
+        "winx1": {
+            "id": "winx1",
+            "name": "WinX1",
+            "shortName": "winx1",
+            "platforms": [
+                "x1"
+            ]
+        },
+        "wscamp": {
+            "id": "wscamp",
+            "name": "WSCamp",
+            "shortName": "wscamp",
+            "platforms": [
+                "ws",
+                "wsc"
+            ]
+        },
+        "x88000": {
+            "id": "x88000",
+            "name": "X88000",
+            "shortName": "x88000",
+            "platforms": [
+                "pc8801"
+            ]
+        },
+        "xe": {
+            "id": "xe",
+            "name": "Xe",
+            "shortName": "xe",
+            "platforms": [
+                "ws",
+                "fmtowns",
+                "pcecd",
+                "pcfx",
+                "pce",
+                "fds",
+                "gb",
+                "gba",
+                "nes",
+                "snes",
+                "gg",
+                "sms",
+                "gen",
+                "smcd",
+                "sg1000",
+                "ng",
+                "ngcd",
+                "ngp"
+            ]
+        },
+        "xebra": {
+            "id": "xebra",
+            "name": "XEBRA",
+            "shortName": "xebra",
+            "platforms": [
+                "ps1",
+                "pstation"
+            ]
+        },
+        "xenia": {
+            "id": "xenia",
+            "name": "xenia",
+            "shortName": "xenia",
+            "platforms": [
+                "xbox360"
+            ]
+        },
+        "xeon": {
+            "id": "xeon",
+            "name": "Xeon",
+            "shortName": "xeon",
+            "platforms": [
+                "xbox"
+            ]
+        },
+        "xgs32": {
+            "id": "xgs32",
+            "name": "XGS/32",
+            "shortName": "xgs32",
+            "platforms": [
+                "apple2gs"
+            ]
+        },
+        "xm6": {
+            "id": "xm6",
+            "name": "XM 6 Type G",
+            "shortName": "xm6",
+            "platforms": [
+                "x68000"
+            ]
+        },
+        "xm7": {
+            "id": "xm7",
+            "name": "XM7",
+            "shortName": "xm7",
+            "platforms": [
+                "fm7"
+            ]
+        },
+        "xm7dash": {
+            "id": "xm7dash",
+            "name": "XM7dash",
+            "shortName": "xm7dash",
+            "platforms": [
+                "fm7"
+            ]
+        },
+        "xm8": {
+            "id": "xm8",
+            "name": "XM8",
+            "shortName": "xm8",
+            "platforms": [
+                "pc8801"
+            ]
+        },
+        "xmillenium": {
+            "id": "xmillenium",
+            "name": "XMillenium",
+            "shortName": "xmillenium",
+            "platforms": [
+                "x1"
+            ]
+        },
+        "xpeccy": {
+            "id": "xpeccy",
+            "name": "Xpeccy",
+            "shortName": "xpeccy",
+            "platforms": [
+                "msx",
+                "zxs"
+            ]
+        },
+        "xqemu": {
+            "id": "xqemu",
+            "name": "XQEMU",
+            "shortName": "xqemu",
+            "platforms": [
+                "xbox"
+            ]
+        },
+        "xroar": {
+            "id": "xroar",
+            "name": "XRoar",
+            "shortName": "xroar",
+            "platforms": [
+                "dragon",
+                "trs80"
+            ]
+        },
+        "xsnes": {
+            "id": "xsnes",
+            "name": "xSnes",
+            "shortName": "xsnes",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "yabause": {
+            "id": "yabause",
+            "name": "Yabause",
+            "shortName": "yabause",
+            "platforms": [
+                "sat"
+            ]
+        },
+        "yabaused": {
+            "id": "yabaused",
+            "name": "Yabause-Devmiyax",
+            "shortName": "yabaused",
+            "platforms": [
+                "sat"
+            ]
+        },
+        "yage": {
+            "id": "yage",
+            "name": "YAGE",
+            "shortName": "yage",
+            "platforms": [
+                "cpc"
+            ]
+        },
+        "yanese": {
+            "id": "yanese",
+            "name": "YANESE (Yet Another NES Emulator)",
+            "shortName": "yanese",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "yape": {
+            "id": "yape",
+            "name": "Yet Another Plus/4 Emulator",
+            "shortName": "yape",
+            "platforms": [
+                "c16plus4"
+            ]
+        },
+        "yapesdl": {
+            "id": "yapesdl",
+            "name": "Yet Another Plus/4 Emulator SDL",
+            "shortName": "yapesdl",
+            "platforms": [
+                "c16plus4",
+                "c64"
+            ]
+        },
+        "yoshines": {
+            "id": "yoshines",
+            "name": "YoshiNES",
+            "shortName": "yoshines",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "z26": {
+            "id": "z26",
+            "name": "Z26",
+            "shortName": "z26",
+            "platforms": [
+                "a2600"
+            ]
+        },
+        "z80stealth": {
+            "id": "z80stealth",
+            "name": "Z80Stealth",
+            "shortName": "z80stealth",
+            "platforms": [
+                "zxs"
+            ]
+        },
+        "zboy": {
+            "id": "zboy",
+            "name": "zBoy",
+            "shortName": "zboy",
+            "platforms": [
+                "gb"
+            ]
+        },
+        "zero": {
+            "id": "zero",
+            "name": "Zero",
+            "shortName": "zero",
+            "platforms": [
+                "zxs"
+            ]
+        },
+        "zesarux": {
+            "id": "zesarux",
+            "name": "ZEsarUX",
+            "shortName": "zesarux",
+            "platforms": [
+                "cpc",
+                "jupace",
+                "samc",
+                "zxs",
+                "zx81"
+            ]
+        },
+        "zinc": {
+            "id": "zinc",
+            "name": "ZiNc",
+            "shortName": "zinc",
+            "platforms": [
+                "s11",
+                "zinc"
+            ]
+        },
+        "zsnes": {
+            "id": "zsnes",
+            "name": "ZSNES",
+            "shortName": "zsnes",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "zxspin": {
+            "id": "zxspin",
+            "name": "ZXSpin",
+            "shortName": "zxspin",
+            "platforms": [
+                "zxs"
+            ]
+        }
+    }
+}

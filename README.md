@@ -61,7 +61,6 @@ Wont have these mapped for a while yet
 - remove excess local platforms without at least 1 nointro/redump/tosec/mame match
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
 - Setup source exports for
-  - emuControlCenter
   - EmulationKing
   - EmuCR
   - EmuTopia
