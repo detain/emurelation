@@ -210,7 +210,7 @@
             "platforms"
         ],
         "description": "",
-        "updatedLast": 1662104512,
+        "updatedLast": 1662449460,
         "updateTrigger": "commit",
         "web": {
             "https://emulationking.com/": "home"
@@ -262,16 +262,16 @@
             "https://www.retrobat.ovh/": "home"
         }
     },
-    "esde": {
-        "id": "esde",
+    "emulationstation-de": {
+        "id": "emulationstation-de",
         "name": "EmulationStation-DE",
         "type": "Frontend",
         "provides": [
             "emulators",
             "platforms"
         ],
-        "description": "",
-        "updatedLast": false,
+        "description": "EmulationStation Desktop Edition is a frontend for browsing and launching games from your multi-platform game collection.",
+        "updatedLast": 1662462959,
         "updateTrigger": "commit",
         "web": {
             "https://es-de.org/": "home",
@@ -301,7 +301,7 @@
             "emulators",
             "platforms"
         ],
-        "description": "",
+        "description": "Retrogaming open source operating system for Raspberry Pi, Odroid and PC.",
         "updatedLast": false,
         "updateTrigger": "commit",
         "web": {
@@ -317,7 +317,7 @@
             "emulators",
             "platforms"
         ],
-        "description": "",
+        "description": "RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, EmulationStation, RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up. For power users it also provides a large variety of configuration tools to customise the system as you want.",
         "updatedLast": false,
         "updateTrigger": "commit",
         "web": {
@@ -351,6 +351,38 @@
         "updateTrigger": "commit",
         "web": {
             "https://www.mobygames.com/": "home"
+        }
+    },
+    "retroarch": {
+        "id": "retroarch",
+        "name": "RetroARch",
+        "type": "Frontend",
+        "provides": [
+            "emulators",
+            "platforms"
+        ],
+        "description": "Cross-platform, sophisticated frontend for the libretro API.",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+            "https://www.libretro.com/": "home",
+            "https://github.com/libretro/RetroArch": "repo"
+        }
+    },
+    "emulationstation": {
+        "id": "emulationstation",
+        "name": "EmulationStation",
+        "type": "Frontend",
+        "provides": [
+            "emulators",
+            "platforms"
+        ],
+        "description": "A flexible emulator front-end supporting keyboardless navigation and custom system themes.",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+            "https://emulationstation.org/": "home",
+            "https://github.com/Aloshi/EmulationStation": "repo"
         }
     },
     "": {

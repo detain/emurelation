@@ -92,7 +92,6 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
   - Frontends
     - HyperSpin
     - EmulationStation
-    - EmulationStation-Desktop Edition
     - RetroArch
     - RetroBat
     - RecalBox
