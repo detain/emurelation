@@ -385,6 +385,21 @@
             "https://github.com/Aloshi/EmulationStation": "repo"
         }
     },
+    "local": {
+        "id": "local",
+        "name": "Local",
+        "type": "Custom",
+        "provides": [
+            "emulators",
+            "companies",
+            "platforms",
+            "games"
+        ],
+        "description": "Local/Main/Master List which linkes all other types",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": []
+    },
     "": {
         "id": "",
         "name": "",
