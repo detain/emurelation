@@ -1,7 +1,7 @@
 {
     "platforms": {
         "8-Bit Productions Commander X16": {
-           "id": "8-Bit Productions Commander X16",
+            "id": "8-Bit Productions Commander X16",
             "name": "8-Bit Productions Commander X16",
             "matches": {
                 "tosec": [
@@ -163,7 +163,8 @@
                 "tosecpix": [
                     "APF PeCos One - Manuals - Hardware"
                 ]
-            }
+            },
+            "company": "APF"
         },
         "AT&T 3B20": {
             "id": "AT&T 3B20",
@@ -199,7 +200,8 @@
                 "mame": [
                     "bbc_flop_32016"
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn 6502": {
             "id": "Acorn 6502",
@@ -208,12 +210,14 @@
                 "mame": [
                     "bbc_flop_6502"
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn 65C102": {
             "id": "Acorn 65C102",
             "name": "Acorn 65C102",
-            "matches": []
+            "matches": [],
+            "company": "Acorn"
         },
         "Acorn 80186": {
             "id": "Acorn 80186",
@@ -222,7 +226,8 @@
                 "mame": [
                     "bbc_flop_80186"
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn ARM": {
             "id": "Acorn ARM",
@@ -231,7 +236,8 @@
                 "mame": [
                     "bbc_flop_arm"
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn Archimedes": {
             "id": "Acorn Archimedes",
@@ -418,7 +424,8 @@
                     850,
                     989
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn BBC Micro": {
             "id": "Acorn BBC Micro",
@@ -438,7 +445,8 @@
                 "screenscraper": [
                     37
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn Electron": {
             "id": "Acorn Electron",
@@ -497,7 +505,8 @@
                 "mame": [
                     "e01_flop"
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn FileStore E01": {
             "id": "Acorn FileStore E01",
@@ -506,7 +515,8 @@
                 "tosec": [
                     "Acorn FileStore E01 - System"
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn Risc PC": {
             "id": "Acorn Risc PC",
@@ -534,7 +544,8 @@
                     "Acorn System 1 - Manuals - Hardware",
                     "Acorn System 1 - Manuals - Technical"
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Acorn Z80": {
             "id": "Acorn Z80",
@@ -543,7 +554,8 @@
                 "mame": [
                     "bbc_flop_z80"
                 ]
-            }
+            },
+            "company": "Acorn"
         },
         "Advanced Computer Design PDQ-3": {
             "id": "Advanced Computer Design PDQ-3",
@@ -717,7 +729,8 @@
                 "emulationstation-de": [
                     "gx4000"
                 ]
-            }
+            },
+            "company": "Amstrad"
         },
         "Amstrad GX4000": {
             "id": "Amstrad GX4000",
@@ -751,7 +764,8 @@
                 "mame": [
                     "megapc"
                 ]
-            }
+            },
+            "company": "Amstrad"
         },
         "Amstrad NC-100": {
             "id": "Amstrad NC-100",
@@ -781,7 +795,8 @@
                     "pc1512_flop",
                     "pc1512_hdd"
                 ]
-            }
+            },
+            "company": "Amstrad"
         },
         "Amstrad PC1640": {
             "id": "Amstrad PC1640",
@@ -791,7 +806,8 @@
                     "pc1640_flop",
                     "pc1640_hdd"
                 ]
-            }
+            },
+            "company": "Amstrad"
         },
         "Amstrad PCW": {
             "id": "Amstrad PCW",
@@ -810,7 +826,8 @@
                 "emucontrolcenter": [
                     "pcw"
                 ]
-            }
+            },
+            "company": "Amstrad"
         },
         "Amstrad PCW16": {
             "id": "Amstrad PCW16",
@@ -819,7 +836,8 @@
                 "mame": [
                     "pcw16"
                 ]
-            }
+            },
+            "company": "Amstrad"
         },
         "Apogee BK-01": {
             "id": "Apogee BK-01",
@@ -1086,7 +1104,8 @@
                 "emucontrolcenter": [
                     "apple3"
                 ]
-            }
+            },
+            "company": "Apple"
         },
         "Apple IIe": {
             "id": "Apple IIe",
@@ -1120,7 +1139,8 @@
                 "emucontrolcenter": [
                     "lisa"
                 ]
-            }
+            },
+            "company": "Apple"
         },
         "Apple Macintosh": {
             "id": "Apple Macintosh",
@@ -1205,7 +1225,8 @@
                 "tgdb": [
                     4915
                 ]
-            }
+            },
+            "company": "Apple"
         },
         "Apple iPad": {
             "id": "Apple iPad",
@@ -1217,7 +1238,8 @@
                 "tosecpix": [
                     "Apple iPad - Books"
                 ]
-            }
+            },
+            "company": "Apple"
         },
         "Applied Technology MicroBee": {
             "id": "Applied Technology MicroBee",
@@ -1320,7 +1342,8 @@
                 "emulationstation-de": [
                     "atari2600"
                 ]
-            }
+            },
+            "company": "Atari"
         },
         "Atari 2600 & VCS": {
             "id": "Atari 2600 & VCS",
@@ -1335,7 +1358,8 @@
                 "oldcomputers": [
                     76
                 ]
-            }
+            },
+            "company": "Atari"
         },
         "Atari 400 / 800": {
             "id": "Atari 400 / 800",
@@ -1345,7 +1369,8 @@
                     "a800_flop",
                     "a800_cass"
                 ]
-            }
+            },
+            "company": "Atari"
         },
         "Atari 5200": {
             "id": "Atari 5200",
@@ -1518,7 +1543,8 @@
                 "emulationstation-de": [
                     "atari800"
                 ]
-            }
+            },
+            "company": "Atari"
         },
         "Atari Jaguar": {
             "id": "Atari Jaguar",
@@ -1675,7 +1701,8 @@
                     1271,
                     1346
                 ]
-            }
+            },
+            "company": "Atari"
         },
         "Atari Portfolio": {
             "id": "Atari Portfolio",
@@ -1687,7 +1714,8 @@
                 "oldcomputers": [
                     356
                 ]
-            }
+            },
+            "company": "Atari"
         },
         "Atari ST": {
             "id": "Atari ST",
@@ -1796,7 +1824,8 @@
                 "emulationstation-de": [
                     "atarixe"
                 ]
-            }
+            },
+            "company": "Atari"
         },
         "Atari XEGS": {
             "id": "Atari XEGS",
@@ -1805,7 +1834,8 @@
                 "launchbox": [
                     "Atari XEGS"
                 ]
-            }
+            },
+            "company": "Atari"
         },
         "Aussie Byte II": {
             "id": "Aussie Byte II",
@@ -1925,7 +1955,8 @@
                     "bdesignm_game_cart",
                     "bdesignm_design_cart"
                 ]
-            }
+            },
+            "company": "Bandai"
         },
         "Bandai Design Master Denshi Mangajuku": {
             "id": "Bandai Design Master Denshi Mangajuku",
@@ -1958,7 +1989,8 @@
                 "mame": [
                     "bkrankp_cart"
                 ]
-            }
+            },
+            "company": "Bandai"
         },
         "Bandai Pippin": {
             "id": "Bandai Pippin",
@@ -1977,7 +2009,8 @@
                     "Apple-Bandai - Pippin (Floppies)",
                     "Non-Redump - Apple-Bandai - Pippin"
                 ]
-            }
+            },
+            "company": "Bandai"
         },
         "Bandai Pippin @World & Pippin Atmark": {
             "id": "Bandai Pippin @World & Pippin Atmark",
@@ -2018,7 +2051,8 @@
                     "Bandai Playdia - Games - [IMG]",
                     "Bandai Playdia - Games - [ISO]"
                 ]
-            }
+            },
+            "company": "Bandai"
         },
         "Bandai Super Note Club": {
             "id": "Bandai Super Note Club",
@@ -2027,7 +2061,8 @@
                 "mame": [
                     "snotec"
                 ]
-            }
+            },
+            "company": "Bandai"
         },
         "Bandai Super Vision 8000": {
             "id": "Bandai Super Vision 8000",
@@ -2285,7 +2320,8 @@
                 "emucontrolcenter": [
                     "comx35"
                 ]
-            }
+            },
+            "company": "COMX"
         },
         "Cadaco Buzztime Trivia": {
             "id": "Cadaco Buzztime Trivia",
@@ -2384,7 +2420,8 @@
                 "screenscraper": [
                     8
                 ]
-            }
+            },
+            "company": "Capcom"
         },
         "Capcom Capcom Play System 1": {
             "id": "Capcom Capcom Play System 1",
@@ -2416,7 +2453,8 @@
                 "mame": [
                     "casio_rompack"
                 ]
-            }
+            },
+            "company": "Casio"
         },
         "Casio CFX-9850": {
             "id": "Casio CFX-9850",
@@ -2425,7 +2463,8 @@
                 "tosec": [
                     "Casio CFX-9850 - Various"
                 ]
-            }
+            },
+            "company": "Casio"
         },
         "Casio FP-1000 & FP-1100": {
             "id": "Casio FP-1000 & FP-1100",
@@ -2491,7 +2530,8 @@
                 "mame": [
                     "pb2000c"
                 ]
-            }
+            },
+            "company": "Casio"
         },
         "Casio PV-1000": {
             "id": "Casio PV-1000",
@@ -2625,7 +2665,8 @@
                 "emucontrolcenter": [
                     "adam"
                 ]
-            }
+            },
+            "company": "Coleco"
         },
         "Coleco ColecoVision": {
             "id": "Coleco ColecoVision",
@@ -2689,7 +2730,8 @@
                 "mame": [
                     "quizwiz"
                 ]
-            }
+            },
+            "company": "Coleco"
         },
         "Coleco Telstar Arcade": {
             "id": "Coleco Telstar Arcade",
@@ -2701,7 +2743,8 @@
                 "oldcomputers": [
                     661
                 ]
-            }
+            },
+            "company": "Coleco"
         },
         "Coleco Total Control 4": {
             "id": "Coleco Total Control 4",
@@ -2710,7 +2753,8 @@
                 "mame": [
                     "tc4"
                 ]
-            }
+            },
+            "company": "Coleco"
         },
         "Commodore 128": {
             "id": "Commodore 128",
@@ -2730,7 +2774,8 @@
                 "emucontrolcenter": [
                     "c128"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore 64": {
             "id": "Commodore 64",
@@ -3234,7 +3279,8 @@
                 "mame": [
                     "c65_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore 8096": {
             "id": "Commodore 8096",
@@ -3243,7 +3289,8 @@
                 "mame": [
                     "cbm8096_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore 8296": {
             "id": "Commodore 8296",
@@ -3252,7 +3299,8 @@
                 "mame": [
                     "cbm8296_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore Amiga": {
             "id": "Commodore Amiga",
@@ -3438,7 +3486,8 @@
                 "oldcomputers": [
                     28
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore Amiga 3000": {
             "id": "Commodore Amiga 3000",
@@ -3450,7 +3499,8 @@
                 "oldcomputers": [
                     30
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore Amiga AGA": {
             "id": "Commodore Amiga AGA",
@@ -3459,7 +3509,8 @@
                 "mame": [
                     "amigaaga_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore Amiga CD": {
             "id": "Commodore Amiga CD",
@@ -3471,7 +3522,8 @@
                 "screenscraper": [
                     134
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore Amiga CD32": {
             "id": "Commodore Amiga CD32",
@@ -3603,7 +3655,8 @@
                 "mame": [
                     "amigaecs_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore Amiga OCS": {
             "id": "Commodore Amiga OCS",
@@ -3612,7 +3665,8 @@
                 "mame": [
                     "amigaocs_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore BX256-80HP": {
             "id": "Commodore BX256-80HP",
@@ -3622,7 +3676,8 @@
                     "Commodore BX256-80HP - Applications",
                     "Commodore BX256-80HP - Operating Systems"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore BX256-80HP - CBM 730": {
             "id": "Commodore BX256-80HP - CBM 730",
@@ -3631,7 +3686,8 @@
                 "mame": [
                     "bx256hp_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore C128": {
             "id": "Commodore C128",
@@ -4165,7 +4221,8 @@
                 "oldcomputers": [
                     273
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore CBM-II": {
             "id": "Commodore CBM-II",
@@ -4175,7 +4232,8 @@
                     "cbm2_cart",
                     "cbm2_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore MAX Machine": {
             "id": "Commodore MAX Machine",
@@ -4187,7 +4245,8 @@
                 "tosec": [
                     "Commodore MAX Machine & VIC10 - Games"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore MAX Machine & VIC10": {
             "id": "Commodore MAX Machine & VIC10",
@@ -4202,7 +4261,8 @@
                 "mame": [
                     "p500_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore PET": {
             "id": "Commodore PET",
@@ -4304,7 +4364,8 @@
                 "screenscraper": [
                     99
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore SuperPET - MMF 9000": {
             "id": "Commodore SuperPET - MMF 9000",
@@ -4313,7 +4374,8 @@
                 "mame": [
                     "superpet_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore VIC-10": {
             "id": "Commodore VIC-10",
@@ -4322,7 +4384,8 @@
                 "mame": [
                     "vic10"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore VIC-1001 - VIC-20": {
             "id": "Commodore VIC-1001 - VIC-20",
@@ -4333,7 +4396,8 @@
                     "vic1001_cass",
                     "vic1001_flop"
                 ]
-            }
+            },
+            "company": "Commodore"
         },
         "Commodore VIC-20": {
             "id": "Commodore VIC-20",
@@ -4570,7 +4634,8 @@
                 "tosec": [
                     "DEC AlphaServer - System"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "DEC DECPx AXP 150": {
             "id": "DEC DECPx AXP 150",
@@ -4579,7 +4644,8 @@
                 "tosec": [
                     "DEC DECPx AXP 150 - System"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "DEC PDP-1": {
             "id": "DEC PDP-1",
@@ -4607,7 +4673,8 @@
                     "DEC PDP-10 - Collections - DEC",
                     "DEC PDP-10 - Collections - MainDEC"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "DEC PDP-11": {
             "id": "DEC PDP-11",
@@ -4629,7 +4696,8 @@
                     "DEC PDP-12 - Collections - MainDEC - [BIN]",
                     "DEC PDP-12 - Collections - MainDEC - [PTP]"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "DEC PDP-15": {
             "id": "DEC PDP-15",
@@ -4639,7 +4707,8 @@
                     "DEC PDP-15 - Collections - DEC",
                     "DEC PDP-15 - Collections - MainDEC"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "DEC PDP-7": {
             "id": "DEC PDP-7",
@@ -4652,7 +4721,8 @@
                 "emucontrolcenter": [
                     "pdp7"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "DEC PDP-8": {
             "id": "DEC PDP-8",
@@ -4690,7 +4760,8 @@
                 "tosec": [
                     "DEC PDP-9 - Collections - DEC"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "DEC Rainbow 100": {
             "id": "DEC Rainbow 100",
@@ -4703,7 +4774,8 @@
                 "mame": [
                     "rainbow"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "DEC VT-180": {
             "id": "DEC VT-180",
@@ -4713,7 +4785,8 @@
                     "DEC VT-180 - Applications",
                     "DEC VT-180 - Operating Systems"
                 ]
-            }
+            },
+            "company": "DEC"
         },
         "Data Applications International DAI Personal Computer": {
             "id": "Data Applications International DAI Personal Computer",
@@ -4734,7 +4807,8 @@
                     "super80_flop",
                     "super80_cass"
                 ]
-            }
+            },
+            "company": "Dick Smith"
         },
         "Dick Smith Super-80, Super-80D, Super-80E & Super-80M": {
             "id": "Dick Smith Super-80, Super-80D, Super-80E & Super-80M",
@@ -4766,7 +4840,8 @@
                     "Dick Smith System 80 - Manuals - Hardware",
                     "Dick Smith System 80 - Manuals - Technical"
                 ]
-            }
+            },
+            "company": "Dick Smith"
         },
         "Dick Smith VZ-200-300": {
             "id": "Dick Smith VZ-200-300",
@@ -4776,7 +4851,8 @@
                     "vz_cass",
                     "vz_snap"
                 ]
-            }
+            },
+            "company": "Dick Smith"
         },
         "Didact Esselte 100": {
             "id": "Didact Esselte 100",
@@ -4903,7 +4979,8 @@
                     "cgenie_flop_rom",
                     "cgenie_cass"
                 ]
-            }
+            },
+            "company": "EACA"
         },
         "EACA EG2000 Colour Genie": {
             "id": "EACA EG2000 Colour Genie",
@@ -5025,7 +5102,8 @@
                 "screenscraper": [
                     93
                 ]
-            }
+            },
+            "company": "Elektronika"
         },
         "Elektronika BK-0010-0011M": {
             "id": "Elektronika BK-0010-0011M",
@@ -5064,7 +5142,8 @@
                 "mame": [
                     "mc1502_flop"
                 ]
-            }
+            },
+            "company": "Elektronika"
         },
         "Elektronska Industrija Nis PECOM 32 & 64": {
             "id": "Elektronska Industrija Nis PECOM 32 & 64",
@@ -5202,7 +5281,8 @@
                 "mame": [
                     "entex_sag"
                 ]
-            }
+            },
+            "company": "Entex"
         },
         "Epoch Cassette Vision": {
             "id": "Epoch Cassette Vision",
@@ -5214,7 +5294,8 @@
                 "oldcomputers": [
                     792
                 ]
-            }
+            },
+            "company": "Epoch"
         },
         "Epoch Game Pocket Computer": {
             "id": "Epoch Game Pocket Computer",
@@ -5275,7 +5356,8 @@
                 "mame": [
                     "epson_cpm"
                 ]
-            }
+            },
+            "company": "Epson"
         },
         "Epson HX-20 Optional": {
             "id": "Epson HX-20 Optional",
@@ -5284,7 +5366,8 @@
                 "mame": [
                     "hx20_rom"
                 ]
-            }
+            },
+            "company": "Epson"
         },
         "Epson PX-4 & HC-40": {
             "id": "Epson PX-4 & HC-40",
@@ -5399,7 +5482,8 @@
                 "emucontrolcenter": [
                     "exl100"
                 ]
-            }
+            },
+            "company": "Exelvision"
         },
         "Exelvision Exeltel": {
             "id": "Exelvision Exeltel",
@@ -5490,7 +5574,8 @@
                 "emulationstation-de": [
                     "channelf"
                 ]
-            }
+            },
+            "company": "Fairchild"
         },
         "Fairchild VES & Channel F": {
             "id": "Fairchild VES & Channel F",
@@ -5753,7 +5838,8 @@
                     "Fujitsu FM77-AV - Games - [RAW]",
                     "Fujitsu FM77-AV - Games - [TD0]"
                 ]
-            }
+            },
+            "company": "Fujitsu"
         },
         "Fujitsu FM77-AV": {
             "id": "Fujitsu FM77-AV",
@@ -5807,7 +5893,8 @@
                 "screenscraper": [
                     100
                 ]
-            }
+            },
+            "company": "Funtech"
         },
         "Future Pinball": {
             "id": "Future Pinball",
@@ -5893,7 +5980,8 @@
                     330,
                     385
                 ]
-            }
+            },
+            "company": "Galaksija"
         },
         "Galaksija Galaksija": {
             "id": "Galaksija Galaksija",
@@ -5918,7 +6006,8 @@
                 "emucontrolcenter": [
                     "galplus"
                 ]
-            }
+            },
+            "company": "Galaksija"
         },
         "GamePark GP2X": {
             "id": "GamePark GP2X",
@@ -6449,7 +6538,8 @@
                 "tosec": [
                     "Hewlett-Packard 4951C & 4952A - Applications"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP 9825B": {
             "id": "Hewlett-Packard HP 9825B",
@@ -6458,7 +6548,8 @@
                 "mame": [
                     "hp9825b_rom"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP 9845A-S": {
             "id": "Hewlett-Packard HP 9845A-S",
@@ -6467,7 +6558,8 @@
                 "mame": [
                     "hp9845a_rom"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP 9845B-T-C": {
             "id": "Hewlett-Packard HP 9845B-T-C",
@@ -6476,7 +6568,8 @@
                 "mame": [
                     "hp9845b_rom"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP Integral PC": {
             "id": "Hewlett-Packard HP Integral PC",
@@ -6486,7 +6579,8 @@
                     "hp_ipc",
                     "hp_ipc_rom"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP-86/7": {
             "id": "Hewlett-Packard HP-86/7",
@@ -6495,7 +6589,8 @@
                 "mame": [
                     "hp86_rom"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP48": {
             "id": "Hewlett-Packard HP48",
@@ -6505,7 +6600,8 @@
                     "Hewlett-Packard HP48 - Firmware",
                     "Hewlett-Packard HP48 - Various"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP49": {
             "id": "Hewlett-Packard HP49",
@@ -6515,7 +6611,8 @@
                     "Hewlett-Packard HP49 - Firmware",
                     "Hewlett-Packard HP49 - Various"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP85": {
             "id": "Hewlett-Packard HP85",
@@ -6530,7 +6627,8 @@
                 "oldcomputers": [
                     353
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP9000-300": {
             "id": "Hewlett-Packard HP9000-300",
@@ -6541,7 +6639,8 @@
                     "hp9k3xx_cdrom",
                     "hp9k3xx_hdd"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hewlett-Packard HP9835A-B": {
             "id": "Hewlett-Packard HP9835A-B",
@@ -6553,7 +6652,8 @@
                 "mame": [
                     "hp9835a_rom"
                 ]
-            }
+            },
+            "company": "Hewlett-Packard"
         },
         "Hitachi S1": {
             "id": "Hitachi S1",
@@ -6590,7 +6690,8 @@
                 "oldcomputers": [
                     1095
                 ]
-            }
+            },
+            "company": "HomeLab"
         },
         "HomeLab BraiLab": {
             "id": "HomeLab BraiLab",
@@ -6638,7 +6739,8 @@
                     "IBM Displaywriter - Miscellaneous",
                     "IBM Displaywriter - Operating Systems"
                 ]
-            }
+            },
+            "company": "IBM"
         },
         "IBM PC 5140 Convertible": {
             "id": "IBM PC 5140 Convertible",
@@ -6647,7 +6749,8 @@
                 "mame": [
                     "ibm5140"
                 ]
-            }
+            },
+            "company": "IBM"
         },
         "IBM PC Compatibles": {
             "id": "IBM PC Compatibles",
@@ -6803,7 +6906,8 @@
                     "IBM PC Compatibles - CD - Operating Systems",
                     "IBM PC Compatibles - CD - Samplers"
                 ]
-            }
+            },
+            "company": "IBM"
         },
         "IBM PC-AT": {
             "id": "IBM PC-AT",
@@ -6814,7 +6918,8 @@
                     "ibm5170_hdd",
                     "ibm5170"
                 ]
-            }
+            },
+            "company": "IBM"
         },
         "IBM PC-XT": {
             "id": "IBM PC-XT",
@@ -6823,7 +6928,8 @@
                 "mame": [
                     "ibm5150_cass"
                 ]
-            }
+            },
+            "company": "IBM"
         },
         "IBM PCjr": {
             "id": "IBM PCjr",
@@ -6861,7 +6967,8 @@
                     "IBM System-360 - Applications",
                     "IBM System-360 - Operating Systems"
                 ]
-            }
+            },
+            "company": "IBM"
         },
         "ITT 3030": {
             "id": "ITT 3030",
@@ -7139,7 +7246,8 @@
         "Kaypro 4/84": {
             "id": "Kaypro 4/84",
             "name": "Kaypro 4/84",
-            "matches": []
+            "matches": [],
+            "company": "Kaypro"
         },
         "Kaypro II": {
             "id": "Kaypro II",
@@ -7205,7 +7313,8 @@
                 "redump": [
                     "Arcade - Konami - FireBeat"
                 ]
-            }
+            },
+            "company": "Konami"
         },
         "Konami Picno": {
             "id": "Konami Picno",
@@ -7237,7 +7346,8 @@
                 "redump": [
                     "Arcade - Konami - System GV"
                 ]
-            }
+            },
+            "company": "Konami"
         },
         "Konami e-Amusement": {
             "id": "Konami e-Amusement",
@@ -7246,7 +7356,8 @@
                 "redump": [
                     "Arcade - Konami - e-Amusement"
                 ]
-            }
+            },
+            "company": "Konami"
         },
         "Kontron PSI98": {
             "id": "Kontron PSI98",
@@ -7283,7 +7394,8 @@
                 "mame": [
                     "clickstart_cart"
                 ]
-            }
+            },
+            "company": "LeapFrog"
         },
         "LeapFrog Didj": {
             "id": "LeapFrog Didj",
@@ -7295,7 +7407,8 @@
                 "mame": [
                     "leapfrog_didj_cart"
                 ]
-            }
+            },
+            "company": "LeapFrog"
         },
         "LeapFrog LeapPad": {
             "id": "LeapFrog LeapPad",
@@ -7338,7 +7451,8 @@
                 "mame": [
                     "leapfrog_ltleappad_cart"
                 ]
-            }
+            },
+            "company": "LeapFrog"
         },
         "LeapFrog My First LeapPad": {
             "id": "LeapFrog My First LeapPad",
@@ -7347,7 +7461,8 @@
                 "mame": [
                     "leapfrog_mfleappad_cart"
                 ]
-            }
+            },
+            "company": "LeapFrog"
         },
         "Luxor ABC 1600": {
             "id": "Luxor ABC 1600",
@@ -7359,7 +7474,8 @@
                 "mame": [
                     "abc1600_flop"
                 ]
-            }
+            },
+            "company": "Luxor"
         },
         "Luxor ABC 80": {
             "id": "Luxor ABC 80",
@@ -7430,7 +7546,8 @@
                 "mame": [
                     "abc806"
                 ]
-            }
+            },
+            "company": "Luxor"
         },
         "Luxor Video Entertainment System": {
             "id": "Luxor Video Entertainment System",
@@ -7578,7 +7695,8 @@
                 "tosecpix": [
                     "MSX Palcom - Manuals - Games"
                 ]
-            }
+            },
+            "company": "MSX"
         },
         "MSX TurboR": {
             "id": "MSX TurboR",
@@ -7603,7 +7721,8 @@
                     "Magnavox Odyssey - Manuals - Hardware",
                     "Magnavox Odyssey - Manuals - Software"
                 ]
-            }
+            },
+            "company": "Magnavox"
         },
         "Magnavox Odyssey 2": {
             "id": "Magnavox Odyssey 2",
@@ -7646,7 +7765,8 @@
                     "odyssey2",
                     "videopac"
                 ]
-            }
+            },
+            "company": "Magnavox"
         },
         "Manfred Kramer Kramer-MC": {
             "id": "Manfred Kramer Kramer-MC",
@@ -7761,7 +7881,8 @@
                 "redump": [
                     "Mattel - Fisher-Price iXL"
                 ]
-            }
+            },
+            "company": "Mattel"
         },
         "Mattel HyperScan": {
             "id": "Mattel HyperScan",
@@ -7863,7 +7984,8 @@
                 "mame": [
                     "juicebox"
                 ]
-            }
+            },
+            "company": "Mattel"
         },
         "Megatel Quark": {
             "id": "Megatel Quark",
@@ -7932,7 +8054,8 @@
                     "mtx_rom",
                     "mtx_hdd"
                 ]
-            }
+            },
+            "company": "Memotech"
         },
         "Mephisto MM I": {
             "id": "Mephisto MM I",
@@ -8050,7 +8173,8 @@
                 "emulationstation-de": [
                     "dos"
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microsoft MSX": {
             "id": "Microsoft MSX",
@@ -8119,7 +8243,8 @@
                     "msx1",
                     "msx2"
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microsoft MSX Turbo-R": {
             "id": "Microsoft MSX Turbo-R",
@@ -8145,7 +8270,8 @@
                 "emulationstation-de": [
                     "msxturbor"
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microsoft MSX2": {
             "id": "Microsoft MSX2",
@@ -8180,7 +8306,8 @@
                 "screenscraper": [
                     116
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microsoft MSX2+": {
             "id": "Microsoft MSX2+",
@@ -8201,7 +8328,8 @@
                 "screenscraper": [
                     117
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microsoft Operating Systems": {
             "id": "Microsoft Operating Systems",
@@ -8219,7 +8347,8 @@
                 "screenscraper": [
                     138
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microsoft Windows 3.X": {
             "id": "Microsoft Windows 3.X",
@@ -8228,7 +8357,8 @@
                 "launchbox": [
                     "Windows 3.X"
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microsoft Xbox": {
             "id": "Microsoft Xbox",
@@ -8339,7 +8469,8 @@
                 "emucontrolcenter": [
                     "xboxone"
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microsoft Xbox Series X": {
             "id": "Microsoft Xbox Series X",
@@ -8354,7 +8485,8 @@
                 "nointro": [
                     "Non-Redump - Microsoft - Xbox Series X"
                 ]
-            }
+            },
+            "company": "Microsoft"
         },
         "Microtan 65": {
             "id": "Microtan 65",
@@ -8498,7 +8630,8 @@
                 "oldcomputers": [
                     333
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC Engine CD & TurboGrafx CD": {
             "id": "NEC PC Engine CD & TurboGrafx CD",
@@ -8507,7 +8640,8 @@
                 "redump": [
                     "NEC - PC Engine CD & TurboGrafx CD"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC Engine SuperGrafx": {
             "id": "NEC PC Engine SuperGrafx",
@@ -8531,7 +8665,8 @@
                 "emulationstation-de": [
                     "supergrafx"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC-6001": {
             "id": "NEC PC-6001",
@@ -8570,7 +8705,8 @@
                     "pc8001mk2_flop",
                     "pc8001mk2sr_flop"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC-8201": {
             "id": "NEC PC-8201",
@@ -8582,7 +8718,8 @@
                 "mame": [
                     "pc8201"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC-88": {
             "id": "NEC PC-88",
@@ -8607,7 +8744,8 @@
                 "emulationstation-de": [
                     "pc88"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC-8801": {
             "id": "NEC PC-8801",
@@ -8680,7 +8818,8 @@
                 "emulationstation-de": [
                     "pc98"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC-9801": {
             "id": "NEC PC-9801",
@@ -8733,7 +8872,8 @@
                 "emucontrolcenter": [
                     "pce"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC-Engine & TurboGrafx-16": {
             "id": "NEC PC-Engine & TurboGrafx-16",
@@ -8825,7 +8965,8 @@
                 "redump": [
                     "NEC - PC-FX & PC-FXGA"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC PC-FXGA": {
             "id": "NEC PC-FXGA",
@@ -8864,7 +9005,8 @@
                     "pcenginecd",
                     "tg-cd"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "NEC Turbografx 16": {
             "id": "NEC Turbografx 16",
@@ -8889,7 +9031,8 @@
                     "pcengine",
                     "tg16"
                 ]
-            }
+            },
+            "company": "NEC"
         },
         "Namco System 22": {
             "id": "Namco System 22",
@@ -9240,7 +9383,8 @@
                     "famicom",
                     "nes"
                 ]
-            }
+            },
+            "company": "Nintendo"
         },
         "Nintendo Famicom": {
             "id": "Nintendo Famicom",
@@ -9279,7 +9423,8 @@
                 "emulationstation-de": [
                     "fds"
                 ]
-            }
+            },
+            "company": "Nintendo"
         },
         "Nintendo Family Computer Disk System": {
             "id": "Nintendo Family Computer Disk System",
@@ -9313,7 +9458,8 @@
                 "emulationstation-de": [
                     "gameandwatch"
                 ]
-            }
+            },
+            "company": "Nintendo"
         },
         "Nintendo Game Boy": {
             "id": "Nintendo Game Boy",
@@ -9617,7 +9763,8 @@
                 "toseciso": [
                     "Nintendo Super Famicom & Super Entertainment System - Voicer-kun Audio CDs"
                 ]
-            }
+            },
+            "company": "Nintendo"
         },
         "Nintendo Super Nintendo Entertainment System": {
             "id": "Nintendo Super Nintendo Entertainment System",
@@ -9798,7 +9945,8 @@
                 "emulationstation-de": [
                     "wiiu"
                 ]
-            }
+            },
+            "company": "Nintendo"
         },
         "Nintendo Wii-U": {
             "id": "Nintendo Wii-U",
@@ -9925,7 +10073,8 @@
                     "OCC Osborne 1 & Osborne Executive - Games - [DSK]",
                     "OCC Osborne 1 & Osborne Executive - Various"
                 ]
-            }
+            },
+            "company": "OCC"
         },
         "OCC Osborne 4 Vixen": {
             "id": "OCC Osborne 4 Vixen",
@@ -9934,7 +10083,8 @@
                 "mame": [
                     "vixen"
                 ]
-            }
+            },
+            "company": "OCC"
         },
         "OCC Osborne-1": {
             "id": "OCC Osborne-1",
@@ -9943,7 +10093,8 @@
                 "mame": [
                     "osborne1"
                 ]
-            }
+            },
+            "company": "OCC"
         },
         "Oh! MZ S-OS": {
             "id": "Oh! MZ S-OS",
@@ -9994,7 +10145,8 @@
                 "oldcomputers": [
                     535
                 ]
-            }
+            },
+            "company": "Olivetti"
         },
         "Olivetti Prodest PC 128": {
             "id": "Olivetti Prodest PC 128",
@@ -10008,7 +10160,8 @@
                 "oldcomputers": [
                     853
                 ]
-            }
+            },
+            "company": "Olivetti"
         },
         "Olivetti Prodest PC 128S": {
             "id": "Olivetti Prodest PC 128S",
@@ -10020,7 +10173,8 @@
                 "oldcomputers": [
                     1055
                 ]
-            }
+            },
+            "company": "Olivetti"
         },
         "Ondra & Ondra ViLi": {
             "id": "Ondra & Ondra ViLi",
@@ -10203,7 +10357,8 @@
                 "mame": [
                     "jb3000_flop"
                 ]
-            }
+            },
+            "company": "Panasonic"
         },
         "Partner-01.01": {
             "id": "Partner-01.01",
@@ -10340,7 +10495,8 @@
                 "mame": [
                     "videopac"
                 ]
-            }
+            },
+            "company": "Philips"
         },
         "Philips Videopac+": {
             "id": "Philips Videopac+",
@@ -10511,7 +10667,8 @@
                 "oldcomputers": [
                     543
                 ]
-            }
+            },
+            "company": "RCA"
         },
         "RM Nimbus PC": {
             "id": "RM Nimbus PC",
@@ -10560,7 +10717,8 @@
                 "emucontrolcenter": [
                     "r86rk"
                 ]
-            }
+            },
+            "company": "Radio-86RK"
         },
         "Radio-86RK Apogej BK-01": {
             "id": "Radio-86RK Apogej BK-01",
@@ -10569,7 +10727,8 @@
                 "tosec": [
                     "Radio-86RK Apogej BK-01 - Various"
                 ]
-            }
+            },
+            "company": "Radio-86RK"
         },
         "Radio-86RK Mikro-80": {
             "id": "Radio-86RK Mikro-80",
@@ -10599,7 +10758,8 @@
                 "screenscraper": [
                     124
                 ]
-            }
+            },
+            "company": "Radio-86RK"
         },
         "Radio-86RK Partner-01.01": {
             "id": "Radio-86RK Partner-01.01",
@@ -10608,7 +10768,8 @@
                 "tosec": [
                     "Radio-86RK Partner-01.01 - Various"
                 ]
-            }
+            },
+            "company": "Radio-86RK"
         },
         "Radio-86RK YuT-88": {
             "id": "Radio-86RK YuT-88",
@@ -10617,7 +10778,8 @@
                 "tosec": [
                     "Radio-86RK YuT-88 - Various"
                 ]
-            }
+            },
+            "company": "Radio-86RK"
         },
         "Raytheon 704": {
             "id": "Raytheon 704",
@@ -10679,7 +10841,8 @@
                 "tosec": [
                     "Robotron KC Compact - Various"
                 ]
-            }
+            },
+            "company": "Robotron"
         },
         "Robotron Z1013": {
             "id": "Robotron Z1013",
@@ -10807,7 +10970,8 @@
                 "emulationstation-de": [
                     "neogeo"
                 ]
-            }
+            },
+            "company": "SNK"
         },
         "SNK Neo Geo AES": {
             "id": "SNK Neo Geo AES",
@@ -10825,7 +10989,8 @@
                     "SNK Neo-Geo AES - Manuals - Games",
                     "SNK Neo-Geo AES - Manuals - Hardware"
                 ]
-            }
+            },
+            "company": "SNK"
         },
         "SNK Neo Geo CD": {
             "id": "SNK Neo Geo CD",
@@ -10866,7 +11031,8 @@
                     "neogeocd",
                     "neogeocdjp"
                 ]
-            }
+            },
+            "company": "SNK"
         },
         "SNK Neo Geo MVS": {
             "id": "SNK Neo Geo MVS",
@@ -10879,7 +11045,8 @@
                 "screenscraper": [
                     68
                 ]
-            }
+            },
+            "company": "SNK"
         },
         "SNK Neo Geo Pocket": {
             "id": "SNK Neo Geo Pocket",
@@ -10913,7 +11080,8 @@
                 "emulationstation-de": [
                     "ngp"
                 ]
-            }
+            },
+            "company": "SNK"
         },
         "SNK Neo Geo Pocket Color": {
             "id": "SNK Neo Geo Pocket Color",
@@ -10952,7 +11120,8 @@
                 "emulationstation-de": [
                     "ngpc"
                 ]
-            }
+            },
+            "company": "SNK"
         },
         "SNK Neo-Geo AES": {
             "id": "SNK Neo-Geo AES",
@@ -11079,7 +11248,8 @@
                 "mame": [
                     "spc1500_cass"
                 ]
-            }
+            },
+            "company": "Samsung"
         },
         "Sanyo MBC-200-MBC-1200": {
             "id": "Sanyo MBC-200-MBC-1200",
@@ -11088,7 +11258,8 @@
                 "mame": [
                     "mbc200"
                 ]
-            }
+            },
+            "company": "Sanyo"
         },
         "Sanyo MBC-550 & 555": {
             "id": "Sanyo MBC-550 & 555",
@@ -11116,7 +11287,8 @@
                     "Sanyo MBC-550 & 555 - Operating Systems - [DSK]",
                     "Sanyo MBC-550 & 555 - Operating Systems - [IMA]"
                 ]
-            }
+            },
+            "company": "Sanyo"
         },
         "Sega 32X": {
             "id": "Sega 32X",
@@ -11229,7 +11401,8 @@
                     "megacdjp",
                     "segacd"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega CD 32X": {
             "id": "Sega CD 32X",
@@ -11238,7 +11411,8 @@
                 "launchbox": [
                     "Sega CD 32X"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Chihiro": {
             "id": "Sega Chihiro",
@@ -11465,7 +11639,8 @@
                 "mame": [
                     "megadriv"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Hikaru": {
             "id": "Sega Hikaru",
@@ -11477,7 +11652,8 @@
                 "screenscraper": [
                     258
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Lindbergh": {
             "id": "Sega Lindbergh",
@@ -11496,7 +11672,8 @@
                 "mame": [
                     "md2_flop"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Mark III & Master System": {
             "id": "Sega Mark III & Master System",
@@ -11552,7 +11729,8 @@
                     "megacd",
                     "megacdj"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Mega Drive": {
             "id": "Sega Mega Drive",
@@ -11567,7 +11745,8 @@
                 "launchbox": [
                     "Sega Genesis"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Mega Drive & Genesis": {
             "id": "Sega Mega Drive & Genesis",
@@ -11588,7 +11767,8 @@
                 "mame": [
                     "megatech"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Model 1": {
             "id": "Sega Model 1",
@@ -11600,7 +11780,8 @@
                 "emucontrolcenter": [
                     "model1"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Model 2": {
             "id": "Sega Model 2",
@@ -11689,7 +11870,8 @@
                 "screenscraper": [
                     230
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega PICO": {
             "id": "Sega PICO",
@@ -11728,7 +11910,8 @@
                 "emucontrolcenter": [
                     "pico"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Prologue 21": {
             "id": "Sega Prologue 21",
@@ -11737,7 +11920,8 @@
                 "redump": [
                     "Sega - Prologue 21"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega RingEdge": {
             "id": "Sega RingEdge",
@@ -11746,7 +11930,8 @@
                 "redump": [
                     "Arcade - Sega - RingEdge"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega RingEdge 2": {
             "id": "Sega RingEdge 2",
@@ -11755,7 +11940,8 @@
                 "redump": [
                     "Arcade - Sega - RingEdge 2"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega SC-3000": {
             "id": "Sega SC-3000",
@@ -11767,7 +11953,8 @@
                 "emucontrolcenter": [
                     "sc3000"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega SG-1000": {
             "id": "Sega SG-1000",
@@ -11804,7 +11991,8 @@
                 "screenscraper": [
                     69
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Saturn": {
             "id": "Sega Saturn",
@@ -11871,7 +12059,8 @@
                 "mame": [
                     "sawatte"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Super Control Station": {
             "id": "Sega Super Control Station",
@@ -11894,7 +12083,8 @@
                 "mame": [
                     "sf7000"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega System 16": {
             "id": "Sega System 16",
@@ -11906,7 +12096,8 @@
                 "emucontrolcenter": [
                     "s16"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega System 32": {
             "id": "Sega System 32",
@@ -11915,7 +12106,8 @@
                 "launchbox": [
                     "Sega System 32"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Titan Video": {
             "id": "Sega Titan Video",
@@ -11927,7 +12119,8 @@
                 "emucontrolcenter": [
                     "stv"
                 ]
-            }
+            },
+            "company": "Sega"
         },
         "Sega Visual Memory System": {
             "id": "Sega Visual Memory System",
@@ -11988,7 +12181,8 @@
                 "emucontrolcenter": [
                     "mz2000"
                 ]
-            }
+            },
+            "company": "Sharp"
         },
         "Sharp MZ-2200": {
             "id": "Sharp MZ-2200",
@@ -12000,7 +12194,8 @@
                 "nointro": [
                     "Sharp - MZ-2200 (Waveform)"
                 ]
-            }
+            },
+            "company": "Sharp"
         },
         "Sharp MZ-2500": {
             "id": "Sharp MZ-2500",
@@ -12055,7 +12250,8 @@
                     "Sharp MZ-800 & MZ-1500 - Games - [MZT]",
                     "Sharp MZ-800 & MZ-1500 - Games - [WAV]"
                 ]
-            }
+            },
+            "company": "Sharp"
         },
         "Sharp MZ-800 & MZ-1500": {
             "id": "Sharp MZ-800 & MZ-1500",
@@ -12227,7 +12423,8 @@
                 "mame": [
                     "spectrum_microdrive"
                 ]
-            }
+            },
+            "company": "Sinclair"
         },
         "Sinclair ZX Spectrum": {
             "id": "Sinclair ZX Spectrum",
@@ -12452,7 +12649,8 @@
                 "emucontrolcenter": [
                     "zxs"
                 ]
-            }
+            },
+            "company": "Sinclair"
         },
         "Sinclair ZX Spectrum MGT DISCiPLE/+D": {
             "id": "Sinclair ZX Spectrum MGT DISCiPLE/+D",
@@ -12461,7 +12659,8 @@
                 "mame": [
                     "spectrum_mgt_flop"
                 ]
-            }
+            },
+            "company": "Sinclair"
         },
         "Sinclair ZX Spectrum Opus Discovery": {
             "id": "Sinclair ZX Spectrum Opus Discovery",
@@ -12470,7 +12669,8 @@
                 "mame": [
                     "spectrum_flop_opus"
                 ]
-            }
+            },
+            "company": "Sinclair"
         },
         "Sinclair ZX Wafadrive": {
             "id": "Sinclair ZX Wafadrive",
@@ -12479,7 +12679,8 @@
                 "mame": [
                     "spectrum_wafadrive"
                 ]
-            }
+            },
+            "company": "Sinclair"
         },
         "Sinclair ZX-80": {
             "id": "Sinclair ZX-80",
@@ -12494,7 +12695,8 @@
                 "tosec": [
                     "Sinclair ZX80 - Games"
                 ]
-            }
+            },
+            "company": "Sinclair"
         },
         "Sinclair ZX-81": {
             "id": "Sinclair ZX-81",
@@ -12526,7 +12728,8 @@
                 "emulationstation-de": [
                     "zx81"
                 ]
-            }
+            },
+            "company": "Sinclair"
         },
         "Sinclair ZX80": {
             "id": "Sinclair ZX80",
@@ -12738,7 +12941,8 @@
                 "emulationking": [
                     "playstation5"
                 ]
-            }
+            },
+            "company": "Sony"
         },
         "Sony Playstation GameShark": {
             "id": "Sony Playstation GameShark",
@@ -12788,7 +12992,8 @@
                 "emulationstation-de": [
                     "psp"
                 ]
-            }
+            },
+            "company": "Sony"
         },
         "Sony Playstation Vita": {
             "id": "Sony Playstation Vita",
@@ -12825,7 +13030,8 @@
                 "emulationstation-de": [
                     "psvita"
                 ]
-            }
+            },
+            "company": "Sony"
         },
         "Sony PocketStation": {
             "id": "Sony PocketStation",
@@ -12864,7 +13070,8 @@
                 "mame": [
                     "smc777"
                 ]
-            }
+            },
+            "company": "Sony"
         },
         "Sony ZiNc": {
             "id": "Sony ZiNc",
@@ -12876,7 +13083,8 @@
                 "emucontrolcenter": [
                     "zinc"
                 ]
-            }
+            },
+            "company": "Sony"
         },
         "Sord M5": {
             "id": "Sord M5",
@@ -13115,7 +13323,8 @@
                 "mame": [
                     "mc10"
                 ]
-            }
+            },
+            "company": "Tandy Radio Shack"
         },
         "Tandy Radio Shack TRS-80 Model 100": {
             "id": "Tandy Radio Shack TRS-80 Model 100",
@@ -13138,7 +13347,8 @@
                 "tosec": [
                     "Tandy Radio Shack TRS-80 Model 4 - Various"
                 ]
-            }
+            },
+            "company": "Tandy Radio Shack"
         },
         "Tandy Radio Shack TRS-80 Model I": {
             "id": "Tandy Radio Shack TRS-80 Model I",
@@ -13147,7 +13357,8 @@
                 "tosec": [
                     "Tandy Radio Shack TRS-80 Model I - Various"
                 ]
-            }
+            },
+            "company": "Tandy Radio Shack"
         },
         "Tandy Radio Shack TRS-80 Model II": {
             "id": "Tandy Radio Shack TRS-80 Model II",
@@ -13156,7 +13367,8 @@
                 "mame": [
                     "trs80m2"
                 ]
-            }
+            },
+            "company": "Tandy Radio Shack"
         },
         "Tandy Radio Shack TRS-80 Model III": {
             "id": "Tandy Radio Shack TRS-80 Model III",
@@ -13168,7 +13380,8 @@
                 "oldcomputers": [
                     18
                 ]
-            }
+            },
+            "company": "Tandy Radio Shack"
         },
         "Tandy Radio Shack Tandy 1000 series": {
             "id": "Tandy Radio Shack Tandy 1000 series",
@@ -13177,7 +13390,8 @@
                 "mame": [
                     "t1000"
                 ]
-            }
+            },
+            "company": "Tandy Radio Shack"
         },
         "Tandy Radio Shack Tandy 200": {
             "id": "Tandy Radio Shack Tandy 200",
@@ -13186,7 +13400,8 @@
                 "mame": [
                     "tandy200"
                 ]
-            }
+            },
+            "company": "Tandy Radio Shack"
         },
         "Tandy Radio Shack Tandy 2000": {
             "id": "Tandy Radio Shack Tandy 2000",
@@ -13195,7 +13410,8 @@
                 "mame": [
                     "tandy2k"
                 ]
-            }
+            },
+            "company": "Tandy Radio Shack"
         },
         "Tangerine Microtan 65": {
             "id": "Tangerine Microtan 65",
@@ -13497,7 +13713,8 @@
                 "emucontrolcenter": [
                     "pmd85"
                 ]
-            }
+            },
+            "company": "Tesla"
         },
         "Texas Instruments CC-40": {
             "id": "Texas Instruments CC-40",
@@ -13521,7 +13738,8 @@
                 "mame": [
                     "snread"
                 ]
-            }
+            },
+            "company": "Texas Instruments"
         },
         "Texas Instruments Speak & Spell": {
             "id": "Texas Instruments Speak & Spell",
@@ -13530,7 +13748,8 @@
                 "mame": [
                     "snspell"
                 ]
-            }
+            },
+            "company": "Texas Instruments"
         },
         "Texas Instruments TI-73": {
             "id": "Texas Instruments TI-73",
@@ -13561,7 +13780,8 @@
                 "tosec": [
                     "Texas Instruments TI-74 - Cartridges"
                 ]
-            }
+            },
+            "company": "Texas Instruments"
         },
         "Texas Instruments TI-80": {
             "id": "Texas Instruments TI-80",
@@ -13661,7 +13881,8 @@
                 "tosec": [
                     "Texas Instruments TI-89 - Firmware"
                 ]
-            }
+            },
+            "company": "Texas Instruments"
         },
         "Texas Instruments TI-92": {
             "id": "Texas Instruments TI-92",
@@ -13688,7 +13909,8 @@
                 "tosec": [
                     "Texas Instruments TI-95 - Cartridges"
                 ]
-            }
+            },
+            "company": "Texas Instruments"
         },
         "Texas Instruments TI-99 4A": {
             "id": "Texas Instruments TI-99 4A",
@@ -13736,7 +13958,8 @@
                 "emulationstation-de": [
                     "ti99"
                 ]
-            }
+            },
+            "company": "Texas Instruments"
         },
         "Thomson MO5": {
             "id": "Thomson MO5",
@@ -13807,7 +14030,8 @@
                 "mame": [
                     "to_flop"
                 ]
-            }
+            },
+            "company": "Thomson"
         },
         "Thomson TO7": {
             "id": "Thomson TO7",
@@ -13848,7 +14072,8 @@
                 "screenscraper": [
                     141
                 ]
-            }
+            },
+            "company": "Thomson"
         },
         "Thomson TO8": {
             "id": "Thomson TO8",
@@ -13864,7 +14089,8 @@
                 "emulationstation-de": [
                     "to8"
                 ]
-            }
+            },
+            "company": "Thomson"
         },
         "Thomson TO8, TO8D, TO9, TO9+": {
             "id": "Thomson TO8, TO8D, TO9, TO9+",
@@ -13951,7 +14177,8 @@
                 "mame": [
                     "k28m2"
                 ]
-            }
+            },
+            "company": "Tiger Electronics"
         },
         "Tiger Electronics R-Zone": {
             "id": "Tiger Electronics R-Zone",
@@ -13960,7 +14187,8 @@
                 "tgdb": [
                     4983
                 ]
-            }
+            },
+            "company": "Tiger Electronics"
         },
         "Tiki Data Kontiki-100 & Tiki-100": {
             "id": "Tiki Data Kontiki-100 & Tiki-100",
@@ -14018,7 +14246,8 @@
                 "mame": [
                     "timex_cass"
                 ]
-            }
+            },
+            "company": "Timex Sinclair"
         },
         "Timex Sinclair TS-2068": {
             "id": "Timex Sinclair TS-2068",
@@ -14037,7 +14266,8 @@
                 "mame": [
                     "timex_dock"
                 ]
-            }
+            },
+            "company": "Timex Sinclair"
         },
         "Tomy KISS-Site": {
             "id": "Tomy KISS-Site",
@@ -14059,7 +14289,8 @@
                 "mame": [
                     "princ"
                 ]
-            }
+            },
+            "company": "Tomy"
         },
         "Tomy Tutor": {
             "id": "Tomy Tutor",
@@ -14071,7 +14302,8 @@
                 "tgdb": [
                     4960
                 ]
-            }
+            },
+            "company": "Tomy"
         },
         "Tomy Tutor & Pyuuta": {
             "id": "Tomy Tutor & Pyuuta",
@@ -14097,7 +14329,8 @@
                 "mame": [
                     "evio"
                 ]
-            }
+            },
+            "company": "Tomy"
         },
         "Torch Co-Processor": {
             "id": "Torch Co-Processor",
@@ -14158,7 +14391,8 @@
                     "Toshiba Pasopia - Games - [BIN]",
                     "Toshiba Pasopia - Games - [WAV]"
                 ]
-            }
+            },
+            "company": "Toshiba"
         },
         "Toshiba Visicom": {
             "id": "Toshiba Visicom",
@@ -14396,7 +14630,8 @@
                 "emucontrolcenter": [
                     "cv"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius": {
             "id": "VTech Genius",
@@ -14405,7 +14640,8 @@
                 "tosec": [
                     "VTech Genius - Educational"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius IQ 128": {
             "id": "VTech Genius IQ 128",
@@ -14414,7 +14650,8 @@
                 "mame": [
                     "iq128"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius Junior 4000": {
             "id": "VTech Genius Junior 4000",
@@ -14423,7 +14660,8 @@
                 "mame": [
                     "gj4000"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius Junior Movie": {
             "id": "VTech Genius Junior Movie",
@@ -14435,7 +14673,8 @@
                 "mame": [
                     "gjmovie"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius Junior Redstar": {
             "id": "VTech Genius Junior Redstar",
@@ -14444,7 +14683,8 @@
                 "mame": [
                     "gjrstar"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius Leader 2000": {
             "id": "VTech Genius Leader 2000",
@@ -14470,7 +14710,8 @@
                 "mame": [
                     "gl6000sl"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius Leader CX": {
             "id": "VTech Genius Leader CX",
@@ -14479,7 +14720,8 @@
                 "mame": [
                     "glcx"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius Leader Color": {
             "id": "VTech Genius Leader Color",
@@ -14491,7 +14733,8 @@
                 "mame": [
                     "glcolor"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius Leader Notebook": {
             "id": "VTech Genius Leader Notebook",
@@ -14500,7 +14743,8 @@
                 "mame": [
                     "gln"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Genius Leader Select": {
             "id": "VTech Genius Leader Select",
@@ -14509,7 +14753,8 @@
                 "mame": [
                     "gls"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech IQ Unlimited": {
             "id": "VTech IQ Unlimited",
@@ -14518,7 +14763,8 @@
                 "mame": [
                     "iqunlim_cart"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Laser 200": {
             "id": "VTech Laser 200",
@@ -14547,7 +14793,8 @@
                     "laser2001_cart",
                     "laser2001_flop"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Laser 2001 & CreatiVision": {
             "id": "VTech Laser 2001 & CreatiVision",
@@ -14562,7 +14809,8 @@
                 "tosec": [
                     "Vtech Laser 3000 & Dick Smith CAT - Operating Systems"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Laser 310": {
             "id": "VTech Laser 310",
@@ -14571,7 +14819,8 @@
                 "tosec": [
                     "VTech Laser 310 - Applications"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Laser 350, 500, 700 & 750": {
             "id": "VTech Laser 350, 500, 700 & 750",
@@ -14594,7 +14843,8 @@
                 "nointro": [
                     "VTech - Mobigo"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech PreComputer 1000": {
             "id": "VTech PreComputer 1000",
@@ -14603,7 +14853,8 @@
                 "mame": [
                     "pc1000"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Socrates": {
             "id": "VTech Socrates",
@@ -14618,7 +14869,8 @@
                 "tgdb": [
                     4998
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech Storio V.Reader": {
             "id": "VTech Storio V.Reader",
@@ -14627,7 +14879,8 @@
                 "mame": [
                     "vtech_storio_cart"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech V.Baby": {
             "id": "VTech V.Baby",
@@ -14636,7 +14889,8 @@
                 "mame": [
                     "vbaby_cart"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech V.Flash": {
             "id": "VTech V.Flash",
@@ -14655,7 +14909,8 @@
                 "toseciso": [
                     "VTech V.Flash Home Edutainment System - Educational"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech V.Flash Home Edutainment System": {
             "id": "VTech V.Flash Home Edutainment System",
@@ -14689,7 +14944,8 @@
                 "mame": [
                     "vsmileb_cart"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "VTech V.Smile Motion": {
             "id": "VTech V.Smile Motion",
@@ -14698,7 +14954,8 @@
                 "mame": [
                     "vsmilem_cart"
                 ]
-            }
+            },
+            "company": "VTech"
         },
         "Vector-06C": {
             "id": "Vector-06C",
@@ -14764,7 +15021,8 @@
                     "Videoton TV-Computer - Games - [CAS]",
                     "Videoton TV-Computer - Games - [Multipart]"
                 ]
-            }
+            },
+            "company": "Videoton"
         },
         "Videoton TVC 64": {
             "id": "Videoton TVC 64",
@@ -14773,7 +15031,8 @@
                 "mame": [
                     "tvc_cart"
                 ]
-            }
+            },
+            "company": "Videoton"
         },
         "Visual Pinball": {
             "id": "Visual Pinball",
@@ -14825,7 +15084,8 @@
                 "mame": [
                     "wangpc"
                 ]
-            }
+            },
+            "company": "Wang"
         },
         "Wang VS": {
             "id": "Wang VS",
