@@ -17015,7 +17015,11 @@
             "platforms": [
                 "3ds"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "3dmoo"
+                ]
+            }
         },
         "3dnes": {
             "id": "3dnes",
@@ -17024,7 +17028,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "3dnes"
+                ]
+            }
         },
         "3doplay": {
             "id": "3doplay",
@@ -17033,7 +17041,11 @@
             "platforms": [
                 "3do"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "3doplay"
+                ]
+            }
         },
         "4do": {
             "id": "4do",
@@ -17042,7 +17054,11 @@
             "platforms": [
                 "3do"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "4do"
+                ]
+            }
         },
         "80five": {
             "id": "80five",
@@ -17051,7 +17067,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "80five"
+                ]
+            }
         },
         "88va": {
             "id": "88va",
@@ -17060,7 +17080,11 @@
             "platforms": [
                 "pc9801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "88va"
+                ]
+            }
         },
         "ace": {
             "id": "ace",
@@ -17073,7 +17097,11 @@
                 "s18",
                 "ng"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ace"
+                ]
+            }
         },
         "ace32": {
             "id": "ace32",
@@ -17082,7 +17110,11 @@
             "platforms": [
                 "jupace"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ace32"
+                ]
+            }
         },
         "activegs": {
             "id": "activegs",
@@ -17091,7 +17123,11 @@
             "platforms": [
                 "apple2gs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "activegs"
+                ]
+            }
         },
         "adamem": {
             "id": "adamem",
@@ -17100,7 +17136,11 @@
             "platforms": [
                 "adam"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "adamem"
+                ]
+            }
         },
         "adripsx": {
             "id": "adripsx",
@@ -17109,7 +17149,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "adripsx"
+                ]
+            }
         },
         "adviem": {
             "id": "adviem",
@@ -17118,7 +17162,11 @@
             "platforms": [
                 "advision"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "adviem"
+                ]
+            }
         },
         "aes4all": {
             "id": "aes4all",
@@ -17127,7 +17175,11 @@
             "platforms": [
                 "ng"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "aes4all"
+                ]
+            }
         },
         "agat": {
             "id": "agat",
@@ -17137,7 +17189,11 @@
                 "apple1",
                 "apple2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "agat"
+                ]
+            }
         },
         "ages": {
             "id": "ages",
@@ -17150,7 +17206,11 @@
                 "gen",
                 "smcd"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ages"
+                ]
+            }
         },
         "aipc": {
             "id": "aipc",
@@ -17159,7 +17219,11 @@
             "platforms": [
                 "apple2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "aipc"
+                ]
+            }
         },
         "akiko": {
             "id": "akiko",
@@ -17169,7 +17233,11 @@
                 "amigacd32",
                 "cdtv"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "akiko"
+                ]
+            }
         },
         "alice32": {
             "id": "alice32",
@@ -17178,7 +17246,11 @@
             "platforms": [
                 "alice"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "alice32"
+                ]
+            }
         },
         "altirra": {
             "id": "altirra",
@@ -17188,7 +17260,11 @@
                 "a5200",
                 "a8bit"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "altirra"
+                ]
+            }
         },
         "anex86": {
             "id": "anex86",
@@ -17197,7 +17273,11 @@
             "platforms": [
                 "pc9801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "anex86"
+                ]
+            }
         },
         "apfemuw": {
             "id": "apfemuw",
@@ -17206,7 +17286,11 @@
             "platforms": [
                 "im"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "apfemuw"
+                ]
+            }
         },
         "apollo": {
             "id": "apollo",
@@ -17215,7 +17299,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "apollo"
+                ]
+            }
         },
         "apple1": {
             "id": "apple1",
@@ -17224,7 +17312,11 @@
             "platforms": [
                 "apple1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "apple1"
+                ]
+            }
         },
         "applepc": {
             "id": "applepc",
@@ -17233,7 +17325,11 @@
             "platforms": [
                 "apple2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "applepc"
+                ]
+            }
         },
         "appler": {
             "id": "appler",
@@ -17242,7 +17338,11 @@
             "platforms": [
                 "apple2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "appler"
+                ]
+            }
         },
         "applewin": {
             "id": "applewin",
@@ -17251,7 +17351,11 @@
             "platforms": [
                 "apple2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "applewin"
+                ]
+            }
         },
         "aprnes": {
             "id": "aprnes",
@@ -17260,7 +17364,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "aprnes"
+                ]
+            }
         },
         "aqemu": {
             "id": "aqemu",
@@ -17269,7 +17377,11 @@
             "platforms": [
                 "aqua"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "aqemu"
+                ]
+            }
         },
         "aranym": {
             "id": "aranym",
@@ -17279,7 +17391,11 @@
                 "falcon",
                 "st"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "aranym"
+                ]
+            }
         },
         "arcem": {
             "id": "arcem",
@@ -17288,7 +17404,11 @@
             "platforms": [
                 "archi"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "arcem"
+                ]
+            }
         },
         "archie": {
             "id": "archie",
@@ -17297,7 +17417,11 @@
             "platforms": [
                 "archi"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "archie"
+                ]
+            }
         },
         "arculator": {
             "id": "arculator",
@@ -17306,7 +17430,11 @@
             "platforms": [
                 "archi"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "arculator"
+                ]
+            }
         },
         "arnimedes": {
             "id": "arnimedes",
@@ -17315,7 +17443,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "arnimedes"
+                ]
+            }
         },
         "arnold": {
             "id": "arnold",
@@ -17324,7 +17456,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "arnold"
+                ]
+            }
         },
         "ascd": {
             "id": "ascd",
@@ -17334,7 +17470,11 @@
                 "samc",
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ascd"
+                ]
+            }
         },
         "aspectrum": {
             "id": "aspectrum",
@@ -17343,7 +17483,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "aspectrum"
+                ]
+            }
         },
         "atari800": {
             "id": "atari800",
@@ -17353,7 +17497,11 @@
                 "a5200",
                 "a8bit"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "atari800"
+                ]
+            }
         },
         "atari800winplus": {
             "id": "atari800winplus",
@@ -17363,7 +17511,11 @@
                 "a5200",
                 "a8bit"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "atari800winplus"
+                ]
+            }
         },
         "atariplusplus": {
             "id": "atariplusplus",
@@ -17373,7 +17525,11 @@
                 "a5200",
                 "a8bit"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "atariplusplus"
+                ]
+            }
         },
         "atom": {
             "id": "atom",
@@ -17382,7 +17538,11 @@
             "platforms": [
                 "atom"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "atom"
+                ]
+            }
         },
         "atomulator": {
             "id": "atomulator",
@@ -17391,7 +17551,11 @@
             "platforms": [
                 "atom"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "atomulator"
+                ]
+            }
         },
         "aurex2": {
             "id": "aurex2",
@@ -17400,7 +17564,11 @@
             "platforms": [
                 "onhandpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "aurex2"
+                ]
+            }
         },
         "basiliskii": {
             "id": "basiliskii",
@@ -17409,7 +17577,11 @@
             "platforms": [
                 "mtosh"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "basiliskii"
+                ]
+            }
         },
         "beebem": {
             "id": "beebem",
@@ -17418,7 +17590,11 @@
             "platforms": [
                 "bbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "beebem"
+                ]
+            }
         },
         "bem": {
             "id": "bem",
@@ -17427,7 +17603,11 @@
             "platforms": [
                 "bbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bem"
+                ]
+            }
         },
         "bfmulator": {
             "id": "bfmulator",
@@ -17436,7 +17616,11 @@
             "platforms": [
                 "fruit"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bfmulator"
+                ]
+            }
         },
         "bgb": {
             "id": "bgb",
@@ -17446,7 +17630,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bgb"
+                ]
+            }
         },
         "bizhawk": {
             "id": "bizhawk",
@@ -17477,7 +17665,11 @@
                 "ps1",
                 "ti83"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bizhawk"
+                ]
+            }
         },
         "blastem": {
             "id": "blastem",
@@ -17486,7 +17678,11 @@
             "platforms": [
                 "gen"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "blastem"
+                ]
+            }
         },
         "bliss": {
             "id": "bliss",
@@ -17495,7 +17691,11 @@
             "platforms": [
                 "int"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bliss"
+                ]
+            }
         },
         "bloodswan": {
             "id": "bloodswan",
@@ -17505,7 +17705,11 @@
                 "ws",
                 "wsc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bloodswan"
+                ]
+            }
         },
         "bluemsx": {
             "id": "bluemsx",
@@ -17520,7 +17724,11 @@
                 "sg1000",
                 "sv318"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bluemsx"
+                ]
+            }
         },
         "boycottadv": {
             "id": "boycottadv",
@@ -17529,7 +17737,11 @@
             "platforms": [
                 "gba"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "boycottadv"
+                ]
+            }
         },
         "bsnes": {
             "id": "bsnes",
@@ -17539,7 +17751,11 @@
                 "nes",
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bsnes"
+                ]
+            }
         },
         "bsnesclassic": {
             "id": "bsnesclassic",
@@ -17550,7 +17766,11 @@
                 "nes",
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bsnesclassic"
+                ]
+            }
         },
         "bsnesplus": {
             "id": "bsnesplus",
@@ -17561,7 +17781,11 @@
                 "nes",
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bsnesplus"
+                ]
+            }
         },
         "bsnessx2": {
             "id": "bsnessx2",
@@ -17572,7 +17796,11 @@
                 "nes",
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bsnessx2"
+                ]
+            }
         },
         "bws": {
             "id": "bws",
@@ -17582,7 +17810,11 @@
                 "ws",
                 "wsc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bws"
+                ]
+            }
         },
         "bzsnes": {
             "id": "bzsnes",
@@ -17591,7 +17823,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "bzsnes"
+                ]
+            }
         },
         "c4pc": {
             "id": "c4pc",
@@ -17600,7 +17836,11 @@
             "platforms": [
                 "cybiko"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "c4pc"
+                ]
+            }
         },
         "calcem": {
             "id": "calcem",
@@ -17611,7 +17851,11 @@
                 "ti83",
                 "ti85"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "calcem"
+                ]
+            }
         },
         "calice": {
             "id": "calice",
@@ -17625,7 +17869,11 @@
                 "ng",
                 "zinc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "calice"
+                ]
+            }
         },
         "callus": {
             "id": "callus",
@@ -17634,7 +17882,11 @@
             "platforms": [
                 "cps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "callus"
+                ]
+            }
         },
         "caprice32": {
             "id": "caprice32",
@@ -17643,7 +17895,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "caprice32"
+                ]
+            }
         },
         "ccs64": {
             "id": "ccs64",
@@ -17653,7 +17909,11 @@
                 "c16plus4",
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ccs64"
+                ]
+            }
         },
         "cdiemulator": {
             "id": "cdiemulator",
@@ -17662,7 +17922,11 @@
             "platforms": [
                 "cdi"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cdiemulator"
+                ]
+            }
         },
         "cemu": {
             "id": "cemu",
@@ -17671,7 +17935,11 @@
             "platforms": [
                 "wiiu"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cemu"
+                ]
+            }
         },
         "chankast": {
             "id": "chankast",
@@ -17680,7 +17948,11 @@
             "platforms": [
                 "dc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "chankast"
+                ]
+            }
         },
         "citra": {
             "id": "citra",
@@ -17689,7 +17961,11 @@
             "platforms": [
                 "3ds"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "citra"
+                ]
+            }
         },
         "classic99": {
             "id": "classic99",
@@ -17698,7 +17974,11 @@
             "platforms": [
                 "ti99"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "classic99"
+                ]
+            }
         },
         "cogwheel": {
             "id": "cogwheel",
@@ -17710,7 +17990,11 @@
                 "sms",
                 "sg1000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cogwheel"
+                ]
+            }
         },
         "colem": {
             "id": "colem",
@@ -17719,7 +18003,11 @@
             "platforms": [
                 "col"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "colem"
+                ]
+            }
         },
         "coloremu": {
             "id": "coloremu",
@@ -17728,7 +18016,11 @@
             "platforms": [
                 "cg"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "coloremu"
+                ]
+            }
         },
         "comeback64": {
             "id": "comeback64",
@@ -17737,7 +18029,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "comeback64"
+                ]
+            }
         },
         "coolcv": {
             "id": "coolcv",
@@ -17748,7 +18044,11 @@
                 "sg1000",
                 "cv"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "coolcv"
+                ]
+            }
         },
         "copacabana": {
             "id": "copacabana",
@@ -17757,7 +18057,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "copacabana"
+                ]
+            }
         },
         "cpcalive": {
             "id": "cpcalive",
@@ -17766,7 +18070,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cpcalive"
+                ]
+            }
         },
         "cpce": {
             "id": "cpce",
@@ -17775,7 +18083,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cpce"
+                ]
+            }
         },
         "cpcem": {
             "id": "cpcem",
@@ -17784,7 +18096,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cpcem"
+                ]
+            }
         },
         "cpcemu": {
             "id": "cpcemu",
@@ -17793,7 +18109,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cpcemu"
+                ]
+            }
         },
         "cpe": {
             "id": "cpe",
@@ -17802,7 +18122,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cpe"
+                ]
+            }
         },
         "cpmbox": {
             "id": "cpmbox",
@@ -17811,7 +18135,11 @@
             "platforms": [
                 "pcw"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cpmbox"
+                ]
+            }
         },
         "cps3emulator": {
             "id": "cps3emulator",
@@ -17820,7 +18148,11 @@
             "platforms": [
                 "cps3"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cps3emulator"
+                ]
+            }
         },
         "cpspemu": {
             "id": "cpspemu",
@@ -17829,7 +18161,11 @@
             "platforms": [
                 "psp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cpspemu"
+                ]
+            }
         },
         "creativision": {
             "id": "creativision",
@@ -17838,7 +18174,11 @@
             "platforms": [
                 "cv"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "creativision"
+                ]
+            }
         },
         "cxbx": {
             "id": "cxbx",
@@ -17847,7 +18187,11 @@
             "platforms": [
                 "xbox"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cxbx"
+                ]
+            }
         },
         "cxbxreloaded": {
             "id": "cxbxreloaded",
@@ -17856,7 +18200,11 @@
             "platforms": [
                 "xbox"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cxbxreloaded"
+                ]
+            }
         },
         "cygne": {
             "id": "cygne",
@@ -17866,7 +18214,11 @@
                 "ws",
                 "wsc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "cygne"
+                ]
+            }
         },
         "daedalus": {
             "id": "daedalus",
@@ -17875,7 +18227,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "daedalus"
+                ]
+            }
         },
         "daphne": {
             "id": "daphne",
@@ -17884,7 +18240,11 @@
             "platforms": [
                 "ld"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "daphne"
+                ]
+            }
         },
         "dapple": {
             "id": "dapple",
@@ -17893,7 +18253,11 @@
             "platforms": [
                 "apple2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dapple"
+                ]
+            }
         },
         "dapple2-emuii": {
             "id": "dapple2-emuii",
@@ -17902,7 +18266,11 @@
             "platforms": [
                 "apple2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dapple2-emuii"
+                ]
+            }
         },
         "dcalice": {
             "id": "dcalice",
@@ -17911,7 +18279,11 @@
             "platforms": [
                 "alice"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dcalice"
+                ]
+            }
         },
         "dcexel": {
             "id": "dcexel",
@@ -17920,7 +18292,11 @@
             "platforms": [
                 "exl100"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dcexel"
+                ]
+            }
         },
         "dchector": {
             "id": "dchector",
@@ -17929,7 +18305,11 @@
             "platforms": [
                 "hcs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dchector"
+                ]
+            }
         },
         "dcmicro": {
             "id": "dcmicro",
@@ -17939,7 +18319,11 @@
                 "alice",
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dcmicro"
+                ]
+            }
         },
         "dcmo5": {
             "id": "dcmo5",
@@ -17948,7 +18332,11 @@
             "platforms": [
                 "mo5"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dcmo5"
+                ]
+            }
         },
         "dcmoto": {
             "id": "dcmoto",
@@ -17957,7 +18345,11 @@
             "platforms": [
                 "mo5"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dcmoto"
+                ]
+            }
         },
         "dcvg5k": {
             "id": "dcvg5k",
@@ -17966,7 +18358,11 @@
             "platforms": [
                 "vg5000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dcvg5k"
+                ]
+            }
         },
         "dega": {
             "id": "dega",
@@ -17976,7 +18372,11 @@
                 "gg",
                 "sms"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dega"
+                ]
+            }
         },
         "demul": {
             "id": "demul",
@@ -17987,7 +18387,11 @@
                 "naomi",
                 "atomisw"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "demul"
+                ]
+            }
         },
         "desmume": {
             "id": "desmume",
@@ -17996,7 +18400,11 @@
             "platforms": [
                 "nds"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "desmume"
+                ]
+            }
         },
         "dgen": {
             "id": "dgen",
@@ -18005,7 +18413,11 @@
             "platforms": [
                 "gen"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dgen"
+                ]
+            }
         },
         "dinoboy": {
             "id": "dinoboy",
@@ -18015,7 +18427,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dinoboy"
+                ]
+            }
         },
         "directvms": {
             "id": "directvms",
@@ -18024,7 +18440,11 @@
             "platforms": [
                 "dcvmu"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "directvms"
+                ]
+            }
         },
         "dmgboy": {
             "id": "dmgboy",
@@ -18034,7 +18454,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dmgboy"
+                ]
+            }
         },
         "dolphin": {
             "id": "dolphin",
@@ -18044,7 +18468,11 @@
                 "gc",
                 "wii"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dolphin"
+                ]
+            }
         },
         "dolwin": {
             "id": "dolwin",
@@ -18053,7 +18481,11 @@
             "platforms": [
                 "gc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dolwin"
+                ]
+            }
         },
         "dosbox": {
             "id": "dosbox",
@@ -18062,7 +18494,11 @@
             "platforms": [
                 "dosbox"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dosbox"
+                ]
+            }
         },
         "dpspemu": {
             "id": "dpspemu",
@@ -18071,7 +18507,11 @@
             "platforms": [
                 "psp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dpspemu"
+                ]
+            }
         },
         "dream64": {
             "id": "dream64",
@@ -18080,7 +18520,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dream64"
+                ]
+            }
         },
         "dreamemu": {
             "id": "dreamemu",
@@ -18089,7 +18533,11 @@
             "platforms": [
                 "dc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dreamemu"
+                ]
+            }
         },
         "dreamgba": {
             "id": "dreamgba",
@@ -18098,7 +18546,11 @@
             "platforms": [
                 "gba"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dreamgba"
+                ]
+            }
         },
         "dreamgbatng": {
             "id": "dreamgbatng",
@@ -18107,7 +18559,11 @@
             "platforms": [
                 "gba"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dreamgbatng"
+                ]
+            }
         },
         "dreamvmu": {
             "id": "dreamvmu",
@@ -18116,7 +18572,11 @@
             "platforms": [
                 "dcvmu"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dreamvmu"
+                ]
+            }
         },
         "dsp": {
             "id": "dsp",
@@ -18132,7 +18592,11 @@
                 "sms",
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dsp"
+                ]
+            }
         },
         "dsvz200": {
             "id": "dsvz200",
@@ -18142,7 +18606,11 @@
                 "l200",
                 "l350"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dsvz200"
+                ]
+            }
         },
         "dualis": {
             "id": "dualis",
@@ -18151,7 +18619,11 @@
             "platforms": [
                 "nds"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dualis"
+                ]
+            }
         },
         "dve": {
             "id": "dve",
@@ -18160,7 +18632,11 @@
             "platforms": [
                 "vec"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "dve"
+                ]
+            }
         },
         "eightyone": {
             "id": "eightyone",
@@ -18172,7 +18648,11 @@
                 "zxs",
                 "zx81"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "eightyone"
+                ]
+            }
         },
         "electrem": {
             "id": "electrem",
@@ -18181,7 +18661,11 @@
             "platforms": [
                 "etron"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "electrem"
+                ]
+            }
         },
         "elf": {
             "id": "elf",
@@ -18191,7 +18675,11 @@
                 "comx35",
                 "studio2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "elf"
+                ]
+            }
         },
         "elkulator": {
             "id": "elkulator",
@@ -18200,7 +18688,11 @@
             "platforms": [
                 "etron"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "elkulator"
+                ]
+            }
         },
         "em7": {
             "id": "em7",
@@ -18209,7 +18701,11 @@
             "platforms": [
                 "fm7"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "em7"
+                ]
+            }
         },
         "emma02": {
             "id": "emma02",
@@ -18219,7 +18715,11 @@
                 "comx35",
                 "studio2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emma02"
+                ]
+            }
         },
         "emu": {
             "id": "emu",
@@ -18231,7 +18731,11 @@
                 "msx",
                 "lviv"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emu"
+                ]
+            }
         },
         "emu2001": {
             "id": "emu2001",
@@ -18243,7 +18747,11 @@
                 "vc4000",
                 "l200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emu2001"
+                ]
+            }
         },
         "emu64": {
             "id": "emu64",
@@ -18252,7 +18760,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emu64"
+                ]
+            }
         },
         "emu7800": {
             "id": "emu7800",
@@ -18262,7 +18774,11 @@
                 "a2600",
                 "a7800"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emu7800"
+                ]
+            }
         },
         "emukon": {
             "id": "emukon",
@@ -18272,7 +18788,11 @@
                 "gg",
                 "sms"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emukon"
+                ]
+            }
         },
         "emulator3000": {
             "id": "emulator3000",
@@ -18286,7 +18806,11 @@
                 "zxs",
                 "lviv"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emulator3000"
+                ]
+            }
         },
         "emuz2000": {
             "id": "emuz2000",
@@ -18295,7 +18819,11 @@
             "platforms": [
                 "mz2000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emuz2000"
+                ]
+            }
         },
         "emuzwin": {
             "id": "emuzwin",
@@ -18304,7 +18832,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "emuzwin"
+                ]
+            }
         },
         "enter": {
             "id": "enter",
@@ -18313,7 +18845,11 @@
             "platforms": [
                 "enterprise"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "enter"
+                ]
+            }
         },
         "ep128emu": {
             "id": "ep128emu",
@@ -18324,7 +18860,11 @@
                 "enterprise",
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ep128emu"
+                ]
+            }
         },
         "ep32": {
             "id": "ep32",
@@ -18333,7 +18873,11 @@
             "platforms": [
                 "enterprise"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ep32"
+                ]
+            }
         },
         "epsxe": {
             "id": "epsxe",
@@ -18342,7 +18886,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "epsxe"
+                ]
+            }
         },
         "euphoric": {
             "id": "euphoric",
@@ -18351,7 +18899,11 @@
             "platforms": [
                 "oric"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "euphoric"
+                ]
+            }
         },
         "ex68": {
             "id": "ex68",
@@ -18360,7 +18912,11 @@
             "platforms": [
                 "x68000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ex68"
+                ]
+            }
         },
         "exodus": {
             "id": "exodus",
@@ -18369,7 +18925,11 @@
             "platforms": [
                 "gen"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "exodus"
+                ]
+            }
         },
         "fakenes": {
             "id": "fakenes",
@@ -18378,7 +18938,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fakenes"
+                ]
+            }
         },
         "fastz80": {
             "id": "fastz80",
@@ -18388,7 +18952,11 @@
                 "ht1080z",
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fastz80"
+                ]
+            }
         },
         "faux1": {
             "id": "faux1",
@@ -18397,7 +18965,11 @@
             "platforms": [
                 "apple1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "faux1"
+                ]
+            }
         },
         "fbalpha": {
             "id": "fbalpha",
@@ -18420,7 +18992,11 @@
                 "s18",
                 "ng"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fbalpha"
+                ]
+            }
         },
         "fbalphashuffle": {
             "id": "fbalphashuffle",
@@ -18443,7 +19019,11 @@
                 "s18",
                 "ng"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fbalphashuffle"
+                ]
+            }
         },
         "fceux": {
             "id": "fceux",
@@ -18453,7 +19033,11 @@
                 "fds",
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fceux"
+                ]
+            }
         },
         "firegb": {
             "id": "firegb",
@@ -18462,7 +19046,11 @@
             "platforms": [
                 "gb"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "firegb"
+                ]
+            }
         },
         "fmsx": {
             "id": "fmsx",
@@ -18472,7 +19060,11 @@
                 "msx2",
                 "msx"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fmsx"
+                ]
+            }
         },
         "fnc": {
             "id": "fnc",
@@ -18482,7 +19074,11 @@
                 "chip8",
                 "vip"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fnc"
+                ]
+            }
         },
         "free64": {
             "id": "free64",
@@ -18491,7 +19087,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "free64"
+                ]
+            }
         },
         "freedo": {
             "id": "freedo",
@@ -18500,7 +19100,11 @@
             "platforms": [
                 "3do"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "freedo"
+                ]
+            }
         },
         "frodo": {
             "id": "frodo",
@@ -18509,7 +19113,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "frodo"
+                ]
+            }
         },
         "fsuae": {
             "id": "fsuae",
@@ -18520,7 +19128,11 @@
                 "amigacd32",
                 "cdtv"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fsuae"
+                ]
+            }
         },
         "funnymu": {
             "id": "funnymu",
@@ -18529,7 +19141,11 @@
             "platforms": [
                 "cv"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "funnymu"
+                ]
+            }
         },
         "fuse": {
             "id": "fuse",
@@ -18538,7 +19154,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "fuse"
+                ]
+            }
         },
         "futurepinball": {
             "id": "futurepinball",
@@ -18547,7 +19167,11 @@
             "platforms": [
                 "fp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "futurepinball"
+                ]
+            }
         },
         "galaxywin": {
             "id": "galaxywin",
@@ -18556,7 +19180,11 @@
             "platforms": [
                 "galplus"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "galaxywin"
+                ]
+            }
         },
         "gamecomemu": {
             "id": "gamecomemu",
@@ -18565,7 +19193,11 @@
             "platforms": [
                 "gamecom"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gamecomemu"
+                ]
+            }
         },
         "gamelad": {
             "id": "gamelad",
@@ -18575,7 +19207,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gamelad"
+                ]
+            }
         },
         "gbeplus": {
             "id": "gbeplus",
@@ -18586,7 +19222,11 @@
                 "gba",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gbeplus"
+                ]
+            }
         },
         "gcemu": {
             "id": "gcemu",
@@ -18595,7 +19235,11 @@
             "platforms": [
                 "gc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gcemu"
+                ]
+            }
         },
         "gcube": {
             "id": "gcube",
@@ -18604,7 +19248,11 @@
             "platforms": [
                 "gc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gcube"
+                ]
+            }
         },
         "gearsystem": {
             "id": "gearsystem",
@@ -18614,7 +19262,11 @@
                 "gg",
                 "sms"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gearsystem"
+                ]
+            }
         },
         "geepee32": {
             "id": "geepee32",
@@ -18623,7 +19275,11 @@
             "platforms": [
                 "gp32"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "geepee32"
+                ]
+            }
         },
         "gekko": {
             "id": "gekko",
@@ -18632,7 +19288,11 @@
             "platforms": [
                 "gc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gekko"
+                ]
+            }
         },
         "gemulator": {
             "id": "gemulator",
@@ -18643,7 +19303,11 @@
                 "a8bit",
                 "st"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gemulator"
+                ]
+            }
         },
         "genesisplus": {
             "id": "genesisplus",
@@ -18652,7 +19316,11 @@
             "platforms": [
                 "gen"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "genesisplus"
+                ]
+            }
         },
         "genieous": {
             "id": "genieous",
@@ -18661,7 +19329,11 @@
             "platforms": [
                 "cg"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "genieous"
+                ]
+            }
         },
         "gens": {
             "id": "gens",
@@ -18672,7 +19344,11 @@
                 "gen",
                 "smcd"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gens"
+                ]
+            }
         },
         "gens32": {
             "id": "gens32",
@@ -18685,7 +19361,11 @@
                 "gen",
                 "smcd"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gens32"
+                ]
+            }
         },
         "gensgs": {
             "id": "gensgs",
@@ -18697,7 +19377,11 @@
                 "gen",
                 "smcd"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gensgs"
+                ]
+            }
         },
         "gensplus": {
             "id": "gensplus",
@@ -18710,7 +19394,11 @@
                 "gen",
                 "smcd"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gensplus"
+                ]
+            }
         },
         "gest": {
             "id": "gest",
@@ -18720,7 +19408,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gest"
+                ]
+            }
         },
         "gm2001": {
             "id": "gm2001",
@@ -18729,7 +19421,11 @@
             "platforms": [
                 "gm"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gm2001"
+                ]
+            }
         },
         "gsport": {
             "id": "gsport",
@@ -18739,7 +19435,11 @@
                 "apple2",
                 "apple2gs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "gsport"
+                ]
+            }
         },
         "handy": {
             "id": "handy",
@@ -18748,7 +19448,11 @@
             "platforms": [
                 "lynx"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "handy"
+                ]
+            }
         },
         "hatari": {
             "id": "hatari",
@@ -18758,7 +19462,11 @@
                 "falcon",
                 "st"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hatari"
+                ]
+            }
         },
         "hdnes": {
             "id": "hdnes",
@@ -18767,7 +19475,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hdnes"
+                ]
+            }
         },
         "hhugboy": {
             "id": "hhugboy",
@@ -18777,7 +19489,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hhugboy"
+                ]
+            }
         },
         "higan": {
             "id": "higan",
@@ -18792,7 +19508,11 @@
                 "gbc",
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "higan"
+                ]
+            }
         },
         "hola": {
             "id": "hola",
@@ -18801,7 +19521,11 @@
             "platforms": [
                 "homelab4"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hola"
+                ]
+            }
         },
         "homelab": {
             "id": "homelab",
@@ -18810,7 +19534,11 @@
             "platforms": [
                 "homelab4"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "homelab"
+                ]
+            }
         },
         "horizon": {
             "id": "horizon",
@@ -18819,7 +19547,11 @@
             "platforms": [
                 "bbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "horizon"
+                ]
+            }
         },
         "hoxs64": {
             "id": "hoxs64",
@@ -18828,7 +19560,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hoxs64"
+                ]
+            }
         },
         "hpsx64": {
             "id": "hpsx64",
@@ -18837,7 +19573,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hpsx64"
+                ]
+            }
         },
         "ht1080z": {
             "id": "ht1080z",
@@ -18847,7 +19587,11 @@
                 "ht1080z",
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ht1080z"
+                ]
+            }
         },
         "hu6280": {
             "id": "hu6280",
@@ -18856,7 +19600,11 @@
             "platforms": [
                 "pce"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hu6280"
+                ]
+            }
         },
         "hugo": {
             "id": "hugo",
@@ -18866,7 +19614,11 @@
                 "pcecd",
                 "pce"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hugo"
+                ]
+            }
         },
         "hyper64": {
             "id": "hyper64",
@@ -18875,7 +19627,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "hyper64"
+                ]
+            }
         },
         "ice64": {
             "id": "ice64",
@@ -18884,7 +19640,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ice64"
+                ]
+            }
         },
         "ideas": {
             "id": "ideas",
@@ -18894,7 +19654,11 @@
                 "nds",
                 "gba"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ideas"
+                ]
+            }
         },
         "ines": {
             "id": "ines",
@@ -18903,7 +19667,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ines"
+                ]
+            }
         },
         "infovectrex": {
             "id": "infovectrex",
@@ -18912,7 +19680,11 @@
             "platforms": [
                 "vec"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "infovectrex"
+                ]
+            }
         },
         "ip6": {
             "id": "ip6",
@@ -18921,7 +19693,11 @@
             "platforms": [
                 "pc6001"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ip6"
+                ]
+            }
         },
         "ip6plus": {
             "id": "ip6plus",
@@ -18930,7 +19706,11 @@
             "platforms": [
                 "pc6001"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ip6plus"
+                ]
+            }
         },
         "ishiirukadolphin": {
             "id": "ishiirukadolphin",
@@ -18939,7 +19719,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ishiirukadolphin"
+                ]
+            }
         },
         "jackal": {
             "id": "jackal",
@@ -18948,7 +19732,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jackal"
+                ]
+            }
         },
         "jagulator": {
             "id": "jagulator",
@@ -18957,7 +19745,11 @@
             "platforms": [
                 "jag"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jagulator"
+                ]
+            }
         },
         "javacpc": {
             "id": "javacpc",
@@ -18966,7 +19758,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "javacpc"
+                ]
+            }
         },
         "jnes": {
             "id": "jnes",
@@ -18975,7 +19771,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jnes"
+                ]
+            }
         },
         "joyce": {
             "id": "joyce",
@@ -18984,7 +19784,11 @@
             "platforms": [
                 "pcw"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "joyce"
+                ]
+            }
         },
         "jpcsp": {
             "id": "jpcsp",
@@ -18993,7 +19797,11 @@
             "platforms": [
                 "psp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jpcsp"
+                ]
+            }
         },
         "jpemu": {
             "id": "jpemu",
@@ -19002,7 +19810,11 @@
             "platforms": [
                 "fruit"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jpemu"
+                ]
+            }
         },
         "jum52": {
             "id": "jum52",
@@ -19011,7 +19823,11 @@
             "platforms": [
                 "a5200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jum52"
+                ]
+            }
         },
         "jvz200": {
             "id": "jvz200",
@@ -19020,7 +19836,11 @@
             "platforms": [
                 "l200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jvz200"
+                ]
+            }
         },
         "jynx": {
             "id": "jynx",
@@ -19029,7 +19849,11 @@
             "platforms": [
                 "clynx"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jynx"
+                ]
+            }
         },
         "jzintv": {
             "id": "jzintv",
@@ -19038,7 +19862,11 @@
             "platforms": [
                 "int"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "jzintv"
+                ]
+            }
         },
         "kat5200": {
             "id": "kat5200",
@@ -19047,7 +19875,11 @@
             "platforms": [
                 "a5200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "kat5200"
+                ]
+            }
         },
         "kc85emu": {
             "id": "kc85emu",
@@ -19056,7 +19888,11 @@
             "platforms": [
                 "kc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "kc85emu"
+                ]
+            }
         },
         "kcemu": {
             "id": "kcemu",
@@ -19065,7 +19901,11 @@
             "platforms": [
                 "kc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "kcemu"
+                ]
+            }
         },
         "kegafusion": {
             "id": "kegafusion",
@@ -19081,7 +19921,11 @@
                 "sc3000",
                 "sg1000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "kegafusion"
+                ]
+            }
         },
         "kegs": {
             "id": "kegs",
@@ -19091,7 +19935,11 @@
                 "apple2",
                 "apple2gs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "kegs"
+                ]
+            }
         },
         "kegs32": {
             "id": "kegs32",
@@ -19101,7 +19949,11 @@
                 "apple2",
                 "apple2gs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "kegs32"
+                ]
+            }
         },
         "kigb": {
             "id": "kigb",
@@ -19111,7 +19963,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "kigb"
+                ]
+            }
         },
         "kindred": {
             "id": "kindred",
@@ -19123,7 +19979,11 @@
                 "snes",
                 "sms"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "kindred"
+                ]
+            }
         },
         "klive": {
             "id": "klive",
@@ -19132,7 +19992,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "klive"
+                ]
+            }
         },
         "koleko": {
             "id": "koleko",
@@ -19141,7 +20005,11 @@
             "platforms": [
                 "col"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "koleko"
+                ]
+            }
         },
         "koyote": {
             "id": "koyote",
@@ -19151,7 +20019,11 @@
                 "ngp",
                 "ngpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "koyote"
+                ]
+            }
         },
         "lisa": {
             "id": "lisa",
@@ -19160,7 +20032,11 @@
             "platforms": [
                 "lisa"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "lisa"
+                ]
+            }
         },
         "lisaem": {
             "id": "lisaem",
@@ -19169,7 +20045,11 @@
             "platforms": [
                 "lisa"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "lisaem"
+                ]
+            }
         },
         "luagb": {
             "id": "luagb",
@@ -19179,7 +20059,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "luagb"
+                ]
+            }
         },
         "m2emulator": {
             "id": "m2emulator",
@@ -19188,7 +20072,11 @@
             "platforms": [
                 "model2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "m2emulator"
+                ]
+            }
         },
         "m88": {
             "id": "m88",
@@ -19197,7 +20085,11 @@
             "platforms": [
                 "pc8801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "m88"
+                ]
+            }
         },
         "mahnes": {
             "id": "mahnes",
@@ -19206,7 +20098,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mahnes"
+                ]
+            }
         },
         "makaron": {
             "id": "makaron",
@@ -19216,7 +20112,11 @@
                 "dc",
                 "naomi"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "makaron"
+                ]
+            }
         },
         "makaronex": {
             "id": "makaronex",
@@ -19225,7 +20125,11 @@
             "platforms": [
                 "dc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "makaronex"
+                ]
+            }
         },
         "mame": {
             "id": "mame",
@@ -19392,7 +20296,11 @@
                 "l350",
                 "svn"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mame"
+                ]
+            }
         },
         "mameclassic": {
             "id": "mameclassic",
@@ -19414,7 +20322,11 @@
                 "ng",
                 "zinc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mameclassic"
+                ]
+            }
         },
         "mednafen": {
             "id": "mednafen",
@@ -19442,7 +20354,11 @@
                 "ngpc",
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mednafen"
+                ]
+            }
         },
         "medusa": {
             "id": "medusa",
@@ -19454,7 +20370,11 @@
                 "gba",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "medusa"
+                ]
+            }
         },
         "mega8": {
             "id": "mega8",
@@ -19463,7 +20383,11 @@
             "platforms": [
                 "chip8"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mega8"
+                ]
+            }
         },
         "meisei": {
             "id": "meisei",
@@ -19472,7 +20396,11 @@
             "platforms": [
                 "msx"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "meisei"
+                ]
+            }
         },
         "meka": {
             "id": "meka",
@@ -19485,7 +20413,11 @@
                 "sc3000",
                 "sg1000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "meka"
+                ]
+            }
         },
         "melonds": {
             "id": "melonds",
@@ -19494,7 +20426,11 @@
             "platforms": [
                 "nds"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "melonds"
+                ]
+            }
         },
         "mercury": {
             "id": "mercury",
@@ -19503,7 +20439,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mercury"
+                ]
+            }
         },
         "mesadx": {
             "id": "mesadx",
@@ -19513,7 +20453,11 @@
                 "gg",
                 "sms"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mesadx"
+                ]
+            }
         },
         "mesen": {
             "id": "mesen",
@@ -19522,7 +20466,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mesen"
+                ]
+            }
         },
         "mess": {
             "id": "mess",
@@ -19676,7 +20624,11 @@
                 "l350",
                 "svn"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mess"
+                ]
+            }
         },
         "mfme": {
             "id": "mfme",
@@ -19685,7 +20637,11 @@
             "platforms": [
                 "fruit"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mfme"
+                ]
+            }
         },
         "mgba": {
             "id": "mgba",
@@ -19696,7 +20652,11 @@
                 "gba",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mgba"
+                ]
+            }
         },
         "micro64": {
             "id": "micro64",
@@ -19705,7 +20665,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "micro64"
+                ]
+            }
         },
         "minimon": {
             "id": "minimon",
@@ -19714,7 +20678,11 @@
             "platforms": [
                 "pmini"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "minimon"
+                ]
+            }
         },
         "minivmac": {
             "id": "minivmac",
@@ -19723,7 +20691,11 @@
             "platforms": [
                 "mtosh"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "minivmac"
+                ]
+            }
         },
         "minus4": {
             "id": "minus4",
@@ -19732,7 +20704,11 @@
             "platforms": [
                 "c16plus4"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "minus4"
+                ]
+            }
         },
         "modelb": {
             "id": "modelb",
@@ -19741,7 +20717,11 @@
             "platforms": [
                 "bbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "modelb"
+                ]
+            }
         },
         "modeler": {
             "id": "modeler",
@@ -19750,7 +20730,11 @@
             "platforms": [
                 "model1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "modeler"
+                ]
+            }
         },
         "mtxemu": {
             "id": "mtxemu",
@@ -19759,7 +20743,11 @@
             "platforms": [
                 "mtx"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mtxemu"
+                ]
+            }
         },
         "mupen64k": {
             "id": "mupen64k",
@@ -19768,7 +20756,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mupen64k"
+                ]
+            }
         },
         "mupen64plus": {
             "id": "mupen64plus",
@@ -19777,7 +20769,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mupen64plus"
+                ]
+            }
         },
         "mupen64plusplus": {
             "id": "mupen64plusplus",
@@ -19786,7 +20782,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mupen64plusplus"
+                ]
+            }
         },
         "mynes": {
             "id": "mynes",
@@ -19795,7 +20795,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mynes"
+                ]
+            }
         },
         "mz700win": {
             "id": "mz700win",
@@ -19804,7 +20808,11 @@
             "platforms": [
                 "mz1500"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mz700win"
+                ]
+            }
         },
         "mz800emu": {
             "id": "mz800emu",
@@ -19813,7 +20821,11 @@
             "platforms": [
                 "mz1500"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mz800emu"
+                ]
+            }
         },
         "mzxx": {
             "id": "mzxx",
@@ -19826,7 +20838,11 @@
                 "zxs",
                 "zx81"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "mzxx"
+                ]
+            }
         },
         "nanowasp": {
             "id": "nanowasp",
@@ -19835,7 +20851,11 @@
             "platforms": [
                 "mb"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nanowasp"
+                ]
+            }
         },
         "ncdz": {
             "id": "ncdz",
@@ -19844,7 +20864,11 @@
             "platforms": [
                 "ngcd"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ncdz"
+                ]
+            }
         },
         "nebula": {
             "id": "nebula",
@@ -19856,7 +20880,11 @@
                 "pgm",
                 "ng"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nebula"
+                ]
+            }
         },
         "nekoprojectii": {
             "id": "nekoprojectii",
@@ -19865,7 +20893,11 @@
             "platforms": [
                 "pc9801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nekoprojectii"
+                ]
+            }
         },
         "nemu64": {
             "id": "nemu64",
@@ -19874,7 +20906,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nemu64"
+                ]
+            }
         },
         "nemulator": {
             "id": "nemulator",
@@ -19885,7 +20921,11 @@
                 "gg",
                 "sms"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nemulator"
+                ]
+            }
         },
         "neocdsdl": {
             "id": "neocdsdl",
@@ -19894,7 +20934,11 @@
             "platforms": [
                 "ngcd"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "neocdsdl"
+                ]
+            }
         },
         "neochip8": {
             "id": "neochip8",
@@ -19904,7 +20948,11 @@
                 "chip8",
                 "vip"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "neochip8"
+                ]
+            }
         },
         "neonds": {
             "id": "neonds",
@@ -19913,7 +20961,11 @@
             "platforms": [
                 "nds"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "neonds"
+                ]
+            }
         },
         "neopocott": {
             "id": "neopocott",
@@ -19923,7 +20975,11 @@
                 "ngp",
                 "ngpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "neopocott"
+                ]
+            }
         },
         "neopop": {
             "id": "neopop",
@@ -19932,7 +20988,11 @@
             "platforms": [
                 "ngpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "neopop"
+                ]
+            }
         },
         "nesemu": {
             "id": "nesemu",
@@ -19941,7 +21001,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nesemu"
+                ]
+            }
         },
         "nesterj": {
             "id": "nesterj",
@@ -19950,7 +21014,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nesterj"
+                ]
+            }
         },
         "nesticle": {
             "id": "nesticle",
@@ -19959,7 +21027,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nesticle"
+                ]
+            }
         },
         "nestopia": {
             "id": "nestopia",
@@ -19968,7 +21040,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nestopia"
+                ]
+            }
         },
         "neusnem": {
             "id": "neusnem",
@@ -19977,7 +21053,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "neusnem"
+                ]
+            }
         },
         "neutrinosx2": {
             "id": "neutrinosx2",
@@ -19986,7 +21066,11 @@
             "platforms": [
                 "ps2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "neutrinosx2"
+                ]
+            }
         },
         "ngae": {
             "id": "ngae",
@@ -19995,7 +21079,11 @@
             "platforms": [
                 "ng"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ngae"
+                ]
+            }
         },
         "nice64": {
             "id": "nice64",
@@ -20004,7 +21092,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nice64"
+                ]
+            }
         },
         "nintendulator": {
             "id": "nintendulator",
@@ -20013,7 +21105,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nintendulator"
+                ]
+            }
         },
         "nlmsx": {
             "id": "nlmsx",
@@ -20024,7 +21120,11 @@
                 "msx",
                 "msxtr"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nlmsx"
+                ]
+            }
         },
         "nnnesterj": {
             "id": "nnnesterj",
@@ -20033,7 +21133,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nnnesterj"
+                ]
+            }
         },
         "no2k6": {
             "id": "no2k6",
@@ -20042,7 +21146,11 @@
             "platforms": [
                 "a2600"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "no2k6"
+                ]
+            }
         },
         "noc64": {
             "id": "noc64",
@@ -20053,7 +21161,11 @@
                 "c64",
                 "vic20"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "noc64"
+                ]
+            }
         },
         "nocpc": {
             "id": "nocpc",
@@ -20062,7 +21174,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nocpc"
+                ]
+            }
         },
         "nogba": {
             "id": "nogba",
@@ -20073,7 +21189,11 @@
                 "gba",
                 "pstation"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nogba"
+                ]
+            }
         },
         "nogmb": {
             "id": "nogmb",
@@ -20083,7 +21203,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nogmb"
+                ]
+            }
         },
         "nomsx": {
             "id": "nomsx",
@@ -20093,7 +21217,11 @@
                 "msx2",
                 "msx"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nomsx"
+                ]
+            }
         },
         "nones": {
             "id": "nones",
@@ -20103,7 +21231,11 @@
                 "fds",
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nones"
+                ]
+            }
         },
         "nopsx": {
             "id": "nopsx",
@@ -20112,7 +21244,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nopsx"
+                ]
+            }
         },
         "nosns": {
             "id": "nosns",
@@ -20121,7 +21257,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nosns"
+                ]
+            }
         },
         "nostalgia": {
             "id": "nostalgia",
@@ -20130,7 +21270,11 @@
             "platforms": [
                 "int"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nostalgia"
+                ]
+            }
         },
         "nozx": {
             "id": "nozx",
@@ -20141,7 +21285,11 @@
                 "zxs",
                 "zx81"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nozx"
+                ]
+            }
         },
         "nucleus": {
             "id": "nucleus",
@@ -20150,7 +21298,11 @@
             "platforms": [
                 "ps3"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nucleus"
+                ]
+            }
         },
         "nulldc": {
             "id": "nulldc",
@@ -20159,7 +21311,11 @@
             "platforms": [
                 "dc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nulldc"
+                ]
+            }
         },
         "nulldcn": {
             "id": "nulldcn",
@@ -20168,7 +21324,11 @@
             "platforms": [
                 "naomi"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "nulldcn"
+                ]
+            }
         },
         "o2em": {
             "id": "o2em",
@@ -20178,7 +21338,11 @@
                 "vg7000",
                 "vg7400"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "o2em"
+                ]
+            }
         },
         "ootake": {
             "id": "ootake",
@@ -20187,7 +21351,11 @@
             "platforms": [
                 "pce"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ootake"
+                ]
+            }
         },
         "oricutron": {
             "id": "oricutron",
@@ -20196,7 +21364,11 @@
             "platforms": [
                 "oric"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "oricutron"
+                ]
+            }
         },
         "osmose": {
             "id": "osmose",
@@ -20206,7 +21378,11 @@
                 "gg",
                 "sms"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "osmose"
+                ]
+            }
         },
         "oswan": {
             "id": "oswan",
@@ -20216,7 +21392,11 @@
                 "ws",
                 "wsc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "oswan"
+                ]
+            }
         },
         "oswanu": {
             "id": "oswanu",
@@ -20226,7 +21406,11 @@
                 "ws",
                 "wsc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "oswanu"
+                ]
+            }
         },
         "pale": {
             "id": "pale",
@@ -20235,7 +21419,11 @@
             "platforms": [
                 "clynx"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pale"
+                ]
+            }
         },
         "parajve": {
             "id": "parajve",
@@ -20244,7 +21432,11 @@
             "platforms": [
                 "vec"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "parajve"
+                ]
+            }
         },
         "pasofami": {
             "id": "pasofami",
@@ -20253,7 +21445,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pasofami"
+                ]
+            }
         },
         "pc6001v": {
             "id": "pc6001v",
@@ -20262,7 +21458,11 @@
             "platforms": [
                 "pc6001"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pc6001v"
+                ]
+            }
         },
         "pc6001vw": {
             "id": "pc6001vw",
@@ -20271,7 +21471,11 @@
             "platforms": [
                 "pc6001"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pc6001vw"
+                ]
+            }
         },
         "pc6001vx": {
             "id": "pc6001vx",
@@ -20280,7 +21484,11 @@
             "platforms": [
                 "pc6001"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pc6001vx"
+                ]
+            }
         },
         "pc64": {
             "id": "pc64",
@@ -20289,7 +21497,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pc64"
+                ]
+            }
         },
         "pc88win": {
             "id": "pc88win",
@@ -20298,7 +21510,11 @@
             "platforms": [
                 "pc8801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pc88win"
+                ]
+            }
         },
         "pcae": {
             "id": "pcae",
@@ -20307,7 +21523,11 @@
             "platforms": [
                 "a2600"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pcae"
+                ]
+            }
         },
         "pcejin": {
             "id": "pcejin",
@@ -20316,7 +21536,11 @@
             "platforms": [
                 "pce"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pcejin"
+                ]
+            }
         },
         "pcemacplus": {
             "id": "pcemacplus",
@@ -20325,7 +21549,11 @@
             "platforms": [
                 "mtosh"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pcemacplus"
+                ]
+            }
         },
         "pcsp": {
             "id": "pcsp",
@@ -20334,7 +21562,11 @@
             "platforms": [
                 "psp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pcsp"
+                ]
+            }
         },
         "pcsx": {
             "id": "pcsx",
@@ -20343,7 +21575,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pcsx"
+                ]
+            }
         },
         "pcsx2": {
             "id": "pcsx2",
@@ -20352,7 +21588,11 @@
             "platforms": [
                 "ps2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pcsx2"
+                ]
+            }
         },
         "pcsxr": {
             "id": "pcsxr",
@@ -20361,7 +21601,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pcsxr"
+                ]
+            }
         },
         "pcsxrr": {
             "id": "pcsxrr",
@@ -20370,7 +21614,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pcsxrr"
+                ]
+            }
         },
         "pearpc": {
             "id": "pearpc",
@@ -20379,7 +21627,11 @@
             "platforms": [
                 "mtosh"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pearpc"
+                ]
+            }
         },
         "phoenix": {
             "id": "phoenix",
@@ -20392,7 +21644,11 @@
                 "sms",
                 "sg1000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "phoenix"
+                ]
+            }
         },
         "picodrive": {
             "id": "picodrive",
@@ -20404,7 +21660,11 @@
                 "smcd",
                 "pico"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "picodrive"
+                ]
+            }
         },
         "pk201": {
             "id": "pk201",
@@ -20413,7 +21673,11 @@
             "platforms": [
                 "pstation"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pk201"
+                ]
+            }
         },
         "pkemu": {
             "id": "pkemu",
@@ -20422,7 +21686,11 @@
             "platforms": [
                 "pstation"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pkemu"
+                ]
+            }
         },
         "plus4emu": {
             "id": "plus4emu",
@@ -20431,7 +21699,11 @@
             "platforms": [
                 "c16plus4"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "plus4emu"
+                ]
+            }
         },
         "pmd85": {
             "id": "pmd85",
@@ -20440,7 +21712,11 @@
             "platforms": [
                 "pmd85"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pmd85"
+                ]
+            }
         },
         "pokemini": {
             "id": "pokemini",
@@ -20449,7 +21725,11 @@
             "platforms": [
                 "pmini"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pokemini"
+                ]
+            }
         },
         "pom1": {
             "id": "pom1",
@@ -20458,7 +21738,11 @@
             "platforms": [
                 "apple1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pom1"
+                ]
+            }
         },
         "potator": {
             "id": "potator",
@@ -20467,7 +21751,11 @@
             "platforms": [
                 "svn"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "potator"
+                ]
+            }
         },
         "potemkin": {
             "id": "potemkin",
@@ -20476,7 +21764,11 @@
             "platforms": [
                 "psp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "potemkin"
+                ]
+            }
         },
         "ppsspp": {
             "id": "ppsspp",
@@ -20485,7 +21777,11 @@
             "platforms": [
                 "psp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ppsspp"
+                ]
+            }
         },
         "project64": {
             "id": "project64",
@@ -20494,7 +21790,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "project64"
+                ]
+            }
         },
         "project64k": {
             "id": "project64k",
@@ -20503,7 +21803,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "project64k"
+                ]
+            }
         },
         "project64k7e": {
             "id": "project64k7e",
@@ -20512,7 +21816,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "project64k7e"
+                ]
+            }
         },
         "projecttempest": {
             "id": "projecttempest",
@@ -20521,7 +21829,11 @@
             "platforms": [
                 "jag"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "projecttempest"
+                ]
+            }
         },
         "prosystem": {
             "id": "prosystem",
@@ -20530,7 +21842,11 @@
             "platforms": [
                 "a7800"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "prosystem"
+                ]
+            }
         },
         "ps2emu": {
             "id": "ps2emu",
@@ -20539,7 +21855,11 @@
             "platforms": [
                 "ps2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ps2emu"
+                ]
+            }
         },
         "psinex": {
             "id": "psinex",
@@ -20548,7 +21868,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "psinex"
+                ]
+            }
         },
         "pspe": {
             "id": "pspe",
@@ -20557,7 +21881,11 @@
             "platforms": [
                 "psp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "pspe"
+                ]
+            }
         },
         "psx": {
             "id": "psx",
@@ -20566,7 +21894,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "psx"
+                ]
+            }
         },
         "psxeven": {
             "id": "psxeven",
@@ -20575,7 +21907,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "psxeven"
+                ]
+            }
         },
         "psxjin": {
             "id": "psxjin",
@@ -20584,7 +21920,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "psxjin"
+                ]
+            }
         },
         "psyke": {
             "id": "psyke",
@@ -20593,7 +21933,11 @@
             "platforms": [
                 "ps1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "psyke"
+                ]
+            }
         },
         "punes": {
             "id": "punes",
@@ -20602,7 +21946,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "punes"
+                ]
+            }
         },
         "ql2k": {
             "id": "ql2k",
@@ -20611,7 +21959,11 @@
             "platforms": [
                 "ql"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ql2k"
+                ]
+            }
         },
         "qlay2": {
             "id": "qlay2",
@@ -20620,7 +21972,11 @@
             "platforms": [
                 "ql"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "qlay2"
+                ]
+            }
         },
         "qlayw": {
             "id": "qlayw",
@@ -20629,7 +21985,11 @@
             "platforms": [
                 "ql"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "qlayw"
+                ]
+            }
         },
         "quasi88": {
             "id": "quasi88",
@@ -20638,7 +21998,11 @@
             "platforms": [
                 "pc8801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "quasi88"
+                ]
+            }
         },
         "race": {
             "id": "race",
@@ -20647,7 +22011,11 @@
             "platforms": [
                 "ngpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "race"
+                ]
+            }
         },
         "radio86": {
             "id": "radio86",
@@ -20656,7 +22024,11 @@
             "platforms": [
                 "r86rk"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "radio86"
+                ]
+            }
         },
         "rainbow": {
             "id": "rainbow",
@@ -20666,7 +22038,11 @@
                 "a5200",
                 "a8bit"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "rainbow"
+                ]
+            }
         },
         "rascalboyadv": {
             "id": "rascalboyadv",
@@ -20675,7 +22051,11 @@
             "platforms": [
                 "gba"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "rascalboyadv"
+                ]
+            }
         },
         "real80pro": {
             "id": "real80pro",
@@ -20684,7 +22064,11 @@
             "platforms": [
                 "ht1080z"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "real80pro"
+                ]
+            }
         },
         "realityboy": {
             "id": "realityboy",
@@ -20693,7 +22077,11 @@
             "platforms": [
                 "vb"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "realityboy"
+                ]
+            }
         },
         "reddragon": {
             "id": "reddragon",
@@ -20702,7 +22090,11 @@
             "platforms": [
                 "vb"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "reddragon"
+                ]
+            }
         },
         "redmsx": {
             "id": "redmsx",
@@ -20712,7 +22104,11 @@
                 "msx2",
                 "msx"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "redmsx"
+                ]
+            }
         },
         "redsquirrel": {
             "id": "redsquirrel",
@@ -20721,7 +22117,11 @@
             "platforms": [
                 "archi"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "redsquirrel"
+                ]
+            }
         },
         "regen": {
             "id": "regen",
@@ -20734,7 +22134,11 @@
                 "sc3000",
                 "sg1000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "regen"
+                ]
+            }
         },
         "retrocopy": {
             "id": "retrocopy",
@@ -20746,7 +22150,11 @@
                 "sms",
                 "gen"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "retrocopy"
+                ]
+            }
         },
         "roc": {
             "id": "roc",
@@ -20756,7 +22164,11 @@
                 "dragon",
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "roc"
+                ]
+            }
         },
         "rocknes": {
             "id": "rocknes",
@@ -20765,7 +22177,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "rocknes"
+                ]
+            }
         },
         "rocknesx": {
             "id": "rocknesx",
@@ -20774,7 +22190,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "rocknesx"
+                ]
+            }
         },
         "roland": {
             "id": "roland",
@@ -20783,7 +22203,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "roland"
+                ]
+            }
         },
         "rpcemu": {
             "id": "rpcemu",
@@ -20792,7 +22216,11 @@
             "platforms": [
                 "archi"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "rpcemu"
+                ]
+            }
         },
         "rpcs3": {
             "id": "rpcs3",
@@ -20801,7 +22229,11 @@
             "platforms": [
                 "ps3"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "rpcs3"
+                ]
+            }
         },
         "rxnes": {
             "id": "rxnes",
@@ -20810,7 +22242,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "rxnes"
+                ]
+            }
         },
         "saint": {
             "id": "saint",
@@ -20819,7 +22255,11 @@
             "platforms": [
                 "st"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "saint"
+                ]
+            }
         },
         "satourne": {
             "id": "satourne",
@@ -20828,7 +22268,11 @@
             "platforms": [
                 "sat"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "satourne"
+                ]
+            }
         },
         "saturnin": {
             "id": "saturnin",
@@ -20837,7 +22281,11 @@
             "platforms": [
                 "sat"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "saturnin"
+                ]
+            }
         },
         "scummvm": {
             "id": "scummvm",
@@ -20846,7 +22294,11 @@
             "platforms": [
                 "svm"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "scummvm"
+                ]
+            }
         },
         "sdltrs": {
             "id": "sdltrs",
@@ -20855,7 +22307,11 @@
             "platforms": [
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "sdltrs"
+                ]
+            }
         },
         "sharp80": {
             "id": "sharp80",
@@ -20864,7 +22320,11 @@
             "platforms": [
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "sharp80"
+                ]
+            }
         },
         "sharpchip8": {
             "id": "sharpchip8",
@@ -20873,7 +22333,11 @@
             "platforms": [
                 "chip8"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "sharpchip8"
+                ]
+            }
         },
         "sheepshaver": {
             "id": "sheepshaver",
@@ -20882,7 +22346,11 @@
             "platforms": [
                 "mtosh"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "sheepshaver"
+                ]
+            }
         },
         "shortwaves": {
             "id": "shortwaves",
@@ -20891,7 +22359,11 @@
             "platforms": [
                 "ps3"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "shortwaves"
+                ]
+            }
         },
         "simcoupe": {
             "id": "simcoupe",
@@ -20900,7 +22372,11 @@
             "platforms": [
                 "samc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "simcoupe"
+                ]
+            }
         },
         "simh": {
             "id": "simh",
@@ -20910,7 +22386,11 @@
                 "pdp1",
                 "pdp7"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "simh"
+                ]
+            }
         },
         "sneese": {
             "id": "sneese",
@@ -20919,7 +22399,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "sneese"
+                ]
+            }
         },
         "snem": {
             "id": "snem",
@@ -20928,7 +22412,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "snem"
+                ]
+            }
         },
         "snes9x": {
             "id": "snes9x",
@@ -20937,7 +22425,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "snes9x"
+                ]
+            }
         },
         "snes9xrr": {
             "id": "snes9xrr",
@@ -20946,7 +22438,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "snes9xrr"
+                ]
+            }
         },
         "snes9xsx2": {
             "id": "snes9xsx2",
@@ -20955,7 +22451,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "snes9xsx2"
+                ]
+            }
         },
         "snesgt": {
             "id": "snesgt",
@@ -20964,7 +22464,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "snesgt"
+                ]
+            }
         },
         "softvms": {
             "id": "softvms",
@@ -20973,7 +22477,11 @@
             "platforms": [
                 "dcvmu"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "softvms"
+                ]
+            }
         },
         "sorcerer": {
             "id": "sorcerer",
@@ -20982,7 +22490,11 @@
             "platforms": [
                 "sorcerer"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "sorcerer"
+                ]
+            }
         },
         "speccy": {
             "id": "speccy",
@@ -20992,7 +22504,11 @@
                 "samc",
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "speccy"
+                ]
+            }
         },
         "spud": {
             "id": "spud",
@@ -21001,7 +22517,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "spud"
+                ]
+            }
         },
         "spudace": {
             "id": "spudace",
@@ -21010,7 +22530,11 @@
             "platforms": [
                 "jupace"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "spudace"
+                ]
+            }
         },
         "ssf": {
             "id": "ssf",
@@ -21020,7 +22544,11 @@
                 "sat",
                 "stv"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ssf"
+                ]
+            }
         },
         "steem": {
             "id": "steem",
@@ -21029,7 +22557,11 @@
             "platforms": [
                 "st"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "steem"
+                ]
+            }
         },
         "steemsse": {
             "id": "steemsse",
@@ -21038,7 +22570,11 @@
             "platforms": [
                 "st"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "steemsse"
+                ]
+            }
         },
         "stella": {
             "id": "stella",
@@ -21047,7 +22583,11 @@
             "platforms": [
                 "a2600"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "stella"
+                ]
+            }
         },
         "stem": {
             "id": "stem",
@@ -21056,7 +22596,11 @@
             "platforms": [
                 "studio2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "stem"
+                ]
+            }
         },
         "sugarbox": {
             "id": "sugarbox",
@@ -21065,7 +22609,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "sugarbox"
+                ]
+            }
         },
         "supergcube": {
             "id": "supergcube",
@@ -21074,7 +22622,11 @@
             "platforms": [
                 "gc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "supergcube"
+                ]
+            }
         },
         "supermodel": {
             "id": "supermodel",
@@ -21083,7 +22635,11 @@
             "platforms": [
                 "model3"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "supermodel"
+                ]
+            }
         },
         "swfopener": {
             "id": "swfopener",
@@ -21092,7 +22648,11 @@
             "platforms": [
                 "flash"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "swfopener"
+                ]
+            }
         },
         "t2k": {
             "id": "t2k",
@@ -21101,7 +22661,11 @@
             "platforms": [
                 "jag"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "t2k"
+                ]
+            }
         },
         "takeda": {
             "id": "takeda",
@@ -21128,7 +22692,11 @@
                 "sordm5",
                 "tutor"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "takeda"
+                ]
+            }
         },
         "tgbdual": {
             "id": "tgbdual",
@@ -21138,7 +22706,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "tgbdual"
+                ]
+            }
         },
         "ti994w": {
             "id": "ti994w",
@@ -21147,7 +22719,11 @@
             "platforms": [
                 "ti99"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ti994w"
+                ]
+            }
         },
         "tilem": {
             "id": "tilem",
@@ -21159,7 +22735,11 @@
                 "ti85",
                 "ti86"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "tilem"
+                ]
+            }
         },
         "tronds": {
             "id": "tronds",
@@ -21168,7 +22748,11 @@
             "platforms": [
                 "3ds"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "tronds"
+                ]
+            }
         },
         "trs80gp": {
             "id": "trs80gp",
@@ -21177,7 +22761,11 @@
             "platforms": [
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "trs80gp"
+                ]
+            }
         },
         "tunix2001": {
             "id": "tunix2001",
@@ -21189,7 +22777,11 @@
                 "zxs",
                 "l200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "tunix2001"
+                ]
+            }
         },
         "turboengine": {
             "id": "turboengine",
@@ -21200,7 +22792,11 @@
                 "pce2",
                 "pce"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "turboengine"
+                ]
+            }
         },
         "twombit": {
             "id": "twombit",
@@ -21211,7 +22807,11 @@
                 "sms",
                 "sg1000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "twombit"
+                ]
+            }
         },
         "ubee512": {
             "id": "ubee512",
@@ -21220,7 +22820,11 @@
             "platforms": [
                 "mb"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ubee512"
+                ]
+            }
         },
         "ubernes": {
             "id": "ubernes",
@@ -21229,7 +22833,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ubernes"
+                ]
+            }
         },
         "ultimo": {
             "id": "ultimo",
@@ -21238,7 +22846,11 @@
             "platforms": [
                 "primo"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ultimo"
+                ]
+            }
         },
         "ultrahle": {
             "id": "ultrahle",
@@ -21247,7 +22859,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ultrahle"
+                ]
+            }
         },
         "ultrahle2064": {
             "id": "ultrahle2064",
@@ -21256,7 +22872,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "ultrahle2064"
+                ]
+            }
         },
         "unrealspeccy": {
             "id": "unrealspeccy",
@@ -21265,7 +22885,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "unrealspeccy"
+                ]
+            }
         },
         "unz": {
             "id": "unz",
@@ -21274,7 +22898,11 @@
             "platforms": [
                 "fmtowns"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "unz"
+                ]
+            }
         },
         "uosnes": {
             "id": "uosnes",
@@ -21283,7 +22911,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "uosnes"
+                ]
+            }
         },
         "uoyabause": {
             "id": "uoyabause",
@@ -21292,7 +22924,11 @@
             "platforms": [
                 "sat"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "uoyabause"
+                ]
+            }
         },
         "vace": {
             "id": "vace",
@@ -21301,7 +22937,11 @@
             "platforms": [
                 "jupace"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vace"
+                ]
+            }
         },
         "vace3d": {
             "id": "vace3d",
@@ -21310,7 +22950,11 @@
             "platforms": [
                 "jupace"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vace3d"
+                ]
+            }
         },
         "vaquarius": {
             "id": "vaquarius",
@@ -21319,7 +22963,11 @@
             "platforms": [
                 "aqua"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vaquarius"
+                ]
+            }
         },
         "vb64": {
             "id": "vb64",
@@ -21328,7 +22976,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vb64"
+                ]
+            }
         },
         "vbam": {
             "id": "vbam",
@@ -21338,7 +22990,11 @@
                 "gb",
                 "gba"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vbam"
+                ]
+            }
         },
         "vbarr": {
             "id": "vbarr",
@@ -21349,7 +23005,11 @@
                 "gba",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vbarr"
+                ]
+            }
         },
         "vbjin": {
             "id": "vbjin",
@@ -21358,7 +23018,11 @@
             "platforms": [
                 "vb"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vbjin"
+                ]
+            }
         },
         "vbjin-ovr": {
             "id": "vbjin-ovr",
@@ -21367,7 +23031,11 @@
             "platforms": [
                 "vb"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vbjin-ovr"
+                ]
+            }
         },
         "vdmgr": {
             "id": "vdmgr",
@@ -21381,7 +23049,11 @@
                 "sg1000",
                 "ngp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vdmgr"
+                ]
+            }
         },
         "vecx": {
             "id": "vecx",
@@ -21390,7 +23062,11 @@
             "platforms": [
                 "vec"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vecx"
+                ]
+            }
         },
         "vecxgl": {
             "id": "vecxgl",
@@ -21399,7 +23075,11 @@
             "platforms": [
                 "vec"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vecxgl"
+                ]
+            }
         },
         "vgb": {
             "id": "vgb",
@@ -21409,7 +23089,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vgb"
+                ]
+            }
         },
         "vgba": {
             "id": "vgba",
@@ -21418,7 +23102,11 @@
             "platforms": [
                 "gba"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vgba"
+                ]
+            }
         },
         "vic20emu": {
             "id": "vic20emu",
@@ -21427,7 +23115,11 @@
             "platforms": [
                 "vic20"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vic20emu"
+                ]
+            }
         },
         "vinter": {
             "id": "vinter",
@@ -21436,7 +23128,11 @@
             "platforms": [
                 "hcs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vinter"
+                ]
+            }
         },
         "virtpanajr": {
             "id": "virtpanajr",
@@ -21445,7 +23141,11 @@
             "platforms": [
                 "jr200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtpanajr"
+                ]
+            }
         },
         "virtu": {
             "id": "virtu",
@@ -21454,7 +23154,11 @@
             "platforms": [
                 "apple2"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtu"
+                ]
+            }
         },
         "virtual98": {
             "id": "virtual98",
@@ -21463,7 +23167,11 @@
             "platforms": [
                 "pc9801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtual98"
+                ]
+            }
         },
         "virtualapf": {
             "id": "virtualapf",
@@ -21472,7 +23180,11 @@
             "platforms": [
                 "im"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtualapf"
+                ]
+            }
         },
         "virtualjaguar": {
             "id": "virtualjaguar",
@@ -21481,7 +23193,11 @@
             "platforms": [
                 "jag"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtualjaguar"
+                ]
+            }
         },
         "virtualmc10": {
             "id": "virtualmc10",
@@ -21490,7 +23206,11 @@
             "platforms": [
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtualmc10"
+                ]
+            }
         },
         "virtualnectrek": {
             "id": "virtualnectrek",
@@ -21499,7 +23219,11 @@
             "platforms": [
                 "pc6001"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtualnectrek"
+                ]
+            }
         },
         "virtualt": {
             "id": "virtualt",
@@ -21508,7 +23232,11 @@
             "platforms": [
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtualt"
+                ]
+            }
         },
         "virtuanes": {
             "id": "virtuanes",
@@ -21518,7 +23246,11 @@
                 "fds",
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtuanes"
+                ]
+            }
         },
         "virtuanesplus": {
             "id": "virtuanesplus",
@@ -21528,7 +23260,11 @@
                 "fds",
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "virtuanesplus"
+                ]
+            }
         },
         "visualboy": {
             "id": "visualboy",
@@ -21538,7 +23274,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "visualboy"
+                ]
+            }
         },
         "visualboyadvance": {
             "id": "visualboyadvance",
@@ -21549,7 +23289,11 @@
                 "gba",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "visualboyadvance"
+                ]
+            }
         },
         "visualboyadvancerr": {
             "id": "visualboyadvancerr",
@@ -21560,7 +23304,11 @@
                 "gba",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "visualboyadvancerr"
+                ]
+            }
         },
         "visualpinball": {
             "id": "visualpinball",
@@ -21569,7 +23317,11 @@
             "platforms": [
                 "vp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "visualpinball"
+                ]
+            }
         },
         "vivanonno": {
             "id": "vivanonno",
@@ -21578,7 +23330,11 @@
             "platforms": [
                 "s22"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vivanonno"
+                ]
+            }
         },
         "vss": {
             "id": "vss",
@@ -21587,7 +23343,11 @@
             "platforms": [
                 "a5200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vss"
+                ]
+            }
         },
         "vzem": {
             "id": "vzem",
@@ -21596,7 +23356,11 @@
             "platforms": [
                 "l200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "vzem"
+                ]
+            }
         },
         "w88": {
             "id": "w88",
@@ -21605,7 +23369,11 @@
             "platforms": [
                 "pc8801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "w88"
+                ]
+            }
         },
         "wataroo": {
             "id": "wataroo",
@@ -21614,7 +23382,11 @@
             "platforms": [
                 "svn"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "wataroo"
+                ]
+            }
         },
         "whinecube": {
             "id": "whinecube",
@@ -21623,7 +23395,11 @@
             "platforms": [
                 "gc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "whinecube"
+                ]
+            }
         },
         "win64": {
             "id": "win64",
@@ -21632,7 +23408,11 @@
             "platforms": [
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "win64"
+                ]
+            }
         },
         "win994a": {
             "id": "win994a",
@@ -21641,7 +23421,11 @@
             "platforms": [
                 "ti99"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "win994a"
+                ]
+            }
         },
         "winape": {
             "id": "winape",
@@ -21651,7 +23435,11 @@
                 "cpc",
                 "gx4000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winape"
+                ]
+            }
         },
         "winarcadia": {
             "id": "winarcadia",
@@ -21663,7 +23451,11 @@
                 "vc4000",
                 "pipbug"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winarcadia"
+                ]
+            }
         },
         "winboycott": {
             "id": "winboycott",
@@ -21673,7 +23465,11 @@
                 "gb",
                 "gbc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winboycott"
+                ]
+            }
         },
         "wincpc": {
             "id": "wincpc",
@@ -21682,7 +23478,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "wincpc"
+                ]
+            }
         },
         "winfellow": {
             "id": "winfellow",
@@ -21691,7 +23491,11 @@
             "platforms": [
                 "amiga"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winfellow"
+                ]
+            }
         },
         "winkawaks": {
             "id": "winkawaks",
@@ -21702,7 +23506,11 @@
                 "cps2",
                 "ng"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winkawaks"
+                ]
+            }
         },
         "wintvc": {
             "id": "wintvc",
@@ -21711,7 +23519,11 @@
             "platforms": [
                 "tvc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "wintvc"
+                ]
+            }
         },
         "winuae": {
             "id": "winuae",
@@ -21721,7 +23533,11 @@
                 "amiga",
                 "amigacd32"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winuae"
+                ]
+            }
         },
         "winvice": {
             "id": "winvice",
@@ -21735,7 +23551,11 @@
                 "pet",
                 "vic20"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winvice"
+                ]
+            }
         },
         "winvz": {
             "id": "winvz",
@@ -21744,7 +23564,11 @@
             "platforms": [
                 "l200"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winvz"
+                ]
+            }
         },
         "winvz300": {
             "id": "winvz300",
@@ -21755,7 +23579,11 @@
                 "l200",
                 "l350"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winvz300"
+                ]
+            }
         },
         "winx1": {
             "id": "winx1",
@@ -21764,7 +23592,11 @@
             "platforms": [
                 "x1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "winx1"
+                ]
+            }
         },
         "wscamp": {
             "id": "wscamp",
@@ -21774,7 +23606,11 @@
                 "ws",
                 "wsc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "wscamp"
+                ]
+            }
         },
         "x88000": {
             "id": "x88000",
@@ -21783,7 +23619,11 @@
             "platforms": [
                 "pc8801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "x88000"
+                ]
+            }
         },
         "xe": {
             "id": "xe",
@@ -21809,7 +23649,11 @@
                 "ngcd",
                 "ngp"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xe"
+                ]
+            }
         },
         "xebra": {
             "id": "xebra",
@@ -21819,7 +23663,11 @@
                 "ps1",
                 "pstation"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xebra"
+                ]
+            }
         },
         "xenia": {
             "id": "xenia",
@@ -21828,7 +23676,11 @@
             "platforms": [
                 "xbox360"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xenia"
+                ]
+            }
         },
         "xeon": {
             "id": "xeon",
@@ -21837,7 +23689,11 @@
             "platforms": [
                 "xbox"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xeon"
+                ]
+            }
         },
         "xgs32": {
             "id": "xgs32",
@@ -21846,7 +23702,11 @@
             "platforms": [
                 "apple2gs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xgs32"
+                ]
+            }
         },
         "xm6": {
             "id": "xm6",
@@ -21855,7 +23715,11 @@
             "platforms": [
                 "x68000"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xm6"
+                ]
+            }
         },
         "xm7": {
             "id": "xm7",
@@ -21864,7 +23728,11 @@
             "platforms": [
                 "fm7"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xm7"
+                ]
+            }
         },
         "xm7dash": {
             "id": "xm7dash",
@@ -21873,7 +23741,11 @@
             "platforms": [
                 "fm7"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xm7dash"
+                ]
+            }
         },
         "xm8": {
             "id": "xm8",
@@ -21882,7 +23754,11 @@
             "platforms": [
                 "pc8801"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xm8"
+                ]
+            }
         },
         "xmillenium": {
             "id": "xmillenium",
@@ -21891,7 +23767,11 @@
             "platforms": [
                 "x1"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xmillenium"
+                ]
+            }
         },
         "xpeccy": {
             "id": "xpeccy",
@@ -21901,7 +23781,11 @@
                 "msx",
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xpeccy"
+                ]
+            }
         },
         "xqemu": {
             "id": "xqemu",
@@ -21910,7 +23794,11 @@
             "platforms": [
                 "xbox"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xqemu"
+                ]
+            }
         },
         "xroar": {
             "id": "xroar",
@@ -21920,7 +23808,11 @@
                 "dragon",
                 "trs80"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xroar"
+                ]
+            }
         },
         "xsnes": {
             "id": "xsnes",
@@ -21929,7 +23821,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "xsnes"
+                ]
+            }
         },
         "yabause": {
             "id": "yabause",
@@ -21938,7 +23834,11 @@
             "platforms": [
                 "sat"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "yabause"
+                ]
+            }
         },
         "yabaused": {
             "id": "yabaused",
@@ -21947,7 +23847,11 @@
             "platforms": [
                 "sat"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "yabaused"
+                ]
+            }
         },
         "yage": {
             "id": "yage",
@@ -21956,7 +23860,11 @@
             "platforms": [
                 "cpc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "yage"
+                ]
+            }
         },
         "yanese": {
             "id": "yanese",
@@ -21965,7 +23873,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "yanese"
+                ]
+            }
         },
         "yape": {
             "id": "yape",
@@ -21974,7 +23886,11 @@
             "platforms": [
                 "c16plus4"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "yape"
+                ]
+            }
         },
         "yapesdl": {
             "id": "yapesdl",
@@ -21984,7 +23900,11 @@
                 "c16plus4",
                 "c64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "yapesdl"
+                ]
+            }
         },
         "yoshines": {
             "id": "yoshines",
@@ -21993,7 +23913,11 @@
             "platforms": [
                 "nes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "yoshines"
+                ]
+            }
         },
         "z26": {
             "id": "z26",
@@ -22002,7 +23926,11 @@
             "platforms": [
                 "a2600"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "z26"
+                ]
+            }
         },
         "z80stealth": {
             "id": "z80stealth",
@@ -22011,7 +23939,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "z80stealth"
+                ]
+            }
         },
         "zboy": {
             "id": "zboy",
@@ -22020,7 +23952,11 @@
             "platforms": [
                 "gb"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "zboy"
+                ]
+            }
         },
         "zero": {
             "id": "zero",
@@ -22029,7 +23965,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "zero"
+                ]
+            }
         },
         "zesarux": {
             "id": "zesarux",
@@ -22042,7 +23982,11 @@
                 "zxs",
                 "zx81"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "zesarux"
+                ]
+            }
         },
         "zinc": {
             "id": "zinc",
@@ -22052,7 +23996,11 @@
                 "s11",
                 "zinc"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "zinc"
+                ]
+            }
         },
         "zsnes": {
             "id": "zsnes",
@@ -22061,7 +24009,11 @@
             "platforms": [
                 "snes"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "zsnes"
+                ]
+            }
         },
         "zxspin": {
             "id": "zxspin",
@@ -22070,7 +24022,11 @@
             "platforms": [
                 "zxs"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "zxspin"
+                ]
+            }
         },
         "1964": {
             "id": 1964,
@@ -22079,7 +24035,11 @@
             "platforms": [
                 "n64"
             ],
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    1964
+                ]
+            }
         }
     },
     "games": []
