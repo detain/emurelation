@@ -37,7 +37,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [local](local.json) | Local | - | - | 830 | - |
+| [local](local.json) | Local | 830 | 0 | 830 | 100% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 167 | 30 | 197 | 84.8% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 120 | 36 | 156 | 76.9% |
@@ -56,7 +56,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [local](local.json) | Local | - | - | 490 | - |
+| [local](local.json) | Local | 490 | 0 | 490 | 100% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 490 | 490 | 0% |
 | [EmulationKing](sources/emulationking.json) | Website | 0 | 96 | 96 | 0% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 0 | 164 | 164 | 0% |
@@ -67,7 +67,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [local](local.json) | Local | - | - | 285 | - |
+| [local](local.json) | Local | 285 | 0 | 285 | 100% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 100 | 100 | 0% |
 | [EmulationKing](sources/emulationking.json) | Website | 0 | 5 | 5 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 126 | 126 | 0% |
@@ -77,6 +77,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
+| [LaunchBox](sources/launchbox.json) | Frontend | 0 | 0 | 0 | 0% |
 
 ## 📒 Development Notes
 
