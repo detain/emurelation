@@ -2435,22 +2435,6 @@
             },
             "company": "Canon"
         },
-        "Capcom Capcom Play System III": {
-            "id": "Capcom Capcom Play System III",
-            "name": "Capcom Capcom Play System III",
-            "matches": {
-                "emucontrolcenter": [
-                    "cps3"
-                ],
-                "toseciso": [
-                    "Capcom CP System III - Games"
-                ],
-                "screenscraper": [
-                    8
-                ]
-            },
-            "company": "Capcom"
-        },
         "Capcom Capcom Play System 1": {
             "id": "Capcom Capcom Play System 1",
             "name": "Capcom Capcom Play System 1",
@@ -2470,6 +2454,22 @@
                 ],
                 "emucontrolcenter": [
                     "cps2"
+                ]
+            },
+            "company": "Capcom"
+        },
+        "Capcom Capcom Play System III": {
+            "id": "Capcom Capcom Play System III",
+            "name": "Capcom Capcom Play System III",
+            "matches": {
+                "emucontrolcenter": [
+                    "cps3"
+                ],
+                "toseciso": [
+                    "Capcom CP System III - Games"
+                ],
+                "screenscraper": [
+                    8
                 ]
             },
             "company": "Capcom"
@@ -15591,14 +15591,69 @@
             "name": "ACT",
             "matches": []
         },
+        "ADC": {
+            "id": "ADC",
+            "name": "ADC",
+            "matches": []
+        },
+        "AEG": {
+            "id": "AEG",
+            "name": "AEG",
+            "matches": []
+        },
+        "AMPRO Computers": {
+            "id": "AMPRO Computers",
+            "name": "AMPRO Computers",
+            "matches": []
+        },
         "APF": {
             "id": "APF",
             "name": "APF",
             "matches": []
         },
+        "AT&T": {
+            "id": "AT&T",
+            "name": "AT&T",
+            "matches": []
+        },
+        "AVE Micro Systems": {
+            "id": "AVE Micro Systems",
+            "name": "AVE Micro Systems",
+            "matches": []
+        },
+        "Acetronic": {
+            "id": "Acetronic",
+            "name": "Acetronic",
+            "matches": []
+        },
         "Acorn": {
             "id": "Acorn",
             "name": "Acorn",
+            "matches": []
+        },
+        "Advanced Computer Design": {
+            "id": "Advanced Computer Design",
+            "name": "Advanced Computer Design",
+            "matches": []
+        },
+        "AlphaSmart": {
+            "id": "AlphaSmart",
+            "name": "AlphaSmart",
+            "matches": []
+        },
+        "Alspa Computers": {
+            "id": "Alspa Computers",
+            "name": "Alspa Computers",
+            "matches": []
+        },
+        "Altos Computer Systems": {
+            "id": "Altos Computer Systems",
+            "name": "Altos Computer Systems",
+            "matches": []
+        },
+        "American Laser Games": {
+            "id": "American Laser Games",
+            "name": "American Laser Games",
             "matches": []
         },
         "American-Laser-Games": {
@@ -15611,6 +15666,11 @@
             "name": "Amstrad",
             "matches": []
         },
+        "Apogee": {
+            "id": "Apogee",
+            "name": "Apogee",
+            "matches": []
+        },
         "Apple": {
             "id": "Apple",
             "name": "Apple",
@@ -15619,6 +15679,11 @@
         "Applied Technology": {
             "id": "Applied Technology",
             "name": "Applied Technology",
+            "matches": []
+        },
+        "Applix": {
+            "id": "Applix",
+            "name": "Applix",
             "matches": []
         },
         "Aquaplus": {
@@ -15631,9 +15696,29 @@
             "name": "Atari",
             "matches": []
         },
+        "Aussie": {
+            "id": "Aussie",
+            "name": "Aussie",
+            "matches": []
+        },
+        "BBC": {
+            "id": "BBC",
+            "name": "BBC",
+            "matches": []
+        },
         "BGR Computers": {
             "id": "BGR Computers",
             "name": "BGR Computers",
+            "matches": []
+        },
+        "BNPO": {
+            "id": "BNPO",
+            "name": "BNPO",
+            "matches": []
+        },
+        "Baiyi": {
+            "id": "Baiyi",
+            "name": "Baiyi",
             "matches": []
         },
         "Bally": {
@@ -15651,19 +15736,29 @@
             "name": "Benesse",
             "matches": []
         },
-        "Bernd Huebler & Klaus-Peter Evert": {
-            "id": "Bernd Huebler & Klaus-Peter Evert",
-            "name": "Bernd Huebler & Klaus-Peter Evert",
-            "matches": []
-        },
         "Bernd Huebler": {
             "id": "Bernd Huebler",
             "name": "Bernd Huebler",
             "matches": []
         },
+        "Bernd Huebler & Klaus-Peter Evert": {
+            "id": "Bernd Huebler & Klaus-Peter Evert",
+            "name": "Bernd Huebler & Klaus-Peter Evert",
+            "matches": []
+        },
         "Bit Corporation": {
             "id": "Bit Corporation",
             "name": "Bit Corporation",
+            "matches": []
+        },
+        "Bondwell": {
+            "id": "Bondwell",
+            "name": "Bondwell",
+            "matches": []
+        },
+        "Burroughs": {
+            "id": "Burroughs",
+            "name": "Burroughs",
             "matches": []
         },
         "CCE": {
@@ -15676,6 +15771,16 @@
             "name": "COMX",
             "matches": []
         },
+        "Cadaco": {
+            "id": "Cadaco",
+            "name": "Cadaco",
+            "matches": []
+        },
+        "Cambridge": {
+            "id": "Cambridge",
+            "name": "Cambridge",
+            "matches": []
+        },
         "Cambridge Computer": {
             "id": "Cambridge Computer",
             "name": "Cambridge Computer",
@@ -15684,6 +15789,11 @@
         "Camputers": {
             "id": "Camputers",
             "name": "Camputers",
+            "matches": []
+        },
+        "Canon": {
+            "id": "Canon",
+            "name": "Canon",
             "matches": []
         },
         "Capcom": {
@@ -15696,6 +15806,21 @@
             "name": "Casio",
             "matches": []
         },
+        "Casper": {
+            "id": "Casper",
+            "name": "Casper",
+            "matches": []
+        },
+        "Chafitz": {
+            "id": "Chafitz",
+            "name": "Chafitz",
+            "matches": []
+        },
+        "China": {
+            "id": "China",
+            "name": "China",
+            "matches": []
+        },
         "Coleco": {
             "id": "Coleco",
             "name": "Coleco",
@@ -15706,6 +15831,36 @@
             "name": "Commodore",
             "matches": []
         },
+        "Compucolor": {
+            "id": "Compucolor",
+            "name": "Compucolor",
+            "matches": []
+        },
+        "Compugraphic": {
+            "id": "Compugraphic",
+            "name": "Compugraphic",
+            "matches": []
+        },
+        "Conchess": {
+            "id": "Conchess",
+            "name": "Conchess",
+            "matches": []
+        },
+        "Conitec": {
+            "id": "Conitec",
+            "name": "Conitec",
+            "matches": []
+        },
+        "Control Data Corporation": {
+            "id": "Control Data Corporation",
+            "name": "Control Data Corporation",
+            "matches": []
+        },
+        "Convergent Technologies": {
+            "id": "Convergent Technologies",
+            "name": "Convergent Technologies",
+            "matches": []
+        },
         "Creatronic": {
             "id": "Creatronic",
             "name": "Creatronic",
@@ -15714,6 +15869,11 @@
         "Cybiko": {
             "id": "Cybiko",
             "name": "Cybiko",
+            "matches": []
+        },
+        "DAI": {
+            "id": "DAI",
+            "name": "DAI",
             "matches": []
         },
         "DEC": {
@@ -15731,9 +15891,19 @@
             "name": "Dick Smith",
             "matches": []
         },
+        "Didact": {
+            "id": "Didact",
+            "name": "Didact",
+            "matches": []
+        },
         "Digital Electronics": {
             "id": "Digital Electronics",
             "name": "Digital Electronics",
+            "matches": []
+        },
+        "Dragon": {
+            "id": "Dragon",
+            "name": "Dragon",
             "matches": []
         },
         "Dragon Data": {
@@ -15744,6 +15914,26 @@
         "EACA": {
             "id": "EACA",
             "name": "EACA",
+            "matches": []
+        },
+        "EC": {
+            "id": "EC",
+            "name": "EC",
+            "matches": []
+        },
+        "EPSON": {
+            "id": "EPSON",
+            "name": "EPSON",
+            "matches": []
+        },
+        "ETL": {
+            "id": "ETL",
+            "name": "ETL",
+            "matches": []
+        },
+        "Elecbyte": {
+            "id": "Elecbyte",
+            "name": "Elecbyte",
             "matches": []
         },
         "Elektronika": {
@@ -15759,6 +15949,11 @@
         "Emerson": {
             "id": "Emerson",
             "name": "Emerson",
+            "matches": []
+        },
+        "Enterprex": {
+            "id": "Enterprex",
+            "name": "Enterprex",
             "matches": []
         },
         "Enterprise": {
@@ -15781,6 +15976,16 @@
             "name": "Epson",
             "matches": []
         },
+        "Ericsson": {
+            "id": "Ericsson",
+            "name": "Ericsson",
+            "matches": []
+        },
+        "Excalibur": {
+            "id": "Excalibur",
+            "name": "Excalibur",
+            "matches": []
+        },
         "Exelvision": {
             "id": "Exelvision",
             "name": "Exelvision",
@@ -15794,6 +15999,41 @@
         "Fairchild": {
             "id": "Fairchild",
             "name": "Fairchild",
+            "matches": []
+        },
+        "Fairlight": {
+            "id": "Fairlight",
+            "name": "Fairlight",
+            "matches": []
+        },
+        "Ferguson": {
+            "id": "Ferguson",
+            "name": "Ferguson",
+            "matches": []
+        },
+        "Fidelity": {
+            "id": "Fidelity",
+            "name": "Fidelity",
+            "matches": []
+        },
+        "Fisher-Price - Mattel": {
+            "id": "Fisher-Price - Mattel",
+            "name": "Fisher-Price - Mattel",
+            "matches": []
+        },
+        "Franklin": {
+            "id": "Franklin",
+            "name": "Franklin",
+            "matches": []
+        },
+        "Front Fareast": {
+            "id": "Front Fareast",
+            "name": "Front Fareast",
+            "matches": []
+        },
+        "Fuji": {
+            "id": "Fuji",
+            "name": "Fuji",
             "matches": []
         },
         "Fujitsu": {
@@ -15816,6 +16056,16 @@
             "name": "GCE",
             "matches": []
         },
+        "Gachinko": {
+            "id": "Gachinko",
+            "name": "Gachinko",
+            "matches": []
+        },
+        "Gakken": {
+            "id": "Gakken",
+            "name": "Gakken",
+            "matches": []
+        },
         "Galaksija": {
             "id": "Galaksija",
             "name": "Galaksija",
@@ -15826,9 +16076,34 @@
             "name": "GamePark",
             "matches": []
         },
+        "Generic": {
+            "id": "Generic",
+            "name": "Generic",
+            "matches": []
+        },
+        "Gimix": {
+            "id": "Gimix",
+            "name": "Gimix",
+            "matches": []
+        },
+        "Gould": {
+            "id": "Gould",
+            "name": "Gould",
+            "matches": []
+        },
         "Grundy": {
             "id": "Grundy",
             "name": "Grundy",
+            "matches": []
+        },
+        "Gundam": {
+            "id": "Gundam",
+            "name": "Gundam",
+            "matches": []
+        },
+        "Handheld": {
+            "id": "Handheld",
+            "name": "Handheld",
             "matches": []
         },
         "Hanimex": {
@@ -15839,6 +16114,16 @@
         "Hartung": {
             "id": "Hartung",
             "name": "Hartung",
+            "matches": []
+        },
+        "Hawthorne Technology": {
+            "id": "Hawthorne Technology",
+            "name": "Hawthorne Technology",
+            "matches": []
+        },
+        "Hector": {
+            "id": "Hector",
+            "name": "Hector",
             "matches": []
         },
         "Hewlett-Packard": {
@@ -15861,6 +16146,16 @@
             "name": "IBM",
             "matches": []
         },
+        "ITT": {
+            "id": "ITT",
+            "name": "ITT",
+            "matches": []
+        },
+        "Incredible Technologies": {
+            "id": "Incredible Technologies",
+            "name": "Incredible Technologies",
+            "matches": []
+        },
         "Incredible-Technologies": {
             "id": "Incredible-Technologies",
             "name": "Incredible-Technologies",
@@ -15881,9 +16176,44 @@
             "name": "Interact",
             "matches": []
         },
+        "Intergraph": {
+            "id": "Intergraph",
+            "name": "Intergraph",
+            "matches": []
+        },
         "Interton": {
             "id": "Interton",
             "name": "Interton",
+            "matches": []
+        },
+        "Itautec": {
+            "id": "Itautec",
+            "name": "Itautec",
+            "matches": []
+        },
+        "Ithaca": {
+            "id": "Ithaca",
+            "name": "Ithaca",
+            "matches": []
+        },
+        "JAKKS Pacific": {
+            "id": "JAKKS Pacific",
+            "name": "JAKKS Pacific",
+            "matches": []
+        },
+        "JPM": {
+            "id": "JPM",
+            "name": "JPM",
+            "matches": []
+        },
+        "Juku": {
+            "id": "Juku",
+            "name": "Juku",
+            "matches": []
+        },
+        "JungleTac-KenSingTon": {
+            "id": "JungleTac-KenSingTon",
+            "name": "JungleTac-KenSingTon",
             "matches": []
         },
         "Jupiter Cantab": {
@@ -15896,9 +16226,29 @@
             "name": "Kaypro",
             "matches": []
         },
+        "Keio University": {
+            "id": "Keio University",
+            "name": "Keio University",
+            "matches": []
+        },
+        "Koei": {
+            "id": "Koei",
+            "name": "Koei",
+            "matches": []
+        },
         "Konami": {
             "id": "Konami",
             "name": "Konami",
+            "matches": []
+        },
+        "Kontron": {
+            "id": "Kontron",
+            "name": "Kontron",
+            "matches": []
+        },
+        "LSI": {
+            "id": "LSI",
+            "name": "LSI",
             "matches": []
         },
         "Lambda Electronics": {
@@ -15916,6 +16266,16 @@
             "name": "Luxor",
             "matches": []
         },
+        "Lviv": {
+            "id": "Lviv",
+            "name": "Lviv",
+            "matches": []
+        },
+        "M&D": {
+            "id": "M&D",
+            "name": "M&D",
+            "matches": []
+        },
         "MEGA": {
             "id": "MEGA",
             "name": "MEGA",
@@ -15929,6 +16289,11 @@
         "MITS": {
             "id": "MITS",
             "name": "MITS",
+            "matches": []
+        },
+        "MOS": {
+            "id": "MOS",
+            "name": "MOS",
             "matches": []
         },
         "MSX": {
@@ -15951,9 +16316,19 @@
             "name": "Matra Hachette",
             "matches": []
         },
+        "Matsushita": {
+            "id": "Matsushita",
+            "name": "Matsushita",
+            "matches": []
+        },
         "Mattel": {
             "id": "Mattel",
             "name": "Mattel",
+            "matches": []
+        },
+        "Megatel": {
+            "id": "Megatel",
+            "name": "Megatel",
             "matches": []
         },
         "Memorex": {
@@ -15966,6 +16341,11 @@
             "name": "Memotech",
             "matches": []
         },
+        "Mephisto": {
+            "id": "Mephisto",
+            "name": "Mephisto",
+            "matches": []
+        },
         "Microkey": {
             "id": "Microkey",
             "name": "Microkey",
@@ -15976,9 +16356,44 @@
             "name": "Microsoft",
             "matches": []
         },
+        "Microtan": {
+            "id": "Microtan",
+            "name": "Microtan",
+            "matches": []
+        },
+        "MikroMikko": {
+            "id": "MikroMikko",
+            "name": "MikroMikko",
+            "matches": []
+        },
+        "Millennium Systems": {
+            "id": "Millennium Systems",
+            "name": "Millennium Systems",
+            "matches": []
+        },
+        "Milton Bradley": {
+            "id": "Milton Bradley",
+            "name": "Milton Bradley",
+            "matches": []
+        },
+        "Mindset Corporation": {
+            "id": "Mindset Corporation",
+            "name": "Mindset Corporation",
+            "matches": []
+        },
         "Mitsubishi": {
             "id": "Mitsubishi",
             "name": "Mitsubishi",
+            "matches": []
+        },
+        "Morrow": {
+            "id": "Morrow",
+            "name": "Morrow",
+            "matches": []
+        },
+        "Motorola": {
+            "id": "Motorola",
+            "name": "Motorola",
             "matches": []
         },
         "Mr. Isizu": {
@@ -15994,6 +16409,11 @@
         "NEC": {
             "id": "NEC",
             "name": "NEC",
+            "matches": []
+        },
+        "Namco": {
+            "id": "Namco",
+            "name": "Namco",
             "matches": []
         },
         "Namco-Sega-Nintendo": {
@@ -16021,6 +16441,21 @@
             "name": "Nokia",
             "matches": []
         },
+        "NorthStar": {
+            "id": "NorthStar",
+            "name": "NorthStar",
+            "matches": []
+        },
+        "Nuclear Data": {
+            "id": "Nuclear Data",
+            "name": "Nuclear Data",
+            "matches": []
+        },
+        "Nuova Elettronica": {
+            "id": "Nuova Elettronica",
+            "name": "Nuova Elettronica",
+            "matches": []
+        },
         "OCC": {
             "id": "OCC",
             "name": "OCC",
@@ -16041,6 +16476,11 @@
             "name": "Olivetti",
             "matches": []
         },
+        "Ondra": {
+            "id": "Ondra",
+            "name": "Ondra",
+            "matches": []
+        },
         "OpenPandora": {
             "id": "OpenPandora",
             "name": "OpenPandora",
@@ -16051,14 +16491,34 @@
             "name": "Otrona",
             "matches": []
         },
+        "PDC": {
+            "id": "PDC",
+            "name": "PDC",
+            "matches": []
+        },
         "PEL Varazdin": {
             "id": "PEL Varazdin",
             "name": "PEL Varazdin",
             "matches": []
         },
+        "PTC": {
+            "id": "PTC",
+            "name": "PTC",
+            "matches": []
+        },
+        "Palson": {
+            "id": "Palson",
+            "name": "Palson",
+            "matches": []
+        },
         "Panasonic": {
             "id": "Panasonic",
             "name": "Panasonic",
+            "matches": []
+        },
+        "Patisonic": {
+            "id": "Patisonic",
+            "name": "Patisonic",
             "matches": []
         },
         "Peters Plus": {
@@ -16076,9 +16536,24 @@
             "name": "Pinball",
             "matches": []
         },
+        "Pioneer": {
+            "id": "Pioneer",
+            "name": "Pioneer",
+            "matches": []
+        },
         "Pravetz": {
             "id": "Pravetz",
             "name": "Pravetz",
+            "matches": []
+        },
+        "Psion": {
+            "id": "Psion",
+            "name": "Psion",
+            "matches": []
+        },
+        "Publications International Ltd": {
+            "id": "Publications International Ltd",
+            "name": "Publications International Ltd",
             "matches": []
         },
         "RCA": {
@@ -16091,9 +16566,24 @@
             "name": "RM",
             "matches": []
         },
+        "ROLM": {
+            "id": "ROLM",
+            "name": "ROLM",
+            "matches": []
+        },
+        "Radica": {
+            "id": "Radica",
+            "name": "Radica",
+            "matches": []
+        },
         "Radio-86RK": {
             "id": "Radio-86RK",
             "name": "Radio-86RK",
+            "matches": []
+        },
+        "Raytheon": {
+            "id": "Raytheon",
+            "name": "Raytheon",
             "matches": []
         },
         "Regnecentralen": {
@@ -16111,9 +16601,24 @@
             "name": "Robotron",
             "matches": []
         },
+        "Rockwell": {
+            "id": "Rockwell",
+            "name": "Rockwell",
+            "matches": []
+        },
+        "Rowtron": {
+            "id": "Rowtron",
+            "name": "Rowtron",
+            "matches": []
+        },
         "SABA": {
             "id": "SABA",
             "name": "SABA",
+            "matches": []
+        },
+        "SGI": {
+            "id": "SGI",
+            "name": "SGI",
             "matches": []
         },
         "SME Systems": {
@@ -16124,6 +16629,31 @@
         "SNK": {
             "id": "SNK",
             "name": "SNK",
+            "matches": []
+        },
+        "SSD": {
+            "id": "SSD",
+            "name": "SSD",
+            "matches": []
+        },
+        "SSE": {
+            "id": "SSE",
+            "name": "SSE",
+            "matches": []
+        },
+        "Sage": {
+            "id": "Sage",
+            "name": "Sage",
+            "matches": []
+        },
+        "Saitek": {
+            "id": "Saitek",
+            "name": "Saitek",
+            "matches": []
+        },
+        "Sammy": {
+            "id": "Sammy",
+            "name": "Sammy",
             "matches": []
         },
         "Samsung": {
@@ -16151,6 +16681,11 @@
             "name": "Sharp",
             "matches": []
         },
+        "Siemens": {
+            "id": "Siemens",
+            "name": "Siemens",
+            "matches": []
+        },
         "Sinclair": {
             "id": "Sinclair",
             "name": "Sinclair",
@@ -16171,9 +16706,29 @@
             "name": "Spectravideo",
             "matches": []
         },
+        "TAB-Austria": {
+            "id": "TAB-Austria",
+            "name": "TAB-Austria",
+            "matches": []
+        },
         "TRQ": {
             "id": "TRQ",
             "name": "TRQ",
+            "matches": []
+        },
+        "Taito": {
+            "id": "Taito",
+            "name": "Taito",
+            "matches": []
+        },
+        "Takara": {
+            "id": "Takara",
+            "name": "Takara",
+            "matches": []
+        },
+        "Tandberg": {
+            "id": "Tandberg",
+            "name": "Tandberg",
             "matches": []
         },
         "Tandy Radio Shack": {
@@ -16186,6 +16741,11 @@
             "name": "Tangerine",
             "matches": []
         },
+        "Tapwave": {
+            "id": "Tapwave",
+            "name": "Tapwave",
+            "matches": []
+        },
         "Tatung": {
             "id": "Tatung",
             "name": "Tatung",
@@ -16196,9 +16756,34 @@
             "name": "Technosys",
             "matches": []
         },
+        "Tektronix": {
+            "id": "Tektronix",
+            "name": "Tektronix",
+            "matches": []
+        },
+        "Telcon": {
+            "id": "Telcon",
+            "name": "Telcon",
+            "matches": []
+        },
+        "TeleVideo Systems": {
+            "id": "TeleVideo Systems",
+            "name": "TeleVideo Systems",
+            "matches": []
+        },
+        "Telenova": {
+            "id": "Telenova",
+            "name": "Telenova",
+            "matches": []
+        },
         "Telmac": {
             "id": "Telmac",
             "name": "Telmac",
+            "matches": []
+        },
+        "Terak": {
+            "id": "Terak",
+            "name": "Terak",
             "matches": []
         },
         "Tesla": {
@@ -16241,669 +16826,14 @@
             "name": "Tomy",
             "matches": []
         },
-        "Toshiba": {
-            "id": "Toshiba",
-            "name": "Toshiba",
-            "matches": []
-        },
-        "Triumph-Adler": {
-            "id": "Triumph-Adler",
-            "name": "Triumph-Adler",
-            "matches": []
-        },
-        "Tsukuda Original": {
-            "id": "Tsukuda Original",
-            "name": "Tsukuda Original",
-            "matches": []
-        },
-        "USSR": {
-            "id": "USSR",
-            "name": "USSR",
-            "matches": []
-        },
-        "University of Cambridge": {
-            "id": "University of Cambridge",
-            "name": "University of Cambridge",
-            "matches": []
-        },
-        "VM-Labs": {
-            "id": "VM-Labs",
-            "name": "VM-Labs",
-            "matches": []
-        },
-        "VTech": {
-            "id": "VTech",
-            "name": "VTech",
-            "matches": []
-        },
-        "Videoton": {
-            "id": "Videoton",
-            "name": "Videoton",
-            "matches": []
-        },
-        "Wang": {
-            "id": "Wang",
-            "name": "Wang",
-            "matches": []
-        },
-        "Watara": {
-            "id": "Watara",
-            "name": "Watara",
-            "matches": []
-        },
-        "Welback": {
-            "id": "Welback",
-            "name": "Welback",
-            "matches": []
-        },
-        "Yamaha": {
-            "id": "Yamaha",
-            "name": "Yamaha",
-            "matches": []
-        },
-        "ZAPiT Games": {
-            "id": "ZAPiT Games",
-            "name": "ZAPiT Games",
-            "matches": []
-        },
-        "Zeebo": {
-            "id": "Zeebo",
-            "name": "Zeebo",
-            "matches": []
-        },
-        "iQue": {
-            "id": "iQue",
-            "name": "iQue",
-            "matches": []
-        },
-        "ADC": {
-            "id": "ADC",
-            "name": "ADC",
-            "matches": []
-        },
-        "AEG": {
-            "id": "AEG",
-            "name": "AEG",
-            "matches": []
-        },
-        "AMPRO Computers": {
-            "id": "AMPRO Computers",
-            "name": "AMPRO Computers",
-            "matches": []
-        },
-        "AT&T": {
-            "id": "AT&T",
-            "name": "AT&T",
-            "matches": []
-        },
-        "AVE Micro Systems": {
-            "id": "AVE Micro Systems",
-            "name": "AVE Micro Systems",
-            "matches": []
-        },
-        "Acetronic": {
-            "id": "Acetronic",
-            "name": "Acetronic",
-            "matches": []
-        },
-        "Advanced Computer Design": {
-            "id": "Advanced Computer Design",
-            "name": "Advanced Computer Design",
-            "matches": []
-        },
-        "AlphaSmart": {
-            "id": "AlphaSmart",
-            "name": "AlphaSmart",
-            "matches": []
-        },
-        "Alspa Computers": {
-            "id": "Alspa Computers",
-            "name": "Alspa Computers",
-            "matches": []
-        },
-        "Altos Computer Systems": {
-            "id": "Altos Computer Systems",
-            "name": "Altos Computer Systems",
-            "matches": []
-        },
-        "American Laser Games": {
-            "id": "American Laser Games",
-            "name": "American Laser Games",
-            "matches": []
-        },
-        "Apogee": {
-            "id": "Apogee",
-            "name": "Apogee",
-            "matches": []
-        },
-        "Applix": {
-            "id": "Applix",
-            "name": "Applix",
-            "matches": []
-        },
-        "Aussie": {
-            "id": "Aussie",
-            "name": "Aussie",
-            "matches": []
-        },
-        "BBC": {
-            "id": "BBC",
-            "name": "BBC",
-            "matches": []
-        },
-        "BNPO": {
-            "id": "BNPO",
-            "name": "BNPO",
-            "matches": []
-        },
-        "Baiyi": {
-            "id": "Baiyi",
-            "name": "Baiyi",
-            "matches": []
-        },
-        "Bondwell": {
-            "id": "Bondwell",
-            "name": "Bondwell",
-            "matches": []
-        },
-        "Burroughs": {
-            "id": "Burroughs",
-            "name": "Burroughs",
-            "matches": []
-        },
-        "Cadaco": {
-            "id": "Cadaco",
-            "name": "Cadaco",
-            "matches": []
-        },
-        "Cambridge": {
-            "id": "Cambridge",
-            "name": "Cambridge",
-            "matches": []
-        },
-        "Canon": {
-            "id": "Canon",
-            "name": "Canon",
-            "matches": []
-        },
-        "Casper": {
-            "id": "Casper",
-            "name": "Casper",
-            "matches": []
-        },
-        "Chafitz": {
-            "id": "Chafitz",
-            "name": "Chafitz",
-            "matches": []
-        },
-        "China": {
-            "id": "China",
-            "name": "China",
-            "matches": []
-        },
-        "Compucolor": {
-            "id": "Compucolor",
-            "name": "Compucolor",
-            "matches": []
-        },
-        "Compugraphic": {
-            "id": "Compugraphic",
-            "name": "Compugraphic",
-            "matches": []
-        },
-        "Conchess": {
-            "id": "Conchess",
-            "name": "Conchess",
-            "matches": []
-        },
-        "Conitec": {
-            "id": "Conitec",
-            "name": "Conitec",
-            "matches": []
-        },
-        "Control Data Corporation": {
-            "id": "Control Data Corporation",
-            "name": "Control Data Corporation",
-            "matches": []
-        },
-        "Convergent Technologies": {
-            "id": "Convergent Technologies",
-            "name": "Convergent Technologies",
-            "matches": []
-        },
-        "DAI": {
-            "id": "DAI",
-            "name": "DAI",
-            "matches": []
-        },
-        "Didact": {
-            "id": "Didact",
-            "name": "Didact",
-            "matches": []
-        },
-        "Dragon": {
-            "id": "Dragon",
-            "name": "Dragon",
-            "matches": []
-        },
-        "EC": {
-            "id": "EC",
-            "name": "EC",
-            "matches": []
-        },
-        "EPSON": {
-            "id": "EPSON",
-            "name": "EPSON",
-            "matches": []
-        },
-        "ETL": {
-            "id": "ETL",
-            "name": "ETL",
-            "matches": []
-        },
-        "Elecbyte": {
-            "id": "Elecbyte",
-            "name": "Elecbyte",
-            "matches": []
-        },
-        "Enterprex": {
-            "id": "Enterprex",
-            "name": "Enterprex",
-            "matches": []
-        },
-        "Ericsson": {
-            "id": "Ericsson",
-            "name": "Ericsson",
-            "matches": []
-        },
-        "Excalibur": {
-            "id": "Excalibur",
-            "name": "Excalibur",
-            "matches": []
-        },
-        "Fairlight": {
-            "id": "Fairlight",
-            "name": "Fairlight",
-            "matches": []
-        },
-        "Ferguson": {
-            "id": "Ferguson",
-            "name": "Ferguson",
-            "matches": []
-        },
-        "Fidelity": {
-            "id": "Fidelity",
-            "name": "Fidelity",
-            "matches": []
-        },
-        "Fisher-Price - Mattel": {
-            "id": "Fisher-Price - Mattel",
-            "name": "Fisher-Price - Mattel",
-            "matches": []
-        },
-        "Franklin": {
-            "id": "Franklin",
-            "name": "Franklin",
-            "matches": []
-        },
-        "Front Fareast": {
-            "id": "Front Fareast",
-            "name": "Front Fareast",
-            "matches": []
-        },
-        "Fuji": {
-            "id": "Fuji",
-            "name": "Fuji",
-            "matches": []
-        },
-        "Gachinko": {
-            "id": "Gachinko",
-            "name": "Gachinko",
-            "matches": []
-        },
-        "Gakken": {
-            "id": "Gakken",
-            "name": "Gakken",
-            "matches": []
-        },
-        "Generic": {
-            "id": "Generic",
-            "name": "Generic",
-            "matches": []
-        },
-        "Gimix": {
-            "id": "Gimix",
-            "name": "Gimix",
-            "matches": []
-        },
-        "Gould": {
-            "id": "Gould",
-            "name": "Gould",
-            "matches": []
-        },
-        "Gundam": {
-            "id": "Gundam",
-            "name": "Gundam",
-            "matches": []
-        },
-        "Handheld": {
-            "id": "Handheld",
-            "name": "Handheld",
-            "matches": []
-        },
-        "Hawthorne Technology": {
-            "id": "Hawthorne Technology",
-            "name": "Hawthorne Technology",
-            "matches": []
-        },
-        "Hector": {
-            "id": "Hector",
-            "name": "Hector",
-            "matches": []
-        },
-        "ITT": {
-            "id": "ITT",
-            "name": "ITT",
-            "matches": []
-        },
-        "Incredible Technologies": {
-            "id": "Incredible Technologies",
-            "name": "Incredible Technologies",
-            "matches": []
-        },
-        "Intergraph": {
-            "id": "Intergraph",
-            "name": "Intergraph",
-            "matches": []
-        },
-        "Itautec": {
-            "id": "Itautec",
-            "name": "Itautec",
-            "matches": []
-        },
-        "Ithaca": {
-            "id": "Ithaca",
-            "name": "Ithaca",
-            "matches": []
-        },
-        "JAKKS Pacific": {
-            "id": "JAKKS Pacific",
-            "name": "JAKKS Pacific",
-            "matches": []
-        },
-        "JPM": {
-            "id": "JPM",
-            "name": "JPM",
-            "matches": []
-        },
-        "Juku": {
-            "id": "Juku",
-            "name": "Juku",
-            "matches": []
-        },
-        "JungleTac-KenSingTon": {
-            "id": "JungleTac-KenSingTon",
-            "name": "JungleTac-KenSingTon",
-            "matches": []
-        },
-        "Keio University": {
-            "id": "Keio University",
-            "name": "Keio University",
-            "matches": []
-        },
-        "Koei": {
-            "id": "Koei",
-            "name": "Koei",
-            "matches": []
-        },
-        "Kontron": {
-            "id": "Kontron",
-            "name": "Kontron",
-            "matches": []
-        },
-        "LSI": {
-            "id": "LSI",
-            "name": "LSI",
-            "matches": []
-        },
-        "Lviv": {
-            "id": "Lviv",
-            "name": "Lviv",
-            "matches": []
-        },
-        "M&D": {
-            "id": "M&D",
-            "name": "M&D",
-            "matches": []
-        },
-        "MOS": {
-            "id": "MOS",
-            "name": "MOS",
-            "matches": []
-        },
-        "Matsushita": {
-            "id": "Matsushita",
-            "name": "Matsushita",
-            "matches": []
-        },
-        "Megatel": {
-            "id": "Megatel",
-            "name": "Megatel",
-            "matches": []
-        },
-        "Mephisto": {
-            "id": "Mephisto",
-            "name": "Mephisto",
-            "matches": []
-        },
-        "Microtan": {
-            "id": "Microtan",
-            "name": "Microtan",
-            "matches": []
-        },
-        "MikroMikko": {
-            "id": "MikroMikko",
-            "name": "MikroMikko",
-            "matches": []
-        },
-        "Millennium Systems": {
-            "id": "Millennium Systems",
-            "name": "Millennium Systems",
-            "matches": []
-        },
-        "Milton Bradley": {
-            "id": "Milton Bradley",
-            "name": "Milton Bradley",
-            "matches": []
-        },
-        "Mindset Corporation": {
-            "id": "Mindset Corporation",
-            "name": "Mindset Corporation",
-            "matches": []
-        },
-        "Morrow": {
-            "id": "Morrow",
-            "name": "Morrow",
-            "matches": []
-        },
-        "Motorola": {
-            "id": "Motorola",
-            "name": "Motorola",
-            "matches": []
-        },
-        "Namco": {
-            "id": "Namco",
-            "name": "Namco",
-            "matches": []
-        },
-        "NorthStar": {
-            "id": "NorthStar",
-            "name": "NorthStar",
-            "matches": []
-        },
-        "Nuclear Data": {
-            "id": "Nuclear Data",
-            "name": "Nuclear Data",
-            "matches": []
-        },
-        "Nuova Elettronica": {
-            "id": "Nuova Elettronica",
-            "name": "Nuova Elettronica",
-            "matches": []
-        },
-        "Ondra": {
-            "id": "Ondra",
-            "name": "Ondra",
-            "matches": []
-        },
-        "PDC": {
-            "id": "PDC",
-            "name": "PDC",
-            "matches": []
-        },
-        "PTC": {
-            "id": "PTC",
-            "name": "PTC",
-            "matches": []
-        },
-        "Palson": {
-            "id": "Palson",
-            "name": "Palson",
-            "matches": []
-        },
-        "Patisonic": {
-            "id": "Patisonic",
-            "name": "Patisonic",
-            "matches": []
-        },
-        "Pioneer": {
-            "id": "Pioneer",
-            "name": "Pioneer",
-            "matches": []
-        },
-        "Psion": {
-            "id": "Psion",
-            "name": "Psion",
-            "matches": []
-        },
-        "Publications International Ltd": {
-            "id": "Publications International Ltd",
-            "name": "Publications International Ltd",
-            "matches": []
-        },
-        "ROLM": {
-            "id": "ROLM",
-            "name": "ROLM",
-            "matches": []
-        },
-        "Radica": {
-            "id": "Radica",
-            "name": "Radica",
-            "matches": []
-        },
-        "Raytheon": {
-            "id": "Raytheon",
-            "name": "Raytheon",
-            "matches": []
-        },
-        "Rockwell": {
-            "id": "Rockwell",
-            "name": "Rockwell",
-            "matches": []
-        },
-        "Rowtron": {
-            "id": "Rowtron",
-            "name": "Rowtron",
-            "matches": []
-        },
-        "SGI": {
-            "id": "SGI",
-            "name": "SGI",
-            "matches": []
-        },
-        "SSD": {
-            "id": "SSD",
-            "name": "SSD",
-            "matches": []
-        },
-        "SSE": {
-            "id": "SSE",
-            "name": "SSE",
-            "matches": []
-        },
-        "Sage": {
-            "id": "Sage",
-            "name": "Sage",
-            "matches": []
-        },
-        "Saitek": {
-            "id": "Saitek",
-            "name": "Saitek",
-            "matches": []
-        },
-        "Sammy": {
-            "id": "Sammy",
-            "name": "Sammy",
-            "matches": []
-        },
-        "Siemens": {
-            "id": "Siemens",
-            "name": "Siemens",
-            "matches": []
-        },
-        "TAB-Austria": {
-            "id": "TAB-Austria",
-            "name": "TAB-Austria",
-            "matches": []
-        },
-        "Taito": {
-            "id": "Taito",
-            "name": "Taito",
-            "matches": []
-        },
-        "Takara": {
-            "id": "Takara",
-            "name": "Takara",
-            "matches": []
-        },
-        "Tandberg": {
-            "id": "Tandberg",
-            "name": "Tandberg",
-            "matches": []
-        },
-        "Tapwave": {
-            "id": "Tapwave",
-            "name": "Tapwave",
-            "matches": []
-        },
-        "Tektronix": {
-            "id": "Tektronix",
-            "name": "Tektronix",
-            "matches": []
-        },
-        "Telcon": {
-            "id": "Telcon",
-            "name": "Telcon",
-            "matches": []
-        },
-        "TeleVideo Systems": {
-            "id": "TeleVideo Systems",
-            "name": "TeleVideo Systems",
-            "matches": []
-        },
-        "Telenova": {
-            "id": "Telenova",
-            "name": "Telenova",
-            "matches": []
-        },
-        "Terak": {
-            "id": "Terak",
-            "name": "Terak",
-            "matches": []
-        },
         "Torch": {
             "id": "Torch",
             "name": "Torch",
+            "matches": []
+        },
+        "Toshiba": {
+            "id": "Toshiba",
+            "name": "Toshiba",
             "matches": []
         },
         "Touhou": {
@@ -16916,14 +16846,34 @@
             "name": "Toyquest",
             "matches": []
         },
+        "Triumph-Adler": {
+            "id": "Triumph-Adler",
+            "name": "Triumph-Adler",
+            "matches": []
+        },
+        "Tsukuda Original": {
+            "id": "Tsukuda Original",
+            "name": "Tsukuda Original",
+            "matches": []
+        },
         "UNIVAC": {
             "id": "UNIVAC",
             "name": "UNIVAC",
             "matches": []
         },
+        "USSR": {
+            "id": "USSR",
+            "name": "USSR",
+            "matches": []
+        },
         "Unisonic": {
             "id": "Unisonic",
             "name": "Unisonic",
+            "matches": []
+        },
+        "University of Cambridge": {
+            "id": "University of Cambridge",
+            "name": "University of Cambridge",
             "matches": []
         },
         "University of Tokyo": {
@@ -16946,6 +16896,16 @@
             "name": "VM Labs",
             "matches": []
         },
+        "VM-Labs": {
+            "id": "VM-Labs",
+            "name": "VM-Labs",
+            "matches": []
+        },
+        "VTech": {
+            "id": "VTech",
+            "name": "VTech",
+            "matches": []
+        },
         "Victor": {
             "id": "Victor",
             "name": "Victor",
@@ -16954,6 +16914,11 @@
         "VideoBrain": {
             "id": "VideoBrain",
             "name": "VideoBrain",
+            "matches": []
+        },
+        "Videoton": {
+            "id": "Videoton",
+            "name": "Videoton",
             "matches": []
         },
         "Visual Technology": {
@@ -16966,6 +16931,16 @@
             "name": "Voltmace",
             "matches": []
         },
+        "Wang": {
+            "id": "Wang",
+            "name": "Wang",
+            "matches": []
+        },
+        "Watara": {
+            "id": "Watara",
+            "name": "Watara",
+            "matches": []
+        },
         "WaveMate": {
             "id": "WaveMate",
             "name": "WaveMate",
@@ -16974,6 +16949,11 @@
         "Waveterm": {
             "id": "Waveterm",
             "name": "Waveterm",
+            "matches": []
+        },
+        "Welback": {
+            "id": "Welback",
+            "name": "Welback",
             "matches": []
         },
         "WinFun": {
@@ -16991,9 +16971,24 @@
             "name": "Xerox",
             "matches": []
         },
+        "Yamaha": {
+            "id": "Yamaha",
+            "name": "Yamaha",
+            "matches": []
+        },
         "Yeno": {
             "id": "Yeno",
             "name": "Yeno",
+            "matches": []
+        },
+        "ZAPiT Games": {
+            "id": "ZAPiT Games",
+            "name": "ZAPiT Games",
+            "matches": []
+        },
+        "Zeebo": {
+            "id": "Zeebo",
+            "name": "Zeebo",
             "matches": []
         },
         "Zilog": {
@@ -17005,17 +17000,14 @@
             "id": "funworld",
             "name": "funworld",
             "matches": []
+        },
+        "iQue": {
+            "id": "iQue",
+            "name": "iQue",
+            "matches": []
         }
     },
     "emulators": {
-        "1964": {
-            "id": 1964,
-            "shortName": 1964,
-            "name": "1964",
-            "platforms": [
-                "n64"
-            ]
-        },
         "3dmoo": {
             "id": "3dmoo",
             "shortName": "3dmoo",
@@ -17048,6 +17040,14 @@
                 "3do"
             ]
         },
+        "80five": {
+            "id": "80five",
+            "shortName": "80five",
+            "name": "MarioNES / 80five",
+            "platforms": [
+                "nes"
+            ]
+        },
         "88va": {
             "id": "88va",
             "shortName": "88va",
@@ -17056,20 +17056,24 @@
                 "pc9801"
             ]
         },
+        "ace": {
+            "id": "ace",
+            "shortName": "ace",
+            "name": "Another Capcom (play system) Emulator",
+            "platforms": [
+                "cps1",
+                "cps2",
+                "s16",
+                "s18",
+                "ng"
+            ]
+        },
         "ace32": {
             "id": "ace32",
             "shortName": "ace32",
             "name": "ACE32",
             "platforms": [
                 "jupace"
-            ]
-        },
-        "atom": {
-            "id": "atom",
-            "shortName": "atom",
-            "name": "ACORN ATOM",
-            "platforms": [
-                "atom"
             ]
         },
         "activegs": {
@@ -17121,6 +17125,18 @@
                 "apple2"
             ]
         },
+        "ages": {
+            "id": "ages",
+            "shortName": "ages",
+            "name": "WinAGES",
+            "platforms": [
+                "gg",
+                "sms",
+                "32x",
+                "gen",
+                "smcd"
+            ]
+        },
         "aipc": {
             "id": "aipc",
             "shortName": "aipc",
@@ -17161,18 +17177,6 @@
             "name": "Anex86",
             "platforms": [
                 "pc9801"
-            ]
-        },
-        "ace": {
-            "id": "ace",
-            "shortName": "ace",
-            "name": "Another Capcom (play system) Emulator",
-            "platforms": [
-                "cps1",
-                "cps2",
-                "s16",
-                "s18",
-                "ng"
             ]
         },
         "apfemuw": {
@@ -17239,6 +17243,15 @@
                 "aqua"
             ]
         },
+        "aranym": {
+            "id": "aranym",
+            "shortName": "aranym",
+            "name": "Atari on Any Machine",
+            "platforms": [
+                "falcon",
+                "st"
+            ]
+        },
         "arcem": {
             "id": "arcem",
             "shortName": "arcem",
@@ -17296,24 +17309,6 @@
                 "zxs"
             ]
         },
-        "aranym": {
-            "id": "aranym",
-            "shortName": "aranym",
-            "name": "Atari on Any Machine",
-            "platforms": [
-                "falcon",
-                "st"
-            ]
-        },
-        "atariplusplus": {
-            "id": "atariplusplus",
-            "shortName": "atariplusplus",
-            "name": "atari++",
-            "platforms": [
-                "a5200",
-                "a8bit"
-            ]
-        },
         "atari800": {
             "id": "atari800",
             "shortName": "atari800",
@@ -17330,6 +17325,23 @@
             "platforms": [
                 "a5200",
                 "a8bit"
+            ]
+        },
+        "atariplusplus": {
+            "id": "atariplusplus",
+            "shortName": "atariplusplus",
+            "name": "atari++",
+            "platforms": [
+                "a5200",
+                "a8bit"
+            ]
+        },
+        "atom": {
+            "id": "atom",
+            "shortName": "atom",
+            "name": "ACORN ATOM",
+            "platforms": [
+                "atom"
             ]
         },
         "atomulator": {
@@ -17561,14 +17573,6 @@
                 "cps1"
             ]
         },
-        "cps3emulator": {
-            "id": "cps3emulator",
-            "shortName": "cps3emulator",
-            "name": "Capcom Play System 3 Emulator",
-            "platforms": [
-                "cps3"
-            ]
-        },
         "caprice32": {
             "id": "caprice32",
             "shortName": "caprice32",
@@ -17679,14 +17683,6 @@
                 "cpc"
             ]
         },
-        "cpmbox": {
-            "id": "cpmbox",
-            "shortName": "cpmbox",
-            "name": "CP/M Box",
-            "platforms": [
-                "pcw"
-            ]
-        },
         "cpcalive": {
             "id": "cpcalive",
             "shortName": "cpcalive",
@@ -17725,6 +17721,22 @@
             "name": "CPE",
             "platforms": [
                 "cpc"
+            ]
+        },
+        "cpmbox": {
+            "id": "cpmbox",
+            "shortName": "cpmbox",
+            "name": "CP/M Box",
+            "platforms": [
+                "pcw"
+            ]
+        },
+        "cps3emulator": {
+            "id": "cps3emulator",
+            "shortName": "cps3emulator",
+            "name": "Capcom Play System 3 Emulator",
+            "platforms": [
+                "cps3"
             ]
         },
         "cpspemu": {
@@ -17943,6 +17955,14 @@
                 "dosbox"
             ]
         },
+        "dpspemu": {
+            "id": "dpspemu",
+            "shortName": "dpspemu",
+            "name": "PSPEmu",
+            "platforms": [
+                "psp"
+            ]
+        },
         "dream64": {
             "id": "dream64",
             "shortName": "dream64",
@@ -18042,6 +18062,15 @@
                 "etron"
             ]
         },
+        "elf": {
+            "id": "elf",
+            "shortName": "elf",
+            "name": "RCS Elf Emulator",
+            "platforms": [
+                "comx35",
+                "studio2"
+            ]
+        },
         "elkulator": {
             "id": "elkulator",
             "shortName": "elkulator",
@@ -18078,6 +18107,17 @@
                 "lviv"
             ]
         },
+        "emu2001": {
+            "id": "emu2001",
+            "shortName": "emu2001",
+            "name": "Emulator2001",
+            "platforms": [
+                "tvgames",
+                "arc",
+                "vc4000",
+                "l200"
+            ]
+        },
         "emu64": {
             "id": "emu64",
             "shortName": "emu64",
@@ -18102,17 +18142,6 @@
             "platforms": [
                 "gg",
                 "sms"
-            ]
-        },
-        "emu2001": {
-            "id": "emu2001",
-            "shortName": "emu2001",
-            "name": "Emulator2001",
-            "platforms": [
-                "tvgames",
-                "arc",
-                "vc4000",
-                "l200"
             ]
         },
         "emulator3000": {
@@ -18227,15 +18256,6 @@
                 "apple1"
             ]
         },
-        "fceux": {
-            "id": "fceux",
-            "shortName": "fceux",
-            "name": "FCEUX",
-            "platforms": [
-                "fds",
-                "nes"
-            ]
-        },
         "fbalpha": {
             "id": "fbalpha",
             "shortName": "fbalpha",
@@ -18280,21 +18300,21 @@
                 "ng"
             ]
         },
+        "fceux": {
+            "id": "fceux",
+            "shortName": "fceux",
+            "name": "FCEUX",
+            "platforms": [
+                "fds",
+                "nes"
+            ]
+        },
         "firegb": {
             "id": "firegb",
             "shortName": "firegb",
             "name": "FireGB",
             "platforms": [
                 "gb"
-            ]
-        },
-        "fnc": {
-            "id": "fnc",
-            "shortName": "fnc",
-            "name": "Fish 'N' Chips",
-            "platforms": [
-                "chip8",
-                "vip"
             ]
         },
         "fmsx": {
@@ -18304,6 +18324,15 @@
             "platforms": [
                 "msx2",
                 "msx"
+            ]
+        },
+        "fnc": {
+            "id": "fnc",
+            "shortName": "fnc",
+            "name": "Fish 'N' Chips",
+            "platforms": [
+                "chip8",
+                "vip"
             ]
         },
         "free64": {
@@ -18476,10 +18505,10 @@
                 "smcd"
             ]
         },
-        "gensplus": {
-            "id": "gensplus",
-            "shortName": "gensplus",
-            "name": "Gens Plus!",
+        "gens32": {
+            "id": "gens32",
+            "shortName": "gens32",
+            "name": "Gens32 Surreal",
             "platforms": [
                 "gg",
                 "sms",
@@ -18499,10 +18528,10 @@
                 "smcd"
             ]
         },
-        "gens32": {
-            "id": "gens32",
-            "shortName": "gens32",
-            "name": "Gens32 Surreal",
+        "gensplus": {
+            "id": "gensplus",
+            "shortName": "gensplus",
+            "name": "Gens Plus!",
             "platforms": [
                 "gg",
                 "sms",
@@ -18724,28 +18753,12 @@
                 "ps1"
             ]
         },
-        "t2k": {
-            "id": "t2k",
-            "shortName": "t2k",
-            "name": "Jaguar Tempest 2000 Emulator",
-            "platforms": [
-                "jag"
-            ]
-        },
         "jagulator": {
             "id": "jagulator",
             "shortName": "jagulator",
             "name": "Jagulator",
             "platforms": [
                 "jag"
-            ]
-        },
-        "jvz200": {
-            "id": "jvz200",
-            "shortName": "jvz200",
-            "name": "James VZ200",
-            "platforms": [
-                "l200"
             ]
         },
         "javacpc": {
@@ -18794,6 +18807,14 @@
             "name": "Jum52",
             "platforms": [
                 "a5200"
+            ]
+        },
+        "jvz200": {
+            "id": "jvz200",
+            "shortName": "jvz200",
+            "name": "James VZ200",
+            "platforms": [
+                "l200"
             ]
         },
         "jynx": {
@@ -18937,6 +18958,47 @@
             "platforms": [
                 "gb",
                 "gbc"
+            ]
+        },
+        "m2emulator": {
+            "id": "m2emulator",
+            "shortName": "m2emulator",
+            "name": "Sega Model 2 Emulator",
+            "platforms": [
+                "model2"
+            ]
+        },
+        "m88": {
+            "id": "m88",
+            "shortName": "m88",
+            "name": "M88",
+            "platforms": [
+                "pc8801"
+            ]
+        },
+        "mahnes": {
+            "id": "mahnes",
+            "shortName": "mahnes",
+            "name": "MahNES",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "makaron": {
+            "id": "makaron",
+            "shortName": "makaron",
+            "name": "Makaron",
+            "platforms": [
+                "dc",
+                "naomi"
+            ]
+        },
+        "makaronex": {
+            "id": "makaronex",
+            "shortName": "makaronex",
+            "name": "MakaronEX",
+            "platforms": [
+                "dc"
             ]
         },
         "mame": {
@@ -19126,6 +19188,105 @@
                 "zinc"
             ]
         },
+        "mednafen": {
+            "id": "mednafen",
+            "shortName": "mednafen",
+            "name": "Mednafen",
+            "platforms": [
+                "lynx",
+                "ws",
+                "wsc",
+                "pcfx",
+                "pce2",
+                "pce",
+                "fds",
+                "gb",
+                "gba",
+                "gbc",
+                "nes",
+                "snes",
+                "vb",
+                "gg",
+                "sms",
+                "gen",
+                "sat",
+                "ngp",
+                "ngpc",
+                "ps1"
+            ]
+        },
+        "medusa": {
+            "id": "medusa",
+            "shortName": "medusa",
+            "name": "Medusa",
+            "platforms": [
+                "nds",
+                "gb",
+                "gba",
+                "gbc"
+            ]
+        },
+        "mega8": {
+            "id": "mega8",
+            "shortName": "mega8",
+            "name": "Mega8",
+            "platforms": [
+                "chip8"
+            ]
+        },
+        "meisei": {
+            "id": "meisei",
+            "shortName": "meisei",
+            "name": "meisei",
+            "platforms": [
+                "msx"
+            ]
+        },
+        "meka": {
+            "id": "meka",
+            "shortName": "meka",
+            "name": "MEKA",
+            "platforms": [
+                "col",
+                "gg",
+                "sms",
+                "sc3000",
+                "sg1000"
+            ]
+        },
+        "melonds": {
+            "id": "melonds",
+            "shortName": "melonds",
+            "name": "melonDS",
+            "platforms": [
+                "nds"
+            ]
+        },
+        "mercury": {
+            "id": "mercury",
+            "shortName": "mercury",
+            "name": "Mercury Revival",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "mesadx": {
+            "id": "mesadx",
+            "shortName": "mesadx",
+            "name": "MesaDX",
+            "platforms": [
+                "gg",
+                "sms"
+            ]
+        },
+        "mesen": {
+            "id": "mesen",
+            "shortName": "mesen",
+            "name": "Mesen",
+            "platforms": [
+                "nes"
+            ]
+        },
         "mess": {
             "id": "mess",
             "shortName": "mess",
@@ -19279,144 +19440,12 @@
                 "svn"
             ]
         },
-        "m88": {
-            "id": "m88",
-            "shortName": "m88",
-            "name": "M88",
+        "mfme": {
+            "id": "mfme",
+            "shortName": "mfme",
+            "name": "Multiple Fruit Machine Emulator",
             "platforms": [
-                "pc8801"
-            ]
-        },
-        "mahnes": {
-            "id": "mahnes",
-            "shortName": "mahnes",
-            "name": "MahNES",
-            "platforms": [
-                "nes"
-            ]
-        },
-        "makaron": {
-            "id": "makaron",
-            "shortName": "makaron",
-            "name": "Makaron",
-            "platforms": [
-                "dc",
-                "naomi"
-            ]
-        },
-        "makaronex": {
-            "id": "makaronex",
-            "shortName": "makaronex",
-            "name": "MakaronEX",
-            "platforms": [
-                "dc"
-            ]
-        },
-        "80five": {
-            "id": "80five",
-            "shortName": "80five",
-            "name": "MarioNES / 80five",
-            "platforms": [
-                "nes"
-            ]
-        },
-        "mednafen": {
-            "id": "mednafen",
-            "shortName": "mednafen",
-            "name": "Mednafen",
-            "platforms": [
-                "lynx",
-                "ws",
-                "wsc",
-                "pcfx",
-                "pce2",
-                "pce",
-                "fds",
-                "gb",
-                "gba",
-                "gbc",
-                "nes",
-                "snes",
-                "vb",
-                "gg",
-                "sms",
-                "gen",
-                "sat",
-                "ngp",
-                "ngpc",
-                "ps1"
-            ]
-        },
-        "medusa": {
-            "id": "medusa",
-            "shortName": "medusa",
-            "name": "Medusa",
-            "platforms": [
-                "nds",
-                "gb",
-                "gba",
-                "gbc"
-            ]
-        },
-        "mega8": {
-            "id": "mega8",
-            "shortName": "mega8",
-            "name": "Mega8",
-            "platforms": [
-                "chip8"
-            ]
-        },
-        "meisei": {
-            "id": "meisei",
-            "shortName": "meisei",
-            "name": "meisei",
-            "platforms": [
-                "msx"
-            ]
-        },
-        "meka": {
-            "id": "meka",
-            "shortName": "meka",
-            "name": "MEKA",
-            "platforms": [
-                "col",
-                "gg",
-                "sms",
-                "sc3000",
-                "sg1000"
-            ]
-        },
-        "melonds": {
-            "id": "melonds",
-            "shortName": "melonds",
-            "name": "melonDS",
-            "platforms": [
-                "nds"
-            ]
-        },
-        "mercury": {
-            "id": "mercury",
-            "shortName": "mercury",
-            "name": "Mercury Revival",
-            "platforms": [
-                "nes"
-            ]
-        },
-        "mesadx": {
-            "id": "mesadx",
-            "shortName": "mesadx",
-            "name": "MesaDX",
-            "platforms": [
-                "gg",
-                "sms"
-            ]
-        },
-        "mesen": {
-            "id": "mesen",
-            "shortName": "mesen",
-            "name": "Mesen",
-            "platforms": [
-                "nes"
+                "fruit"
             ]
         },
         "mgba": {
@@ -19437,20 +19466,20 @@
                 "c64"
             ]
         },
-        "minivmac": {
-            "id": "minivmac",
-            "shortName": "minivmac",
-            "name": "Mini vMac",
-            "platforms": [
-                "mtosh"
-            ]
-        },
         "minimon": {
             "id": "minimon",
             "shortName": "minimon",
             "name": "Minimon",
             "platforms": [
                 "pmini"
+            ]
+        },
+        "minivmac": {
+            "id": "minivmac",
+            "shortName": "minivmac",
+            "name": "Mini vMac",
+            "platforms": [
+                "mtosh"
             ]
         },
         "minus4": {
@@ -19485,12 +19514,12 @@
                 "mtx"
             ]
         },
-        "mfme": {
-            "id": "mfme",
-            "shortName": "mfme",
-            "name": "Multiple Fruit Machine Emulator",
+        "mupen64k": {
+            "id": "mupen64k",
+            "shortName": "mupen64k",
+            "name": "Mupen64k",
             "platforms": [
-                "fruit"
+                "n64"
             ]
         },
         "mupen64plus": {
@@ -19505,14 +19534,6 @@
             "id": "mupen64plusplus",
             "shortName": "mupen64plusplus",
             "name": "Mupen64++",
-            "platforms": [
-                "n64"
-            ]
-        },
-        "mupen64k": {
-            "id": "mupen64k",
-            "shortName": "mupen64k",
-            "name": "Mupen64k",
             "platforms": [
                 "n64"
             ]
@@ -19559,6 +19580,14 @@
             "name": "NanoWasp",
             "platforms": [
                 "mb"
+            ]
+        },
+        "ncdz": {
+            "id": "ncdz",
+            "shortName": "ncdz",
+            "name": "NEOGEO CD Emulator-Z",
+            "platforms": [
+                "ngcd"
             ]
         },
         "nebula": {
@@ -19613,14 +19642,6 @@
             "platforms": [
                 "chip8",
                 "vip"
-            ]
-        },
-        "ncdz": {
-            "id": "ncdz",
-            "shortName": "ncdz",
-            "name": "NEOGEO CD Emulator-Z",
-            "platforms": [
-                "ngcd"
             ]
         },
         "neonds": {
@@ -19680,20 +19701,20 @@
                 "nes"
             ]
         },
-        "neutrinosx2": {
-            "id": "neutrinosx2",
-            "shortName": "neutrinosx2",
-            "name": "neutrinoSX2",
-            "platforms": [
-                "ps2"
-            ]
-        },
         "neusnem": {
             "id": "neusnem",
             "shortName": "neusnem",
             "name": "NewSneM",
             "platforms": [
                 "snes"
+            ]
+        },
+        "neutrinosx2": {
+            "id": "neutrinosx2",
+            "shortName": "neutrinosx2",
+            "name": "neutrinoSX2",
+            "platforms": [
+                "ps2"
             ]
         },
         "ngae": {
@@ -19817,6 +19838,14 @@
                 "snes"
             ]
         },
+        "nostalgia": {
+            "id": "nostalgia",
+            "shortName": "nostalgia",
+            "name": "Nostalgia",
+            "platforms": [
+                "int"
+            ]
+        },
         "nozx": {
             "id": "nozx",
             "shortName": "nozx",
@@ -19825,14 +19854,6 @@
                 "jupace",
                 "zxs",
                 "zx81"
-            ]
-        },
-        "nostalgia": {
-            "id": "nostalgia",
-            "shortName": "nostalgia",
-            "name": "Nostalgia",
-            "platforms": [
-                "int"
             ]
         },
         "nucleus": {
@@ -19911,6 +19932,14 @@
                 "wsc"
             ]
         },
+        "pale": {
+            "id": "pale",
+            "shortName": "pale",
+            "name": "Pete's Amazing Lynx Emulator",
+            "platforms": [
+                "clynx"
+            ]
+        },
         "parajve": {
             "id": "parajve",
             "shortName": "parajve",
@@ -19925,14 +19954,6 @@
             "name": "Pasofami",
             "platforms": [
                 "nes"
-            ]
-        },
-        "pcae": {
-            "id": "pcae",
-            "shortName": "pcae",
-            "name": "PC Atari Emulator",
-            "platforms": [
-                "a2600"
             ]
         },
         "pc6001v": {
@@ -19959,12 +19980,28 @@
                 "pc6001"
             ]
         },
+        "pc64": {
+            "id": "pc64",
+            "shortName": "pc64",
+            "name": "Personal C64",
+            "platforms": [
+                "c64"
+            ]
+        },
         "pc88win": {
             "id": "pc88win",
             "shortName": "pc88win",
             "name": "PC88Win",
             "platforms": [
                 "pc8801"
+            ]
+        },
+        "pcae": {
+            "id": "pcae",
+            "shortName": "pcae",
+            "name": "PC Atari Emulator",
+            "platforms": [
+                "a2600"
             ]
         },
         "pcejin": {
@@ -20029,22 +20066,6 @@
             "name": "PearPC",
             "platforms": [
                 "mtosh"
-            ]
-        },
-        "pc64": {
-            "id": "pc64",
-            "shortName": "pc64",
-            "name": "Personal C64",
-            "platforms": [
-                "c64"
-            ]
-        },
-        "pale": {
-            "id": "pale",
-            "shortName": "pale",
-            "name": "Pete's Amazing Lynx Emulator",
-            "platforms": [
-                "clynx"
             ]
         },
         "phoenix": {
@@ -20142,14 +20163,6 @@
                 "psp"
             ]
         },
-        "projecttempest": {
-            "id": "projecttempest",
-            "shortName": "projecttempest",
-            "name": "Project Tempest",
-            "platforms": [
-                "jag"
-            ]
-        },
         "project64": {
             "id": "project64",
             "shortName": "project64",
@@ -20172,6 +20185,14 @@
             "name": "Project64K7E",
             "platforms": [
                 "n64"
+            ]
+        },
+        "projecttempest": {
+            "id": "projecttempest",
+            "shortName": "projecttempest",
+            "name": "Project Tempest",
+            "platforms": [
+                "jag"
             ]
         },
         "prosystem": {
@@ -20202,14 +20223,6 @@
             "id": "pspe",
             "shortName": "pspe",
             "name": "pspe",
-            "platforms": [
-                "psp"
-            ]
-        },
-        "dpspemu": {
-            "id": "dpspemu",
-            "shortName": "dpspemu",
-            "name": "PSPEmu",
             "platforms": [
                 "psp"
             ]
@@ -20262,18 +20275,18 @@
                 "ql"
             ]
         },
-        "qlayw": {
-            "id": "qlayw",
-            "shortName": "qlayw",
-            "name": "QLAY",
-            "platforms": [
-                "ql"
-            ]
-        },
         "qlay2": {
             "id": "qlay2",
             "shortName": "qlay2",
             "name": "QLAY2",
+            "platforms": [
+                "ql"
+            ]
+        },
+        "qlayw": {
+            "id": "qlayw",
+            "shortName": "qlayw",
+            "name": "QLAY",
             "platforms": [
                 "ql"
             ]
@@ -20319,15 +20332,6 @@
                 "gba"
             ]
         },
-        "elf": {
-            "id": "elf",
-            "shortName": "elf",
-            "name": "RCS Elf Emulator",
-            "platforms": [
-                "comx35",
-                "studio2"
-            ]
-        },
         "real80pro": {
             "id": "real80pro",
             "shortName": "real80pro",
@@ -20352,14 +20356,6 @@
                 "vb"
             ]
         },
-        "redsquirrel": {
-            "id": "redsquirrel",
-            "shortName": "redsquirrel",
-            "name": "Red Squirrel",
-            "platforms": [
-                "archi"
-            ]
-        },
         "redmsx": {
             "id": "redmsx",
             "shortName": "redmsx",
@@ -20367,6 +20363,14 @@
             "platforms": [
                 "msx2",
                 "msx"
+            ]
+        },
+        "redsquirrel": {
+            "id": "redsquirrel",
+            "shortName": "redsquirrel",
+            "name": "Red Squirrel",
+            "platforms": [
+                "archi"
             ]
         },
         "regen": {
@@ -20487,14 +20491,6 @@
             "name": "sdltrs",
             "platforms": [
                 "trs80"
-            ]
-        },
-        "m2emulator": {
-            "id": "m2emulator",
-            "shortName": "m2emulator",
-            "name": "Sega Model 2 Emulator",
-            "platforms": [
-                "model2"
             ]
         },
         "sharp80": {
@@ -20708,6 +20704,14 @@
                 "flash"
             ]
         },
+        "t2k": {
+            "id": "t2k",
+            "shortName": "t2k",
+            "name": "Jaguar Tempest 2000 Emulator",
+            "platforms": [
+                "jag"
+            ]
+        },
         "takeda": {
             "id": "takeda",
             "shortName": "takeda",
@@ -20897,12 +20901,39 @@
                 "jupace"
             ]
         },
+        "vaquarius": {
+            "id": "vaquarius",
+            "shortName": "vaquarius",
+            "name": "Virtual Aquarius",
+            "platforms": [
+                "aqua"
+            ]
+        },
         "vb64": {
             "id": "vb64",
             "shortName": "vb64",
             "name": "VB64",
             "platforms": [
                 "c64"
+            ]
+        },
+        "vbam": {
+            "id": "vbam",
+            "shortName": "vbam",
+            "name": "VisualBoyAdvance-M-WX",
+            "platforms": [
+                "gb",
+                "gba"
+            ]
+        },
+        "vbarr": {
+            "id": "vbarr",
+            "shortName": "vbarr",
+            "name": "VisualBoyAdvance-rerecording",
+            "platforms": [
+                "gb",
+                "gba",
+                "gbc"
             ]
         },
         "vbjin": {
@@ -20950,38 +20981,6 @@
                 "vec"
             ]
         },
-        "vic20emu": {
-            "id": "vic20emu",
-            "shortName": "vic20emu",
-            "name": "Vic-20 Emulator",
-            "platforms": [
-                "vic20"
-            ]
-        },
-        "virtu": {
-            "id": "virtu",
-            "shortName": "virtu",
-            "name": "Virtu",
-            "platforms": [
-                "apple2"
-            ]
-        },
-        "virtualapf": {
-            "id": "virtualapf",
-            "shortName": "virtualapf",
-            "name": "Virtual APF",
-            "platforms": [
-                "im"
-            ]
-        },
-        "vaquarius": {
-            "id": "vaquarius",
-            "shortName": "vaquarius",
-            "name": "Virtual Aquarius",
-            "platforms": [
-                "aqua"
-            ]
-        },
         "vgb": {
             "id": "vgb",
             "shortName": "vgb",
@@ -20999,12 +20998,52 @@
                 "gba"
             ]
         },
+        "vic20emu": {
+            "id": "vic20emu",
+            "shortName": "vic20emu",
+            "name": "Vic-20 Emulator",
+            "platforms": [
+                "vic20"
+            ]
+        },
         "vinter": {
             "id": "vinter",
             "shortName": "vinter",
             "name": "Virtual Interact",
             "platforms": [
                 "hcs"
+            ]
+        },
+        "virtpanajr": {
+            "id": "virtpanajr",
+            "shortName": "virtpanajr",
+            "name": "Virtual Panasonic JR-200U",
+            "platforms": [
+                "jr200"
+            ]
+        },
+        "virtu": {
+            "id": "virtu",
+            "shortName": "virtu",
+            "name": "Virtu",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "virtual98": {
+            "id": "virtual98",
+            "shortName": "virtual98",
+            "name": "Virtual98",
+            "platforms": [
+                "pc9801"
+            ]
+        },
+        "virtualapf": {
+            "id": "virtualapf",
+            "shortName": "virtualapf",
+            "name": "Virtual APF",
+            "platforms": [
+                "im"
             ]
         },
         "virtualjaguar": {
@@ -21031,36 +21070,12 @@
                 "pc6001"
             ]
         },
-        "virtpanajr": {
-            "id": "virtpanajr",
-            "shortName": "virtpanajr",
-            "name": "Virtual Panasonic JR-200U",
-            "platforms": [
-                "jr200"
-            ]
-        },
-        "vss": {
-            "id": "vss",
-            "shortName": "vss",
-            "name": "Virtual Super System",
-            "platforms": [
-                "a5200"
-            ]
-        },
         "virtualt": {
             "id": "virtualt",
             "shortName": "virtualt",
             "name": "Virtual T",
             "platforms": [
                 "trs80"
-            ]
-        },
-        "virtual98": {
-            "id": "virtual98",
-            "shortName": "virtual98",
-            "name": "Virtual98",
-            "platforms": [
-                "pc9801"
             ]
         },
         "virtuanes": {
@@ -21079,14 +21094,6 @@
             "platforms": [
                 "fds",
                 "nes"
-            ]
-        },
-        "visualpinball": {
-            "id": "visualpinball",
-            "shortName": "visualpinball",
-            "name": "Visual Pinball",
-            "platforms": [
-                "vp"
             ]
         },
         "visualboy": {
@@ -21118,23 +21125,12 @@
                 "gbc"
             ]
         },
-        "vbam": {
-            "id": "vbam",
-            "shortName": "vbam",
-            "name": "VisualBoyAdvance-M-WX",
+        "visualpinball": {
+            "id": "visualpinball",
+            "shortName": "visualpinball",
+            "name": "Visual Pinball",
             "platforms": [
-                "gb",
-                "gba"
-            ]
-        },
-        "vbarr": {
-            "id": "vbarr",
-            "shortName": "vbarr",
-            "name": "VisualBoyAdvance-rerecording",
-            "platforms": [
-                "gb",
-                "gba",
-                "gbc"
+                "vp"
             ]
         },
         "vivanonno": {
@@ -21143,6 +21139,14 @@
             "name": "viva nonno",
             "platforms": [
                 "s22"
+            ]
+        },
+        "vss": {
+            "id": "vss",
+            "shortName": "vss",
+            "name": "Virtual Super System",
+            "platforms": [
+                "a5200"
             ]
         },
         "vzem": {
@@ -21191,18 +21195,6 @@
             "name": "Win994a",
             "platforms": [
                 "ti99"
-            ]
-        },
-        "ages": {
-            "id": "ages",
-            "shortName": "ages",
-            "name": "WinAGES",
-            "platforms": [
-                "gg",
-                "sms",
-                "32x",
-                "gen",
-                "smcd"
             ]
         },
         "winape": {
@@ -21589,6 +21581,14 @@
             "name": "ZXSpin",
             "platforms": [
                 "zxs"
+            ]
+        },
+        "1964": {
+            "id": 1964,
+            "shortName": 1964,
+            "name": "1964",
+            "platforms": [
+                "n64"
             ]
         }
     },

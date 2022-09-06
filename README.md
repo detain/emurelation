@@ -67,7 +67,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [local](local.json) | Local | - | - | 147 | - |
+| [local](local.json) | Local | - | - | 285 | - |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 100 | 100 | 0% |
 | [EmulationKing](sources/emulationking.json) | Website | 0 | 5 | 5 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 126 | 126 | 0% |
