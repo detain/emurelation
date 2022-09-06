@@ -1,19 +1,13 @@
 {
     "platforms": {
         "emucontrolcenter": {
-            "a8bit": "Atari 8-bit Computer Systems",
-            "acan": "Super A'Can",
             "alice": "Alice",
-            "apple2gs": "Apple 2GS",
-            "c16plus4": "Commodore 16/plus4",
             "chip8": "Chip-8",
             "cpjava": "Java games",
-            "cps3": "Capcom Play System 3",
             "dosbox": "DOSbox",
             "falcon": "Atari Falcon",
             "flash": "Flash",
             "fruit": "Gambling",
-            "gen": "Mega Drive/Genesis",
             "gnet": "GNET",
             "hcs": "Home Computer System",
             "homelab4": "HomeLAB 4",
@@ -36,9 +30,7 @@
             "s11": "System 11",
             "s18": "System 18",
             "sv318": "SV318/328",
-            "tvgames": "TV Games",
-            "vg7400": "Videopac+ G7400",
-            "wsc": "Wonderwan Color"
+            "tvgames": "TV Games"
         },
         "emulationstation-de": {
             "ags": "Adventure Game Studio Game Engine",
@@ -70,7 +62,6 @@
             "ports": "Ports",
             "sega32xjp": "Sega Super 32X",
             "sega32xna": "Sega Genesis 32X",
-            "snesna": "Nintendo SNES (Super Nintendo)",
             "solarus": "Solarus Game Engine",
             "steam": "Valve Steam",
             "stratagus": "Stratagus Game Engine",
@@ -103,7 +94,6 @@
             "mbee_cass": "Microbee cassettes",
             "mbee_flop": "Microbee floppy disks",
             "mbee_quik": "Microbee quickload",
-            "megadriv": "Sega Mega Drive/Genesis cartridges",
             "nes_vt_cart": "Cartridges compatible with VRT VT0x based units",
             "next_cdrom": "NeXT CD-ROM software",
             "next_hdd": "Hard disk images for NeXT",
@@ -130,8 +120,6 @@
         "nointro": {
             "Milton-Bradley - Omni (Waveform)": "Milton-Bradley - Omni (Waveform)",
             "Mobile - J2ME": "Mobile - J2ME",
-            "Mobile - Palm OS": "Mobile - Palm OS",
-            "Mobile - Palm OS (Digital)": "Mobile - Palm OS (Digital)",
             "Mobile - Pocket PC": "Mobile - Pocket PC",
             "Mobile - Pocket PC (Digital)": "Mobile - Pocket PC (Digital)",
             "Mobile - Symbian": "Mobile - Symbian",
@@ -150,7 +138,6 @@
             "Non-Redump - Super Audio CD": "Non-Redump - Super Audio CD",
             "Sanyo - MBC-550 (Flux)": "Sanyo - MBC-550 (Flux)",
             "Sony - PlayStation Mobile (PSN)": "Sony - PlayStation Mobile (PSN)",
-            "Source Code - Mobile - Palm OS": "Source Code - Mobile - Palm OS",
             "Source Code - Various": "Source Code - Various",
             "Unofficial - Video Game Documents (PDF)": "Unofficial - Video Game Documents (PDF)",
             "Unofficial - Video Game Magazine Scans (CBZ)": "Unofficial - Video Game Magazine Scans (CBZ)",
@@ -1288,7 +1275,6 @@
         },
         "screenscraper": {
             "6": "Capcom Play System",
-            "8": "Capcom Play System 3",
             "39": "Atari 2600 Supercharger",
             "47": "Cave",
             "49": "Daphne",
@@ -1353,7 +1339,6 @@
             "209": "Gottlieb",
             "210": "Super Nintendo MSU-1",
             "215": "Z-Machine",
-            "219": "Palm OS",
             "222": "TIC-80",
             "223": "Solarus",
             "227": "Naomi GD-ROM",
@@ -1367,10 +1352,8 @@
             "4993": "Philips Tele-Spiel ES-2201",
             "4995": "Bandai TV Jack 5000",
             "4996": "SHG Black Point",
-            "5001": "Apple Pippin",
             "5003": "Palmtex Super Micro",
             "5011": "Stadia",
-            "5012": "Didj",
             "5016": "Playdate"
         },
         "tosec": {

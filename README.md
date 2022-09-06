@@ -37,17 +37,17 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [local](local.json) | Local | - | - | 832 | - |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 159 | 38 | 197 | 80.7% |
+| [local](local.json) | Local | - | - | 830 | - |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 167 | 30 | 197 | 84.8% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 119 | 37 | 156 | 76.3% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 120 | 36 | 156 | 76.9% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
-| [MAME](sources/mame.json) | Emulator | 623 | 46 | 669 | 93.1% |
-| [No-Intro](sources/nointro.json) | DAT | 253 | 31 | 284 | 89.1% |
+| [MAME](sources/mame.json) | Emulator | 624 | 45 | 669 | 93.3% |
+| [No-Intro](sources/nointro.json) | DAT | 256 | 28 | 284 | 90.1% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 167 | 1121 | 1288 | 13% |
 | [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
-| [ScreenScraper](sources/screenscraper.json) | API | 157 | 73 | 230 | 68.3% |
-| [TheGamesDB](sources/tgdb.json) | API | 137 | 10 | 147 | 93.2% |
+| [ScreenScraper](sources/screenscraper.json) | API | 159 | 71 | 230 | 69.1% |
+| [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
 | [TOSEC](sources/tosec.json) | DAT | 2788 | 32 | 2820 | 98.9% |
 | [TOSEC-ISO](sources/toseciso.json) | DAT | 242 | 0 | 242 | 100% |
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 663 | 218 | 881 | 75.3% |

@@ -1032,6 +1032,9 @@
                 ],
                 "emulationstation-de": [
                     "apple2gs"
+                ],
+                "emucontrolcenter": [
+                    "apple2gs"
                 ]
             }
         },
@@ -1404,21 +1407,18 @@
                 ]
             }
         },
-        "Atari 8-bit Family": {
-            "id": "Atari 8-bit Family",
-            "name": "Atari 8-bit Family",
-            "matches": {
-                "nointro": [
-                    "Atari - 8-bit Family",
-                    "Atari - 8-bit Family (Kryoflux)",
-                    "Source Code - Atari - 8-bit Family"
-                ]
-            }
-        },
         "Atari 800": {
             "id": "Atari 800",
             "name": "Atari 800",
             "matches": {
+                "emucontrolcenter": [
+                    "a8bit"
+                ],
+                "nointro": [
+                    "Atari - 8-bit Family",
+                    "Atari - 8-bit Family (Kryoflux)",
+                    "Source Code - Atari - 8-bit Family"
+                ],
                 "launchbox": [
                     "Atari 800"
                 ],
@@ -1927,15 +1927,14 @@
             "id": "Bandai Pippin",
             "name": "Bandai Pippin",
             "matches": {
+                "tgdb": [
+                    "5001"
+                ],
                 "redump": [
                     "Bandai - Pippin"
                 ],
                 "mame": [
                     "pippin"
-                ],
-                "toseciso": [
-                    "Bandai Pippin @World & Pippin Atmark - Applications",
-                    "Bandai Pippin @World & Pippin Atmark - Multimedia"
                 ],
                 "nointro": [
                     "Apple-Bandai - Pippin (Floppies)",
@@ -1946,7 +1945,12 @@
         "Bandai Pippin @World & Pippin Atmark": {
             "id": "Bandai Pippin @World & Pippin Atmark",
             "name": "Bandai Pippin @World & Pippin Atmark",
-            "matches": []
+            "matches": {
+                "toseciso": [
+                    "Bandai Pippin @World & Pippin Atmark - Applications",
+                    "Bandai Pippin @World & Pippin Atmark - Multimedia"
+                ]
+            }
         },
         "Bandai Playdia": {
             "id": "Bandai Playdia",
@@ -2038,6 +2042,9 @@
             "id": "Bandai WonderSwan Color",
             "name": "Bandai WonderSwan Color",
             "matches": {
+                "emucontrolcenter": [
+                    "wsc"
+                ],
                 "mame": [
                     "wscolor"
                 ],
@@ -2312,12 +2319,18 @@
                 ]
             }
         },
-        "Capcom CP System III": {
-            "id": "Capcom CP System III",
-            "name": "Capcom CP System III",
+        "Capcom Capcom Play System III": {
+            "id": "Capcom Capcom Play System III",
+            "name": "Capcom Capcom Play System III",
             "matches": {
+                "emucontrolcenter": [
+                    "cps3"
+                ],
                 "toseciso": [
                     "Capcom CP System III - Games"
+                ],
+                "screenscraper": [
+                    8
                 ]
             }
         },
@@ -4166,6 +4179,9 @@
             "id": "Commodore Plus-4 - C16 - C116",
             "name": "Commodore Plus-4 - C16 - C116",
             "matches": {
+                "emucontrolcenter": [
+                    "c16plus4"
+                ],
                 "mame": [
                     "plus4_cass",
                     "plus4_cart",
@@ -5671,6 +5687,9 @@
             "id": "Funtech Super A'Can",
             "name": "Funtech Super A'Can",
             "matches": {
+                "emucontrolcenter": [
+                    "acan"
+                ],
                 "mame": [
                     "supracan"
                 ],
@@ -5687,11 +5706,6 @@
                     100
                 ]
             }
-        },
-        "Funtech Super A'can": {
-            "id": "Funtech Super A'can",
-            "name": "Funtech Super A'can",
-            "matches": []
         },
         "Future Pinball": {
             "id": "Future Pinball",
@@ -6053,6 +6067,14 @@
                 ],
                 "emulationstation-de": [
                     "palm"
+                ],
+                "nointro": [
+                    "Mobile - Palm OS",
+                    "Mobile - Palm OS (Digital)",
+                    "Source Code - Mobile - Palm OS"
+                ],
+                "screenscraper": [
+                    219
                 ]
             }
         },
@@ -7138,6 +7160,9 @@
             "id": "LeapFrog Didj",
             "name": "LeapFrog Didj",
             "matches": {
+                "tgdb": [
+                    "5012"
+                ],
                 "mame": [
                     "leapfrog_didj_cart"
                 ]
@@ -9435,7 +9460,8 @@
                 ],
                 "emulationstation-de": [
                     "sfc",
-                    "snes"
+                    "snes",
+                    "snesna"
                 ]
             }
         },
@@ -10109,6 +10135,9 @@
             "id": "Philips Videopac+",
             "name": "Philips Videopac+",
             "matches": {
+                "emucontrolcenter": [
+                    "vg7400"
+                ],
                 "launchbox": [
                     "Philips Videopac+"
                 ],
@@ -11148,6 +11177,9 @@
             "id": "Sega Genesis",
             "name": "Sega Genesis",
             "matches": {
+                "emucontrolcenter": [
+                    "gen"
+                ],
                 "launchbox": [
                     "Sega Genesis"
                 ],
@@ -11188,6 +11220,9 @@
                 "emulationstation-de": [
                     "genesis",
                     "megadrive"
+                ],
+                "mame": [
+                    "megadriv"
                 ]
             }
         },
