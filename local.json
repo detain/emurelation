@@ -72,7 +72,8 @@
                 "mame": [
                     "super6"
                 ]
-            }
+            },
+            "company": "ADC"
         },
         "AEG Olympia Olytext 20": {
             "id": "AEG Olympia Olytext 20",
@@ -81,7 +82,8 @@
                 "tosec": [
                     "AEG Olympia Olytext 20 - Firmware"
                 ]
-            }
+            },
+            "company": "AEG"
         },
         "AMPRO Computers LittleBoard Z80": {
             "id": "AMPRO Computers LittleBoard Z80",
@@ -94,7 +96,8 @@
                 "mame": [
                     "ampro"
                 ]
-            }
+            },
+            "company": "AMPRO Computers"
         },
         "APF Imagination Machine": {
             "id": "APF Imagination Machine",
@@ -173,7 +176,8 @@
                 "tosec": [
                     "AT&T 3B20 - Applications"
                 ]
-            }
+            },
+            "company": "AT&T"
         },
         "AVE Micro Systems ARB": {
             "id": "AVE Micro Systems ARB",
@@ -182,7 +186,8 @@
                 "mame": [
                     "arb"
                 ]
-            }
+            },
+            "company": "AVE Micro Systems"
         },
         "Acetronic MPU-1000": {
             "id": "Acetronic MPU-1000",
@@ -191,7 +196,8 @@
                 "mame": [
                     "mpu1000"
                 ]
-            }
+            },
+            "company": "Acetronic"
         },
         "Acorn 32016": {
             "id": "Acorn 32016",
@@ -567,7 +573,8 @@
                     "Advanced Computer Design PDQ-3 - System",
                     "Advanced Computer Design PDQ-3 - Various"
                 ]
-            }
+            },
+            "company": "Advanced Computer Design"
         },
         "AlphaSmart Pro": {
             "id": "AlphaSmart Pro",
@@ -576,7 +583,8 @@
                 "tosec": [
                     "AlphaSmart Pro - Firmware"
                 ]
-            }
+            },
+            "company": "AlphaSmart"
         },
         "Alspa Computers ALSPA": {
             "id": "Alspa Computers ALSPA",
@@ -585,7 +593,8 @@
                 "tosec": [
                     "Alspa Computers ALSPA - Operating Systems"
                 ]
-            }
+            },
+            "company": "Alspa Computers"
         },
         "Altos Computer Systems ACS-186, 586, 686 & 986": {
             "id": "Altos Computer Systems ACS-186, 586, 686 & 986",
@@ -595,7 +604,8 @@
                     "Altos Computer Systems ACS-186, 586, 686 & 986 - Applications",
                     "Altos Computer Systems ACS-186, 586, 686 & 986 - Operating Systems"
                 ]
-            }
+            },
+            "company": "Altos Computer Systems"
         },
         "Altos Computer Systems ACS-8000": {
             "id": "Altos Computer Systems ACS-8000",
@@ -607,7 +617,8 @@
                 "oldcomputers": [
                     456
                 ]
-            }
+            },
+            "company": "Altos Computer Systems"
         },
         "Altos Computer Systems ACS-8600": {
             "id": "Altos Computer Systems ACS-8600",
@@ -620,7 +631,8 @@
                 "mame": [
                     "altos8600"
                 ]
-            }
+            },
+            "company": "Altos Computer Systems"
         },
         "Altos Computer Systems Series 5": {
             "id": "Altos Computer Systems Series 5",
@@ -636,7 +648,8 @@
                 "mame": [
                     "altos5"
                 ]
-            }
+            },
+            "company": "Altos Computer Systems"
         },
         "American Laser Games CD-ROM System": {
             "id": "American Laser Games CD-ROM System",
@@ -645,7 +658,8 @@
                 "toseciso": [
                     "American Laser Games CD-ROM System - Games"
                 ]
-            }
+            },
+            "company": "American Laser Games"
         },
         "American-Laser-Games CD-ROM System": {
             "id": "American-Laser-Games CD-ROM System",
@@ -849,7 +863,8 @@
                 "mame": [
                     "apogee"
                 ]
-            }
+            },
+            "company": "Apogee"
         },
         "Apple I": {
             "id": "Apple I",
@@ -1264,7 +1279,8 @@
                 "mame": [
                     "applix_flop"
                 ]
-            }
+            },
+            "company": "Applix"
         },
         "Aquaplus P-ECE": {
             "id": "Aquaplus P-ECE",
@@ -1844,7 +1860,8 @@
                 "mame": [
                     "aussiebyte"
                 ]
-            }
+            },
+            "company": "Aussie"
         },
         "BBC Bridge Companion": {
             "id": "BBC Bridge Companion",
@@ -1856,7 +1873,8 @@
                 "tgdb": [
                     4997
                 ]
-            }
+            },
+            "company": "BBC"
         },
         "BGR Computers Excalibur 64": {
             "id": "BGR Computers Excalibur 64",
@@ -1875,7 +1893,8 @@
                 "mame": [
                     "b2m"
                 ]
-            }
+            },
+            "company": "BNPO"
         },
         "Baiyi C2 Color & Card": {
             "id": "Baiyi C2 Color & Card",
@@ -1884,7 +1903,8 @@
                 "mame": [
                     "c2color_cart"
                 ]
-            }
+            },
+            "company": "Baiyi"
         },
         "Bally Professional Arcade & Astrocade": {
             "id": "Bally Professional Arcade & Astrocade",
@@ -2246,7 +2266,8 @@
                 "mame": [
                     "bw12"
                 ]
-            }
+            },
+            "company": "Bondwell"
         },
         "Bondwell 14": {
             "id": "Bondwell 14",
@@ -2259,7 +2280,8 @@
                 "mame": [
                     "bw14"
                 ]
-            }
+            },
+            "company": "Bondwell"
         },
         "Bondwell 2": {
             "id": "Bondwell 2",
@@ -2274,7 +2296,8 @@
                 "mame": [
                     "bw2"
                 ]
-            }
+            },
+            "company": "Bondwell"
         },
         "Burroughs B1000 Series": {
             "id": "Burroughs B1000 Series",
@@ -2283,7 +2306,8 @@
                 "tosec": [
                     "Burroughs B1000 Series - Various"
                 ]
-            }
+            },
+            "company": "Burroughs"
         },
         "CCE MC-1000": {
             "id": "CCE MC-1000",
@@ -2330,7 +2354,8 @@
                 "mame": [
                     "buzztime_cart"
                 ]
-            }
+            },
+            "company": "Cadaco"
         },
         "Cambridge Computer Z88": {
             "id": "Cambridge Computer Z88",
@@ -2350,7 +2375,8 @@
                 "mame": [
                     "z88_cart"
                 ]
-            }
+            },
+            "company": "Cambridge"
         },
         "Camputers Lynx": {
             "id": "Camputers Lynx",
@@ -2392,7 +2418,8 @@
                     642,
                     974
                 ]
-            }
+            },
+            "company": "Canon"
         },
         "Canon X-07": {
             "id": "Canon X-07",
@@ -2405,7 +2432,8 @@
                 "oldcomputers": [
                     258
                 ]
-            }
+            },
+            "company": "Canon"
         },
         "Capcom Capcom Play System III": {
             "id": "Capcom Capcom Play System III",
@@ -2591,7 +2619,8 @@
                 "mame": [
                     "bbc_flop_68000"
                 ]
-            }
+            },
+            "company": "Casper"
         },
         "Chafitz GGM Great Game Machine": {
             "id": "Chafitz GGM Great Game Machine",
@@ -2600,7 +2629,8 @@
                 "mame": [
                     "ggm"
                 ]
-            }
+            },
+            "company": "Chafitz"
         },
         "China Education Computer": {
             "id": "China Education Computer",
@@ -2609,7 +2639,8 @@
                 "mame": [
                     "cecflop"
                 ]
-            }
+            },
+            "company": "China"
         },
         "Coleco ADAM": {
             "id": "Coleco ADAM",
@@ -4474,7 +4505,8 @@
                 "oldcomputers": [
                     560
                 ]
-            }
+            },
+            "company": "Compucolor"
         },
         "Compugraphic MCS-10": {
             "id": "Compugraphic MCS-10",
@@ -4483,7 +4515,8 @@
                 "tosec": [
                     "Compugraphic MCS-10 - Applications"
                 ]
-            }
+            },
+            "company": "Compugraphic"
         },
         "Conchess Plymate": {
             "id": "Conchess Plymate",
@@ -4492,7 +4525,8 @@
                 "mame": [
                     "conchess_plymate"
                 ]
-            }
+            },
+            "company": "Conchess"
         },
         "Conchess Standard": {
             "id": "Conchess Standard",
@@ -4501,7 +4535,8 @@
                 "mame": [
                     "conchess_standard"
                 ]
-            }
+            },
+            "company": "Conchess"
         },
         "Conitec PROF-180": {
             "id": "Conitec PROF-180",
@@ -4510,7 +4545,8 @@
                 "mame": [
                     "prof180"
                 ]
-            }
+            },
+            "company": "Conitec"
         },
         "Conitec PROF-80": {
             "id": "Conitec PROF-80",
@@ -4522,7 +4558,8 @@
                 "oldcomputers": [
                     992
                 ]
-            }
+            },
+            "company": "Conitec"
         },
         "Control Data Corporation CDC110": {
             "id": "Control Data Corporation CDC110",
@@ -4532,7 +4569,8 @@
                     "Control Data Corporation CDC110 - Applications",
                     "Control Data Corporation CDC110 - Operating Systems"
                 ]
-            }
+            },
+            "company": "Control Data Corporation"
         },
         "Convergent Technologies AWS NGEN Workstation": {
             "id": "Convergent Technologies AWS NGEN Workstation",
@@ -4552,7 +4590,8 @@
                     "Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMG]",
                     "Convergent Technologies AWS NGEN Workstation - Operating Systems - [RAW]"
                 ]
-            }
+            },
+            "company": "Convergent Technologies"
         },
         "Convergent Technologies MiniFrame": {
             "id": "Convergent Technologies MiniFrame",
@@ -4561,7 +4600,8 @@
                 "tosec": [
                     "Convergent Technologies MiniFrame - Applications"
                 ]
-            }
+            },
+            "company": "Convergent Technologies"
         },
         "Creatronic Mega Duck & Cougar Boy": {
             "id": "Creatronic Mega Duck & Cougar Boy",
@@ -4625,7 +4665,8 @@
                 "mame": [
                     "dai_cass"
                 ]
-            }
+            },
+            "company": "DAI"
         },
         "DEC AlphaServer": {
             "id": "DEC AlphaServer",
@@ -4861,7 +4902,8 @@
                 "tosec": [
                     "Didact Esselte 100 - Demos"
                 ]
-            }
+            },
+            "company": "Didact"
         },
         "Digital Electronics DIGIAC 3080": {
             "id": "Digital Electronics DIGIAC 3080",
@@ -4899,7 +4941,8 @@
                 "emulationstation-de": [
                     "dragon32"
                 ]
-            }
+            },
+            "company": "Dragon"
         },
         "Dragon DOS": {
             "id": "Dragon DOS",
@@ -4908,7 +4951,8 @@
                 "mame": [
                     "dragon_flop"
                 ]
-            }
+            },
+            "company": "Dragon"
         },
         "Dragon Data Dragon": {
             "id": "Dragon Data Dragon",
@@ -4960,7 +5004,8 @@
                 "mame": [
                     "dragon_flex"
                 ]
-            }
+            },
+            "company": "Dragon"
         },
         "Dragon OS-9": {
             "id": "Dragon OS-9",
@@ -4969,7 +5014,8 @@
                 "mame": [
                     "dragon_os9"
                 ]
-            }
+            },
+            "company": "Dragon"
         },
         "EACA Colour Genie EG2000": {
             "id": "EACA Colour Genie EG2000",
@@ -5033,7 +5079,8 @@
                 "mame": [
                     "ec1841"
                 ]
-            }
+            },
+            "company": "EC"
         },
         "EPSON PX-4": {
             "id": "EPSON PX-4",
@@ -5042,7 +5089,8 @@
                 "mame": [
                     "px4_cart"
                 ]
-            }
+            },
+            "company": "EPSON"
         },
         "ETI-660": {
             "id": "ETI-660",
@@ -5060,7 +5108,8 @@
                 "tosec": [
                     "ETL Mark II - Applications"
                 ]
-            }
+            },
+            "company": "ETL"
         },
         "ETL Mark IV": {
             "id": "ETL Mark IV",
@@ -5069,7 +5118,8 @@
                 "tosec": [
                     "ETL Mark IV - Applications"
                 ]
-            }
+            },
+            "company": "ETL"
         },
         "ETL Mark IV A": {
             "id": "ETL Mark IV A",
@@ -5078,7 +5128,8 @@
                 "tosec": [
                     "ETL Mark IV A - Applications"
                 ]
-            }
+            },
+            "company": "ETL"
         },
         "Elecbyte MUGEN": {
             "id": "Elecbyte MUGEN",
@@ -5090,7 +5141,8 @@
                 "emulationstation-de": [
                     "mugen"
                 ]
-            }
+            },
+            "company": "Elecbyte"
         },
         "Elektronika BK": {
             "id": "Elektronika BK",
@@ -5202,7 +5254,8 @@
                 "mame": [
                     "apollo_ctape"
                 ]
-            }
+            },
+            "company": "Enterprex"
         },
         "Enterprise 64 & 128": {
             "id": "Enterprise 64 & 128",
@@ -5421,7 +5474,8 @@
                 "mame": [
                     "ews286_flop"
                 ]
-            }
+            },
+            "company": "Ericsson"
         },
         "Ericsson PC step-one": {
             "id": "Ericsson PC step-one",
@@ -5430,7 +5484,8 @@
                 "mame": [
                     "stepone_flop"
                 ]
-            }
+            },
+            "company": "Ericsson"
         },
         "Excalibur 64": {
             "id": "Excalibur 64",
@@ -5439,7 +5494,8 @@
                 "mame": [
                     "excalibur64"
                 ]
-            }
+            },
+            "company": "Excalibur"
         },
         "Exelvision EXL 100": {
             "id": "Exelvision EXL 100",
@@ -5602,7 +5658,8 @@
                 "tosec": [
                     "Fairlight CMI Series III - System"
                 ]
-            }
+            },
+            "company": "Fairlight"
         },
         "Ferguson Big Board II": {
             "id": "Ferguson Big Board II",
@@ -5613,7 +5670,8 @@
                     "Ferguson Big Board II - System",
                     "Ferguson Big Board II - Various"
                 ]
-            }
+            },
+            "company": "Ferguson"
         },
         "Fidelity MSC": {
             "id": "Fidelity MSC",
@@ -5622,7 +5680,8 @@
                 "mame": [
                     "fidel_msc"
                 ]
-            }
+            },
+            "company": "Fidelity"
         },
         "Fidelity SC6": {
             "id": "Fidelity SC6",
@@ -5631,7 +5690,8 @@
                 "mame": [
                     "fidel_sc6"
                 ]
-            }
+            },
+            "company": "Fidelity"
         },
         "Fidelity Sensory Chess Challenger": {
             "id": "Fidelity Sensory Chess Challenger",
@@ -5643,7 +5703,8 @@
                 "mame": [
                     "fidel_scc"
                 ]
-            }
+            },
+            "company": "Fidelity"
         },
         "Fisher-Price - Mattel I Can Play Guitar": {
             "id": "Fisher-Price - Mattel I Can Play Guitar",
@@ -5652,7 +5713,8 @@
                 "mame": [
                     "icanguit"
                 ]
-            }
+            },
+            "company": "Fisher-Price - Mattel"
         },
         "Fisher-Price - Mattel I Can Play Piano": {
             "id": "Fisher-Price - Mattel I Can Play Piano",
@@ -5661,7 +5723,8 @@
                 "mame": [
                     "icanpian"
                 ]
-            }
+            },
+            "company": "Fisher-Price - Mattel"
         },
         "Franklin ACE 100": {
             "id": "Franklin ACE 100",
@@ -5673,7 +5736,8 @@
                 "tosecpix": [
                     "Franklin ACE 100 - Manuals - Hardware"
                 ]
-            }
+            },
+            "company": "Franklin"
         },
         "Franklin ACE 1000": {
             "id": "Franklin ACE 1000",
@@ -5685,7 +5749,8 @@
                 "tosecpix": [
                     "Franklin ACE 1000 - Manuals - Hardware"
                 ]
-            }
+            },
+            "company": "Franklin"
         },
         "Franklin ACE 2000": {
             "id": "Franklin ACE 2000",
@@ -5697,7 +5762,8 @@
                 "tosecpix": [
                     "Franklin ACE 2000 - Manuals - Hardware"
                 ]
-            }
+            },
+            "company": "Franklin"
         },
         "Franklin ACE 500": {
             "id": "Franklin ACE 500",
@@ -5709,7 +5775,8 @@
                 "tosecpix": [
                     "Franklin ACE 500 - Manuals - Hardware"
                 ]
-            }
+            },
+            "company": "Franklin"
         },
         "Front Fareast Magic Drive": {
             "id": "Front Fareast Magic Drive",
@@ -5718,7 +5785,8 @@
                 "tosec": [
                     "Front Fareast Magic Drive - Firmware"
                 ]
-            }
+            },
+            "company": "Front Fareast"
         },
         "Fuji Photo Film FUJIC": {
             "id": "Fuji Photo Film FUJIC",
@@ -5727,7 +5795,8 @@
                 "tosec": [
                     "Fuji Photo Film FUJIC - Applications"
                 ]
-            }
+            },
+            "company": "Fuji"
         },
         "Fujitsu FM Towns": {
             "id": "Fujitsu FM Towns",
@@ -5951,7 +6020,8 @@
         "Gachinko Contest! Slot machine TV": {
             "id": "Gachinko Contest! Slot machine TV",
             "name": "Gachinko Contest! Slot machine TV",
-            "matches": []
+            "matches": [],
+            "company": "Gachinko"
         },
         "Gakken Compact Vision": {
             "id": "Gakken Compact Vision",
@@ -5960,7 +6030,8 @@
                 "tgdb": [
                     4962
                 ]
-            }
+            },
+            "company": "Gakken"
         },
         "Galaksija": {
             "id": "Galaksija",
@@ -6071,7 +6142,8 @@
                 "emulationstation-de": [
                     "android"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Arcade": {
             "id": "Generic Arcade",
@@ -6096,7 +6168,8 @@
                     "arcade",
                     "mame"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Hybrid Music System": {
             "id": "Generic Hybrid Music System",
@@ -6105,7 +6178,8 @@
                 "mame": [
                     "bbc_flop_hybrid"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic IQ-151": {
             "id": "Generic IQ-151",
@@ -6118,7 +6192,8 @@
                 "oldcomputers": [
                     1045
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Intellect-02": {
             "id": "Generic Intellect-02",
@@ -6127,7 +6202,8 @@
                 "mame": [
                     "intellect02"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Jazz": {
             "id": "Generic Jazz",
@@ -6136,7 +6212,8 @@
                 "mame": [
                     "jazz"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Korvet": {
             "id": "Generic Korvet",
@@ -6145,7 +6222,8 @@
                 "mame": [
                     "korvet_flop"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Linux": {
             "id": "Generic Linux",
@@ -6157,7 +6235,8 @@
                 "screenscraper": [
                     145
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic NeXT": {
             "id": "Generic NeXT",
@@ -6166,7 +6245,8 @@
                 "mame": [
                     "next"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic OpenBOR": {
             "id": "Generic OpenBOR",
@@ -6181,7 +6261,8 @@
                 "emulationstation-de": [
                     "openbor"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic OpenPandora Pandora": {
             "id": "Generic OpenPandora Pandora",
@@ -6193,7 +6274,8 @@
                     "OpenPandora Pandora - Educational",
                     "OpenPandora Pandora - Games"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Orion 128": {
             "id": "Generic Orion 128",
@@ -6204,7 +6286,8 @@
                     "orion_flop",
                     "orion_cart"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic OrionPro": {
             "id": "Generic OrionPro",
@@ -6213,7 +6296,8 @@
                 "mame": [
                     "orionpro_flop"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic PC": {
             "id": "Generic PC",
@@ -6231,7 +6315,8 @@
                 "emulationstation-de": [
                     "pc"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic PHC-25": {
             "id": "Generic PHC-25",
@@ -6243,7 +6328,8 @@
                 "oldcomputers": [
                     192
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic PT68K2": {
             "id": "Generic PT68K2",
@@ -6252,7 +6338,8 @@
                 "mame": [
                     "pt68k2"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Palm": {
             "id": "Generic Palm",
@@ -6272,7 +6359,8 @@
                 "screenscraper": [
                     219
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Pinball": {
             "id": "Generic Pinball",
@@ -6284,7 +6372,8 @@
                 "screenscraper": [
                     197
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Poisk-1": {
             "id": "Generic Poisk-1",
@@ -6293,7 +6382,8 @@
                 "mame": [
                     "poisk1_flop"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Poly": {
             "id": "Generic Poly",
@@ -6302,7 +6392,8 @@
                 "mame": [
                     "poly_flop"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Pyldin-601": {
             "id": "Generic Pyldin-601",
@@ -6311,7 +6402,8 @@
                 "mame": [
                     "pyl601"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic SITCOM": {
             "id": "Generic SITCOM",
@@ -6320,7 +6412,8 @@
                 "mame": [
                     "sitcom"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic ScummVM": {
             "id": "Generic ScummVM",
@@ -6338,7 +6431,8 @@
                 "emulationstation-de": [
                     "scummvm"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Squale": {
             "id": "Generic Squale",
@@ -6350,7 +6444,8 @@
                 "oldcomputers": [
                     224
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Standard MIDI": {
             "id": "Generic Standard MIDI",
@@ -6359,7 +6454,8 @@
                 "mame": [
                     "midi_flop"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic UT-88": {
             "id": "Generic UT-88",
@@ -6368,7 +6464,8 @@
                 "mame": [
                     "ut88"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Generic Web Browser": {
             "id": "Generic Web Browser",
@@ -6377,7 +6474,8 @@
                 "launchbox": [
                     "Web Browser"
                 ]
-            }
+            },
+            "company": "Generic"
         },
         "Gimix 6809": {
             "id": "Gimix 6809",
@@ -6386,7 +6484,8 @@
                 "mame": [
                     "gimix"
                 ]
-            }
+            },
+            "company": "Gimix"
         },
         "Gould K105-D Logic Analyzer": {
             "id": "Gould K105-D Logic Analyzer",
@@ -6396,7 +6495,8 @@
                     "Gould K105-D Logic Analyzer - Applications",
                     "Gould K105-D Logic Analyzer - Operating Systems"
                 ]
-            }
+            },
+            "company": "Gould"
         },
         "Gould K115 Logic Analyzer": {
             "id": "Gould K115 Logic Analyzer",
@@ -6405,7 +6505,8 @@
                 "tosec": [
                     "Gould K115 Logic Analyzer - Operating Systems"
                 ]
-            }
+            },
+            "company": "Gould"
         },
         "Gould K450 Logic Analyzer": {
             "id": "Gould K450 Logic Analyzer",
@@ -6414,7 +6515,8 @@
                 "tosec": [
                     "Gould K450 Logic Analyzer - Operating Systems"
                 ]
-            }
+            },
+            "company": "Gould"
         },
         "Grundy NewBrain": {
             "id": "Grundy NewBrain",
@@ -6440,7 +6542,8 @@
                 "nointro": [
                     "Bandai - Gundam RX-78"
                 ]
-            }
+            },
+            "company": "Gundam"
         },
         "Handheld Electronic Games (LCD)": {
             "id": "Handheld Electronic Games (LCD)",
@@ -6452,7 +6555,8 @@
                 "oldcomputers": [
                     108
                 ]
-            }
+            },
+            "company": "Handheld"
         },
         "Hanimex Pencil II": {
             "id": "Hanimex Pencil II",
@@ -6507,7 +6611,8 @@
                 "mame": [
                     "ht68k"
                 ]
-            }
+            },
+            "company": "Hawthorne Technology"
         },
         "Hector HRX": {
             "id": "Hector HRX",
@@ -6519,7 +6624,8 @@
                 "oldcomputers": [
                     142
                 ]
-            }
+            },
+            "company": "Hector"
         },
         "Hewlett-Packard 16500A": {
             "id": "Hewlett-Packard 16500A",
@@ -6980,7 +7086,8 @@
                 "oldcomputers": [
                     146
                 ]
-            }
+            },
+            "company": "ITT"
         },
         "Incredible Technologies Eagle": {
             "id": "Incredible Technologies Eagle",
@@ -6995,7 +7102,8 @@
                 "oldcomputers": [
                     526
                 ]
-            }
+            },
+            "company": "Incredible Technologies"
         },
         "Incredible-Technologies Eagle": {
             "id": "Incredible-Technologies Eagle",
@@ -7049,7 +7157,8 @@
                 "mame": [
                     "interpro"
                 ]
-            }
+            },
+            "company": "Intergraph"
         },
         "Interton VC 4000": {
             "id": "Interton VC 4000",
@@ -7083,7 +7192,8 @@
                 "mame": [
                     "i7000_card"
                 ]
-            }
+            },
+            "company": "Itautec"
         },
         "Ithaca InterSystems DPS-1": {
             "id": "Ithaca InterSystems DPS-1",
@@ -7092,7 +7202,8 @@
                 "mame": [
                     "dps1"
                 ]
-            }
+            },
+            "company": "Ithaca"
         },
         "JAKKS Pacific 'DP' Game Keys": {
             "id": "JAKKS Pacific 'DP' Game Keys",
@@ -7101,7 +7212,8 @@
                 "mame": [
                     "jakks_gamekey_dp"
                 ]
-            }
+            },
+            "company": "JAKKS Pacific"
         },
         "JAKKS Pacific 'DY' Game Keys": {
             "id": "JAKKS Pacific 'DY' Game Keys",
@@ -7110,7 +7222,8 @@
                 "mame": [
                     "jakks_gamekey_dy"
                 ]
-            }
+            },
+            "company": "JAKKS Pacific"
         },
         "JAKKS Pacific 'MV' Game Keys": {
             "id": "JAKKS Pacific 'MV' Game Keys",
@@ -7119,7 +7232,8 @@
                 "mame": [
                     "jakks_gamekey_mv"
                 ]
-            }
+            },
+            "company": "JAKKS Pacific"
         },
         "JAKKS Pacific 'NK' Game Keys": {
             "id": "JAKKS Pacific 'NK' Game Keys",
@@ -7128,7 +7242,8 @@
                 "mame": [
                     "jakks_gamekey_nk"
                 ]
-            }
+            },
+            "company": "JAKKS Pacific"
         },
         "JAKKS Pacific 'NM' Game Keys": {
             "id": "JAKKS Pacific 'NM' Game Keys",
@@ -7137,7 +7252,8 @@
                 "mame": [
                     "jakks_gamekey_nm"
                 ]
-            }
+            },
+            "company": "JAKKS Pacific"
         },
         "JAKKS Pacific 'SW' Game Keys": {
             "id": "JAKKS Pacific 'SW' Game Keys",
@@ -7146,7 +7262,8 @@
                 "mame": [
                     "jakks_gamekey_sw"
                 ]
-            }
+            },
+            "company": "JAKKS Pacific"
         },
         "JAKKS Pacific Telestory": {
             "id": "JAKKS Pacific Telestory",
@@ -7155,7 +7272,8 @@
                 "mame": [
                     "telestory_cart"
                 ]
-            }
+            },
+            "company": "JAKKS Pacific"
         },
         "JPM Give us a Break": {
             "id": "JPM Give us a Break",
@@ -7164,7 +7282,8 @@
                 "mame": [
                     "guab"
                 ]
-            }
+            },
+            "company": "JPM"
         },
         "Juku E5101": {
             "id": "Juku E5101",
@@ -7173,7 +7292,8 @@
                 "mame": [
                     "juku"
                 ]
-            }
+            },
+            "company": "Juku"
         },
         "JungleTac-KenSingTon Vii": {
             "id": "JungleTac-KenSingTon Vii",
@@ -7185,7 +7305,8 @@
                 "emucontrolcenter": [
                     "vii"
                 ]
-            }
+            },
+            "company": "JungleTac-KenSingTon"
         },
         "Jupiter Cantab Jupiter Ace": {
             "id": "Jupiter Cantab Jupiter Ace",
@@ -7275,7 +7396,8 @@
                 "tosec": [
                     "Keio University K-1 - Applications"
                 ]
-            }
+            },
+            "company": "Keio University"
         },
         "Koei PasoGo": {
             "id": "Koei PasoGo",
@@ -7284,7 +7406,8 @@
                 "mame": [
                     "pasogo"
                 ]
-            }
+            },
+            "company": "Koei"
         },
         "Konami Bemani System 573 Analog": {
             "id": "Konami Bemani System 573 Analog",
@@ -7366,7 +7489,8 @@
                 "mame": [
                     "psi98"
                 ]
-            }
+            },
+            "company": "Kontron"
         },
         "LSI Octopus floppy": {
             "id": "LSI Octopus floppy",
@@ -7375,7 +7499,8 @@
                 "mame": [
                     "octopus"
                 ]
-            }
+            },
+            "company": "LSI"
         },
         "Lambda Electronics Lambda 8300": {
             "id": "Lambda Electronics Lambda 8300",
@@ -7573,7 +7698,8 @@
                 "emucontrolcenter": [
                     "lviv"
                 ]
-            }
+            },
+            "company": "Lviv"
         },
         "M&D Monon Color": {
             "id": "M&D Monon Color",
@@ -7582,7 +7708,8 @@
                 "mame": [
                     "monon_color"
                 ]
-            }
+            },
+            "company": "M&D"
         },
         "MEGA MEGA65": {
             "id": "MEGA MEGA65",
@@ -7668,7 +7795,8 @@
                 "mame": [
                     "kim1_cass"
                 ]
-            }
+            },
+            "company": "MOS"
         },
         "MSX MSX": {
             "id": "MSX MSX",
@@ -7829,7 +7957,8 @@
                 "oldcomputers": [
                     324
                 ]
-            }
+            },
+            "company": "Matsushita"
         },
         "Matsushita National JR-100": {
             "id": "Matsushita National JR-100",
@@ -7842,7 +7971,8 @@
                 "tosecpix": [
                     "Matsushita JR-100 - Manuals - Hardware"
                 ]
-            }
+            },
+            "company": "Matsushita"
         },
         "Mattel Aquarius": {
             "id": "Mattel Aquarius",
@@ -7999,7 +8129,8 @@
                     "Megatel Quark - Utilities - [DMK]",
                     "Megatel Quark - Utilities - [IMD]"
                 ]
-            }
+            },
+            "company": "Megatel"
         },
         "Memorex Video Information System": {
             "id": "Memorex Video Information System",
@@ -8064,7 +8195,8 @@
                 "mame": [
                     "mephisto_mm1"
                 ]
-            }
+            },
+            "company": "Mephisto"
         },
         "Mephisto MM II": {
             "id": "Mephisto MM II",
@@ -8073,7 +8205,8 @@
                 "mame": [
                     "mephisto_mm2"
                 ]
-            }
+            },
+            "company": "Mephisto"
         },
         "Mephisto MM IV": {
             "id": "Mephisto MM IV",
@@ -8082,7 +8215,8 @@
                 "mame": [
                     "mephisto_mm4"
                 ]
-            }
+            },
+            "company": "Mephisto"
         },
         "Mephisto MM V": {
             "id": "Mephisto MM V",
@@ -8091,7 +8225,8 @@
                 "mame": [
                     "mephisto_mm5"
                 ]
-            }
+            },
+            "company": "Mephisto"
         },
         "Mephisto Super Mondial II": {
             "id": "Mephisto Super Mondial II",
@@ -8100,7 +8235,8 @@
                 "mame": [
                     "mephisto_smondial2"
                 ]
-            }
+            },
+            "company": "Mephisto"
         },
         "Micro Craft Dimension 68000": {
             "id": "Micro Craft Dimension 68000",
@@ -8500,7 +8636,8 @@
                 "oldcomputers": [
                     166
                 ]
-            }
+            },
+            "company": "Microtan"
         },
         "Mikro-80": {
             "id": "Mikro-80",
@@ -8518,7 +8655,8 @@
                 "mame": [
                     "mm1_flop"
                 ]
-            }
+            },
+            "company": "MikroMikko"
         },
         "Millennium Systems Wicat": {
             "id": "Millennium Systems Wicat",
@@ -8527,7 +8665,8 @@
                 "mame": [
                     "wicat"
                 ]
-            }
+            },
+            "company": "Millennium Systems"
         },
         "Milton Bradley Microvision": {
             "id": "Milton Bradley Microvision",
@@ -8539,7 +8678,8 @@
                 "tgdb": [
                     4972
                 ]
-            }
+            },
+            "company": "Milton Bradley"
         },
         "Mindset Corporation Mindset": {
             "id": "Mindset Corporation Mindset",
@@ -8548,7 +8688,8 @@
                 "mame": [
                     "mindset_flop"
                 ]
-            }
+            },
+            "company": "Mindset Corporation"
         },
         "Mitsubishi Multi 8": {
             "id": "Mitsubishi Multi 8",
@@ -8572,7 +8713,8 @@
                 "mame": [
                     "mpz80"
                 ]
-            }
+            },
+            "company": "Morrow"
         },
         "Motorola EXORciser": {
             "id": "Motorola EXORciser",
@@ -8583,7 +8725,8 @@
                     "Motorola EXORciser - Utilities",
                     "Motorola EXORciser - Various"
                 ]
-            }
+            },
+            "company": "Motorola"
         },
         "Mr. Isizu Z80 TV Game System": {
             "id": "Mr. Isizu Z80 TV Game System",
@@ -9047,7 +9190,8 @@
                 "emucontrolcenter": [
                     "s22"
                 ]
-            }
+            },
+            "company": "Namco"
         },
         "Namco System 246": {
             "id": "Namco System 246",
@@ -9056,7 +9200,8 @@
                 "redump": [
                     "Arcade - Namco - System 246"
                 ]
-            }
+            },
+            "company": "Namco"
         },
         "Namco-Sega-Nintendo Triforce": {
             "id": "Namco-Sega-Nintendo Triforce",
@@ -10014,7 +10159,8 @@
                 "oldcomputers": [
                     652
                 ]
-            }
+            },
+            "company": "NorthStar"
         },
         "NorthStar Horizon": {
             "id": "NorthStar Horizon",
@@ -10034,7 +10180,8 @@
                 "oldcomputers": [
                     50
                 ]
-            }
+            },
+            "company": "NorthStar"
         },
         "Nuclear Data ND4410 & ND4420": {
             "id": "Nuclear Data ND4410 & ND4420",
@@ -10043,7 +10190,8 @@
                 "tosec": [
                     "Nuclear Data ND4410 & ND4420 - Utilities"
                 ]
-            }
+            },
+            "company": "Nuclear Data"
         },
         "Nuova Elettronica Z80NE": {
             "id": "Nuova Elettronica Z80NE",
@@ -10053,7 +10201,8 @@
                     "z80ne_cass",
                     "z80ne_flop"
                 ]
-            }
+            },
+            "company": "Nuova Elettronica"
         },
         "OCC Osborne 1 & Osborne Executive": {
             "id": "OCC Osborne 1 & Osborne Executive",
@@ -10186,7 +10335,8 @@
                 "oldcomputers": [
                     612
                 ]
-            }
+            },
+            "company": "Ondra"
         },
         "OpenPandora Pandora": {
             "id": "OpenPandora Pandora",
@@ -10234,7 +10384,8 @@
                 "mame": [
                     "clipper_flop"
                 ]
-            }
+            },
+            "company": "PDC"
         },
         "PEL Varazdin Orao": {
             "id": "PEL Varazdin Orao",
@@ -10279,7 +10430,8 @@
                 "mame": [
                     "sol20_cass"
                 ]
-            }
+            },
+            "company": "PTC"
         },
         "Palson CX 3000 Tele Computer": {
             "id": "Palson CX 3000 Tele Computer",
@@ -10288,7 +10440,8 @@
                 "mame": [
                     "cx3000tc"
                 ]
-            }
+            },
+            "company": "Palson"
         },
         "Panasonic 3DO Interactive Multiplayer": {
             "id": "Panasonic 3DO Interactive Multiplayer",
@@ -10382,7 +10535,8 @@
                 "mame": [
                     "aleste"
                 ]
-            }
+            },
+            "company": "Patisonic"
         },
         "Pentagon (ZX Spectrum clone)": {
             "id": "Pentagon (ZX Spectrum clone)",
@@ -10537,7 +10691,8 @@
                 "tgdb": [
                     4975
                 ]
-            }
+            },
+            "company": "Pioneer"
         },
         "Pravetz 8D": {
             "id": "Pravetz 8D",
@@ -10559,7 +10714,8 @@
                 "mame": [
                     "psion1"
                 ]
-            }
+            },
+            "company": "Psion"
         },
         "Psion Organiser II": {
             "id": "Psion Organiser II",
@@ -10571,7 +10727,8 @@
                 "oldcomputers": [
                     1203
                 ]
-            }
+            },
+            "company": "Psion"
         },
         "Publications International Ltd Story Reader 2.0": {
             "id": "Publications International Ltd Story Reader 2.0",
@@ -10580,7 +10737,8 @@
                 "mame": [
                     "pi_storyreader_v2_cart"
                 ]
-            }
+            },
+            "company": "Publications International Ltd"
         },
         "Publications International Ltd. Story Reader": {
             "id": "Publications International Ltd. Story Reader",
@@ -10589,7 +10747,8 @@
                 "mame": [
                     "pi_storyreader_cart"
                 ]
-            }
+            },
+            "company": "Publications International Ltd"
         },
         "RCA Chip-8": {
             "id": "RCA Chip-8",
@@ -10692,7 +10851,8 @@
                 "mame": [
                     "r9751"
                 ]
-            }
+            },
+            "company": "ROLM"
         },
         "Radica Arcade Legends & Play TV Legends": {
             "id": "Radica Arcade Legends & Play TV Legends",
@@ -10701,7 +10861,8 @@
                 "tosec": [
                     "Radica Arcade Legends & Play TV Legends - Firmware"
                 ]
-            }
+            },
+            "company": "Radica"
         },
         "Radio-86RK": {
             "id": "Radio-86RK",
@@ -10789,7 +10950,8 @@
                     "Raytheon 704 - Various - [BIN]",
                     "Raytheon 704 - Various - [FOR]"
                 ]
-            }
+            },
+            "company": "Raytheon"
         },
         "Regnecentralen RC 700": {
             "id": "Regnecentralen RC 700",
@@ -10879,7 +11041,8 @@
                 "oldcomputers": [
                     58
                 ]
-            }
+            },
+            "company": "Rockwell"
         },
         "Rowtron Television Computer System": {
             "id": "Rowtron Television Computer System",
@@ -10891,7 +11054,8 @@
                 "oldcomputers": [
                     727
                 ]
-            }
+            },
+            "company": "Rowtron"
         },
         "SABA Videoplay": {
             "id": "SABA Videoplay",
@@ -10923,7 +11087,8 @@
                     "sgi_mips",
                     "sgi_mips_hdd"
                 ]
-            }
+            },
+            "company": "SGI"
         },
         "SME Systems Aussie Byte II": {
             "id": "SME Systems Aussie Byte II",
@@ -11157,7 +11322,8 @@
                 "launchbox": [
                     "XaviXPORT"
                 ]
-            }
+            },
+            "company": "SSD"
         },
         "SSE SoftBox": {
             "id": "SSE SoftBox",
@@ -11166,7 +11332,8 @@
                 "mame": [
                     "softbox"
                 ]
-            }
+            },
+            "company": "SSE"
         },
         "Sage II": {
             "id": "Sage II",
@@ -11178,7 +11345,8 @@
                 "oldcomputers": [
                     607
                 ]
-            }
+            },
+            "company": "Sage"
         },
         "Saitek Endgame": {
             "id": "Saitek Endgame",
@@ -11187,7 +11355,8 @@
                 "mame": [
                     "saitek_egr"
                 ]
-            }
+            },
+            "company": "Saitek"
         },
         "Saitek KSO": {
             "id": "Saitek KSO",
@@ -11196,7 +11365,8 @@
                 "mame": [
                     "saitek_kso"
                 ]
-            }
+            },
+            "company": "Saitek"
         },
         "Saitek Kasparov Sensor Chess": {
             "id": "Saitek Kasparov Sensor Chess",
@@ -11205,7 +11375,8 @@
                 "mame": [
                     "saitek_schess"
                 ]
-            }
+            },
+            "company": "Saitek"
         },
         "Sammy Atomiswave": {
             "id": "Sammy Atomiswave",
@@ -11223,7 +11394,8 @@
                 "emulationstation-de": [
                     "atomiswave"
                 ]
-            }
+            },
+            "company": "Sammy"
         },
         "Samsung SPC-1000": {
             "id": "Samsung SPC-1000",
@@ -12381,7 +12553,8 @@
                 "mame": [
                     "pcd_flop"
                 ]
-            }
+            },
+            "company": "Siemens"
         },
         "Siemens PC-X": {
             "id": "Siemens PC-X",
@@ -12390,7 +12563,8 @@
                 "mame": [
                     "pcx_flop"
                 ]
-            }
+            },
+            "company": "Siemens"
         },
         "Sinclair QL": {
             "id": "Sinclair QL",
@@ -13181,7 +13355,8 @@
                 "redump": [
                     "TAB-Austria - Quizard"
                 ]
-            }
+            },
+            "company": "TAB-Austria"
         },
         "TRQ Video Computer H-21": {
             "id": "TRQ Video Computer H-21",
@@ -13206,7 +13381,8 @@
                 "screenscraper": [
                     112
                 ]
-            }
+            },
+            "company": "Taito"
         },
         "Takara Jumping Popira (Japan) JP-xx series": {
             "id": "Takara Jumping Popira (Japan) JP-xx series",
@@ -13215,7 +13391,8 @@
                 "mame": [
                     "jpopira_jp"
                 ]
-            }
+            },
+            "company": "Takara"
         },
         "Takara e-kara": {
             "id": "Takara e-kara",
@@ -13236,7 +13413,8 @@
                     "ekara_japan",
                     "ekara_japan_en"
                 ]
-            }
+            },
+            "company": "Takara"
         },
         "Takara e-pitch - e-kara (Japan) A-x series": {
             "id": "Takara e-pitch - e-kara (Japan) A-x series",
@@ -13245,7 +13423,8 @@
                 "mame": [
                     "ekara_japan_a"
                 ]
-            }
+            },
+            "company": "Takara"
         },
         "Tandberg TDV 2324": {
             "id": "Tandberg TDV 2324",
@@ -13254,7 +13433,8 @@
                 "mame": [
                     "tdv2324"
                 ]
-            }
+            },
+            "company": "Tandberg"
         },
         "Tandy Radio Shack TRS-80 Color Computer": {
             "id": "Tandy Radio Shack TRS-80 Color Computer",
@@ -13499,7 +13679,8 @@
                 "tgdb": [
                     5017
                 ]
-            }
+            },
+            "company": "Tapwave"
         },
         "Tatung Einstein TC-01": {
             "id": "Tatung Einstein TC-01",
@@ -13561,7 +13742,8 @@
                 "mame": [
                     "tek4052_cart"
                 ]
-            }
+            },
+            "company": "Tektronix"
         },
         "Tektronix 405x": {
             "id": "Tektronix 405x",
@@ -13570,7 +13752,8 @@
                 "tosec": [
                     "Tektronix 405x - Utilities"
                 ]
-            }
+            },
+            "company": "Tektronix"
         },
         "Tektronix 4100 Series": {
             "id": "Tektronix 4100 Series",
@@ -13582,7 +13765,8 @@
                     "Tektronix 4100 Series - Utilities - [DSK]",
                     "Tektronix 4100 Series - Utilities - [IMD]"
                 ]
-            }
+            },
+            "company": "Tektronix"
         },
         "Tektronix 4400 Series": {
             "id": "Tektronix 4400 Series",
@@ -13592,7 +13776,8 @@
                     "Tektronix 4400 Series - System",
                     "Tektronix 4400 Series - Utilities"
                 ]
-            }
+            },
+            "company": "Tektronix"
         },
         "Telcon Zorba": {
             "id": "Telcon Zorba",
@@ -13611,7 +13796,8 @@
                 "oldcomputers": [
                     637
                 ]
-            }
+            },
+            "company": "Telcon"
         },
         "TeleVideo Systems TS-802 & TS-802H": {
             "id": "TeleVideo Systems TS-802 & TS-802H",
@@ -13621,7 +13807,8 @@
                     "TeleVideo Systems TS-802 & TS-802H - System",
                     "TeleVideo Systems TS-802 & TS-802H - Utilities"
                 ]
-            }
+            },
+            "company": "TeleVideo Systems"
         },
         "TeleVideo Systems TS-803, TS-803H & TPC-1": {
             "id": "TeleVideo Systems TS-803, TS-803H & TPC-1",
@@ -13633,7 +13820,8 @@
                     "TeleVideo Systems TS-803, TS-803H & TPC-1 - System",
                     "TeleVideo Systems TS-803, TS-803H & TPC-1 - Utilities"
                 ]
-            }
+            },
+            "company": "TeleVideo Systems"
         },
         "TeleVideo Systems TS-806": {
             "id": "TeleVideo Systems TS-806",
@@ -13642,7 +13830,8 @@
                 "tosec": [
                     "TeleVideo Systems TS-806 - System"
                 ]
-            }
+            },
+            "company": "TeleVideo Systems"
         },
         "Telenova Compis": {
             "id": "Telenova Compis",
@@ -13657,7 +13846,8 @@
                 "nointro": [
                     "TeleNova - Compis (Flux)"
                 ]
-            }
+            },
+            "company": "Telenova"
         },
         "Telmac TMC-600": {
             "id": "Telmac TMC-600",
@@ -13677,7 +13867,8 @@
                     "Terak 8510A & 8600 - Operating Systems",
                     "Terak 8510A & 8600 - Utilities"
                 ]
-            }
+            },
+            "company": "Terak"
         },
         "Tesla Ondra Vili": {
             "id": "Tesla Ondra Vili",
@@ -14339,12 +14530,14 @@
                 "mame": [
                     "bbc_flop_torch"
                 ]
-            }
+            },
+            "company": "Torch"
         },
         "Torch Z80-68000": {
             "id": "Torch Z80-68000",
             "name": "Torch Z80-68000",
-            "matches": []
+            "matches": [],
+            "company": "Torch"
         },
         "Toshiba Pasopia": {
             "id": "Toshiba Pasopia",
@@ -14428,7 +14621,8 @@
                 "launchbox": [
                     "Touhou Project"
                 ]
-            }
+            },
+            "company": "Touhou"
         },
         "TourVision (bootleg Arcade NEC PC-Engine)": {
             "id": "TourVision (bootleg Arcade NEC PC-Engine)",
@@ -14442,7 +14636,8 @@
                 "mame": [
                     "tvgogo"
                 ]
-            }
+            },
+            "company": "Toyquest"
         },
         "Triumph-Adler Alphatronic PC": {
             "id": "Triumph-Adler Alphatronic PC",
@@ -14482,7 +14677,8 @@
                 "tosec": [
                     "UNIVAC Series 90 - Operating Systems"
                 ]
-            }
+            },
+            "company": "UNIVAC"
         },
         "USSR Vector-06C": {
             "id": "USSR Vector-06C",
@@ -14501,7 +14697,8 @@
                 "mame": [
                     "unichamp"
                 ]
-            }
+            },
+            "company": "Unisonic"
         },
         "University of Cambridge EDSAC": {
             "id": "University of Cambridge EDSAC",
@@ -14525,7 +14722,8 @@
                 "tosec": [
                     "University of Tokyo PC-1 - Applications"
                 ]
-            }
+            },
+            "company": "University of Tokyo"
         },
         "Uzebox internal EP": {
             "id": "Uzebox internal EP",
@@ -14540,7 +14738,8 @@
                 "emulationstation-de": [
                     "uzebox"
                 ]
-            }
+            },
+            "company": "Uzebox"
         },
         "VEB Mikroelektronik Erfurt Chess-Master Diamond": {
             "id": "VEB Mikroelektronik Erfurt Chess-Master Diamond",
@@ -14552,7 +14751,8 @@
                 "mame": [
                     "chessmstdm"
                 ]
-            }
+            },
+            "company": "VEB Mikroelektronik"
         },
         "VEB Mikroelektronik KC 85": {
             "id": "VEB Mikroelektronik KC 85",
@@ -14563,7 +14763,8 @@
                     "kc_cass",
                     "kc_flop"
                 ]
-            }
+            },
+            "company": "VEB Mikroelektronik"
         },
         "VM Labs Nuon": {
             "id": "VM Labs Nuon",
@@ -14588,7 +14789,8 @@
                 "mame": [
                     "nuon"
                 ]
-            }
+            },
+            "company": "VM Labs"
         },
         "VM-Labs Nuon": {
             "id": "VM-Labs Nuon",
@@ -14977,7 +15179,8 @@
                 "mame": [
                     "victor9k_flop"
                 ]
-            }
+            },
+            "company": "Victor"
         },
         "Video Game Music Files": {
             "id": "Video Game Music Files",
@@ -14995,7 +15198,8 @@
                 "mame": [
                     "vidbrain"
                 ]
-            }
+            },
+            "company": "VideoBrain"
         },
         "Videoton TV-Computer": {
             "id": "Videoton TV-Computer",
@@ -15066,7 +15270,8 @@
                     "v1050_flop",
                     "v1050_hdd"
                 ]
-            }
+            },
+            "company": "Visual Technology"
         },
         "Voltmace Database": {
             "id": "Voltmace Database",
@@ -15075,7 +15280,8 @@
                 "mame": [
                     "database"
                 ]
-            }
+            },
+            "company": "Voltmace"
         },
         "Wang PC": {
             "id": "Wang PC",
@@ -15137,7 +15343,8 @@
                 "mame": [
                     "wmbullet"
                 ]
-            }
+            },
+            "company": "WaveMate"
         },
         "Waveterm A": {
             "id": "Waveterm A",
@@ -15146,7 +15353,8 @@
                 "mame": [
                     "waveterm"
                 ]
-            }
+            },
+            "company": "Waveterm"
         },
         "Welback Mega Duck": {
             "id": "Welback Mega Duck",
@@ -15161,7 +15369,8 @@
                 "mame": [
                     "smarttv_cart"
                 ]
-            }
+            },
+            "company": "WinFun"
         },
         "WoW Action Max": {
             "id": "WoW Action Max",
@@ -15179,7 +15388,8 @@
                 "screenscraper": [
                     81
                 ]
-            }
+            },
+            "company": "WoW"
         },
         "Xerox 1108": {
             "id": "Xerox 1108",
@@ -15190,7 +15400,8 @@
                     "Xerox 1108 - System - [DMK]",
                     "Xerox 1108 - System - [IMD]"
                 ]
-            }
+            },
+            "company": "Xerox"
         },
         "Xerox 1186": {
             "id": "Xerox 1186",
@@ -15205,7 +15416,8 @@
                     "Xerox 1186 - Utilities - [DMK]",
                     "Xerox 1186 - Utilities - [IMD]"
                 ]
-            }
+            },
+            "company": "Xerox"
         },
         "Xerox 6085": {
             "id": "Xerox 6085",
@@ -15220,7 +15432,8 @@
                 "oldcomputers": [
                     1052
                 ]
-            }
+            },
+            "company": "Xerox"
         },
         "Xerox 820": {
             "id": "Xerox 820",
@@ -15236,7 +15449,8 @@
                 "mame": [
                     "xerox820"
                 ]
-            }
+            },
+            "company": "Xerox"
         },
         "Xerox 820-II": {
             "id": "Xerox 820-II",
@@ -15253,7 +15467,8 @@
                 "mame": [
                     "xerox820ii"
                 ]
-            }
+            },
+            "company": "Xerox"
         },
         "Xerox 860": {
             "id": "Xerox 860",
@@ -15267,7 +15482,8 @@
                 "oldcomputers": [
                     488
                 ]
-            }
+            },
+            "company": "Xerox"
         },
         "Yamaha Copera": {
             "id": "Yamaha Copera",
@@ -15292,7 +15508,8 @@
                 "mame": [
                     "misterx"
                 ]
-            }
+            },
+            "company": "Yeno"
         },
         "ZAPiT Games Game Wave Family Entertainment System": {
             "id": "ZAPiT Games Game Wave Family Entertainment System",
@@ -15335,7 +15552,8 @@
                     "Zilog MCZ-2 - Operating Systems",
                     "Zilog MCZ-2 - Utilities"
                 ]
-            }
+            },
+            "company": "Zilog"
         },
         "funworld Photo Play": {
             "id": "funworld Photo Play",
@@ -15344,7 +15562,8 @@
                 "redump": [
                     "funworld - Photo Play"
                 ]
-            }
+            },
+            "company": "funworld"
         },
         "iQue iQue": {
             "id": "iQue iQue",
@@ -16095,6 +16314,696 @@
         "iQue": {
             "id": "iQue",
             "name": "iQue",
+            "matches": []
+        },
+        "ADC": {
+            "id": "ADC",
+            "name": "ADC",
+            "matches": []
+        },
+        "AEG": {
+            "id": "AEG",
+            "name": "AEG",
+            "matches": []
+        },
+        "AMPRO Computers": {
+            "id": "AMPRO Computers",
+            "name": "AMPRO Computers",
+            "matches": []
+        },
+        "AT&T": {
+            "id": "AT&T",
+            "name": "AT&T",
+            "matches": []
+        },
+        "AVE Micro Systems": {
+            "id": "AVE Micro Systems",
+            "name": "AVE Micro Systems",
+            "matches": []
+        },
+        "Acetronic": {
+            "id": "Acetronic",
+            "name": "Acetronic",
+            "matches": []
+        },
+        "Advanced Computer Design": {
+            "id": "Advanced Computer Design",
+            "name": "Advanced Computer Design",
+            "matches": []
+        },
+        "AlphaSmart": {
+            "id": "AlphaSmart",
+            "name": "AlphaSmart",
+            "matches": []
+        },
+        "Alspa Computers": {
+            "id": "Alspa Computers",
+            "name": "Alspa Computers",
+            "matches": []
+        },
+        "Altos Computer Systems": {
+            "id": "Altos Computer Systems",
+            "name": "Altos Computer Systems",
+            "matches": []
+        },
+        "American Laser Games": {
+            "id": "American Laser Games",
+            "name": "American Laser Games",
+            "matches": []
+        },
+        "Apogee": {
+            "id": "Apogee",
+            "name": "Apogee",
+            "matches": []
+        },
+        "Applix": {
+            "id": "Applix",
+            "name": "Applix",
+            "matches": []
+        },
+        "Aussie": {
+            "id": "Aussie",
+            "name": "Aussie",
+            "matches": []
+        },
+        "BBC": {
+            "id": "BBC",
+            "name": "BBC",
+            "matches": []
+        },
+        "BNPO": {
+            "id": "BNPO",
+            "name": "BNPO",
+            "matches": []
+        },
+        "Baiyi": {
+            "id": "Baiyi",
+            "name": "Baiyi",
+            "matches": []
+        },
+        "Bondwell": {
+            "id": "Bondwell",
+            "name": "Bondwell",
+            "matches": []
+        },
+        "Burroughs": {
+            "id": "Burroughs",
+            "name": "Burroughs",
+            "matches": []
+        },
+        "Cadaco": {
+            "id": "Cadaco",
+            "name": "Cadaco",
+            "matches": []
+        },
+        "Cambridge": {
+            "id": "Cambridge",
+            "name": "Cambridge",
+            "matches": []
+        },
+        "Canon": {
+            "id": "Canon",
+            "name": "Canon",
+            "matches": []
+        },
+        "Casper": {
+            "id": "Casper",
+            "name": "Casper",
+            "matches": []
+        },
+        "Chafitz": {
+            "id": "Chafitz",
+            "name": "Chafitz",
+            "matches": []
+        },
+        "China": {
+            "id": "China",
+            "name": "China",
+            "matches": []
+        },
+        "Compucolor": {
+            "id": "Compucolor",
+            "name": "Compucolor",
+            "matches": []
+        },
+        "Compugraphic": {
+            "id": "Compugraphic",
+            "name": "Compugraphic",
+            "matches": []
+        },
+        "Conchess": {
+            "id": "Conchess",
+            "name": "Conchess",
+            "matches": []
+        },
+        "Conitec": {
+            "id": "Conitec",
+            "name": "Conitec",
+            "matches": []
+        },
+        "Control Data Corporation": {
+            "id": "Control Data Corporation",
+            "name": "Control Data Corporation",
+            "matches": []
+        },
+        "Convergent Technologies": {
+            "id": "Convergent Technologies",
+            "name": "Convergent Technologies",
+            "matches": []
+        },
+        "DAI": {
+            "id": "DAI",
+            "name": "DAI",
+            "matches": []
+        },
+        "Didact": {
+            "id": "Didact",
+            "name": "Didact",
+            "matches": []
+        },
+        "Dragon": {
+            "id": "Dragon",
+            "name": "Dragon",
+            "matches": []
+        },
+        "EC": {
+            "id": "EC",
+            "name": "EC",
+            "matches": []
+        },
+        "EPSON": {
+            "id": "EPSON",
+            "name": "EPSON",
+            "matches": []
+        },
+        "ETL": {
+            "id": "ETL",
+            "name": "ETL",
+            "matches": []
+        },
+        "Elecbyte": {
+            "id": "Elecbyte",
+            "name": "Elecbyte",
+            "matches": []
+        },
+        "Enterprex": {
+            "id": "Enterprex",
+            "name": "Enterprex",
+            "matches": []
+        },
+        "Ericsson": {
+            "id": "Ericsson",
+            "name": "Ericsson",
+            "matches": []
+        },
+        "Excalibur": {
+            "id": "Excalibur",
+            "name": "Excalibur",
+            "matches": []
+        },
+        "Fairlight": {
+            "id": "Fairlight",
+            "name": "Fairlight",
+            "matches": []
+        },
+        "Ferguson": {
+            "id": "Ferguson",
+            "name": "Ferguson",
+            "matches": []
+        },
+        "Fidelity": {
+            "id": "Fidelity",
+            "name": "Fidelity",
+            "matches": []
+        },
+        "Fisher-Price - Mattel": {
+            "id": "Fisher-Price - Mattel",
+            "name": "Fisher-Price - Mattel",
+            "matches": []
+        },
+        "Franklin": {
+            "id": "Franklin",
+            "name": "Franklin",
+            "matches": []
+        },
+        "Front Fareast": {
+            "id": "Front Fareast",
+            "name": "Front Fareast",
+            "matches": []
+        },
+        "Fuji": {
+            "id": "Fuji",
+            "name": "Fuji",
+            "matches": []
+        },
+        "Gachinko": {
+            "id": "Gachinko",
+            "name": "Gachinko",
+            "matches": []
+        },
+        "Gakken": {
+            "id": "Gakken",
+            "name": "Gakken",
+            "matches": []
+        },
+        "Generic": {
+            "id": "Generic",
+            "name": "Generic",
+            "matches": []
+        },
+        "Gimix": {
+            "id": "Gimix",
+            "name": "Gimix",
+            "matches": []
+        },
+        "Gould": {
+            "id": "Gould",
+            "name": "Gould",
+            "matches": []
+        },
+        "Gundam": {
+            "id": "Gundam",
+            "name": "Gundam",
+            "matches": []
+        },
+        "Handheld": {
+            "id": "Handheld",
+            "name": "Handheld",
+            "matches": []
+        },
+        "Hawthorne Technology": {
+            "id": "Hawthorne Technology",
+            "name": "Hawthorne Technology",
+            "matches": []
+        },
+        "Hector": {
+            "id": "Hector",
+            "name": "Hector",
+            "matches": []
+        },
+        "ITT": {
+            "id": "ITT",
+            "name": "ITT",
+            "matches": []
+        },
+        "Incredible Technologies": {
+            "id": "Incredible Technologies",
+            "name": "Incredible Technologies",
+            "matches": []
+        },
+        "Intergraph": {
+            "id": "Intergraph",
+            "name": "Intergraph",
+            "matches": []
+        },
+        "Itautec": {
+            "id": "Itautec",
+            "name": "Itautec",
+            "matches": []
+        },
+        "Ithaca": {
+            "id": "Ithaca",
+            "name": "Ithaca",
+            "matches": []
+        },
+        "JAKKS Pacific": {
+            "id": "JAKKS Pacific",
+            "name": "JAKKS Pacific",
+            "matches": []
+        },
+        "JPM": {
+            "id": "JPM",
+            "name": "JPM",
+            "matches": []
+        },
+        "Juku": {
+            "id": "Juku",
+            "name": "Juku",
+            "matches": []
+        },
+        "JungleTac-KenSingTon": {
+            "id": "JungleTac-KenSingTon",
+            "name": "JungleTac-KenSingTon",
+            "matches": []
+        },
+        "Keio University": {
+            "id": "Keio University",
+            "name": "Keio University",
+            "matches": []
+        },
+        "Koei": {
+            "id": "Koei",
+            "name": "Koei",
+            "matches": []
+        },
+        "Kontron": {
+            "id": "Kontron",
+            "name": "Kontron",
+            "matches": []
+        },
+        "LSI": {
+            "id": "LSI",
+            "name": "LSI",
+            "matches": []
+        },
+        "Lviv": {
+            "id": "Lviv",
+            "name": "Lviv",
+            "matches": []
+        },
+        "M&D": {
+            "id": "M&D",
+            "name": "M&D",
+            "matches": []
+        },
+        "MOS": {
+            "id": "MOS",
+            "name": "MOS",
+            "matches": []
+        },
+        "Matsushita": {
+            "id": "Matsushita",
+            "name": "Matsushita",
+            "matches": []
+        },
+        "Megatel": {
+            "id": "Megatel",
+            "name": "Megatel",
+            "matches": []
+        },
+        "Mephisto": {
+            "id": "Mephisto",
+            "name": "Mephisto",
+            "matches": []
+        },
+        "Microtan": {
+            "id": "Microtan",
+            "name": "Microtan",
+            "matches": []
+        },
+        "MikroMikko": {
+            "id": "MikroMikko",
+            "name": "MikroMikko",
+            "matches": []
+        },
+        "Millennium Systems": {
+            "id": "Millennium Systems",
+            "name": "Millennium Systems",
+            "matches": []
+        },
+        "Milton Bradley": {
+            "id": "Milton Bradley",
+            "name": "Milton Bradley",
+            "matches": []
+        },
+        "Mindset Corporation": {
+            "id": "Mindset Corporation",
+            "name": "Mindset Corporation",
+            "matches": []
+        },
+        "Morrow": {
+            "id": "Morrow",
+            "name": "Morrow",
+            "matches": []
+        },
+        "Motorola": {
+            "id": "Motorola",
+            "name": "Motorola",
+            "matches": []
+        },
+        "Namco": {
+            "id": "Namco",
+            "name": "Namco",
+            "matches": []
+        },
+        "NorthStar": {
+            "id": "NorthStar",
+            "name": "NorthStar",
+            "matches": []
+        },
+        "Nuclear Data": {
+            "id": "Nuclear Data",
+            "name": "Nuclear Data",
+            "matches": []
+        },
+        "Nuova Elettronica": {
+            "id": "Nuova Elettronica",
+            "name": "Nuova Elettronica",
+            "matches": []
+        },
+        "Ondra": {
+            "id": "Ondra",
+            "name": "Ondra",
+            "matches": []
+        },
+        "PDC": {
+            "id": "PDC",
+            "name": "PDC",
+            "matches": []
+        },
+        "PTC": {
+            "id": "PTC",
+            "name": "PTC",
+            "matches": []
+        },
+        "Palson": {
+            "id": "Palson",
+            "name": "Palson",
+            "matches": []
+        },
+        "Patisonic": {
+            "id": "Patisonic",
+            "name": "Patisonic",
+            "matches": []
+        },
+        "Pioneer": {
+            "id": "Pioneer",
+            "name": "Pioneer",
+            "matches": []
+        },
+        "Psion": {
+            "id": "Psion",
+            "name": "Psion",
+            "matches": []
+        },
+        "Publications International Ltd": {
+            "id": "Publications International Ltd",
+            "name": "Publications International Ltd",
+            "matches": []
+        },
+        "ROLM": {
+            "id": "ROLM",
+            "name": "ROLM",
+            "matches": []
+        },
+        "Radica": {
+            "id": "Radica",
+            "name": "Radica",
+            "matches": []
+        },
+        "Raytheon": {
+            "id": "Raytheon",
+            "name": "Raytheon",
+            "matches": []
+        },
+        "Rockwell": {
+            "id": "Rockwell",
+            "name": "Rockwell",
+            "matches": []
+        },
+        "Rowtron": {
+            "id": "Rowtron",
+            "name": "Rowtron",
+            "matches": []
+        },
+        "SGI": {
+            "id": "SGI",
+            "name": "SGI",
+            "matches": []
+        },
+        "SSD": {
+            "id": "SSD",
+            "name": "SSD",
+            "matches": []
+        },
+        "SSE": {
+            "id": "SSE",
+            "name": "SSE",
+            "matches": []
+        },
+        "Sage": {
+            "id": "Sage",
+            "name": "Sage",
+            "matches": []
+        },
+        "Saitek": {
+            "id": "Saitek",
+            "name": "Saitek",
+            "matches": []
+        },
+        "Sammy": {
+            "id": "Sammy",
+            "name": "Sammy",
+            "matches": []
+        },
+        "Siemens": {
+            "id": "Siemens",
+            "name": "Siemens",
+            "matches": []
+        },
+        "TAB-Austria": {
+            "id": "TAB-Austria",
+            "name": "TAB-Austria",
+            "matches": []
+        },
+        "Taito": {
+            "id": "Taito",
+            "name": "Taito",
+            "matches": []
+        },
+        "Takara": {
+            "id": "Takara",
+            "name": "Takara",
+            "matches": []
+        },
+        "Tandberg": {
+            "id": "Tandberg",
+            "name": "Tandberg",
+            "matches": []
+        },
+        "Tapwave": {
+            "id": "Tapwave",
+            "name": "Tapwave",
+            "matches": []
+        },
+        "Tektronix": {
+            "id": "Tektronix",
+            "name": "Tektronix",
+            "matches": []
+        },
+        "Telcon": {
+            "id": "Telcon",
+            "name": "Telcon",
+            "matches": []
+        },
+        "TeleVideo Systems": {
+            "id": "TeleVideo Systems",
+            "name": "TeleVideo Systems",
+            "matches": []
+        },
+        "Telenova": {
+            "id": "Telenova",
+            "name": "Telenova",
+            "matches": []
+        },
+        "Terak": {
+            "id": "Terak",
+            "name": "Terak",
+            "matches": []
+        },
+        "Torch": {
+            "id": "Torch",
+            "name": "Torch",
+            "matches": []
+        },
+        "Touhou": {
+            "id": "Touhou",
+            "name": "Touhou",
+            "matches": []
+        },
+        "Toyquest": {
+            "id": "Toyquest",
+            "name": "Toyquest",
+            "matches": []
+        },
+        "UNIVAC": {
+            "id": "UNIVAC",
+            "name": "UNIVAC",
+            "matches": []
+        },
+        "Unisonic": {
+            "id": "Unisonic",
+            "name": "Unisonic",
+            "matches": []
+        },
+        "University of Tokyo": {
+            "id": "University of Tokyo",
+            "name": "University of Tokyo",
+            "matches": []
+        },
+        "Uzebox": {
+            "id": "Uzebox",
+            "name": "Uzebox",
+            "matches": []
+        },
+        "VEB Mikroelektronik": {
+            "id": "VEB Mikroelektronik",
+            "name": "VEB Mikroelektronik",
+            "matches": []
+        },
+        "VM Labs": {
+            "id": "VM Labs",
+            "name": "VM Labs",
+            "matches": []
+        },
+        "Victor": {
+            "id": "Victor",
+            "name": "Victor",
+            "matches": []
+        },
+        "VideoBrain": {
+            "id": "VideoBrain",
+            "name": "VideoBrain",
+            "matches": []
+        },
+        "Visual Technology": {
+            "id": "Visual Technology",
+            "name": "Visual Technology",
+            "matches": []
+        },
+        "Voltmace": {
+            "id": "Voltmace",
+            "name": "Voltmace",
+            "matches": []
+        },
+        "WaveMate": {
+            "id": "WaveMate",
+            "name": "WaveMate",
+            "matches": []
+        },
+        "Waveterm": {
+            "id": "Waveterm",
+            "name": "Waveterm",
+            "matches": []
+        },
+        "WinFun": {
+            "id": "WinFun",
+            "name": "WinFun",
+            "matches": []
+        },
+        "WoW": {
+            "id": "WoW",
+            "name": "WoW",
+            "matches": []
+        },
+        "Xerox": {
+            "id": "Xerox",
+            "name": "Xerox",
+            "matches": []
+        },
+        "Yeno": {
+            "id": "Yeno",
+            "name": "Yeno",
+            "matches": []
+        },
+        "Zilog": {
+            "id": "Zilog",
+            "name": "Zilog",
+            "matches": []
+        },
+        "funworld": {
+            "id": "funworld",
+            "name": "funworld",
             "matches": []
         }
     },
