@@ -40,6 +40,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | [local](local.json) | Local | - | - | 832 | - |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 159 | 38 | 197 | 80.7% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 119 | 37 | 156 | 76.3% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [MAME](sources/mame.json) | Emulator | 623 | 46 | 669 | 93.1% |
 | [No-Intro](sources/nointro.json) | DAT | 253 | 31 | 284 | 89.1% |
@@ -57,6 +58,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 |-|-|-|-|-|-|
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 490 | 490 | 0% |
 | [EmulationKing](sources/emulationking.json) | Website | 0 | 96 | 96 | 0% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 0 | 164 | 164 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 30 | 30 | 0% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 0 | 466 | 466 | 0% |
 

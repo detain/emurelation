@@ -389,6 +389,9 @@
                 ],
                 "emucontrolcenter": [
                     "bbc"
+                ],
+                "emulationstation-de": [
+                    "bbcmicro"
                 ]
             }
         },
@@ -680,6 +683,9 @@
                 ],
                 "emucontrolcenter": [
                     "cpc"
+                ],
+                "emulationstation-de": [
+                    "amstradcpc"
                 ]
             }
         },
@@ -691,6 +697,9 @@
                     "gx4000"
                 ],
                 "emucontrolcenter": [
+                    "gx4000"
+                ],
+                "emulationstation-de": [
                     "gx4000"
                 ]
             }
@@ -962,6 +971,9 @@
                 ],
                 "emucontrolcenter": [
                     "apple2"
+                ],
+                "emulationstation-de": [
+                    "apple2"
                 ]
             }
         },
@@ -1017,6 +1029,9 @@
                 ],
                 "screenscraper": [
                     217
+                ],
+                "emulationstation-de": [
+                    "apple2gs"
                 ]
             }
         },
@@ -1147,6 +1162,9 @@
                 ],
                 "emucontrolcenter": [
                     "mtosh"
+                ],
+                "emulationstation-de": [
+                    "macintosh"
                 ]
             }
         },
@@ -1269,6 +1287,9 @@
                 ],
                 "emucontrolcenter": [
                     "a2600"
+                ],
+                "emulationstation-de": [
+                    "atari2600"
                 ]
             }
         },
@@ -1334,6 +1355,9 @@
                 ],
                 "emucontrolcenter": [
                     "a5200"
+                ],
+                "emulationstation-de": [
+                    "atari5200"
                 ]
             }
         },
@@ -1374,6 +1398,9 @@
                 ],
                 "emucontrolcenter": [
                     "a7800"
+                ],
+                "emulationstation-de": [
+                    "atari7800"
                 ]
             }
         },
@@ -1458,6 +1485,9 @@
                 ],
                 "screenscraper": [
                     43
+                ],
+                "emulationstation-de": [
+                    "atari800"
                 ]
             }
         },
@@ -1512,6 +1542,9 @@
                 ],
                 "emulationking": [
                     "atarijaguar"
+                ],
+                "emulationstation-de": [
+                    "atarijaguar"
                 ]
             }
         },
@@ -1548,6 +1581,9 @@
                 ],
                 "emucontrolcenter": [
                     "jagcd"
+                ],
+                "emulationstation-de": [
+                    "atarijaguarcd"
                 ]
             }
         },
@@ -1591,6 +1627,9 @@
                     "clynx"
                 ],
                 "emulationking": [
+                    "atarilynx"
+                ],
+                "emulationstation-de": [
                     "atarilynx"
                 ]
             }
@@ -1705,6 +1744,9 @@
                 ],
                 "emucontrolcenter": [
                     "st"
+                ],
+                "emulationstation-de": [
+                    "atarist"
                 ]
             }
         },
@@ -1717,6 +1759,9 @@
                 ],
                 "mame": [
                     "xegs"
+                ],
+                "emulationstation-de": [
+                    "atarixe"
                 ]
             }
         },
@@ -1831,6 +1876,9 @@
                 ],
                 "emucontrolcenter": [
                     "ac"
+                ],
+                "emulationstation-de": [
+                    "astrocde"
                 ]
             }
         },
@@ -1980,6 +2028,9 @@
                 ],
                 "emucontrolcenter": [
                     "ws"
+                ],
+                "emulationstation-de": [
+                    "wonderswan"
                 ]
             }
         },
@@ -2007,6 +2058,9 @@
                 ],
                 "screenscraper": [
                     46
+                ],
+                "emulationstation-de": [
+                    "wonderswancolor"
                 ]
             }
         },
@@ -2543,6 +2597,9 @@
                 ],
                 "emucontrolcenter": [
                     "col"
+                ],
+                "emulationstation-de": [
+                    "colecovision"
                 ]
             }
         },
@@ -3089,6 +3146,9 @@
                 ],
                 "emucontrolcenter": [
                     "c64"
+                ],
+                "emulationstation-de": [
+                    "c64"
                 ]
             }
         },
@@ -3286,6 +3346,9 @@
                 ],
                 "emucontrolcenter": [
                     "amiga"
+                ],
+                "emulationstation-de": [
+                    "amiga"
                 ]
             }
         },
@@ -3394,6 +3457,9 @@
                 ],
                 "emucontrolcenter": [
                     "amigacd32"
+                ],
+                "emulationstation-de": [
+                    "amigacd32"
                 ]
             }
         },
@@ -3445,6 +3511,9 @@
                     129
                 ],
                 "emucontrolcenter": [
+                    "cdtv"
+                ],
+                "emulationstation-de": [
                     "cdtv"
                 ]
             }
@@ -4238,6 +4307,9 @@
                 ],
                 "emucontrolcenter": [
                     "vic20"
+                ],
+                "emulationstation-de": [
+                    "vic20"
                 ]
             }
         },
@@ -4362,6 +4434,9 @@
                 ],
                 "screenscraper": [
                     90
+                ],
+                "emulationstation-de": [
+                    "megaduck"
                 ]
             }
         },
@@ -4647,6 +4722,9 @@
                 ],
                 "emucontrolcenter": [
                     "dragon"
+                ],
+                "emulationstation-de": [
+                    "dragon32"
                 ]
             }
         },
@@ -4832,6 +4910,9 @@
             "matches": {
                 "launchbox": [
                     "MUGEN"
+                ],
+                "emulationstation-de": [
+                    "mugen"
                 ]
             }
         },
@@ -5293,6 +5374,9 @@
                 ],
                 "emucontrolcenter": [
                     "chaf"
+                ],
+                "emulationstation-de": [
+                    "channelf"
                 ]
             }
         },
@@ -5497,6 +5581,9 @@
                 ],
                 "emucontrolcenter": [
                     "fmtowns"
+                ],
+                "emulationstation-de": [
+                    "fmtowns"
                 ]
             }
         },
@@ -5651,6 +5738,9 @@
                 ],
                 "emucontrolcenter": [
                     "vec"
+                ],
+                "emulationstation-de": [
+                    "vectrex"
                 ]
             }
         },
@@ -5767,6 +5857,9 @@
                 ],
                 "screenscraper": [
                     63
+                ],
+                "emulationstation-de": [
+                    "android"
                 ]
             }
         },
@@ -5787,6 +5880,10 @@
                     75
                 ],
                 "emucontrolcenter": [
+                    "mame"
+                ],
+                "emulationstation-de": [
+                    "arcade",
                     "mame"
                 ]
             }
@@ -5870,6 +5967,9 @@
                 ],
                 "screenscraper": [
                     214
+                ],
+                "emulationstation-de": [
+                    "openbor"
                 ]
             }
         },
@@ -5917,6 +6017,9 @@
                 ],
                 "oldcomputers": [
                     77
+                ],
+                "emulationstation-de": [
+                    "pc"
                 ]
             }
         },
@@ -5947,6 +6050,9 @@
             "matches": {
                 "redump": [
                     "Palm"
+                ],
+                "emulationstation-de": [
+                    "palm"
                 ]
             }
         },
@@ -6010,6 +6116,9 @@
                 ],
                 "emucontrolcenter": [
                     "svm"
+                ],
+                "emulationstation-de": [
+                    "scummvm"
                 ]
             }
         },
@@ -6654,6 +6763,9 @@
                 "tosec": [
                     "Infocom Z-Machine - Applications",
                     "Infocom Z-Machine - Games"
+                ],
+                "emulationstation-de": [
+                    "zmachine"
                 ]
             }
         },
@@ -7238,6 +7350,9 @@
                 ],
                 "emucontrolcenter": [
                     "samc"
+                ],
+                "emulationstation-de": [
+                    "samcoupe"
                 ]
             }
         },
@@ -7360,6 +7475,10 @@
                 ],
                 "emucontrolcenter": [
                     "vg7000"
+                ],
+                "emulationstation-de": [
+                    "odyssey2",
+                    "videopac"
                 ]
             }
         },
@@ -7550,6 +7669,9 @@
                 ],
                 "emucontrolcenter": [
                     "int"
+                ],
+                "emulationstation-de": [
+                    "intellivision"
                 ]
             }
         },
@@ -7748,6 +7870,9 @@
                 ],
                 "emulationking": [
                     "ms-dos"
+                ],
+                "emulationstation-de": [
+                    "dos"
                 ]
             }
         },
@@ -7812,6 +7937,11 @@
                 "emucontrolcenter": [
                     "msx2",
                     "msx"
+                ],
+                "emulationstation-de": [
+                    "msx",
+                    "msx1",
+                    "msx2"
                 ]
             }
         },
@@ -7835,6 +7965,9 @@
                 ],
                 "oldcomputers": [
                     290
+                ],
+                "emulationstation-de": [
+                    "msxturbor"
                 ]
             }
         },
@@ -7949,6 +8082,9 @@
                 ],
                 "emulationking": [
                     "xbox"
+                ],
+                "emulationstation-de": [
+                    "xbox"
                 ]
             }
         },
@@ -7991,6 +8127,9 @@
                     "xbox360"
                 ],
                 "emucontrolcenter": [
+                    "xbox360"
+                ],
+                "emulationstation-de": [
                     "xbox360"
                 ]
             }
@@ -8206,6 +8345,9 @@
                 ],
                 "screenscraper": [
                     105
+                ],
+                "emulationstation-de": [
+                    "supergrafx"
                 ]
             }
         },
@@ -8277,6 +8419,9 @@
                 "nointro": [
                     "NEC - PC-88 (Flux)",
                     "NEC - PC-88 (KryoFlux)"
+                ],
+                "emulationstation-de": [
+                    "pc88"
                 ]
             }
         },
@@ -8344,6 +8489,9 @@
                     "NEC - PC-98 (Greaseweazle)",
                     "NEC - PC-98 (HardDisk)",
                     "NEC - PC-98 (Uncategorized)"
+                ],
+                "emulationstation-de": [
+                    "pc98"
                 ]
             }
         },
@@ -8472,6 +8620,9 @@
                 ],
                 "emucontrolcenter": [
                     "pcfx"
+                ],
+                "emulationstation-de": [
+                    "pcfx"
                 ]
             }
         },
@@ -8514,6 +8665,10 @@
                 ],
                 "emucontrolcenter": [
                     "pcecd"
+                ],
+                "emulationstation-de": [
+                    "pcenginecd",
+                    "tg-cd"
                 ]
             }
         },
@@ -8535,6 +8690,10 @@
                 ],
                 "screenscraper": [
                     31
+                ],
+                "emulationstation-de": [
+                    "pcengine",
+                    "tg16"
                 ]
             }
         },
@@ -8658,6 +8817,9 @@
                 ],
                 "emulationking": [
                     "nintendo-3ds"
+                ],
+                "emulationstation-de": [
+                    "n3ds"
                 ]
             }
         },
@@ -8709,6 +8871,9 @@
                 ],
                 "emulationking": [
                     "nintendo64"
+                ],
+                "emulationstation-de": [
+                    "n64"
                 ]
             }
         },
@@ -8736,6 +8901,9 @@
                 ],
                 "screenscraper": [
                     122
+                ],
+                "emulationstation-de": [
+                    "n64dd"
                 ]
             }
         },
@@ -8776,6 +8944,9 @@
                 ],
                 "emulationking": [
                     "nintendods"
+                ],
+                "emulationstation-de": [
+                    "nds"
                 ]
             }
         },
@@ -8862,6 +9033,10 @@
                 ],
                 "emulationking": [
                     "nes"
+                ],
+                "emulationstation-de": [
+                    "famicom",
+                    "nes"
                 ]
             }
         },
@@ -8898,6 +9073,9 @@
                 ],
                 "emucontrolcenter": [
                     "fds"
+                ],
+                "emulationstation-de": [
+                    "fds"
                 ]
             }
         },
@@ -8927,6 +9105,9 @@
                 ],
                 "nointro": [
                     "Nintendo - Game & Watch"
+                ],
+                "emulationstation-de": [
+                    "gameandwatch"
                 ]
             }
         },
@@ -8960,6 +9141,10 @@
                 ],
                 "emucontrolcenter": [
                     "gb"
+                ],
+                "emulationstation-de": [
+                    "gb",
+                    "sgb"
                 ]
             }
         },
@@ -9002,6 +9187,9 @@
                 ],
                 "emulationking": [
                     "gameboyadvance"
+                ],
+                "emulationstation-de": [
+                    "gba"
                 ]
             }
         },
@@ -9037,6 +9225,9 @@
                 ],
                 "emulationking": [
                     "gameboycolor"
+                ],
+                "emulationstation-de": [
+                    "gbc"
                 ]
             }
         },
@@ -9077,6 +9268,9 @@
                 ],
                 "emulationking": [
                     "gamecube"
+                ],
+                "emulationstation-de": [
+                    "gc"
                 ]
             }
         },
@@ -9142,6 +9336,9 @@
                 ],
                 "emucontrolcenter": [
                     "pmini"
+                ],
+                "emulationstation-de": [
+                    "pokemini"
                 ]
             }
         },
@@ -9160,6 +9357,9 @@
                 ],
                 "screenscraper": [
                     107
+                ],
+                "emulationstation-de": [
+                    "satellaview"
                 ]
             }
         },
@@ -9232,6 +9432,10 @@
                 ],
                 "emulationking": [
                     "snes"
+                ],
+                "emulationstation-de": [
+                    "sfc",
+                    "snes"
                 ]
             }
         },
@@ -9250,6 +9454,9 @@
                 ],
                 "emulationking": [
                     "nintendoswitch"
+                ],
+                "emulationstation-de": [
+                    "switch"
                 ]
             }
         },
@@ -9286,6 +9493,9 @@
                     "vb"
                 ],
                 "emulationking": [
+                    "virtualboy"
+                ],
+                "emulationstation-de": [
                     "virtualboy"
                 ]
             }
@@ -9326,6 +9536,9 @@
                 ],
                 "emulationking": [
                     "wii"
+                ],
+                "emulationstation-de": [
+                    "wii"
                 ]
             }
         },
@@ -9360,6 +9573,9 @@
                 ],
                 "emulationking": [
                     "wii-u"
+                ],
+                "emulationstation-de": [
+                    "wiiu"
                 ]
             }
         },
@@ -9741,6 +9957,9 @@
                 ],
                 "emucontrolcenter": [
                     "3do"
+                ],
+                "emulationstation-de": [
+                    "3do"
                 ]
             }
         },
@@ -9838,6 +10057,9 @@
                 ],
                 "emucontrolcenter": [
                     "cdi"
+                ],
+                "emulationstation-de": [
+                    "cdimono1"
                 ]
             }
         },
@@ -10324,6 +10546,9 @@
                 ],
                 "emucontrolcenter": [
                     "ng"
+                ],
+                "emulationstation-de": [
+                    "neogeo"
                 ]
             }
         },
@@ -10379,6 +10604,10 @@
                 ],
                 "emucontrolcenter": [
                     "ngcd"
+                ],
+                "emulationstation-de": [
+                    "neogeocd",
+                    "neogeocdjp"
                 ]
             }
         },
@@ -10423,6 +10652,9 @@
                 ],
                 "emucontrolcenter": [
                     "ngp"
+                ],
+                "emulationstation-de": [
+                    "ngp"
                 ]
             }
         },
@@ -10458,6 +10690,9 @@
                     82
                 ],
                 "emucontrolcenter": [
+                    "ngpc"
+                ],
+                "emulationstation-de": [
                     "ngpc"
                 ]
             }
@@ -10554,6 +10789,9 @@
                 ],
                 "emucontrolcenter": [
                     "atomisw"
+                ],
+                "emulationstation-de": [
+                    "atomiswave"
                 ]
             }
         },
@@ -10654,6 +10892,9 @@
                 ],
                 "emucontrolcenter": [
                     "32x"
+                ],
+                "emulationstation-de": [
+                    "sega32x"
                 ]
             }
         },
@@ -10717,6 +10958,11 @@
                 ],
                 "emucontrolcenter": [
                     "smcd"
+                ],
+                "emulationstation-de": [
+                    "megacd",
+                    "megacdjp",
+                    "segacd"
                 ]
             }
         },
@@ -10823,6 +11069,9 @@
                 ],
                 "emulationking": [
                     "segadreamcast"
+                ],
+                "emulationstation-de": [
+                    "dreamcast"
                 ]
             }
         },
@@ -10846,6 +11095,9 @@
                     "sg1000"
                 ],
                 "emulationking": [
+                    "sg-1000"
+                ],
+                "emulationstation-de": [
                     "sg-1000"
                 ]
             }
@@ -10886,6 +11138,9 @@
                 ],
                 "emucontrolcenter": [
                     "gg"
+                ],
+                "emulationstation-de": [
+                    "gamegear"
                 ]
             }
         },
@@ -10929,6 +11184,10 @@
                 ],
                 "emulationking": [
                     "segagenesis"
+                ],
+                "emulationstation-de": [
+                    "genesis",
+                    "megadrive"
                 ]
             }
         },
@@ -11001,6 +11260,9 @@
                 ],
                 "emulationking": [
                     "segamastersystem"
+                ],
+                "emulationstation-de": [
+                    "mastersystem"
                 ]
             }
         },
@@ -11073,6 +11335,9 @@
                 "emucontrolcenter": [
                     "bw2",
                     "model2"
+                ],
+                "emulationstation-de": [
+                    "model2"
                 ]
             }
         },
@@ -11087,6 +11352,9 @@
                     55
                 ],
                 "emucontrolcenter": [
+                    "model3"
+                ],
+                "emulationstation-de": [
                     "model3"
                 ]
             }
@@ -11114,6 +11382,9 @@
                     56
                 ],
                 "emucontrolcenter": [
+                    "naomi"
+                ],
+                "emulationstation-de": [
                     "naomi"
                 ]
             }
@@ -11299,6 +11570,10 @@
                 ],
                 "emulationking": [
                     "segasaturn"
+                ],
+                "emulationstation-de": [
+                    "saturn",
+                    "saturnjp"
                 ]
             }
         },
@@ -11543,6 +11818,9 @@
                 ],
                 "emucontrolcenter": [
                     "x1"
+                ],
+                "emulationstation-de": [
+                    "x1"
                 ]
             }
         },
@@ -11594,6 +11872,9 @@
                     79
                 ],
                 "emucontrolcenter": [
+                    "x68000"
+                ],
+                "emulationstation-de": [
                     "x68000"
                 ]
             }
@@ -11651,7 +11932,11 @@
         "Sinclair ZX Spectrum": {
             "id": "Sinclair ZX Spectrum",
             "name": "Sinclair ZX Spectrum",
-            "matches": []
+            "matches": {
+                "emulationstation-de": [
+                    "zxspectrum"
+                ]
+            }
         },
         "Sinclair ZX Spectrum +3": {
             "id": "Sinclair ZX Spectrum +3",
@@ -11936,6 +12221,9 @@
                 ],
                 "emucontrolcenter": [
                     "zx81"
+                ],
+                "emulationstation-de": [
+                    "zx81"
                 ]
             }
         },
@@ -12012,6 +12300,9 @@
                 ],
                 "emulationking": [
                     "psx"
+                ],
+                "emulationstation-de": [
+                    "psx"
                 ]
             }
         },
@@ -12051,6 +12342,9 @@
                 ],
                 "emulationking": [
                     "playstation2"
+                ],
+                "emulationstation-de": [
+                    "ps2"
                 ]
             }
         },
@@ -12087,6 +12381,9 @@
                 ],
                 "emulationking": [
                     "playstation3"
+                ],
+                "emulationstation-de": [
+                    "ps3"
                 ]
             }
         },
@@ -12115,6 +12412,9 @@
                 ],
                 "emulationking": [
                     "playstation4"
+                ],
+                "emulationstation-de": [
+                    "ps4"
                 ]
             }
         },
@@ -12176,6 +12476,9 @@
                 ],
                 "emulationking": [
                     "playstationportable"
+                ],
+                "emulationstation-de": [
+                    "psp"
                 ]
             }
         },
@@ -12209,6 +12512,9 @@
                     "psv"
                 ],
                 "emulationking": [
+                    "psvita"
+                ],
+                "emulationstation-de": [
                     "psvita"
                 ]
             }
@@ -12324,6 +12630,9 @@
                 ],
                 "screenscraper": [
                     218
+                ],
+                "emulationstation-de": [
+                    "spectravideo"
                 ]
             }
         },
@@ -12474,6 +12783,9 @@
                 ],
                 "emucontrolcenter": [
                     "trs80"
+                ],
+                "emulationstation-de": [
+                    "trs-80"
                 ]
             }
         },
@@ -12636,6 +12948,9 @@
                     79
                 ],
                 "emucontrolcenter": [
+                    "oric"
+                ],
+                "emulationstation-de": [
                     "oric"
                 ]
             }
@@ -13084,6 +13399,9 @@
                 "emucontrolcenter": [
                     "ti83",
                     "ti99"
+                ],
+                "emulationstation-de": [
+                    "ti99"
                 ]
             }
         },
@@ -13206,6 +13524,9 @@
                 ],
                 "screenscraper": [
                     141
+                ],
+                "emulationstation-de": [
+                    "to8"
                 ]
             }
         },
@@ -13564,6 +13885,9 @@
                 ],
                 "launchbox": [
                     "Othello Multivision"
+                ],
+                "emulationstation-de": [
+                    "multivision"
                 ]
             }
         },
@@ -13626,6 +13950,9 @@
                 ],
                 "screenscraper": [
                     216
+                ],
+                "emulationstation-de": [
+                    "uzebox"
                 ]
             }
         },
@@ -14174,6 +14501,9 @@
                 ],
                 "emucontrolcenter": [
                     "svn"
+                ],
+                "emulationstation-de": [
+                    "supervision"
                 ]
             }
         },
