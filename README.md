@@ -70,7 +70,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | [Local](sources/local.json) | Custom | 285 | 0 | 285 | 100% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
-| [LaunchBox](sources/launchbox.json) | Frontend | 45 | 81 | 126 | 35.7% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 45 | 80 | 125 | 36% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 60 | 38 | 98 | 61.2% |
 
 ### 🕹 Games

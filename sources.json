@@ -111,10 +111,11 @@
         "provides": [
             "platforms",
             "companies",
+            "emulators",
             "games"
         ],
         "description": "Retro Gaming Online DB and API",
-        "updatedLast": 1662034517,
+        "updatedLast": 1662527942,
         "updateTrigger": "commit",
         "web": {
             "https://www.screenscraper.fr/": "home"
