@@ -95,7 +95,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - EmulationStation
     - RetroArch
     - RetroBat
-    - RecalBox
   - APIs
     - MobyGames
     - IGDB
