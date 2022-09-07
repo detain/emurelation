@@ -43,7 +43,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 120 | 36 | 156 | 76.9% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [Local](sources/local.json) | Custom | 830 | 0 | 830 | 100% |
-| [MAME](sources/mame.json) | Emulator | 627 | 42 | 669 | 93.7% |
+| [MAME](sources/mame.json) | Emulator | 628 | 41 | 669 | 93.9% |
 | [No-Intro](sources/nointro.json) | DAT | 256 | 28 | 284 | 90.1% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 181 | 1107 | 1288 | 14.1% |
 | [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
