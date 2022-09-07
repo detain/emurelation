@@ -10,28 +10,16 @@ There are many websites, programs, etc relating to emulation and many use entire
 
 The mapping data will consist of IDs and names while intentionally avoiding data or content beyond that such as descriptions and images.  This is to avoid any of the sources we are linking from feeling like we are stealing their data or circumventing them.  I hope to make every-ones life a little easier, eventually.
 
-## 🔄 Status
+## 🗺 Supported Mapping
+
+### 🔄 Status
 
 | Type | Sources Generated | Local Entries | Mapping |
 |-|-|-|-|
 | Platforms | ✅ | ✅ | ✅ |
-| Emulators | ✅ | ❎ | ❎ |
-| Companies | ✅ | ❎ | ❎ |
+| Emulators | ✅ | ✅ | ✅ |
+| Companies | ✅ | ✅ | ✅ |
 | Games | ❎ | ❎ | ❎ |
-
-## 🔃 Contributing
-
-All contributions (issues, comments, pull requests, etc) are welcomed and encouraged.  If you have any projects using or relating to this repo let me know and I can add a link to it.
-
-## 📂 Mapping Files
-
-| File | Description |
-|-|-|
-| [sources.json](sources.json) | list of sources |
-| [local.json](local.json) | local/main listing providing matching between other sources |
-| [sources/*.json](sources/) | each sources list of ids+names |
-
-## 🗺 Supported Mapping
 
 ### 🎮 Platforms
 
@@ -83,6 +71,14 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | [ScreenScraper](sources/screenscraper.json) | API | 0 | 0 | 0 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 0 | 0 | 0% |
 
+### 📂 Mapping Files
+
+| File | Description |
+|-|-|
+| [sources.json](sources.json) | list of sources |
+| [local.json](local.json) | local/main listing providing matching between other sources |
+| [sources/*.json](sources/) | each sources list of ids+names |
+
 ## 📒 Development Notes
 
 - Source file generation and is currently done by scripts in [ConSolo](https://github.com/detain/ConSolo) project, but will likely be moving that.
@@ -116,7 +112,11 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
     - EmuTopia
     - EmuParadise
 
-### 🔁 Schemas and Data Definitions
+## 🔃 Contributing
+
+All contributions (issues, comments, pull requests, etc) are welcomed and encouraged.  If you have any projects using or relating to this repo let me know and I can add a link to it.
+
+## 🔁 Schemas and Data Definitions
 
 _fields ending in * are required_
 
