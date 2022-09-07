@@ -636,6 +636,9 @@
                     "Acorn System 1 - Catalogs",
                     "Acorn System 1 - Manuals - Hardware",
                     "Acorn System 1 - Manuals - Technical"
+                ],
+                "oldcomputers": [
+                    483
                 ]
             },
             "company": "Acorn",
@@ -1451,6 +1454,14 @@
                 ],
                 "tosecpix": [
                     "Applied Technology MicroBee - Manuals - Applications"
+                ],
+                "emucontrolcenter": [
+                    "mb"
+                ],
+                "mame": [
+                    "mbee_cass",
+                    "mbee_quik",
+                    "mbee_flop"
                 ]
             },
             "company": "Applied Technology",
@@ -3723,6 +3734,9 @@
             "matches": {
                 "mame": [
                     "c65_flop"
+                ],
+                "oldcomputers": [
+                    99
                 ]
             },
             "company": "Commodore",
@@ -5198,6 +5212,9 @@
             "matches": {
                 "mame": [
                     "dai_cass"
+                ],
+                "oldcomputers": [
+                    752
                 ]
             },
             "company": "DAI",
@@ -5351,6 +5368,9 @@
                     "DEC PDP-8 - Operating Systems - [BIN]",
                     "DEC PDP-8 - Operating Systems - [RX1]",
                     "DEC PDP-8 - Operating Systems - [TU6]"
+                ],
+                "oldcomputers": [
+                    780
                 ]
             },
             "company": "DEC",
@@ -5381,6 +5401,9 @@
                 ],
                 "mame": [
                     "rainbow"
+                ],
+                "oldcomputers": [
+                    284
                 ]
             },
             "company": "DEC",
@@ -5395,6 +5418,9 @@
                 "tosec": [
                     "DEC VT-180 - Applications",
                     "DEC VT-180 - Operating Systems"
+                ],
+                "oldcomputers": [
+                    605
                 ]
             },
             "company": "DEC",
@@ -7365,6 +7391,9 @@
             "matches": {
                 "mame": [
                     "gimix"
+                ],
+                "oldcomputers": [
+                    534
                 ]
             },
             "company": "Gimix",
@@ -8120,6 +8149,9 @@
                 ],
                 "emulationstation-de": [
                     "zmachine"
+                ],
+                "screenscraper": [
+                    215
                 ]
             },
             "company": "Infocom",
@@ -8218,6 +8250,9 @@
             "matches": {
                 "mame": [
                     "dps1"
+                ],
+                "oldcomputers": [
+                    574
                 ]
             },
             "company": "Ithaca",
@@ -12167,6 +12202,9 @@
             "matches": {
                 "tosec": [
                     "Philips P2000 - Games"
+                ],
+                "emucontrolcenter": [
+                    "p2000"
                 ]
             },
             "company": "Philips",
@@ -12341,6 +12379,9 @@
                 "tosec": [
                     "RCA Chip-8 - Applications",
                     "RCA Chip-8 - Games"
+                ],
+                "emucontrolcenter": [
+                    "chip8"
                 ]
             },
             "company": "RCA",
@@ -12439,6 +12480,9 @@
                 ],
                 "mame": [
                     "nimbus"
+                ],
+                "oldcomputers": [
+                    1011
                 ]
             },
             "company": "RM",
@@ -15651,6 +15695,9 @@
                     "Tangerine Oric Telestrat - Demos - [DSK]",
                     "Tangerine Oric Telestrat - Games - [DSK]",
                     "Tangerine Oric Telestrat - Operating Systems - [DSK]"
+                ],
+                "oldcomputers": [
+                    235
                 ]
             },
             "company": "Tangerine",
@@ -16614,6 +16661,9 @@
             "matches": {
                 "mame": [
                     "timex_cass"
+                ],
+                "oldcomputers": [
+                    634
                 ]
             },
             "company": "Timex Sinclair",
@@ -16875,6 +16925,9 @@
                 ],
                 "tosec": [
                     "Triumph-Adler Alphatronic PC - Games"
+                ],
+                "oldcomputers": [
+                    241
                 ]
             },
             "company": "Triumph-Adler",
@@ -17301,6 +17354,9 @@
                 "mame": [
                     "laser2001_cart",
                     "laser2001_flop"
+                ],
+                "oldcomputers": [
+                    43
                 ]
             },
             "company": "VTech",
@@ -17336,6 +17392,9 @@
             "matches": {
                 "tosec": [
                     "VTech Laser 310 - Applications"
+                ],
+                "oldcomputers": [
+                    157
                 ]
             },
             "company": "VTech",
