@@ -70,7 +70,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [local](sources/local.json) | Local | 285 | 0 | 285 | 100% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 0 | 100 | 100 | 0% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 2 | 98 | 100 | 2% |
 | [EmulationKing](sources/emulationking.json) | Website | 0 | 5 | 5 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 126 | 126 | 0% |
 | [Local](sources/local.json) | Custom | 0 | 285 | 285 | 0% |

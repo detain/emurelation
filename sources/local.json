@@ -15671,7 +15671,11 @@
         "APF": {
             "id": "APF",
             "name": "APF",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "APF Electronics"
+                ]
+            }
         },
         "AT&T": {
             "id": "AT&T",
@@ -15691,7 +15695,11 @@
         "Acorn": {
             "id": "Acorn",
             "name": "Acorn",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Acorn"
+                ]
+            }
         },
         "Advanced Computer Design": {
             "id": "Advanced Computer Design",

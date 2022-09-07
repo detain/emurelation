@@ -393,8 +393,7 @@
         "fruit": {
             "id": "fruit",
             "name": "Gambling",
-            "shortName": "fruit",
-            "manufacturer": "----------"
+            "shortName": "fruit"
         },
         "fmtowns": {
             "id": "fmtowns",
@@ -483,8 +482,7 @@
         "mame": {
             "id": "mame",
             "name": "MAME",
-            "shortName": "mame",
-            "manufacturer": "-"
+            "shortName": "mame"
         },
         "alice": {
             "id": "alice",
@@ -1324,10 +1322,6 @@
             "id": "Fairchild",
             "name": "Fairchild"
         },
-        "----------": {
-            "id": "----------",
-            "name": "----------"
-        },
         "Fujitsu": {
             "id": "Fujitsu",
             "name": "Fujitsu"
@@ -1379,10 +1373,6 @@
         "Jupiter Cantab": {
             "id": "Jupiter Cantab",
             "name": "Jupiter Cantab"
-        },
-        "-": {
-            "id": "-",
-            "name": "-"
         },
         "Matra/Hachette": {
             "id": "Matra/Hachette",
