@@ -1,0 +1,2807 @@
+{
+    "platforms": {
+        "2048": {
+            "id": "2048",
+            "shortName": "2048",
+            "name": "2048",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "240ptestsuite": {
+            "id": "240ptestsuite",
+            "shortName": "240ptestsuite",
+            "name": "240ptestsuite",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "virtual"
+        },
+        "3do": {
+            "id": "3do",
+            "shortName": "3do",
+            "name": "Panasonic 3DO",
+            "matches": {
+                "screenscraper": [
+                    "29"
+                ]
+            },
+            "manufacturer": "Panasonic"
+        },
+        "64dd": {
+            "id": "64dd",
+            "shortName": "64dd",
+            "name": "Nintendo 64DD",
+            "matches": {
+                "screenscraper": [
+                    "122"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "amiga1200": {
+            "id": "amiga1200",
+            "shortName": "amiga1200",
+            "name": "Amiga 1200",
+            "matches": {
+                "screenscraper": [
+                    "111"
+                ]
+            },
+            "manufacturer": "Commodore"
+        },
+        "amiga600": {
+            "id": "amiga600",
+            "shortName": "amiga600",
+            "name": "Amiga 600",
+            "matches": {
+                "screenscraper": [
+                    "64"
+                ]
+            },
+            "manufacturer": "Commodore"
+        },
+        "amigacd32": {
+            "id": "amigacd32",
+            "shortName": "amigacd32",
+            "name": "Amiga CD32",
+            "matches": {
+                "screenscraper": [
+                    "130"
+                ]
+            },
+            "manufacturer": "Commodore"
+        },
+        "amigacdtv": {
+            "id": "amigacdtv",
+            "shortName": "amigacdtv",
+            "name": "Amiga CDTV",
+            "matches": {
+                "screenscraper": [
+                    "129"
+                ]
+            },
+            "manufacturer": "Commodore"
+        },
+        "amstradcpc": {
+            "id": "amstradcpc",
+            "shortName": "amstradcpc",
+            "name": "AmstradCPC",
+            "matches": {
+                "screenscraper": [
+                    "65"
+                ]
+            },
+            "manufacturer": "Amstrad"
+        },
+        "apple2": {
+            "id": "apple2",
+            "shortName": "apple2",
+            "name": "Apple II",
+            "matches": {
+                "screenscraper": [
+                    "86"
+                ]
+            },
+            "manufacturer": "Apple"
+        },
+        "apple2gs": {
+            "id": "apple2gs",
+            "shortName": "apple2gs",
+            "name": "Apple IIGS",
+            "matches": {
+                "screenscraper": [
+                    "217"
+                ]
+            },
+            "manufacturer": "Apple"
+        },
+        "atari2600": {
+            "id": "atari2600",
+            "shortName": "atari2600",
+            "name": "Atari 2600",
+            "matches": {
+                "screenscraper": [
+                    "26"
+                ]
+            },
+            "manufacturer": "Atari"
+        },
+        "atari5200": {
+            "id": "atari5200",
+            "shortName": "atari5200",
+            "name": "Atari 5200",
+            "matches": {
+                "screenscraper": [
+                    "40"
+                ]
+            },
+            "manufacturer": "Atari"
+        },
+        "atari7800": {
+            "id": "atari7800",
+            "shortName": "atari7800",
+            "name": "Atari 7800",
+            "matches": {
+                "screenscraper": [
+                    "41"
+                ]
+            },
+            "manufacturer": "Atari"
+        },
+        "atari800": {
+            "id": "atari800",
+            "shortName": "atari800",
+            "name": "Atari 800",
+            "matches": {
+                "screenscraper": [
+                    "43"
+                ]
+            },
+            "manufacturer": "Atari"
+        },
+        "atarist": {
+            "id": "atarist",
+            "shortName": "atarist",
+            "name": "Atari ST",
+            "matches": {
+                "screenscraper": [
+                    "42"
+                ]
+            },
+            "manufacturer": "Atari"
+        },
+        "atomiswave": {
+            "id": "atomiswave",
+            "shortName": "atomiswave",
+            "name": "Sammy Atomiswave",
+            "matches": {
+                "screenscraper": [
+                    "53"
+                ]
+            },
+            "manufacturer": "Sammy"
+        },
+        "bbcmicro": {
+            "id": "bbcmicro",
+            "shortName": "bbcmicro",
+            "name": "Acorn BBC Micro",
+            "matches": {
+                "screenscraper": [
+                    "37"
+                ]
+            },
+            "manufacturer": "Acorn"
+        },
+        "bk": {
+            "id": "bk",
+            "shortName": "bk",
+            "name": "Elektronika BK",
+            "matches": {
+                "screenscraper": [
+                    "93"
+                ]
+            },
+            "manufacturer": "Elektronika"
+        },
+        "c64": {
+            "id": "c64",
+            "shortName": "c64",
+            "name": "Commodore 64",
+            "matches": {
+                "screenscraper": [
+                    "66"
+                ]
+            },
+            "manufacturer": "Commodore"
+        },
+        "cavestory": {
+            "id": "cavestory",
+            "shortName": "cavestory",
+            "name": "Cave Story",
+            "matches": {
+                "screenscraper": [
+                    "138"
+                ]
+            },
+            "manufacturer": "Studio Pixel"
+        },
+        "cdi": {
+            "id": "cdi",
+            "shortName": "cdi",
+            "name": "Philips CD-I",
+            "matches": {
+                "screenscraper": [
+                    "133"
+                ]
+            },
+            "manufacturer": "Phillips"
+        },
+        "channelf": {
+            "id": "channelf",
+            "shortName": "channelf",
+            "name": "Fairchild Channel F",
+            "matches": {
+                "screenscraper": [
+                    "80"
+                ]
+            },
+            "manufacturer": "Fairchild"
+        },
+        "colecovision": {
+            "id": "colecovision",
+            "shortName": "colecovision",
+            "name": "Colecovision",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "Coleco"
+        },
+        "daphne": {
+            "id": "daphne",
+            "shortName": "daphne",
+            "name": "Daphne",
+            "matches": {
+                "screenscraper": [
+                    "49"
+                ]
+            },
+            "manufacturer": "Daphne"
+        },
+        "dinothawr": {
+            "id": "dinothawr",
+            "shortName": "dinothawr",
+            "name": "Dinothawr",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "doom": {
+            "id": "doom",
+            "shortName": "doom",
+            "name": "Doom",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "IdSoftware"
+        },
+        "doom3": {
+            "id": "doom3",
+            "shortName": "doom3",
+            "name": "Doom 3",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "IdSoftware"
+        },
+        "dos": {
+            "id": "dos",
+            "shortName": "dos",
+            "name": "Dos (x86)",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "IBM"
+        },
+        "dragon": {
+            "id": "dragon",
+            "shortName": "dragon",
+            "name": "Dragon 32/64",
+            "matches": {
+                "screenscraper": [
+                    "144"
+                ]
+            },
+            "manufacturer": "DragonData"
+        },
+        "dreamcast": {
+            "id": "dreamcast",
+            "shortName": "dreamcast",
+            "name": "Sega Dreamcast",
+            "matches": {
+                "screenscraper": [
+                    "23"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "dungeoncrawlstonesoup": {
+            "id": "dungeoncrawlstonesoup",
+            "shortName": "dungeoncrawlstonesoup",
+            "name": "Dungeon Crawl Stone Soup",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "easyrpg": {
+            "id": "easyrpg",
+            "shortName": "easyrpg",
+            "name": "EasyRPG",
+            "matches": {
+                "screenscraper": [
+                    "231"
+                ]
+            },
+            "manufacturer": "virtual"
+        },
+        "fba": {
+            "id": "fba",
+            "shortName": "fba",
+            "name": "FinalBurn Alpha 2x",
+            "matches": {
+                "screenscraper": [
+                    "75"
+                ]
+            },
+            "manufacturer": "FBA"
+        },
+        "fbneo": {
+            "id": "fbneo",
+            "shortName": "fbneo",
+            "name": "FinalBurn Neo",
+            "matches": {
+                "screenscraper": [
+                    "75"
+                ]
+            },
+            "manufacturer": "FBN"
+        },
+        "fds": {
+            "id": "fds",
+            "shortName": "fds",
+            "name": "Family Computer Disk System",
+            "matches": {
+                "screenscraper": [
+                    "106"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "flashback": {
+            "id": "flashback",
+            "shortName": "flashback",
+            "name": "Flashback",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "Delphine"
+        },
+        "gamecube": {
+            "id": "gamecube",
+            "shortName": "gamecube",
+            "name": "GameCube",
+            "matches": {
+                "screenscraper": [
+                    "13"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "gamegear": {
+            "id": "gamegear",
+            "shortName": "gamegear",
+            "name": "Sega Game Gear",
+            "matches": {
+                "screenscraper": [
+                    "21"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "gb": {
+            "id": "gb",
+            "shortName": "gb",
+            "name": "Game Boy",
+            "matches": {
+                "screenscraper": [
+                    "9"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "gba": {
+            "id": "gba",
+            "shortName": "gba",
+            "name": "Game Boy Advance",
+            "matches": {
+                "screenscraper": [
+                    "12"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "gbc": {
+            "id": "gbc",
+            "shortName": "gbc",
+            "name": "Game Boy Color",
+            "matches": {
+                "screenscraper": [
+                    "10"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "gong": {
+            "id": "gong",
+            "shortName": "gong",
+            "name": "Gong",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "gw": {
+            "id": "gw",
+            "shortName": "gw",
+            "name": "Game and Watch",
+            "matches": {
+                "screenscraper": [
+                    "52"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "gx4000": {
+            "id": "gx4000",
+            "shortName": "gx4000",
+            "name": "Amstrad GX4000",
+            "matches": {
+                "screenscraper": [
+                    "87"
+                ]
+            },
+            "manufacturer": "Amstrad"
+        },
+        "imageviewer": {
+            "id": "imageviewer",
+            "shortName": "imageviewer",
+            "name": "Screenshots",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "virtual"
+        },
+        "intellivision": {
+            "id": "intellivision",
+            "shortName": "intellivision",
+            "name": "Mattel Intellivision",
+            "matches": {
+                "screenscraper": [
+                    "115"
+                ]
+            },
+            "manufacturer": "Mattel"
+        },
+        "jaguar": {
+            "id": "jaguar",
+            "shortName": "jaguar",
+            "name": "Atari Jaguar",
+            "matches": {
+                "screenscraper": [
+                    "27"
+                ]
+            },
+            "manufacturer": "Atari"
+        },
+        "lowresnx": {
+            "id": "lowresnx",
+            "shortName": "lowresnx",
+            "name": "LowRes NX",
+            "matches": {
+                "screenscraper": [
+                    "244"
+                ]
+            },
+            "manufacturer": "virtual"
+        },
+        "lutro": {
+            "id": "lutro",
+            "shortName": "lutro",
+            "name": "Lutro",
+            "matches": {
+                "screenscraper": [
+                    "206"
+                ]
+            },
+            "manufacturer": "virtual"
+        },
+        "lynx": {
+            "id": "lynx",
+            "shortName": "lynx",
+            "name": "Lynx",
+            "matches": {
+                "screenscraper": [
+                    "28"
+                ]
+            },
+            "manufacturer": "Atari"
+        },
+        "macintosh": {
+            "id": "macintosh",
+            "shortName": "macintosh",
+            "name": "Apple Macintosh",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "mame": {
+            "id": "mame",
+            "shortName": "mame",
+            "name": "Mame",
+            "matches": {
+                "screenscraper": [
+                    "75"
+                ]
+            },
+            "manufacturer": "Mame"
+        },
+        "mastersystem": {
+            "id": "mastersystem",
+            "shortName": "mastersystem",
+            "name": "Sega Master System / Mark III",
+            "matches": {
+                "screenscraper": [
+                    "2"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "megadrive": {
+            "id": "megadrive",
+            "shortName": "megadrive",
+            "name": "Sega Megadrive",
+            "matches": {
+                "screenscraper": [
+                    "1"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "megaduck": {
+            "id": "megaduck",
+            "shortName": "megaduck",
+            "name": "MegaDuck",
+            "matches": {
+                "screenscraper": [
+                    "90"
+                ]
+            },
+            "manufacturer": "Welback"
+        },
+        "minecraft": {
+            "id": "minecraft",
+            "shortName": "minecraft",
+            "name": "Minecraft",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "Mojang"
+        },
+        "model3": {
+            "id": "model3",
+            "shortName": "model3",
+            "name": "Sega Model3",
+            "matches": {
+                "screenscraper": [
+                    "55"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "moonlight": {
+            "id": "moonlight",
+            "shortName": "moonlight",
+            "name": "Moonlight",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "NVidia"
+        },
+        "mrboom": {
+            "id": "mrboom",
+            "shortName": "mrboom",
+            "name": "Mr. Boom",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "msx1": {
+            "id": "msx1",
+            "shortName": "msx1",
+            "name": "MSX1",
+            "matches": {
+                "screenscraper": [
+                    "113"
+                ]
+            },
+            "manufacturer": "Microsoft"
+        },
+        "msx2": {
+            "id": "msx2",
+            "shortName": "msx2",
+            "name": "MSX2",
+            "matches": {
+                "screenscraper": [
+                    "116"
+                ]
+            },
+            "manufacturer": "Microsoft"
+        },
+        "msxturbor": {
+            "id": "msxturbor",
+            "shortName": "msxturbor",
+            "name": "MSXturboR",
+            "matches": {
+                "screenscraper": [
+                    "118"
+                ]
+            },
+            "manufacturer": "Microsoft"
+        },
+        "multivision": {
+            "id": "multivision",
+            "shortName": "multivision",
+            "name": "Othello Multivision",
+            "matches": {
+                "screenscraper": [
+                    "109"
+                ]
+            },
+            "manufacturer": "Tsukuda"
+        },
+        "n64": {
+            "id": "n64",
+            "shortName": "n64",
+            "name": "Nintendo 64",
+            "matches": {
+                "screenscraper": [
+                    "14"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "naomi": {
+            "id": "naomi",
+            "shortName": "naomi",
+            "name": "Sega NAOMI",
+            "matches": {
+                "screenscraper": [
+                    "56"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "naomigd": {
+            "id": "naomigd",
+            "shortName": "naomigd",
+            "name": "Sega NAOMI GD-ROM System",
+            "matches": {
+                "screenscraper": [
+                    "227"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "nds": {
+            "id": "nds",
+            "shortName": "nds",
+            "name": "Nintendo DS",
+            "matches": {
+                "screenscraper": [
+                    "15"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "neogeo": {
+            "id": "neogeo",
+            "shortName": "neogeo",
+            "name": "Neo-Geo",
+            "matches": {
+                "screenscraper": [
+                    "142"
+                ]
+            },
+            "manufacturer": "SNK"
+        },
+        "neogeocd": {
+            "id": "neogeocd",
+            "shortName": "neogeocd",
+            "name": "Neo-Geo CD",
+            "matches": {
+                "screenscraper": [
+                    "70"
+                ]
+            },
+            "manufacturer": "SNK"
+        },
+        "nes": {
+            "id": "nes",
+            "shortName": "nes",
+            "name": "Nintendo Entertainment System",
+            "matches": {
+                "screenscraper": [
+                    "3"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "ngp": {
+            "id": "ngp",
+            "shortName": "ngp",
+            "name": "Neo-Geo Pocket",
+            "matches": {
+                "screenscraper": [
+                    "25"
+                ]
+            },
+            "manufacturer": "SNK"
+        },
+        "ngpc": {
+            "id": "ngpc",
+            "shortName": "ngpc",
+            "name": "Neo-Geo Pocket Color",
+            "matches": {
+                "screenscraper": [
+                    "82"
+                ]
+            },
+            "manufacturer": "SNK"
+        },
+        "o2em": {
+            "id": "o2em",
+            "shortName": "o2em",
+            "name": "Odyssey2",
+            "matches": {
+                "screenscraper": [
+                    "104"
+                ]
+            },
+            "manufacturer": "Magnavox"
+        },
+        "openbor": {
+            "id": "openbor",
+            "shortName": "openbor",
+            "name": "OpenBOR",
+            "matches": {
+                "screenscraper": [
+                    "214"
+                ]
+            },
+            "manufacturer": "Senile Team"
+        },
+        "oricatmos": {
+            "id": "oricatmos",
+            "shortName": "oricatmos",
+            "name": "Oric/Atmos",
+            "matches": {
+                "screenscraper": [
+                    "131"
+                ]
+            },
+            "manufacturer": "Tangerine"
+        },
+        "outrun": {
+            "id": "outrun",
+            "shortName": "outrun",
+            "name": "Out Run",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "palm": {
+            "id": "palm",
+            "shortName": "palm",
+            "name": "Palm",
+            "matches": {
+                "screenscraper": [
+                    "219"
+                ]
+            },
+            "manufacturer": "Palm"
+        },
+        "pc88": {
+            "id": "pc88",
+            "shortName": "pc88",
+            "name": "NEC PC-88",
+            "matches": {
+                "screenscraper": [
+                    "221"
+                ]
+            },
+            "manufacturer": "NEC"
+        },
+        "pc98": {
+            "id": "pc98",
+            "shortName": "pc98",
+            "name": "NEC PC-98",
+            "matches": {
+                "screenscraper": [
+                    "208"
+                ]
+            },
+            "manufacturer": "NEC"
+        },
+        "pcengine": {
+            "id": "pcengine",
+            "shortName": "pcengine",
+            "name": "PC Engine",
+            "matches": {
+                "screenscraper": [
+                    "31"
+                ]
+            },
+            "manufacturer": "NEC"
+        },
+        "pcenginecd": {
+            "id": "pcenginecd",
+            "shortName": "pcenginecd",
+            "name": "PC Engine CD",
+            "matches": {
+                "screenscraper": [
+                    "114"
+                ]
+            },
+            "manufacturer": "NEC"
+        },
+        "pcfx": {
+            "id": "pcfx",
+            "shortName": "pcfx",
+            "name": "NEC PC-FX",
+            "matches": {
+                "screenscraper": [
+                    "72"
+                ]
+            },
+            "manufacturer": "NEC"
+        },
+        "pcv2": {
+            "id": "pcv2",
+            "shortName": "pcv2",
+            "name": "Pocket Challenge v2",
+            "matches": {
+                "screenscraper": [
+                    "237"
+                ]
+            },
+            "manufacturer": "Benesse"
+        },
+        "pico8": {
+            "id": "pico8",
+            "shortName": "pico8",
+            "name": "PICO-8",
+            "matches": {
+                "screenscraper": [
+                    "234"
+                ]
+            },
+            "manufacturer": "virtual"
+        },
+        "pokemini": {
+            "id": "pokemini",
+            "shortName": "pokemini",
+            "name": "Pokémon Mini",
+            "matches": {
+                "screenscraper": [
+                    "211"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "ps2": {
+            "id": "ps2",
+            "shortName": "ps2",
+            "name": "Sony Playstation 2",
+            "matches": {
+                "screenscraper": [
+                    "58"
+                ]
+            },
+            "manufacturer": "Sony"
+        },
+        "psp": {
+            "id": "psp",
+            "shortName": "psp",
+            "name": "Sony Playstation Portable",
+            "matches": {
+                "screenscraper": [
+                    "61"
+                ]
+            },
+            "manufacturer": "Sony"
+        },
+        "psx": {
+            "id": "psx",
+            "shortName": "psx",
+            "name": "Sony Playstation 1",
+            "matches": {
+                "screenscraper": [
+                    "57"
+                ]
+            },
+            "manufacturer": "Sony"
+        },
+        "quake": {
+            "id": "quake",
+            "shortName": "quake",
+            "name": "Quake",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "IdSoftware"
+        },
+        "quake2": {
+            "id": "quake2",
+            "shortName": "quake2",
+            "name": "Quake 2",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "IdSoftware"
+        },
+        "quake3": {
+            "id": "quake3",
+            "shortName": "quake3",
+            "name": "Quake 3",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "IdSoftware"
+        },
+        "rickdangerous": {
+            "id": "rickdangerous",
+            "shortName": "rickdangerous",
+            "name": "Rick Dangerous",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "Core Design"
+        },
+        "samcoupe": {
+            "id": "samcoupe",
+            "shortName": "samcoupe",
+            "name": "MGT SAM Coupé",
+            "matches": {
+                "screenscraper": [
+                    "213"
+                ]
+            },
+            "manufacturer": "MGT"
+        },
+        "satellaview": {
+            "id": "satellaview",
+            "shortName": "satellaview",
+            "name": "Satellaview",
+            "matches": {
+                "screenscraper": [
+                    "107"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "saturn": {
+            "id": "saturn",
+            "shortName": "saturn",
+            "name": "Sega Saturn",
+            "matches": {
+                "screenscraper": [
+                    "22"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "scummvm": {
+            "id": "scummvm",
+            "shortName": "scummvm",
+            "name": "ScummVM",
+            "matches": {
+                "screenscraper": [
+                    "123"
+                ]
+            },
+            "manufacturer": "Ludvig Strigeus"
+        },
+        "scv": {
+            "id": "scv",
+            "shortName": "scv",
+            "name": "Super Cassette Vision",
+            "matches": {
+                "screenscraper": [
+                    "67"
+                ]
+            },
+            "manufacturer": "Epoch"
+        },
+        "sega32x": {
+            "id": "sega32x",
+            "shortName": "sega32x",
+            "name": "Sega 32X",
+            "matches": {
+                "screenscraper": [
+                    "19"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "segacd": {
+            "id": "segacd",
+            "shortName": "segacd",
+            "name": "Sega CD",
+            "matches": {
+                "screenscraper": [
+                    "20"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "sg1000": {
+            "id": "sg1000",
+            "shortName": "sg1000",
+            "name": "Sega SG1000",
+            "matches": {
+                "screenscraper": [
+                    "109"
+                ]
+            },
+            "manufacturer": "Sega"
+        },
+        "snes": {
+            "id": "snes",
+            "shortName": "snes",
+            "name": "Super Nintendo Entertainment System",
+            "matches": {
+                "screenscraper": [
+                    "4"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "solarus": {
+            "id": "solarus",
+            "shortName": "solarus",
+            "name": "Solarus",
+            "matches": {
+                "screenscraper": [
+                    "223"
+                ]
+            },
+            "manufacturer": "Solarus"
+        },
+        "spectravideo": {
+            "id": "spectravideo",
+            "shortName": "spectravideo",
+            "name": "Spectravideo",
+            "matches": {
+                "screenscraper": [
+                    "218"
+                ]
+            },
+            "manufacturer": "Spectravideo"
+        },
+        "startrekvoyager": {
+            "id": "startrekvoyager",
+            "shortName": "startrekvoyager",
+            "name": "Star Trek Voyager",
+            "matches": {
+                "screenscraper": [
+                    "0"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "sufami": {
+            "id": "sufami",
+            "shortName": "sufami",
+            "name": "SuFami Turbo",
+            "matches": {
+                "screenscraper": [
+                    "4"
+                ]
+            },
+            "manufacturer": "Bandai"
+        },
+        "supergrafx": {
+            "id": "supergrafx",
+            "shortName": "supergrafx",
+            "name": "Supergrafx",
+            "matches": {
+                "screenscraper": [
+                    "105"
+                ]
+            },
+            "manufacturer": "NEC"
+        },
+        "supervision": {
+            "id": "supervision",
+            "shortName": "supervision",
+            "name": "Watara Supervision",
+            "matches": {
+                "screenscraper": [
+                    "207"
+                ]
+            },
+            "manufacturer": "Watara"
+        },
+        "thepowdertoy": {
+            "id": "thepowdertoy",
+            "shortName": "thepowdertoy",
+            "name": "The Powder Toy",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "thomson": {
+            "id": "thomson",
+            "shortName": "thomson",
+            "name": "Thomson",
+            "matches": {
+                "screenscraper": [
+                    "141"
+                ]
+            },
+            "manufacturer": "Thomson"
+        },
+        "ti994a": {
+            "id": "ti994a",
+            "shortName": "ti994a",
+            "name": "Texas Instrument TI-99/4A",
+            "matches": {
+                "screenscraper": [
+                    "205"
+                ]
+            },
+            "manufacturer": "Texas Instrument"
+        },
+        "tic80": {
+            "id": "tic80",
+            "shortName": "tic80",
+            "name": "TIC-80",
+            "matches": {
+                "screenscraper": [
+                    "222"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "trs80coco": {
+            "id": "trs80coco",
+            "shortName": "trs80coco",
+            "name": "TRS-80 Color Computer",
+            "matches": {
+                "screenscraper": [
+                    "144"
+                ]
+            },
+            "manufacturer": "Tandy"
+        },
+        "uzebox": {
+            "id": "uzebox",
+            "shortName": "uzebox",
+            "name": "Uzebox",
+            "matches": {
+                "screenscraper": [
+                    "216"
+                ]
+            },
+            "manufacturer": "port"
+        },
+        "vectrex": {
+            "id": "vectrex",
+            "shortName": "vectrex",
+            "name": "Vectrex",
+            "matches": {
+                "screenscraper": [
+                    "102"
+                ]
+            },
+            "manufacturer": "MB"
+        },
+        "vic20": {
+            "id": "vic20",
+            "shortName": "vic20",
+            "name": "Commodore VIC-20",
+            "matches": {
+                "screenscraper": [
+                    "73"
+                ]
+            },
+            "manufacturer": "Commodore"
+        },
+        "videopacplus": {
+            "id": "videopacplus",
+            "shortName": "videopacplus",
+            "name": "Videopac+ G7400",
+            "matches": {
+                "screenscraper": [
+                    "104"
+                ]
+            },
+            "manufacturer": "Philips"
+        },
+        "virtualboy": {
+            "id": "virtualboy",
+            "shortName": "virtualboy",
+            "name": "Virtual Boy",
+            "matches": {
+                "screenscraper": [
+                    "11"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "wii": {
+            "id": "wii",
+            "shortName": "wii",
+            "name": "Wii",
+            "matches": {
+                "screenscraper": [
+                    "16"
+                ]
+            },
+            "manufacturer": "Nintendo"
+        },
+        "wolfenstein3d": {
+            "id": "wolfenstein3d",
+            "shortName": "wolfenstein3d",
+            "name": "Wolfenstein 3D",
+            "matches": {
+                "screenscraper": [
+                    "135"
+                ]
+            },
+            "manufacturer": "IdSoftware"
+        },
+        "wswan": {
+            "id": "wswan",
+            "shortName": "wswan",
+            "name": "WonderSwan",
+            "matches": {
+                "screenscraper": [
+                    "45"
+                ]
+            },
+            "manufacturer": "Bandai"
+        },
+        "wswanc": {
+            "id": "wswanc",
+            "shortName": "wswanc",
+            "name": "WonderSwan Color",
+            "matches": {
+                "screenscraper": [
+                    "46"
+                ]
+            },
+            "manufacturer": "Bandai"
+        },
+        "x1": {
+            "id": "x1",
+            "shortName": "x1",
+            "name": "Sharp X1",
+            "matches": {
+                "screenscraper": [
+                    "220"
+                ]
+            },
+            "manufacturer": "Sharp"
+        },
+        "x68000": {
+            "id": "x68000",
+            "shortName": "x68000",
+            "name": "Sharp X68000",
+            "matches": {
+                "screenscraper": [
+                    "79"
+                ]
+            },
+            "manufacturer": "Sharp"
+        },
+        "zx81": {
+            "id": "zx81",
+            "shortName": "zx81",
+            "name": "ZX81",
+            "matches": {
+                "screenscraper": [
+                    "77"
+                ]
+            },
+            "manufacturer": "Sinclair"
+        },
+        "zxspectrum": {
+            "id": "zxspectrum",
+            "shortName": "zxspectrum",
+            "name": "ZXSpectrum",
+            "matches": {
+                "screenscraper": [
+                    "76"
+                ]
+            },
+            "manufacturer": "Sinclair"
+        }
+    },
+    "emulators": {
+        "libretro_2048": {
+            "id": "libretro_2048",
+            "name": "Libretro 2048",
+            "platforms": [
+                "2048"
+            ]
+        },
+        "libretro_nestopia": {
+            "id": "libretro_nestopia",
+            "name": "Libretro Nestopia",
+            "platforms": [
+                "240ptestsuite",
+                "fds",
+                "nes"
+            ]
+        },
+        "libretro_snes9x": {
+            "id": "libretro_snes9x",
+            "name": "Libretro Snes9x",
+            "platforms": [
+                "240ptestsuite",
+                "satellaview",
+                "snes",
+                "sufami"
+            ]
+        },
+        "libretro_genesisplusgx": {
+            "id": "libretro_genesisplusgx",
+            "name": "Libretro Genesisplusgx",
+            "platforms": [
+                "240ptestsuite",
+                "gamegear",
+                "mastersystem",
+                "megadrive",
+                "segacd",
+                "sg1000"
+            ]
+        },
+        "libretro_mednafen_supergrafx": {
+            "id": "libretro_mednafen_supergrafx",
+            "name": "Libretro Mednafen_supergrafx",
+            "platforms": [
+                "240ptestsuite",
+                "pcengine",
+                "pcenginecd",
+                "supergrafx"
+            ]
+        },
+        "libretro_gambatte": {
+            "id": "libretro_gambatte",
+            "name": "Libretro Gambatte",
+            "platforms": [
+                "240ptestsuite",
+                "gb",
+                "gbc"
+            ]
+        },
+        "libretro_mgba": {
+            "id": "libretro_mgba",
+            "name": "Libretro Mgba",
+            "platforms": [
+                "240ptestsuite",
+                "gb",
+                "gba",
+                "gbc"
+            ]
+        },
+        "libretro_flycast": {
+            "id": "libretro_flycast",
+            "name": "Libretro Flycast",
+            "platforms": [
+                "240ptestsuite",
+                "atomiswave",
+                "dreamcast",
+                "naomi",
+                "naomigd"
+            ]
+        },
+        "libretro_swanstation": {
+            "id": "libretro_swanstation",
+            "name": "Libretro Swanstation",
+            "platforms": [
+                "240ptestsuite",
+                "psx"
+            ]
+        },
+        "libretro_opera": {
+            "id": "libretro_opera",
+            "name": "Libretro Opera",
+            "platforms": [
+                "3do"
+            ]
+        },
+        "libretro_parallel_n64": {
+            "id": "libretro_parallel_n64",
+            "name": "Libretro Parallel_n64",
+            "platforms": [
+                "64dd",
+                "n64"
+            ]
+        },
+        "libretro_mupen64plus_next": {
+            "id": "libretro_mupen64plus_next",
+            "name": "Libretro Mupen64plus_next",
+            "platforms": [
+                "64dd",
+                "n64"
+            ]
+        },
+        "amiberry": {
+            "id": "amiberry",
+            "name": "Amiberry",
+            "platforms": [
+                "amiga1200",
+                "amiga600",
+                "amigacd32",
+                "amigacdtv"
+            ]
+        },
+        "libretro_puae": {
+            "id": "libretro_puae",
+            "name": "Libretro Puae",
+            "platforms": [
+                "amiga1200",
+                "amiga600",
+                "amigacd32",
+                "amigacdtv"
+            ]
+        },
+        "libretro_uae4arm": {
+            "id": "libretro_uae4arm",
+            "name": "Libretro Uae4arm",
+            "platforms": [
+                "amiga1200",
+                "amiga600",
+                "amigacd32",
+                "amigacdtv"
+            ]
+        },
+        "libretro_cap32": {
+            "id": "libretro_cap32",
+            "name": "Libretro Cap32",
+            "platforms": [
+                "amstradcpc",
+                "gx4000"
+            ]
+        },
+        "libretro_crocods": {
+            "id": "libretro_crocods",
+            "name": "Libretro Crocods",
+            "platforms": [
+                "amstradcpc"
+            ]
+        },
+        "linapple": {
+            "id": "linapple",
+            "name": "Linapple",
+            "platforms": [
+                "apple2"
+            ]
+        },
+        "gsplus": {
+            "id": "gsplus",
+            "name": "Gsplus",
+            "platforms": [
+                "apple2",
+                "apple2gs"
+            ]
+        },
+        "libretro_stella": {
+            "id": "libretro_stella",
+            "name": "Libretro Stella",
+            "platforms": [
+                "atari2600"
+            ]
+        },
+        "libretro_stella2014": {
+            "id": "libretro_stella2014",
+            "name": "Libretro Stella2014",
+            "platforms": [
+                "atari2600"
+            ]
+        },
+        "libretro_atari800": {
+            "id": "libretro_atari800",
+            "name": "Libretro Atari800",
+            "platforms": [
+                "atari5200",
+                "atari800"
+            ]
+        },
+        "libretro_a5200": {
+            "id": "libretro_a5200",
+            "name": "Libretro A5200",
+            "platforms": [
+                "atari5200"
+            ]
+        },
+        "libretro_prosystem": {
+            "id": "libretro_prosystem",
+            "name": "Libretro Prosystem",
+            "platforms": [
+                "atari7800"
+            ]
+        },
+        "libretro_hatari": {
+            "id": "libretro_hatari",
+            "name": "Libretro Hatari",
+            "platforms": [
+                "atarist"
+            ]
+        },
+        "hatari": {
+            "id": "hatari",
+            "name": "Hatari",
+            "platforms": [
+                "atarist"
+            ]
+        },
+        "beebem": {
+            "id": "beebem",
+            "name": "Beebem",
+            "platforms": [
+                "bbcmicro"
+            ]
+        },
+        "libretro_bk": {
+            "id": "libretro_bk",
+            "name": "Libretro Bk",
+            "platforms": [
+                "bk"
+            ]
+        },
+        "libretro_vice_x64": {
+            "id": "libretro_vice_x64",
+            "name": "Libretro Vice_x64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "libretro_vice_x64sc": {
+            "id": "libretro_vice_x64sc",
+            "name": "Libretro Vice_x64sc",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "libretro_vice_xplus4": {
+            "id": "libretro_vice_xplus4",
+            "name": "Libretro Vice_xplus4",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "libretro_vice_xpet": {
+            "id": "libretro_vice_xpet",
+            "name": "Libretro Vice_xpet",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "libretro_vice_xvic": {
+            "id": "libretro_vice_xvic",
+            "name": "Libretro Vice_xvic",
+            "platforms": [
+                "c64",
+                "vic20"
+            ]
+        },
+        "libretro_vice_x128": {
+            "id": "libretro_vice_x128",
+            "name": "Libretro Vice_x128",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "libretro_vice_xscpu64": {
+            "id": "libretro_vice_xscpu64",
+            "name": "Libretro Vice_xscpu64",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "libretro_vice_xcbm2": {
+            "id": "libretro_vice_xcbm2",
+            "name": "Libretro Vice_xcbm2",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "libretro_vice_xcbm5x0": {
+            "id": "libretro_vice_xcbm5x0",
+            "name": "Libretro Vice_xcbm5x0",
+            "platforms": [
+                "c64"
+            ]
+        },
+        "libretro_nxengine": {
+            "id": "libretro_nxengine",
+            "name": "Libretro Nxengine",
+            "platforms": [
+                "cavestory"
+            ]
+        },
+        "libretro_cdi2015": {
+            "id": "libretro_cdi2015",
+            "name": "Libretro Cdi2015",
+            "platforms": [
+                "cdi"
+            ]
+        },
+        "libretro_freechaf": {
+            "id": "libretro_freechaf",
+            "name": "Libretro Freechaf",
+            "platforms": [
+                "channelf"
+            ]
+        },
+        "libretro_fbneo": {
+            "id": "libretro_fbneo",
+            "name": "Libretro Fbneo",
+            "platforms": [
+                "channelf",
+                "colecovision",
+                "fbneo",
+                "fds",
+                "gamegear",
+                "mastersystem",
+                "megadrive",
+                "msx1",
+                "neogeo",
+                "neogeocd",
+                "nes",
+                "ngp",
+                "pcengine",
+                "sg1000",
+                "supergrafx",
+                "zxspectrum"
+            ]
+        },
+        "libretro_bluemsx": {
+            "id": "libretro_bluemsx",
+            "name": "Libretro Bluemsx",
+            "platforms": [
+                "colecovision",
+                "msx1",
+                "msx2",
+                "msxturbor",
+                "spectravideo"
+            ]
+        },
+        "libretro_gearcoleco": {
+            "id": "libretro_gearcoleco",
+            "name": "Libretro Gearcoleco",
+            "platforms": [
+                "colecovision"
+            ]
+        },
+        "daphne": {
+            "id": "daphne",
+            "name": "Daphne",
+            "platforms": [
+                "daphne"
+            ]
+        },
+        "libretro_dinothawr": {
+            "id": "libretro_dinothawr",
+            "name": "Libretro Dinothawr",
+            "platforms": [
+                "dinothawr"
+            ]
+        },
+        "libretro_prboom": {
+            "id": "libretro_prboom",
+            "name": "Libretro Prboom",
+            "platforms": [
+                "doom"
+            ]
+        },
+        "libretro_boom3": {
+            "id": "libretro_boom3",
+            "name": "Libretro Boom3",
+            "platforms": [
+                "doom3"
+            ]
+        },
+        "libretro_dosbox_pure": {
+            "id": "libretro_dosbox_pure",
+            "name": "Libretro Dosbox_pure",
+            "platforms": [
+                "dos"
+            ]
+        },
+        "dosbox": {
+            "id": "dosbox",
+            "name": "Dosbox",
+            "platforms": [
+                "dos"
+            ]
+        },
+        "xroar": {
+            "id": "xroar",
+            "name": "Xroar",
+            "platforms": [
+                "dragon",
+                "trs80coco"
+            ]
+        },
+        "reicast": {
+            "id": "reicast",
+            "name": "Reicast",
+            "platforms": [
+                "dreamcast",
+                "dreamcast"
+            ]
+        },
+        "libretro_retrodream": {
+            "id": "libretro_retrodream",
+            "name": "Libretro Retrodream",
+            "platforms": [
+                "dreamcast"
+            ]
+        },
+        "libretro_stonesoup": {
+            "id": "libretro_stonesoup",
+            "name": "Libretro Stonesoup",
+            "platforms": [
+                "dungeoncrawlstonesoup"
+            ]
+        },
+        "libretro_easyrpg": {
+            "id": "libretro_easyrpg",
+            "name": "Libretro Easyrpg",
+            "platforms": [
+                "easyrpg"
+            ]
+        },
+        "fba2x": {
+            "id": "fba2x",
+            "name": "Fba2x",
+            "platforms": [
+                "fba",
+                "neogeo"
+            ]
+        },
+        "libretro_fceumm": {
+            "id": "libretro_fceumm",
+            "name": "Libretro Fceumm",
+            "platforms": [
+                "fds",
+                "nes"
+            ]
+        },
+        "libretro_mesen": {
+            "id": "libretro_mesen",
+            "name": "Libretro Mesen",
+            "platforms": [
+                "fds",
+                "nes"
+            ]
+        },
+        "libretro_reminiscence": {
+            "id": "libretro_reminiscence",
+            "name": "Libretro Reminiscence",
+            "platforms": [
+                "flashback"
+            ]
+        },
+        "dolphin": {
+            "id": "dolphin",
+            "name": "Dolphin",
+            "platforms": [
+                "gamecube",
+                "wii"
+            ]
+        },
+        "libretro_gearsystem": {
+            "id": "libretro_gearsystem",
+            "name": "Libretro Gearsystem",
+            "platforms": [
+                "gamegear",
+                "mastersystem",
+                "multivision",
+                "sg1000"
+            ]
+        },
+        "libretro_tgbdual": {
+            "id": "libretro_tgbdual",
+            "name": "Libretro Tgbdual",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "libretro_sameboy": {
+            "id": "libretro_sameboy",
+            "name": "Libretro Sameboy",
+            "platforms": [
+                "gb",
+                "gbc"
+            ]
+        },
+        "libretro_mesen_s": {
+            "id": "libretro_mesen_s",
+            "name": "Libretro Mesen_s",
+            "platforms": [
+                "gb",
+                "gbc",
+                "satellaview",
+                "snes"
+            ]
+        },
+        "libretro_gpsp": {
+            "id": "libretro_gpsp",
+            "name": "Libretro Gpsp",
+            "platforms": [
+                "gba"
+            ]
+        },
+        "libretro_meteor": {
+            "id": "libretro_meteor",
+            "name": "Libretro Meteor",
+            "platforms": [
+                "gba"
+            ]
+        },
+        "libretro_gong": {
+            "id": "libretro_gong",
+            "name": "Libretro Gong",
+            "platforms": [
+                "gong"
+            ]
+        },
+        "libretro_gw": {
+            "id": "libretro_gw",
+            "name": "Libretro Gw",
+            "platforms": [
+                "gw"
+            ]
+        },
+        "libretro_imageviewer": {
+            "id": "libretro_imageviewer",
+            "name": "Libretro Imageviewer",
+            "platforms": [
+                "imageviewer"
+            ]
+        },
+        "libretro_freeintv": {
+            "id": "libretro_freeintv",
+            "name": "Libretro Freeintv",
+            "platforms": [
+                "intellivision"
+            ]
+        },
+        "libretro_virtualjaguar": {
+            "id": "libretro_virtualjaguar",
+            "name": "Libretro Virtualjaguar",
+            "platforms": [
+                "jaguar"
+            ]
+        },
+        "libretro_lowresnx": {
+            "id": "libretro_lowresnx",
+            "name": "Libretro Lowresnx",
+            "platforms": [
+                "lowresnx"
+            ]
+        },
+        "libretro_lutro": {
+            "id": "libretro_lutro",
+            "name": "Libretro Lutro",
+            "platforms": [
+                "lutro"
+            ]
+        },
+        "libretro_handy": {
+            "id": "libretro_handy",
+            "name": "Libretro Handy",
+            "platforms": [
+                "lynx"
+            ]
+        },
+        "libretro_mednafen_lynx": {
+            "id": "libretro_mednafen_lynx",
+            "name": "Libretro Mednafen_lynx",
+            "platforms": [
+                "lynx"
+            ]
+        },
+        "libretro_minivmac": {
+            "id": "libretro_minivmac",
+            "name": "Libretro Minivmac",
+            "platforms": [
+                "macintosh"
+            ]
+        },
+        "libretro_mame2003_plus": {
+            "id": "libretro_mame2003_plus",
+            "name": "Libretro Mame2003_plus",
+            "platforms": [
+                "mame",
+                "neogeo"
+            ]
+        },
+        "libretro_mame2003": {
+            "id": "libretro_mame2003",
+            "name": "Libretro Mame2003",
+            "platforms": [
+                "mame",
+                "neogeo"
+            ]
+        },
+        "libretro_mame2000": {
+            "id": "libretro_mame2000",
+            "name": "Libretro Mame2000",
+            "platforms": [
+                "mame",
+                "neogeo"
+            ]
+        },
+        "libretro_mame2010": {
+            "id": "libretro_mame2010",
+            "name": "Libretro Mame2010",
+            "platforms": [
+                "mame",
+                "neogeo"
+            ]
+        },
+        "libretro_mame2015": {
+            "id": "libretro_mame2015",
+            "name": "Libretro Mame2015",
+            "platforms": [
+                "mame",
+                "neogeo"
+            ]
+        },
+        "libretro_mame": {
+            "id": "libretro_mame",
+            "name": "Libretro Mame",
+            "platforms": [
+                "mame"
+            ]
+        },
+        "advancemame": {
+            "id": "advancemame",
+            "name": "Advancemame",
+            "platforms": [
+                "mame"
+            ]
+        },
+        "libretro_picodrive": {
+            "id": "libretro_picodrive",
+            "name": "Libretro Picodrive",
+            "platforms": [
+                "mastersystem",
+                "megadrive",
+                "sega32x",
+                "segacd"
+            ]
+        },
+        "libretro_genesisplusgxwide": {
+            "id": "libretro_genesisplusgxwide",
+            "name": "Libretro Genesisplusgxwide",
+            "platforms": [
+                "megadrive"
+            ]
+        },
+        "libretro_sameduck": {
+            "id": "libretro_sameduck",
+            "name": "Libretro Sameduck",
+            "platforms": [
+                "megaduck"
+            ]
+        },
+        "libretro_craft": {
+            "id": "libretro_craft",
+            "name": "Libretro Craft",
+            "platforms": [
+                "minecraft"
+            ]
+        },
+        "supermodel": {
+            "id": "supermodel",
+            "name": "Supermodel",
+            "platforms": [
+                "model3"
+            ]
+        },
+        "moonlight": {
+            "id": "moonlight",
+            "name": "Moonlight",
+            "platforms": [
+                "moonlight"
+            ]
+        },
+        "libretro_mrboom": {
+            "id": "libretro_mrboom",
+            "name": "Libretro Mrboom",
+            "platforms": [
+                "mrboom"
+            ]
+        },
+        "libretro_fmsx": {
+            "id": "libretro_fmsx",
+            "name": "Libretro Fmsx",
+            "platforms": [
+                "msx1",
+                "msx2"
+            ]
+        },
+        "mupen64plus_gliden64": {
+            "id": "mupen64plus_gliden64",
+            "name": "Mupen64plus Gliden64",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "mupen64plus_gliden64_20": {
+            "id": "mupen64plus_gliden64_20",
+            "name": "Mupen64plus Gliden64_20",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "mupen64plus_glide64mk2": {
+            "id": "mupen64plus_glide64mk2",
+            "name": "Mupen64plus Glide64mk2",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "mupen64plus_n64_gles2": {
+            "id": "mupen64plus_n64_gles2",
+            "name": "Mupen64plus N64_gles2",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "mupen64plus_rice_gles2": {
+            "id": "mupen64plus_rice_gles2",
+            "name": "Mupen64plus Rice_gles2",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "libretro_mupen64plus": {
+            "id": "libretro_mupen64plus",
+            "name": "Libretro Mupen64plus",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "mupen64plus_rice": {
+            "id": "mupen64plus_rice",
+            "name": "Mupen64plus Rice",
+            "platforms": [
+                "n64"
+            ]
+        },
+        "libretro_desmume": {
+            "id": "libretro_desmume",
+            "name": "Libretro Desmume",
+            "platforms": [
+                "nds"
+            ]
+        },
+        "libretro_melonds": {
+            "id": "libretro_melonds",
+            "name": "Libretro Melonds",
+            "platforms": [
+                "nds"
+            ]
+        },
+        "libretro_mame2016": {
+            "id": "libretro_mame2016",
+            "name": "Libretro Mame2016",
+            "platforms": [
+                "neogeo"
+            ]
+        },
+        "libretro_neocd": {
+            "id": "libretro_neocd",
+            "name": "Libretro Neocd",
+            "platforms": [
+                "neogeocd"
+            ]
+        },
+        "libretro_fceunext": {
+            "id": "libretro_fceunext",
+            "name": "Libretro Fceunext",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "libretro_quicknes": {
+            "id": "libretro_quicknes",
+            "name": "Libretro Quicknes",
+            "platforms": [
+                "nes"
+            ]
+        },
+        "libretro_mednafen_ngp": {
+            "id": "libretro_mednafen_ngp",
+            "name": "Libretro Mednafen_ngp",
+            "platforms": [
+                "ngp",
+                "ngpc"
+            ]
+        },
+        "libretro_race": {
+            "id": "libretro_race",
+            "name": "Libretro Race",
+            "platforms": [
+                "ngp",
+                "ngpc"
+            ]
+        },
+        "libretro_o2em": {
+            "id": "libretro_o2em",
+            "name": "Libretro O2em",
+            "platforms": [
+                "o2em",
+                "videopacplus"
+            ]
+        },
+        "openbor": {
+            "id": "openbor",
+            "name": "Openbor",
+            "platforms": [
+                "openbor"
+            ]
+        },
+        "oricutron": {
+            "id": "oricutron",
+            "name": "Oricutron",
+            "platforms": [
+                "oricatmos"
+            ]
+        },
+        "libretro_cannonball": {
+            "id": "libretro_cannonball",
+            "name": "Libretro Cannonball",
+            "platforms": [
+                "outrun"
+            ]
+        },
+        "libretro_mu": {
+            "id": "libretro_mu",
+            "name": "Libretro Mu",
+            "platforms": [
+                "palm"
+            ]
+        },
+        "libretro_quasi88": {
+            "id": "libretro_quasi88",
+            "name": "Libretro Quasi88",
+            "platforms": [
+                "pc88"
+            ]
+        },
+        "libretro_np2kai": {
+            "id": "libretro_np2kai",
+            "name": "Libretro Np2kai",
+            "platforms": [
+                "pc98"
+            ]
+        },
+        "libretro_mednafen_pce_fast": {
+            "id": "libretro_mednafen_pce_fast",
+            "name": "Libretro Mednafen_pce_fast",
+            "platforms": [
+                "pcengine",
+                "pcenginecd"
+            ]
+        },
+        "libretro_mednafen_pcfx": {
+            "id": "libretro_mednafen_pcfx",
+            "name": "Libretro Mednafen_pcfx",
+            "platforms": [
+                "pcfx"
+            ]
+        },
+        "libretro_mednafen_wswan": {
+            "id": "libretro_mednafen_wswan",
+            "name": "Libretro Mednafen_wswan",
+            "platforms": [
+                "pcv2",
+                "wswan",
+                "wswanc"
+            ]
+        },
+        "libretro_retro8": {
+            "id": "libretro_retro8",
+            "name": "Libretro Retro8",
+            "platforms": [
+                "pico8"
+            ]
+        },
+        "libretro_pokemini": {
+            "id": "libretro_pokemini",
+            "name": "Libretro Pokemini",
+            "platforms": [
+                "pokemini"
+            ]
+        },
+        "pcsx2": {
+            "id": "pcsx2",
+            "name": "Pcsx2",
+            "platforms": [
+                "ps2"
+            ]
+        },
+        "libretro_pcsx2": {
+            "id": "libretro_pcsx2",
+            "name": "Libretro Pcsx2",
+            "platforms": [
+                "ps2"
+            ]
+        },
+        "ppsspp": {
+            "id": "ppsspp",
+            "name": "Ppsspp",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "libretro_ppsspp": {
+            "id": "libretro_ppsspp",
+            "name": "Libretro Ppsspp",
+            "platforms": [
+                "psp"
+            ]
+        },
+        "pcsx_rearmed": {
+            "id": "pcsx_rearmed",
+            "name": "Pcsx_rearmed",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "libretro_pcsx_rearmed": {
+            "id": "libretro_pcsx_rearmed",
+            "name": "Libretro Pcsx_rearmed",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "libretro_mednafen_psx": {
+            "id": "libretro_mednafen_psx",
+            "name": "Libretro Mednafen_psx",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "libretro_mednafen_psx_hw": {
+            "id": "libretro_mednafen_psx_hw",
+            "name": "Libretro Mednafen_psx_hw",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "duckstation": {
+            "id": "duckstation",
+            "name": "Duckstation",
+            "platforms": [
+                "psx"
+            ]
+        },
+        "libretro_tyrquake": {
+            "id": "libretro_tyrquake",
+            "name": "Libretro Tyrquake",
+            "platforms": [
+                "quake"
+            ]
+        },
+        "libretro_vitaquake2": {
+            "id": "libretro_vitaquake2",
+            "name": "Libretro Vitaquake2",
+            "platforms": [
+                "quake2"
+            ]
+        },
+        "libretro_vitaquake3": {
+            "id": "libretro_vitaquake3",
+            "name": "Libretro Vitaquake3",
+            "platforms": [
+                "quake3"
+            ]
+        },
+        "libretro_xrick": {
+            "id": "libretro_xrick",
+            "name": "Libretro Xrick",
+            "platforms": [
+                "rickdangerous"
+            ]
+        },
+        "simcoupe": {
+            "id": "simcoupe",
+            "name": "Simcoupe",
+            "platforms": [
+                "samcoupe"
+            ]
+        },
+        "libretro_bsnes": {
+            "id": "libretro_bsnes",
+            "name": "Libretro Bsnes",
+            "platforms": [
+                "satellaview",
+                "snes"
+            ]
+        },
+        "libretro_bsneshd": {
+            "id": "libretro_bsneshd",
+            "name": "Libretro Bsneshd",
+            "platforms": [
+                "satellaview",
+                "snes"
+            ]
+        },
+        "libretro_mednafen_saturn": {
+            "id": "libretro_mednafen_saturn",
+            "name": "Libretro Mednafen_saturn",
+            "platforms": [
+                "saturn"
+            ]
+        },
+        "libretro_yabause": {
+            "id": "libretro_yabause",
+            "name": "Libretro Yabause",
+            "platforms": [
+                "saturn"
+            ]
+        },
+        "libretro_yabasanshiro": {
+            "id": "libretro_yabasanshiro",
+            "name": "Libretro Yabasanshiro",
+            "platforms": [
+                "saturn"
+            ]
+        },
+        "libretro_kronos": {
+            "id": "libretro_kronos",
+            "name": "Libretro Kronos",
+            "platforms": [
+                "saturn"
+            ]
+        },
+        "scummvm": {
+            "id": "scummvm",
+            "name": "Scummvm",
+            "platforms": [
+                "scummvm"
+            ]
+        },
+        "libretro_scummvm": {
+            "id": "libretro_scummvm",
+            "name": "Libretro Scummvm",
+            "platforms": [
+                "scummvm"
+            ]
+        },
+        "libretro_emuscv": {
+            "id": "libretro_emuscv",
+            "name": "Libretro Emuscv",
+            "platforms": [
+                "scv"
+            ]
+        },
+        "pisnes": {
+            "id": "pisnes",
+            "name": "Pisnes",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "libretro_snes9x2010": {
+            "id": "libretro_snes9x2010",
+            "name": "Libretro Snes9x2010",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "libretro_snes9x2005": {
+            "id": "libretro_snes9x2005",
+            "name": "Libretro Snes9x2005",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "libretro_snes9x2002": {
+            "id": "libretro_snes9x2002",
+            "name": "Libretro Snes9x2002",
+            "platforms": [
+                "snes"
+            ]
+        },
+        "solarus": {
+            "id": "solarus",
+            "name": "Solarus",
+            "platforms": [
+                "solarus"
+            ]
+        },
+        "libretro_vitavoyager": {
+            "id": "libretro_vitavoyager",
+            "name": "Libretro Vitavoyager",
+            "platforms": [
+                "startrekvoyager"
+            ]
+        },
+        "libretro_potator": {
+            "id": "libretro_potator",
+            "name": "Libretro Potator",
+            "platforms": [
+                "supervision"
+            ]
+        },
+        "libretro_thepowdertoy": {
+            "id": "libretro_thepowdertoy",
+            "name": "Libretro Thepowdertoy",
+            "platforms": [
+                "thepowdertoy"
+            ]
+        },
+        "libretro_theodore": {
+            "id": "libretro_theodore",
+            "name": "Libretro Theodore",
+            "platforms": [
+                "thomson"
+            ]
+        },
+        "ti99sim": {
+            "id": "ti99sim",
+            "name": "Ti99sim",
+            "platforms": [
+                "ti994a"
+            ]
+        },
+        "libretro_tic80": {
+            "id": "libretro_tic80",
+            "name": "Libretro Tic80",
+            "platforms": [
+                "tic80"
+            ]
+        },
+        "libretro_uzem": {
+            "id": "libretro_uzem",
+            "name": "Libretro Uzem",
+            "platforms": [
+                "uzebox"
+            ]
+        },
+        "libretro_vecx": {
+            "id": "libretro_vecx",
+            "name": "Libretro Vecx",
+            "platforms": [
+                "vectrex"
+            ]
+        },
+        "libretro_mednafen_vb": {
+            "id": "libretro_mednafen_vb",
+            "name": "Libretro Mednafen_vb",
+            "platforms": [
+                "virtualboy"
+            ]
+        },
+        "libretro_ecwolf": {
+            "id": "libretro_ecwolf",
+            "name": "Libretro Ecwolf",
+            "platforms": [
+                "wolfenstein3d"
+            ]
+        },
+        "libretro_x1": {
+            "id": "libretro_x1",
+            "name": "Libretro X1",
+            "platforms": [
+                "x1"
+            ]
+        },
+        "libretro_px68k": {
+            "id": "libretro_px68k",
+            "name": "Libretro Px68k",
+            "platforms": [
+                "x68000"
+            ]
+        },
+        "libretro_81": {
+            "id": "libretro_81",
+            "name": "Libretro 81",
+            "platforms": [
+                "zx81"
+            ]
+        },
+        "libretro_fuse": {
+            "id": "libretro_fuse",
+            "name": "Libretro Fuse",
+            "platforms": [
+                "zxspectrum"
+            ]
+        }
+    },
+    "companies": {
+        "port": {
+            "id": "port",
+            "name": "port"
+        },
+        "virtual": {
+            "id": "virtual",
+            "name": "virtual"
+        },
+        "Panasonic": {
+            "id": "Panasonic",
+            "name": "Panasonic"
+        },
+        "Nintendo": {
+            "id": "Nintendo",
+            "name": "Nintendo"
+        },
+        "Commodore": {
+            "id": "Commodore",
+            "name": "Commodore"
+        },
+        "Amstrad": {
+            "id": "Amstrad",
+            "name": "Amstrad"
+        },
+        "Apple": {
+            "id": "Apple",
+            "name": "Apple"
+        },
+        "Atari": {
+            "id": "Atari",
+            "name": "Atari"
+        },
+        "Sammy": {
+            "id": "Sammy",
+            "name": "Sammy"
+        },
+        "Acorn": {
+            "id": "Acorn",
+            "name": "Acorn"
+        },
+        "Elektronika": {
+            "id": "Elektronika",
+            "name": "Elektronika"
+        },
+        "Studio Pixel": {
+            "id": "Studio Pixel",
+            "name": "Studio Pixel"
+        },
+        "Phillips": {
+            "id": "Phillips",
+            "name": "Phillips"
+        },
+        "Fairchild": {
+            "id": "Fairchild",
+            "name": "Fairchild"
+        },
+        "Coleco": {
+            "id": "Coleco",
+            "name": "Coleco"
+        },
+        "Daphne": {
+            "id": "Daphne",
+            "name": "Daphne"
+        },
+        "IdSoftware": {
+            "id": "IdSoftware",
+            "name": "IdSoftware"
+        },
+        "IBM": {
+            "id": "IBM",
+            "name": "IBM"
+        },
+        "DragonData": {
+            "id": "DragonData",
+            "name": "DragonData"
+        },
+        "Sega": {
+            "id": "Sega",
+            "name": "Sega"
+        },
+        "FBA": {
+            "id": "FBA",
+            "name": "FBA"
+        },
+        "FBN": {
+            "id": "FBN",
+            "name": "FBN"
+        },
+        "Delphine": {
+            "id": "Delphine",
+            "name": "Delphine"
+        },
+        "Mattel": {
+            "id": "Mattel",
+            "name": "Mattel"
+        },
+        "Mame": {
+            "id": "Mame",
+            "name": "Mame"
+        },
+        "Welback": {
+            "id": "Welback",
+            "name": "Welback"
+        },
+        "Mojang": {
+            "id": "Mojang",
+            "name": "Mojang"
+        },
+        "NVidia": {
+            "id": "NVidia",
+            "name": "NVidia"
+        },
+        "Microsoft": {
+            "id": "Microsoft",
+            "name": "Microsoft"
+        },
+        "Tsukuda": {
+            "id": "Tsukuda",
+            "name": "Tsukuda"
+        },
+        "SNK": {
+            "id": "SNK",
+            "name": "SNK"
+        },
+        "Magnavox": {
+            "id": "Magnavox",
+            "name": "Magnavox"
+        },
+        "Senile Team": {
+            "id": "Senile Team",
+            "name": "Senile Team"
+        },
+        "Tangerine": {
+            "id": "Tangerine",
+            "name": "Tangerine"
+        },
+        "Palm": {
+            "id": "Palm",
+            "name": "Palm"
+        },
+        "NEC": {
+            "id": "NEC",
+            "name": "NEC"
+        },
+        "Benesse": {
+            "id": "Benesse",
+            "name": "Benesse"
+        },
+        "Sony": {
+            "id": "Sony",
+            "name": "Sony"
+        },
+        "Core Design": {
+            "id": "Core Design",
+            "name": "Core Design"
+        },
+        "MGT": {
+            "id": "MGT",
+            "name": "MGT"
+        },
+        "Ludvig Strigeus": {
+            "id": "Ludvig Strigeus",
+            "name": "Ludvig Strigeus"
+        },
+        "Epoch": {
+            "id": "Epoch",
+            "name": "Epoch"
+        },
+        "Solarus": {
+            "id": "Solarus",
+            "name": "Solarus"
+        },
+        "Spectravideo": {
+            "id": "Spectravideo",
+            "name": "Spectravideo"
+        },
+        "Bandai": {
+            "id": "Bandai",
+            "name": "Bandai"
+        },
+        "Watara": {
+            "id": "Watara",
+            "name": "Watara"
+        },
+        "Thomson": {
+            "id": "Thomson",
+            "name": "Thomson"
+        },
+        "Texas Instrument": {
+            "id": "Texas Instrument",
+            "name": "Texas Instrument"
+        },
+        "Tandy": {
+            "id": "Tandy",
+            "name": "Tandy"
+        },
+        "MB": {
+            "id": "MB",
+            "name": "MB"
+        },
+        "Philips": {
+            "id": "Philips",
+            "name": "Philips"
+        },
+        "Sharp": {
+            "id": "Sharp",
+            "name": "Sharp"
+        },
+        "Sinclair": {
+            "id": "Sinclair",
+            "name": "Sinclair"
+        }
+    }
+}
