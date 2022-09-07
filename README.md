@@ -37,51 +37,48 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [local](sources/local.json) | Local | 830 | 0 | 830 | 100% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 170 | 27 | 197 | 86.3% |
-| [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 120 | 36 | 156 | 76.9% |
-| [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [Local](sources/local.json) | Custom | 830 | 0 | 830 | 100% |
-| [MAME](sources/mame.json) | Emulator | 628 | 41 | 669 | 93.9% |
-| [No-Intro](sources/nointro.json) | DAT | 256 | 28 | 284 | 90.1% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 181 | 1107 | 1288 | 14.1% |
 | [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
-| [ScreenScraper](sources/screenscraper.json) | API | 160 | 70 | 230 | 69.6% |
-| [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
+| [No-Intro](sources/nointro.json) | DAT | 256 | 28 | 284 | 90.1% |
 | [TOSEC](sources/tosec.json) | DAT | 2788 | 32 | 2820 | 98.9% |
 | [TOSEC-ISO](sources/toseciso.json) | DAT | 242 | 0 | 242 | 100% |
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 663 | 218 | 881 | 75.3% |
+| [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
+| [ScreenScraper](sources/screenscraper.json) | API | 160 | 70 | 230 | 69.6% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 181 | 1107 | 1288 | 14.1% |
+| [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
+| [MAME](sources/mame.json) | Emulator | 628 | 41 | 669 | 93.9% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 120 | 36 | 156 | 76.9% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 170 | 27 | 197 | 86.3% |
 
 ### 💾 Emulators
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [local](sources/local.json) | Local | 490 | 0 | 490 | 100% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
-| [EmulationKing](sources/emulationking.json) | Website | 73 | 23 | 96 | 76% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 23 | 141 | 164 | 14% |
-| [LaunchBox](sources/launchbox.json) | Frontend | 21 | 9 | 30 | 70% |
 | [Local](sources/local.json) | Custom | 490 | 0 | 490 | 100% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 115 | 351 | 466 | 24.7% |
+| [EmulationKing](sources/emulationking.json) | Website | 73 | 23 | 96 | 76% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 21 | 9 | 30 | 70% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 23 | 141 | 164 | 14% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
 
 ### 🏭 Companies
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [local](sources/local.json) | Local | 285 | 0 | 285 | 100% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 60 | 38 | 98 | 61.2% |
-| [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
-| [LaunchBox](sources/launchbox.json) | Frontend | 45 | 81 | 126 | 35.7% |
 | [Local](sources/local.json) | Custom | 285 | 0 | 285 | 100% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
+| [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 45 | 81 | 126 | 35.7% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 60 | 38 | 98 | 61.2% |
 
 ### 🕹 Games
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [LaunchBox](sources/launchbox.json) | Frontend | 0 | 0 | 0 | 0% |
 | [Local](sources/local.json) | Custom | 0 | 0 | 0 | 0% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 0 | 0 | 0 | 0% |
 
 ## 📒 Development Notes
 

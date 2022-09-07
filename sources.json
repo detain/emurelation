@@ -1,5 +1,5 @@
 {
-   "local": {
+    "local": {
         "id": "local",
         "name": "Local",
         "type": "Custom",
@@ -252,7 +252,7 @@
             "games"
         ],
         "description": "LaunchBox was originally built as an attractive frontend for DOSBox, but has long since expanded to support both modern PC games and emulated console platforms. LaunchBox aims to be the one-stop shop for gaming on your computer, for both modern and historical games.",
-        "updatedLast": 1662076059,
+        "updatedLast": 1662521189,
         "updateTrigger": "commit",
         "web": {
             "https://www.launchbox-app.com/": "home"
@@ -369,7 +369,7 @@
             "https://github.com/Aloshi/EmulationStation": "repo"
         }
     },
-     "emucontrolcenter": {
+    "emucontrolcenter": {
         "id": "emucontrolcenter",
         "name": "emuControlCenter",
         "type": "Tools",
