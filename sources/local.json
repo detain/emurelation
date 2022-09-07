@@ -15739,7 +15739,11 @@
         "American Laser Games": {
             "id": "American Laser Games",
             "name": "American Laser Games",
-            "matches": []
+            "matches": {
+                "screenscraper": [
+                    "American Laser Games"
+                ]
+            }
         },
         "American-Laser-Games": {
             "id": "American-Laser-Games",
@@ -15757,6 +15761,9 @@
                     "Amstrad"
                 ],
                 "oldcomputers": [
+                    "Amstrad"
+                ],
+                "screenscraper": [
                     "Amstrad"
                 ]
             }
@@ -15777,6 +15784,9 @@
                     "Apple"
                 ],
                 "oldcomputers": [
+                    "Apple"
+                ],
+                "screenscraper": [
                     "Apple"
                 ]
             }
@@ -15810,6 +15820,9 @@
                     "Atari"
                 ],
                 "oldcomputers": [
+                    "Atari"
+                ],
+                "screenscraper": [
                     "Atari"
                 ]
             }
@@ -15866,7 +15879,11 @@
         "Benesse": {
             "id": "Benesse",
             "name": "Benesse",
-            "matches": []
+            "matches": {
+                "screenscraper": [
+                    "Benesse"
+                ]
+            }
         },
         "Bernd Huebler": {
             "id": "Bernd Huebler",
@@ -15961,6 +15978,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "Capcom"
+                ],
+                "screenscraper": [
+                    "Capcom"
                 ]
             }
         },
@@ -15975,6 +15995,9 @@
                     "Casio"
                 ],
                 "oldcomputers": [
+                    "Casio"
+                ],
+                "screenscraper": [
                     "Casio"
                 ]
             }
@@ -16017,6 +16040,9 @@
                     "Commodore"
                 ],
                 "oldcomputers": [
+                    "Commodore"
+                ],
+                "screenscraper": [
                     "Commodore"
                 ]
             }
@@ -16175,7 +16201,11 @@
         "Elektronika": {
             "id": "Elektronika",
             "name": "Elektronika",
-            "matches": []
+            "matches": {
+                "screenscraper": [
+                    "Elektronika"
+                ]
+            }
         },
         "Elektronska Industrija Nis": {
             "id": "Elektronska Industrija Nis",
@@ -16233,6 +16263,9 @@
                     "Epoch"
                 ],
                 "oldcomputers": [
+                    "Epoch"
+                ],
+                "screenscraper": [
                     "Epoch"
                 ]
             }
@@ -16344,6 +16377,9 @@
                     "Fujitsu"
                 ],
                 "oldcomputers": [
+                    "Fujitsu"
+                ],
+                "screenscraper": [
                     "Fujitsu"
                 ]
             }
@@ -16628,7 +16664,11 @@
         "Konami": {
             "id": "Konami",
             "name": "Konami",
-            "matches": []
+            "matches": {
+                "screenscraper": [
+                    "Konami"
+                ]
+            }
         },
         "Kontron": {
             "id": "Kontron",
@@ -16815,6 +16855,9 @@
                 ],
                 "launchbox": [
                     "Microsoft"
+                ],
+                "screenscraper": [
+                    "Microsoft"
                 ]
             }
         },
@@ -16911,6 +16954,9 @@
                 ],
                 "launchbox": [
                     "Namco"
+                ],
+                "screenscraper": [
+                    "Namco"
                 ]
             }
         },
@@ -16927,7 +16973,11 @@
         "Nichibutsu": {
             "id": "Nichibutsu",
             "name": "Nichibutsu",
-            "matches": []
+            "matches": {
+                "screenscraper": [
+                    "Nichibutsu"
+                ]
+            }
         },
         "Nintendo": {
             "id": "Nintendo",
@@ -16944,6 +16994,9 @@
                 ],
                 "oldcomputers": [
                     "Nintendo"
+                ],
+                "screenscraper": [
+                    "Nintendo"
                 ]
             }
         },
@@ -16959,6 +17012,9 @@
                 ],
                 "oldcomputers": [
                     "NOKIA",
+                    "Nokia"
+                ],
+                "screenscraper": [
                     "Nokia"
                 ]
             }
@@ -17063,6 +17119,9 @@
                 ],
                 "oldcomputers": [
                     "Panasonic"
+                ],
+                "screenscraper": [
+                    "Panasonic"
                 ]
             }
         },
@@ -17087,6 +17146,9 @@
                     "Philips"
                 ],
                 "oldcomputers": [
+                    "Philips"
+                ],
+                "screenscraper": [
                     "Philips"
                 ]
             }
@@ -17244,6 +17306,9 @@
                 ],
                 "oldcomputers": [
                     "SNK"
+                ],
+                "screenscraper": [
+                    "SNK"
                 ]
             }
         },
@@ -17309,6 +17374,9 @@
                 ],
                 "oldcomputers": [
                     "Sega"
+                ],
+                "screenscraper": [
+                    "SEGA"
                 ]
             }
         },
@@ -17328,6 +17396,9 @@
                     "Sharp"
                 ],
                 "oldcomputers": [
+                    "Sharp"
+                ],
+                "screenscraper": [
                     "Sharp"
                 ]
             }
@@ -17353,6 +17424,9 @@
                 ],
                 "oldcomputers": [
                     "Sinclair"
+                ],
+                "screenscraper": [
+                    "Sinclair"
                 ]
             }
         },
@@ -17370,6 +17444,9 @@
                     "Sony"
                 ],
                 "oldcomputers": [
+                    "Sony"
+                ],
+                "screenscraper": [
                     "Sony"
                 ]
             }
@@ -17413,6 +17490,9 @@
             "name": "Taito",
             "matches": {
                 "emucontrolcenter": [
+                    "Taito"
+                ],
+                "screenscraper": [
                     "Taito"
                 ]
             }
@@ -17529,6 +17609,9 @@
                     "Texas Instruments"
                 ],
                 "oldcomputers": [
+                    "Texas Instruments"
+                ],
+                "screenscraper": [
                     "Texas Instruments"
                 ]
             }
@@ -17684,6 +17767,9 @@
                 ],
                 "launchbox": [
                     "VTech"
+                ],
+                "screenscraper": [
+                    "VTech"
                 ]
             }
         },
@@ -17746,6 +17832,9 @@
                     "Watara"
                 ],
                 "launchbox": [
+                    "Watara"
+                ],
+                "screenscraper": [
                     "Watara"
                 ]
             }

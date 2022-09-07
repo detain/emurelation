@@ -57,6 +57,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [Local](sources/local.json) | Custom | 490 | 0 | 490 | 100% |
+| [ScreenScraper](sources/screenscraper.json) | API | 0 | 3 | 3 | 0% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 115 | 351 | 466 | 24.7% |
 | [EmulationKing](sources/emulationking.json) | Website | 73 | 23 | 96 | 76% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 21 | 9 | 30 | 70% |
@@ -68,6 +69,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [Local](sources/local.json) | Custom | 285 | 0 | 285 | 100% |
+| [ScreenScraper](sources/screenscraper.json) | API | 28 | 28 | 56 | 50% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 45 | 80 | 125 | 36% |
@@ -78,6 +80,7 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [Local](sources/local.json) | Custom | 0 | 0 | 0 | 0% |
+| [ScreenScraper](sources/screenscraper.json) | API | 0 | 0 | 0 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 0 | 0 | 0% |
 
 ## 📒 Development Notes

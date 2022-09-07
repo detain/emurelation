@@ -1590,6 +1590,11 @@
         }
     },
     "emulators": {
+        "screenscraper": {
+            "launchbox": "LaunchBox",
+            "recalbox": "RecalBox",
+            "retropie": "RetroPie"
+        },
         "oldcomputers": {
             "1802 Emulator": "1802 Emulator",
             "2001 - The Emerson Arcadia 2001 Emulator": "2001 - The Emerson Arcadia 2001 Emulator",
@@ -2124,6 +2129,36 @@
         }
     },
     "companies": {
+        "screenscraper": {
+            "Acclaim": "Acclaim",
+            "Amcoe": "Amcoe",
+            "Atlus": "Atlus",
+            "Banpresto": "Banpresto",
+            "Century Electronics": "Century Electronics",
+            "Cinematronics": "Cinematronics",
+            "Comad": "Comad",
+            "Data East": "Data East",
+            "Dynax": "Dynax",
+            "Entex Industries, Inc": "Entex Industries, Inc",
+            "Gaelco": "Gaelco",
+            "Gottlieb": "Gottlieb",
+            "IGS": "IGS",
+            "Irem": "Irem",
+            "Jaleco": "Jaleco",
+            "Kaneko": "Kaneko",
+            "Midway": "Midway",
+            "Mitchell": "Mitchell",
+            "NMK": "NMK",
+            "Psikyo": "Psikyo",
+            "Public Domain": "Public Domain",
+            "Seibu Kaihatsu": "Seibu Kaihatsu",
+            "SemiCom": "SemiCom",
+            "Tandy": "Tandy",
+            "Tecmo": "Tecmo",
+            "Toaplan": "Toaplan",
+            "Visco": "Visco",
+            "Zen Studios": "Zen Studios"
+        },
         "oldcomputers": {
             "A10": "A10",
             "ABS COMPUTER": "ABS COMPUTER",
