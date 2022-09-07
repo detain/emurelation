@@ -1,6 +1,6 @@
 # Emu⬅re➡lation
 
-Emu⬅re➡lation is project with 1 simple purpose; to provide a mapping of platforms, emulators, and games between varied sources in a easy to use JSON format.
+EmuRelation is project with 1 simple purpose; to provide a mapping of platforms, emulators, and games between varied sources in a easy to use JSON format.
 
 ## ❓ Why
 
@@ -14,12 +14,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 ### 🔄 Status
 
-| Type | Sources Generated | Local Entries | Mapping |
-|-|-|-|-|
-| Platforms | ✅ | ✅ | ✅ |
-| Emulators | ✅ | ✅ | ✅ |
-| Companies | ✅ | ✅ | ✅ |
-| Games | ❎ | ❎ | ❎ |
+
 
 ### 🎮 Platforms
 
@@ -38,6 +33,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [MAME](sources/mame.json) | Emulator | 628 | 41 | 669 | 93.9% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 120 | 36 | 156 | 76.9% |
+| [RetroPie](sources/retropie.json) | Frontend | 71 | 13 | 84 | 84.5% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 170 | 27 | 197 | 86.3% |
 
 ### 💾 Emulators
@@ -50,6 +46,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmulationKing](sources/emulationking.json) | Website | 73 | 23 | 96 | 76% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 21 | 9 | 30 | 70% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 23 | 141 | 164 | 14% |
+| [RetroPie](sources/retropie.json) | Frontend | 25 | 128 | 153 | 16.3% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
 
 ### 🏭 Companies
@@ -100,7 +97,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - RetroArch
     - RetroBat
     - RecalBox
-    - RetroPie
   - APIs
     - MobyGames
     - IGDB

@@ -729,6 +729,9 @@
                 ],
                 "emulationstation-de": [
                     "amstradcpc"
+                ],
+                "retropie": [
+                    "amstradcpc"
                 ]
             },
             "company": "Amstrad"
@@ -1029,6 +1032,9 @@
                 ],
                 "emulationstation-de": [
                     "apple2"
+                ],
+                "retropie": [
+                    "apple2"
                 ]
             },
             "company": "Apple"
@@ -1229,6 +1235,9 @@
                 ],
                 "emulationstation-de": [
                     "macintosh"
+                ],
+                "retropie": [
+                    "macintosh"
                 ]
             },
             "company": "Apple"
@@ -1368,6 +1377,9 @@
                 ],
                 "emulationstation-de": [
                     "atari2600"
+                ],
+                "retropie": [
+                    "atari2600"
                 ]
             },
             "company": "Atari"
@@ -1440,6 +1452,9 @@
                 ],
                 "emulationstation-de": [
                     "atari5200"
+                ],
+                "retropie": [
+                    "atari5200"
                 ]
             },
             "company": "Atari"
@@ -1483,6 +1498,9 @@
                     "a7800"
                 ],
                 "emulationstation-de": [
+                    "atari7800"
+                ],
+                "retropie": [
                     "atari7800"
                 ]
             },
@@ -1569,6 +1587,9 @@
                 ],
                 "emulationstation-de": [
                     "atari800"
+                ],
+                "retropie": [
+                    "atari800"
                 ]
             },
             "company": "Atari"
@@ -1626,6 +1647,9 @@
                     "atarijaguar"
                 ],
                 "emulationstation-de": [
+                    "atarijaguar"
+                ],
+                "retropie": [
                     "atarijaguar"
                 ]
             },
@@ -1715,6 +1739,9 @@
                 ],
                 "emulationstation-de": [
                     "atarilynx"
+                ],
+                "retropie": [
+                    "atarilynx"
                 ]
             },
             "company": "Atari"
@@ -1727,6 +1754,9 @@
                     77,
                     1271,
                     1346
+                ],
+                "retropie": [
+                    "pc"
                 ]
             },
             "company": "Atari"
@@ -1833,6 +1863,9 @@
                     "st"
                 ],
                 "emulationstation-de": [
+                    "atarist"
+                ],
+                "retropie": [
                     "atarist"
                 ]
             },
@@ -2141,6 +2174,9 @@
                 ],
                 "emulationstation-de": [
                     "wonderswan"
+                ],
+                "retropie": [
+                    "wonderswan"
                 ]
             },
             "company": "Bandai"
@@ -2174,6 +2210,9 @@
                     46
                 ],
                 "emulationstation-de": [
+                    "wonderswancolor"
+                ],
+                "retropie": [
                     "wonderswancolor"
                 ]
             },
@@ -2755,6 +2794,9 @@
                 ],
                 "emulationstation-de": [
                     "colecovision"
+                ],
+                "retropie": [
+                    "colecovision"
                 ]
             },
             "company": "Coleco"
@@ -3310,6 +3352,9 @@
                 ],
                 "emulationstation-de": [
                     "c64"
+                ],
+                "retropie": [
+                    "c64"
                 ]
             },
             "company": "Commodore"
@@ -3516,6 +3561,9 @@
                     "amiga"
                 ],
                 "emulationstation-de": [
+                    "amiga"
+                ],
+                "retropie": [
                     "amiga"
                 ]
             },
@@ -4966,6 +5014,9 @@
                 ],
                 "emulationstation-de": [
                     "dragon32"
+                ],
+                "retropie": [
+                    "dragon32"
                 ]
             },
             "company": "Dragon"
@@ -5269,6 +5320,9 @@
                 ],
                 "emucontrolcenter": [
                     "arc"
+                ],
+                "retropie": [
+                    "arcadia"
                 ]
             },
             "company": "Emerson"
@@ -5655,6 +5709,9 @@
                 ],
                 "emulationstation-de": [
                     "channelf"
+                ],
+                "retropie": [
+                    "channelf"
                 ]
             },
             "company": "Fairchild"
@@ -5914,6 +5971,9 @@
                 ],
                 "emucontrolcenter": [
                     "fm7"
+                ],
+                "retropie": [
+                    "fm7"
                 ]
             },
             "company": "Fujitsu"
@@ -6038,6 +6098,9 @@
                     "vec"
                 ],
                 "emulationstation-de": [
+                    "vectrex"
+                ],
+                "retropie": [
                     "vectrex"
                 ]
             },
@@ -6193,6 +6256,9 @@
                 "emulationstation-de": [
                     "arcade",
                     "mame"
+                ],
+                "retropie": [
+                    "arcade"
                 ]
             },
             "company": "Generic"
@@ -6455,6 +6521,9 @@
                     "svm"
                 ],
                 "emulationstation-de": [
+                    "scummvm"
+                ],
+                "retropie": [
                     "scummvm"
                 ]
             },
@@ -7153,6 +7222,9 @@
                 ],
                 "screenscraper": [
                     215
+                ],
+                "retropie": [
+                    "zmachine"
                 ]
             },
             "company": "Infocom"
@@ -7792,6 +7864,9 @@
                 ],
                 "emulationstation-de": [
                     "samcoupe"
+                ],
+                "retropie": [
+                    "samcoupe"
                 ]
             },
             "company": "MGT"
@@ -7836,7 +7911,11 @@
         "MSX MSX": {
             "id": "MSX MSX",
             "name": "MSX",
-            "matches": [],
+            "matches": {
+                "retropie": [
+                    "msx"
+                ]
+            },
             "company": "MSX"
         },
         "MSX MSX2": {
@@ -7926,6 +8005,9 @@
                 ],
                 "emulationstation-de": [
                     "odyssey2",
+                    "videopac"
+                ],
+                "retropie": [
                     "videopac"
                 ]
             },
@@ -8128,6 +8210,9 @@
                     "int"
                 ],
                 "emulationstation-de": [
+                    "intellivision"
+                ],
+                "retropie": [
                     "intellivision"
                 ]
             },
@@ -8951,6 +9036,9 @@
                 ],
                 "emucontrolcenter": [
                     "pc8801"
+                ],
+                "retropie": [
+                    "pc88"
                 ]
             },
             "company": "NEC"
@@ -9025,6 +9113,10 @@
                 ],
                 "emucontrolcenter": [
                     "pc9801"
+                ],
+                "retropie": [
+                    "np2pi",
+                    "pc98"
                 ]
             },
             "company": "NEC"
@@ -9132,6 +9224,9 @@
                 ],
                 "emulationstation-de": [
                     "pcfx"
+                ],
+                "retropie": [
+                    "pcfx"
                 ]
             },
             "company": "NEC"
@@ -9208,6 +9303,9 @@
                 "emulationstation-de": [
                     "pcengine",
                     "tg16"
+                ],
+                "retropie": [
+                    "pcengine"
                 ]
             },
             "company": "NEC"
@@ -9395,6 +9493,9 @@
                 ],
                 "emulationstation-de": [
                     "n64"
+                ],
+                "retropie": [
+                    "n64"
                 ]
             },
             "company": "Nintendo"
@@ -9469,6 +9570,9 @@
                     "nintendods"
                 ],
                 "emulationstation-de": [
+                    "nds"
+                ],
+                "retropie": [
                     "nds"
                 ]
             },
@@ -9562,6 +9666,9 @@
                 "emulationstation-de": [
                     "famicom",
                     "nes"
+                ],
+                "retropie": [
+                    "nes"
                 ]
             },
             "company": "Nintendo"
@@ -9602,6 +9709,9 @@
                 ],
                 "emulationstation-de": [
                     "fds"
+                ],
+                "retropie": [
+                    "fds"
                 ]
             },
             "company": "Nintendo"
@@ -9636,6 +9746,9 @@
                     "Nintendo - Game & Watch"
                 ],
                 "emulationstation-de": [
+                    "gameandwatch"
+                ],
+                "retropie": [
                     "gameandwatch"
                 ]
             },
@@ -9675,6 +9788,9 @@
                 "emulationstation-de": [
                     "gb",
                     "sgb"
+                ],
+                "retropie": [
+                    "gb"
                 ]
             },
             "company": "Nintendo"
@@ -9721,6 +9837,9 @@
                 ],
                 "emulationstation-de": [
                     "gba"
+                ],
+                "retropie": [
+                    "gba"
                 ]
             },
             "company": "Nintendo"
@@ -9759,6 +9878,9 @@
                     "gameboycolor"
                 ],
                 "emulationstation-de": [
+                    "gbc"
+                ],
+                "retropie": [
                     "gbc"
                 ]
             },
@@ -9804,6 +9926,9 @@
                     "gamecube"
                 ],
                 "emulationstation-de": [
+                    "gc"
+                ],
+                "retropie": [
                     "gc"
                 ]
             },
@@ -9877,6 +10002,9 @@
                     "pmini"
                 ],
                 "emulationstation-de": [
+                    "pokemini"
+                ],
+                "retropie": [
                     "pokemini"
                 ]
             },
@@ -9980,6 +10108,9 @@
                     "sfc",
                     "snes",
                     "snesna"
+                ],
+                "retropie": [
+                    "snes"
                 ]
             },
             "company": "Nintendo"
@@ -10043,6 +10174,9 @@
                 ],
                 "emulationstation-de": [
                     "virtualboy"
+                ],
+                "retropie": [
+                    "virtualboy"
                 ]
             },
             "company": "Nintendo"
@@ -10085,6 +10219,9 @@
                     "wii"
                 ],
                 "emulationstation-de": [
+                    "wii"
+                ],
+                "retropie": [
                     "wii"
                 ]
             },
@@ -10533,6 +10670,9 @@
                     "3do"
                 ],
                 "emulationstation-de": [
+                    "3do"
+                ],
+                "retropie": [
                     "3do"
                 ]
             },
@@ -11181,6 +11321,9 @@
                 ],
                 "emulationstation-de": [
                     "neogeo"
+                ],
+                "retropie": [
+                    "neogeo"
                 ]
             },
             "company": "SNK"
@@ -11291,6 +11434,9 @@
                 ],
                 "emulationstation-de": [
                     "ngp"
+                ],
+                "retropie": [
+                    "ngp"
                 ]
             },
             "company": "SNK"
@@ -11330,6 +11476,9 @@
                     "ngpc"
                 ],
                 "emulationstation-de": [
+                    "ngpc"
+                ],
+                "retropie": [
                     "ngpc"
                 ]
             },
@@ -11549,6 +11698,9 @@
                 ],
                 "emulationstation-de": [
                     "sega32x"
+                ],
+                "retropie": [
+                    "sega32x"
                 ]
             },
             "company": "Sega"
@@ -11732,6 +11884,9 @@
                 ],
                 "emulationstation-de": [
                     "dreamcast"
+                ],
+                "retropie": [
+                    "dreamcast"
                 ]
             },
             "company": "Sega"
@@ -11759,6 +11914,9 @@
                     "sg-1000"
                 ],
                 "emulationstation-de": [
+                    "sg-1000"
+                ],
+                "retropie": [
                     "sg-1000"
                 ]
             },
@@ -11802,6 +11960,9 @@
                     "gg"
                 ],
                 "emulationstation-de": [
+                    "gamegear"
+                ],
+                "retropie": [
                     "gamegear"
                 ]
             },
@@ -11857,6 +12018,9 @@
                 ],
                 "mame": [
                     "megadriv"
+                ],
+                "retropie": [
+                    "megadrive"
                 ]
             },
             "company": "Sega"
@@ -11936,6 +12100,9 @@
                 ],
                 "emulationstation-de": [
                     "mastersystem"
+                ],
+                "retropie": [
+                    "mastersystem"
                 ]
             },
             "company": "Sega"
@@ -11947,6 +12114,9 @@
                 "mame": [
                     "megacd",
                     "megacdj"
+                ],
+                "retropie": [
+                    "segacd"
                 ]
             },
             "company": "Sega"
@@ -12267,6 +12437,9 @@
                 "emulationstation-de": [
                     "saturn",
                     "saturnjp"
+                ],
+                "retropie": [
+                    "saturn"
                 ]
             },
             "company": "Sega"
@@ -12532,6 +12705,9 @@
                 ],
                 "emulationstation-de": [
                     "x1"
+                ],
+                "retropie": [
+                    "x1"
                 ]
             },
             "company": "Sharp"
@@ -12588,6 +12764,9 @@
                     "x68000"
                 ],
                 "emulationstation-de": [
+                    "x68000"
+                ],
+                "retropie": [
                     "x68000"
                 ]
             },
@@ -12652,6 +12831,9 @@
             "name": "ZX Spectrum",
             "matches": {
                 "emulationstation-de": [
+                    "zxspectrum"
+                ],
+                "retropie": [
                     "zxspectrum"
                 ]
             },
@@ -12948,6 +13130,9 @@
                 ],
                 "emulationstation-de": [
                     "zx81"
+                ],
+                "retropie": [
+                    "zx81"
                 ]
             },
             "company": "Sinclair"
@@ -13030,6 +13215,9 @@
                 ],
                 "emulationstation-de": [
                     "psx"
+                ],
+                "retropie": [
+                    "psx"
                 ]
             },
             "company": "Sony"
@@ -13072,6 +13260,9 @@
                     "playstation2"
                 ],
                 "emulationstation-de": [
+                    "ps2"
+                ],
+                "retropie": [
                     "ps2"
                 ]
             },
@@ -13211,6 +13402,9 @@
                     "playstationportable"
                 ],
                 "emulationstation-de": [
+                    "psp"
+                ],
+                "retropie": [
                     "psp"
                 ]
             },
@@ -13534,6 +13728,10 @@
                 ],
                 "emulationstation-de": [
                     "trs-80"
+                ],
+                "retropie": [
+                    "coco",
+                    "trs-80"
                 ]
             },
             "company": "Tandy Radio Shack"
@@ -13714,6 +13912,9 @@
                     "oric"
                 ],
                 "emulationstation-de": [
+                    "oric"
+                ],
+                "retropie": [
                     "oric"
                 ]
             },
@@ -14198,6 +14399,9 @@
                 ],
                 "emulationstation-de": [
                     "ti99"
+                ],
+                "retropie": [
+                    "ti99"
                 ]
             },
             "company": "Texas Instruments"
@@ -14243,6 +14447,9 @@
                 ],
                 "emucontrolcenter": [
                     "mo5"
+                ],
+                "retropie": [
+                    "moto"
                 ]
             },
             "company": "Thomson"
@@ -14860,6 +15067,9 @@
             "matches": {
                 "tgdb": [
                     5005
+                ],
+                "retropie": [
+                    "crvision"
                 ]
             },
             "company": "VTech"
@@ -18469,6 +18679,9 @@
                 ],
                 "oldcomputers": [
                     "Atari800"
+                ],
+                "retropie": [
+                    "atari800"
                 ]
             }
         },
@@ -19086,6 +19299,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "coolcv"
+                ],
+                "retropie": [
+                    "coolcv"
                 ]
             }
         },
@@ -19294,6 +19510,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "daphne"
+                ],
+                "retropie": [
+                    "daphne"
                 ]
             }
         },
@@ -19497,6 +19716,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dgen"
+                ],
+                "retropie": [
+                    "dgen"
                 ]
             }
         },
@@ -19561,6 +19783,9 @@
                 ],
                 "launchbox": [
                     "Dolphin"
+                ],
+                "retropie": [
+                    "dolphin"
                 ]
             }
         },
@@ -19593,6 +19818,9 @@
                 ],
                 "oldcomputers": [
                     "DOSBox"
+                ],
+                "retropie": [
+                    "dosbox"
                 ]
             }
         },
@@ -20313,6 +20541,9 @@
                 ],
                 "oldcomputers": [
                     "FUSE"
+                ],
+                "retropie": [
+                    "fuse"
                 ]
             }
         },
@@ -20663,6 +20894,9 @@
                 ],
                 "oldcomputers": [
                     "Hatari"
+                ],
+                "retropie": [
+                    "hatari"
                 ]
             }
         },
@@ -21093,6 +21327,9 @@
                 ],
                 "oldcomputers": [
                     "jzINTV"
+                ],
+                "retropie": [
+                    "jzintv"
                 ]
             }
         },
@@ -21557,6 +21794,9 @@
                 ],
                 "oldcomputers": [
                     "MAME"
+                ],
+                "retropie": [
+                    "mame"
                 ]
             }
         },
@@ -21974,6 +22214,9 @@
                 ],
                 "oldcomputers": [
                     "Mini vMac"
+                ],
+                "retropie": [
+                    "minivmac"
                 ]
             }
         },
@@ -22058,6 +22301,9 @@
                 ],
                 "emulationstation-de": [
                     "Mupen64Plus"
+                ],
+                "retropie": [
+                    "mupen64plus"
                 ]
             }
         },
@@ -22710,6 +22956,9 @@
                 ],
                 "emulationstation-de": [
                     "Oricutron"
+                ],
+                "retropie": [
+                    "oricutron"
                 ]
             }
         },
@@ -22723,6 +22972,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "osmose"
+                ],
+                "retropie": [
                     "osmose"
                 ]
             }
@@ -22967,6 +23219,9 @@
                 ],
                 "oldcomputers": [
                     "PCSX2"
+                ],
+                "retropie": [
+                    "pcsx2"
                 ]
             }
         },
@@ -23174,6 +23429,9 @@
                 ],
                 "launchbox": [
                     "PPSSPP"
+                ],
+                "retropie": [
+                    "ppsspp"
                 ]
             }
         },
@@ -23425,6 +23683,9 @@
                 ],
                 "oldcomputers": [
                     "QUASI88"
+                ],
+                "retropie": [
+                    "quasi88"
                 ]
             }
         },
@@ -23754,6 +24015,9 @@
                 ],
                 "emulationstation-de": [
                     "ScummVM"
+                ],
+                "retropie": [
+                    "scummvm"
                 ]
             }
         },
@@ -23766,6 +24030,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "sdltrs"
+                ],
+                "retropie": [
                     "sdltrs"
                 ]
             }
@@ -23835,6 +24102,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "simcoupe"
+                ],
+                "retropie": [
+                    "simcoupe"
                 ]
             }
         },
@@ -23903,6 +24173,9 @@
                 ],
                 "oldcomputers": [
                     "Snes9x"
+                ],
+                "retropie": [
+                    "snes9x"
                 ]
             }
         },
@@ -24076,6 +24349,9 @@
                 ],
                 "oldcomputers": [
                     "Stella"
+                ],
+                "retropie": [
+                    "stella"
                 ]
             }
         },
@@ -25311,6 +25587,9 @@
                 ],
                 "oldcomputers": [
                     "XM7"
+                ],
+                "retropie": [
+                    "xm7"
                 ]
             }
         },
@@ -25394,6 +25673,9 @@
                 ],
                 "emulationstation-de": [
                     "XRoar"
+                ],
+                "retropie": [
+                    "xroar"
                 ]
             }
         },
@@ -25582,6 +25864,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "zesarux"
+                ],
+                "retropie": [
                     "zesarux"
                 ]
             }
