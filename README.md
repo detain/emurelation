@@ -59,22 +59,22 @@ All contributions (issues, comments, pull requests, etc) are welcomed and encour
 |-|-|-|-|-|-|
 | [local](sources/local.json) | Local | 490 | 0 | 490 | 100% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
-| [EmulationKing](sources/emulationking.json) | Website | 0 | 96 | 96 | 0% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 0 | 164 | 164 | 0% |
-| [LaunchBox](sources/launchbox.json) | Frontend | 0 | 30 | 30 | 0% |
-| [Local](sources/local.json) | Custom | 0 | 490 | 490 | 0% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 0 | 466 | 466 | 0% |
+| [EmulationKing](sources/emulationking.json) | Website | 73 | 23 | 96 | 76% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 23 | 141 | 164 | 14% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 21 | 9 | 30 | 70% |
+| [Local](sources/local.json) | Custom | 490 | 0 | 490 | 100% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 115 | 351 | 466 | 24.7% |
 
 ### 🏭 Companies
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [local](sources/local.json) | Local | 285 | 0 | 285 | 100% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 2 | 98 | 100 | 2% |
-| [EmulationKing](sources/emulationking.json) | Website | 0 | 5 | 5 | 0% |
-| [LaunchBox](sources/launchbox.json) | Frontend | 0 | 126 | 126 | 0% |
-| [Local](sources/local.json) | Custom | 0 | 285 | 285 | 0% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 0 | 641 | 641 | 0% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 60 | 38 | 98 | 61.2% |
+| [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 45 | 81 | 126 | 35.7% |
+| [Local](sources/local.json) | Custom | 285 | 0 | 285 | 100% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
 
 ### 🕹 Games
 

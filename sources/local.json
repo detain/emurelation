@@ -15651,7 +15651,11 @@
         "ACT": {
             "id": "ACT",
             "name": "ACT",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "ACT"
+                ]
+            }
         },
         "ADC": {
             "id": "ADC",
@@ -15674,6 +15678,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "APF Electronics"
+                ],
+                "oldcomputers": [
+                    "APF"
                 ]
             }
         },
@@ -15690,7 +15697,11 @@
         "Acetronic": {
             "id": "Acetronic",
             "name": "Acetronic",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Acetronic"
+                ]
+            }
         },
         "Acorn": {
             "id": "Acorn",
@@ -15719,7 +15730,11 @@
         "Altos Computer Systems": {
             "id": "Altos Computer Systems",
             "name": "Altos Computer Systems",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Altos Computer Systems"
+                ]
+            }
         },
         "American Laser Games": {
             "id": "American Laser Games",
@@ -15734,7 +15749,17 @@
         "Amstrad": {
             "id": "Amstrad",
             "name": "Amstrad",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Amstrad"
+                ],
+                "launchbox": [
+                    "Amstrad"
+                ],
+                "oldcomputers": [
+                    "Amstrad"
+                ]
+            }
         },
         "Apogee": {
             "id": "Apogee",
@@ -15744,7 +15769,17 @@
         "Apple": {
             "id": "Apple",
             "name": "Apple",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Apple"
+                ],
+                "launchbox": [
+                    "Apple"
+                ],
+                "oldcomputers": [
+                    "Apple"
+                ]
+            }
         },
         "Applied Technology": {
             "id": "Applied Technology",
@@ -15764,7 +15799,20 @@
         "Atari": {
             "id": "Atari",
             "name": "Atari",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Atari"
+                ],
+                "emulationking": [
+                    "atari"
+                ],
+                "launchbox": [
+                    "Atari"
+                ],
+                "oldcomputers": [
+                    "Atari"
+                ]
+            }
         },
         "Aussie": {
             "id": "Aussie",
@@ -15794,12 +15842,26 @@
         "Bally": {
             "id": "Bally",
             "name": "Bally",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Bally"
+                ],
+                "oldcomputers": [
+                    "Bally"
+                ]
+            }
         },
         "Bandai": {
             "id": "Bandai",
             "name": "Bandai",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Bandai"
+                ],
+                "oldcomputers": [
+                    "Bandai"
+                ]
+            }
         },
         "Benesse": {
             "id": "Benesse",
@@ -15819,12 +15881,21 @@
         "Bit Corporation": {
             "id": "Bit Corporation",
             "name": "Bit Corporation",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "BIT CORPORATION",
+                    "Bit Corporation"
+                ]
+            }
         },
         "Bondwell": {
             "id": "Bondwell",
             "name": "Bondwell",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Bondwell"
+                ]
+            }
         },
         "Burroughs": {
             "id": "Burroughs",
@@ -15834,7 +15905,11 @@
         "CCE": {
             "id": "CCE",
             "name": "CCE",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "CCE"
+                ]
+            }
         },
         "COMX": {
             "id": "COMX",
@@ -15859,22 +15934,50 @@
         "Camputers": {
             "id": "Camputers",
             "name": "Camputers",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Camputers"
+                ],
+                "launchbox": [
+                    "Camputers"
+                ],
+                "oldcomputers": [
+                    "Camputers"
+                ]
+            }
         },
         "Canon": {
             "id": "Canon",
             "name": "Canon",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Canon"
+                ]
+            }
         },
         "Capcom": {
             "id": "Capcom",
             "name": "Capcom",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Capcom"
+                ]
+            }
         },
         "Casio": {
             "id": "Casio",
             "name": "Casio",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Casio"
+                ],
+                "launchbox": [
+                    "Casio"
+                ],
+                "oldcomputers": [
+                    "Casio"
+                ]
+            }
         },
         "Casper": {
             "id": "Casper",
@@ -15894,12 +15997,29 @@
         "Coleco": {
             "id": "Coleco",
             "name": "Coleco",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Coleco"
+                ],
+                "launchbox": [
+                    "Coleco"
+                ],
+                "oldcomputers": [
+                    "Coleco"
+                ]
+            }
         },
         "Commodore": {
             "id": "Commodore",
             "name": "Commodore",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Commodore"
+                ],
+                "oldcomputers": [
+                    "Commodore"
+                ]
+            }
         },
         "Compucolor": {
             "id": "Compucolor",
@@ -15919,7 +16039,12 @@
         "Conitec": {
             "id": "Conitec",
             "name": "Conitec",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "CONITEC",
+                    "Conitec"
+                ]
+            }
         },
         "Control Data Corporation": {
             "id": "Control Data Corporation",
@@ -15929,7 +16054,11 @@
         "Convergent Technologies": {
             "id": "Convergent Technologies",
             "name": "Convergent Technologies",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Convergent Technologies"
+                ]
+            }
         },
         "Creatronic": {
             "id": "Creatronic",
@@ -15939,7 +16068,11 @@
         "Cybiko": {
             "id": "Cybiko",
             "name": "Cybiko",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Cybiko"
+                ]
+            }
         },
         "DAI": {
             "id": "DAI",
@@ -15949,7 +16082,11 @@
         "DEC": {
             "id": "DEC",
             "name": "DEC",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "DEC"
+                ]
+            }
         },
         "Data Applications International": {
             "id": "Data Applications International",
@@ -15959,7 +16096,11 @@
         "Dick Smith": {
             "id": "Dick Smith",
             "name": "Dick Smith",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Dick Smith"
+                ]
+            }
         },
         "Didact": {
             "id": "Didact",
@@ -15979,12 +16120,29 @@
         "Dragon Data": {
             "id": "Dragon Data",
             "name": "Dragon Data",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Dragon Data"
+                ],
+                "launchbox": [
+                    "Dragon Data"
+                ]
+            }
         },
         "EACA": {
             "id": "EACA",
             "name": "EACA",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "EACA"
+                ],
+                "launchbox": [
+                    "EACA"
+                ],
+                "oldcomputers": [
+                    "Eaca"
+                ]
+            }
         },
         "EC": {
             "id": "EC",
@@ -15994,7 +16152,11 @@
         "EPSON": {
             "id": "EPSON",
             "name": "EPSON",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Epson"
+                ]
+            }
         },
         "ETL": {
             "id": "ETL",
@@ -16004,7 +16166,11 @@
         "Elecbyte": {
             "id": "Elecbyte",
             "name": "Elecbyte",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "Elecbyte"
+                ]
+            }
         },
         "Elektronika": {
             "id": "Elektronika",
@@ -16014,12 +16180,24 @@
         "Elektronska Industrija Nis": {
             "id": "Elektronska Industrija Nis",
             "name": "Elektronska Industrija Nis",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "ELEKTRONSKA INDUSTRIJA NIS",
+                    "Elektronska industrija NIS"
+                ]
+            }
         },
         "Emerson": {
             "id": "Emerson",
             "name": "Emerson",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Emerson"
+                ],
+                "oldcomputers": [
+                    "Emerson"
+                ]
+            }
         },
         "Enterprex": {
             "id": "Enterprex",
@@ -16029,17 +16207,35 @@
         "Enterprise": {
             "id": "Enterprise",
             "name": "Enterprise",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Enterprise"
+                ]
+            }
         },
         "Entex": {
             "id": "Entex",
             "name": "Entex",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Entex"
+                ],
+                "oldcomputers": [
+                    "ENTEX"
+                ]
+            }
         },
         "Epoch": {
             "id": "Epoch",
             "name": "Epoch",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "Epoch"
+                ],
+                "oldcomputers": [
+                    "Epoch"
+                ]
+            }
         },
         "Epson": {
             "id": "Epson",
@@ -16059,17 +16255,44 @@
         "Exelvision": {
             "id": "Exelvision",
             "name": "Exelvision",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Exelvision"
+                ],
+                "launchbox": [
+                    "Exelvision"
+                ],
+                "oldcomputers": [
+                    "Exelvision"
+                ]
+            }
         },
         "Exidy": {
             "id": "Exidy",
             "name": "Exidy",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Exidy"
+                ],
+                "launchbox": [
+                    "Exidy"
+                ],
+                "oldcomputers": [
+                    "Exidy"
+                ]
+            }
         },
         "Fairchild": {
             "id": "Fairchild",
             "name": "Fairchild",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Fairchild"
+                ],
+                "oldcomputers": [
+                    "Fairchild"
+                ]
+            }
         },
         "Fairlight": {
             "id": "Fairlight",
@@ -16094,7 +16317,11 @@
         "Franklin": {
             "id": "Franklin",
             "name": "Franklin",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Franklin"
+                ]
+            }
         },
         "Front Fareast": {
             "id": "Front Fareast",
@@ -16109,7 +16336,17 @@
         "Fujitsu": {
             "id": "Fujitsu",
             "name": "Fujitsu",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Fujitsu"
+                ],
+                "launchbox": [
+                    "Fujitsu"
+                ],
+                "oldcomputers": [
+                    "Fujitsu"
+                ]
+            }
         },
         "Fukutake Publishing": {
             "id": "Fukutake Publishing",
@@ -16119,7 +16356,11 @@
         "Funtech": {
             "id": "Funtech",
             "name": "Funtech",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "Funtech"
+                ]
+            }
         },
         "GCE": {
             "id": "GCE",
@@ -16134,12 +16375,23 @@
         "Gakken": {
             "id": "Gakken",
             "name": "Gakken",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Gakken"
+                ]
+            }
         },
         "Galaksija": {
             "id": "Galaksija",
             "name": "Galaksija",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Galaksija"
+                ],
+                "oldcomputers": [
+                    "GALAKSIJA"
+                ]
+            }
         },
         "GamePark": {
             "id": "GamePark",
@@ -16164,7 +16416,12 @@
         "Grundy": {
             "id": "Grundy",
             "name": "Grundy",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "GRUNDY",
+                    "Grundy"
+                ]
+            }
         },
         "Gundam": {
             "id": "Gundam",
@@ -16179,12 +16436,23 @@
         "Hanimex": {
             "id": "Hanimex",
             "name": "Hanimex",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Hanimex"
+                ]
+            }
         },
         "Hartung": {
             "id": "Hartung",
             "name": "Hartung",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Hartung"
+                ],
+                "launchbox": [
+                    "Hartung"
+                ]
+            }
         },
         "Hawthorne Technology": {
             "id": "Hawthorne Technology",
@@ -16204,22 +16472,41 @@
         "Hitachi": {
             "id": "Hitachi",
             "name": "Hitachi",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Hitachi"
+                ]
+            }
         },
         "HomeLab": {
             "id": "HomeLab",
             "name": "HomeLab",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "HomeLAB"
+                ]
+            }
         },
         "IBM": {
             "id": "IBM",
             "name": "IBM",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "IBM"
+                ],
+                "oldcomputers": [
+                    "IBM"
+                ]
+            }
         },
         "ITT": {
             "id": "ITT",
             "name": "ITT",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "ITT"
+                ]
+            }
         },
         "Incredible Technologies": {
             "id": "Incredible Technologies",
@@ -16244,7 +16531,14 @@
         "Interact": {
             "id": "Interact",
             "name": "Interact",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Interact"
+                ],
+                "oldcomputers": [
+                    "Interact"
+                ]
+            }
         },
         "Intergraph": {
             "id": "Intergraph",
@@ -16254,7 +16548,17 @@
         "Interton": {
             "id": "Interton",
             "name": "Interton",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Interton"
+                ],
+                "launchbox": [
+                    "Interton"
+                ],
+                "oldcomputers": [
+                    "INTERTON"
+                ]
+            }
         },
         "Itautec": {
             "id": "Itautec",
@@ -16289,12 +16593,27 @@
         "Jupiter Cantab": {
             "id": "Jupiter Cantab",
             "name": "Jupiter Cantab",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Jupiter Cantab"
+                ],
+                "launchbox": [
+                    "Jupiter Cantab"
+                ],
+                "oldcomputers": [
+                    "JUPITER CANTAB",
+                    "Jupiter Cantab"
+                ]
+            }
         },
         "Kaypro": {
             "id": "Kaypro",
             "name": "Kaypro",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Kaypro"
+                ]
+            }
         },
         "Keio University": {
             "id": "Keio University",
@@ -16314,7 +16633,12 @@
         "Kontron": {
             "id": "Kontron",
             "name": "Kontron",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "KONTRON",
+                    "Kontron"
+                ]
+            }
         },
         "LSI": {
             "id": "LSI",
@@ -16334,7 +16658,11 @@
         "Luxor": {
             "id": "Luxor",
             "name": "Luxor",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Luxor"
+                ]
+            }
         },
         "Lviv": {
             "id": "Lviv",
@@ -16354,12 +16682,20 @@
         "MGT": {
             "id": "MGT",
             "name": "MGT",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "MGT"
+                ]
+            }
         },
         "MITS": {
             "id": "MITS",
             "name": "MITS",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "MITS"
+                ]
+            }
         },
         "MOS": {
             "id": "MOS",
@@ -16369,12 +16705,24 @@
         "MSX": {
             "id": "MSX",
             "name": "MSX",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "MSX"
+                ]
+            }
         },
         "Magnavox": {
             "id": "Magnavox",
             "name": "Magnavox",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "Magnavox"
+                ],
+                "oldcomputers": [
+                    "MAGNAVOX",
+                    "Magnavox"
+                ]
+            }
         },
         "Manfred Kramer": {
             "id": "Manfred Kramer",
@@ -16384,17 +16732,36 @@
         "Matra Hachette": {
             "id": "Matra Hachette",
             "name": "Matra Hachette",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Matra Hachette"
+                ]
+            }
         },
         "Matsushita": {
             "id": "Matsushita",
             "name": "Matsushita",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "Matsushita"
+                ],
+                "oldcomputers": [
+                    "MATSUSHITA",
+                    "Matsushita"
+                ]
+            }
         },
         "Mattel": {
             "id": "Mattel",
             "name": "Mattel",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Mattel"
+                ],
+                "launchbox": [
+                    "Mattel"
+                ]
+            }
         },
         "Megatel": {
             "id": "Megatel",
@@ -16409,7 +16776,18 @@
         "Memotech": {
             "id": "Memotech",
             "name": "Memotech",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Memotech"
+                ],
+                "launchbox": [
+                    "Memotech"
+                ],
+                "oldcomputers": [
+                    "MEMOTECH",
+                    "Memotech"
+                ]
+            }
         },
         "Mephisto": {
             "id": "Mephisto",
@@ -16419,12 +16797,26 @@
         "Microkey": {
             "id": "Microkey",
             "name": "Microkey",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Microkey"
+                ]
+            }
         },
         "Microsoft": {
             "id": "Microsoft",
             "name": "Microsoft",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Microsoft"
+                ],
+                "emulationking": [
+                    "microsoft"
+                ],
+                "launchbox": [
+                    "Microsoft"
+                ]
+            }
         },
         "Microtan": {
             "id": "Microtan",
@@ -16444,7 +16836,11 @@
         "Milton Bradley": {
             "id": "Milton Bradley",
             "name": "Milton Bradley",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Milton Bradley"
+                ]
+            }
         },
         "Mindset Corporation": {
             "id": "Mindset Corporation",
@@ -16454,7 +16850,11 @@
         "Mitsubishi": {
             "id": "Mitsubishi",
             "name": "Mitsubishi",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Mitsubishi"
+                ]
+            }
         },
         "Morrow": {
             "id": "Morrow",
@@ -16464,7 +16864,14 @@
         "Motorola": {
             "id": "Motorola",
             "name": "Motorola",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "Motorola"
+                ],
+                "oldcomputers": [
+                    "Motorola"
+                ]
+            }
         },
         "Mr. Isizu": {
             "id": "Mr. Isizu",
@@ -16474,17 +16881,38 @@
         "NCR": {
             "id": "NCR",
             "name": "NCR",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "NCR"
+                ]
+            }
         },
         "NEC": {
             "id": "NEC",
             "name": "NEC",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "NEC"
+                ],
+                "launchbox": [
+                    "NEC"
+                ],
+                "oldcomputers": [
+                    "NEC"
+                ]
+            }
         },
         "Namco": {
             "id": "Namco",
             "name": "Namco",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Namco"
+                ],
+                "launchbox": [
+                    "Namco"
+                ]
+            }
         },
         "Namco-Sega-Nintendo": {
             "id": "Namco-Sega-Nintendo",
@@ -16504,17 +16932,45 @@
         "Nintendo": {
             "id": "Nintendo",
             "name": "Nintendo",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Nintendo"
+                ],
+                "emulationking": [
+                    "nintendo"
+                ],
+                "launchbox": [
+                    "Nintendo"
+                ],
+                "oldcomputers": [
+                    "Nintendo"
+                ]
+            }
         },
         "Nokia": {
             "id": "Nokia",
             "name": "Nokia",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Nokia"
+                ],
+                "launchbox": [
+                    "Nokia"
+                ],
+                "oldcomputers": [
+                    "NOKIA",
+                    "Nokia"
+                ]
+            }
         },
         "NorthStar": {
             "id": "NorthStar",
             "name": "NorthStar",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Northstar"
+                ]
+            }
         },
         "Nuclear Data": {
             "id": "Nuclear Data",
@@ -16539,12 +16995,20 @@
         "Ohio Scientific": {
             "id": "Ohio Scientific",
             "name": "Ohio Scientific",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "OHIO Scientific"
+                ]
+            }
         },
         "Olivetti": {
             "id": "Olivetti",
             "name": "Olivetti",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Olivetti"
+                ]
+            }
         },
         "Ondra": {
             "id": "Ondra",
@@ -16559,7 +17023,11 @@
         "Otrona": {
             "id": "Otrona",
             "name": "Otrona",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Otrona"
+                ]
+            }
         },
         "PDC": {
             "id": "PDC",
@@ -16569,7 +17037,12 @@
         "PEL Varazdin": {
             "id": "PEL Varazdin",
             "name": "PEL Varazdin",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "PEL VARAZDIN",
+                    "PEL Varazdin"
+                ]
+            }
         },
         "PTC": {
             "id": "PTC",
@@ -16584,7 +17057,14 @@
         "Panasonic": {
             "id": "Panasonic",
             "name": "Panasonic",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Panasonic"
+                ],
+                "oldcomputers": [
+                    "Panasonic"
+                ]
+            }
         },
         "Patisonic": {
             "id": "Patisonic",
@@ -16599,27 +17079,53 @@
         "Philips": {
             "id": "Philips",
             "name": "Philips",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Philips"
+                ],
+                "launchbox": [
+                    "Philips"
+                ],
+                "oldcomputers": [
+                    "Philips"
+                ]
+            }
         },
         "Pinball": {
             "id": "Pinball",
             "name": "Pinball",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Pinball"
+                ]
+            }
         },
         "Pioneer": {
             "id": "Pioneer",
             "name": "Pioneer",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Pioneer"
+                ]
+            }
         },
         "Pravetz": {
             "id": "Pravetz",
             "name": "Pravetz",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Pravetz"
+                ]
+            }
         },
         "Psion": {
             "id": "Psion",
             "name": "Psion",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "PSION"
+                ]
+            }
         },
         "Publications International Ltd": {
             "id": "Publications International Ltd",
@@ -16629,7 +17135,17 @@
         "RCA": {
             "id": "RCA",
             "name": "RCA",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "RCA"
+                ],
+                "launchbox": [
+                    "RCA"
+                ],
+                "oldcomputers": [
+                    "RCA"
+                ]
+            }
         },
         "RM": {
             "id": "RM",
@@ -16659,7 +17175,11 @@
         "Regnecentralen": {
             "id": "Regnecentralen",
             "name": "Regnecentralen",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Regnecentralen"
+                ]
+            }
         },
         "Retroleum": {
             "id": "Retroleum",
@@ -16669,17 +17189,33 @@
         "Robotron": {
             "id": "Robotron",
             "name": "Robotron",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Robotron"
+                ],
+                "oldcomputers": [
+                    "Robotron"
+                ]
+            }
         },
         "Rockwell": {
             "id": "Rockwell",
             "name": "Rockwell",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Rockwell"
+                ]
+            }
         },
         "Rowtron": {
             "id": "Rowtron",
             "name": "Rowtron",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "ROWTRON",
+                    "Rowtron"
+                ]
+            }
         },
         "SABA": {
             "id": "SABA",
@@ -16699,7 +17235,17 @@
         "SNK": {
             "id": "SNK",
             "name": "SNK",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "SNK"
+                ],
+                "launchbox": [
+                    "SNK"
+                ],
+                "oldcomputers": [
+                    "SNK"
+                ]
+            }
         },
         "SSD": {
             "id": "SSD",
@@ -16719,7 +17265,11 @@
         "Saitek": {
             "id": "Saitek",
             "name": "Saitek",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Saitek"
+                ]
+            }
         },
         "Sammy": {
             "id": "Sammy",
@@ -16729,17 +17279,38 @@
         "Samsung": {
             "id": "Samsung",
             "name": "Samsung",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Samsung"
+                ]
+            }
         },
         "Sanyo": {
             "id": "Sanyo",
             "name": "Sanyo",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Sanyo"
+                ]
+            }
         },
         "Sega": {
             "id": "Sega",
             "name": "Sega",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Sega"
+                ],
+                "emulationking": [
+                    "sega"
+                ],
+                "launchbox": [
+                    "Sega"
+                ],
+                "oldcomputers": [
+                    "Sega"
+                ]
+            }
         },
         "Seta": {
             "id": "Seta",
@@ -16749,32 +17320,83 @@
         "Sharp": {
             "id": "Sharp",
             "name": "Sharp",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Sharp"
+                ],
+                "launchbox": [
+                    "Sharp"
+                ],
+                "oldcomputers": [
+                    "Sharp"
+                ]
+            }
         },
         "Siemens": {
             "id": "Siemens",
             "name": "Siemens",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Siemens"
+                ]
+            }
         },
         "Sinclair": {
             "id": "Sinclair",
             "name": "Sinclair",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Sinclair"
+                ],
+                "launchbox": [
+                    "Sinclair"
+                ],
+                "oldcomputers": [
+                    "Sinclair"
+                ]
+            }
         },
         "Sony": {
             "id": "Sony",
             "name": "Sony",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Sony"
+                ],
+                "emulationking": [
+                    "sony"
+                ],
+                "launchbox": [
+                    "Sony"
+                ],
+                "oldcomputers": [
+                    "Sony"
+                ]
+            }
         },
         "Sord": {
             "id": "Sord",
             "name": "Sord",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Sord"
+                ],
+                "oldcomputers": [
+                    "Sord"
+                ]
+            }
         },
         "Spectravideo": {
             "id": "Spectravideo",
             "name": "Spectravideo",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Spectravideo"
+                ],
+                "oldcomputers": [
+                    "Spectravideo"
+                ]
+            }
         },
         "TAB-Austria": {
             "id": "TAB-Austria",
@@ -16789,7 +17411,11 @@
         "Taito": {
             "id": "Taito",
             "name": "Taito",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Taito"
+                ]
+            }
         },
         "Takara": {
             "id": "Takara",
@@ -16804,22 +17430,42 @@
         "Tandy Radio Shack": {
             "id": "Tandy Radio Shack",
             "name": "Tandy Radio Shack",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Tandy Radio Shack"
+                ]
+            }
         },
         "Tangerine": {
             "id": "Tangerine",
             "name": "Tangerine",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "TANGERINE",
+                    "Tangerine"
+                ]
+            }
         },
         "Tapwave": {
             "id": "Tapwave",
             "name": "Tapwave",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "Tapwave"
+                ]
+            }
         },
         "Tatung": {
             "id": "Tatung",
             "name": "Tatung",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Tatung"
+                ],
+                "oldcomputers": [
+                    "Tatung"
+                ]
+            }
         },
         "Technosys": {
             "id": "Technosys",
@@ -16844,7 +17490,11 @@
         "Telenova": {
             "id": "Telenova",
             "name": "Telenova",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Telenova"
+                ]
+            }
         },
         "Telmac": {
             "id": "Telmac",
@@ -16859,22 +17509,53 @@
         "Tesla": {
             "id": "Tesla",
             "name": "Tesla",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Tesla"
+                ],
+                "oldcomputers": [
+                    "Tesla"
+                ]
+            }
         },
         "Texas Instruments": {
             "id": "Texas Instruments",
             "name": "Texas Instruments",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Texas Instruments"
+                ],
+                "launchbox": [
+                    "Texas Instruments"
+                ],
+                "oldcomputers": [
+                    "Texas Instruments"
+                ]
+            }
         },
         "Thomson": {
             "id": "Thomson",
             "name": "Thomson",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Thomson"
+                ],
+                "oldcomputers": [
+                    "Thomson"
+                ]
+            }
         },
         "Tiger Electronics": {
             "id": "Tiger Electronics",
             "name": "Tiger Electronics",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Tiger Electronics"
+                ],
+                "launchbox": [
+                    "Tiger Electronics"
+                ]
+            }
         },
         "Tiki Data": {
             "id": "Tiki Data",
@@ -16894,7 +17575,17 @@
         "Tomy": {
             "id": "Tomy",
             "name": "Tomy",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Tomy"
+                ],
+                "launchbox": [
+                    "Tomy"
+                ],
+                "oldcomputers": [
+                    "Tomy"
+                ]
+            }
         },
         "Torch": {
             "id": "Torch",
@@ -16904,7 +17595,11 @@
         "Toshiba": {
             "id": "Toshiba",
             "name": "Toshiba",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Toshiba"
+                ]
+            }
         },
         "Touhou": {
             "id": "Touhou",
@@ -16924,7 +17619,11 @@
         "Tsukuda Original": {
             "id": "Tsukuda Original",
             "name": "Tsukuda Original",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "Tsukuda Original"
+                ]
+            }
         },
         "UNIVAC": {
             "id": "UNIVAC",
@@ -16964,7 +17663,11 @@
         "VM Labs": {
             "id": "VM Labs",
             "name": "VM Labs",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "VM Labs"
+                ]
+            }
         },
         "VM-Labs": {
             "id": "VM-Labs",
@@ -16974,12 +17677,24 @@
         "VTech": {
             "id": "VTech",
             "name": "VTech",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "VTech",
+                    "Vtech"
+                ],
+                "launchbox": [
+                    "VTech"
+                ]
+            }
         },
         "Victor": {
             "id": "Victor",
             "name": "Victor",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Victor"
+                ]
+            }
         },
         "VideoBrain": {
             "id": "VideoBrain",
@@ -16989,17 +17704,34 @@
         "Videoton": {
             "id": "Videoton",
             "name": "Videoton",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Videoton"
+                ],
+                "oldcomputers": [
+                    "Videoton"
+                ]
+            }
         },
         "Visual Technology": {
             "id": "Visual Technology",
             "name": "Visual Technology",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "VISUAL TECHNOLOGY",
+                    "Visual Technology"
+                ]
+            }
         },
         "Voltmace": {
             "id": "Voltmace",
             "name": "Voltmace",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "VOLTMACE",
+                    "Voltmace"
+                ]
+            }
         },
         "Wang": {
             "id": "Wang",
@@ -17009,7 +17741,14 @@
         "Watara": {
             "id": "Watara",
             "name": "Watara",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Watara"
+                ],
+                "launchbox": [
+                    "Watara"
+                ]
+            }
         },
         "WaveMate": {
             "id": "WaveMate",
@@ -17039,22 +17778,38 @@
         "Xerox": {
             "id": "Xerox",
             "name": "Xerox",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Xerox"
+                ]
+            }
         },
         "Yamaha": {
             "id": "Yamaha",
             "name": "Yamaha",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Yamaha"
+                ]
+            }
         },
         "Yeno": {
             "id": "Yeno",
             "name": "Yeno",
-            "matches": []
+            "matches": {
+                "oldcomputers": [
+                    "Yeno"
+                ]
+            }
         },
         "ZAPiT Games": {
             "id": "ZAPiT Games",
             "name": "ZAPiT Games",
-            "matches": []
+            "matches": {
+                "launchbox": [
+                    "ZAPiT Games"
+                ]
+            }
         },
         "Zeebo": {
             "id": "Zeebo",
@@ -17127,6 +17882,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "4do"
+                ],
+                "launchbox": [
+                    "4DO"
                 ]
             }
         },
@@ -17170,6 +17928,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ace"
+                ],
+                "oldcomputers": [
+                    "ACE"
                 ]
             }
         },
@@ -17183,6 +17944,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ace32"
+                ],
+                "oldcomputers": [
+                    "ACE32"
                 ]
             }
         },
@@ -17209,6 +17973,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "adamem"
+                ],
+                "oldcomputers": [
+                    "ADAMEm"
                 ]
             }
         },
@@ -17333,6 +18100,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "altirra"
+                ],
+                "emulationking": [
+                    "altirra"
+                ],
+                "oldcomputers": [
+                    "Altirra"
                 ]
             }
         },
@@ -17424,6 +18197,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "applewin"
+                ],
+                "emulationstation-de": [
+                    "AppleWin"
+                ],
+                "oldcomputers": [
+                    "AppleWin"
                 ]
             }
         },
@@ -17450,6 +18229,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "aqemu"
+                ],
+                "oldcomputers": [
+                    "AqEmu"
                 ]
             }
         },
@@ -17464,6 +18246,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "aranym"
+                ],
+                "oldcomputers": [
+                    "ARAnyM"
                 ]
             }
         },
@@ -17490,6 +18275,10 @@
             "matches": {
                 "emucontrolcenter": [
                     "archie"
+                ],
+                "oldcomputers": [
+                    "ARCHIE",
+                    "Archie"
                 ]
             }
         },
@@ -17503,6 +18292,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "arculator"
+                ],
+                "oldcomputers": [
+                    "Arculator"
                 ]
             }
         },
@@ -17516,6 +18308,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "arnimedes"
+                ],
+                "oldcomputers": [
+                    "Arnimedes"
                 ]
             }
         },
@@ -17529,6 +18324,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "arnold"
+                ],
+                "oldcomputers": [
+                    "Arnold"
                 ]
             }
         },
@@ -17543,6 +18341,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ascd"
+                ],
+                "oldcomputers": [
+                    "ASCD"
                 ]
             }
         },
@@ -17570,6 +18371,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "atari800"
+                ],
+                "emulationking": [
+                    "atari800"
+                ],
+                "emulationstation-de": [
+                    "Atari800"
+                ],
+                "oldcomputers": [
+                    "Atari800"
                 ]
             }
         },
@@ -17598,6 +18408,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "atariplusplus"
+                ],
+                "emulationking": [
+                    "atariplusplus"
+                ],
+                "oldcomputers": [
+                    "Atari++"
                 ]
             }
         },
@@ -17650,6 +18466,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "basiliskii"
+                ],
+                "emulationstation-de": [
+                    "Basilisk II"
+                ],
+                "oldcomputers": [
+                    "Basilisk II"
                 ]
             }
         },
@@ -17663,6 +18485,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "beebem"
+                ],
+                "oldcomputers": [
+                    "BeebEm"
                 ]
             }
         },
@@ -17702,6 +18527,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "bgb"
+                ],
+                "emulationking": [
                     "bgb"
                 ]
             }
@@ -17751,6 +18579,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "blastem"
+                ],
+                "emulationking": [
+                    "blastem"
                 ]
             }
         },
@@ -17764,6 +18595,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "bliss"
+                ],
+                "oldcomputers": [
+                    "Bliss"
                 ]
             }
         },
@@ -17797,6 +18631,10 @@
             "matches": {
                 "emucontrolcenter": [
                     "bluemsx"
+                ],
+                "oldcomputers": [
+                    "BlueMSX",
+                    "blueMSX"
                 ]
             }
         },
@@ -17810,6 +18648,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "boycottadv"
+                ],
+                "emulationking": [
+                    "boycottadvance"
                 ]
             }
         },
@@ -17823,6 +18664,12 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "bsnes"
+                ],
+                "emulationstation-de": [
+                    "bsnes"
+                ],
+                "launchbox": [
                     "bsnes"
                 ]
             }
@@ -17968,6 +18815,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "caprice32"
+                ],
+                "oldcomputers": [
+                    "CaPriCe32"
                 ]
             }
         },
@@ -17982,6 +18832,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ccs64"
+                ],
+                "oldcomputers": [
+                    "CCS64"
                 ]
             }
         },
@@ -18008,6 +18861,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "cemu"
+                ],
+                "emulationking": [
+                    "cemu"
+                ],
+                "emulationstation-de": [
+                    "Cemu"
+                ],
+                "launchbox": [
+                    "Cemu"
                 ]
             }
         },
@@ -18021,6 +18883,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "chankast"
+                ],
+                "emulationking": [
+                    "chankast"
+                ],
+                "oldcomputers": [
+                    "Chankast"
                 ]
             }
         },
@@ -18034,6 +18902,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "citra"
+                ],
+                "emulationking": [
+                    "citra"
+                ],
+                "emulationstation-de": [
+                    "Citra"
                 ]
             }
         },
@@ -18047,6 +18921,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "classic99"
+                ],
+                "oldcomputers": [
+                    "Classic99"
                 ]
             }
         },
@@ -18076,6 +18953,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "colem"
+                ],
+                "oldcomputers": [
+                    "COLEM"
                 ]
             }
         },
@@ -18156,6 +19036,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "cpce"
+                ],
+                "oldcomputers": [
+                    "CPCE"
                 ]
             }
         },
@@ -18182,6 +19065,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "cpcemu"
+                ],
+                "emulationstation-de": [
+                    "CPCemu"
                 ]
             }
         },
@@ -18260,6 +19146,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "cxbx"
+                ],
+                "emulationking": [
+                    "cxbx"
                 ]
             }
         },
@@ -18287,6 +19176,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "cygne"
+                ],
+                "oldcomputers": [
+                    "Cygne"
                 ]
             }
         },
@@ -18326,6 +19218,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dapple"
+                ],
+                "oldcomputers": [
+                    "Dapple"
                 ]
             }
         },
@@ -18352,6 +19247,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dcalice"
+                ],
+                "oldcomputers": [
+                    "DCAlice"
                 ]
             }
         },
@@ -18378,6 +19276,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dchector"
+                ],
+                "oldcomputers": [
+                    "DCHector"
                 ]
             }
         },
@@ -18405,6 +19306,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dcmo5"
+                ],
+                "oldcomputers": [
+                    "DCMO5"
                 ]
             }
         },
@@ -18418,6 +19322,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dcmoto"
+                ],
+                "oldcomputers": [
+                    "DCMOTO"
                 ]
             }
         },
@@ -18431,6 +19338,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dcvg5k"
+                ],
+                "oldcomputers": [
+                    "DCVG5K"
                 ]
             }
         },
@@ -18445,6 +19355,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dega"
+                ],
+                "oldcomputers": [
+                    "Dega"
                 ]
             }
         },
@@ -18460,6 +19373,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "demul"
+                ],
+                "emulationking": [
+                    "demul"
+                ],
+                "launchbox": [
+                    "Demul"
                 ]
             }
         },
@@ -18472,6 +19391,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "desmume"
+                ],
+                "emulationking": [
                     "desmume"
                 ]
             }
@@ -18541,6 +19463,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "dolphin"
+                ],
+                "emulationking": [
+                    "dolphin"
+                ],
+                "emulationstation-de": [
+                    "Dolphin"
+                ],
+                "launchbox": [
+                    "Dolphin"
                 ]
             }
         },
@@ -18553,6 +19484,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "dolwin"
+                ],
+                "emulationking": [
                     "dolwin"
                 ]
             }
@@ -18567,6 +19501,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dosbox"
+                ],
+                "oldcomputers": [
+                    "DOSBox"
                 ]
             }
         },
@@ -18618,6 +19555,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "dreamgba"
+                ],
+                "emulationking": [
                     "dreamgba"
                 ]
             }
@@ -18692,6 +19632,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "dualis"
+                ],
+                "emulationking": [
+                    "dualis-emulator"
                 ]
             }
         },
@@ -18721,6 +19664,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "eightyone"
+                ],
+                "oldcomputers": [
+                    "EightyOne"
                 ]
             }
         },
@@ -18734,6 +19680,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "electrem"
+                ],
+                "oldcomputers": [
+                    "ElectrEm"
                 ]
             }
         },
@@ -18748,6 +19697,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "elf"
+                ],
+                "oldcomputers": [
+                    "RCS Elf Emulator"
                 ]
             }
         },
@@ -18820,6 +19772,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "emu2001"
+                ],
+                "oldcomputers": [
+                    "Emulator2001"
                 ]
             }
         },
@@ -18846,6 +19801,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "emu7800"
+                ],
+                "emulationking": [
                     "emu7800"
                 ]
             }
@@ -18892,6 +19850,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "emuz2000"
+                ],
+                "oldcomputers": [
+                    "EMUZ-2000"
                 ]
             }
         },
@@ -18933,6 +19894,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ep128emu"
+                ],
+                "oldcomputers": [
+                    "EP128EMU"
                 ]
             }
         },
@@ -18945,6 +19909,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "ep32"
+                ],
+                "oldcomputers": [
                     "ep32"
                 ]
             }
@@ -18959,6 +19926,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "epsxe"
+                ],
+                "emulationking": [
+                    "epsxe"
+                ],
+                "launchbox": [
+                    "ePSXe"
+                ],
+                "oldcomputers": [
+                    "ePSXe"
                 ]
             }
         },
@@ -18972,6 +19948,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "euphoric"
+                ],
+                "oldcomputers": [
+                    "Euphoric"
                 ]
             }
         },
@@ -18997,6 +19976,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "exodus"
+                ],
+                "emulationking": [
                     "exodus"
                 ]
             }
@@ -19106,6 +20088,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "fceux"
+                ],
+                "emulationking": [
+                    "fceux"
+                ],
+                "launchbox": [
+                    "FCEUX"
                 ]
             }
         },
@@ -19160,6 +20148,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "free64"
+                ],
+                "oldcomputers": [
+                    "Free64"
                 ]
             }
         },
@@ -19173,6 +20164,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "freedo"
+                ],
+                "oldcomputers": [
+                    "FreeDO"
                 ]
             }
         },
@@ -19227,6 +20221,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "fuse"
+                ],
+                "oldcomputers": [
+                    "FUSE"
                 ]
             }
         },
@@ -19253,6 +20250,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "galaxywin"
+                ],
+                "oldcomputers": [
+                    "Galaxy Win"
                 ]
             }
         },
@@ -19295,6 +20295,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "gbeplus"
+                ],
+                "emulationking": [
+                    "gbeplus"
                 ]
             }
         },
@@ -19307,6 +20310,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "gcemu"
+                ],
+                "emulationking": [
                     "gcemu"
                 ]
             }
@@ -19321,6 +20327,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "gcube"
+                ],
+                "emulationking": [
+                    "gcube"
                 ]
             }
         },
@@ -19334,6 +20343,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "gearsystem"
+                ],
+                "emulationking": [
                     "gearsystem"
                 ]
             }
@@ -19361,6 +20373,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "gekko"
+                ],
+                "emulationking": [
+                    "gekko"
                 ]
             }
         },
@@ -19376,6 +20391,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "gemulator"
+                ],
+                "oldcomputers": [
+                    "Gemulator"
                 ]
             }
         },
@@ -19389,6 +20407,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "genesisplus"
+                ],
+                "emulationking": [
+                    "genesis-plus"
                 ]
             }
         },
@@ -19417,6 +20438,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "gens"
+                ],
+                "oldcomputers": [
+                    "Gens"
                 ]
             }
         },
@@ -19433,6 +20457,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "gens32"
+                ],
+                "emulationking": [
                     "gens32"
                 ]
             }
@@ -19481,6 +20508,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "gest"
+                ],
+                "emulationking": [
+                    "gest"
                 ]
             }
         },
@@ -19521,6 +20551,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "handy"
+                ],
+                "emulationking": [
+                    "handy"
+                ],
+                "oldcomputers": [
+                    "Handy"
                 ]
             }
         },
@@ -19535,6 +20571,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "hatari"
+                ],
+                "oldcomputers": [
+                    "Hatari"
                 ]
             }
         },
@@ -19581,6 +20620,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "higan"
+                ],
+                "emulationking": [
+                    "higan"
+                ],
+                "launchbox": [
+                    "Higan"
                 ]
             }
         },
@@ -19727,6 +20772,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ideas"
+                ],
+                "emulationking": [
+                    "ideas-emulator"
                 ]
             }
         },
@@ -19818,6 +20866,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "jagulator"
+                ],
+                "emulationking": [
+                    "jagulator"
                 ]
             }
         },
@@ -19844,6 +20895,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "jnes"
+                ],
+                "emulationking": [
+                    "jnes"
+                ],
+                "oldcomputers": [
+                    "JNES"
                 ]
             }
         },
@@ -19857,6 +20914,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "joyce"
+                ],
+                "oldcomputers": [
+                    "Joyce"
                 ]
             }
         },
@@ -19869,6 +20929,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "jpcsp"
+                ],
+                "emulationking": [
                     "jpcsp"
                 ]
             }
@@ -19895,6 +20958,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "jum52"
+                ],
+                "emulationking": [
                     "jum52"
                 ]
             }
@@ -19935,6 +21001,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "jzintv"
+                ],
+                "oldcomputers": [
+                    "jzINTV"
                 ]
             }
         },
@@ -19947,6 +21016,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "kat5200"
+                ],
+                "emulationking": [
                     "kat5200"
                 ]
             }
@@ -19994,6 +21066,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "kegafusion"
+                ],
+                "emulationking": [
+                    "kega-fusion"
+                ],
+                "launchbox": [
+                    "Kega Fusion"
                 ]
             }
         },
@@ -20022,6 +21100,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "kegs32"
+                ],
+                "oldcomputers": [
+                    "KEGS32"
                 ]
             }
         },
@@ -20035,6 +21116,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "kigb"
+                ],
+                "emulationking": [
                     "kigb"
                 ]
             }
@@ -20118,6 +21202,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "lisaem"
+                ],
+                "oldcomputers": [
+                    "LisaEm"
                 ]
             }
         },
@@ -20145,6 +21232,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "m2emulator"
+                ],
+                "launchbox": [
+                    "Sega Model 2 Emulator"
                 ]
             }
         },
@@ -20369,6 +21459,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "mame"
+                ],
+                "emulationstation-de": [
+                    "MAME"
+                ],
+                "launchbox": [
+                    "MAME"
+                ],
+                "oldcomputers": [
+                    "MAME"
                 ]
             }
         },
@@ -20427,6 +21526,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "mednafen"
+                ],
+                "emulationstation-de": [
+                    "Mednafen"
                 ]
             }
         },
@@ -20486,6 +21588,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "meka"
+                ],
+                "oldcomputers": [
+                    "MEKA"
                 ]
             }
         },
@@ -20499,6 +21604,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "melonds"
+                ],
+                "emulationstation-de": [
+                    "melonDS"
                 ]
             }
         },
@@ -20697,6 +21805,10 @@
             "matches": {
                 "emucontrolcenter": [
                     "mess"
+                ],
+                "oldcomputers": [
+                    "M.E.S.S.",
+                    "MESS"
                 ]
             }
         },
@@ -20725,6 +21837,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "mgba"
+                ],
+                "emulationking": [
+                    "mgba"
+                ],
+                "emulationstation-de": [
+                    "mGBA"
                 ]
             }
         },
@@ -20764,6 +21882,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "minivmac"
+                ],
+                "oldcomputers": [
+                    "Mini vMac"
                 ]
             }
         },
@@ -20816,6 +21937,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "mtxemu"
+                ],
+                "oldcomputers": [
+                    "Mt. Xemu"
                 ]
             }
         },
@@ -20842,6 +21966,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "mupen64plus"
+                ],
+                "emulationstation-de": [
+                    "Mupen64Plus"
                 ]
             }
         },
@@ -20924,6 +22051,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "nanowasp"
+                ],
+                "oldcomputers": [
+                    "NanoWasp"
                 ]
             }
         },
@@ -20953,6 +22083,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "nebula"
+                ],
+                "oldcomputers": [
+                    "Nebula"
                 ]
             }
         },
@@ -20993,6 +22126,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "nemulator"
+                ],
+                "emulationking": [
                     "nemulator"
                 ]
             }
@@ -21061,6 +22197,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "neopop"
+                ],
+                "oldcomputers": [
+                    "NeoPop"
                 ]
             }
         },
@@ -21113,6 +22252,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "nestopia"
+                ],
+                "emulationking": [
+                    "nestopia"
+                ],
+                "launchbox": [
+                    "Nestopia"
                 ]
             }
         },
@@ -21138,6 +22283,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "neutrinosx2"
+                ],
+                "emulationking": [
                     "neutrinosx2"
                 ]
             }
@@ -21178,6 +22326,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "nintendulator"
+                ],
+                "emulationking": [
+                    "nintendulator"
                 ]
             }
         },
@@ -21206,6 +22357,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "nnnesterj"
+                ],
+                "oldcomputers": [
+                    "NNNesterJ"
                 ]
             }
         },
@@ -21247,6 +22401,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "nocpc"
+                ],
+                "oldcomputers": [
+                    "NO$CPC"
                 ]
             }
         },
@@ -21261,6 +22418,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "nogba"
+                ],
+                "emulationking": [
                     "nogba"
                 ]
             }
@@ -21317,6 +22477,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "nopsx"
+                ],
+                "emulationking": [
+                    "nopsx"
                 ]
             }
         },
@@ -21343,6 +22506,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "nostalgia"
+                ],
+                "oldcomputers": [
+                    "Nostalgia"
                 ]
             }
         },
@@ -21384,6 +22550,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "nulldc"
+                ],
+                "emulationking": [
+                    "nulldc"
+                ],
+                "launchbox": [
+                    "nullDC"
+                ],
+                "oldcomputers": [
+                    "NullDC"
                 ]
             }
         },
@@ -21411,6 +22586,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "o2em"
+                ],
+                "oldcomputers": [
+                    "O2EM"
                 ]
             }
         },
@@ -21424,6 +22602,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ootake"
+                ],
+                "oldcomputers": [
+                    "Ootake"
                 ]
             }
         },
@@ -21437,6 +22618,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "oricutron"
+                ],
+                "emulationstation-de": [
+                    "Oricutron"
                 ]
             }
         },
@@ -21465,6 +22649,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "oswan"
+                ],
+                "oldcomputers": [
+                    "OSwan"
                 ]
             }
         },
@@ -21492,6 +22679,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "pale"
+                ],
+                "oldcomputers": [
+                    "PALE"
                 ]
             }
         },
@@ -21505,6 +22695,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "parajve"
+                ],
+                "oldcomputers": [
+                    "ParaJVE"
                 ]
             }
         },
@@ -21531,6 +22724,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "pc6001v"
+                ],
+                "oldcomputers": [
+                    "PC6001v"
                 ]
             }
         },
@@ -21596,6 +22792,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "pcae"
+                ],
+                "emulationking": [
+                    "pc-atari-emulator"
+                ],
+                "oldcomputers": [
+                    "PC Atari Emulator"
                 ]
             }
         },
@@ -21635,6 +22837,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "pcsp"
+                ],
+                "emulationking": [
+                    "pcsp"
                 ]
             }
         },
@@ -21661,6 +22866,18 @@
             "matches": {
                 "emucontrolcenter": [
                     "pcsx2"
+                ],
+                "emulationking": [
+                    "pcsx2"
+                ],
+                "emulationstation-de": [
+                    "PCSX2"
+                ],
+                "launchbox": [
+                    "PCSX2"
+                ],
+                "oldcomputers": [
+                    "PCSX2"
                 ]
             }
         },
@@ -21674,6 +22891,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "pcsxr"
+                ],
+                "emulationking": [
+                    "pcsx-reloaded"
+                ],
+                "launchbox": [
+                    "PCSX-Reloaded"
                 ]
             }
         },
@@ -21700,6 +22923,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "pearpc"
+                ],
+                "oldcomputers": [
+                    "PearPC"
                 ]
             }
         },
@@ -21850,6 +23076,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "ppsspp"
+                ],
+                "emulationking": [
+                    "ppsspp"
+                ],
+                "emulationstation-de": [
+                    "PPSSPP"
+                ],
+                "launchbox": [
+                    "PPSSPP"
                 ]
             }
         },
@@ -21863,6 +23098,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "project64"
+                ],
+                "emulationstation-de": [
+                    "Project64"
+                ],
+                "launchbox": [
+                    "Project64"
+                ],
+                "oldcomputers": [
+                    "Project64"
                 ]
             }
         },
@@ -21902,6 +23146,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "projecttempest"
+                ],
+                "emulationking": [
+                    "project-tempest"
+                ],
+                "oldcomputers": [
+                    "Project Tempest"
                 ]
             }
         },
@@ -21927,6 +23177,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "ps2emu"
+                ],
+                "emulationking": [
                     "ps2emu"
                 ]
             }
@@ -21967,6 +23220,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "psx"
+                ],
+                "emulationking": [
+                    "psx-emu"
+                ],
+                "oldcomputers": [
+                    "pSX"
                 ]
             }
         },
@@ -21979,6 +23238,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "psxeven"
+                ],
+                "emulationking": [
                     "psxeven"
                 ]
             }
@@ -22071,6 +23333,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "quasi88"
+                ],
+                "oldcomputers": [
+                    "QUASI88"
                 ]
             }
         },
@@ -22111,6 +23376,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "rainbow"
+                ],
+                "emulationking": [
+                    "rainbow"
                 ]
             }
         },
@@ -22124,6 +23392,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "rascalboyadv"
+                ],
+                "emulationking": [
+                    "rascalboy-advance"
                 ]
             }
         },
@@ -22190,6 +23461,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "redsquirrel"
+                ],
+                "oldcomputers": [
+                    "Red Squirrel"
                 ]
             }
         },
@@ -22250,6 +23524,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "rocknes"
+                ],
+                "oldcomputers": [
+                    "RockNES"
                 ]
             }
         },
@@ -22302,6 +23579,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "rpcs3"
+                ],
+                "emulationking": [
+                    "rpcs3"
+                ],
+                "launchbox": [
+                    "RPCS3"
                 ]
             }
         },
@@ -22328,6 +23611,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "saint"
+                ],
+                "oldcomputers": [
+                    "SainT"
                 ]
             }
         },
@@ -22341,6 +23627,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "satourne"
+                ],
+                "emulationking": [
+                    "satourne"
+                ],
+                "oldcomputers": [
+                    "Satourne"
                 ]
             }
         },
@@ -22354,6 +23646,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "saturnin"
+                ],
+                "oldcomputers": [
+                    "Saturnin"
                 ]
             }
         },
@@ -22367,6 +23662,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "scummvm"
+                ],
+                "emulationstation-de": [
+                    "ScummVM"
                 ]
             }
         },
@@ -22419,6 +23717,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "sheepshaver"
+                ],
+                "emulationstation-de": [
+                    "SheepShaver"
                 ]
             }
         },
@@ -22459,6 +23760,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "simh"
+                ],
+                "oldcomputers": [
+                    "SIMH"
                 ]
             }
         },
@@ -22498,6 +23802,18 @@
             "matches": {
                 "emucontrolcenter": [
                     "snes9x"
+                ],
+                "emulationking": [
+                    "snes9x"
+                ],
+                "emulationstation-de": [
+                    "Snes9x"
+                ],
+                "launchbox": [
+                    "Snes9x"
+                ],
+                "oldcomputers": [
+                    "Snes9x"
                 ]
             }
         },
@@ -22617,6 +23933,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "ssf"
+                ],
+                "emulationking": [
+                    "ssf"
+                ],
+                "oldcomputers": [
+                    "SSF"
                 ]
             }
         },
@@ -22630,6 +23952,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "steem"
+                ],
+                "oldcomputers": [
+                    "Steem"
                 ]
             }
         },
@@ -22656,6 +23981,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "stella"
+                ],
+                "emulationking": [
+                    "stella"
+                ],
+                "oldcomputers": [
+                    "Stella"
                 ]
             }
         },
@@ -22695,6 +24026,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "supergcube"
+                ],
+                "emulationking": [
+                    "supergcube"
                 ]
             }
         },
@@ -22708,6 +24042,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "supermodel"
+                ],
+                "emulationstation-de": [
+                    "Supermodel"
+                ],
+                "launchbox": [
+                    "Supermodel"
                 ]
             }
         },
@@ -22779,6 +24119,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "tgbdual"
+                ],
+                "emulationking": [
+                    "tgb-dual"
                 ]
             }
         },
@@ -22820,6 +24163,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "tronds"
+                ],
+                "emulationking": [
                     "tronds"
                 ]
             }
@@ -22893,6 +24239,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ubee512"
+                ],
+                "oldcomputers": [
+                    "uBee512"
                 ]
             }
         },
@@ -22919,6 +24268,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "ultimo"
+                ],
+                "oldcomputers": [
+                    "Ultimo"
                 ]
             }
         },
@@ -23036,6 +24388,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "vaquarius"
+                ],
+                "oldcomputers": [
+                    "Virtual Aquarius"
                 ]
             }
         },
@@ -23091,6 +24446,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "vbjin"
+                ],
+                "emulationking": [
+                    "vbjin"
                 ]
             }
         },
@@ -23135,6 +24493,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "vecx"
+                ],
+                "oldcomputers": [
+                    "VECX"
                 ]
             }
         },
@@ -23214,6 +24575,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "virtpanajr"
+                ],
+                "oldcomputers": [
+                    "Virtual Panasonic JR-200U"
                 ]
             }
         },
@@ -23253,6 +24617,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "virtualapf"
+                ],
+                "oldcomputers": [
+                    "Virtual APF"
                 ]
             }
         },
@@ -23266,6 +24633,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "virtualjaguar"
+                ],
+                "emulationking": [
+                    "virtualjaguar"
+                ],
+                "oldcomputers": [
+                    "Virtual Jaguar"
                 ]
             }
         },
@@ -23292,6 +24665,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "virtualnectrek"
+                ],
+                "oldcomputers": [
+                    "Virtual NEC Trek"
                 ]
             }
         },
@@ -23429,6 +24805,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "vzem"
+                ],
+                "oldcomputers": [
+                    "VZEM"
                 ]
             }
         },
@@ -23468,6 +24847,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "whinecube"
+                ],
+                "emulationking": [
+                    "whinecube"
                 ]
             }
         },
@@ -23481,6 +24863,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "win64"
+                ],
+                "oldcomputers": [
+                    "Win64"
                 ]
             }
         },
@@ -23494,6 +24879,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "win994a"
+                ],
+                "oldcomputers": [
+                    "Win994a"
                 ]
             }
         },
@@ -23524,6 +24912,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "winarcadia"
+                ],
+                "oldcomputers": [
+                    "WinArcadia"
                 ]
             }
         },
@@ -23564,6 +24955,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "winfellow"
+                ],
+                "oldcomputers": [
+                    "WinFellow"
                 ]
             }
         },
@@ -23592,6 +24986,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "wintvc"
+                ],
+                "oldcomputers": [
+                    "WinTVC"
                 ]
             }
         },
@@ -23606,6 +25003,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "winuae"
+                ],
+                "oldcomputers": [
+                    "WinUAE"
                 ]
             }
         },
@@ -23637,6 +25037,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "winvz"
+                ],
+                "oldcomputers": [
+                    "WinVZ"
                 ]
             }
         },
@@ -23679,6 +25082,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "wscamp"
+                ],
+                "oldcomputers": [
+                    "WScamp"
                 ]
             }
         },
@@ -23749,6 +25155,15 @@
             "matches": {
                 "emucontrolcenter": [
                     "xenia"
+                ],
+                "emulationking": [
+                    "xenia"
+                ],
+                "emulationstation-de": [
+                    "xenia"
+                ],
+                "launchbox": [
+                    "Xenia"
                 ]
             }
         },
@@ -23761,6 +25176,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "xeon"
+                ],
+                "emulationking": [
                     "xeon"
                 ]
             }
@@ -23801,6 +25219,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "xm7"
+                ],
+                "oldcomputers": [
+                    "XM7"
                 ]
             }
         },
@@ -23881,6 +25302,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "xroar"
+                ],
+                "emulationstation-de": [
+                    "XRoar"
                 ]
             }
         },
@@ -23907,6 +25331,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "yabause"
+                ],
+                "emulationking": [
+                    "yabause"
+                ],
+                "oldcomputers": [
+                    "Yabause"
                 ]
             }
         },
@@ -23959,6 +25389,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "yape"
+                ],
+                "oldcomputers": [
+                    "YAPE"
                 ]
             }
         },
@@ -23999,6 +25432,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "z26"
+                ],
+                "emulationking": [
+                    "z26"
+                ],
+                "oldcomputers": [
+                    "Z26"
                 ]
             }
         },
@@ -24082,6 +25521,12 @@
             "matches": {
                 "emucontrolcenter": [
                     "zsnes"
+                ],
+                "emulationking": [
+                    "zsnes"
+                ],
+                "oldcomputers": [
+                    "ZSnes"
                 ]
             }
         },
