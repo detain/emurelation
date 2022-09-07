@@ -12,10 +12,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 ## 🗺 Supported Mapping
 
-### 🔄 Status
-
-
-
 ### 🎮 Platforms
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
