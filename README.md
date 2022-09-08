@@ -23,7 +23,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [TOSEC-ISO](sources/toseciso.json) | DAT | 242 | 0 | 242 | 100% |
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 663 | 218 | 881 | 75.3% |
 | [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
-| [ScreenScraper](sources/screenscraper.json) | API | 161 | 69 | 230 | 70% |
+| [ScreenScraper](sources/screenscraper.json) | API | 162 | 68 | 230 | 70.4% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 186 | 1102 | 1288 | 14.4% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [MAME](sources/mame.json) | Emulator | 628 | 41 | 669 | 93.9% |
