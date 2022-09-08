@@ -1,5 +1,18 @@
 {
     "platforms": {
+        "Adobe Flash": {
+            "id": "Adobe Flash",
+            "name": "Flash",
+            "matches": {
+                "emulationstation-de": [
+                    "flash"
+                ],
+                "emucontrolcenter": [
+                    "flash"
+                ]
+            },
+            "company": "Adobe"
+        },
         "8-Bit Productions Commander X16": {
             "id": "8-Bit Productions Commander X16",
             "name": "Commander X16",
@@ -2540,6 +2553,9 @@
             "id": "Capcom Capcom Play System 1",
             "name": "Capcom Play System 1",
             "matches": {
+                "emulationstation-de": [
+                    "cps"
+                ],
                 "emucontrolcenter": [
                     "cps1"
                 ]
@@ -3626,6 +3642,16 @@
             },
             "company": "Commodore"
         },
+        "Commodore Amiga 600": {
+            "id": "Commodore Amiga 600",
+            "name": "Amiga 600",
+            "matches": {
+                "emulationstation-de": [
+                    "amiga600"
+                ]
+            },
+            "company": "Commodore"
+        },
         "Commodore Amiga 1000": {
             "id": "Commodore Amiga 1000",
             "name": "Amiga 1000",
@@ -3635,6 +3661,16 @@
                 ],
                 "oldcomputers": [
                     28
+                ]
+            },
+            "company": "Commodore"
+        },
+        "Commodore Amiga 1200": {
+            "id": "Commodore Amiga 1200",
+            "name": "Amiga 1200",
+            "matches": {
+                "emulationstation-de": [
+                    "amiga1200"
                 ]
             },
             "company": "Commodore"
@@ -7290,6 +7326,20 @@
             },
             "company": "ITT"
         },
+        "IMLAC Corporation PDS-1": {
+            "id": "IMLAC Corporation PDS-1",
+            "name": "PDS-1",
+            "matches": {
+                "tosec": [
+                    "IMLAC Corporation PDS-1 - Applications - [PTP]",
+                    "IMLAC Corporation PDS-1 - Demos - [PTP]",
+                    "IMLAC Corporation PDS-1 - Demos - [TXT]",
+                    "IMLAC Corporation PDS-1 - Games - [PTP]",
+                    "IMLAC Corporation PDS-1 - Games - [TXT]"
+                ]
+            },
+            "company": "IMLAC Corporation"
+        },
         "Incredible Technologies Eagle": {
             "id": "Incredible Technologies Eagle",
             "name": "Eagle",
@@ -8053,7 +8103,11 @@
         "MSX TurboR": {
             "id": "MSX TurboR",
             "name": "TurboR",
-            "matches": [],
+            "matches": {
+                "emucontrolcenter": [
+                    "msxtr"
+                ]
+            },
             "company": "MSX"
         },
         "Magnavox Odyssey 1": {
@@ -8140,6 +8194,9 @@
             "id": "Matra Hachette Alice 32",
             "name": "Alice 32",
             "matches": {
+                "emucontrolcenter": [
+                    "alice"
+                ],
                 "tosec": [
                     "Matra Hachette Alice 32 - Applications - [CAS]",
                     "Matra Hachette Alice 32 - Applications - [K7]",
@@ -9032,6 +9089,9 @@
             "id": "NEC PC Engine SuperGrafx",
             "name": "PC Engine SuperGrafx",
             "matches": {
+                "emucontrolcenter": [
+                    "pce2"
+                ],
                 "nointro": [
                     "NEC - PC Engine SuperGrafx"
                 ],
@@ -12480,7 +12540,8 @@
                     "naomi"
                 ],
                 "recalbox": [
-                    "naomi"
+                    "naomi",
+                    "naomigd"
                 ]
             },
             "company": "Sega"
@@ -12807,10 +12868,25 @@
             },
             "company": "Seta"
         },
+        "Sharp MZ-80B": {
+            "id": "Sharp MZ-80B",
+            "name": "MZ-80B",
+            "matches": {
+                "tosec": [
+                    "Sharp MZ-80B - Games - [MZT]",
+                    "Sharp MZ-80B - Games - [WAV]"
+                ]
+            },
+            "company": "Sharp"
+        },
         "Sharp MZ-2000": {
             "id": "Sharp MZ-2000",
             "name": "MZ-2000",
             "matches": {
+                "tosec": [
+                    "Sharp MZ-2000 & MZ-2200 - Games - [MZT]",
+                    "Sharp MZ-2000 & MZ-2200 - Games - [WAV]"
+                ],
                 "mame": [
                     "mz2000_cass",
                     "mz2000_flop"
@@ -12825,6 +12901,10 @@
             "id": "Sharp MZ-2200",
             "name": "MZ-2200",
             "matches": {
+                "tosec": [
+                    "Sharp MZ-2000 & MZ-2200 - Games - [MZT]",
+                    "Sharp MZ-2000 & MZ-2200 - Games - [WAV]"
+                ],
                 "mame": [
                     "mz2200_cass"
                 ],
@@ -14631,13 +14711,10 @@
         "Texas Instruments TI-99 4A": {
             "id": "Texas Instruments TI-99 4A",
             "name": "TI-99 4A",
-            "matches": [],
-            "company": "Texas Instruments"
-        },
-        "Texas Instruments TI-99-4A": {
-            "id": "Texas Instruments TI-99-4A",
-            "name": "TI-99-4A",
             "matches": {
+                "recalbox": [
+                    "ti994a"
+                ],
                 "tgdb": [
                     4953
                 ],
@@ -14684,6 +14761,9 @@
             "id": "Thomson MO5",
             "name": "MO5",
             "matches": {
+                "recalbox": [
+                    "thomson"
+                ],
                 "tosec": [
                     "Thomson MO5 - Applications - [FD]",
                     "Thomson MO5 - Applications - [K7]",
@@ -16385,6 +16465,11 @@
                     "Bally"
                 ]
             }
+        },
+        "IMLAC Corporation": {
+            "id": "IMLAC Corporation",
+            "name": "IMLAC Corporation",
+            "matches": []
         },
         "Bandai": {
             "id": "Bandai",
