@@ -51,13 +51,13 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 285 | 0 | 285 | 100% |
+| [Local](sources/local.json) | Custom | 287 | 0 | 287 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 28 | 28 | 56 | 50% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 45 | 80 | 125 | 36% |
-| [RecalBox](sources/recalbox.json) | Frontend | 31 | 22 | 53 | 58.5% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 60 | 38 | 98 | 61.2% |
+| [RecalBox](sources/recalbox.json) | Frontend | 32 | 21 | 53 | 60.4% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 74 | 24 | 98 | 75.5% |
 
 ### 🕹 Games
 

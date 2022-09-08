@@ -16219,7 +16219,11 @@
         "Adobe": {
             "id": "Adobe",
             "name": "Adobe",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Adobe"
+                ]
+            }
         },
         "AlphaSmart": {
             "id": "AlphaSmart",
@@ -16544,7 +16548,11 @@
         "Chip-8": {
             "id": "Chip-8",
             "name": "Chip-8",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Chip-8"
+                ]
+            }
         },
         "Coleco": {
             "id": "Coleco",
