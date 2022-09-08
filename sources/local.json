@@ -16216,6 +16216,11 @@
             "name": "Advanced Computer Design",
             "matches": []
         },
+        "Adobe": {
+            "id": "Adobe",
+            "name": "Adobe",
+            "matches": []
+        },
         "AlphaSmart": {
             "id": "AlphaSmart",
             "name": "AlphaSmart",
@@ -16254,7 +16259,8 @@
             "name": "Amstrad",
             "matches": {
                 "emucontrolcenter": [
-                    "Amstrad"
+                    "Amstrad",
+                    "Amstrad/Schneider"
                 ],
                 "launchbox": [
                     "Amstrad"
@@ -16299,7 +16305,11 @@
         "Applied Technology": {
             "id": "Applied Technology",
             "name": "Applied Technology",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Applied Technologies"
+                ]
+            }
         },
         "Applix": {
             "id": "Applix",
@@ -16531,6 +16541,11 @@
             "name": "China",
             "matches": []
         },
+        "Chip-8": {
+            "id": "Chip-8",
+            "name": "Chip-8",
+            "matches": []
+        },
         "Coleco": {
             "id": "Coleco",
             "name": "Coleco",
@@ -16609,7 +16624,11 @@
         "Creatronic": {
             "id": "Creatronic",
             "name": "Creatronic",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "CVT (Creatonic, Videojet, and Timlex)"
+                ]
+            }
         },
         "Cybiko": {
             "id": "Cybiko",
@@ -16761,6 +16780,9 @@
             "id": "Enterprise",
             "name": "Enterprise",
             "matches": {
+                "emucontrolcenter": [
+                    "Enterprise 64/128"
+                ],
                 "oldcomputers": [
                     "Enterprise"
                 ]
@@ -16771,7 +16793,8 @@
             "name": "Entex",
             "matches": {
                 "emucontrolcenter": [
-                    "Entex"
+                    "Entex",
+                    "Entex Industries, Inc"
                 ],
                 "oldcomputers": [
                     "ENTEX"
@@ -16782,6 +16805,9 @@
             "id": "Epoch",
             "name": "Epoch",
             "matches": {
+                "emucontrolcenter": [
+                    "Epoch/Yeno"
+                ],
                 "launchbox": [
                     "Epoch"
                 ],
@@ -16922,6 +16948,9 @@
             "id": "Funtech",
             "name": "Funtech",
             "matches": {
+                "emucontrolcenter": [
+                    "Funtech Entertainment"
+                ],
                 "launchbox": [
                     "Funtech"
                 ]
@@ -16961,7 +16990,11 @@
         "GamePark": {
             "id": "GamePark",
             "name": "GamePark",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Game Park"
+                ]
+            }
         },
         "Generic": {
             "id": "Generic",
@@ -17255,6 +17288,9 @@
             "id": "MGT",
             "name": "MGT",
             "matches": {
+                "emuconctrolcenter": [
+                    "Miles Gordon Technology"
+                ],
                 "launchbox": [
                     "MGT"
                 ],
@@ -17693,7 +17729,9 @@
             "name": "Philips",
             "matches": {
                 "emucontrolcenter": [
-                    "Philips"
+                    "Philips",
+                    "Royal Philips Electronics",
+                    "Phillips"
                 ],
                 "launchbox": [
                     "Philips"
@@ -17986,7 +18024,8 @@
             "name": "Sinclair",
             "matches": {
                 "emucontrolcenter": [
-                    "Sinclair"
+                    "Sinclair",
+                    "Sinclair Research"
                 ],
                 "launchbox": [
                     "Sinclair"
@@ -18007,7 +18046,8 @@
             "name": "Sony",
             "matches": {
                 "emucontrolcenter": [
-                    "Sony"
+                    "Sony",
+                    "Sony Computer Entertainment"
                 ],
                 "emulationking": [
                     "sony"
@@ -18089,6 +18129,13 @@
             "id": "Tandy Radio Shack",
             "name": "Tandy Radio Shack",
             "matches": {
+                "recalbox": [
+                    "Tandy"
+                ],
+                "emucontrolcenter": [
+                    "Tandy",
+                    "Tandy/Radio Shack"
+                ],
                 "oldcomputers": [
                     "Tandy Radio Shack"
                 ]
