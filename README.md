@@ -16,22 +16,22 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 830 | 0 | 830 | 100% |
+| [Local](sources/local.json) | Custom | 834 | 0 | 834 | 100% |
 | [Redump](sources/redump.json) | DAT | 50 | 1 | 51 | 98% |
 | [No-Intro](sources/nointro.json) | DAT | 256 | 28 | 284 | 90.1% |
-| [TOSEC](sources/tosec.json) | DAT | 2788 | 32 | 2820 | 98.9% |
+| [TOSEC](sources/tosec.json) | DAT | 2799 | 23 | 2822 | 99.2% |
 | [TOSEC-ISO](sources/toseciso.json) | DAT | 242 | 0 | 242 | 100% |
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 663 | 218 | 881 | 75.3% |
 | [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
-| [ScreenScraper](sources/screenscraper.json) | API | 160 | 70 | 230 | 69.6% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 182 | 1106 | 1288 | 14.1% |
+| [ScreenScraper](sources/screenscraper.json) | API | 161 | 69 | 230 | 70% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 186 | 1102 | 1288 | 14.4% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [MAME](sources/mame.json) | Emulator | 628 | 41 | 669 | 93.9% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 127 | 29 | 156 | 81.4% |
-| [RecalBox](sources/recalbox.json) | Frontend | 91 | 35 | 126 | 72.2% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 132 | 24 | 156 | 84.6% |
+| [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |
 | [RetroPie](sources/retropie.json) | Frontend | 71 | 13 | 84 | 84.5% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 170 | 27 | 197 | 86.3% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 174 | 23 | 197 | 88.3% |
 
 ### 💾 Emulators
 
@@ -51,7 +51,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 287 | 0 | 287 | 100% |
+| [Local](sources/local.json) | Custom | 288 | 0 | 288 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 28 | 28 | 56 | 50% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |

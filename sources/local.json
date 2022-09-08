@@ -2558,6 +2558,9 @@
                 ],
                 "emucontrolcenter": [
                     "cps1"
+                ],
+                "screenscraper": [
+                    6
                 ]
             },
             "company": "Capcom"
@@ -3648,6 +3651,12 @@
             "matches": {
                 "emulationstation-de": [
                     "amiga600"
+                ],
+                "oldcomputers": [
+                    64
+                ],
+                "recalbox": [
+                    "amiga600"
                 ]
             },
             "company": "Commodore"
@@ -3670,6 +3679,12 @@
             "name": "Amiga 1200",
             "matches": {
                 "emulationstation-de": [
+                    "amiga1200"
+                ],
+                "oldcomputers": [
+                    628
+                ],
+                "recalbox": [
                     "amiga1200"
                 ]
             },
@@ -7336,6 +7351,9 @@
                     "IMLAC Corporation PDS-1 - Demos - [TXT]",
                     "IMLAC Corporation PDS-1 - Games - [PTP]",
                     "IMLAC Corporation PDS-1 - Games - [TXT]"
+                ],
+                "oldcomputers": [
+                    1295
                 ]
             },
             "company": "IMLAC Corporation"
@@ -8210,6 +8228,9 @@
                 ],
                 "launchbox": [
                     "Matra and Hachette Alice"
+                ],
+                "oldcomputers": [
+                    60
                 ]
             },
             "company": "Matra Hachette"
@@ -12537,7 +12558,8 @@
                     "naomi"
                 ],
                 "emulationstation-de": [
-                    "naomi"
+                    "naomi",
+                    "naomigd"
                 ],
                 "recalbox": [
                     "naomi",
