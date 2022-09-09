@@ -21901,17 +21901,6 @@
                 ]
             }
         },
-        "Cxbx-Reloaded": {
-            "id": "Cxbx-Reloaded",
-            "shortName": "Cxbx-Reloaded",
-            "name": "Cxbx-Reloaded",
-            "platforms": [],
-            "matches": {
-                "emulationstation-de": [
-                    "Cxbx-Reloaded"
-                ]
-            }
-        },
         "DOSBox Staging": {
             "id": "DOSBox Staging",
             "shortName": "DOSBox Staging",
@@ -22205,17 +22194,6 @@
             "matches": {
                 "emulationstation-de": [
                     "Tsugaru"
-                ]
-            }
-        },
-        "VBA-M": {
-            "id": "VBA-M",
-            "shortName": "VBA-M",
-            "name": "VBA-M",
-            "platforms": [],
-            "matches": {
-                "emulationstation-de": [
-                    "VBA-M"
                 ]
             }
         },
@@ -24099,6 +24077,9 @@
                 ],
                 "emucontrolcenter": [
                     "cxbxreloaded"
+                ],
+                "emulationstation-de": [
+                    "Cxbx-Reloaded"
                 ]
             }
         },
@@ -31770,6 +31751,9 @@
                 ],
                 "emucontrolcenter": [
                     "vbam"
+                ],
+                "emulationstation-de": [
+                    "VBA-M"
                 ]
             }
         },
