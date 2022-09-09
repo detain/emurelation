@@ -294,15 +294,6 @@
                 "Acorn 6502"
             ]
         },
-        "Acorn 65C102": {
-            "id": "Acorn 65C102",
-            "name": "65C102",
-            "matches": [],
-            "company": "Acorn",
-            "altNames": [
-                "Acorn 65C102"
-            ]
-        },
         "Acorn 80186": {
             "id": "Acorn 80186",
             "name": "80186",
@@ -946,7 +937,6 @@
                 "recalbox": [
                     "gx4000"
                 ]
-
             },
             "company": "Amstrad",
             "altNames": [
@@ -4967,15 +4957,6 @@
                 "Commodore MAX Machine"
             ]
         },
-        "Commodore MAX Machine & VIC10": {
-            "id": "Commodore MAX Machine & VIC10",
-            "name": "MAX Machine & VIC10",
-            "matches": [],
-            "company": "Commodore",
-            "altNames": [
-                "Commodore MAX Machine & VIC10"
-            ]
-        },
         "Commodore P500": {
             "id": "Commodore P500",
             "name": "P500",
@@ -7004,15 +6985,6 @@
                 "Fujitsu FM-8"
             ]
         },
-        "Fujitsu FM77-AV": {
-            "id": "Fujitsu FM77-AV",
-            "name": "FM77-AV",
-            "matches": [],
-            "company": "Fujitsu",
-            "altNames": [
-                "Fujitsu FM77-AV"
-            ]
-        },
         "Fujitsu FMR50": {
             "id": "Fujitsu FMR50",
             "name": "FMR50",
@@ -7132,15 +7104,6 @@
                 "GCE Vectrex"
             ]
         },
-        "Gachinko Contest! Slot machine TV": {
-            "id": "Gachinko Contest! Slot machine TV",
-            "name": "Contest! Slot machine TV",
-            "matches": [],
-            "company": "Gachinko",
-            "altNames": [
-                "Gachinko Contest! Slot machine TV"
-            ]
-        },
         "Gakken Compact Vision": {
             "id": "Gakken Compact Vision",
             "name": "Compact Vision",
@@ -7176,24 +7139,6 @@
             "company": "Galaksija",
             "altNames": [
                 "Galaksija"
-            ]
-        },
-        "Galaksija Galaksija": {
-            "id": "Galaksija Galaksija",
-            "name": "Galaksija",
-            "matches": [],
-            "company": "Galaksija",
-            "altNames": [
-                "Galaksija Galaksija"
-            ]
-        },
-        "Galaksija Galaksija Plus": {
-            "id": "Galaksija Galaksija Plus",
-            "name": "Galaksija Plus",
-            "matches": [],
-            "company": "Galaksija",
-            "altNames": [
-                "Galaksija Galaksija Plus"
             ]
         },
         "Galaksija Plus": {
@@ -8184,15 +8129,6 @@
                 "HomeLab BraiLab"
             ]
         },
-        "HomeLab HomeLab": {
-            "id": "HomeLab HomeLab",
-            "name": "HomeLab",
-            "matches": [],
-            "company": "HomeLab",
-            "altNames": [
-                "HomeLab HomeLab"
-            ]
-        },
         "IBM 1620": {
             "id": "IBM 1620",
             "name": "1620",
@@ -8250,15 +8186,6 @@
             "company": "IBM",
             "altNames": [
                 "IBM PC 5140 Convertible"
-            ]
-        },
-        "IBM PC Compatibles": {
-            "id": "IBM PC Compatibles",
-            "name": "PC Compatibles",
-            "matches": [],
-            "company": "IBM",
-            "altNames": [
-                "IBM PC Compatibles"
             ]
         },
         "IBM PC and Compatibles": {
@@ -8554,15 +8481,6 @@
             "company": "Incredible Technologies",
             "altNames": [
                 "Incredible Technologies Eagle"
-            ]
-        },
-        "Incredible-Technologies Eagle": {
-            "id": "Incredible-Technologies Eagle",
-            "name": "Eagle",
-            "matches": [],
-            "company": "Incredible-Technologies",
-            "altNames": [
-                "Incredible-Technologies Eagle"
             ]
         },
         "Infocom Z-Machine": {
@@ -8879,15 +8797,6 @@
             "company": "Jupiter Cantab",
             "altNames": [
                 "Jupiter Cantab Jupiter Ace"
-            ]
-        },
-        "Kaypro 4/84": {
-            "id": "Kaypro 4/84",
-            "name": "4/84",
-            "matches": [],
-            "company": "Kaypro",
-            "altNames": [
-                "Kaypro 4/84"
             ]
         },
         "Kaypro II": {
@@ -9521,15 +9430,6 @@
                 "MSX MSX2"
             ]
         },
-        "MSX MSX2+": {
-            "id": "MSX MSX2+",
-            "name": "MSX2+",
-            "matches": [],
-            "company": "MSX",
-            "altNames": [
-                "MSX MSX2+"
-            ]
-        },
         "MSX Palcom": {
             "id": "MSX Palcom",
             "name": "Palcom",
@@ -9871,15 +9771,6 @@
             "company": "Mattel",
             "altNames": [
                 "Mattel Intellivision"
-            ]
-        },
-        "Mattel Intellivision ECS": {
-            "id": "Mattel Intellivision ECS",
-            "name": "Intellivision ECS",
-            "matches": [],
-            "company": "Mattel",
-            "altNames": [
-                "Mattel Intellivision ECS"
             ]
         },
         "Mattel Juice Box": {
@@ -10311,15 +10202,6 @@
             "company": "Microsoft",
             "altNames": [
                 "Microsoft MSX2+"
-            ]
-        },
-        "Microsoft Operating Systems": {
-            "id": "Microsoft Operating Systems",
-            "name": "Operating Systems",
-            "matches": [],
-            "company": "Microsoft",
-            "altNames": [
-                "Microsoft Operating Systems"
             ]
         },
         "Microsoft Pocket PC": {
@@ -10860,15 +10742,6 @@
                 "NEC PC-8201"
             ]
         },
-        "NEC PC-88": {
-            "id": "NEC PC-88",
-            "name": "PC-88",
-            "matches": [],
-            "company": "NEC",
-            "altNames": [
-                "NEC PC-88"
-            ]
-        },
         "NEC PC-88 series": {
             "id": "NEC PC-88 series",
             "name": "PC-88 series",
@@ -10947,15 +10820,6 @@
             "company": "NEC",
             "altNames": [
                 "NEC PC-88VA"
-            ]
-        },
-        "NEC PC-98": {
-            "id": "NEC PC-98",
-            "name": "PC-98",
-            "matches": [],
-            "company": "NEC",
-            "altNames": [
-                "NEC PC-98"
             ]
         },
         "NEC PC-98 series": {
@@ -11177,15 +11041,6 @@
             "company": "NEC",
             "altNames": [
                 "NEC PC-FXGA"
-            ]
-        },
-        "NEC SuperGrafx": {
-            "id": "NEC SuperGrafx",
-            "name": "SuperGrafx",
-            "matches": [],
-            "company": "NEC",
-            "altNames": [
-                "NEC SuperGrafx"
             ]
         },
         "NEC TurboGrafx-CD": {
@@ -11707,15 +11562,6 @@
                 "Nintendo Famicom"
             ]
         },
-        "Nintendo Family Computer Disk System": {
-            "id": "Nintendo Family Computer Disk System",
-            "name": "Family Computer Disk System",
-            "matches": [],
-            "company": "Nintendo",
-            "altNames": [
-                "Nintendo Family Computer Disk System"
-            ]
-        },
         "Nintendo Family Computer Network System": {
             "id": "Nintendo Family Computer Network System",
             "name": "Family Computer Network System",
@@ -11907,15 +11753,6 @@
                 "Nintendo Game Boy Color"
             ]
         },
-        "Nintendo Game and Watch": {
-            "id": "Nintendo Game and Watch",
-            "name": "Game and Watch",
-            "matches": [],
-            "company": "Nintendo",
-            "altNames": [
-                "Nintendo Game and Watch"
-            ]
-        },
         "Nintendo GameCube": {
             "id": "Nintendo GameCube",
             "name": "GameCube",
@@ -11989,15 +11826,6 @@
             "company": "Nintendo",
             "altNames": [
                 "Nintendo Mario no Photopi SmartMedia"
-            ]
-        },
-        "Nintendo Nintendo Entertainment System": {
-            "id": "Nintendo Nintendo Entertainment System",
-            "name": "Nintendo Entertainment System",
-            "matches": [],
-            "company": "Nintendo",
-            "altNames": [
-                "Nintendo Nintendo Entertainment System"
             ]
         },
         "Nintendo Play-Yan": {
@@ -12355,15 +12183,6 @@
                 "Nintendo Wii U"
             ]
         },
-        "Nintendo Wii-U": {
-            "id": "Nintendo Wii-U",
-            "name": "Wii-U",
-            "matches": [],
-            "company": "Nintendo",
-            "altNames": [
-                "Nintendo Wii-U"
-            ]
-        },
         "Nintendo amiibo": {
             "id": "Nintendo amiibo",
             "name": "amiibo",
@@ -12488,15 +12307,6 @@
             "company": "Nuova Elettronica",
             "altNames": [
                 "Nuova Elettronica Z80NE"
-            ]
-        },
-        "OCC Osborne 1 & Osborne Executive": {
-            "id": "OCC Osborne 1 & Osborne Executive",
-            "name": "Osborne 1 & Osborne Executive",
-            "matches": [],
-            "company": "OCC",
-            "altNames": [
-                "OCC Osborne 1 & Osborne Executive"
             ]
         },
         "OCC Osborne 2 Executive": {
@@ -12655,15 +12465,6 @@
             "company": "Ondra",
             "altNames": [
                 "Ondra & Ondra ViLi"
-            ]
-        },
-        "OpenPandora Pandora": {
-            "id": "OpenPandora Pandora",
-            "name": "Pandora",
-            "matches": [],
-            "company": "OpenPandora",
-            "altNames": [
-                "OpenPandora Pandora"
             ]
         },
         "Otrona Attache": {
@@ -13856,42 +13657,6 @@
                 "SNK Neo Geo Pocket Color"
             ]
         },
-        "SNK Neo-Geo AES": {
-            "id": "SNK Neo-Geo AES",
-            "name": "Neo-Geo AES",
-            "matches": [],
-            "company": "SNK",
-            "altNames": [
-                "SNK Neo-Geo AES"
-            ]
-        },
-        "SNK Neo-Geo CD": {
-            "id": "SNK Neo-Geo CD",
-            "name": "Neo-Geo CD",
-            "matches": [],
-            "company": "SNK",
-            "altNames": [
-                "SNK Neo-Geo CD"
-            ]
-        },
-        "SNK Neo-Geo Pocket": {
-            "id": "SNK Neo-Geo Pocket",
-            "name": "Neo-Geo Pocket",
-            "matches": [],
-            "company": "SNK",
-            "altNames": [
-                "SNK Neo-Geo Pocket"
-            ]
-        },
-        "SNK Neo-Geo Pocket Color": {
-            "id": "SNK Neo-Geo Pocket Color",
-            "name": "Neo-Geo Pocket Color",
-            "matches": [],
-            "company": "SNK",
-            "altNames": [
-                "SNK Neo-Geo Pocket Color"
-            ]
-        },
         "SSD Xavix Port": {
             "id": "SSD Xavix Port",
             "name": "Xavix Port",
@@ -14057,15 +13822,6 @@
             },
             "altNames": [
                 "Sanyo MBC-550"
-            ]
-        },
-        "Sanyo MBC-550 & 555": {
-            "id": "Sanyo MBC-550 & 555",
-            "name": "MBC-550 & 555",
-            "matches": [],
-            "company": "Sanyo",
-            "altNames": [
-                "Sanyo MBC-550 & 555"
             ]
         },
         "Sanyo MBC-550 and MBC-555": {
@@ -14655,24 +14411,6 @@
                 "Sega Mega Drive"
             ]
         },
-        "Sega Mega Drive & Genesis": {
-            "id": "Sega Mega Drive & Genesis",
-            "name": "Mega Drive & Genesis",
-            "matches": [],
-            "company": "Sega",
-            "altNames": [
-                "Sega Mega Drive & Genesis"
-            ]
-        },
-        "Sega Mega-CD & Sega CD": {
-            "id": "Sega Mega-CD & Sega CD",
-            "name": "Mega-CD & Sega CD",
-            "matches": [],
-            "company": "Sega",
-            "altNames": [
-                "Sega Mega-CD & Sega CD"
-            ]
-        },
         "Sega MegaTech": {
             "id": "Sega MegaTech",
             "name": "MegaTech",
@@ -14748,15 +14486,6 @@
             "company": "Sega",
             "altNames": [
                 "Sega Model 3"
-            ]
-        },
-        "Sega NAOMI 2": {
-            "id": "Sega NAOMI 2",
-            "name": "NAOMI 2",
-            "matches": [],
-            "company": "Sega",
-            "altNames": [
-                "Sega NAOMI 2"
             ]
         },
         "Sega Naomi": {
@@ -15277,15 +15006,6 @@
             "company": "Sharp",
             "altNames": [
                 "Sharp MZ-800"
-            ]
-        },
-        "Sharp MZ-800 & MZ-1500": {
-            "id": "Sharp MZ-800 & MZ-1500",
-            "name": "MZ-800 & MZ-1500",
-            "matches": [],
-            "company": "Sharp",
-            "altNames": [
-                "Sharp MZ-800 & MZ-1500"
             ]
         },
         "Sharp MZ-80B": {
@@ -15874,24 +15594,6 @@
                 "Sinclair ZX-81"
             ]
         },
-        "Sinclair ZX80": {
-            "id": "Sinclair ZX80",
-            "name": "ZX80",
-            "matches": [],
-            "company": "Sinclair",
-            "altNames": [
-                "Sinclair ZX80"
-            ]
-        },
-        "Sinclair ZX81": {
-            "id": "Sinclair ZX81",
-            "name": "ZX81",
-            "matches": [],
-            "company": "Sinclair",
-            "altNames": [
-                "Sinclair ZX81"
-            ]
-        },
         "Sony PlayStation Mobile": {
             "id": "Sony PlayStation Mobile",
             "name": "PlayStation Mobile",
@@ -16131,15 +15833,6 @@
             "company": "Sony",
             "altNames": [
                 "Sony Playstation 5"
-            ]
-        },
-        "Sony Playstation GameShark": {
-            "id": "Sony Playstation GameShark",
-            "name": "Playstation GameShark",
-            "matches": [],
-            "company": "Sony",
-            "altNames": [
-                "Sony Playstation GameShark"
             ]
         },
         "Sony Playstation Portable": {
@@ -17066,15 +16759,6 @@
                 "Tesla Ondra Vili"
             ]
         },
-        "Tesla PMD 85": {
-            "id": "Tesla PMD 85",
-            "name": "PMD 85",
-            "matches": [],
-            "company": "Tesla",
-            "altNames": [
-                "Tesla PMD 85"
-            ]
-        },
         "Tesla PMD-85": {
             "id": "Tesla PMD-85",
             "name": "PMD-85",
@@ -17841,15 +17525,6 @@
                 "Torch Co-Processor"
             ]
         },
-        "Torch Z80-68000": {
-            "id": "Torch Z80-68000",
-            "name": "Z80-68000",
-            "matches": [],
-            "company": "Torch",
-            "altNames": [
-                "Torch Z80-68000"
-            ]
-        },
         "Toshiba Pasopia 7": {
             "id": "Toshiba Pasopia 7",
             "name": "Pasopia 7",
@@ -17939,11 +17614,6 @@
             "altNames": [
                 "Touhou Project"
             ]
-        },
-        "TourVision (bootleg Arcade NEC PC-Engine)": {
-            "id": "TourVision (bootleg Arcade NEC PC-Engine)",
-            "name": "TourVision (bootleg Arcade NEC PC-Engine)",
-            "matches": []
         },
         "Toyquest TV Go Go": {
             "id": "Toyquest TV Go Go",
@@ -18418,15 +18088,6 @@
             "company": "VTech",
             "altNames": [
                 "VTech Laser 2001"
-            ]
-        },
-        "VTech Laser 2001 & CreatiVision": {
-            "id": "VTech Laser 2001 & CreatiVision",
-            "name": "Laser 2001 & CreatiVision",
-            "matches": [],
-            "company": "VTech",
-            "altNames": [
-                "VTech Laser 2001 & CreatiVision"
             ]
         },
         "VTech Laser 3000 & Dick Smith CAT": {
@@ -19213,11 +18874,6 @@
                 ]
             }
         },
-        "American-Laser-Games": {
-            "id": "American-Laser-Games",
-            "name": "American-Laser-Games",
-            "matches": []
-        },
         "Amstrad": {
             "id": "Amstrad",
             "name": "Amstrad",
@@ -19440,11 +19096,6 @@
             "name": "Cadaco",
             "matches": []
         },
-        "Cambridge": {
-            "id": "Cambridge",
-            "name": "Cambridge",
-            "matches": []
-        },
         "Cambridge Computer": {
             "id": "Cambridge Computer",
             "name": "Cambridge Computer",
@@ -19518,15 +19169,6 @@
             "id": "China",
             "name": "China",
             "matches": []
-        },
-        "Chip-8": {
-            "id": "Chip-8",
-            "name": "Chip-8",
-            "matches": {
-                "emucontrolcenter": [
-                    "Chip-8"
-                ]
-            }
         },
         "Coleco": {
             "id": "Coleco",
@@ -19958,11 +19600,6 @@
             "name": "GCE",
             "matches": []
         },
-        "Gachinko": {
-            "id": "Gachinko",
-            "name": "Gachinko",
-            "matches": []
-        },
         "Gakken": {
             "id": "Gakken",
             "name": "Gakken",
@@ -20119,11 +19756,6 @@
         "Incredible Technologies": {
             "id": "Incredible Technologies",
             "name": "Incredible Technologies",
-            "matches": []
-        },
-        "Incredible-Technologies": {
-            "id": "Incredible-Technologies",
-            "name": "Incredible-Technologies",
             "matches": []
         },
         "Infocom": {
@@ -20673,11 +20305,6 @@
             "name": "Ondra",
             "matches": []
         },
-        "OpenPandora": {
-            "id": "OpenPandora",
-            "name": "OpenPandora",
-            "matches": []
-        },
         "Otrona": {
             "id": "Otrona",
             "name": "Otrona",
@@ -20760,15 +20387,6 @@
                 ],
                 "recalbox": [
                     "Philips"
-                ]
-            }
-        },
-        "Pinball": {
-            "id": "Pinball",
-            "name": "Pinball",
-            "matches": {
-                "emucontrolcenter": [
-                    "Pinball"
                 ]
             }
         },
@@ -21400,15 +21018,6 @@
             "name": "VEB Mikroelektronik",
             "matches": []
         },
-        "VM Labs": {
-            "id": "VM Labs",
-            "name": "VM Labs",
-            "matches": {
-                "launchbox": [
-                    "VM Labs"
-                ]
-            }
-        },
         "VM-Labs": {
             "id": "VM-Labs",
             "name": "VM-Labs",
@@ -21508,15 +21117,6 @@
             "id": "Waveterm",
             "name": "Waveterm",
             "matches": []
-        },
-        "Welback": {
-            "id": "Welback",
-            "name": "Welback",
-            "matches": {
-                "recalbox": [
-                    "Welback"
-                ]
-            }
         },
         "WinFun": {
             "id": "WinFun",

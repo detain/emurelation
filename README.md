@@ -16,7 +16,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 877 | 0 | 877 | 100% |
+| [Local](sources/local.json) | Custom | 819 | 0 | 819 | 100% |
 | [Redump](sources/redump.json) | DAT | 51 | 0 | 51 | 100% |
 | [No-Intro](sources/nointro.json) | DAT | 266 | 18 | 284 | 93.7% |
 | [TOSEC](sources/tosec.json) | DAT | 2821 | 1 | 2822 | 100% |
@@ -31,13 +31,13 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
 | [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |
 | [RetroPie](sources/retropie.json) | Frontend | 71 | 13 | 84 | 84.5% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 174 | 23 | 197 | 88.3% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 175 | 22 | 197 | 88.8% |
 
 ### 💾 Emulators
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 774 | 0 | 774 | 100% |
+| [Local](sources/local.json) | Custom | 772 | 0 | 772 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 3 | 0 | 3 | 100% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 116 | 350 | 466 | 24.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 96 | 0 | 96 | 100% |
@@ -51,13 +51,13 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 298 | 0 | 298 | 100% |
+| [Local](sources/local.json) | Custom | 289 | 0 | 289 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 28 | 28 | 56 | 50% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 115 | 526 | 641 | 17.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
-| [LaunchBox](sources/launchbox.json) | Frontend | 45 | 80 | 125 | 36% |
-| [RecalBox](sources/recalbox.json) | Frontend | 32 | 21 | 53 | 60.4% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 74 | 24 | 98 | 75.5% |
+| [LaunchBox](sources/launchbox.json) | Frontend | 44 | 81 | 125 | 35.2% |
+| [RecalBox](sources/recalbox.json) | Frontend | 31 | 22 | 53 | 58.5% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 72 | 26 | 98 | 73.5% |
 
 ### 🕹 Games
 
