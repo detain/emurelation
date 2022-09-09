@@ -16,15 +16,15 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 819 | 0 | 819 | 100% |
+| [Local](sources/local.json) | Custom | 811 | 0 | 811 | 100% |
 | [Redump](sources/redump.json) | DAT | 51 | 0 | 51 | 100% |
 | [No-Intro](sources/nointro.json) | DAT | 266 | 18 | 284 | 93.7% |
 | [TOSEC](sources/tosec.json) | DAT | 2821 | 1 | 2822 | 100% |
 | [TOSEC-ISO](sources/toseciso.json) | DAT | 242 | 0 | 242 | 100% |
-| [TOSEC-PIX](sources/tosecpix.json) | DAT | 663 | 218 | 881 | 75.3% |
+| [TOSEC-PIX](sources/tosecpix.json) | DAT | 654 | 227 | 881 | 74.2% |
 | [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
 | [ScreenScraper](sources/screenscraper.json) | API | 162 | 68 | 230 | 70.4% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 189 | 1099 | 1288 | 14.7% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 180 | 1108 | 1288 | 14% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [MAME](sources/mame.json) | Emulator | 654 | 15 | 669 | 97.8% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
@@ -51,9 +51,9 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 289 | 0 | 289 | 100% |
+| [Local](sources/local.json) | Custom | 288 | 0 | 288 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 28 | 28 | 56 | 50% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 115 | 526 | 641 | 17.9% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 44 | 81 | 125 | 35.2% |
 | [RecalBox](sources/recalbox.json) | Frontend | 31 | 22 | 53 | 58.5% |

@@ -27,22 +27,6 @@
                 "ACT Apricot"
             ]
         },
-        "ACT Apricot F1": {
-            "id": "ACT Apricot F1",
-            "name": "Apricot F1",
-            "matches": {
-                "oldcomputers": [
-                    495
-                ],
-                "tosecpix": [
-                    "ACT Apricot F1 - Manuals - Hardware"
-                ]
-            },
-            "company": "ACT",
-            "altNames": [
-                "ACT Apricot F1"
-            ]
-        },
         "ACT Apricot PC-Xi": {
             "id": "ACT Apricot PC-Xi",
             "name": "Apricot PC-Xi",
@@ -62,22 +46,6 @@
             "company": "ACT",
             "altNames": [
                 "ACT Apricot PC-Xi"
-            ]
-        },
-        "ACT Apricot Portable": {
-            "id": "ACT Apricot Portable",
-            "name": "Apricot Portable",
-            "matches": {
-                "oldcomputers": [
-                    492
-                ],
-                "tosecpix": [
-                    "ACT Apricot Portable - Books"
-                ]
-            },
-            "company": "ACT",
-            "altNames": [
-                "ACT Apricot Portable"
             ]
         },
         "ACT Apricot XEN": {
@@ -1683,19 +1651,6 @@
                 "Atari 2600"
             ]
         },
-        "Atari 400": {
-            "id": "Atari 400",
-            "name": "400",
-            "matches": {
-                "oldcomputers": [
-                    76
-                ]
-            },
-            "company": "Atari",
-            "altNames": [
-                "Atari 400"
-            ]
-        },
         "Atari 5200": {
             "id": "Atari 5200",
             "name": "5200",
@@ -2898,25 +2853,6 @@
             "company": "Camputers",
             "altNames": [
                 "Camputers Lynx"
-            ]
-        },
-        "Canon Cat": {
-            "id": "Canon Cat",
-            "name": "Cat",
-            "matches": {
-                "tosecpix": [
-                    "Canon Cat - Manuals - Applications",
-                    "Canon Cat - Manuals - Hardware",
-                    "Canon Cat - Manuals - Technical"
-                ],
-                "oldcomputers": [
-                    642,
-                    974
-                ]
-            },
-            "company": "Canon",
-            "altNames": [
-                "Canon Cat"
             ]
         },
         "Canon X-07": {
@@ -6753,70 +6689,6 @@
             "company": "Fisher-Price - Mattel",
             "altNames": [
                 "Fisher-Price - Mattel I Can Play Piano"
-            ]
-        },
-        "Franklin ACE 100": {
-            "id": "Franklin ACE 100",
-            "name": "ACE 100",
-            "matches": {
-                "oldcomputers": [
-                    1070
-                ],
-                "tosecpix": [
-                    "Franklin ACE 100 - Manuals - Hardware"
-                ]
-            },
-            "company": "Franklin",
-            "altNames": [
-                "Franklin ACE 100"
-            ]
-        },
-        "Franklin ACE 1000": {
-            "id": "Franklin ACE 1000",
-            "name": "ACE 1000",
-            "matches": {
-                "oldcomputers": [
-                    56
-                ],
-                "tosecpix": [
-                    "Franklin ACE 1000 - Manuals - Hardware"
-                ]
-            },
-            "company": "Franklin",
-            "altNames": [
-                "Franklin ACE 1000"
-            ]
-        },
-        "Franklin ACE 2000": {
-            "id": "Franklin ACE 2000",
-            "name": "ACE 2000",
-            "matches": {
-                "oldcomputers": [
-                    769
-                ],
-                "tosecpix": [
-                    "Franklin ACE 2000 - Manuals - Hardware"
-                ]
-            },
-            "company": "Franklin",
-            "altNames": [
-                "Franklin ACE 2000"
-            ]
-        },
-        "Franklin ACE 500": {
-            "id": "Franklin ACE 500",
-            "name": "ACE 500",
-            "matches": {
-                "oldcomputers": [
-                    793
-                ],
-                "tosecpix": [
-                    "Franklin ACE 500 - Manuals - Hardware"
-                ]
-            },
-            "company": "Franklin",
-            "altNames": [
-                "Franklin ACE 500"
             ]
         },
         "Front Fareast Magic Drive": {
@@ -19540,15 +19412,6 @@
             "id": "Fisher-Price - Mattel",
             "name": "Fisher-Price - Mattel",
             "matches": []
-        },
-        "Franklin": {
-            "id": "Franklin",
-            "name": "Franklin",
-            "matches": {
-                "oldcomputers": [
-                    "Franklin"
-                ]
-            }
         },
         "Front Fareast": {
             "id": "Front Fareast",
