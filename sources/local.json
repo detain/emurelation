@@ -21854,6 +21854,82 @@
                 ]
             }
         },
+        "DuckStation": {
+            "id": "DuckStation",
+            "shortName": "DuckStation",
+            "name": "DuckStation",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "DuckStation"
+                ],
+                "emulationstation-de": [
+                    "DuckStation"
+                ],
+                "recalbox": [
+                    "duckstation"
+                ]
+            }
+        },
+        "Redream": {
+            "id": "Redream",
+            "shortName": "Redream",
+            "name": "Redream",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "Redream"
+                ],
+                "emulationstation-de": [
+                    "Redream"
+                ],
+                "retropie": [
+                    "redream"
+                ]
+            }
+        },
+        "RetroArch": {
+            "id": "RetroArch",
+            "shortName": "RetroArch",
+            "name": "RetroArch",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "Retroarch"
+                ],
+                "emulationstation-de": [
+                    "RetroArch"
+                ],
+                "retropie": [
+                    "retroarch"
+                ]
+            }
+        },
+        "Rocket Launcher": {
+            "id": "Rocket Launcher",
+            "shortName": "Rocket Launcher",
+            "name": "Rocket Launcher",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "Rocket Launcher"
+                ]
+            }
+        },
+        "Xemu": {
+            "id": "Xemu",
+            "shortName": "Xemu",
+            "name": "Xemu",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "Xemu"
+                ],
+                "emulationstation-de": [
+                    "xemu"
+                ]
+            }
+        },
         "ace": {
             "id": "ace",
             "shortName": "ace",
@@ -23109,6 +23185,9 @@
                 "xbox"
             ],
             "matches": {
+                "launchbox": [
+                    "Cxbx-Reloaded"
+                ],
                 "emucontrolcenter": [
                     "cxbxreloaded"
                 ]
@@ -25931,6 +26010,22 @@
                 ]
             }
         },
+        "mupen64": {
+            "id": "mupen64",
+            "shortName": "mupen64",
+            "name": "Mupen64",
+            "platforms": [
+                "n64"
+            ],
+            "matches": {
+                "emulationking": [
+                    "mupen64"
+                ],
+                "launchbox": [
+                    "mupen64"
+                ]
+            }
+        },
         "mupen64k": {
             "id": "mupen64k",
             "shortName": "mupen64k",
@@ -27115,7 +27210,8 @@
                     "Project64"
                 ],
                 "launchbox": [
-                    "Project64"
+                    "Project64",
+                    "Project64 1.6"
                 ],
                 "oldcomputers": [
                     "Project64"
@@ -28455,6 +28551,9 @@
                 "gba"
             ],
             "matches": {
+                "launchbox": [
+                    "VisualBoyAdvance-M"
+                ],
                 "emucontrolcenter": [
                     "vbam"
                 ]
