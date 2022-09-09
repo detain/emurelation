@@ -881,6 +881,48 @@
             },
             "company": "Amstrad"
         },
+        "Analogue Mega Sg": {
+            "id": "Analogue Mega Sg",
+            "name": "Mega Sg",
+            "company": "Analogue",
+            "matches": {
+                "tosec": [
+                    "Analogue Mega Sg - Firmware"
+                ]
+            }
+        },
+        "Analogue Nt Mini Noir": {
+            "id": "Analogue Nt Mini Noir",
+            "name": "Nt Mini Noir",
+            "company": "Analogue",
+            "matches": {
+                "tosec": [
+                    "Analogue Nt Mini Noir - Firmware"
+                ]
+            }
+        },
+        "Analogue Pocket": {
+            "id": "Analogue Pocket",
+            "name": "Pocket",
+            "company": "Analogue",
+            "matches": {
+                "tosec": [
+                    "Analogue Pocket - Applications",
+                    "Analogue Pocket - Demos",
+                    "Analogue Pocket - Games"
+                ]
+            }
+        },
+        "Analogue Super Nt": {
+            "id": "Analogue Super Nt",
+            "name": "Super Nt",
+            "company": "Analogue",
+            "matches": {
+                "tosec": [
+                    "Analogue Super Nt - Firmware"
+                ]
+            }
+        },
         "Apogee BK-01": {
             "id": "Apogee BK-01",
             "name": "BK-01",
@@ -2422,6 +2464,17 @@
                 ]
             },
             "company": "Burroughs"
+        },
+        "Burroughs B20": {
+            "id": "Burroughs B20",
+            "name": "B20",
+            "company": "Burroughs",
+            "matches": {
+                "tosec": [
+                    "Burroughs B20 - Applications",
+                    "Burroughs B20 - System"
+                ]
+            }
         },
         "CCE MC-1000": {
             "id": "CCE MC-1000",
@@ -5220,6 +5273,16 @@
             },
             "company": "Dragon"
         },
+        "Dynabyte Monarch": {
+            "id": "Dynabyte Monarch",
+            "name": "Monarch",
+            "company": "Dynabyte",
+            "matches": {
+                "tosec": [
+                    "Dynabyte Monarch - Operating Systems"
+                ]
+            }
+        },
         "EACA Colour Genie EG2000": {
             "id": "EACA Colour Genie EG2000",
             "name": "Colour Genie EG2000",
@@ -5346,6 +5409,17 @@
                 ]
             },
             "company": "Elecbyte"
+        },
+        "Electronics Australia EDUC-8": {
+            "id": "Electronics Australia EDUC-8",
+            "name": "EDUC-8",
+            "company": "Electronics Australia",
+            "matches": {
+                "tosec": [
+                    "Electronics Australia EDUC-8 - Applications - [ASY]",
+                    "Electronics Australia EDUC-8 - Applications - [TXT]"
+                ]
+            }
         },
         "Elektronika BK": {
             "id": "Elektronika BK",
@@ -5678,6 +5752,17 @@
                 ]
             },
             "company": "Epson"
+        },
+        "Ericsson Alfaskop System 41": {
+            "id": "Ericsson Alfaskop System 41",
+            "name": "Alfaskop System 41",
+            "company": "Ericsson",
+            "matches": {
+                "tosec": [
+                    "Ericsson Alfaskop System 41 - System - [IMG]",
+                    "Ericsson Alfaskop System 41 - System - [IMW]"
+                ]
+            }
         },
         "Ericsson PC AT WS286": {
             "id": "Ericsson PC AT WS286",
@@ -7013,6 +7098,39 @@
             },
             "company": "Hewlett-Packard"
         },
+        "Hitachi Basic Master Jr.": {
+            "id": "Hitachi Basic Master Jr.",
+            "name": "Basic Master Jr.",
+            "company": "Hitachi",
+            "matches": {
+                "tosec": [
+                    "Hitachi Basic Master Jr. - Games - [BIN]",
+                    "Hitachi Basic Master Jr. - Games - [WAV]"
+                ]
+            }
+        },
+        "Hitachi Basic Master Jr. Level 2": {
+            "id": "Hitachi Basic Master Jr. Level 2",
+            "name": "Basic Master Jr. Level 2",
+            "company": "Hitachi",
+            "matches": {
+                "tosec": [
+                    "Hitachi Basic Master Jr. Level 2 - Games - [S]",
+                    "Hitachi Basic Master Jr. Level 2 - Games - [WAV]"
+                ]
+            }
+        },
+        "Hitachi Basic Master Jr. Level 3": {
+            "id": "Hitachi Basic Master Jr. Level 3",
+            "name": "Basic Master Jr. Level 3",
+            "company": "Hitachi",
+            "matches": {
+                "tosec": [
+                    "Hitachi Basic Master Jr. Level 3 - Games - [L3]",
+                    "Hitachi Basic Master Jr. Level 3 - Games - [WAV]"
+                ]
+            }
+        },
         "Hitachi S1": {
             "id": "Hitachi S1",
             "name": "S1",
@@ -7083,6 +7201,16 @@
                 ]
             },
             "company": "IBM"
+        },
+        "IBM 3740": {
+            "id": "IBM 3740",
+            "name": "3740",
+            "company": "IBM",
+            "matches": {
+                "tosec": [
+                    "IBM 3740 - Applications"
+                ]
+            }
         },
         "IBM Displaywriter": {
             "id": "IBM Displaywriter",
@@ -8561,6 +8689,17 @@
                 ]
             },
             "company": "Mephisto"
+        },
+        "Michael J. Bauer DREAM-6800": {
+            "id": "Michael J. Bauer DREAM-6800",
+            "name": "DREAM-6800",
+            "company": "Michael J. Bauer",
+            "matches": {
+                "tosec": [
+                    "Michael J. Bauer DREAM-6800 - Applications",
+                    "Michael J. Bauer DREAM-6800 - Operating Systems"
+                ]
+            }
         },
         "Micro Craft Dimension 68000": {
             "id": "Micro Craft Dimension 68000",
@@ -16910,6 +17049,11 @@
                 ]
             }
         },
+        "Dynabyte": {
+            "id": "Dynabyte",
+            "name": "Dynabyte",
+            "matches": []
+        },
         "EACA": {
             "id": "EACA",
             "name": "EACA",
@@ -16952,6 +17096,11 @@
                     "Elecbyte"
                 ]
             }
+        },
+        "Electronics Australia": {
+            "id": "Electronics Australia",
+            "name": "Electronics Australia",
+            "matches": []
         },
         "Elektronika": {
             "id": "Elektronika",
@@ -17630,6 +17779,11 @@
         "Mephisto": {
             "id": "Mephisto",
             "name": "Mephisto",
+            "matches": []
+        },
+        "Michael J. Bauer": {
+            "id": "Michael J. Bauer",
+            "name": "Michael J. Bauer",
             "matches": []
         },
         "Microkey": {
