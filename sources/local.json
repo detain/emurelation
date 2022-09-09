@@ -65,6 +65,16 @@
             },
             "company": "ACT"
         },
+        "ACT Apricot XEN": {
+            "id": "ACT Apricot XEN",
+            "name": "Apricot XEN",
+            "company": "ACT",
+            "matches": {
+                "oldcomputers": [
+                    501
+                ]
+            }
+        },
         "ADC Super Six": {
             "id": "ADC Super Six",
             "name": "Super Six",
@@ -594,6 +604,16 @@
                 ]
             },
             "company": "Advanced Computer Design"
+        },
+        "AlphaSmart 3000": {
+            "id": "AlphaSmart 3000",
+            "name": "3000",
+            "company": "AlphaSmart",
+            "matches": {
+                "oldcomputers": [
+                    1122
+                ]
+            }
         },
         "AlphaSmart Pro": {
             "id": "AlphaSmart Pro",
@@ -2003,6 +2023,16 @@
                 ]
             },
             "company": "Aussie"
+        },
+        "BASF 7100": {
+            "id": "BASF 7100",
+            "name": "7100",
+            "company": "BASF",
+            "matches": {
+                "oldcomputers": [
+                    1301
+                ]
+            }
         },
         "BBC Bridge Companion": {
             "id": "BBC Bridge Companion",
@@ -5152,6 +5182,12 @@
             },
             "company": "Didact"
         },
+        "Digilog 320": {
+            "id": "Digilog 320",
+            "name": "320",
+            "company": "Digilog",
+            "matches": []
+        },
         "Digital Electronics DIGIAC 3080": {
             "id": "Digital Electronics DIGIAC 3080",
             "name": "DIGIAC 3080",
@@ -6215,6 +6251,16 @@
                 ]
             },
             "company": "Fujitsu"
+        },
+        "Fujitsu FM-8": {
+            "id": "Fujitsu FM-8",
+            "name": "FM-8",
+            "company": "Fujitsu",
+            "matches": {
+                "tosec": [
+                    "fm8_cass"
+                ]
+            }
         },
         "Fujitsu FM77-AV": {
             "id": "Fujitsu FM77-AV",
@@ -7486,6 +7532,12 @@
             },
             "company": "ITT"
         },
+        "IVL Technologies Easy Karaoke": {
+            "id": "IVL Technologies Easy Karaoke",
+            "name": "Easy Karaoke",
+            "company": "IVL Technologies",
+            "matches": []
+        },
         "Incredible Technologies Eagle": {
             "id": "Incredible Technologies Eagle",
             "name": "Eagle",
@@ -7951,6 +8003,12 @@
             },
             "company": "LeapFrog"
         },
+        "LeapFrog IQuest": {
+            "id": "LeapFrog IQuest",
+            "name": "IQuest",
+            "company": "LeapFrog",
+            "matches": []
+        },
         "LeapFrog LeapPad": {
             "id": "LeapFrog LeapPad",
             "name": "LeapPad",
@@ -8004,6 +8062,24 @@
                 ]
             },
             "company": "LeapFrog"
+        },
+        "LeapFrog Turbo Extreme": {
+            "id": "LeapFrog Turbo Extreme",
+            "name": "Turbo Extreme",
+            "company": "LeapFrog",
+            "matches": []
+        },
+        "LeapFrog Turbo Twist Brain Quest": {
+            "id": "LeapFrog Turbo Twist Brain Quest",
+            "name": "Turbo Twist Brain Quest",
+            "company": "LeapFrog",
+            "matches": []
+        },
+        "LeapFrog Zippity": {
+            "id": "LeapFrog Zippity",
+            "name": "Zippity",
+            "company": "LeapFrog",
+            "matches": []
         },
         "Luxor ABC 1600": {
             "id": "Luxor ABC 1600",
@@ -8100,6 +8176,12 @@
                 ]
             },
             "company": "Luxor"
+        },
+        "Luxor X37": {
+            "id": "Luxor X37",
+            "name": "X37",
+            "company": "Luxor",
+            "matches": []
         },
         "Lviv PC-01": {
             "id": "Lviv PC-01",
@@ -11721,6 +11803,24 @@
             },
             "company": "Rockwell"
         },
+        "Roland R-8": {
+            "id": "Roland R-8",
+            "name": "R-8",
+            "company": "Roland",
+            "matches": []
+        },
+        "Roland TN-SC1": {
+            "id": "Roland TN-SC1",
+            "name": "TN-SC1",
+            "company": "Roland",
+            "matches": []
+        },
+        "Roland U-110": {
+            "id": "Roland U-110",
+            "name": "U-110",
+            "company": "Roland",
+            "matches": []
+        },
         "Rowtron Television Computer System": {
             "id": "Rowtron Television Computer System",
             "name": "Television Computer System",
@@ -13238,6 +13338,12 @@
             },
             "company": "Sharp"
         },
+        "Sharp Wizard": {
+            "id": "Sharp Wizard",
+            "name": "Wizard",
+            "company": "Sharp",
+            "matches": []
+        },
         "Sharp Wizard OZ-700 Series": {
             "id": "Sharp Wizard OZ-700 Series",
             "name": "Wizard OZ-700 Series",
@@ -13374,6 +13480,16 @@
                 ]
             },
             "company": "Siemens"
+        },
+        "Sinclair PC200": {
+            "id": "Sinclair PC200",
+            "name": "PC200",
+            "company": "Sinclair",
+            "matches": {
+                "mame": [
+                    "pc200"
+                ]
+            }
         },
         "Sinclair QL": {
             "id": "Sinclair QL",
@@ -14222,6 +14338,12 @@
                 ]
             },
             "company": "TRQ"
+        },
+        "Taikee Singing Star Karaoke": {
+            "id": "Taikee Singing Star Karaoke",
+            "name": "Singing Star Karaoke",
+            "company": "Taikee",
+            "matches": []
         },
         "Taito Type X": {
             "id": "Taito Type X",
@@ -15247,6 +15369,16 @@
             },
             "company": "Tiger Electronics"
         },
+        "Tiger Electronics Playmaker": {
+            "id": "Tiger Electronics Playmaker",
+            "name": "Playmaker",
+            "company": "Tiger Electronics",
+            "matches": {
+                "mame": [
+                    "playmaker"
+                ]
+            }
+        },
         "Tiger Electronics R-Zone": {
             "id": "Tiger Electronics R-Zone",
             "name": "R-Zone",
@@ -15859,6 +15991,18 @@
             },
             "company": "VTech"
         },
+        "VTech InnoTAB 1/2/3": {
+            "id": "VTech InnoTAB 1/2/3",
+            "name": "InnoTAB 1/2/3",
+            "company": "VTech",
+            "matches": []
+        },
+        "VTech InnoTV / InnoTAB MAX": {
+            "id": "VTech InnoTV / InnoTAB MAX",
+            "name": "InnoTV / InnoTAB MAX",
+            "company": "VTech",
+            "matches": []
+        },
         "VTech Laser 200": {
             "id": "VTech Laser 200",
             "name": "Laser 200",
@@ -15931,6 +16075,12 @@
                 ]
             },
             "company": "VTech"
+        },
+        "VTech Laser 500": {
+            "id": "VTech Laser 500",
+            "name": "Laser 500",
+            "company": "VTech",
+            "matches": []
         },
         "VTech Mobigo": {
             "id": "VTech Mobigo",
@@ -16701,6 +16851,15 @@
             "name": "Aussie",
             "matches": []
         },
+        "BASF": {
+            "id": "BASF",
+            "name": "BASF",
+            "matches": {
+                "oldcomputers": [
+                    "BASF"
+                ]
+            }
+        },
         "BBC": {
             "id": "BBC",
             "name": "BBC",
@@ -17025,6 +17184,11 @@
         "Didact": {
             "id": "Didact",
             "name": "Didact",
+            "matches": []
+        },
+        "Digilog": {
+            "id": "Digilog",
+            "name": "Digilog",
             "matches": []
         },
         "Digital Electronics": {
@@ -17478,6 +17642,11 @@
                     "ITT"
                 ]
             }
+        },
+        "IVL Technologies": {
+            "id": "IVL Technologies",
+            "name": "IVL Technologies",
+            "matches": []
         },
         "Incredible Technologies": {
             "id": "Incredible Technologies",
@@ -18242,6 +18411,11 @@
                 ]
             }
         },
+        "Roland": {
+            "id": "Roland",
+            "name": "Roland",
+            "matches": []
+        },
         "Rowtron": {
             "id": "Rowtron",
             "name": "Rowtron",
@@ -18480,6 +18654,11 @@
         "TRQ": {
             "id": "TRQ",
             "name": "TRQ",
+            "matches": []
+        },
+        "Taikee": {
+            "id": "Taikee",
+            "name": "Taikee",
             "matches": []
         },
         "Taito": {

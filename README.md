@@ -16,7 +16,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 856 | 0 | 856 | 100% |
+| [Local](sources/local.json) | Custom | 877 | 0 | 877 | 100% |
 | [Redump](sources/redump.json) | DAT | 51 | 0 | 51 | 100% |
 | [No-Intro](sources/nointro.json) | DAT | 266 | 18 | 284 | 93.7% |
 | [TOSEC](sources/tosec.json) | DAT | 2821 | 1 | 2822 | 100% |
@@ -24,9 +24,9 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 663 | 218 | 881 | 75.3% |
 | [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
 | [ScreenScraper](sources/screenscraper.json) | API | 162 | 68 | 230 | 70.4% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 186 | 1102 | 1288 | 14.4% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 189 | 1099 | 1288 | 14.7% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [MAME](sources/mame.json) | Emulator | 628 | 41 | 669 | 93.9% |
+| [MAME](sources/mame.json) | Emulator | 630 | 39 | 669 | 94.2% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
 | [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |
@@ -51,9 +51,9 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 293 | 0 | 293 | 100% |
+| [Local](sources/local.json) | Custom | 298 | 0 | 298 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 28 | 28 | 56 | 50% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 115 | 526 | 641 | 17.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 45 | 80 | 125 | 36% |
 | [RecalBox](sources/recalbox.json) | Frontend | 32 | 21 | 53 | 60.4% |
