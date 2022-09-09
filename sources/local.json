@@ -14912,25 +14912,15 @@
             "name": "Wizard",
             "company": "Sharp",
             "matches": {
+                "tosec": [
+                    "Sharp Wizard OZ-700 Series - Games"
+                ],
                 "mame": [
                     "wizard_cart"
                 ]
             },
             "altNames": [
                 "Sharp Wizard"
-            ]
-        },
-        "Sharp Wizard OZ-700 Series": {
-            "id": "Sharp Wizard OZ-700 Series",
-            "name": "Wizard OZ-700 Series",
-            "matches": {
-                "tosec": [
-                    "Sharp Wizard OZ-700 Series - Games"
-                ]
-            },
-            "company": "Sharp",
-            "altNames": [
-                "Sharp Wizard OZ-700 Series"
             ]
         },
         "Sharp X1": {
@@ -15128,25 +15118,6 @@
                 "Sinclair ZX Microdrive"
             ]
         },
-        "Sinclair ZX Spectrum": {
-            "id": "Sinclair ZX Spectrum",
-            "name": "ZX Spectrum",
-            "matches": {
-                "emulationstation-de": [
-                    "zxspectrum"
-                ],
-                "retropie": [
-                    "zxspectrum"
-                ],
-                "recalbox": [
-                    "zxspectrum"
-                ]
-            },
-            "company": "Sinclair",
-            "altNames": [
-                "Sinclair ZX Spectrum"
-            ]
-        },
         "Sinclair ZX Spectrum +3": {
             "id": "Sinclair ZX Spectrum +3",
             "name": "ZX Spectrum +3",
@@ -15339,7 +15310,19 @@
                     "spectrum_cass",
                     "spectrum_betadisc_flop",
                     "specpls3_flop",
-                    "spectrum_cart"
+                    "spectrum_cart",
+                    "spectrum_wafadrive",
+                    "spectrum_flop_opus",
+                    "spectrum_mgt_flop"
+                ],
+                "emulationstation-de": [
+                    "zxspectrum"
+                ],
+                "retropie": [
+                    "zxspectrum"
+                ],
+                "recalbox": [
+                    "zxspectrum"
                 ],
                 "oldcomputers": [
                     949,
@@ -15364,45 +15347,6 @@
             "company": "Sinclair",
             "altNames": [
                 "Sinclair ZX Spectrum +3"
-            ]
-        },
-        "Sinclair ZX Spectrum MGT DISCiPLE/+D": {
-            "id": "Sinclair ZX Spectrum MGT DISCiPLE/+D",
-            "name": "ZX Spectrum MGT DISCiPLE/+D",
-            "matches": {
-                "mame": [
-                    "spectrum_mgt_flop"
-                ]
-            },
-            "company": "Sinclair",
-            "altNames": [
-                "Sinclair ZX Spectrum MGT DISCiPLE/+D"
-            ]
-        },
-        "Sinclair ZX Spectrum Opus Discovery": {
-            "id": "Sinclair ZX Spectrum Opus Discovery",
-            "name": "ZX Spectrum Opus Discovery",
-            "matches": {
-                "mame": [
-                    "spectrum_flop_opus"
-                ]
-            },
-            "company": "Sinclair",
-            "altNames": [
-                "Sinclair ZX Spectrum Opus Discovery"
-            ]
-        },
-        "Sinclair ZX Wafadrive": {
-            "id": "Sinclair ZX Wafadrive",
-            "name": "ZX Wafadrive",
-            "matches": {
-                "mame": [
-                    "spectrum_wafadrive"
-                ]
-            },
-            "company": "Sinclair",
-            "altNames": [
-                "Sinclair ZX Wafadrive"
             ]
         },
         "Sinclair ZX-80": {
@@ -15826,6 +15770,9 @@
             "id": "Sony SMC-777",
             "name": "SMC-777",
             "matches": {
+                "mame": [
+                    "smc777"
+                ],
                 "tosec": [
                     "Sony SMC-777 - Games - [1DD]",
                     "Sony SMC-777 - Games - [D88]",
@@ -15836,19 +15783,6 @@
             "company": "Sony",
             "altNames": [
                 "Sony SMC-777"
-            ]
-        },
-        "Sony SMC777": {
-            "id": "Sony SMC777",
-            "name": "SMC777",
-            "matches": {
-                "mame": [
-                    "smc777"
-                ]
-            },
-            "company": "Sony",
-            "altNames": [
-                "Sony SMC777"
             ]
         },
         "Sony ZiNc": {
@@ -15901,15 +15835,7 @@
             "name": "Specialist",
             "matches": {
                 "mame": [
-                    "special_cass"
-                ]
-            }
-        },
-        "Specialist MX": {
-            "id": "Specialist MX",
-            "name": "Specialist MX",
-            "matches": {
-                "mame": [
+                    "special_cass",
                     "special_flop"
                 ]
             }
@@ -16048,6 +15974,7 @@
                     "ekara_japan_gk",
                     "ekara_us",
                     "ekara_pal",
+                    "ekara_japan_a",
                     "ekara_japan_web",
                     "ekara_japan_ac",
                     "ekara_japan_bh",
@@ -16059,19 +15986,6 @@
             "company": "Takara",
             "altNames": [
                 "Takara e-kara"
-            ]
-        },
-        "Takara e-pitch - e-kara (Japan) A-x series": {
-            "id": "Takara e-pitch - e-kara (Japan) A-x series",
-            "name": "e-pitch - e-kara (Japan) A-x series",
-            "matches": {
-                "mame": [
-                    "ekara_japan_a"
-                ]
-            },
-            "company": "Takara",
-            "altNames": [
-                "Takara e-pitch - e-kara (Japan) A-x series"
             ]
         },
         "Tandberg TDV 2324": {
@@ -16455,24 +16369,14 @@
             "matches": {
                 "mame": [
                     "tek4052_cart"
-                ]
-            },
-            "company": "Tektronix",
-            "altNames": [
-                "Tektronix 4052"
-            ]
-        },
-        "Tektronix 405x": {
-            "id": "Tektronix 405x",
-            "name": "405x",
-            "matches": {
+                ],
                 "tosec": [
                     "Tektronix 405x - Utilities"
                 ]
             },
             "company": "Tektronix",
             "altNames": [
-                "Tektronix 405x"
+                "Tektronix 4052"
             ]
         },
         "Tektronix 4100 Series": {
