@@ -4881,22 +4881,6 @@
                 "Cybiko Xtreme"
             ]
         },
-        "DAI Personal Computer": {
-            "id": "DAI Personal Computer",
-            "name": "Personal Computer",
-            "matches": {
-                "mame": [
-                    "dai_cass"
-                ],
-                "oldcomputers": [
-                    752
-                ]
-            },
-            "company": "DAI",
-            "altNames": [
-                "DAI Personal Computer"
-            ]
-        },
         "DEC AlphaServer": {
             "id": "DEC AlphaServer",
             "name": "AlphaServer",
@@ -5110,11 +5094,18 @@
                 "tosec": [
                     "Data Applications International DAI Personal Computer - Games - [DAI]",
                     "Data Applications International DAI Personal Computer - Games - [WAV]"
+                ],
+                "mame": [
+                    "dai_cass"
+                ],
+                "oldcomputers": [
+                    752
                 ]
             },
             "company": "Data Applications International",
             "altNames": [
-                "Data Applications International DAI Personal Computer"
+                "Data Applications International DAI Personal Computer",
+                "DAI Personal Computer"
             ]
         },
         "Dick Smith Super-80": {
@@ -5365,20 +5356,6 @@
                 "Dynabyte Monarch"
             ]
         },
-        "EACA Colour Genie EG2000": {
-            "id": "EACA Colour Genie EG2000",
-            "name": "Colour Genie EG2000",
-            "matches": {
-                "mame": [
-                    "cgenie_flop_rom",
-                    "cgenie_cass"
-                ]
-            },
-            "company": "EACA",
-            "altNames": [
-                "EACA Colour Genie EG2000"
-            ]
-        },
         "EACA EG2000 Colour Genie": {
             "id": "EACA EG2000 Colour Genie",
             "name": "EG2000 Colour Genie",
@@ -5423,7 +5400,8 @@
             },
             "company": "EACA",
             "altNames": [
-                "EACA EG2000 Colour Genie"
+                "EACA EG2000 Colour Genie",
+                "EACA Colour Genie EG2000"
             ]
         },
         "EC 1841": {
