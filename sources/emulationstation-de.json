@@ -943,6 +943,9 @@
             "name": "RetroArch (Opera)",
             "platforms": [
                 "3do"
+            ],
+            "altNames": [
+                "opera_libretro"
             ]
         },
         "RetroArch (PUAE)": {
@@ -954,6 +957,9 @@
                 "amiga600",
                 "amigacd32",
                 "cdtv"
+            ],
+            "altNames": [
+                "puae_libretro"
             ]
         },
         "RetroArch (PUAE 2021)": {
@@ -965,6 +971,9 @@
                 "amiga600",
                 "amigacd32",
                 "cdtv"
+            ],
+            "altNames": [
+                "puae2021_libretro"
             ]
         },
         "RetroArch (Caprice32)": {
@@ -973,6 +982,9 @@
             "platforms": [
                 "amstradcpc",
                 "gx4000"
+            ],
+            "altNames": [
+                "cap32_libretro"
             ]
         },
         "RetroArch (CrocoDS)": {
@@ -981,6 +993,9 @@
             "platforms": [
                 "amstradcpc",
                 "gx4000"
+            ],
+            "altNames": [
+                "crocods_libretro"
             ]
         },
         "CPCemu": {
@@ -988,14 +1003,16 @@
             "name": "CPCemu",
             "platforms": [
                 "amstradcpc"
-            ]
+            ],
+            "altNames": []
         },
         "AppleWin": {
             "id": "AppleWin",
             "name": "AppleWin",
             "platforms": [
                 "apple2"
-            ]
+            ],
+            "altNames": []
         },
         "Mednafen": {
             "id": "Mednafen",
@@ -1026,7 +1043,8 @@
                 "virtualboy",
                 "wonderswan",
                 "wonderswancolor"
-            ]
+            ],
+            "altNames": []
         },
         "MAME": {
             "id": "MAME",
@@ -1040,7 +1058,8 @@
                 "gx4000",
                 "mame",
                 "ti99"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (MAME - Current)": {
             "id": "RetroArch (MAME - Current)",
@@ -1050,6 +1069,9 @@
                 "astrocde",
                 "cps",
                 "mame"
+            ],
+            "altNames": [
+                "mame_libretro"
             ]
         },
         "RetroArch (MAME 2010)": {
@@ -1059,6 +1081,9 @@
                 "arcade",
                 "cps",
                 "mame"
+            ],
+            "altNames": [
+                "mame2010_libretro"
             ]
         },
         "RetroArch (MAME 2003-Plus)": {
@@ -1068,6 +1093,9 @@
                 "arcade",
                 "cps",
                 "mame"
+            ],
+            "altNames": [
+                "mame2003_plus_libretro"
             ]
         },
         "RetroArch (MAME 2000)": {
@@ -1077,6 +1105,9 @@
                 "arcade",
                 "cps",
                 "mame"
+            ],
+            "altNames": [
+                "mame2000_libretro"
             ]
         },
         "RetroArch (FinalBurn Neo)": {
@@ -1086,6 +1117,9 @@
                 "arcade",
                 "cps",
                 "mame"
+            ],
+            "altNames": [
+                "fbneo_libretro"
             ]
         },
         "RetroArch (FB Alpha 2012)": {
@@ -1096,6 +1130,9 @@
                 "cps",
                 "fba",
                 "mame"
+            ],
+            "altNames": [
+                "fbalpha2012_libretro"
             ]
         },
         "RetroArch (Flycast)": {
@@ -1108,6 +1145,9 @@
                 "mame",
                 "naomi",
                 "naomigd"
+            ],
+            "altNames": [
+                "flycast_libretro"
             ]
         },
         "Flycast": {
@@ -1120,7 +1160,8 @@
                 "mame",
                 "naomi",
                 "naomigd"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Kronos)": {
             "id": "RetroArch (Kronos)",
@@ -1130,6 +1171,9 @@
                 "mame",
                 "saturn",
                 "saturnjp"
+            ],
+            "altNames": [
+                "kronos_libretro"
             ]
         },
         "Model 2 Emulator": {
@@ -1139,7 +1183,8 @@
                 "arcade",
                 "mame",
                 "model2"
-            ]
+            ],
+            "altNames": []
         },
         "Model 2 Emulator [Suspend ES-DE]": {
             "id": "Model 2 Emulator [Suspend ES-DE]",
@@ -1148,7 +1193,8 @@
                 "arcade",
                 "mame",
                 "model2"
-            ]
+            ],
+            "altNames": []
         },
         "Supermodel": {
             "id": "Supermodel",
@@ -1157,13 +1203,17 @@
                 "arcade",
                 "mame",
                 "model3"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Stella)": {
             "id": "RetroArch (Stella)",
             "name": "RetroArch (Stella)",
             "platforms": [
                 "atari2600"
+            ],
+            "altNames": [
+                "stella_libretro"
             ]
         },
         "RetroArch (Stella 2014)": {
@@ -1171,6 +1221,9 @@
             "name": "RetroArch (Stella 2014)",
             "platforms": [
                 "atari2600"
+            ],
+            "altNames": [
+                "stella2014_libretro"
             ]
         },
         "ares": {
@@ -1209,13 +1262,17 @@
                 "tg-cd",
                 "wonderswan",
                 "wonderswancolor"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (a5200)": {
             "id": "RetroArch (a5200)",
             "name": "RetroArch (a5200)",
             "platforms": [
                 "atari5200"
+            ],
+            "altNames": [
+                "a5200_libretro"
             ]
         },
         "RetroArch (Atari800)": {
@@ -1225,6 +1282,9 @@
                 "atari5200",
                 "atari800",
                 "atarixe"
+            ],
+            "altNames": [
+                "atari800_libretro"
             ]
         },
         "Atari800": {
@@ -1234,7 +1294,8 @@
                 "atari5200",
                 "atari800",
                 "atarixe"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch": {
             "id": "RetroArch",
@@ -1272,6 +1333,34 @@
                 "x68000",
                 "zx81",
                 "zxspectrum"
+            ],
+            "altNames": [
+                "prosystem_libretro",
+                "virtualjaguar_libretro",
+                "hatari_libretro",
+                "nxengine_libretro",
+                "chailove_libretro",
+                "freechaf_libretro",
+                "fbneo_libretro",
+                "gw_libretro",
+                "freeintv_libretro",
+                "lutro_libretro",
+                "mess2015_libretro",
+                "theodore_libretro",
+                "bluemsx_libretro",
+                "gearsystem_libretro",
+                "neocd_libretro",
+                "o2em_libretro",
+                "mu_libretro",
+                "quasi88_libretro",
+                "pokemini_libretro",
+                "tic80_libretro",
+                "uzem_libretro",
+                "vecx_libretro",
+                "x1_libretro",
+                "px68k_libretro",
+                "81_libretro",
+                "fuse_libretro"
             ]
         },
         "RetroArch (Handy)": {
@@ -1279,6 +1368,9 @@
             "name": "RetroArch (Handy)",
             "platforms": [
                 "atarilynx"
+            ],
+            "altNames": [
+                "handy_libretro"
             ]
         },
         "RetroArch (Beetle Lynx)": {
@@ -1286,6 +1378,9 @@
             "name": "RetroArch (Beetle Lynx)",
             "platforms": [
                 "atarilynx"
+            ],
+            "altNames": [
+                "mednafen_lynx_libretro"
             ]
         },
         "RetroArch (VICE x64sc Accurate)": {
@@ -1293,6 +1388,9 @@
             "name": "RetroArch (VICE x64sc Accurate)",
             "platforms": [
                 "c64"
+            ],
+            "altNames": [
+                "vice_x64sc_libretro"
             ]
         },
         "VICE x64sc Accurate": {
@@ -1300,13 +1398,17 @@
             "name": "VICE x64sc Accurate",
             "platforms": [
                 "c64"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (VICE x64 Fast)": {
             "id": "RetroArch (VICE x64 Fast)",
             "name": "RetroArch (VICE x64 Fast)",
             "platforms": [
                 "c64"
+            ],
+            "altNames": [
+                "vice_x64_libretro"
             ]
         },
         "RetroArch (VICE x64 SuperCPU)": {
@@ -1314,6 +1416,9 @@
             "name": "RetroArch (VICE x64 SuperCPU)",
             "platforms": [
                 "c64"
+            ],
+            "altNames": [
+                "vice_xscpu64_libretro"
             ]
         },
         "RetroArch (VICE x128)": {
@@ -1321,6 +1426,9 @@
             "name": "RetroArch (VICE x128)",
             "platforms": [
                 "c64"
+            ],
+            "altNames": [
+                "vice_x128_libretro"
             ]
         },
         "RetroArch (Frodo)": {
@@ -1328,6 +1436,9 @@
             "name": "RetroArch (Frodo)",
             "platforms": [
                 "c64"
+            ],
+            "altNames": [
+                "frodo_libretro"
             ]
         },
         "RetroArch (SAME CDi)": {
@@ -1335,6 +1446,9 @@
             "name": "RetroArch (SAME CDi)",
             "platforms": [
                 "cdimono1"
+            ],
+            "altNames": [
+                "same_cdi_libretro"
             ]
         },
         "RetroArch (CDi 2015)": {
@@ -1342,6 +1456,9 @@
             "name": "RetroArch (CDi 2015)",
             "platforms": [
                 "cdimono1"
+            ],
+            "altNames": [
+                "cdi2015_libretro"
             ]
         },
         "XRoar CoCo 2 NTSC": {
@@ -1349,14 +1466,16 @@
             "name": "XRoar CoCo 2 NTSC",
             "platforms": [
                 "coco"
-            ]
+            ],
+            "altNames": []
         },
         "XRoar CoCo 2 PAL": {
             "id": "XRoar CoCo 2 PAL",
             "name": "XRoar CoCo 2 PAL",
             "platforms": [
                 "coco"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (blueMSX)": {
             "id": "RetroArch (blueMSX)",
@@ -1367,6 +1486,9 @@
                 "msx1",
                 "msx2",
                 "sg-1000"
+            ],
+            "altNames": [
+                "bluemsx_libretro"
             ]
         },
         "RetroArch (Gearcoleco)": {
@@ -1374,6 +1496,9 @@
             "name": "RetroArch (Gearcoleco)",
             "platforms": [
                 "colecovision"
+            ],
+            "altNames": [
+                "gearcoleco_libretro"
             ]
         },
         "RetroArch (FB Alpha 2012 CPS-1)": {
@@ -1382,6 +1507,9 @@
             "platforms": [
                 "cps",
                 "fba"
+            ],
+            "altNames": [
+                "fbalpha2012_cps1_libretro"
             ]
         },
         "RetroArch (FB Alpha 2012 CPS-2)": {
@@ -1390,6 +1518,9 @@
             "platforms": [
                 "cps",
                 "fba"
+            ],
+            "altNames": [
+                "fbalpha2012_cps2_libretro"
             ]
         },
         "RetroArch (FB Alpha 2012 CPS-3)": {
@@ -1398,6 +1529,9 @@
             "platforms": [
                 "cps",
                 "fba"
+            ],
+            "altNames": [
+                "fbalpha2012_cps3_libretro"
             ]
         },
         "Hypseus [Daphne]": {
@@ -1405,34 +1539,41 @@
             "name": "Hypseus [Daphne]",
             "platforms": [
                 "daphne"
-            ]
+            ],
+            "altNames": []
         },
         "Hypseus [Singe]": {
             "id": "Hypseus [Singe]",
             "name": "Hypseus [Singe]",
             "platforms": [
                 "daphne"
-            ]
+            ],
+            "altNames": []
         },
         "Suspend ES-DE": {
             "id": "Suspend ES-DE",
             "name": "Suspend ES-DE",
             "platforms": [
                 "desktop"
-            ]
+            ],
+            "altNames": []
         },
         "Keep ES-DE running": {
             "id": "Keep ES-DE running",
             "name": "Keep ES-DE running",
             "platforms": [
                 "desktop"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (PrBoom)": {
             "id": "RetroArch (PrBoom)",
             "name": "RetroArch (PrBoom)",
             "platforms": [
                 "doom"
+            ],
+            "altNames": [
+                "prboom_libretro"
             ]
         },
         "RetroArch (Boom 3)": {
@@ -1440,6 +1581,9 @@
             "name": "RetroArch (Boom 3)",
             "platforms": [
                 "doom"
+            ],
+            "altNames": [
+                "boom3_libretro"
             ]
         },
         "RetroArch (Boom 3 xp)": {
@@ -1447,6 +1591,9 @@
             "name": "RetroArch (Boom 3 xp)",
             "platforms": [
                 "doom"
+            ],
+            "altNames": [
+                "boom3_xp_libretro"
             ]
         },
         "Shortcut or script": {
@@ -1454,7 +1601,8 @@
             "name": "Shortcut or script",
             "platforms": [
                 "doom"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (DOSBox-Pure)": {
             "id": "RetroArch (DOSBox-Pure)",
@@ -1462,6 +1610,9 @@
             "platforms": [
                 "dos",
                 "pc"
+            ],
+            "altNames": [
+                "dosbox_pure_libretro"
             ]
         },
         "RetroArch (DOSBox-Core)": {
@@ -1470,6 +1621,9 @@
             "platforms": [
                 "dos",
                 "pc"
+            ],
+            "altNames": [
+                "dosbox_core_libretro"
             ]
         },
         "RetroArch (DOSBox-SVN)": {
@@ -1478,6 +1632,9 @@
             "platforms": [
                 "dos",
                 "pc"
+            ],
+            "altNames": [
+                "dosbox_svn_libretro"
             ]
         },
         "DOSBox-X": {
@@ -1486,7 +1643,8 @@
             "platforms": [
                 "dos",
                 "pc"
-            ]
+            ],
+            "altNames": []
         },
         "DOSBox Staging": {
             "id": "DOSBox Staging",
@@ -1494,34 +1652,41 @@
             "platforms": [
                 "dos",
                 "pc"
-            ]
+            ],
+            "altNames": []
         },
         "XRoar Dragon 32": {
             "id": "XRoar Dragon 32",
             "name": "XRoar Dragon 32",
             "platforms": [
                 "dragon32"
-            ]
+            ],
+            "altNames": []
         },
         "XRoar Dragon 64": {
             "id": "XRoar Dragon 64",
             "name": "XRoar Dragon 64",
             "platforms": [
                 "dragon32"
-            ]
+            ],
+            "altNames": []
         },
         "Redream": {
             "id": "Redream",
             "name": "Redream",
             "platforms": [
                 "dreamcast"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (EasyRPG)": {
             "id": "RetroArch (EasyRPG)",
             "name": "RetroArch (EasyRPG)",
             "platforms": [
                 "easyrpg"
+            ],
+            "altNames": [
+                "easyrpg_libretro"
             ]
         },
         "EasyRPG Player": {
@@ -1529,7 +1694,8 @@
             "name": "EasyRPG Player",
             "platforms": [
                 "easyrpg"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Mesen)": {
             "id": "RetroArch (Mesen)",
@@ -1538,6 +1704,9 @@
                 "famicom",
                 "fds",
                 "nes"
+            ],
+            "altNames": [
+                "mesen_libretro"
             ]
         },
         "RetroArch (Nestopia UE)": {
@@ -1547,6 +1716,9 @@
                 "famicom",
                 "fds",
                 "nes"
+            ],
+            "altNames": [
+                "nestopia_libretro"
             ]
         },
         "RetroArch (FCEUmm)": {
@@ -1556,6 +1728,9 @@
                 "famicom",
                 "fds",
                 "nes"
+            ],
+            "altNames": [
+                "fceumm_libretro"
             ]
         },
         "RetroArch (QuickNES)": {
@@ -1564,6 +1739,9 @@
             "platforms": [
                 "famicom",
                 "nes"
+            ],
+            "altNames": [
+                "quicknes_libretro"
             ]
         },
         "ares FDS": {
@@ -1572,13 +1750,17 @@
             "platforms": [
                 "famicom",
                 "nes"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (FB Alpha 2012 Neo Geo)": {
             "id": "RetroArch (FB Alpha 2012 Neo Geo)",
             "name": "RetroArch (FB Alpha 2012 Neo Geo)",
             "platforms": [
                 "fba"
+            ],
+            "altNames": [
+                "fbalpha2012_neogeo_libretro"
             ]
         },
         "Ruffle": {
@@ -1586,21 +1768,24 @@
             "name": "Ruffle",
             "platforms": [
                 "flash"
-            ]
+            ],
+            "altNames": []
         },
         "ArcadeFlashWeb": {
             "id": "ArcadeFlashWeb",
             "name": "ArcadeFlashWeb",
             "platforms": [
                 "flash"
-            ]
+            ],
+            "altNames": []
         },
         "Tsugaru": {
             "id": "Tsugaru",
             "name": "Tsugaru",
             "platforms": [
                 "fmtowns"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Genesis Plus GX)": {
             "id": "RetroArch (Genesis Plus GX)",
@@ -1614,6 +1799,9 @@
                 "megadrive",
                 "segacd",
                 "sg-1000"
+            ],
+            "altNames": [
+                "genesis_plus_gx_libretro"
             ]
         },
         "RetroArch (Genesis Plus GX Wide)": {
@@ -1628,6 +1816,9 @@
                 "megadrive",
                 "segacd",
                 "sg-1000"
+            ],
+            "altNames": [
+                "genesis_plus_gx_wide_libretro"
             ]
         },
         "RetroArch (Gearsystem)": {
@@ -1637,6 +1828,9 @@
                 "gamegear",
                 "mastersystem",
                 "sg-1000"
+            ],
+            "altNames": [
+                "gearsystem_libretro"
             ]
         },
         "RetroArch (SMS Plus GX)": {
@@ -1645,6 +1839,9 @@
             "platforms": [
                 "gamegear",
                 "mastersystem"
+            ],
+            "altNames": [
+                "smsplus_libretro"
             ]
         },
         "RetroArch (Gambatte)": {
@@ -1653,6 +1850,9 @@
             "platforms": [
                 "gb",
                 "gbc"
+            ],
+            "altNames": [
+                "gambatte_libretro"
             ]
         },
         "RetroArch (SameBoy)": {
@@ -1661,6 +1861,9 @@
             "platforms": [
                 "gb",
                 "gbc"
+            ],
+            "altNames": [
+                "sameboy_libretro"
             ]
         },
         "RetroArch (Gearboy)": {
@@ -1669,6 +1872,9 @@
             "platforms": [
                 "gb",
                 "gbc"
+            ],
+            "altNames": [
+                "gearboy_libretro"
             ]
         },
         "RetroArch (TGB Dual)": {
@@ -1677,6 +1883,9 @@
             "platforms": [
                 "gb",
                 "gbc"
+            ],
+            "altNames": [
+                "tgbdual_libretro"
             ]
         },
         "RetroArch (Mesen-S)": {
@@ -1690,6 +1899,9 @@
                 "sgb",
                 "snes",
                 "snesna"
+            ],
+            "altNames": [
+                "mesen-s_libretro"
             ]
         },
         "RetroArch (bsnes)": {
@@ -1703,6 +1915,9 @@
                 "snes",
                 "snesna",
                 "sufami"
+            ],
+            "altNames": [
+                "bsnes_libretro"
             ]
         },
         "RetroArch (mGBA)": {
@@ -1713,6 +1928,9 @@
                 "gba",
                 "gbc",
                 "sgb"
+            ],
+            "altNames": [
+                "mgba_libretro"
             ]
         },
         "mGBA": {
@@ -1723,7 +1941,8 @@
                 "gba",
                 "gbc",
                 "sgb"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (VBA-M)": {
             "id": "RetroArch (VBA-M)",
@@ -1732,6 +1951,9 @@
                 "gb",
                 "gba",
                 "gbc"
+            ],
+            "altNames": [
+                "vbam_libretro"
             ]
         },
         "VBA-M": {
@@ -1741,13 +1963,17 @@
                 "gb",
                 "gba",
                 "gbc"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (VBA Next)": {
             "id": "RetroArch (VBA Next)",
             "name": "RetroArch (VBA Next)",
             "platforms": [
                 "gba"
+            ],
+            "altNames": [
+                "vba_next_libretro"
             ]
         },
         "RetroArch (gpSP)": {
@@ -1755,6 +1981,9 @@
             "name": "RetroArch (gpSP)",
             "platforms": [
                 "gba"
+            ],
+            "altNames": [
+                "gpsp_libretro"
             ]
         },
         "RetroArch (Dolphin)": {
@@ -1763,6 +1992,9 @@
             "platforms": [
                 "gc",
                 "wii"
+            ],
+            "altNames": [
+                "dolphin_libretro"
             ]
         },
         "Dolphin": {
@@ -1771,7 +2003,8 @@
             "platforms": [
                 "gc",
                 "wii"
-            ]
+            ],
+            "altNames": []
         },
         "PrimeHack": {
             "id": "PrimeHack",
@@ -1779,14 +2012,16 @@
             "platforms": [
                 "gc",
                 "wii"
-            ]
+            ],
+            "altNames": []
         },
         "Triforce": {
             "id": "Triforce",
             "name": "Triforce",
             "platforms": [
                 "gc"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (PicoDrive)": {
             "id": "RetroArch (PicoDrive)",
@@ -1801,6 +2036,9 @@
                 "sega32xjp",
                 "sega32xna",
                 "segacd"
+            ],
+            "altNames": [
+                "picodrive_libretro"
             ]
         },
         "RetroArch (BlastEm)": {
@@ -1809,6 +2047,9 @@
             "platforms": [
                 "genesis",
                 "megadrive"
+            ],
+            "altNames": [
+                "blastem_libretro"
             ]
         },
         "RetroArch (SquirrelJME)": {
@@ -1816,6 +2057,9 @@
             "name": "RetroArch (SquirrelJME)",
             "platforms": [
                 "j2me"
+            ],
+            "altNames": [
+                "squirreljme_libretro"
             ]
         },
         "KEmulator": {
@@ -1823,27 +2067,33 @@
             "name": "KEmulator",
             "platforms": [
                 "j2me"
-            ]
+            ],
+            "altNames": []
         },
         "Basilisk II": {
             "id": "Basilisk II",
             "name": "Basilisk II",
             "platforms": [
                 "macintosh"
-            ]
+            ],
+            "altNames": []
         },
         "SheepShaver": {
             "id": "SheepShaver",
             "name": "SheepShaver",
             "platforms": [
                 "macintosh"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (SameDuck)": {
             "id": "RetroArch (SameDuck)",
             "name": "RetroArch (SameDuck)",
             "platforms": [
                 "megaduck"
+            ],
+            "altNames": [
+                "sameduck_libretro"
             ]
         },
         "RetroArch (fMSX)": {
@@ -1853,6 +2103,9 @@
                 "msx",
                 "msx1",
                 "msx2"
+            ],
+            "altNames": [
+                "fmsx_libretro"
             ]
         },
         "M.U.G.E.N": {
@@ -1860,13 +2113,17 @@
             "name": "M.U.G.E.N",
             "platforms": [
                 "mugen"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Citra)": {
             "id": "RetroArch (Citra)",
             "name": "RetroArch (Citra)",
             "platforms": [
                 "n3ds"
+            ],
+            "altNames": [
+                "citra_libretro"
             ]
         },
         "RetroArch (Citra 2018)": {
@@ -1874,6 +2131,9 @@
             "name": "RetroArch (Citra 2018)",
             "platforms": [
                 "n3ds"
+            ],
+            "altNames": [
+                "citra2018_libretro"
             ]
         },
         "Citra": {
@@ -1881,7 +2141,8 @@
             "name": "Citra",
             "platforms": [
                 "n3ds"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Mupen64Plus-Next)": {
             "id": "RetroArch (Mupen64Plus-Next)",
@@ -1889,6 +2150,9 @@
             "platforms": [
                 "n64",
                 "n64dd"
+            ],
+            "altNames": [
+                "mupen64plus_next_libretro"
             ]
         },
         "Mupen64Plus": {
@@ -1896,7 +2160,8 @@
             "name": "Mupen64Plus",
             "platforms": [
                 "n64"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (ParaLLEl N64)": {
             "id": "RetroArch (ParaLLEl N64)",
@@ -1904,6 +2169,9 @@
             "platforms": [
                 "n64",
                 "n64dd"
+            ],
+            "altNames": [
+                "parallel_n64_libretro"
             ]
         },
         "Project64": {
@@ -1911,13 +2179,17 @@
             "name": "Project64",
             "platforms": [
                 "n64"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (DeSmuME)": {
             "id": "RetroArch (DeSmuME)",
             "name": "RetroArch (DeSmuME)",
             "platforms": [
                 "nds"
+            ],
+            "altNames": [
+                "desmume_libretro"
             ]
         },
         "RetroArch (DeSmuME 2015)": {
@@ -1925,6 +2197,9 @@
             "name": "RetroArch (DeSmuME 2015)",
             "platforms": [
                 "nds"
+            ],
+            "altNames": [
+                "desmume2015_libretro"
             ]
         },
         "RetroArch (melonDS)": {
@@ -1932,6 +2207,9 @@
             "name": "RetroArch (melonDS)",
             "platforms": [
                 "nds"
+            ],
+            "altNames": [
+                "melonds_libretro"
             ]
         },
         "melonDS": {
@@ -1939,7 +2217,8 @@
             "name": "melonDS",
             "platforms": [
                 "nds"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Beetle NeoPop)": {
             "id": "RetroArch (Beetle NeoPop)",
@@ -1947,6 +2226,9 @@
             "platforms": [
                 "ngp",
                 "ngpc"
+            ],
+            "altNames": [
+                "mednafen_ngp_libretro"
             ]
         },
         "RetroArch (RACE)": {
@@ -1955,6 +2237,9 @@
             "platforms": [
                 "ngp",
                 "ngpc"
+            ],
+            "altNames": [
+                "race_libretro"
             ]
         },
         "Oricutron": {
@@ -1962,13 +2247,17 @@
             "name": "Oricutron",
             "platforms": [
                 "oric"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Neko Project II Kai)": {
             "id": "RetroArch (Neko Project II Kai)",
             "name": "RetroArch (Neko Project II Kai)",
             "platforms": [
                 "pc98"
+            ],
+            "altNames": [
+                "np2kai_libretro"
             ]
         },
         "RetroArch (Neko Project II)": {
@@ -1976,6 +2265,9 @@
             "name": "RetroArch (Neko Project II)",
             "platforms": [
                 "pc98"
+            ],
+            "altNames": [
+                "nekop2_libretro"
             ]
         },
         "RetroArch (Beetle PCE)": {
@@ -1987,6 +2279,9 @@
                 "supergrafx",
                 "tg16",
                 "tg-cd"
+            ],
+            "altNames": [
+                "mednafen_pce_libretro"
             ]
         },
         "RetroArch (Beetle PCE FAST)": {
@@ -1997,6 +2292,9 @@
                 "pcenginecd",
                 "tg16",
                 "tg-cd"
+            ],
+            "altNames": [
+                "mednafen_pce_fast_libretro"
             ]
         },
         "RetroArch (Beetle PC-FX)": {
@@ -2004,6 +2302,9 @@
             "name": "RetroArch (Beetle PC-FX)",
             "platforms": [
                 "pcfx"
+            ],
+            "altNames": [
+                "mednafen_pcfx_libretro"
             ]
         },
         "PICO-8": {
@@ -2011,20 +2312,25 @@
             "name": "PICO-8",
             "platforms": [
                 "pico8"
-            ]
+            ],
+            "altNames": []
         },
         "PICO-8 Splore": {
             "id": "PICO-8 Splore",
             "name": "PICO-8 Splore",
             "platforms": [
                 "pico8"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (PCSX2)": {
             "id": "RetroArch (PCSX2)",
             "name": "RetroArch (PCSX2)",
             "platforms": [
                 "ps2"
+            ],
+            "altNames": [
+                "pcsx2_libretro"
             ]
         },
         "PCSX2": {
@@ -2032,41 +2338,49 @@
             "name": "PCSX2",
             "platforms": [
                 "ps2"
-            ]
+            ],
+            "altNames": []
         },
         "PCSX2 Legacy": {
             "id": "PCSX2 Legacy",
             "name": "PCSX2 Legacy",
             "platforms": [
                 "ps2"
-            ]
+            ],
+            "altNames": []
         },
         "Play!": {
             "id": "Play!",
             "name": "Play!",
             "platforms": [
                 "ps2"
-            ]
+            ],
+            "altNames": []
         },
         "RPCS3 Shortcut": {
             "id": "RPCS3 Shortcut",
             "name": "RPCS3 Shortcut",
             "platforms": [
                 "ps3"
-            ]
+            ],
+            "altNames": []
         },
         "RPCS3 Directory": {
             "id": "RPCS3 Directory",
             "name": "RPCS3 Directory",
             "platforms": [
                 "ps3"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (PPSSPP)": {
             "id": "RetroArch (PPSSPP)",
             "name": "RetroArch (PPSSPP)",
             "platforms": [
                 "psp"
+            ],
+            "altNames": [
+                "ppsspp_libretro"
             ]
         },
         "PPSSPP": {
@@ -2074,20 +2388,25 @@
             "name": "PPSSPP",
             "platforms": [
                 "psp"
-            ]
+            ],
+            "altNames": []
         },
         "Vita3K": {
             "id": "Vita3K",
             "name": "Vita3K",
             "platforms": [
                 "psvita"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Beetle PSX)": {
             "id": "RetroArch (Beetle PSX)",
             "name": "RetroArch (Beetle PSX)",
             "platforms": [
                 "psx"
+            ],
+            "altNames": [
+                "mednafen_psx_libretro"
             ]
         },
         "RetroArch (Beetle PSX HW)": {
@@ -2095,6 +2414,9 @@
             "name": "RetroArch (Beetle PSX HW)",
             "platforms": [
                 "psx"
+            ],
+            "altNames": [
+                "mednafen_psx_hw_libretro"
             ]
         },
         "RetroArch (PCSX ReARMed)": {
@@ -2102,6 +2424,9 @@
             "name": "RetroArch (PCSX ReARMed)",
             "platforms": [
                 "psx"
+            ],
+            "altNames": [
+                "pcsx_rearmed_libretro"
             ]
         },
         "RetroArch (SwanStation)": {
@@ -2109,6 +2434,9 @@
             "name": "RetroArch (SwanStation)",
             "platforms": [
                 "psx"
+            ],
+            "altNames": [
+                "swanstation_libretro"
             ]
         },
         "DuckStation": {
@@ -2116,7 +2444,8 @@
             "name": "DuckStation",
             "platforms": [
                 "psx"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Snes9x - Current)": {
             "id": "RetroArch (Snes9x - Current)",
@@ -2127,6 +2456,9 @@
                 "snes",
                 "snesna",
                 "sufami"
+            ],
+            "altNames": [
+                "snes9x_libretro"
             ]
         },
         "RetroArch (Snes9x 2010)": {
@@ -2138,6 +2470,9 @@
                 "snes",
                 "snesna",
                 "sufami"
+            ],
+            "altNames": [
+                "snes9x2010_libretro"
             ]
         },
         "Snes9x": {
@@ -2149,7 +2484,8 @@
                 "snes",
                 "snesna",
                 "sufami"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (bsnes-hd)": {
             "id": "RetroArch (bsnes-hd)",
@@ -2160,6 +2496,9 @@
                 "snes",
                 "snesna",
                 "sufami"
+            ],
+            "altNames": [
+                "bsnes_hd_beta_libretro"
             ]
         },
         "RetroArch (bsnes-mercury Accuracy)": {
@@ -2171,6 +2510,9 @@
                 "snes",
                 "snesna",
                 "sufami"
+            ],
+            "altNames": [
+                "bsnes_mercury_accuracy_libretro"
             ]
         },
         "bsnes": {
@@ -2182,7 +2524,8 @@
                 "snes",
                 "snesna",
                 "sufami"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Beetle Saturn)": {
             "id": "RetroArch (Beetle Saturn)",
@@ -2190,6 +2533,9 @@
             "platforms": [
                 "saturn",
                 "saturnjp"
+            ],
+            "altNames": [
+                "mednafen_saturn_libretro"
             ]
         },
         "RetroArch (YabaSanshiro)": {
@@ -2198,6 +2544,9 @@
             "platforms": [
                 "saturn",
                 "saturnjp"
+            ],
+            "altNames": [
+                "yabasanshiro_libretro"
             ]
         },
         "RetroArch (Yabause)": {
@@ -2206,6 +2555,9 @@
             "platforms": [
                 "saturn",
                 "saturnjp"
+            ],
+            "altNames": [
+                "yabause_libretro"
             ]
         },
         "RetroArch (ScummVM)": {
@@ -2213,6 +2565,9 @@
             "name": "RetroArch (ScummVM)",
             "platforms": [
                 "scummvm"
+            ],
+            "altNames": [
+                "scummvm_libretro"
             ]
         },
         "ScummVM": {
@@ -2220,7 +2575,8 @@
             "name": "ScummVM",
             "platforms": [
                 "scummvm"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Beetle Supafaust)": {
             "id": "RetroArch (Beetle Supafaust)",
@@ -2229,6 +2585,9 @@
                 "sfc",
                 "snes",
                 "snesna"
+            ],
+            "altNames": [
+                "mednafen_supafaust_libretro"
             ]
         },
         "RetroArch (Beetle SuperGrafx)": {
@@ -2236,6 +2595,9 @@
             "name": "RetroArch (Beetle SuperGrafx)",
             "platforms": [
                 "supergrafx"
+            ],
+            "altNames": [
+                "mednafen_supergrafx_libretro"
             ]
         },
         "RetroArch (Potator)": {
@@ -2243,6 +2605,9 @@
             "name": "RetroArch (Potator)",
             "platforms": [
                 "supervision"
+            ],
+            "altNames": [
+                "potator_libretro"
             ]
         },
         "Yuzu": {
@@ -2250,48 +2615,57 @@
             "name": "Yuzu",
             "platforms": [
                 "switch"
-            ]
+            ],
+            "altNames": []
         },
         "Ryujinx": {
             "id": "Ryujinx",
             "name": "Ryujinx",
             "platforms": [
                 "switch"
-            ]
+            ],
+            "altNames": []
         },
         "XRoar": {
             "id": "XRoar",
             "name": "XRoar",
             "platforms": [
                 "tanodragon"
-            ]
+            ],
+            "altNames": []
         },
         "sdl2trs DOS Diskette": {
             "id": "sdl2trs DOS Diskette",
             "name": "sdl2trs DOS Diskette",
             "platforms": [
                 "trs-80"
-            ]
+            ],
+            "altNames": []
         },
         "sdl2trs Bootable Diskette": {
             "id": "sdl2trs Bootable Diskette",
             "name": "sdl2trs Bootable Diskette",
             "platforms": [
                 "trs-80"
-            ]
+            ],
+            "altNames": []
         },
         "sdl2trs CMD File": {
             "id": "sdl2trs CMD File",
             "name": "sdl2trs CMD File",
             "platforms": [
                 "trs-80"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (VICE xvic)": {
             "id": "RetroArch (VICE xvic)",
             "name": "RetroArch (VICE xvic)",
             "platforms": [
                 "vic20"
+            ],
+            "altNames": [
+                "vice_xvic_libretro"
             ]
         },
         "VICE xvic": {
@@ -2299,13 +2673,17 @@
             "name": "VICE xvic",
             "platforms": [
                 "vic20"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Beetle VB)": {
             "id": "RetroArch (Beetle VB)",
             "name": "RetroArch (Beetle VB)",
             "platforms": [
                 "virtualboy"
+            ],
+            "altNames": [
+                "mednafen_vb_libretro"
             ]
         },
         "Cemu": {
@@ -2313,7 +2691,8 @@
             "name": "Cemu",
             "platforms": [
                 "wiiu"
-            ]
+            ],
+            "altNames": []
         },
         "RetroArch (Beetle Cygne)": {
             "id": "RetroArch (Beetle Cygne)",
@@ -2321,6 +2700,9 @@
             "platforms": [
                 "wonderswan",
                 "wonderswancolor"
+            ],
+            "altNames": [
+                "mednafen_wswan_libretro"
             ]
         },
         "xemu": {
@@ -2328,21 +2710,24 @@
             "name": "xemu",
             "platforms": [
                 "xbox"
-            ]
+            ],
+            "altNames": []
         },
         "Cxbx-Reloaded": {
             "id": "Cxbx-Reloaded",
             "name": "Cxbx-Reloaded",
             "platforms": [
                 "xbox"
-            ]
+            ],
+            "altNames": []
         },
         "xenia": {
             "id": "xenia",
             "name": "xenia",
             "platforms": [
                 "xbox360"
-            ]
+            ],
+            "altNames": []
         }
     }
 }

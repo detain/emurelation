@@ -1629,7 +1629,9 @@
             "platforms": [
                 "zx81"
             ],
-            "altNames": []
+            "altNames": [
+                "81_libretro"
+            ]
         },
         "lr-atari800": {
             "id": "lr-atari800",
@@ -1639,7 +1641,9 @@
                 "atari800",
                 "atari5200"
             ],
-            "altNames": []
+            "altNames": [
+                "atari800_libretro"
+            ]
         },
         "lr-beetle-lynx": {
             "id": "lr-beetle-lynx",
@@ -1648,7 +1652,9 @@
             "platforms": [
                 "atarilynx"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_lynx_libretro"
+            ]
         },
         "lr-beetle-ngp": {
             "id": "lr-beetle-ngp",
@@ -1658,7 +1664,9 @@
                 "ngp",
                 "ngpc"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_ngp_libretro"
+            ]
         },
         "lr-beetle-pce-fast": {
             "id": "lr-beetle-pce-fast",
@@ -1667,7 +1675,9 @@
             "platforms": [
                 "pcengine"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_pce_fast_libretro"
+            ]
         },
         "lr-beetle-pcfx": {
             "id": "lr-beetle-pcfx",
@@ -1676,7 +1686,9 @@
             "platforms": [
                 "pcfx"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_pcfx_libretro"
+            ]
         },
         "lr-beetle-psx": {
             "id": "lr-beetle-psx",
@@ -1685,7 +1697,9 @@
             "platforms": [
                 "psx"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_psx_libretro"
+            ]
         },
         "lr-beetle-saturn": {
             "id": "lr-beetle-saturn",
@@ -1694,7 +1708,9 @@
             "platforms": [
                 "saturn"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_saturn_libretro"
+            ]
         },
         "lr-beetle-supergrafx": {
             "id": "lr-beetle-supergrafx",
@@ -1703,7 +1719,9 @@
             "platforms": [
                 "pcengine"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_supergrafx_libretro"
+            ]
         },
         "lr-beetle-vb": {
             "id": "lr-beetle-vb",
@@ -1712,7 +1730,9 @@
             "platforms": [
                 "virtualboy"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_vb_libretro"
+            ]
         },
         "lr-beetle-wswan": {
             "id": "lr-beetle-wswan",
@@ -1722,7 +1742,9 @@
                 "wonderswan",
                 "wonderswancolor"
             ],
-            "altNames": []
+            "altNames": [
+                "beetle_wswan_libretro"
+            ]
         },
         "lr-bluemsx": {
             "id": "lr-bluemsx",
@@ -1732,7 +1754,9 @@
                 "msx",
                 "coleco"
             ],
-            "altNames": []
+            "altNames": [
+                "bluemsx_libretro"
+            ]
         },
         "lr-bsnes": {
             "id": "lr-bsnes",
@@ -1741,7 +1765,9 @@
             "platforms": [
                 "snes"
             ],
-            "altNames": []
+            "altNames": [
+                "bsnes_libretro"
+            ]
         },
         "lr-caprice32": {
             "id": "lr-caprice32",
@@ -1750,7 +1776,9 @@
             "platforms": [
                 "amstradcpc"
             ],
-            "altNames": []
+            "altNames": [
+                "caprice32_libretro"
+            ]
         },
         "lr-desmume": {
             "id": "lr-desmume",
@@ -1759,7 +1787,9 @@
             "platforms": [
                 "nds"
             ],
-            "altNames": []
+            "altNames": [
+                "desmume_libretro"
+            ]
         },
         "lr-desmume2015": {
             "id": "lr-desmume2015",
@@ -1768,14 +1798,18 @@
             "platforms": [
                 "nds"
             ],
-            "altNames": []
+            "altNames": [
+                "desmume2015_libretro"
+            ]
         },
         "lr-dinothawr": {
             "id": "lr-dinothawr",
             "shortName": "lr-dinothawr",
             "name": "Dinothawr - standalone libretro puzzle game",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "dinothawr_libretro"
+            ]
         },
         "lr-dolphin": {
             "id": "lr-dolphin",
@@ -1785,7 +1819,9 @@
                 "gc",
                 "wii"
             ],
-            "altNames": []
+            "altNames": [
+                "dolphin_libretro"
+            ]
         },
         "lr-dosbox-pure": {
             "id": "lr-dosbox-pure",
@@ -1794,7 +1830,9 @@
             "platforms": [
                 "pc"
             ],
-            "altNames": []
+            "altNames": [
+                "dosbox_pure_libretro"
+            ]
         },
         "lr-dosbox": {
             "id": "lr-dosbox",
@@ -1803,7 +1841,9 @@
             "platforms": [
                 "pc"
             ],
-            "altNames": []
+            "altNames": [
+                "dosbox_libretro"
+            ]
         },
         "lr-fbalpha2012": {
             "id": "lr-fbalpha2012",
@@ -1814,7 +1854,9 @@
                 "fba",
                 "neogeo"
             ],
-            "altNames": []
+            "altNames": [
+                "fbalpha2012_libretro"
+            ]
         },
         "lr-fbneo": {
             "id": "lr-fbneo",
@@ -1823,7 +1865,9 @@
             "platforms": [
                 "${systems[@]}"
             ],
-            "altNames": []
+            "altNames": [
+                "fbneo_libretro"
+            ]
         },
         "lr-fceumm": {
             "id": "lr-fceumm",
@@ -1833,7 +1877,9 @@
                 "nes",
                 "fds"
             ],
-            "altNames": []
+            "altNames": [
+                "fceumm_libretro"
+            ]
         },
         "lr-flycast": {
             "id": "lr-flycast",
@@ -1843,7 +1889,9 @@
                 "dreamcast",
                 "arcade"
             ],
-            "altNames": []
+            "altNames": [
+                "flycast_libretro"
+            ]
         },
         "lr-fmsx": {
             "id": "lr-fmsx",
@@ -1852,7 +1900,9 @@
             "platforms": [
                 "msx"
             ],
-            "altNames": []
+            "altNames": [
+                "fmsx_libretro"
+            ]
         },
         "lr-freechaf": {
             "id": "lr-freechaf",
@@ -1861,7 +1911,9 @@
             "platforms": [
                 "channelf"
             ],
-            "altNames": []
+            "altNames": [
+                "freechaf_libretro"
+            ]
         },
         "lr-freeintv": {
             "id": "lr-freeintv",
@@ -1870,7 +1922,9 @@
             "platforms": [
                 "intellivision"
             ],
-            "altNames": []
+            "altNames": [
+                "freeintv_libretro"
+            ]
         },
         "lr-fuse": {
             "id": "lr-fuse",
@@ -1879,7 +1933,9 @@
             "platforms": [
                 "zxspectrum"
             ],
-            "altNames": []
+            "altNames": [
+                "fuse_libretro"
+            ]
         },
         "lr-gambatte": {
             "id": "lr-gambatte",
@@ -1889,7 +1945,9 @@
                 "gb",
                 "gbc"
             ],
-            "altNames": []
+            "altNames": [
+                "gambatte_libretro"
+            ]
         },
         "lr-gearsystem": {
             "id": "lr-gearsystem",
@@ -1900,7 +1958,9 @@
                 "mastersystem",
                 "sg-1000"
             ],
-            "altNames": []
+            "altNames": [
+                "gearsystem_libretro"
+            ]
         },
         "lr-genesis-plus-gx": {
             "id": "lr-genesis-plus-gx",
@@ -1913,7 +1973,9 @@
                 "sg-1000",
                 "segacd"
             ],
-            "altNames": []
+            "altNames": [
+                "genesis_plus_gx_libretro"
+            ]
         },
         "lr-gpsp": {
             "id": "lr-gpsp",
@@ -1922,7 +1984,9 @@
             "platforms": [
                 "gba"
             ],
-            "altNames": []
+            "altNames": [
+                "gpsp_libretro"
+            ]
         },
         "lr-gw": {
             "id": "lr-gw",
@@ -1931,7 +1995,9 @@
             "platforms": [
                 "gameandwatch"
             ],
-            "altNames": []
+            "altNames": [
+                "gw_libretro"
+            ]
         },
         "lr-handy": {
             "id": "lr-handy",
@@ -1940,7 +2006,9 @@
             "platforms": [
                 "atarilynx"
             ],
-            "altNames": []
+            "altNames": [
+                "handy_libretro"
+            ]
         },
         "lr-hatari": {
             "id": "lr-hatari",
@@ -1949,7 +2017,9 @@
             "platforms": [
                 "atarist"
             ],
-            "altNames": []
+            "altNames": [
+                "hatari_libretro"
+            ]
         },
         "lr-kronos": {
             "id": "lr-kronos",
@@ -1958,7 +2028,9 @@
             "platforms": [
                 "saturn"
             ],
-            "altNames": []
+            "altNames": [
+                "kronos_libretro"
+            ]
         },
         "lr-mame": {
             "id": "lr-mame",
@@ -1968,7 +2040,9 @@
                 "arcade",
                 "mame-libretro"
             ],
-            "altNames": []
+            "altNames": [
+                "mame_libretro"
+            ]
         },
         "lr-mame2000": {
             "id": "lr-mame2000",
@@ -1979,14 +2053,18 @@
                 "mame-mame4all",
                 "mame-libretro"
             ],
-            "altNames": []
+            "altNames": [
+                "mame2000_libretro"
+            ]
         },
         "lr-mame2003-plus": {
             "id": "lr-mame2003-plus",
             "shortName": "lr-mame2003-plus",
             "name": "Arcade emu - updated MAME 0.78 port for libretro with added game support",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "mame2003_plus_libretro"
+            ]
         },
         "lr-mame2003": {
             "id": "lr-mame2003",
@@ -1996,7 +2074,9 @@
                 "arcade",
                 "mame-libretro"
             ],
-            "altNames": []
+            "altNames": [
+                "mame2003_libretro"
+            ]
         },
         "lr-mame2010": {
             "id": "lr-mame2010",
@@ -2006,7 +2086,9 @@
                 "arcade",
                 "mame-libretro"
             ],
-            "altNames": []
+            "altNames": [
+                "mame2010_libretro"
+            ]
         },
         "lr-mame2015": {
             "id": "lr-mame2015",
@@ -2016,7 +2098,9 @@
                 "arcade",
                 "mame-libretro"
             ],
-            "altNames": []
+            "altNames": [
+                "mame2015_libretro"
+            ]
         },
         "lr-mame2016": {
             "id": "lr-mame2016",
@@ -2026,7 +2110,9 @@
                 "arcade",
                 "mame-libretro"
             ],
-            "altNames": []
+            "altNames": [
+                "mame2016_libretro"
+            ]
         },
         "lr-mesen": {
             "id": "lr-mesen",
@@ -2036,7 +2122,9 @@
                 "nes",
                 "fds"
             ],
-            "altNames": []
+            "altNames": [
+                "mesen_libretro"
+            ]
         },
         "lr-mess": {
             "id": "lr-mess",
@@ -2049,14 +2137,18 @@
                 "arcadia",
                 "crvision"
             ],
-            "altNames": []
+            "altNames": [
+                "mess_libretro"
+            ]
         },
         "lr-mess2016": {
             "id": "lr-mess2016",
             "shortName": "lr-mess2016",
             "name": "MESS emulator - MESS Port for libretro",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "mess2016_libretro"
+            ]
         },
         "lr-mgba": {
             "id": "lr-mgba",
@@ -2067,14 +2159,18 @@
                 "gbc",
                 "gba"
             ],
-            "altNames": []
+            "altNames": [
+                "mgba_libretro"
+            ]
         },
         "lr-mrboom": {
             "id": "lr-mrboom",
             "shortName": "lr-mrboom",
             "name": "Mr.Boom - 8 players Bomberman clone for libretro.",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "mrboom_libretro"
+            ]
         },
         "lr-mupen64plus-next": {
             "id": "lr-mupen64plus-next",
@@ -2083,7 +2179,9 @@
             "platforms": [
                 "n64"
             ],
-            "altNames": []
+            "altNames": [
+                "mupen64plus_next_libretro"
+            ]
         },
         "lr-mupen64plus": {
             "id": "lr-mupen64plus",
@@ -2092,7 +2190,9 @@
             "platforms": [
                 "n64"
             ],
-            "altNames": []
+            "altNames": [
+                "mupen64plus_libretro"
+            ]
         },
         "lr-neocd": {
             "id": "lr-neocd",
@@ -2101,7 +2201,9 @@
             "platforms": [
                 "neogeo"
             ],
-            "altNames": []
+            "altNames": [
+                "neocd_libretro"
+            ]
         },
         "lr-nestopia": {
             "id": "lr-nestopia",
@@ -2111,7 +2213,9 @@
                 "nes",
                 "fds"
             ],
-            "altNames": []
+            "altNames": [
+                "nestopia_libretro"
+            ]
         },
         "lr-np2kai": {
             "id": "lr-np2kai",
@@ -2120,14 +2224,18 @@
             "platforms": [
                 "pc98"
             ],
-            "altNames": []
+            "altNames": [
+                "np2kai_libretro"
+            ]
         },
         "lr-nxengine": {
             "id": "lr-nxengine",
             "shortName": "lr-nxengine",
             "name": "Cave Story engine clone - NxEngine port for libretro",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "nxengine_libretro"
+            ]
         },
         "lr-o2em": {
             "id": "lr-o2em",
@@ -2136,7 +2244,9 @@
             "platforms": [
                 "videopac"
             ],
-            "altNames": []
+            "altNames": [
+                "o2em_libretro"
+            ]
         },
         "lr-opera": {
             "id": "lr-opera",
@@ -2145,7 +2255,9 @@
             "platforms": [
                 "3do"
             ],
-            "altNames": []
+            "altNames": [
+                "opera_libretro"
+            ]
         },
         "lr-parallel-n64": {
             "id": "lr-parallel-n64",
@@ -2154,7 +2266,9 @@
             "platforms": [
                 "n64"
             ],
-            "altNames": []
+            "altNames": [
+                "parallel_n64_libretro"
+            ]
         },
         "lr-pcsx-rearmed": {
             "id": "lr-pcsx-rearmed",
@@ -2163,7 +2277,9 @@
             "platforms": [
                 "psx"
             ],
-            "altNames": []
+            "altNames": [
+                "pcsx_rearmed_libretro"
+            ]
         },
         "lr-picodrive": {
             "id": "lr-picodrive",
@@ -2175,7 +2291,9 @@
                 "segacd",
                 "sega32x"
             ],
-            "altNames": []
+            "altNames": [
+                "picodrive_libretro"
+            ]
         },
         "lr-pokemini": {
             "id": "lr-pokemini",
@@ -2184,7 +2302,9 @@
             "platforms": [
                 "pokemini"
             ],
-            "altNames": []
+            "altNames": [
+                "pokemini_libretro"
+            ]
         },
         "lr-ppsspp": {
             "id": "lr-ppsspp",
@@ -2193,14 +2313,18 @@
             "platforms": [
                 "psp"
             ],
-            "altNames": []
+            "altNames": [
+                "ppsspp_libretro"
+            ]
         },
         "lr-prboom": {
             "id": "lr-prboom",
             "shortName": "lr-prboom",
             "name": "Doom/Doom II engine - PrBoom port for libretro",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "prboom_libretro"
+            ]
         },
         "lr-prosystem": {
             "id": "lr-prosystem",
@@ -2209,7 +2333,9 @@
             "platforms": [
                 "atari7800"
             ],
-            "altNames": []
+            "altNames": [
+                "prosystem_libretro"
+            ]
         },
         "lr-puae": {
             "id": "lr-puae",
@@ -2218,7 +2344,9 @@
             "platforms": [
                 "amiga"
             ],
-            "altNames": []
+            "altNames": [
+                "puae_libretro"
+            ]
         },
         "lr-puae2021": {
             "id": "lr-puae2021",
@@ -2227,7 +2355,9 @@
             "platforms": [
                 "amiga"
             ],
-            "altNames": []
+            "altNames": [
+                "puae2021_libretro"
+            ]
         },
         "lr-px68k": {
             "id": "lr-px68k",
@@ -2236,7 +2366,9 @@
             "platforms": [
                 "x68000"
             ],
-            "altNames": []
+            "altNames": [
+                "px68k_libretro"
+            ]
         },
         "lr-quasi88": {
             "id": "lr-quasi88",
@@ -2245,7 +2377,9 @@
             "platforms": [
                 "pc88"
             ],
-            "altNames": []
+            "altNames": [
+                "quasi88_libretro"
+            ]
         },
         "lr-quicknes": {
             "id": "lr-quicknes",
@@ -2254,7 +2388,9 @@
             "platforms": [
                 "nes"
             ],
-            "altNames": []
+            "altNames": [
+                "quicknes_libretro"
+            ]
         },
         "lr-retro8": {
             "id": "lr-retro8",
@@ -2263,7 +2399,9 @@
             "platforms": [
                 "pico8"
             ],
-            "altNames": []
+            "altNames": [
+                "retro8_libretro"
+            ]
         },
         "lr-scummvm": {
             "id": "lr-scummvm",
@@ -2272,7 +2410,9 @@
             "platforms": [
                 "scummvm"
             ],
-            "altNames": []
+            "altNames": [
+                "scummvm_libretro"
+            ]
         },
         "lr-smsplus-gx": {
             "id": "lr-smsplus-gx",
@@ -2282,7 +2422,9 @@
                 "gamegear",
                 "mastersystem"
             ],
-            "altNames": []
+            "altNames": [
+                "smsplus_gx_libretro"
+            ]
         },
         "lr-snes9x": {
             "id": "lr-snes9x",
@@ -2291,7 +2433,9 @@
             "platforms": [
                 "snes"
             ],
-            "altNames": []
+            "altNames": [
+                "snes9x_libretro"
+            ]
         },
         "lr-snes9x2002": {
             "id": "lr-snes9x2002",
@@ -2300,7 +2444,9 @@
             "platforms": [
                 "snes"
             ],
-            "altNames": []
+            "altNames": [
+                "snes9x2002_libretro"
+            ]
         },
         "lr-snes9x2005": {
             "id": "lr-snes9x2005",
@@ -2309,7 +2455,9 @@
             "platforms": [
                 "snes"
             ],
-            "altNames": []
+            "altNames": [
+                "snes9x2005_libretro"
+            ]
         },
         "lr-snes9x2010": {
             "id": "lr-snes9x2010",
@@ -2318,7 +2466,9 @@
             "platforms": [
                 "snes"
             ],
-            "altNames": []
+            "altNames": [
+                "snes9x2010_libretro"
+            ]
         },
         "lr-stella": {
             "id": "lr-stella",
@@ -2327,7 +2477,9 @@
             "platforms": [
                 "atari2600"
             ],
-            "altNames": []
+            "altNames": [
+                "stella_libretro"
+            ]
         },
         "lr-stella2014": {
             "id": "lr-stella2014",
@@ -2336,14 +2488,18 @@
             "platforms": [
                 "atari2600"
             ],
-            "altNames": []
+            "altNames": [
+                "stella2014_libretro"
+            ]
         },
         "lr-superflappybirds": {
             "id": "lr-superflappybirds",
             "shortName": "lr-superflappybirds",
             "name": "Super Flappy Birds - Multiplayer Flappy Bird Clone",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "superflappybirds_libretro"
+            ]
         },
         "lr-tgbdual": {
             "id": "lr-tgbdual",
@@ -2353,7 +2509,9 @@
                 "gb",
                 "gbc"
             ],
-            "altNames": []
+            "altNames": [
+                "tgbdual_libretro"
+            ]
         },
         "lr-theodore": {
             "id": "lr-theodore",
@@ -2362,7 +2520,9 @@
             "platforms": [
                 "moto"
             ],
-            "altNames": []
+            "altNames": [
+                "theodore_libretro"
+            ]
         },
         "lr-tic80": {
             "id": "lr-tic80",
@@ -2371,14 +2531,18 @@
             "platforms": [
                 "tic80\" \"TIC-80"
             ],
-            "altNames": []
+            "altNames": [
+                "tic80_libretro"
+            ]
         },
         "lr-tyrquake": {
             "id": "lr-tyrquake",
             "shortName": "lr-tyrquake",
             "name": "Quake 1 engine - Tyrquake port for libretro",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "tyrquake_libretro"
+            ]
         },
         "lr-uae4arm": {
             "id": "lr-uae4arm",
@@ -2387,7 +2551,9 @@
             "platforms": [
                 "amiga"
             ],
-            "altNames": []
+            "altNames": [
+                "uae4arm_libretro"
+            ]
         },
         "lr-vba-next": {
             "id": "lr-vba-next",
@@ -2396,7 +2562,9 @@
             "platforms": [
                 "gba"
             ],
-            "altNames": []
+            "altNames": [
+                "vba_next_libretro"
+            ]
         },
         "lr-vecx": {
             "id": "lr-vecx",
@@ -2405,7 +2573,9 @@
             "platforms": [
                 "vectrex"
             ],
-            "altNames": []
+            "altNames": [
+                "vecx_libretro"
+            ]
         },
         "lr-vice": {
             "id": "lr-vice",
@@ -2414,7 +2584,9 @@
             "platforms": [
                 "c64"
             ],
-            "altNames": []
+            "altNames": [
+                "vice_libretro"
+            ]
         },
         "lr-virtualjaguar": {
             "id": "lr-virtualjaguar",
@@ -2423,7 +2595,9 @@
             "platforms": [
                 "atarijaguar"
             ],
-            "altNames": []
+            "altNames": [
+                "virtualjaguar_libretro"
+            ]
         },
         "lr-x1": {
             "id": "lr-x1",
@@ -2432,14 +2606,18 @@
             "platforms": [
                 "x1"
             ],
-            "altNames": []
+            "altNames": [
+                "x1_libretro"
+            ]
         },
         "lr-xrick": {
             "id": "lr-xrick",
             "shortName": "lr-xrick",
             "name": "Open source implementation of Rick Dangerous - xrick ported for libretro",
             "platforms": [],
-            "altNames": []
+            "altNames": [
+                "xrick_libretro"
+            ]
         },
         "lr-yabause": {
             "id": "lr-yabause",
@@ -2448,7 +2626,9 @@
             "platforms": [
                 "saturn"
             ],
-            "altNames": []
+            "altNames": [
+                "yabause_libretro"
+            ]
         }
     }
 }

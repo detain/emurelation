@@ -26055,6 +26055,14 @@
                 ],
                 "retropie": [
                     "mupen64plus"
+                ],
+                "recalbox": [
+                    "mupen64plus_glide64mk2",
+                    "mupen64plus_gliden64",
+                    "mupen64plus_gliden64_20",
+                    "mupen64plus_n64_gles2",
+                    "mupen64plus_rice",
+                    "mupen64plus_rice_gles2"
                 ]
             }
         },

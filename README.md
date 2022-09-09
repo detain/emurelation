@@ -43,7 +43,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmulationKing](sources/emulationking.json) | Website | 74 | 22 | 96 | 77.1% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 27 | 137 | 164 | 16.5% |
-| [RecalBox](sources/recalbox.json) | Frontend | 13 | 146 | 159 | 8.2% |
+| [RecalBox](sources/recalbox.json) | Frontend | 19 | 140 | 159 | 11.9% |
 | [RetroPie](sources/retropie.json) | Frontend | 27 | 126 | 153 | 17.6% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
 
