@@ -16,7 +16,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 800 | 0 | 800 | 100% |
+| [Local](sources/local.json) | Custom | 797 | 0 | 797 | 100% |
 | [Redump](sources/redump.json) | DAT | 51 | 0 | 51 | 100% |
 | [No-Intro](sources/nointro.json) | DAT | 266 | 18 | 284 | 93.7% |
 | [TOSEC](sources/tosec.json) | DAT | 2429 | 1 | 2430 | 100% |
@@ -26,7 +26,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [ScreenScraper](sources/screenscraper.json) | API | 162 | 68 | 230 | 70.4% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 179 | 1108 | 1287 | 13.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [MAME](sources/mame.json) | Emulator | 654 | 15 | 669 | 97.8% |
+| [MAME](sources/mame.json) | Emulator | 652 | 15 | 667 | 97.8% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
 | [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |
