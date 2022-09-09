@@ -9036,6 +9036,100 @@
             },
             "company": "Morrow"
         },
+        "Milton-Bradley Omni (Waveform)": {
+            "id": "Milton-Bradley Omni (Waveform)",
+            "name": "Omni (Waveform)",
+            "company": "Milton-Bradley",
+            "matches": {
+                "nointro": [
+                    "Milton-Bradley - Omni (Waveform)"
+                ]
+            }
+        },
+        "Konami Python 2": {
+            "id": "Konami Python 2",
+            "name": "Python 2",
+            "company": "Konami",
+            "matches": {
+                "nointro": [
+                    "Non-Redump - Konami - Python 2"
+                ]
+            }
+        },
+        "Microsoft Pocket PC": {
+            "id": "Microsoft Pocket PC",
+            "name": "Pocket PC",
+            "company": "Microsoft",
+            "matches": {
+                "nointro": [
+                    "Non-Redump - Microsoft - Pocket PC"
+                ]
+            }
+        },
+        "Mobile Pocket PC": {
+            "id": "Mobile Pocket PC",
+            "name": "Pocket PC",
+            "company": "Mobile",
+            "matches": {
+                "nointro": [
+                    "Mobile - Pocket PC",
+                    "Mobile - Pocket PC (Digital)"
+                ],
+                "redump": [
+                    "Pocket PC"
+                ]
+            }
+        },
+        "Mobile J2ME": {
+            "id": "Mobile J2ME",
+            "name": "J2ME",
+            "company": "Mobile",
+            "matches": {
+                "nointro": [
+                    "Mobile - J2ME"
+                ]
+            }
+        },
+        "Mobile Symbian": {
+            "id": "Mobile Symbian",
+            "name": "Symbian",
+            "company": "Mobile",
+            "matches": {
+                "nointro": [
+                    "Mobile - Symbian"
+                ]
+            }
+        },
+        "Sega ALLS": {
+            "id": "Sega ALLS",
+            "name": "ALLS",
+            "company": "Sega",
+            "matches": {
+                "nointro": [
+                    "Non-Redump - Sega - ALLS"
+                ]
+            }
+        },
+        "Sanyo MBC-550": {
+            "id": "Sanyo MBC-550",
+            "name": "MBC-550",
+            "company": "Sanyo",
+            "matches": {
+                "nointro": [
+                    "Sanyo - MBC-550 (Flux)"
+                ]
+            }
+        },
+        "Sony PlayStation Mobile": {
+            "id": "Sony PlayStation Mobile",
+            "name": "PlayStation Mobile",
+            "company": "Sony",
+            "matches": {
+                "nointro": [
+                    "Sony - PlayStation Mobile (PSN)"
+                ]
+            }
+        },
         "Motorola EXORciser": {
             "id": "Motorola EXORciser",
             "name": "EXORciser",
@@ -17599,6 +17693,10 @@
             "id": "Morrow",
             "name": "Morrow",
             "matches": []
+        },
+        "Mobile": {
+            "id": "Mobile",
+            "name": "Mobile"
         },
         "Motorola": {
             "id": "Motorola",
