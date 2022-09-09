@@ -9063,6 +9063,9 @@
             "matches": {
                 "nointro": [
                     "Mobile - J2ME"
+                ],
+                "emulationstation-de": [
+                    "j2me"
                 ]
             }
         },
@@ -9087,6 +9090,9 @@
             "matches": {
                 "nointro": [
                     "Mobile - Symbian"
+                ],
+                "emulationstation-de": [
+                    "symbian"
                 ]
             }
         },

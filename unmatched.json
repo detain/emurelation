@@ -1,14 +1,6 @@
 {
     "platforms": {
-        "redump": {
-            "Pocket PC": "Pocket PC"
-        },
         "nointro": {
-            "Milton-Bradley - Omni (Waveform)": "Milton-Bradley - Omni (Waveform)",
-            "Mobile - J2ME": "Mobile - J2ME",
-            "Mobile - Pocket PC": "Mobile - Pocket PC",
-            "Mobile - Pocket PC (Digital)": "Mobile - Pocket PC (Digital)",
-            "Mobile - Symbian": "Mobile - Symbian",
             "Nintendo - Family BASIC (Text)": "Nintendo - Family BASIC (Text)",
             "Nintendo - Misc": "Nintendo - Misc",
             "Nintendo - Misc (Manual)": "Nintendo - Misc (Manual)",
@@ -17,13 +9,8 @@
             "Non-Redump - Audio CD (Deprecated)": "Non-Redump - Audio CD (Deprecated)",
             "Non-Redump - BD-Video": "Non-Redump - BD-Video",
             "Non-Redump - DVD-Video": "Non-Redump - DVD-Video",
-            "Non-Redump - Konami - Python 2": "Non-Redump - Konami - Python 2",
-            "Non-Redump - Microsoft - Pocket PC": "Non-Redump - Microsoft - Pocket PC",
-            "Non-Redump - Sega - ALLS": "Non-Redump - Sega - ALLS",
             "Non-Redump - Sony Electronic Book": "Non-Redump - Sony Electronic Book",
             "Non-Redump - Super Audio CD": "Non-Redump - Super Audio CD",
-            "Sanyo - MBC-550 (Flux)": "Sanyo - MBC-550 (Flux)",
-            "Sony - PlayStation Mobile (PSN)": "Sony - PlayStation Mobile (PSN)",
             "Source Code - Various": "Source Code - Various",
             "Unofficial - Video Game Documents (PDF)": "Unofficial - Video Game Documents (PDF)",
             "Unofficial - Video Game Magazine Scans (CBZ)": "Unofficial - Video Game Magazine Scans (CBZ)",
@@ -1515,7 +1502,6 @@
             "easyrpg": "EasyRPG Game Engine",
             "epic": "Epic Games Store",
             "fbneo": "FinalBurn Neo",
-            "j2me": "Java 2 Micro Edition (J2ME)",
             "kodi": "Kodi Home Theatre Software",
             "lutris": "Lutris Open Gaming Platform",
             "lutro": "Lutro Game Engine",
@@ -1527,7 +1513,6 @@
             "solarus": "Solarus Game Engine",
             "steam": "Valve Steam",
             "stratagus": "Stratagus Game Engine",
-            "symbian": "Symbian",
             "tanodragon": "Tano Dragon",
             "tic80": "TIC-80 Game Engine"
         },
