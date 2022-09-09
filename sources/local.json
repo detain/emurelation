@@ -152,18 +152,13 @@
                     "APF Imagination Machine - Compilations - Various",
                     "APF Imagination Machine - Demos",
                     "APF Imagination Machine - Educational",
-                    "APF Imagination Machine - Games",
-                    "APF M-1000 - Applications",
-                    "APF M-1000 - Compilations - Games",
-                    "APF M-1000 - Demos",
-                    "APF M-1000 - Games"
+                    "APF Imagination Machine - Games"
                 ],
                 "oldcomputers": [
                     584
                 ],
                 "mame": [
-                    "apfimag_cass",
-                    "apfm1000"
+                    "apfimag_cass"
                 ],
                 "tgdb": [
                     4969
@@ -178,8 +173,7 @@
                     "APF Imagination Machine - Manuals - Technical"
                 ],
                 "nointro": [
-                    "APF - Imagination Machine",
-                    "APF - MP-1000"
+                    "APF - Imagination Machine"
                 ],
                 "emucontrolcenter": [
                     "im"
@@ -193,7 +187,17 @@
         "APF M-1000": {
             "id": "APF M-1000",
             "name": "M-1000",
-            "matches": [],
+            "matches": {
+                "mame": [
+                    "apfm1000"
+                ],
+                "tosec": [
+                    "APF M-1000 - Applications",
+                    "APF M-1000 - Compilations - Games",
+                    "APF M-1000 - Demos",
+                    "APF M-1000 - Games"
+                ]
+            },
             "company": "APF",
             "altNames": [
                 "APF M-1000"
@@ -202,7 +206,11 @@
         "APF MP-1000": {
             "id": "APF MP-1000",
             "name": "MP-1000",
-            "matches": [],
+            "matches": {
+                "nointro": [
+                    "APF - MP-1000"
+                ]
+            },
             "company": "APF",
             "altNames": [
                 "APF MP-1000"
@@ -832,15 +840,6 @@
                 "American Laser Games CD-ROM System"
             ]
         },
-        "American-Laser-Games CD-ROM System": {
-            "id": "American-Laser-Games CD-ROM System",
-            "name": "CD-ROM System",
-            "matches": [],
-            "company": "American-Laser-Games",
-            "altNames": [
-                "American-Laser-Games CD-ROM System"
-            ]
-        },
         "Amstrad CPC": {
             "id": "Amstrad CPC",
             "name": "CPC",
@@ -913,28 +912,6 @@
                 "Amstrad CPC"
             ]
         },
-        "Amstrad CPC Plus & GX4000": {
-            "id": "Amstrad CPC Plus & GX4000",
-            "name": "CPC Plus & GX4000",
-            "matches": {
-                "mame": [
-                    "gx4000"
-                ],
-                "emucontrolcenter": [
-                    "gx4000"
-                ],
-                "emulationstation-de": [
-                    "gx4000"
-                ],
-                "recalbox": [
-                    "gx4000"
-                ]
-            },
-            "company": "Amstrad",
-            "altNames": [
-                "Amstrad CPC Plus & GX4000"
-            ]
-        },
         "Amstrad GX4000": {
             "id": "Amstrad GX4000",
             "name": "GX4000",
@@ -956,7 +933,20 @@
                 ],
                 "tgdb": [
                     4999
+                ],
+                "mame": [
+                    "gx4000"
+                ],
+                "emucontrolcenter": [
+                    "gx4000"
+                ],
+                "emulationstation-de": [
+                    "gx4000"
+                ],
+                "recalbox": [
+                    "gx4000"
                 ]
+
             },
             "company": "Amstrad",
             "altNames": [
@@ -1590,7 +1580,8 @@
                 "mame": [
                     "mbee_cass",
                     "mbee_quik",
-                    "mbee_flop"
+                    "mbee_flop",
+                    "mbee_cart"
                 ]
             },
             "company": "Applied Technology",
@@ -1702,15 +1693,6 @@
                 "Atari 2600"
             ]
         },
-        "Atari 2600 & VCS": {
-            "id": "Atari 2600 & VCS",
-            "name": "2600 & VCS",
-            "matches": [],
-            "company": "Atari",
-            "altNames": [
-                "Atari 2600 & VCS"
-            ]
-        },
         "Atari 400": {
             "id": "Atari 400",
             "name": "400",
@@ -1722,20 +1704,6 @@
             "company": "Atari",
             "altNames": [
                 "Atari 400"
-            ]
-        },
-        "Atari 400 / 800": {
-            "id": "Atari 400 / 800",
-            "name": "400 / 800",
-            "matches": {
-                "mame": [
-                    "a800_flop",
-                    "a800_cass"
-                ]
-            },
-            "company": "Atari",
-            "altNames": [
-                "Atari 400 / 800"
             ]
         },
         "Atari 5200": {
@@ -1910,7 +1878,9 @@
                     "Atari 8bit - Sources - [CAS]"
                 ],
                 "mame": [
-                    "a800"
+                    "a800",
+                    "a800_flop",
+                    "a800_cass"
                 ],
                 "tosecpix": [
                     "Atari 8bit - Books",
@@ -2433,17 +2403,7 @@
                 "mame": [
                     "bdesignm_game_cart",
                     "bdesignm_design_cart"
-                ]
-            },
-            "company": "Bandai",
-            "altNames": [
-                "Bandai Design Master"
-            ]
-        },
-        "Bandai Design Master Denshi Mangajuku": {
-            "id": "Bandai Design Master Denshi Mangajuku",
-            "name": "Design Master Denshi Mangajuku",
-            "matches": {
+                ],
                 "nointro": [
                     "Bandai - Design Master Denshi Mangajuku"
                 ],
@@ -2454,7 +2414,7 @@
             },
             "company": "Bandai",
             "altNames": [
-                "Bandai Design Master Denshi Mangajuku"
+                "Bandai Design Master"
             ]
         },
         "Bandai Gundam RX-78": {
@@ -2526,17 +2486,7 @@
             "matches": {
                 "tgdb": [
                     5000
-                ]
-            },
-            "company": "Bandai",
-            "altNames": [
-                "Bandai Playdia"
-            ]
-        },
-        "Bandai Playdia Quick Interactive System": {
-            "id": "Bandai Playdia Quick Interactive System",
-            "name": "Playdia Quick Interactive System",
-            "matches": {
+                ],
                 "redump": [
                     "Bandai - Playdia Quick Interactive System"
                 ],
@@ -2554,7 +2504,7 @@
             },
             "company": "Bandai",
             "altNames": [
-                "Bandai Playdia Quick Interactive System"
+                "Bandai Playdia"
             ]
         },
         "Bandai Super Note Club": {
@@ -2884,6 +2834,12 @@
             "id": "COMX COMX-35",
             "name": "COMX-35",
             "matches": {
+                "mame": [
+                    "comx35_flop"
+                ],
+                "emucontrolcenter": [
+                    "comx35"
+                ],
                 "tosec": [
                     "COMX COMX-35 - Demos",
                     "COMX COMX-35 - Games"
@@ -2892,22 +2848,6 @@
             "company": "COMX",
             "altNames": [
                 "COMX COMX-35"
-            ]
-        },
-        "COMX-35": {
-            "id": "COMX-35",
-            "name": "35",
-            "matches": {
-                "mame": [
-                    "comx35_flop"
-                ],
-                "emucontrolcenter": [
-                    "comx35"
-                ]
-            },
-            "company": "COMX",
-            "altNames": [
-                "COMX-35"
             ]
         },
         "Cadaco Buzztime Trivia": {
@@ -2930,24 +2870,14 @@
                 "tosec": [
                     "Cambridge Computer Z88 - Games - [63]",
                     "Cambridge Computer Z88 - Games - [EPR]"
+                ],
+                "mame": [
+                    "z88_cart"
                 ]
             },
             "company": "Cambridge Computer",
             "altNames": [
                 "Cambridge Computer Z88"
-            ]
-        },
-        "Cambridge Z88": {
-            "id": "Cambridge Z88",
-            "name": "Z88",
-            "matches": {
-                "mame": [
-                    "z88_cart"
-                ]
-            },
-            "company": "Cambridge",
-            "altNames": [
-                "Cambridge Z88"
             ]
         },
         "Camputers Lynx": {
@@ -3271,66 +3201,6 @@
                 "China Education Computer"
             ]
         },
-        "Coleco ADAM": {
-            "id": "Coleco ADAM",
-            "name": "ADAM",
-            "matches": {
-                "launchbox": [
-                    "Coleco ADAM"
-                ],
-                "oldcomputers": [
-                    57,
-                    1344
-                ],
-                "mame": [
-                    "adam_flop",
-                    "adam_cart",
-                    "adam_cass"
-                ],
-                "tosec": [
-                    "Coleco ColecoVision ADAM - Applications - [BAS]",
-                    "Coleco ColecoVision ADAM - Applications - [BIN]",
-                    "Coleco ColecoVision ADAM - Applications - [COM]",
-                    "Coleco ColecoVision ADAM - Applications - [DDP]",
-                    "Coleco ColecoVision ADAM - Applications - [DSK]",
-                    "Coleco ColecoVision ADAM - Applications - [IMG]",
-                    "Coleco ColecoVision ADAM - Applications - [LBR]",
-                    "Coleco ColecoVision ADAM - Applications - [ROM]",
-                    "Coleco ColecoVision ADAM - Compilations - [DDP]",
-                    "Coleco ColecoVision ADAM - Compilations - [DSK]",
-                    "Coleco ColecoVision ADAM - Compilations - [IMG]",
-                    "Coleco ColecoVision ADAM - Compilations - [LBR]",
-                    "Coleco ColecoVision ADAM - Educational - [BAS]",
-                    "Coleco ColecoVision ADAM - Educational - [DDP]",
-                    "Coleco ColecoVision ADAM - Educational - [DSK]",
-                    "Coleco ColecoVision ADAM - Games - [BAS]",
-                    "Coleco ColecoVision ADAM - Games - [COM]",
-                    "Coleco ColecoVision ADAM - Games - [DDP]",
-                    "Coleco ColecoVision ADAM - Games - [DSK]",
-                    "Coleco ColecoVision ADAM - Games - [IMG]",
-                    "Coleco ColecoVision ADAM - Games - [LBR]",
-                    "Coleco ColecoVision ADAM - Miscellaneous - [DDP]",
-                    "Coleco ColecoVision ADAM - Operating Systems - [DSK]",
-                    "Coleco ColecoVision ADAM - Operating Systems - [LBR]"
-                ],
-                "tosecpix": [
-                    "Coleco ColecoVision ADAM - Manuals - Applications",
-                    "Coleco ColecoVision ADAM - Manuals - Educational",
-                    "Coleco ColecoVision ADAM - Manuals - Games",
-                    "Coleco ColecoVision ADAM - Manuals - Hardware"
-                ],
-                "screenscraper": [
-                    89
-                ],
-                "emucontrolcenter": [
-                    "adam"
-                ]
-            },
-            "company": "Coleco",
-            "altNames": [
-                "Coleco ADAM"
-            ]
-        },
         "Coleco ColecoVision": {
             "id": "Coleco ColecoVision",
             "name": "ColecoVision",
@@ -3391,11 +3261,64 @@
         },
         "Coleco ColecoVision ADAM": {
             "id": "Coleco ColecoVision ADAM",
+            "shortName": "ADAM",
             "name": "ColecoVision ADAM",
-            "matches": [],
+            "matches": {
+                "launchbox": [
+                    "Coleco ADAM"
+                ],
+                "oldcomputers": [
+                    57,
+                    1344
+                ],
+                "mame": [
+                    "adam_flop",
+                    "adam_cart",
+                    "adam_cass"
+                ],
+                "tosec": [
+                    "Coleco ColecoVision ADAM - Applications - [BAS]",
+                    "Coleco ColecoVision ADAM - Applications - [BIN]",
+                    "Coleco ColecoVision ADAM - Applications - [COM]",
+                    "Coleco ColecoVision ADAM - Applications - [DDP]",
+                    "Coleco ColecoVision ADAM - Applications - [DSK]",
+                    "Coleco ColecoVision ADAM - Applications - [IMG]",
+                    "Coleco ColecoVision ADAM - Applications - [LBR]",
+                    "Coleco ColecoVision ADAM - Applications - [ROM]",
+                    "Coleco ColecoVision ADAM - Compilations - [DDP]",
+                    "Coleco ColecoVision ADAM - Compilations - [DSK]",
+                    "Coleco ColecoVision ADAM - Compilations - [IMG]",
+                    "Coleco ColecoVision ADAM - Compilations - [LBR]",
+                    "Coleco ColecoVision ADAM - Educational - [BAS]",
+                    "Coleco ColecoVision ADAM - Educational - [DDP]",
+                    "Coleco ColecoVision ADAM - Educational - [DSK]",
+                    "Coleco ColecoVision ADAM - Games - [BAS]",
+                    "Coleco ColecoVision ADAM - Games - [COM]",
+                    "Coleco ColecoVision ADAM - Games - [DDP]",
+                    "Coleco ColecoVision ADAM - Games - [DSK]",
+                    "Coleco ColecoVision ADAM - Games - [IMG]",
+                    "Coleco ColecoVision ADAM - Games - [LBR]",
+                    "Coleco ColecoVision ADAM - Miscellaneous - [DDP]",
+                    "Coleco ColecoVision ADAM - Operating Systems - [DSK]",
+                    "Coleco ColecoVision ADAM - Operating Systems - [LBR]"
+                ],
+                "tosecpix": [
+                    "Coleco ColecoVision ADAM - Manuals - Applications",
+                    "Coleco ColecoVision ADAM - Manuals - Educational",
+                    "Coleco ColecoVision ADAM - Manuals - Games",
+                    "Coleco ColecoVision ADAM - Manuals - Hardware"
+                ],
+                "screenscraper": [
+                    89
+                ],
+                "emucontrolcenter": [
+                    "adam"
+                ]
+            },
             "company": "Coleco",
             "altNames": [
-                "Coleco ColecoVision ADAM"
+                "Coleco ColecoVision ADAM",
+                "Coleco ADAM"
             ]
         },
         "Coleco Quiz Wiz": {
@@ -4454,6 +4377,9 @@
             "id": "Commodore BX256-80HP",
             "name": "BX256-80HP",
             "matches": {
+                "mame": [
+                    "bx256hp_flop"
+                ],
                 "tosec": [
                     "Commodore BX256-80HP - Applications",
                     "Commodore BX256-80HP - Operating Systems"
@@ -4462,19 +4388,6 @@
             "company": "Commodore",
             "altNames": [
                 "Commodore BX256-80HP"
-            ]
-        },
-        "Commodore BX256-80HP - CBM 730": {
-            "id": "Commodore BX256-80HP - CBM 730",
-            "name": "BX256-80HP - CBM 730",
-            "matches": {
-                "mame": [
-                    "bx256hp_flop"
-                ]
-            },
-            "company": "Commodore",
-            "altNames": [
-                "Commodore BX256-80HP - CBM 730"
             ]
         },
         "Commodore C128": {
