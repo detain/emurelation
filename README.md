@@ -37,14 +37,14 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 496 | 0 | 496 | 100% |
+| [Local](sources/local.json) | Custom | 671 | 0 | 671 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 0 | 3 | 3 | 0% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 115 | 351 | 466 | 24.7% |
 | [EmulationKing](sources/emulationking.json) | Website | 74 | 22 | 96 | 77.1% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 27 | 137 | 164 | 16.5% |
-| [RecalBox](sources/recalbox.json) | Frontend | 19 | 140 | 159 | 11.9% |
-| [RetroPie](sources/retropie.json) | Frontend | 27 | 126 | 153 | 17.6% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 124 | 40 | 164 | 75.6% |
+| [RecalBox](sources/recalbox.json) | Frontend | 147 | 12 | 159 | 92.5% |
+| [RetroPie](sources/retropie.json) | Frontend | 117 | 36 | 153 | 76.5% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
 
 ### 🏭 Companies

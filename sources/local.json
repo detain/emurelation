@@ -21773,6 +21773,17 @@
         }
     },
     "emulators": {
+        "2048_libretro": {
+            "id": "2048_libretro",
+            "shortName": "2048_libretro",
+            "name": "2048_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_2048"
+                ]
+            }
+        },
         "3dmoo": {
             "id": "3dmoo",
             "shortName": "3dmoo",
@@ -21838,6 +21849,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "80five"
+                ]
+            }
+        },
+        "81_libretro": {
+            "id": "81_libretro",
+            "shortName": "81_libretro",
+            "name": "81_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_81"
+                ],
+                "retropie": [
+                    "lr-81"
                 ]
             }
         },
@@ -21927,6 +21952,20 @@
                 ],
                 "emulationstation-de": [
                     "xemu"
+                ]
+            }
+        },
+        "a5200_libretro": {
+            "id": "a5200_libretro",
+            "shortName": "a5200_libretro",
+            "name": "a5200_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (a5200)"
+                ],
+                "recalbox": [
+                    "libretro_a5200"
                 ]
             }
         },
@@ -22402,6 +22441,23 @@
                 ]
             }
         },
+        "atari800_libretro": {
+            "id": "atari800_libretro",
+            "shortName": "atari800_libretro",
+            "name": "atari800_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Atari800)"
+                ],
+                "recalbox": [
+                    "libretro_atari800"
+                ],
+                "retropie": [
+                    "lr-atari800"
+                ]
+            }
+        },
         "atari800winplus": {
             "id": "atari800winplus",
             "shortName": "atari800winplus",
@@ -22513,6 +22569,105 @@
                 ]
             }
         },
+        "beetle_lynx_libretro": {
+            "id": "beetle_lynx_libretro",
+            "shortName": "beetle_lynx_libretro",
+            "name": "beetle_lynx_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-lynx"
+                ]
+            }
+        },
+        "beetle_ngp_libretro": {
+            "id": "beetle_ngp_libretro",
+            "shortName": "beetle_ngp_libretro",
+            "name": "beetle_ngp_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-ngp"
+                ]
+            }
+        },
+        "beetle_pce_fast_libretro": {
+            "id": "beetle_pce_fast_libretro",
+            "shortName": "beetle_pce_fast_libretro",
+            "name": "beetle_pce_fast_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-pce-fast"
+                ]
+            }
+        },
+        "beetle_pcfx_libretro": {
+            "id": "beetle_pcfx_libretro",
+            "shortName": "beetle_pcfx_libretro",
+            "name": "beetle_pcfx_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-pcfx"
+                ]
+            }
+        },
+        "beetle_psx_libretro": {
+            "id": "beetle_psx_libretro",
+            "shortName": "beetle_psx_libretro",
+            "name": "beetle_psx_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-psx"
+                ]
+            }
+        },
+        "beetle_saturn_libretro": {
+            "id": "beetle_saturn_libretro",
+            "shortName": "beetle_saturn_libretro",
+            "name": "beetle_saturn_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-saturn"
+                ]
+            }
+        },
+        "beetle_supergrafx_libretro": {
+            "id": "beetle_supergrafx_libretro",
+            "shortName": "beetle_supergrafx_libretro",
+            "name": "beetle_supergrafx_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-supergrafx"
+                ]
+            }
+        },
+        "beetle_vb_libretro": {
+            "id": "beetle_vb_libretro",
+            "shortName": "beetle_vb_libretro",
+            "name": "beetle_vb_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-vb"
+                ]
+            }
+        },
+        "beetle_wswan_libretro": {
+            "id": "beetle_wswan_libretro",
+            "shortName": "beetle_wswan_libretro",
+            "name": "beetle_wswan_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-beetle-wswan"
+                ]
+            }
+        },
         "bem": {
             "id": "bem",
             "shortName": "bem",
@@ -22591,6 +22746,17 @@
                 ]
             }
         },
+        "bk_libretro": {
+            "id": "bk_libretro",
+            "shortName": "bk_libretro",
+            "name": "bk_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_bk"
+                ]
+            }
+        },
         "blastem": {
             "id": "blastem",
             "shortName": "blastem",
@@ -22604,6 +22770,17 @@
                 ],
                 "emulationking": [
                     "blastem"
+                ]
+            }
+        },
+        "blastem_libretro": {
+            "id": "blastem_libretro",
+            "shortName": "blastem_libretro",
+            "name": "blastem_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (BlastEm)"
                 ]
             }
         },
@@ -22660,6 +22837,48 @@
                 ]
             }
         },
+        "bluemsx_libretro": {
+            "id": "bluemsx_libretro",
+            "shortName": "bluemsx_libretro",
+            "name": "bluemsx_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (blueMSX)"
+                ],
+                "recalbox": [
+                    "libretro_bluemsx"
+                ],
+                "retropie": [
+                    "lr-bluemsx"
+                ]
+            }
+        },
+        "boom3_libretro": {
+            "id": "boom3_libretro",
+            "shortName": "boom3_libretro",
+            "name": "boom3_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Boom 3)"
+                ],
+                "recalbox": [
+                    "libretro_boom3"
+                ]
+            }
+        },
+        "boom3_xp_libretro": {
+            "id": "boom3_xp_libretro",
+            "shortName": "boom3_xp_libretro",
+            "name": "boom3_xp_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Boom 3 xp)"
+                ]
+            }
+        },
         "boycottadv": {
             "id": "boycottadv",
             "shortName": "boycottadv",
@@ -22696,6 +22915,45 @@
                 ]
             }
         },
+        "bsnes_hd_beta_libretro": {
+            "id": "bsnes_hd_beta_libretro",
+            "shortName": "bsnes_hd_beta_libretro",
+            "name": "bsnes_hd_beta_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (bsnes-hd)"
+                ]
+            }
+        },
+        "bsnes_libretro": {
+            "id": "bsnes_libretro",
+            "shortName": "bsnes_libretro",
+            "name": "bsnes_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (bsnes)"
+                ],
+                "recalbox": [
+                    "libretro_bsnes"
+                ],
+                "retropie": [
+                    "lr-bsnes"
+                ]
+            }
+        },
+        "bsnes_mercury_accuracy_libretro": {
+            "id": "bsnes_mercury_accuracy_libretro",
+            "shortName": "bsnes_mercury_accuracy_libretro",
+            "name": "bsnes_mercury_accuracy_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (bsnes-mercury Accuracy)"
+                ]
+            }
+        },
         "bsnesclassic": {
             "id": "bsnesclassic",
             "shortName": "bsnesclassic",
@@ -22708,6 +22966,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "bsnesclassic"
+                ]
+            }
+        },
+        "bsneshd_libretro": {
+            "id": "bsneshd_libretro",
+            "shortName": "bsneshd_libretro",
+            "name": "bsneshd_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_bsneshd"
                 ]
             }
         },
@@ -22827,6 +23096,31 @@
                 ]
             }
         },
+        "cannonball_libretro": {
+            "id": "cannonball_libretro",
+            "shortName": "cannonball_libretro",
+            "name": "cannonball_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_cannonball"
+                ]
+            }
+        },
+        "cap32_libretro": {
+            "id": "cap32_libretro",
+            "shortName": "cap32_libretro",
+            "name": "cap32_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Caprice32)"
+                ],
+                "recalbox": [
+                    "libretro_cap32"
+                ]
+            }
+        },
         "caprice32": {
             "id": "caprice32",
             "shortName": "caprice32",
@@ -22840,6 +23134,17 @@
                 ],
                 "oldcomputers": [
                     "CaPriCe32"
+                ]
+            }
+        },
+        "caprice32_libretro": {
+            "id": "caprice32_libretro",
+            "shortName": "caprice32_libretro",
+            "name": "caprice32_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-caprice32"
                 ]
             }
         },
@@ -22857,6 +23162,20 @@
                 ],
                 "oldcomputers": [
                     "CCS64"
+                ]
+            }
+        },
+        "cdi2015_libretro": {
+            "id": "cdi2015_libretro",
+            "shortName": "cdi2015_libretro",
+            "name": "cdi2015_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (CDi 2015)"
+                ],
+                "recalbox": [
+                    "libretro_cdi2015"
                 ]
             }
         },
@@ -22895,6 +23214,13 @@
                 ]
             }
         },
+        "chailove_libretro": {
+            "id": "chailove_libretro",
+            "shortName": "chailove_libretro",
+            "name": "chailove_libretro",
+            "platforms": [],
+            "matches": []
+        },
         "chankast": {
             "id": "chankast",
             "shortName": "chankast",
@@ -22930,6 +23256,28 @@
                 ],
                 "emulationstation-de": [
                     "Citra"
+                ]
+            }
+        },
+        "citra2018_libretro": {
+            "id": "citra2018_libretro",
+            "shortName": "citra2018_libretro",
+            "name": "citra2018_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Citra 2018)"
+                ]
+            }
+        },
+        "citra_libretro": {
+            "id": "citra_libretro",
+            "shortName": "citra_libretro",
+            "name": "citra_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Citra)"
                 ]
             }
         },
@@ -23148,6 +23496,17 @@
                 ]
             }
         },
+        "craft_libretro": {
+            "id": "craft_libretro",
+            "shortName": "craft_libretro",
+            "name": "craft_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_craft"
+                ]
+            }
+        },
         "creativision": {
             "id": "creativision",
             "shortName": "creativision",
@@ -23158,6 +23517,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "creativision"
+                ]
+            }
+        },
+        "crocods_libretro": {
+            "id": "crocods_libretro",
+            "shortName": "crocods_libretro",
+            "name": "crocods_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (CrocoDS)"
+                ],
+                "recalbox": [
+                    "libretro_crocods"
                 ]
             }
         },
@@ -23432,6 +23805,37 @@
                 ]
             }
         },
+        "desmume2015_libretro": {
+            "id": "desmume2015_libretro",
+            "shortName": "desmume2015_libretro",
+            "name": "desmume2015_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (DeSmuME 2015)"
+                ],
+                "retropie": [
+                    "lr-desmume2015"
+                ]
+            }
+        },
+        "desmume_libretro": {
+            "id": "desmume_libretro",
+            "shortName": "desmume_libretro",
+            "name": "desmume_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (DeSmuME)"
+                ],
+                "recalbox": [
+                    "libretro_desmume"
+                ],
+                "retropie": [
+                    "lr-desmume"
+                ]
+            }
+        },
         "dgen": {
             "id": "dgen",
             "shortName": "dgen",
@@ -23459,6 +23863,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "dinoboy"
+                ]
+            }
+        },
+        "dinothawr_libretro": {
+            "id": "dinothawr_libretro",
+            "shortName": "dinothawr_libretro",
+            "name": "dinothawr_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_dinothawr"
+                ],
+                "retropie": [
+                    "lr-dinothawr"
                 ]
             }
         },
@@ -23518,6 +23936,20 @@
                 ]
             }
         },
+        "dolphin_libretro": {
+            "id": "dolphin_libretro",
+            "shortName": "dolphin_libretro",
+            "name": "dolphin_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Dolphin)"
+                ],
+                "retropie": [
+                    "lr-dolphin"
+                ]
+            }
+        },
         "dolwin": {
             "id": "dolwin",
             "shortName": "dolwin",
@@ -23553,6 +23985,56 @@
                 ],
                 "recalbox": [
                     "dosbox"
+                ]
+            }
+        },
+        "dosbox_core_libretro": {
+            "id": "dosbox_core_libretro",
+            "shortName": "dosbox_core_libretro",
+            "name": "dosbox_core_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (DOSBox-Core)"
+                ]
+            }
+        },
+        "dosbox_libretro": {
+            "id": "dosbox_libretro",
+            "shortName": "dosbox_libretro",
+            "name": "dosbox_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-dosbox"
+                ]
+            }
+        },
+        "dosbox_pure_libretro": {
+            "id": "dosbox_pure_libretro",
+            "shortName": "dosbox_pure_libretro",
+            "name": "dosbox_pure_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (DOSBox-Pure)"
+                ],
+                "recalbox": [
+                    "libretro_dosbox_pure"
+                ],
+                "retropie": [
+                    "lr-dosbox-pure"
+                ]
+            }
+        },
+        "dosbox_svn_libretro": {
+            "id": "dosbox_svn_libretro",
+            "shortName": "dosbox_svn_libretro",
+            "name": "dosbox_svn_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (DOSBox-SVN)"
                 ]
             }
         },
@@ -23697,6 +24179,31 @@
             "matches": {
                 "emucontrolcenter": [
                     "dve"
+                ]
+            }
+        },
+        "easyrpg_libretro": {
+            "id": "easyrpg_libretro",
+            "shortName": "easyrpg_libretro",
+            "name": "easyrpg_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (EasyRPG)"
+                ],
+                "recalbox": [
+                    "libretro_easyrpg"
+                ]
+            }
+        },
+        "ecwolf_libretro": {
+            "id": "ecwolf_libretro",
+            "shortName": "ecwolf_libretro",
+            "name": "ecwolf_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_ecwolf"
                 ]
             }
         },
@@ -23886,6 +24393,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "emulator3000"
+                ]
+            }
+        },
+        "emuscv_libretro": {
+            "id": "emuscv_libretro",
+            "shortName": "emuscv_libretro",
+            "name": "emuscv_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_emuscv"
                 ]
             }
         },
@@ -24099,6 +24617,64 @@
                 ]
             }
         },
+        "fbalpha2012_cps1_libretro": {
+            "id": "fbalpha2012_cps1_libretro",
+            "shortName": "fbalpha2012_cps1_libretro",
+            "name": "fbalpha2012_cps1_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (FB Alpha 2012 CPS-1)"
+                ]
+            }
+        },
+        "fbalpha2012_cps2_libretro": {
+            "id": "fbalpha2012_cps2_libretro",
+            "shortName": "fbalpha2012_cps2_libretro",
+            "name": "fbalpha2012_cps2_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (FB Alpha 2012 CPS-2)"
+                ]
+            }
+        },
+        "fbalpha2012_cps3_libretro": {
+            "id": "fbalpha2012_cps3_libretro",
+            "shortName": "fbalpha2012_cps3_libretro",
+            "name": "fbalpha2012_cps3_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (FB Alpha 2012 CPS-3)"
+                ]
+            }
+        },
+        "fbalpha2012_libretro": {
+            "id": "fbalpha2012_libretro",
+            "shortName": "fbalpha2012_libretro",
+            "name": "fbalpha2012_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (FB Alpha 2012)"
+                ],
+                "retropie": [
+                    "lr-fbalpha2012"
+                ]
+            }
+        },
+        "fbalpha2012_neogeo_libretro": {
+            "id": "fbalpha2012_neogeo_libretro",
+            "shortName": "fbalpha2012_neogeo_libretro",
+            "name": "fbalpha2012_neogeo_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (FB Alpha 2012 Neo Geo)"
+                ]
+            }
+        },
         "fbalphashuffle": {
             "id": "fbalphashuffle",
             "shortName": "fbalphashuffle",
@@ -24123,6 +24699,51 @@
             "matches": {
                 "emucontrolcenter": [
                     "fbalphashuffle"
+                ]
+            }
+        },
+        "fbneo_libretro": {
+            "id": "fbneo_libretro",
+            "shortName": "fbneo_libretro",
+            "name": "fbneo_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (FinalBurn Neo)"
+                ],
+                "recalbox": [
+                    "libretro_fbneo"
+                ],
+                "retropie": [
+                    "lr-fbneo"
+                ]
+            }
+        },
+        "fceumm_libretro": {
+            "id": "fceumm_libretro",
+            "shortName": "fceumm_libretro",
+            "name": "fceumm_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (FCEUmm)"
+                ],
+                "recalbox": [
+                    "libretro_fceumm"
+                ],
+                "retropie": [
+                    "lr-fceumm"
+                ]
+            }
+        },
+        "fceunext_libretro": {
+            "id": "fceunext_libretro",
+            "shortName": "fceunext_libretro",
+            "name": "fceunext_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_fceunext"
                 ]
             }
         },
@@ -24159,6 +24780,23 @@
                 ]
             }
         },
+        "flycast_libretro": {
+            "id": "flycast_libretro",
+            "shortName": "flycast_libretro",
+            "name": "flycast_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Flycast)"
+                ],
+                "recalbox": [
+                    "libretro_flycast"
+                ],
+                "retropie": [
+                    "lr-flycast"
+                ]
+            }
+        },
         "fmsx": {
             "id": "fmsx",
             "shortName": "fmsx",
@@ -24170,6 +24808,23 @@
             "matches": {
                 "emucontrolcenter": [
                     "fmsx"
+                ]
+            }
+        },
+        "fmsx_libretro": {
+            "id": "fmsx_libretro",
+            "shortName": "fmsx_libretro",
+            "name": "fmsx_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (fMSX)"
+                ],
+                "recalbox": [
+                    "libretro_fmsx"
+                ],
+                "retropie": [
+                    "lr-fmsx"
                 ]
             }
         },
@@ -24203,6 +24858,20 @@
                 ]
             }
         },
+        "freechaf_libretro": {
+            "id": "freechaf_libretro",
+            "shortName": "freechaf_libretro",
+            "name": "freechaf_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_freechaf"
+                ],
+                "retropie": [
+                    "lr-freechaf"
+                ]
+            }
+        },
         "freedo": {
             "id": "freedo",
             "shortName": "freedo",
@@ -24219,6 +24888,20 @@
                 ]
             }
         },
+        "freeintv_libretro": {
+            "id": "freeintv_libretro",
+            "shortName": "freeintv_libretro",
+            "name": "freeintv_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_freeintv"
+                ],
+                "retropie": [
+                    "lr-freeintv"
+                ]
+            }
+        },
         "frodo": {
             "id": "frodo",
             "shortName": "frodo",
@@ -24229,6 +24912,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "frodo"
+                ]
+            }
+        },
+        "frodo_libretro": {
+            "id": "frodo_libretro",
+            "shortName": "frodo_libretro",
+            "name": "frodo_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Frodo)"
                 ]
             }
         },
@@ -24279,6 +24973,20 @@
                 ]
             }
         },
+        "fuse_libretro": {
+            "id": "fuse_libretro",
+            "shortName": "fuse_libretro",
+            "name": "fuse_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_fuse"
+                ],
+                "retropie": [
+                    "lr-fuse"
+                ]
+            }
+        },
         "futurepinball": {
             "id": "futurepinball",
             "shortName": "futurepinball",
@@ -24305,6 +25013,23 @@
                 ],
                 "oldcomputers": [
                     "Galaxy Win"
+                ]
+            }
+        },
+        "gambatte_libretro": {
+            "id": "gambatte_libretro",
+            "shortName": "gambatte_libretro",
+            "name": "gambatte_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Gambatte)"
+                ],
+                "recalbox": [
+                    "libretro_gambatte"
+                ],
+                "retropie": [
+                    "lr-gambatte"
                 ]
             }
         },
@@ -24385,6 +25110,31 @@
                 ]
             }
         },
+        "gearboy_libretro": {
+            "id": "gearboy_libretro",
+            "shortName": "gearboy_libretro",
+            "name": "gearboy_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Gearboy)"
+                ]
+            }
+        },
+        "gearcoleco_libretro": {
+            "id": "gearcoleco_libretro",
+            "shortName": "gearcoleco_libretro",
+            "name": "gearcoleco_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Gearcoleco)"
+                ],
+                "recalbox": [
+                    "libretro_gearcoleco"
+                ]
+            }
+        },
         "gearsystem": {
             "id": "gearsystem",
             "shortName": "gearsystem",
@@ -24399,6 +25149,23 @@
                 ],
                 "emulationking": [
                     "gearsystem"
+                ]
+            }
+        },
+        "gearsystem_libretro": {
+            "id": "gearsystem_libretro",
+            "shortName": "gearsystem_libretro",
+            "name": "gearsystem_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Gearsystem)"
+                ],
+                "recalbox": [
+                    "libretro_gearsystem"
+                ],
+                "retropie": [
+                    "lr-gearsystem"
                 ]
             }
         },
@@ -24449,6 +25216,31 @@
                 ]
             }
         },
+        "genesis_plus_gx_libretro": {
+            "id": "genesis_plus_gx_libretro",
+            "shortName": "genesis_plus_gx_libretro",
+            "name": "genesis_plus_gx_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Genesis Plus GX)"
+                ],
+                "retropie": [
+                    "lr-genesis-plus-gx"
+                ]
+            }
+        },
+        "genesis_plus_gx_wide_libretro": {
+            "id": "genesis_plus_gx_wide_libretro",
+            "shortName": "genesis_plus_gx_wide_libretro",
+            "name": "genesis_plus_gx_wide_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Genesis Plus GX Wide)"
+                ]
+            }
+        },
         "genesisplus": {
             "id": "genesisplus",
             "shortName": "genesisplus",
@@ -24462,6 +25254,28 @@
                 ],
                 "emulationking": [
                     "genesis-plus"
+                ]
+            }
+        },
+        "genesisplusgx_libretro": {
+            "id": "genesisplusgx_libretro",
+            "shortName": "genesisplusgx_libretro",
+            "name": "genesisplusgx_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_genesisplusgx"
+                ]
+            }
+        },
+        "genesisplusgxwide_libretro": {
+            "id": "genesisplusgxwide_libretro",
+            "shortName": "genesisplusgxwide_libretro",
+            "name": "genesisplusgxwide_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_genesisplusgxwide"
                 ]
             }
         },
@@ -24579,6 +25393,34 @@
                 ]
             }
         },
+        "gong_libretro": {
+            "id": "gong_libretro",
+            "shortName": "gong_libretro",
+            "name": "gong_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_gong"
+                ]
+            }
+        },
+        "gpsp_libretro": {
+            "id": "gpsp_libretro",
+            "shortName": "gpsp_libretro",
+            "name": "gpsp_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (gpSP)"
+                ],
+                "recalbox": [
+                    "libretro_gpsp"
+                ],
+                "retropie": [
+                    "lr-gpsp"
+                ]
+            }
+        },
         "gsport": {
             "id": "gsport",
             "shortName": "gsport",
@@ -24590,6 +25432,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "gsport"
+                ]
+            }
+        },
+        "gw_libretro": {
+            "id": "gw_libretro",
+            "shortName": "gw_libretro",
+            "name": "gw_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_gw"
+                ],
+                "retropie": [
+                    "lr-gw"
                 ]
             }
         },
@@ -24609,6 +25465,23 @@
                 ],
                 "oldcomputers": [
                     "Handy"
+                ]
+            }
+        },
+        "handy_libretro": {
+            "id": "handy_libretro",
+            "shortName": "handy_libretro",
+            "name": "handy_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Handy)"
+                ],
+                "recalbox": [
+                    "libretro_handy"
+                ],
+                "retropie": [
+                    "lr-handy"
                 ]
             }
         },
@@ -24632,6 +25505,20 @@
                 ],
                 "recalbox": [
                     "hatari"
+                ]
+            }
+        },
+        "hatari_libretro": {
+            "id": "hatari_libretro",
+            "shortName": "hatari_libretro",
+            "name": "hatari_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_hatari"
+                ],
+                "retropie": [
+                    "lr-hatari"
                 ]
             }
         },
@@ -24833,6 +25720,17 @@
                 ],
                 "emulationking": [
                     "ideas-emulator"
+                ]
+            }
+        },
+        "imageviewer_libretro": {
+            "id": "imageviewer_libretro",
+            "shortName": "imageviewer_libretro",
+            "name": "imageviewer_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_imageviewer"
                 ]
             }
         },
@@ -25240,6 +26138,23 @@
                 ]
             }
         },
+        "kronos_libretro": {
+            "id": "kronos_libretro",
+            "shortName": "kronos_libretro",
+            "name": "kronos_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Kronos)"
+                ],
+                "recalbox": [
+                    "libretro_kronos"
+                ],
+                "retropie": [
+                    "lr-kronos"
+                ]
+            }
+        },
         "lisa": {
             "id": "lisa",
             "shortName": "lisa",
@@ -25269,6 +26184,17 @@
                 ]
             }
         },
+        "lowresnx_libretro": {
+            "id": "lowresnx_libretro",
+            "shortName": "lowresnx_libretro",
+            "name": "lowresnx_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_lowresnx"
+                ]
+            }
+        },
         "luagb": {
             "id": "luagb",
             "shortName": "luagb",
@@ -25280,6 +26206,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "luagb"
+                ]
+            }
+        },
+        "lutro_libretro": {
+            "id": "lutro_libretro",
+            "shortName": "lutro_libretro",
+            "name": "lutro_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_lutro"
                 ]
             }
         },
@@ -25535,6 +26472,116 @@
                 ]
             }
         },
+        "mame2000_libretro": {
+            "id": "mame2000_libretro",
+            "shortName": "mame2000_libretro",
+            "name": "mame2000_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (MAME 2000)"
+                ],
+                "recalbox": [
+                    "libretro_mame2000"
+                ],
+                "retropie": [
+                    "lr-mame2000"
+                ]
+            }
+        },
+        "mame2003_libretro": {
+            "id": "mame2003_libretro",
+            "shortName": "mame2003_libretro",
+            "name": "mame2003_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_mame2003"
+                ],
+                "retropie": [
+                    "lr-mame2003"
+                ]
+            }
+        },
+        "mame2003_plus_libretro": {
+            "id": "mame2003_plus_libretro",
+            "shortName": "mame2003_plus_libretro",
+            "name": "mame2003_plus_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (MAME 2003-Plus)"
+                ],
+                "recalbox": [
+                    "libretro_mame2003_plus"
+                ],
+                "retropie": [
+                    "lr-mame2003-plus"
+                ]
+            }
+        },
+        "mame2010_libretro": {
+            "id": "mame2010_libretro",
+            "shortName": "mame2010_libretro",
+            "name": "mame2010_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (MAME 2010)"
+                ],
+                "recalbox": [
+                    "libretro_mame2010"
+                ],
+                "retropie": [
+                    "lr-mame2010"
+                ]
+            }
+        },
+        "mame2015_libretro": {
+            "id": "mame2015_libretro",
+            "shortName": "mame2015_libretro",
+            "name": "mame2015_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_mame2015"
+                ],
+                "retropie": [
+                    "lr-mame2015"
+                ]
+            }
+        },
+        "mame2016_libretro": {
+            "id": "mame2016_libretro",
+            "shortName": "mame2016_libretro",
+            "name": "mame2016_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_mame2016"
+                ],
+                "retropie": [
+                    "lr-mame2016"
+                ]
+            }
+        },
+        "mame_libretro": {
+            "id": "mame_libretro",
+            "shortName": "mame_libretro",
+            "name": "mame_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (MAME - Current)"
+                ],
+                "recalbox": [
+                    "libretro_mame"
+                ],
+                "retropie": [
+                    "lr-mame"
+                ]
+            }
+        },
         "mameclassic": {
             "id": "mameclassic",
             "shortName": "mameclassic",
@@ -25593,6 +26640,168 @@
                 ],
                 "emulationstation-de": [
                     "Mednafen"
+                ]
+            }
+        },
+        "mednafen_lynx_libretro": {
+            "id": "mednafen_lynx_libretro",
+            "shortName": "mednafen_lynx_libretro",
+            "name": "mednafen_lynx_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle Lynx)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_lynx"
+                ]
+            }
+        },
+        "mednafen_ngp_libretro": {
+            "id": "mednafen_ngp_libretro",
+            "shortName": "mednafen_ngp_libretro",
+            "name": "mednafen_ngp_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle NeoPop)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_ngp"
+                ]
+            }
+        },
+        "mednafen_pce_fast_libretro": {
+            "id": "mednafen_pce_fast_libretro",
+            "shortName": "mednafen_pce_fast_libretro",
+            "name": "mednafen_pce_fast_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle PCE FAST)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_pce_fast"
+                ]
+            }
+        },
+        "mednafen_pce_libretro": {
+            "id": "mednafen_pce_libretro",
+            "shortName": "mednafen_pce_libretro",
+            "name": "mednafen_pce_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle PCE)"
+                ]
+            }
+        },
+        "mednafen_pcfx_libretro": {
+            "id": "mednafen_pcfx_libretro",
+            "shortName": "mednafen_pcfx_libretro",
+            "name": "mednafen_pcfx_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle PC-FX)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_pcfx"
+                ]
+            }
+        },
+        "mednafen_psx_hw_libretro": {
+            "id": "mednafen_psx_hw_libretro",
+            "shortName": "mednafen_psx_hw_libretro",
+            "name": "mednafen_psx_hw_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle PSX HW)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_psx_hw"
+                ]
+            }
+        },
+        "mednafen_psx_libretro": {
+            "id": "mednafen_psx_libretro",
+            "shortName": "mednafen_psx_libretro",
+            "name": "mednafen_psx_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle PSX)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_psx"
+                ]
+            }
+        },
+        "mednafen_saturn_libretro": {
+            "id": "mednafen_saturn_libretro",
+            "shortName": "mednafen_saturn_libretro",
+            "name": "mednafen_saturn_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle Saturn)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_saturn"
+                ]
+            }
+        },
+        "mednafen_supafaust_libretro": {
+            "id": "mednafen_supafaust_libretro",
+            "shortName": "mednafen_supafaust_libretro",
+            "name": "mednafen_supafaust_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle Supafaust)"
+                ]
+            }
+        },
+        "mednafen_supergrafx_libretro": {
+            "id": "mednafen_supergrafx_libretro",
+            "shortName": "mednafen_supergrafx_libretro",
+            "name": "mednafen_supergrafx_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle SuperGrafx)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_supergrafx"
+                ]
+            }
+        },
+        "mednafen_vb_libretro": {
+            "id": "mednafen_vb_libretro",
+            "shortName": "mednafen_vb_libretro",
+            "name": "mednafen_vb_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle VB)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_vb"
+                ]
+            }
+        },
+        "mednafen_wswan_libretro": {
+            "id": "mednafen_wswan_libretro",
+            "shortName": "mednafen_wswan_libretro",
+            "name": "mednafen_wswan_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Beetle Cygne)"
+                ],
+                "recalbox": [
+                    "libretro_mednafen_wswan"
                 ]
             }
         },
@@ -25674,6 +26883,20 @@
                 ]
             }
         },
+        "melonds_libretro": {
+            "id": "melonds_libretro",
+            "shortName": "melonds_libretro",
+            "name": "melonds_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (melonDS)"
+                ],
+                "recalbox": [
+                    "libretro_melonds"
+                ]
+            }
+        },
         "mercury": {
             "id": "mercury",
             "shortName": "mercury",
@@ -25711,6 +26934,45 @@
             "matches": {
                 "emucontrolcenter": [
                     "mesen"
+                ]
+            }
+        },
+        "mesen-s_libretro": {
+            "id": "mesen-s_libretro",
+            "shortName": "mesen-s_libretro",
+            "name": "mesen-s_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Mesen-S)"
+                ]
+            }
+        },
+        "mesen_libretro": {
+            "id": "mesen_libretro",
+            "shortName": "mesen_libretro",
+            "name": "mesen_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Mesen)"
+                ],
+                "recalbox": [
+                    "libretro_mesen"
+                ],
+                "retropie": [
+                    "lr-mesen"
+                ]
+            }
+        },
+        "mesen_s_libretro": {
+            "id": "mesen_s_libretro",
+            "shortName": "mesen_s_libretro",
+            "name": "mesen_s_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_mesen_s"
                 ]
             }
         },
@@ -25876,6 +27138,46 @@
                 ]
             }
         },
+        "mess2015_libretro": {
+            "id": "mess2015_libretro",
+            "shortName": "mess2015_libretro",
+            "name": "mess2015_libretro",
+            "platforms": [],
+            "matches": []
+        },
+        "mess2016_libretro": {
+            "id": "mess2016_libretro",
+            "shortName": "mess2016_libretro",
+            "name": "mess2016_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-mess2016"
+                ]
+            }
+        },
+        "mess_libretro": {
+            "id": "mess_libretro",
+            "shortName": "mess_libretro",
+            "name": "mess_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-mess"
+                ]
+            }
+        },
+        "meteor_libretro": {
+            "id": "meteor_libretro",
+            "shortName": "meteor_libretro",
+            "name": "meteor_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_meteor"
+                ]
+            }
+        },
         "mfme": {
             "id": "mfme",
             "shortName": "mfme",
@@ -25907,6 +27209,23 @@
                 ],
                 "emulationstation-de": [
                     "mGBA"
+                ]
+            }
+        },
+        "mgba_libretro": {
+            "id": "mgba_libretro",
+            "shortName": "mgba_libretro",
+            "name": "mgba_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (mGBA)"
+                ],
+                "recalbox": [
+                    "libretro_mgba"
+                ],
+                "retropie": [
+                    "lr-mgba"
                 ]
             }
         },
@@ -25955,6 +27274,17 @@
                 ]
             }
         },
+        "minivmac_libretro": {
+            "id": "minivmac_libretro",
+            "shortName": "minivmac_libretro",
+            "name": "minivmac_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_minivmac"
+                ]
+            }
+        },
         "minus4": {
             "id": "minus4",
             "shortName": "minus4",
@@ -25994,6 +27324,20 @@
                 ]
             }
         },
+        "mrboom_libretro": {
+            "id": "mrboom_libretro",
+            "shortName": "mrboom_libretro",
+            "name": "mrboom_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_mrboom"
+                ],
+                "retropie": [
+                    "lr-mrboom"
+                ]
+            }
+        },
         "mtxemu": {
             "id": "mtxemu",
             "shortName": "mtxemu",
@@ -26007,6 +27351,17 @@
                 ],
                 "oldcomputers": [
                     "Mt. Xemu"
+                ]
+            }
+        },
+        "mu_libretro": {
+            "id": "mu_libretro",
+            "shortName": "mu_libretro",
+            "name": "mu_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_mu"
                 ]
             }
         },
@@ -26063,6 +27418,37 @@
                     "mupen64plus_n64_gles2",
                     "mupen64plus_rice",
                     "mupen64plus_rice_gles2"
+                ]
+            }
+        },
+        "mupen64plus_libretro": {
+            "id": "mupen64plus_libretro",
+            "shortName": "mupen64plus_libretro",
+            "name": "mupen64plus_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_mupen64plus"
+                ],
+                "retropie": [
+                    "lr-mupen64plus"
+                ]
+            }
+        },
+        "mupen64plus_next_libretro": {
+            "id": "mupen64plus_next_libretro",
+            "shortName": "mupen64plus_next_libretro",
+            "name": "mupen64plus_next_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Mupen64Plus-Next)"
+                ],
+                "recalbox": [
+                    "libretro_mupen64plus_next"
+                ],
+                "retropie": [
+                    "lr-mupen64plus-next"
                 ]
             }
         },
@@ -26183,6 +27569,17 @@
                 ]
             }
         },
+        "nekop2_libretro": {
+            "id": "nekop2_libretro",
+            "shortName": "nekop2_libretro",
+            "name": "nekop2_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Neko Project II)"
+                ]
+            }
+        },
         "nekoprojectii": {
             "id": "nekoprojectii",
             "shortName": "nekoprojectii",
@@ -26224,6 +27621,20 @@
                 ],
                 "emulationking": [
                     "nemulator"
+                ]
+            }
+        },
+        "neocd_libretro": {
+            "id": "neocd_libretro",
+            "shortName": "neocd_libretro",
+            "name": "neocd_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_neocd"
+                ],
+                "retropie": [
+                    "lr-neocd"
                 ]
             }
         },
@@ -26352,6 +27763,23 @@
                 ],
                 "launchbox": [
                     "Nestopia"
+                ]
+            }
+        },
+        "nestopia_libretro": {
+            "id": "nestopia_libretro",
+            "shortName": "nestopia_libretro",
+            "name": "nestopia_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Nestopia UE)"
+                ],
+                "recalbox": [
+                    "libretro_nestopia"
+                ],
+                "retropie": [
+                    "lr-nestopia"
                 ]
             }
         },
@@ -26621,6 +28049,23 @@
                 ]
             }
         },
+        "np2kai_libretro": {
+            "id": "np2kai_libretro",
+            "shortName": "np2kai_libretro",
+            "name": "np2kai_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Neko Project II Kai)"
+                ],
+                "recalbox": [
+                    "libretro_np2kai"
+                ],
+                "retropie": [
+                    "lr-np2kai"
+                ]
+            }
+        },
         "nucleus": {
             "id": "nucleus",
             "shortName": "nucleus",
@@ -26669,6 +28114,20 @@
                 ]
             }
         },
+        "nxengine_libretro": {
+            "id": "nxengine_libretro",
+            "shortName": "nxengine_libretro",
+            "name": "nxengine_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_nxengine"
+                ],
+                "retropie": [
+                    "lr-nxengine"
+                ]
+            }
+        },
         "o2em": {
             "id": "o2em",
             "shortName": "o2em",
@@ -26686,6 +28145,20 @@
                 ]
             }
         },
+        "o2em_libretro": {
+            "id": "o2em_libretro",
+            "shortName": "o2em_libretro",
+            "name": "o2em_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_o2em"
+                ],
+                "retropie": [
+                    "lr-o2em"
+                ]
+            }
+        },
         "ootake": {
             "id": "ootake",
             "shortName": "ootake",
@@ -26699,6 +28172,23 @@
                 ],
                 "oldcomputers": [
                     "Ootake"
+                ]
+            }
+        },
+        "opera_libretro": {
+            "id": "opera_libretro",
+            "shortName": "opera_libretro",
+            "name": "opera_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Opera)"
+                ],
+                "recalbox": [
+                    "libretro_opera"
+                ],
+                "retropie": [
+                    "lr-opera"
                 ]
             }
         },
@@ -26801,6 +28291,23 @@
                 ],
                 "oldcomputers": [
                     "ParaJVE"
+                ]
+            }
+        },
+        "parallel_n64_libretro": {
+            "id": "parallel_n64_libretro",
+            "shortName": "parallel_n64_libretro",
+            "name": "parallel_n64_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (ParaLLEl N64)"
+                ],
+                "recalbox": [
+                    "libretro_parallel_n64"
+                ],
+                "retropie": [
+                    "lr-parallel-n64"
                 ]
             }
         },
@@ -26990,6 +28497,37 @@
                 ]
             }
         },
+        "pcsx2_libretro": {
+            "id": "pcsx2_libretro",
+            "shortName": "pcsx2_libretro",
+            "name": "pcsx2_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (PCSX2)"
+                ],
+                "recalbox": [
+                    "libretro_pcsx2"
+                ]
+            }
+        },
+        "pcsx_rearmed_libretro": {
+            "id": "pcsx_rearmed_libretro",
+            "shortName": "pcsx_rearmed_libretro",
+            "name": "pcsx_rearmed_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (PCSX ReARMed)"
+                ],
+                "recalbox": [
+                    "libretro_pcsx_rearmed"
+                ],
+                "retropie": [
+                    "lr-pcsx-rearmed"
+                ]
+            }
+        },
         "pcsxr": {
             "id": "pcsxr",
             "shortName": "pcsxr",
@@ -27071,6 +28609,23 @@
                 ]
             }
         },
+        "picodrive_libretro": {
+            "id": "picodrive_libretro",
+            "shortName": "picodrive_libretro",
+            "name": "picodrive_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (PicoDrive)"
+                ],
+                "recalbox": [
+                    "libretro_picodrive"
+                ],
+                "retropie": [
+                    "lr-picodrive"
+                ]
+            }
+        },
         "pk201": {
             "id": "pk201",
             "shortName": "pk201",
@@ -27136,6 +28691,20 @@
                 ]
             }
         },
+        "pokemini_libretro": {
+            "id": "pokemini_libretro",
+            "shortName": "pokemini_libretro",
+            "name": "pokemini_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_pokemini"
+                ],
+                "retropie": [
+                    "lr-pokemini"
+                ]
+            }
+        },
         "pom1": {
             "id": "pom1",
             "shortName": "pom1",
@@ -27159,6 +28728,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "potator"
+                ]
+            }
+        },
+        "potator_libretro": {
+            "id": "potator_libretro",
+            "shortName": "potator_libretro",
+            "name": "potator_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Potator)"
+                ],
+                "recalbox": [
+                    "libretro_potator"
                 ]
             }
         },
@@ -27200,6 +28783,40 @@
                 ],
                 "recalbox": [
                     "ppsspp"
+                ]
+            }
+        },
+        "ppsspp_libretro": {
+            "id": "ppsspp_libretro",
+            "shortName": "ppsspp_libretro",
+            "name": "ppsspp_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (PPSSPP)"
+                ],
+                "recalbox": [
+                    "libretro_ppsspp"
+                ],
+                "retropie": [
+                    "lr-ppsspp"
+                ]
+            }
+        },
+        "prboom_libretro": {
+            "id": "prboom_libretro",
+            "shortName": "prboom_libretro",
+            "name": "prboom_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (PrBoom)"
+                ],
+                "recalbox": [
+                    "libretro_prboom"
+                ],
+                "retropie": [
+                    "lr-prboom"
                 ]
             }
         },
@@ -27281,6 +28898,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "prosystem"
+                ]
+            }
+        },
+        "prosystem_libretro": {
+            "id": "prosystem_libretro",
+            "shortName": "prosystem_libretro",
+            "name": "prosystem_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_prosystem"
+                ],
+                "retropie": [
+                    "lr-prosystem"
                 ]
             }
         },
@@ -27387,6 +29018,37 @@
                 ]
             }
         },
+        "puae2021_libretro": {
+            "id": "puae2021_libretro",
+            "shortName": "puae2021_libretro",
+            "name": "puae2021_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (PUAE 2021)"
+                ],
+                "retropie": [
+                    "lr-puae2021"
+                ]
+            }
+        },
+        "puae_libretro": {
+            "id": "puae_libretro",
+            "shortName": "puae_libretro",
+            "name": "puae_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (PUAE)"
+                ],
+                "recalbox": [
+                    "libretro_puae"
+                ],
+                "retropie": [
+                    "lr-puae"
+                ]
+            }
+        },
         "punes": {
             "id": "punes",
             "shortName": "punes",
@@ -27397,6 +29059,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "punes"
+                ]
+            }
+        },
+        "px68k_libretro": {
+            "id": "px68k_libretro",
+            "shortName": "px68k_libretro",
+            "name": "px68k_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_px68k"
+                ],
+                "retropie": [
+                    "lr-px68k"
                 ]
             }
         },
@@ -27458,6 +29134,37 @@
                 ]
             }
         },
+        "quasi88_libretro": {
+            "id": "quasi88_libretro",
+            "shortName": "quasi88_libretro",
+            "name": "quasi88_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_quasi88"
+                ],
+                "retropie": [
+                    "lr-quasi88"
+                ]
+            }
+        },
+        "quicknes_libretro": {
+            "id": "quicknes_libretro",
+            "shortName": "quicknes_libretro",
+            "name": "quicknes_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (QuickNES)"
+                ],
+                "recalbox": [
+                    "libretro_quicknes"
+                ],
+                "retropie": [
+                    "lr-quicknes"
+                ]
+            }
+        },
         "race": {
             "id": "race",
             "shortName": "race",
@@ -27468,6 +29175,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "race"
+                ]
+            }
+        },
+        "race_libretro": {
+            "id": "race_libretro",
+            "shortName": "race_libretro",
+            "name": "race_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (RACE)"
+                ],
+                "recalbox": [
+                    "libretro_race"
                 ]
             }
         },
@@ -27603,6 +29324,31 @@
                 ]
             }
         },
+        "reminiscence_libretro": {
+            "id": "reminiscence_libretro",
+            "shortName": "reminiscence_libretro",
+            "name": "reminiscence_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_reminiscence"
+                ]
+            }
+        },
+        "retro8_libretro": {
+            "id": "retro8_libretro",
+            "shortName": "retro8_libretro",
+            "name": "retro8_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_retro8"
+                ],
+                "retropie": [
+                    "lr-retro8"
+                ]
+            }
+        },
         "retrocopy": {
             "id": "retrocopy",
             "shortName": "retrocopy",
@@ -27616,6 +29362,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "retrocopy"
+                ]
+            }
+        },
+        "retrodream_libretro": {
+            "id": "retrodream_libretro",
+            "shortName": "retrodream_libretro",
+            "name": "retrodream_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_retrodream"
                 ]
             }
         },
@@ -27736,6 +29493,45 @@
                 ]
             }
         },
+        "same_cdi_libretro": {
+            "id": "same_cdi_libretro",
+            "shortName": "same_cdi_libretro",
+            "name": "same_cdi_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (SAME CDi)"
+                ]
+            }
+        },
+        "sameboy_libretro": {
+            "id": "sameboy_libretro",
+            "shortName": "sameboy_libretro",
+            "name": "sameboy_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (SameBoy)"
+                ],
+                "recalbox": [
+                    "libretro_sameboy"
+                ]
+            }
+        },
+        "sameduck_libretro": {
+            "id": "sameduck_libretro",
+            "shortName": "sameduck_libretro",
+            "name": "sameduck_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (SameDuck)"
+                ],
+                "recalbox": [
+                    "libretro_sameduck"
+                ]
+            }
+        },
         "satourne": {
             "id": "satourne",
             "shortName": "satourne",
@@ -27790,6 +29586,23 @@
                 ],
                 "recalbox": [
                     "scummvm"
+                ]
+            }
+        },
+        "scummvm_libretro": {
+            "id": "scummvm_libretro",
+            "shortName": "scummvm_libretro",
+            "name": "scummvm_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (ScummVM)"
+                ],
+                "recalbox": [
+                    "libretro_scummvm"
+                ],
+                "retropie": [
+                    "lr-scummvm"
                 ]
             }
         },
@@ -27900,6 +29713,28 @@
                 ]
             }
         },
+        "smsplus_gx_libretro": {
+            "id": "smsplus_gx_libretro",
+            "shortName": "smsplus_gx_libretro",
+            "name": "smsplus_gx_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-smsplus-gx"
+                ]
+            }
+        },
+        "smsplus_libretro": {
+            "id": "smsplus_libretro",
+            "shortName": "smsplus_libretro",
+            "name": "smsplus_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (SMS Plus GX)"
+                ]
+            }
+        },
         "sneese": {
             "id": "sneese",
             "shortName": "sneese",
@@ -27951,6 +29786,68 @@
                 ],
                 "retropie": [
                     "snes9x"
+                ]
+            }
+        },
+        "snes9x2002_libretro": {
+            "id": "snes9x2002_libretro",
+            "shortName": "snes9x2002_libretro",
+            "name": "snes9x2002_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_snes9x2002"
+                ],
+                "retropie": [
+                    "lr-snes9x2002"
+                ]
+            }
+        },
+        "snes9x2005_libretro": {
+            "id": "snes9x2005_libretro",
+            "shortName": "snes9x2005_libretro",
+            "name": "snes9x2005_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_snes9x2005"
+                ],
+                "retropie": [
+                    "lr-snes9x2005"
+                ]
+            }
+        },
+        "snes9x2010_libretro": {
+            "id": "snes9x2010_libretro",
+            "shortName": "snes9x2010_libretro",
+            "name": "snes9x2010_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Snes9x 2010)"
+                ],
+                "recalbox": [
+                    "libretro_snes9x2010"
+                ],
+                "retropie": [
+                    "lr-snes9x2010"
+                ]
+            }
+        },
+        "snes9x_libretro": {
+            "id": "snes9x_libretro",
+            "shortName": "snes9x_libretro",
+            "name": "snes9x_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Snes9x - Current)"
+                ],
+                "recalbox": [
+                    "libretro_snes9x"
+                ],
+                "retropie": [
+                    "lr-snes9x"
                 ]
             }
         },
@@ -28059,6 +29956,17 @@
                 ]
             }
         },
+        "squirreljme_libretro": {
+            "id": "squirreljme_libretro",
+            "shortName": "squirreljme_libretro",
+            "name": "squirreljme_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (SquirrelJME)"
+                ]
+            }
+        },
         "ssf": {
             "id": "ssf",
             "shortName": "ssf",
@@ -28130,6 +30038,40 @@
                 ]
             }
         },
+        "stella2014_libretro": {
+            "id": "stella2014_libretro",
+            "shortName": "stella2014_libretro",
+            "name": "stella2014_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Stella 2014)"
+                ],
+                "recalbox": [
+                    "libretro_stella2014"
+                ],
+                "retropie": [
+                    "lr-stella2014"
+                ]
+            }
+        },
+        "stella_libretro": {
+            "id": "stella_libretro",
+            "shortName": "stella_libretro",
+            "name": "stella_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Stella)"
+                ],
+                "recalbox": [
+                    "libretro_stella"
+                ],
+                "retropie": [
+                    "lr-stella"
+                ]
+            }
+        },
         "stem": {
             "id": "stem",
             "shortName": "stem",
@@ -28143,6 +30085,17 @@
                 ]
             }
         },
+        "stonesoup_libretro": {
+            "id": "stonesoup_libretro",
+            "shortName": "stonesoup_libretro",
+            "name": "stonesoup_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_stonesoup"
+                ]
+            }
+        },
         "sugarbox": {
             "id": "sugarbox",
             "shortName": "sugarbox",
@@ -28153,6 +30106,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "sugarbox"
+                ]
+            }
+        },
+        "superflappybirds_libretro": {
+            "id": "superflappybirds_libretro",
+            "shortName": "superflappybirds_libretro",
+            "name": "superflappybirds_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-superflappybirds"
                 ]
             }
         },
@@ -28191,6 +30155,20 @@
                 ],
                 "recalbox": [
                     "supermodel"
+                ]
+            }
+        },
+        "swanstation_libretro": {
+            "id": "swanstation_libretro",
+            "shortName": "swanstation_libretro",
+            "name": "swanstation_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (SwanStation)"
+                ],
+                "recalbox": [
+                    "libretro_swanstation"
                 ]
             }
         },
@@ -28268,6 +30246,48 @@
                 ]
             }
         },
+        "tgbdual_libretro": {
+            "id": "tgbdual_libretro",
+            "shortName": "tgbdual_libretro",
+            "name": "tgbdual_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (TGB Dual)"
+                ],
+                "recalbox": [
+                    "libretro_tgbdual"
+                ],
+                "retropie": [
+                    "lr-tgbdual"
+                ]
+            }
+        },
+        "theodore_libretro": {
+            "id": "theodore_libretro",
+            "shortName": "theodore_libretro",
+            "name": "theodore_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_theodore"
+                ],
+                "retropie": [
+                    "lr-theodore"
+                ]
+            }
+        },
+        "thepowdertoy_libretro": {
+            "id": "thepowdertoy_libretro",
+            "shortName": "thepowdertoy_libretro",
+            "name": "thepowdertoy_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_thepowdertoy"
+                ]
+            }
+        },
         "ti994w": {
             "id": "ti994w",
             "shortName": "ti994w",
@@ -28278,6 +30298,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "ti994w"
+                ]
+            }
+        },
+        "tic80_libretro": {
+            "id": "tic80_libretro",
+            "shortName": "tic80_libretro",
+            "name": "tic80_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_tic80"
+                ],
+                "retropie": [
+                    "lr-tic80"
                 ]
             }
         },
@@ -28369,6 +30403,34 @@
             "matches": {
                 "emucontrolcenter": [
                     "twombit"
+                ]
+            }
+        },
+        "tyrquake_libretro": {
+            "id": "tyrquake_libretro",
+            "shortName": "tyrquake_libretro",
+            "name": "tyrquake_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_tyrquake"
+                ],
+                "retropie": [
+                    "lr-tyrquake"
+                ]
+            }
+        },
+        "uae4arm_libretro": {
+            "id": "uae4arm_libretro",
+            "shortName": "uae4arm_libretro",
+            "name": "uae4arm_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_uae4arm"
+                ],
+                "retropie": [
+                    "lr-uae4arm"
                 ]
             }
         },
@@ -28495,6 +30557,17 @@
                 ]
             }
         },
+        "uzem_libretro": {
+            "id": "uzem_libretro",
+            "shortName": "uzem_libretro",
+            "name": "uzem_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_uzem"
+                ]
+            }
+        },
         "vace": {
             "id": "vace",
             "shortName": "vace",
@@ -28550,6 +30623,20 @@
                 ]
             }
         },
+        "vba_next_libretro": {
+            "id": "vba_next_libretro",
+            "shortName": "vba_next_libretro",
+            "name": "vba_next_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (VBA Next)"
+                ],
+                "retropie": [
+                    "lr-vba-next"
+                ]
+            }
+        },
         "vbam": {
             "id": "vbam",
             "shortName": "vbam",
@@ -28564,6 +30651,17 @@
                 ],
                 "emucontrolcenter": [
                     "vbam"
+                ]
+            }
+        },
+        "vbam_libretro": {
+            "id": "vbam_libretro",
+            "shortName": "vbam_libretro",
+            "name": "vbam_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (VBA-M)"
                 ]
             }
         },
@@ -28645,6 +30743,20 @@
                 ]
             }
         },
+        "vecx_libretro": {
+            "id": "vecx_libretro",
+            "shortName": "vecx_libretro",
+            "name": "vecx_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_vecx"
+                ],
+                "retropie": [
+                    "lr-vecx"
+                ]
+            }
+        },
         "vecxgl": {
             "id": "vecxgl",
             "shortName": "vecxgl",
@@ -28695,6 +30807,131 @@
             "matches": {
                 "emucontrolcenter": [
                     "vic20emu"
+                ]
+            }
+        },
+        "vice_libretro": {
+            "id": "vice_libretro",
+            "shortName": "vice_libretro",
+            "name": "vice_libretro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "lr-vice"
+                ]
+            }
+        },
+        "vice_x128_libretro": {
+            "id": "vice_x128_libretro",
+            "shortName": "vice_x128_libretro",
+            "name": "vice_x128_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (VICE x128)"
+                ],
+                "recalbox": [
+                    "libretro_vice_x128"
+                ]
+            }
+        },
+        "vice_x64_libretro": {
+            "id": "vice_x64_libretro",
+            "shortName": "vice_x64_libretro",
+            "name": "vice_x64_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (VICE x64 Fast)"
+                ],
+                "recalbox": [
+                    "libretro_vice_x64"
+                ]
+            }
+        },
+        "vice_x64sc_libretro": {
+            "id": "vice_x64sc_libretro",
+            "shortName": "vice_x64sc_libretro",
+            "name": "vice_x64sc_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (VICE x64sc Accurate)"
+                ],
+                "recalbox": [
+                    "libretro_vice_x64sc"
+                ]
+            }
+        },
+        "vice_xcbm2_libretro": {
+            "id": "vice_xcbm2_libretro",
+            "shortName": "vice_xcbm2_libretro",
+            "name": "vice_xcbm2_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_vice_xcbm2"
+                ]
+            }
+        },
+        "vice_xcbm5x0_libretro": {
+            "id": "vice_xcbm5x0_libretro",
+            "shortName": "vice_xcbm5x0_libretro",
+            "name": "vice_xcbm5x0_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_vice_xcbm5x0"
+                ]
+            }
+        },
+        "vice_xpet_libretro": {
+            "id": "vice_xpet_libretro",
+            "shortName": "vice_xpet_libretro",
+            "name": "vice_xpet_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_vice_xpet"
+                ]
+            }
+        },
+        "vice_xplus4_libretro": {
+            "id": "vice_xplus4_libretro",
+            "shortName": "vice_xplus4_libretro",
+            "name": "vice_xplus4_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_vice_xplus4"
+                ]
+            }
+        },
+        "vice_xscpu64_libretro": {
+            "id": "vice_xscpu64_libretro",
+            "shortName": "vice_xscpu64_libretro",
+            "name": "vice_xscpu64_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (VICE x64 SuperCPU)"
+                ],
+                "recalbox": [
+                    "libretro_vice_xscpu64"
+                ]
+            }
+        },
+        "vice_xvic_libretro": {
+            "id": "vice_xvic_libretro",
+            "shortName": "vice_xvic_libretro",
+            "name": "vice_xvic_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (VICE xvic)"
+                ],
+                "recalbox": [
+                    "libretro_vice_xvic"
                 ]
             }
         },
@@ -28785,6 +31022,20 @@
                 ],
                 "oldcomputers": [
                     "Virtual Jaguar"
+                ]
+            }
+        },
+        "virtualjaguar_libretro": {
+            "id": "virtualjaguar_libretro",
+            "shortName": "virtualjaguar_libretro",
+            "name": "virtualjaguar_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_virtualjaguar"
+                ],
+                "retropie": [
+                    "lr-virtualjaguar"
                 ]
             }
         },
@@ -28912,6 +31163,39 @@
             "matches": {
                 "emucontrolcenter": [
                     "visualpinball"
+                ]
+            }
+        },
+        "vitaquake2_libretro": {
+            "id": "vitaquake2_libretro",
+            "shortName": "vitaquake2_libretro",
+            "name": "vitaquake2_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_vitaquake2"
+                ]
+            }
+        },
+        "vitaquake3_libretro": {
+            "id": "vitaquake3_libretro",
+            "shortName": "vitaquake3_libretro",
+            "name": "vitaquake3_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_vitaquake3"
+                ]
+            }
+        },
+        "vitavoyager_libretro": {
+            "id": "vitavoyager_libretro",
+            "shortName": "vitavoyager_libretro",
+            "name": "vitavoyager_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_vitavoyager"
                 ]
             }
         },
@@ -29234,6 +31518,20 @@
                 ]
             }
         },
+        "x1_libretro": {
+            "id": "x1_libretro",
+            "shortName": "x1_libretro",
+            "name": "x1_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_x1"
+                ],
+                "retropie": [
+                    "lr-x1"
+                ]
+            }
+        },
         "x88000": {
             "id": "x88000",
             "shortName": "x88000",
@@ -29440,6 +31738,20 @@
                 ]
             }
         },
+        "xrick_libretro": {
+            "id": "xrick_libretro",
+            "shortName": "xrick_libretro",
+            "name": "xrick_libretro",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "libretro_xrick"
+                ],
+                "retropie": [
+                    "lr-xrick"
+                ]
+            }
+        },
         "xroar": {
             "id": "xroar",
             "shortName": "xroar",
@@ -29476,6 +31788,20 @@
                 ]
             }
         },
+        "yabasanshiro_libretro": {
+            "id": "yabasanshiro_libretro",
+            "shortName": "yabasanshiro_libretro",
+            "name": "yabasanshiro_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (YabaSanshiro)"
+                ],
+                "recalbox": [
+                    "libretro_yabasanshiro"
+                ]
+            }
+        },
         "yabause": {
             "id": "yabause",
             "shortName": "yabause",
@@ -29492,6 +31818,23 @@
                 ],
                 "oldcomputers": [
                     "Yabause"
+                ]
+            }
+        },
+        "yabause_libretro": {
+            "id": "yabause_libretro",
+            "shortName": "yabause_libretro",
+            "name": "yabause_libretro",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RetroArch (Yabause)"
+                ],
+                "recalbox": [
+                    "libretro_yabause"
+                ],
+                "retropie": [
+                    "lr-yabause"
                 ]
             }
         },
