@@ -1,18 +1,5 @@
 {
     "platforms": {
-        "Adobe Flash": {
-            "id": "Adobe Flash",
-            "name": "Flash",
-            "matches": {
-                "emulationstation-de": [
-                    "flash"
-                ],
-                "emucontrolcenter": [
-                    "flash"
-                ]
-            },
-            "company": "Adobe"
-        },
         "8-Bit Productions Commander X16": {
             "id": "8-Bit Productions Commander X16",
             "name": "Commander X16",
@@ -581,6 +568,19 @@
                 ]
             },
             "company": "Acorn"
+        },
+        "Adobe Flash": {
+            "id": "Adobe Flash",
+            "name": "Flash",
+            "matches": {
+                "emulationstation-de": [
+                    "flash"
+                ],
+                "emucontrolcenter": [
+                    "flash"
+                ]
+            },
+            "company": "Adobe"
         },
         "Advanced Computer Design PDQ-3": {
             "id": "Advanced Computer Design PDQ-3",
@@ -3645,22 +3645,6 @@
             },
             "company": "Commodore"
         },
-        "Commodore Amiga 600": {
-            "id": "Commodore Amiga 600",
-            "name": "Amiga 600",
-            "matches": {
-                "emulationstation-de": [
-                    "amiga600"
-                ],
-                "oldcomputers": [
-                    64
-                ],
-                "recalbox": [
-                    "amiga600"
-                ]
-            },
-            "company": "Commodore"
-        },
         "Commodore Amiga 1000": {
             "id": "Commodore Amiga 1000",
             "name": "Amiga 1000",
@@ -3699,6 +3683,22 @@
                 ],
                 "oldcomputers": [
                     30
+                ]
+            },
+            "company": "Commodore"
+        },
+        "Commodore Amiga 600": {
+            "id": "Commodore Amiga 600",
+            "name": "Amiga 600",
+            "matches": {
+                "emulationstation-de": [
+                    "amiga600"
+                ],
+                "oldcomputers": [
+                    64
+                ],
+                "recalbox": [
+                    "amiga600"
                 ]
             },
             "company": "Commodore"
@@ -7328,19 +7328,6 @@
             },
             "company": "IBM"
         },
-        "ITT 3030": {
-            "id": "ITT 3030",
-            "name": "3030",
-            "matches": {
-                "mame": [
-                    "itt3030"
-                ],
-                "oldcomputers": [
-                    146
-                ]
-            },
-            "company": "ITT"
-        },
         "IMLAC Corporation PDS-1": {
             "id": "IMLAC Corporation PDS-1",
             "name": "PDS-1",
@@ -7357,6 +7344,19 @@
                 ]
             },
             "company": "IMLAC Corporation"
+        },
+        "ITT 3030": {
+            "id": "ITT 3030",
+            "name": "3030",
+            "matches": {
+                "mame": [
+                    "itt3030"
+                ],
+                "oldcomputers": [
+                    146
+                ]
+            },
+            "company": "ITT"
         },
         "Incredible Technologies Eagle": {
             "id": "Incredible Technologies Eagle",
@@ -7729,6 +7729,16 @@
                 ]
             },
             "company": "Konami"
+        },
+        "Konami Python 2": {
+            "id": "Konami Python 2",
+            "name": "Python 2",
+            "company": "Konami",
+            "matches": {
+                "nointro": [
+                    "Non-Redump - Konami - Python 2"
+                ]
+            }
         },
         "Konami System 573": {
             "id": "Konami System 573",
@@ -8793,6 +8803,16 @@
             "matches": [],
             "company": "Microsoft"
         },
+        "Microsoft Pocket PC": {
+            "id": "Microsoft Pocket PC",
+            "name": "Pocket PC",
+            "company": "Microsoft",
+            "matches": {
+                "nointro": [
+                    "Non-Redump - Microsoft - Pocket PC"
+                ]
+            }
+        },
         "Microsoft Windows": {
             "id": "Microsoft Windows",
             "name": "Windows",
@@ -9001,6 +9021,16 @@
             },
             "company": "Milton Bradley"
         },
+        "Milton-Bradley Omni (Waveform)": {
+            "id": "Milton-Bradley Omni (Waveform)",
+            "name": "Omni (Waveform)",
+            "company": "Milton-Bradley",
+            "matches": {
+                "nointro": [
+                    "Milton-Bradley - Omni (Waveform)"
+                ]
+            }
+        },
         "Mindset Corporation Mindset": {
             "id": "Mindset Corporation Mindset",
             "name": "Mindset",
@@ -9026,43 +9056,13 @@
             },
             "company": "Mitsubishi"
         },
-        "Morrow MPZ80": {
-            "id": "Morrow MPZ80",
-            "name": "MPZ80",
-            "matches": {
-                "mame": [
-                    "mpz80"
-                ]
-            },
-            "company": "Morrow"
-        },
-        "Milton-Bradley Omni (Waveform)": {
-            "id": "Milton-Bradley Omni (Waveform)",
-            "name": "Omni (Waveform)",
-            "company": "Milton-Bradley",
+        "Mobile J2ME": {
+            "id": "Mobile J2ME",
+            "name": "J2ME",
+            "company": "Mobile",
             "matches": {
                 "nointro": [
-                    "Milton-Bradley - Omni (Waveform)"
-                ]
-            }
-        },
-        "Konami Python 2": {
-            "id": "Konami Python 2",
-            "name": "Python 2",
-            "company": "Konami",
-            "matches": {
-                "nointro": [
-                    "Non-Redump - Konami - Python 2"
-                ]
-            }
-        },
-        "Microsoft Pocket PC": {
-            "id": "Microsoft Pocket PC",
-            "name": "Pocket PC",
-            "company": "Microsoft",
-            "matches": {
-                "nointro": [
-                    "Non-Redump - Microsoft - Pocket PC"
+                    "Mobile - J2ME"
                 ]
             }
         },
@@ -9080,16 +9080,6 @@
                 ]
             }
         },
-        "Mobile J2ME": {
-            "id": "Mobile J2ME",
-            "name": "J2ME",
-            "company": "Mobile",
-            "matches": {
-                "nointro": [
-                    "Mobile - J2ME"
-                ]
-            }
-        },
         "Mobile Symbian": {
             "id": "Mobile Symbian",
             "name": "Symbian",
@@ -9100,35 +9090,15 @@
                 ]
             }
         },
-        "Sega ALLS": {
-            "id": "Sega ALLS",
-            "name": "ALLS",
-            "company": "Sega",
+        "Morrow MPZ80": {
+            "id": "Morrow MPZ80",
+            "name": "MPZ80",
             "matches": {
-                "nointro": [
-                    "Non-Redump - Sega - ALLS"
+                "mame": [
+                    "mpz80"
                 ]
-            }
-        },
-        "Sanyo MBC-550": {
-            "id": "Sanyo MBC-550",
-            "name": "MBC-550",
-            "company": "Sanyo",
-            "matches": {
-                "nointro": [
-                    "Sanyo - MBC-550 (Flux)"
-                ]
-            }
-        },
-        "Sony PlayStation Mobile": {
-            "id": "Sony PlayStation Mobile",
-            "name": "PlayStation Mobile",
-            "company": "Sony",
-            "matches": {
-                "nointro": [
-                    "Sony - PlayStation Mobile (PSN)"
-                ]
-            }
+            },
+            "company": "Morrow"
         },
         "Motorola EXORciser": {
             "id": "Motorola EXORciser",
@@ -12019,6 +11989,16 @@
             },
             "company": "Sanyo"
         },
+        "Sanyo MBC-550": {
+            "id": "Sanyo MBC-550",
+            "name": "MBC-550",
+            "company": "Sanyo",
+            "matches": {
+                "nointro": [
+                    "Sanyo - MBC-550 (Flux)"
+                ]
+            }
+        },
         "Sanyo MBC-550 & 555": {
             "id": "Sanyo MBC-550 & 555",
             "name": "MBC-550 & 555",
@@ -12097,6 +12077,16 @@
                 ]
             },
             "company": "Sega"
+        },
+        "Sega ALLS": {
+            "id": "Sega ALLS",
+            "name": "ALLS",
+            "company": "Sega",
+            "matches": {
+                "nointro": [
+                    "Non-Redump - Sega - ALLS"
+                ]
+            }
         },
         "Sega Beena": {
             "id": "Sega Beena",
@@ -12985,17 +12975,6 @@
             },
             "company": "Seta"
         },
-        "Sharp MZ-80B": {
-            "id": "Sharp MZ-80B",
-            "name": "MZ-80B",
-            "matches": {
-                "tosec": [
-                    "Sharp MZ-80B - Games - [MZT]",
-                    "Sharp MZ-80B - Games - [WAV]"
-                ]
-            },
-            "company": "Sharp"
-        },
         "Sharp MZ-2000": {
             "id": "Sharp MZ-2000",
             "name": "MZ-2000",
@@ -13091,6 +13070,17 @@
             "id": "Sharp MZ-800 & MZ-1500",
             "name": "MZ-800 & MZ-1500",
             "matches": [],
+            "company": "Sharp"
+        },
+        "Sharp MZ-80B": {
+            "id": "Sharp MZ-80B",
+            "name": "MZ-80B",
+            "matches": {
+                "tosec": [
+                    "Sharp MZ-80B - Games - [MZT]",
+                    "Sharp MZ-80B - Games - [WAV]"
+                ]
+            },
             "company": "Sharp"
         },
         "Sharp PC-G850, PC-G815 & E200": {
@@ -13602,6 +13592,16 @@
             "name": "ZX81",
             "matches": [],
             "company": "Sinclair"
+        },
+        "Sony PlayStation Mobile": {
+            "id": "Sony PlayStation Mobile",
+            "name": "PlayStation Mobile",
+            "company": "Sony",
+            "matches": {
+                "nointro": [
+                    "Sony - PlayStation Mobile (PSN)"
+                ]
+            }
         },
         "Sony Playstation": {
             "id": "Sony Playstation",
@@ -16408,11 +16408,6 @@
                 ]
             }
         },
-        "Advanced Computer Design": {
-            "id": "Advanced Computer Design",
-            "name": "Advanced Computer Design",
-            "matches": []
-        },
         "Adobe": {
             "id": "Adobe",
             "name": "Adobe",
@@ -16421,6 +16416,11 @@
                     "Adobe"
                 ]
             }
+        },
+        "Advanced Computer Design": {
+            "id": "Advanced Computer Design",
+            "name": "Advanced Computer Design",
+            "matches": []
         },
         "AlphaSmart": {
             "id": "AlphaSmart",
@@ -16476,6 +16476,11 @@
                     "Amstrad"
                 ]
             }
+        },
+        "Analogue": {
+            "id": "Analogue",
+            "name": "Analogue",
+            "matches": []
         },
         "Apogee": {
             "id": "Apogee",
@@ -16582,11 +16587,6 @@
                     "Bally"
                 ]
             }
-        },
-        "IMLAC Corporation": {
-            "id": "IMLAC Corporation",
-            "name": "IMLAC Corporation",
-            "matches": []
         },
         "Bandai": {
             "id": "Bandai",
@@ -17310,6 +17310,11 @@
                 ]
             }
         },
+        "IMLAC Corporation": {
+            "id": "IMLAC Corporation",
+            "name": "IMLAC Corporation",
+            "matches": []
+        },
         "ITT": {
             "id": "ITT",
             "name": "ITT",
@@ -17689,14 +17694,14 @@
                 ]
             }
         },
+        "Mobile": {
+            "id": "Mobile",
+            "name": "Mobile"
+        },
         "Morrow": {
             "id": "Morrow",
             "name": "Morrow",
             "matches": []
-        },
-        "Mobile": {
-            "id": "Mobile",
-            "name": "Mobile"
         },
         "Motorola": {
             "id": "Motorola",
