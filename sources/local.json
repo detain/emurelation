@@ -5349,6 +5349,9 @@
             "id": "Creatronic Mega Duck & Cougar Boy",
             "name": "Mega Duck & Cougar Boy",
             "matches": {
+                "emucontrolcenter": [
+                    "mdcb"
+                ],
                 "tosec": [
                     "Creatronic Mega Duck & Cougar Boy - Firmware",
                     "Creatronic Mega Duck & Cougar Boy - Games"
@@ -17727,26 +17730,17 @@
                 "TimeTop GameKing 3"
             ]
         },
-        "Timex Sinclair 2068": {
-            "id": "Timex Sinclair 2068",
-            "name": "2068",
-            "matches": {
-                "mame": [
-                    "timex_cass"
-                ],
-                "oldcomputers": [
-                    634
-                ]
-            },
-            "company": "Timex Sinclair",
-            "altNames": [
-                "Timex Sinclair 2068"
-            ]
-        },
         "Timex Sinclair TS-2068": {
             "id": "Timex Sinclair TS-2068",
             "name": "TS-2068",
             "matches": {
+                "mame": [
+                    "timex_cass",
+                    "timex_dock"
+                ],
+                "oldcomputers": [
+                    634
+                ],
                 "tosec": [
                     "Timex Sinclair TS-2068 - Games"
                 ]
@@ -17754,19 +17748,6 @@
             "company": "Timex Sinclair",
             "altNames": [
                 "Timex Sinclair TS-2068"
-            ]
-        },
-        "Timex Sinclair TS-2068 DOCK": {
-            "id": "Timex Sinclair TS-2068 DOCK",
-            "name": "TS-2068 DOCK",
-            "matches": {
-                "mame": [
-                    "timex_dock"
-                ]
-            },
-            "company": "Timex Sinclair",
-            "altNames": [
-                "Timex Sinclair TS-2068 DOCK"
             ]
         },
         "Tomy KISS-Site": {
@@ -17869,23 +17850,6 @@
                 "Torch Z80-68000"
             ]
         },
-        "Toshiba Pasopia": {
-            "id": "Toshiba Pasopia",
-            "name": "Pasopia",
-            "matches": {
-                "nointro": [
-                    "Toshiba - Pasopia (BIN)",
-                    "Toshiba - Pasopia (WAV)"
-                ],
-                "oldcomputers": [
-                    412
-                ]
-            },
-            "company": "Toshiba",
-            "altNames": [
-                "Toshiba Pasopia"
-            ]
-        },
         "Toshiba Pasopia 7": {
             "id": "Toshiba Pasopia 7",
             "name": "Pasopia 7",
@@ -17906,6 +17870,13 @@
             "id": "Toshiba Personal Computer Pasopia PA7010",
             "name": "Personal Computer Pasopia PA7010",
             "matches": {
+                "nointro": [
+                    "Toshiba - Pasopia (BIN)",
+                    "Toshiba - Pasopia (WAV)"
+                ],
+                "oldcomputers": [
+                    412
+                ],
                 "mame": [
                     "pasopia_cass"
                 ],
@@ -18100,9 +18071,9 @@
                 "University of Tokyo PC-1"
             ]
         },
-        "Uzebox internal EP": {
-            "id": "Uzebox internal EP",
-            "name": "internal EP",
+        "Uzebox": {
+            "id": "Uzebox",
+            "name": "Uzebox",
             "matches": {
                 "mame": [
                     "uzebox"
@@ -18117,10 +18088,7 @@
                     "uzebox"
                 ]
             },
-            "company": "Uzebox",
-            "altNames": [
-                "Uzebox internal EP"
-            ]
+            "company": "Uzebox"
         },
         "VEB Mikroelektronik Erfurt Chess-Master Diamond": {
             "id": "VEB Mikroelektronik Erfurt Chess-Master Diamond",
@@ -18153,7 +18121,7 @@
                 "VEB Mikroelektronik KC 85"
             ]
         },
-        "VM Labs Nuon": {
+        "VM-Labs Nuon": {
             "id": "VM Labs Nuon",
             "name": "Nuon",
             "matches": {
@@ -18177,15 +18145,6 @@
                     "nuon"
                 ]
             },
-            "company": "VM Labs",
-            "altNames": [
-                "VM Labs Nuon"
-            ]
-        },
-        "VM-Labs Nuon": {
-            "id": "VM-Labs Nuon",
-            "name": "Nuon",
-            "matches": [],
             "company": "VM-Labs",
             "altNames": [
                 "VM-Labs Nuon"
@@ -18200,17 +18159,7 @@
                 ],
                 "retropie": [
                     "crvision"
-                ]
-            },
-            "company": "VTech",
-            "altNames": [
-                "VTech CreatiVision"
-            ]
-        },
-        "VTech Creativision": {
-            "id": "VTech Creativision",
-            "name": "Creativision",
-            "matches": {
+                ],
                 "mame": [
                     "crvision"
                 ],
@@ -18234,7 +18183,7 @@
             },
             "company": "VTech",
             "altNames": [
-                "VTech Creativision"
+                "VTech CreatiVision"
             ]
         },
         "VTech Genius": {
@@ -18633,15 +18582,6 @@
                 "VTech V.Flash"
             ]
         },
-        "VTech V.Flash Home Edutainment System": {
-            "id": "VTech V.Flash Home Edutainment System",
-            "name": "V.Flash Home Edutainment System",
-            "matches": [],
-            "company": "VTech",
-            "altNames": [
-                "VTech V.Flash Home Edutainment System"
-            ]
-        },
         "VTech V.Smile": {
             "id": "VTech V.Smile",
             "name": "V.Smile",
@@ -18716,15 +18656,6 @@
                 "Victor 9000 - ACT Sirius 1"
             ]
         },
-        "Video Game Music Files": {
-            "id": "Video Game Music Files",
-            "name": "Video Game Music Files",
-            "matches": {
-                "mame": [
-                    "vgmplay"
-                ]
-            }
-        },
         "VideoBrain Family Computer": {
             "id": "VideoBrain Family Computer",
             "name": "Family Computer",
@@ -18738,26 +18669,17 @@
                 "VideoBrain Family Computer"
             ]
         },
-        "Videoton TV-Computer": {
-            "id": "Videoton TV-Computer",
-            "name": "TV-Computer",
-            "matches": {
-                "emucontrolcenter": [
-                    "tvc"
-                ]
-            },
-            "company": "Videoton",
-            "altNames": [
-                "Videoton TV-Computer"
-            ]
-        },
         "Videoton TVC": {
             "id": "Videoton TVC",
             "name": "TVC",
             "matches": {
+                "emucontrolcenter": [
+                    "tvc"
+                ],
                 "mame": [
                     "tvc_cass",
-                    "tvc_flop"
+                    "tvc_flop",
+                    "tvc_cart"
                 ],
                 "tosec": [
                     "Videoton TV-Computer - Applications",
@@ -18769,19 +18691,6 @@
             "company": "Videoton",
             "altNames": [
                 "Videoton TVC"
-            ]
-        },
-        "Videoton TVC 64": {
-            "id": "Videoton TVC 64",
-            "name": "TVC 64",
-            "matches": {
-                "mame": [
-                    "tvc_cart"
-                ]
-            },
-            "company": "Videoton",
-            "altNames": [
-                "Videoton TVC 64"
             ]
         },
         "Visual Pinball": {
@@ -18924,15 +18833,6 @@
             "company": "Waveterm",
             "altNames": [
                 "Waveterm A"
-            ]
-        },
-        "Welback Mega Duck": {
-            "id": "Welback Mega Duck",
-            "name": "Mega Duck",
-            "matches": [],
-            "company": "Welback",
-            "altNames": [
-                "Welback Mega Duck"
             ]
         },
         "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures": {
