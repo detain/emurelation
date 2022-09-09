@@ -3893,12 +3893,19 @@
                     "c65_flop"
                 ],
                 "oldcomputers": [
-                    99
+                    99,
+                    273
+                ],
+                "tosec": [
+                    "Commodore C65 - Applications",
+                    "Commodore C65 - Demos",
+                    "Commodore C65 - Firmware"
                 ]
             },
             "company": "Commodore",
             "altNames": [
-                "Commodore 65"
+                "Commodore 65",
+                "Commodore C65"
             ]
         },
         "Commodore 8096": {
@@ -4403,24 +4410,6 @@
             "company": "Commodore",
             "altNames": [
                 "Commodore C64DTV"
-            ]
-        },
-        "Commodore C65": {
-            "id": "Commodore C65",
-            "name": "C65",
-            "matches": {
-                "tosec": [
-                    "Commodore C65 - Applications",
-                    "Commodore C65 - Demos",
-                    "Commodore C65 - Firmware"
-                ],
-                "oldcomputers": [
-                    273
-                ]
-            },
-            "company": "Commodore",
-            "altNames": [
-                "Commodore C65"
             ]
         },
         "Commodore CBM-II": {
