@@ -26,7 +26,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [ScreenScraper](sources/screenscraper.json) | API | 162 | 68 | 230 | 70.4% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 189 | 1099 | 1288 | 14.7% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [MAME](sources/mame.json) | Emulator | 647 | 22 | 669 | 96.7% |
+| [MAME](sources/mame.json) | Emulator | 654 | 15 | 669 | 97.8% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
 | [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |

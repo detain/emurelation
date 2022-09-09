@@ -717,6 +717,9 @@
             "matches": {
                 "oldcomputers": [
                     1122
+                ],
+                "mame": [
+                    "alphasmart_kapps"
                 ]
             },
             "altNames": [
@@ -7497,7 +7500,8 @@
             "name": "NeXT",
             "matches": {
                 "mame": [
-                    "next"
+                    "next",
+                    "next_cdrom"
                 ]
             },
             "company": "Generic",
@@ -9080,6 +9084,9 @@
             "matches": {
                 "nointro": [
                     "Non-Redump - Konami - Python 2"
+                ],
+                "mame": [
+                    "kpython2"
                 ]
             },
             "altNames": [
@@ -11655,7 +11662,7 @@
         },
         "Nintendo Entertainment System": {
             "id": "Nintendo Entertainment System",
-            "name": "Entertainment System",
+            "name": "Nintendo Entertainment System",
             "matches": {
                 "launchbox": [
                     "Nintendo Entertainment System"
@@ -11670,7 +11677,8 @@
                     "nes_ade",
                     "nes_datach",
                     "nes_kstudio",
-                    "nes_ntbrom"
+                    "nes_ntbrom",
+                    "nes_vt_cart"
                 ],
                 "tgdb": [
                     7
@@ -11732,10 +11740,7 @@
                     "nes"
                 ]
             },
-            "company": "Nintendo",
-            "altNames": [
-                "Nintendo Entertainment System"
-            ]
+            "company": "Nintendo"
         },
         "Nintendo Famicom": {
             "id": "Nintendo Famicom",
@@ -13602,7 +13607,11 @@
             "id": "Roland R-8",
             "name": "R-8",
             "company": "Roland",
-            "matches": [],
+            "matches": {
+                "mame": [
+                    "r8_card"
+                ]
+            },
             "altNames": [
                 "Roland R-8"
             ]
@@ -13624,7 +13633,11 @@
             "id": "Roland U-110",
             "name": "U-110",
             "company": "Roland",
-            "matches": [],
+            "matches": {
+                "mame": [
+                    "u110_card"
+                ]
+            },
             "altNames": [
                 "Roland U-110"
             ]
@@ -16558,7 +16571,8 @@
                     "ekara_japan_ac",
                     "ekara_japan_bh",
                     "ekara_japan",
-                    "ekara_japan_en"
+                    "ekara_japan_en",
+                    "ekara_japan_p"
                 ]
             },
             "company": "Takara",
