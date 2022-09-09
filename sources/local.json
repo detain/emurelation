@@ -21773,6 +21773,17 @@
         }
     },
     "emulators": {
+        "1964-emulator": {
+            "id": "1964-emulator",
+            "shortName": "1964-emulator",
+            "name": "1964-emulator",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "1964-emulator"
+                ]
+            }
+        },
         "2048_libretro": {
             "id": "2048_libretro",
             "shortName": "2048_libretro",
@@ -21879,6 +21890,50 @@
                 ]
             }
         },
+        "ArcadeFlashWeb": {
+            "id": "ArcadeFlashWeb",
+            "shortName": "ArcadeFlashWeb",
+            "name": "ArcadeFlashWeb",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "ArcadeFlashWeb"
+                ]
+            }
+        },
+        "Cxbx-Reloaded": {
+            "id": "Cxbx-Reloaded",
+            "shortName": "Cxbx-Reloaded",
+            "name": "Cxbx-Reloaded",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Cxbx-Reloaded"
+                ]
+            }
+        },
+        "DOSBox Staging": {
+            "id": "DOSBox Staging",
+            "shortName": "DOSBox Staging",
+            "name": "DOSBox Staging",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "DOSBox Staging"
+                ]
+            }
+        },
+        "DOSBox-X": {
+            "id": "DOSBox-X",
+            "shortName": "DOSBox-X",
+            "name": "DOSBox-X",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "DOSBox-X"
+                ]
+            }
+        },
         "DuckStation": {
             "id": "DuckStation",
             "shortName": "DuckStation",
@@ -21893,6 +21948,163 @@
                 ],
                 "recalbox": [
                     "duckstation"
+                ]
+            }
+        },
+        "EasyRPG Player": {
+            "id": "EasyRPG Player",
+            "shortName": "EasyRPG Player",
+            "name": "EasyRPG Player",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "EasyRPG Player"
+                ]
+            }
+        },
+        "Flycast": {
+            "id": "Flycast",
+            "shortName": "Flycast",
+            "name": "Flycast",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Flycast"
+                ]
+            }
+        },
+        "Hypseus [Daphne]": {
+            "id": "Hypseus [Daphne]",
+            "shortName": "Hypseus [Daphne]",
+            "name": "Hypseus [Daphne]",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Hypseus [Daphne]"
+                ]
+            }
+        },
+        "Hypseus [Singe]": {
+            "id": "Hypseus [Singe]",
+            "shortName": "Hypseus [Singe]",
+            "name": "Hypseus [Singe]",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Hypseus [Singe]"
+                ]
+            }
+        },
+        "KEmulator": {
+            "id": "KEmulator",
+            "shortName": "KEmulator",
+            "name": "KEmulator",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "KEmulator"
+                ]
+            }
+        },
+        "M.U.G.E.N": {
+            "id": "M.U.G.E.N",
+            "shortName": "M.U.G.E.N",
+            "name": "M.U.G.E.N",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "M.U.G.E.N"
+                ]
+            }
+        },
+        "Model 2 Emulator": {
+            "id": "Model 2 Emulator",
+            "shortName": "Model 2 Emulator",
+            "name": "Model 2 Emulator",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Model 2 Emulator"
+                ]
+            }
+        },
+        "PCSX2 Legacy": {
+            "id": "PCSX2 Legacy",
+            "shortName": "PCSX2 Legacy",
+            "name": "PCSX2 Legacy",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "PCSX2 Legacy"
+                ]
+            }
+        },
+        "PICO-8": {
+            "id": "PICO-8",
+            "shortName": "PICO-8",
+            "name": "PICO-8",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "PICO-8"
+                ]
+            }
+        },
+        "PICO-8 Splore": {
+            "id": "PICO-8 Splore",
+            "shortName": "PICO-8 Splore",
+            "name": "PICO-8 Splore",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "PICO-8 Splore"
+                ]
+            }
+        },
+        "Play!": {
+            "id": "Play!",
+            "shortName": "Play!",
+            "name": "Play!",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "play-ps2"
+                ],
+                "emulationstation-de": [
+                    "Play!"
+                ]
+            }
+        },
+        "PrimeHack": {
+            "id": "PrimeHack",
+            "shortName": "PrimeHack",
+            "name": "PrimeHack",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "PrimeHack"
+                ]
+            }
+        },
+        "RPCS3 Directory": {
+            "id": "RPCS3 Directory",
+            "shortName": "RPCS3 Directory",
+            "name": "RPCS3 Directory",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RPCS3 Directory"
+                ]
+            }
+        },
+        "RPCS3 Shortcut": {
+            "id": "RPCS3 Shortcut",
+            "shortName": "RPCS3 Shortcut",
+            "name": "RPCS3 Shortcut",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "RPCS3 Shortcut"
                 ]
             }
         },
@@ -21941,6 +22153,149 @@
                 ]
             }
         },
+        "Ruffle": {
+            "id": "Ruffle",
+            "shortName": "Ruffle",
+            "name": "Ruffle",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Ruffle"
+                ]
+            }
+        },
+        "Ryujinx": {
+            "id": "Ryujinx",
+            "shortName": "Ryujinx",
+            "name": "Ryujinx",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Ryujinx"
+                ]
+            }
+        },
+        "Shortcut or script": {
+            "id": "Shortcut or script",
+            "shortName": "Shortcut or script",
+            "name": "Shortcut or script",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Shortcut or script"
+                ]
+            }
+        },
+        "Triforce": {
+            "id": "Triforce",
+            "shortName": "Triforce",
+            "name": "Triforce",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Triforce"
+                ]
+            }
+        },
+        "Tsugaru": {
+            "id": "Tsugaru",
+            "shortName": "Tsugaru",
+            "name": "Tsugaru",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Tsugaru"
+                ]
+            }
+        },
+        "VBA-M": {
+            "id": "VBA-M",
+            "shortName": "VBA-M",
+            "name": "VBA-M",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "VBA-M"
+                ]
+            }
+        },
+        "VICE x64sc Accurate": {
+            "id": "VICE x64sc Accurate",
+            "shortName": "VICE x64sc Accurate",
+            "name": "VICE x64sc Accurate",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "VICE x64sc Accurate"
+                ]
+            }
+        },
+        "VICE xvic": {
+            "id": "VICE xvic",
+            "shortName": "VICE xvic",
+            "name": "VICE xvic",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "VICE xvic"
+                ]
+            }
+        },
+        "Vita3K": {
+            "id": "Vita3K",
+            "shortName": "Vita3K",
+            "name": "Vita3K",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Vita3K"
+                ]
+            }
+        },
+        "XRoar CoCo 2 NTSC": {
+            "id": "XRoar CoCo 2 NTSC",
+            "shortName": "XRoar CoCo 2 NTSC",
+            "name": "XRoar CoCo 2 NTSC",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "XRoar CoCo 2 NTSC"
+                ]
+            }
+        },
+        "XRoar CoCo 2 PAL": {
+            "id": "XRoar CoCo 2 PAL",
+            "shortName": "XRoar CoCo 2 PAL",
+            "name": "XRoar CoCo 2 PAL",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "XRoar CoCo 2 PAL"
+                ]
+            }
+        },
+        "XRoar Dragon 32": {
+            "id": "XRoar Dragon 32",
+            "shortName": "XRoar Dragon 32",
+            "name": "XRoar Dragon 32",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "XRoar Dragon 32"
+                ]
+            }
+        },
+        "XRoar Dragon 64": {
+            "id": "XRoar Dragon 64",
+            "shortName": "XRoar Dragon 64",
+            "name": "XRoar Dragon 64",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "XRoar Dragon 64"
+                ]
+            }
+        },
         "Xemu": {
             "id": "Xemu",
             "shortName": "Xemu",
@@ -21952,6 +22307,20 @@
                 ],
                 "emulationstation-de": [
                     "xemu"
+                ]
+            }
+        },
+        "Yuzu": {
+            "id": "Yuzu",
+            "shortName": "Yuzu",
+            "name": "Yuzu",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "yuzu-emulator"
+                ],
+                "emulationstation-de": [
+                    "Yuzu"
                 ]
             }
         },
@@ -22047,6 +22416,20 @@
                 ]
             }
         },
+        "advancemame": {
+            "id": "advancemame",
+            "shortName": "advancemame",
+            "name": "advancemame",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "advancemame"
+                ],
+                "retropie": [
+                    "advmame"
+                ]
+            }
+        },
         "adviem": {
             "id": "adviem",
             "shortName": "adviem",
@@ -22057,6 +22440,35 @@
             "matches": {
                 "emucontrolcenter": [
                     "adviem"
+                ]
+            }
+        },
+        "advmame": {
+            "id": "advmame",
+            "shortName": "advmame",
+            "name": "advmame",
+            "platforms": [],
+            "matches": []
+        },
+        "advmame-0.94": {
+            "id": "advmame-0.94",
+            "shortName": "advmame-0.94",
+            "name": "advmame-0.94",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "advmame-0.94"
+                ]
+            }
+        },
+        "advmame-1.4": {
+            "id": "advmame-1.4",
+            "shortName": "advmame-1.4",
+            "name": "advmame-1.4",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "advmame-1.4"
                 ]
             }
         },
@@ -22101,6 +22513,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "ages"
+                ]
+            }
+        },
+        "ags": {
+            "id": "ags",
+            "shortName": "ags",
+            "name": "ags",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "ags"
                 ]
             }
         },
@@ -22161,6 +22584,31 @@
                 ],
                 "oldcomputers": [
                     "Altirra"
+                ]
+            }
+        },
+        "amiberry": {
+            "id": "amiberry",
+            "shortName": "amiberry",
+            "name": "amiberry",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "amiberry"
+                ],
+                "retropie": [
+                    "amiberry"
+                ]
+            }
+        },
+        "andripsx": {
+            "id": "andripsx",
+            "shortName": "andripsx",
+            "name": "andripsx",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "andripsx"
                 ]
             }
         },
@@ -22353,6 +22801,28 @@
                 ]
             }
         },
+        "ares": {
+            "id": "ares",
+            "shortName": "ares",
+            "name": "ares",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "ares"
+                ]
+            }
+        },
+        "ares FDS": {
+            "id": "ares FDS",
+            "shortName": "ares FDS",
+            "name": "ares FDS",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "ares FDS"
+                ]
+            }
+        },
         "arnimedes": {
             "id": "arnimedes",
             "shortName": "arnimedes",
@@ -22531,6 +23001,28 @@
                 ]
             }
         },
+        "basicboy": {
+            "id": "basicboy",
+            "shortName": "basicboy",
+            "name": "basicboy",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "basicboy"
+                ]
+            }
+        },
+        "basilisk": {
+            "id": "basilisk",
+            "shortName": "basilisk",
+            "name": "basilisk",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "basilisk"
+                ]
+            }
+        },
         "basiliskii": {
             "id": "basiliskii",
             "shortName": "basiliskii",
@@ -22547,6 +23039,17 @@
                 ],
                 "oldcomputers": [
                     "Basilisk II"
+                ]
+            }
+        },
+        "batgba": {
+            "id": "batgba",
+            "shortName": "batgba",
+            "name": "batgba",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "batgba"
                 ]
             }
         },
@@ -22781,6 +23284,17 @@
             "matches": {
                 "emulationstation-de": [
                     "RetroArch (BlastEm)"
+                ]
+            }
+        },
+        "bleem": {
+            "id": "bleem",
+            "shortName": "bleem",
+            "name": "bleem",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "bleem"
                 ]
             }
         },
@@ -23148,6 +23662,17 @@
                 ]
             }
         },
+        "capricerpi": {
+            "id": "capricerpi",
+            "shortName": "capricerpi",
+            "name": "capricerpi",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "capricerpi"
+                ]
+            }
+        },
         "ccs64": {
             "id": "ccs64",
             "shortName": "ccs64",
@@ -23496,6 +24021,17 @@
                 ]
             }
         },
+        "crabemu": {
+            "id": "crabemu",
+            "shortName": "crabemu",
+            "name": "crabemu",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "crabemu"
+                ]
+            }
+        },
         "craft_libretro": {
             "id": "craft_libretro",
             "shortName": "craft_libretro",
@@ -23751,6 +24287,17 @@
                 ]
             }
         },
+        "decaf-emulator": {
+            "id": "decaf-emulator",
+            "shortName": "decaf-emulator",
+            "name": "decaf-emulator",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "decaf-emulator"
+                ]
+            }
+        },
         "dega": {
             "id": "dega",
             "shortName": "dega",
@@ -23988,6 +24535,28 @@
                 ]
             }
         },
+        "dosbox-sdl2": {
+            "id": "dosbox-sdl2",
+            "shortName": "dosbox-sdl2",
+            "name": "dosbox-sdl2",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "dosbox-sdl2"
+                ]
+            }
+        },
+        "dosbox-staging": {
+            "id": "dosbox-staging",
+            "shortName": "dosbox-staging",
+            "name": "dosbox-staging",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "dosbox-staging"
+                ]
+            }
+        },
         "dosbox_core_libretro": {
             "id": "dosbox_core_libretro",
             "shortName": "dosbox_core_libretro",
@@ -24051,6 +24620,17 @@
                 ]
             }
         },
+        "drastic": {
+            "id": "drastic",
+            "shortName": "drastic",
+            "name": "drastic",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "drastic"
+                ]
+            }
+        },
         "dream64": {
             "id": "dream64",
             "shortName": "dream64",
@@ -24103,6 +24683,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "dreamgbatng"
+                ]
+            }
+        },
+        "dreamgbc": {
+            "id": "dreamgbc",
+            "shortName": "dreamgbc",
+            "name": "dreamgbc",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "dreamgbc"
                 ]
             }
         },
@@ -24169,6 +24760,17 @@
                 ]
             }
         },
+        "duos-emulator": {
+            "id": "duos-emulator",
+            "shortName": "duos-emulator",
+            "name": "duos-emulator",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "duos-emulator"
+                ]
+            }
+        },
         "dve": {
             "id": "dve",
             "shortName": "dve",
@@ -24179,6 +24781,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "dve"
+                ]
+            }
+        },
+        "dxbx": {
+            "id": "dxbx",
+            "shortName": "dxbx",
+            "name": "dxbx",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "dxbx"
                 ]
             }
         },
@@ -24590,6 +25203,17 @@
                 ]
             }
         },
+        "fba2x": {
+            "id": "fba2x",
+            "shortName": "fba2x",
+            "name": "fba2x",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "fba2x"
+                ]
+            }
+        },
         "fbalpha": {
             "id": "fbalpha",
             "shortName": "fbalpha",
@@ -24716,6 +25340,17 @@
                 ],
                 "retropie": [
                     "lr-fbneo"
+                ]
+            }
+        },
+        "fbzx": {
+            "id": "fbzx",
+            "shortName": "fbzx",
+            "name": "fbzx",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "fbzx"
                 ]
             }
         },
@@ -24926,6 +25561,28 @@
                 ]
             }
         },
+        "frotz": {
+            "id": "frotz",
+            "shortName": "frotz",
+            "name": "frotz",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "frotz"
+                ]
+            }
+        },
+        "fs-uae": {
+            "id": "fs-uae",
+            "shortName": "fs-uae",
+            "name": "fs-uae",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "fs-uae"
+                ]
+            }
+        },
         "fsuae": {
             "id": "fsuae",
             "shortName": "fsuae",
@@ -25013,6 +25670,17 @@
                 ],
                 "oldcomputers": [
                     "Galaxy Win"
+                ]
+            }
+        },
+        "gambatte": {
+            "id": "gambatte",
+            "shortName": "gambatte",
+            "name": "gambatte",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "gambatte"
                 ]
             }
         },
@@ -25107,6 +25775,17 @@
                 ],
                 "emulationking": [
                     "gcube"
+                ]
+            }
+        },
+        "gearboy": {
+            "id": "gearboy",
+            "shortName": "gearboy",
+            "name": "gearboy",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "gearboy"
                 ]
             }
         },
@@ -25393,6 +26072,28 @@
                 ]
             }
         },
+        "gngeopi": {
+            "id": "gngeopi",
+            "shortName": "gngeopi",
+            "name": "gngeopi",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "gngeopi"
+                ]
+            }
+        },
+        "gnuboy": {
+            "id": "gnuboy",
+            "shortName": "gnuboy",
+            "name": "gnuboy",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "gnuboy"
+                ]
+            }
+        },
         "gong_libretro": {
             "id": "gong_libretro",
             "shortName": "gong_libretro",
@@ -25401,6 +26102,17 @@
             "matches": {
                 "recalbox": [
                     "libretro_gong"
+                ]
+            }
+        },
+        "gpsp": {
+            "id": "gpsp",
+            "shortName": "gpsp",
+            "name": "gpsp",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "gpsp"
                 ]
             }
         },
@@ -25418,6 +26130,17 @@
                 ],
                 "retropie": [
                     "lr-gpsp"
+                ]
+            }
+        },
+        "gsplus": {
+            "id": "gsplus",
+            "shortName": "gsplus",
+            "name": "gsplus",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "gsplus"
                 ]
             }
         },
@@ -25690,6 +26413,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "hyper64"
+                ]
+            }
+        },
+        "hypseus": {
+            "id": "hypseus",
+            "shortName": "hypseus",
+            "name": "hypseus",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "hypseus"
                 ]
             }
         },
@@ -26155,6 +26889,31 @@
                 ]
             }
         },
+        "launchbox": {
+            "id": "launchbox",
+            "shortName": "launchbox",
+            "name": "launchbox",
+            "platforms": [],
+            "matches": {
+                "screenscraper": [
+                    "launchbox"
+                ]
+            }
+        },
+        "linapple": {
+            "id": "linapple",
+            "shortName": "linapple",
+            "name": "linapple",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "linapple"
+                ],
+                "retropie": [
+                    "linapple"
+                ]
+            }
+        },
         "lisa": {
             "id": "lisa",
             "shortName": "lisa",
@@ -26562,6 +27321,17 @@
                 ],
                 "retropie": [
                     "lr-mame2016"
+                ]
+            }
+        },
+        "mame4all": {
+            "id": "mame4all",
+            "shortName": "mame4all",
+            "name": "mame4all",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "mame4all"
                 ]
             }
         },
@@ -27324,6 +28094,17 @@
                 ]
             }
         },
+        "moonlight": {
+            "id": "moonlight",
+            "shortName": "moonlight",
+            "name": "moonlight",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "moonlight"
+                ]
+            }
+        },
         "mrboom_libretro": {
             "id": "mrboom_libretro",
             "shortName": "mrboom_libretro",
@@ -28066,6 +28847,17 @@
                 ]
             }
         },
+        "np2pi": {
+            "id": "np2pi",
+            "shortName": "np2pi",
+            "name": "np2pi",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "np2pi"
+                ]
+            }
+        },
         "nucleus": {
             "id": "nucleus",
             "shortName": "nucleus",
@@ -28172,6 +28964,28 @@
                 ],
                 "oldcomputers": [
                     "Ootake"
+                ]
+            }
+        },
+        "openbor": {
+            "id": "openbor",
+            "shortName": "openbor",
+            "name": "openbor",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "openbor"
+                ]
+            }
+        },
+        "openmsx": {
+            "id": "openmsx",
+            "shortName": "openmsx",
+            "name": "openmsx",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "openmsx"
                 ]
             }
         },
@@ -28466,6 +29280,17 @@
                 ]
             }
         },
+        "pcsx-rearmed": {
+            "id": "pcsx-rearmed",
+            "shortName": "pcsx-rearmed",
+            "name": "pcsx-rearmed",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "pcsx-rearmed"
+                ]
+            }
+        },
         "pcsx2": {
             "id": "pcsx2",
             "shortName": "pcsx2",
@@ -28508,6 +29333,17 @@
                 ],
                 "recalbox": [
                     "libretro_pcsx2"
+                ]
+            }
+        },
+        "pcsx_rearmed": {
+            "id": "pcsx_rearmed",
+            "shortName": "pcsx_rearmed",
+            "name": "pcsx_rearmed",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "pcsx_rearmed"
                 ]
             }
         },
@@ -28626,6 +29462,31 @@
                 ]
             }
         },
+        "pifba": {
+            "id": "pifba",
+            "shortName": "pifba",
+            "name": "pifba",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "pifba"
+                ]
+            }
+        },
+        "pisnes": {
+            "id": "pisnes",
+            "shortName": "pisnes",
+            "name": "pisnes",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "pisnes"
+                ],
+                "retropie": [
+                    "pisnes"
+                ]
+            }
+        },
         "pk201": {
             "id": "pk201",
             "shortName": "pk201",
@@ -28649,6 +29510,24 @@
             "matches": {
                 "emucontrolcenter": [
                     "pkemu"
+                ]
+            }
+        },
+        "play-ps2": {
+            "id": "play-ps2",
+            "shortName": "play-ps2",
+            "name": "play-ps2",
+            "platforms": [],
+            "matches": []
+        },
+        "playguy": {
+            "id": "playguy",
+            "shortName": "playguy",
+            "name": "playguy",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "playguy"
                 ]
             }
         },
@@ -28786,6 +29665,17 @@
                 ]
             }
         },
+        "ppsspp-1.5.4": {
+            "id": "ppsspp-1.5.4",
+            "shortName": "ppsspp-1.5.4",
+            "name": "ppsspp-1.5.4",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "ppsspp-1.5.4"
+                ]
+            }
+        },
         "ppsspp_libretro": {
             "id": "ppsspp_libretro",
             "shortName": "ppsspp_libretro",
@@ -28817,6 +29707,17 @@
                 ],
                 "retropie": [
                     "lr-prboom"
+                ]
+            }
+        },
+        "project-64": {
+            "id": "project-64",
+            "shortName": "project-64",
+            "name": "project-64",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "project-64"
                 ]
             }
         },
@@ -28898,6 +29799,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "prosystem"
+                ]
+            }
+        },
+        "prosystem-emulator": {
+            "id": "prosystem-emulator",
+            "shortName": "prosystem-emulator",
+            "name": "prosystem-emulator",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "prosystem-emulator"
                 ]
             }
         },
@@ -29059,6 +29971,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "punes"
+                ]
+            }
+        },
+        "px68k": {
+            "id": "px68k",
+            "shortName": "px68k",
+            "name": "px68k",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "px68k"
                 ]
             }
         },
@@ -29264,6 +30187,17 @@
                 ]
             }
         },
+        "recalbox": {
+            "id": "recalbox",
+            "shortName": "recalbox",
+            "name": "recalbox",
+            "platforms": [],
+            "matches": {
+                "screenscraper": [
+                    "recalbox"
+                ]
+            }
+        },
         "reddragon": {
             "id": "reddragon",
             "shortName": "reddragon",
@@ -29324,6 +30258,23 @@
                 ]
             }
         },
+        "reicast": {
+            "id": "reicast",
+            "shortName": "reicast",
+            "name": "reicast",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "reicast"
+                ],
+                "recalbox": [
+                    "reicast"
+                ],
+                "retropie": [
+                    "reicast"
+                ]
+            }
+        },
         "reminiscence_libretro": {
             "id": "reminiscence_libretro",
             "shortName": "reminiscence_libretro",
@@ -29332,6 +30283,17 @@
             "matches": {
                 "recalbox": [
                     "libretro_reminiscence"
+                ]
+            }
+        },
+        "residualvm": {
+            "id": "residualvm",
+            "shortName": "residualvm",
+            "name": "residualvm",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "residualvm"
                 ]
             }
         },
@@ -29373,6 +30335,17 @@
             "matches": {
                 "recalbox": [
                     "libretro_retrodream"
+                ]
+            }
+        },
+        "retropie": {
+            "id": "retropie",
+            "shortName": "retropie",
+            "name": "retropie",
+            "platforms": [],
+            "matches": {
+                "screenscraper": [
+                    "retropie"
                 ]
             }
         },
@@ -29461,6 +30434,17 @@
                 ],
                 "launchbox": [
                     "RPCS3"
+                ]
+            }
+        },
+        "rpix86": {
+            "id": "rpix86",
+            "shortName": "rpix86",
+            "name": "rpix86",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "rpix86"
                 ]
             }
         },
@@ -29589,6 +30573,17 @@
                 ]
             }
         },
+        "scummvm-sdl1": {
+            "id": "scummvm-sdl1",
+            "shortName": "scummvm-sdl1",
+            "name": "scummvm-sdl1",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "scummvm-sdl1"
+                ]
+            }
+        },
         "scummvm_libretro": {
             "id": "scummvm_libretro",
             "shortName": "scummvm_libretro",
@@ -29603,6 +30598,39 @@
                 ],
                 "retropie": [
                     "lr-scummvm"
+                ]
+            }
+        },
+        "sdl2trs Bootable Diskette": {
+            "id": "sdl2trs Bootable Diskette",
+            "shortName": "sdl2trs Bootable Diskette",
+            "name": "sdl2trs Bootable Diskette",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "sdl2trs Bootable Diskette"
+                ]
+            }
+        },
+        "sdl2trs CMD File": {
+            "id": "sdl2trs CMD File",
+            "shortName": "sdl2trs CMD File",
+            "name": "sdl2trs CMD File",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "sdl2trs CMD File"
+                ]
+            }
+        },
+        "sdl2trs DOS Diskette": {
+            "id": "sdl2trs DOS Diskette",
+            "shortName": "sdl2trs DOS Diskette",
+            "name": "sdl2trs DOS Diskette",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "sdl2trs DOS Diskette"
                 ]
             }
         },
@@ -29903,6 +30931,17 @@
                 ]
             }
         },
+        "solarus": {
+            "id": "solarus",
+            "shortName": "solarus",
+            "name": "solarus",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "solarus"
+                ]
+            }
+        },
         "sorcerer": {
             "id": "sorcerer",
             "shortName": "sorcerer",
@@ -29913,6 +30952,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "sorcerer"
+                ]
+            }
+        },
+        "soywiz-psp-emu": {
+            "id": "soywiz-psp-emu",
+            "shortName": "soywiz-psp-emu",
+            "name": "soywiz-psp-emu",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "soywiz-psp-emu"
                 ]
             }
         },
@@ -29984,6 +31034,17 @@
                 ],
                 "oldcomputers": [
                     "SSF"
+                ]
+            }
+        },
+        "ssspsx": {
+            "id": "ssspsx",
+            "shortName": "ssspsx",
+            "name": "ssspsx",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "ssspsx"
                 ]
             }
         },
@@ -30093,6 +31154,17 @@
             "matches": {
                 "recalbox": [
                     "libretro_stonesoup"
+                ]
+            }
+        },
+        "stratagus": {
+            "id": "stratagus",
+            "shortName": "stratagus",
+            "name": "stratagus",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "stratagus"
                 ]
             }
         },
@@ -30301,6 +31373,31 @@
                 ]
             }
         },
+        "ti99sim": {
+            "id": "ti99sim",
+            "shortName": "ti99sim",
+            "name": "ti99sim",
+            "platforms": [],
+            "matches": {
+                "recalbox": [
+                    "ti99sim"
+                ],
+                "retropie": [
+                    "ti99sim"
+                ]
+            }
+        },
+        "ti99sim-sdl1": {
+            "id": "ti99sim-sdl1",
+            "shortName": "ti99sim-sdl1",
+            "name": "ti99sim-sdl1",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "ti99sim-sdl1"
+                ]
+            }
+        },
         "tic80_libretro": {
             "id": "tic80_libretro",
             "shortName": "tic80_libretro",
@@ -30417,6 +31514,28 @@
                 ],
                 "retropie": [
                     "lr-tyrquake"
+                ]
+            }
+        },
+        "uae4all": {
+            "id": "uae4all",
+            "shortName": "uae4all",
+            "name": "uae4all",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "uae4all"
+                ]
+            }
+        },
+        "uae4arm": {
+            "id": "uae4arm",
+            "shortName": "uae4arm",
+            "name": "uae4arm",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "uae4arm"
                 ]
             }
         },
@@ -30810,6 +31929,20 @@
                 ]
             }
         },
+        "vice": {
+            "id": "vice",
+            "shortName": "vice",
+            "name": "vice",
+            "platforms": [],
+            "matches": {
+                "oldcomputers": [
+                    "VICE"
+                ],
+                "retropie": [
+                    "vice"
+                ]
+            }
+        },
         "vice_libretro": {
             "id": "vice_libretro",
             "shortName": "vice_libretro",
@@ -31106,6 +32239,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "virtuanesplus"
+                ]
+            }
+        },
+        "visual-boy-advance": {
+            "id": "visual-boy-advance",
+            "shortName": "visual-boy-advance",
+            "name": "visual-boy-advance",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "visual-boy-advance"
                 ]
             }
         },
@@ -31788,6 +32932,17 @@
                 ]
             }
         },
+        "yabasanshiro": {
+            "id": "yabasanshiro",
+            "shortName": "yabasanshiro",
+            "name": "yabasanshiro",
+            "platforms": [],
+            "matches": {
+                "retropie": [
+                    "yabasanshiro"
+                ]
+            }
+        },
         "yabasanshiro_libretro": {
             "id": "yabasanshiro_libretro",
             "shortName": "yabasanshiro_libretro",
@@ -31919,6 +33074,13 @@
                     "yoshines"
                 ]
             }
+        },
+        "yuzu-emulator": {
+            "id": "yuzu-emulator",
+            "shortName": "yuzu-emulator",
+            "name": "yuzu-emulator",
+            "platforms": [],
+            "matches": []
         },
         "z26": {
             "id": "z26",
