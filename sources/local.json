@@ -72,6 +72,9 @@
             "matches": {
                 "oldcomputers": [
                     501
+                ],
+                "mame": [
+                    "apxen_flop"
                 ]
             }
         },
@@ -2031,6 +2034,9 @@
             "matches": {
                 "oldcomputers": [
                     1301
+                ],
+                "mame": [
+                    "basf7100"
                 ]
             }
         },
@@ -7155,9 +7161,9 @@
                 ]
             }
         },
-        "Hitachi Basic Master Jr. Level 2": {
-            "id": "Hitachi Basic Master Jr. Level 2",
-            "name": "Basic Master Jr. Level 2",
+        "Hitachi Basic Master Level 2": {
+            "id": "Hitachi Basic Master Level 2",
+            "name": "Basic Master Level 2",
             "company": "Hitachi",
             "matches": {
                 "tosec": [
@@ -7166,11 +7172,14 @@
                 ]
             }
         },
-        "Hitachi Basic Master Jr. Level 3": {
-            "id": "Hitachi Basic Master Jr. Level 3",
-            "name": "Basic Master Jr. Level 3",
+        "Hitachi Basic Master Level 3": {
+            "id": "Hitachi Basic Master Level 3",
+            "name": "Basic Master Level 3",
             "company": "Hitachi",
             "matches": {
+                "mame": [
+                    "bml3_flop"
+                ],
                 "tosec": [
                     "Hitachi Basic Master Jr. Level 3 - Games - [L3]",
                     "Hitachi Basic Master Jr. Level 3 - Games - [WAV]"
