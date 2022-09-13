@@ -18986,6 +18986,9 @@
             "id": "APF",
             "name": "APF",
             "matches": {
+                "arrm": [
+                    "APF Electronics Inc."
+                ],
                 "emucontrolcenter": [
                     "APF Electronics"
                 ],
@@ -19017,6 +19020,10 @@
             "id": "Acorn",
             "name": "Acorn",
             "matches": {
+                "arrm": [
+                    "Acorn Computers",
+                    "Acorn computers"
+                ],
                 "emucontrolcenter": [
                     "Acorn"
                 ],
@@ -19300,7 +19307,11 @@
         "COMX": {
             "id": "COMX",
             "name": "COMX",
-            "matches": []
+            "matches": {
+                "emucontrolcenter": [
+                    "Comx WOL"
+                ]
+            }
         },
         "Cadaco": {
             "id": "Cadaco",
@@ -19609,6 +19620,9 @@
             "id": "Elektronika",
             "name": "Elektronika",
             "matches": {
+                "arrm": [
+                    "Electronika"
+                ],
                 "screenscraper": [
                     "Elektronika"
                 ],
@@ -19631,6 +19645,9 @@
             "id": "Emerson",
             "name": "Emerson",
             "matches": {
+                "arrm": [
+                    "Emerson Radio"
+                ],
                 "emucontrolcenter": [
                     "Emerson"
                 ],
@@ -19745,6 +19762,9 @@
             "id": "Fairchild",
             "name": "Fairchild",
             "matches": {
+                "arrm": [
+                    "Fairchild Semiconductor"
+                ],
                 "emucontrolcenter": [
                     "Fairchild"
                 ],
@@ -19816,6 +19836,9 @@
             "id": "Funtech",
             "name": "Funtech",
             "matches": {
+                "arrm": [
+                    "Funtech Entertainment"
+                ],
                 "emucontrolcenter": [
                     "Funtech Entertainment"
                 ],
@@ -20159,7 +20182,10 @@
             "id": "MGT",
             "name": "MGT",
             "matches": {
-                "emuconctrolcenter": [
+                "arrm": [
+                    "Miles Gordon Technology"
+                ],
+                "emucontrolcenter": [
                     "Miles Gordon Technology"
                 ],
                 "launchbox": [
@@ -20230,6 +20256,9 @@
             "id": "Matsushita",
             "name": "Matsushita",
             "matches": {
+                "emucontrolcenter": [
+                    "Matra/Hachette"
+                ],
                 "launchbox": [
                     "Matsushita"
                 ],
@@ -21057,6 +21086,9 @@
             "id": "Tandy Radio Shack",
             "name": "Tandy Radio Shack",
             "matches": {
+                "arrm": [
+                    "Tandy"
+                ],
                 "recalbox": [
                     "Tandy"
                 ],
@@ -21073,6 +21105,9 @@
             "id": "Tangerine",
             "name": "Tangerine",
             "matches": {
+                "arrm": [
+                    "Tangerine Computer Systems"
+                ],
                 "oldcomputers": [
                     "TANGERINE",
                     "Tangerine"

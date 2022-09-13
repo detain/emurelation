@@ -32,7 +32,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [RetroBat](sources/retrobat.json) | Frontend | 126 | 26 | 152 | 82.9% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
 | [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |
-| [RetroPie](sources/retropie.json) | Frontend | 71 | 13 | 84 | 84.5% |
+| [RetroPie](sources/retropie.json) | Frontend | 71 | 6 | 77 | 92.2% |
 | [ARRM](sources/arrm.json) | Tools | 207 | 68 | 275 | 75.3% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 175 | 22 | 197 | 88.8% |
 
@@ -63,8 +63,8 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 44 | 81 | 125 | 35.2% |
 | [RecalBox](sources/recalbox.json) | Frontend | 31 | 22 | 53 | 58.5% |
-| [ARRM](sources/arrm.json) | Tools | 40 | 24 | 64 | 62.5% |
-| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 72 | 26 | 98 | 73.5% |
+| [ARRM](sources/arrm.json) | Tools | 50 | 14 | 64 | 78.1% |
+| [emuControlCenter](sources/emucontrolcenter.json) | Tools | 75 | 23 | 98 | 76.5% |
 
 ### 🕹 Games
 
