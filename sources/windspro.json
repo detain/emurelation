@@ -1,0 +1,368 @@
+{
+    "emulators": {
+        "Citra Nightly": {
+            "id": "Citra Nightly",
+            "name": "Citra Nightly"
+        },
+        "Citra (32 bit)": {
+            "id": "Citra (32 bit)",
+            "name": "Citra (32 bit)"
+        },
+        "Citra Canary": {
+            "id": "Citra Canary",
+            "name": "Citra Canary"
+        },
+        "DeSmuME": {
+            "id": "DeSmuME",
+            "name": "DeSmuME"
+        },
+        "MyZoom": {
+            "id": "MyZoom",
+            "name": "MyZoom"
+        },
+        "NGZoom": {
+            "id": "NGZoom",
+            "name": "NGZoom"
+        },
+        "No$gba 2.6a": {
+            "id": "No$gba 2.6a",
+            "name": "No$gba 2.6a"
+        },
+        "No$gba2X": {
+            "id": "No$gba2X",
+            "name": "No$gba2X"
+        },
+        "No$gba": {
+            "id": "No$gba",
+            "name": "No$gba"
+        },
+        "No$Mooz": {
+            "id": "No$Mooz",
+            "name": "No$Mooz"
+        },
+        "No$Zoomer": {
+            "id": "No$Zoomer",
+            "name": "No$Zoomer"
+        },
+        "NOZ": {
+            "id": "NOZ",
+            "name": "NOZ"
+        },
+        "VBA Link": {
+            "id": "VBA Link",
+            "name": "VBA Link"
+        },
+        "VBA-M": {
+            "id": "VBA-M",
+            "name": "VBA-M"
+        },
+        "Atari800Win PLus": {
+            "id": "Atari800Win PLus",
+            "name": "Atari800Win PLus"
+        },
+        "BizHawk": {
+            "id": "BizHawk",
+            "name": "BizHawk"
+        },
+        "blueMSX": {
+            "id": "blueMSX",
+            "name": "blueMSX"
+        },
+        "CCS64": {
+            "id": "CCS64",
+            "name": "CCS64"
+        },
+        "Cemu": {
+            "id": "Cemu",
+            "name": "Cemu"
+        },
+        "Cxbx Reloaded": {
+            "id": "Cxbx Reloaded",
+            "name": "Cxbx Reloaded"
+        },
+        "Decaf": {
+            "id": "Decaf",
+            "name": "Decaf"
+        },
+        "Demul": {
+            "id": "Demul",
+            "name": "Demul"
+        },
+        "DeSmuME X432R 32-bit": {
+            "id": "DeSmuME X432R 32-bit",
+            "name": "DeSmuME X432R 32-bit"
+        },
+        "DeSmuME X432R 64-bit": {
+            "id": "DeSmuME X432R 64-bit",
+            "name": "DeSmuME X432R 64-bit"
+        },
+        "Dolphin (Ishiiruka) 32-bit": {
+            "id": "Dolphin (Ishiiruka) 32-bit",
+            "name": "Dolphin (Ishiiruka) 32-bit"
+        },
+        "Dolphin (Ishiiruka) 64-bit": {
+            "id": "Dolphin (Ishiiruka) 64-bit",
+            "name": "Dolphin (Ishiiruka) 64-bit"
+        },
+        "Dolphin 32-bit": {
+            "id": "Dolphin 32-bit",
+            "name": "Dolphin 32-bit"
+        },
+        "Dolphin 64-bit": {
+            "id": "Dolphin 64-bit",
+            "name": "Dolphin 64-bit"
+        },
+        "ePSXe": {
+            "id": "ePSXe",
+            "name": "ePSXe"
+        },
+        "FCEUX": {
+            "id": "FCEUX",
+            "name": "FCEUX"
+        },
+        "Final Burn Alpha rr": {
+            "id": "Final Burn Alpha rr",
+            "name": "Final Burn Alpha rr"
+        },
+        "Gens GS": {
+            "id": "Gens GS",
+            "name": "Gens GS"
+        },
+        "Gens rr": {
+            "id": "Gens rr",
+            "name": "Gens rr"
+        },
+        "Handy": {
+            "id": "Handy",
+            "name": "Handy"
+        },
+        "Hourglass": {
+            "id": "Hourglass",
+            "name": "Hourglass"
+        },
+        "JPC-rr": {
+            "id": "JPC-rr",
+            "name": "JPC-rr"
+        },
+        "Kega Fusion": {
+            "id": "Kega Fusion",
+            "name": "Kega Fusion"
+        },
+        "lsnes rr2": {
+            "id": "lsnes rr2",
+            "name": "lsnes rr2"
+        },
+        "Mednafen (MedGui)": {
+            "id": "Mednafen (MedGui)",
+            "name": "Mednafen (MedGui)"
+        },
+        "Mednafen-rr": {
+            "id": "Mednafen-rr",
+            "name": "Mednafen-rr"
+        },
+        "Mupen64-rr": {
+            "id": "Mupen64-rr",
+            "name": "Mupen64-rr"
+        },
+        "Mupen64Plus": {
+            "id": "Mupen64Plus",
+            "name": "Mupen64Plus"
+        },
+        "no$2k6": {
+            "id": "no$2k6",
+            "name": "no$2k6"
+        },
+        "no$c64": {
+            "id": "no$c64",
+            "name": "no$c64"
+        },
+        "no$msx": {
+            "id": "no$msx",
+            "name": "no$msx"
+        },
+        "no$nes": {
+            "id": "no$nes",
+            "name": "no$nes"
+        },
+        "no$psx": {
+            "id": "no$psx",
+            "name": "no$psx"
+        },
+        "no$sns": {
+            "id": "no$sns",
+            "name": "no$sns"
+        },
+        "nullDC": {
+            "id": "nullDC",
+            "name": "nullDC"
+        },
+        "Ootake": {
+            "id": "Ootake",
+            "name": "Ootake"
+        },
+        "Open MSX 32-bit": {
+            "id": "Open MSX 32-bit",
+            "name": "Open MSX 32-bit"
+        },
+        "Open MSX 64-bit": {
+            "id": "Open MSX 64-bit",
+            "name": "Open MSX 64-bit"
+        },
+        "Oswan": {
+            "id": "Oswan",
+            "name": "Oswan"
+        },
+        "PCSX-R": {
+            "id": "PCSX-R",
+            "name": "PCSX-R"
+        },
+        "PCSX2": {
+            "id": "PCSX2",
+            "name": "PCSX2"
+        },
+        "Play!": {
+            "id": "Play!",
+            "name": "Play!"
+        },
+        "PokeMini": {
+            "id": "PokeMini",
+            "name": "PokeMini"
+        },
+        "PPSSPP 32-bit": {
+            "id": "PPSSPP 32-bit",
+            "name": "PPSSPP 32-bit"
+        },
+        "PPSSPP 64-bit": {
+            "id": "PPSSPP 64-bit",
+            "name": "PPSSPP 64-bit"
+        },
+        "Project64": {
+            "id": "Project64",
+            "name": "Project64"
+        },
+        "Project64K7E": {
+            "id": "Project64K7E",
+            "name": "Project64K7E"
+        },
+        "ProSystem": {
+            "id": "ProSystem",
+            "name": "ProSystem"
+        },
+        "pSX fin": {
+            "id": "pSX fin",
+            "name": "pSX fin"
+        },
+        "PSXjin": {
+            "id": "PSXjin",
+            "name": "PSXjin"
+        },
+        "Red Dragon": {
+            "id": "Red Dragon",
+            "name": "Red Dragon"
+        },
+        "rpcs3": {
+            "id": "rpcs3",
+            "name": "rpcs3"
+        },
+        "Snes9x 32-bit": {
+            "id": "Snes9x 32-bit",
+            "name": "Snes9x 32-bit"
+        },
+        "Snes9x 64-bit": {
+            "id": "Snes9x 64-bit",
+            "name": "Snes9x 64-bit"
+        },
+        "SSF": {
+            "id": "SSF",
+            "name": "SSF"
+        },
+        "VBA-rr": {
+            "id": "VBA-rr",
+            "name": "VBA-rr"
+        },
+        "VBjin": {
+            "id": "VBjin",
+            "name": "VBjin"
+        },
+        "Virtual Jaguar": {
+            "id": "Virtual Jaguar",
+            "name": "Virtual Jaguar"
+        },
+        "VirtuaNES": {
+            "id": "VirtuaNES",
+            "name": "VirtuaNES"
+        },
+        "WinVICE C128": {
+            "id": "WinVICE C128",
+            "name": "WinVICE C128"
+        },
+        "WinVICE C64": {
+            "id": "WinVICE C64",
+            "name": "WinVICE C64"
+        },
+        "WinVICE C64 DTV": {
+            "id": "WinVICE C64 DTV",
+            "name": "WinVICE C64 DTV"
+        },
+        "WinVICE CBM-II": {
+            "id": "WinVICE CBM-II",
+            "name": "WinVICE CBM-II"
+        },
+        "WinVICE PET": {
+            "id": "WinVICE PET",
+            "name": "WinVICE PET"
+        },
+        "WinVICE PLUS4": {
+            "id": "WinVICE PLUS4",
+            "name": "WinVICE PLUS4"
+        },
+        "WinVICE VIC20": {
+            "id": "WinVICE VIC20",
+            "name": "WinVICE VIC20"
+        },
+        "Xenia": {
+            "id": "Xenia",
+            "name": "Xenia"
+        },
+        "Xenia D3D": {
+            "id": "Xenia D3D",
+            "name": "Xenia D3D"
+        },
+        "Yuzu Canary": {
+            "id": "Yuzu Canary",
+            "name": "Yuzu Canary"
+        },
+        "Yuzu (Updater)": {
+            "id": "Yuzu (Updater)",
+            "name": "Yuzu (Updater)"
+        },
+        "ZSNES": {
+            "id": "ZSNES",
+            "name": "ZSNES"
+        },
+        "PCSX Redux": {
+            "id": "PCSX Redux",
+            "name": "PCSX Redux"
+        },
+        "mGBA": {
+            "id": "mGBA",
+            "name": "mGBA"
+        },
+        "Flycast": {
+            "id": "Flycast",
+            "name": "Flycast"
+        },
+        "Ares": {
+            "id": "Ares",
+            "name": "Ares"
+        },
+        "Nestopia": {
+            "id": "Nestopia",
+            "name": "Nestopia"
+        },
+        "melonDS": {
+            "id": "melonDS",
+            "name": "melonDS"
+        }
+    }
+}
