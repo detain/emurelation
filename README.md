@@ -16,7 +16,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 797 | 0 | 797 | 100% |
+| [Local](sources/local.json) | Custom | 801 | 0 | 801 | 100% |
 | [Redump](sources/redump.json) | DAT | 51 | 0 | 51 | 100% |
 | [No-Intro](sources/nointro.json) | DAT | 266 | 18 | 284 | 93.7% |
 | [TOSEC](sources/tosec.json) | DAT | 2429 | 1 | 2430 | 100% |
@@ -24,23 +24,23 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 634 | 227 | 861 | 73.6% |
 | [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
 | [ScreenScraper](sources/screenscraper.json) | API | 163 | 67 | 230 | 70.9% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 180 | 1107 | 1287 | 14% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 182 | 1105 | 1287 | 14.1% |
 | [GameTDB](sources/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [MAME](sources/mame.json) | Emulator | 652 | 15 | 667 | 97.8% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
-| [RetroBat](sources/retrobat.json) | Frontend | 126 | 26 | 152 | 82.9% |
+| [RetroBat](sources/retrobat.json) | Frontend | 128 | 24 | 152 | 84.2% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
 | [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |
 | [RetroPie](sources/retropie.json) | Frontend | 71 | 6 | 77 | 92.2% |
-| [ARRM](sources/arrm.json) | Tools | 207 | 68 | 275 | 75.3% |
+| [ARRM](sources/arrm.json) | Tools | 211 | 64 | 275 | 76.7% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 175 | 22 | 197 | 88.8% |
 
 ### 💾 Emulators
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 772 | 0 | 772 | 100% |
+| [Local](sources/local.json) | Custom | 770 | 0 | 770 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 3 | 0 | 3 | 100% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 116 | 350 | 466 | 24.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 96 | 0 | 96 | 100% |
@@ -49,7 +49,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 161 | 3 | 164 | 98.2% |
 | [RecalBox](sources/recalbox.json) | Frontend | 159 | 0 | 159 | 100% |
 | [RetroPie](sources/retropie.json) | Frontend | 153 | 0 | 153 | 100% |
-| [WinDSPro](sources/windspro.json) | Frontend | 42 | 49 | 91 | 46.2% |
+| [WinDSPro](sources/windspro.json) | Frontend | 80 | 11 | 91 | 87.9% |
 | [ARRM](sources/arrm.json) | Tools | 0 | 0 | 0 | 0% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
 

@@ -4320,6 +4320,70 @@
                 "Commodore Amiga 1000"
             ]
         },
+        "Atari Falcon030": {
+            "id": "Atari Falcon030",
+            "name": "Falcon030",
+            "matches": {
+                "arrm": [
+                    "atarifalcon"
+                ]
+            },
+            "company": "Atari",
+            "altNames": [
+                "Atari Falcon030"
+            ]
+        },
+        "Commodore Amiga 4000": {
+            "id": "Commodore Amiga 4000",
+            "name": "Amiga 4000",
+            "matches": {
+                "arrm": [
+                    "amiga4000"
+                ],
+                "oldcomputers": [
+                    32
+                ],
+                "retrobat": [
+                    "amiga4000"
+                ]
+            },
+            "company": "Commodore",
+            "altNames": [
+                "Commodore Amiga 4000"
+            ]
+        },
+        "Commodore Amiga 500": {
+            "id": "Commodore Amiga 500",
+            "name": "Amiga 500",
+            "matches": {
+                "arrm": [
+                    "amiga500"
+                ],
+                "oldcomputers": [
+                    65
+                ],
+                "retrobat": [
+                    "amiga500"
+                ]
+            },
+            "company": "Commodore",
+            "altNames": [
+                "Commodore Amiga 500"
+            ]
+        },
+        "Commodore Amiga 500+": {
+            "id": "Commodore Amiga 500+",
+            "name": "Amiga 500",
+            "matches": {
+                "arrm": [
+                    "amiga500+"
+                ]
+            },
+            "company": "Commodore",
+            "altNames": [
+                "Commodore Amiga 500+"
+            ]
+        },
         "Commodore Amiga 1200": {
             "id": "Commodore Amiga 1200",
             "name": "Amiga 1200",
@@ -16595,6 +16659,9 @@
             "id": "Tangerine Oric-1 & Oric Atmos",
             "name": "Oric-1 & Oric Atmos",
             "matches": {
+                "arrm": [
+                    "oric"
+                ],
                 "tosec": [
                     "Tangerine Oric-1 & Oric Atmos - Applications - [DSK]",
                     "Tangerine Oric-1 & Oric Atmos - Applications - [TAP]",
@@ -16635,9 +16702,6 @@
                     "oric"
                 ],
                 "retropie": [
-                    "oric"
-                ],
-                "arrm": [
                     "oric"
                 ]
             },
@@ -22048,12 +22112,15 @@
                 ]
             }
         },
-        "Yuzu": {
-            "id": "Yuzu",
-            "shortName": "Yuzu",
+        "yuzu": {
+            "id": "yuzu",
+            "shortName": "yuzu",
             "name": "Yuzu",
             "platforms": [],
             "matches": {
+                "windspro": [
+                    "Yuzu Canary"
+                ],
                 "emulationking": [
                     "yuzu-emulator"
                 ],
@@ -23526,6 +23593,11 @@
                 "3ds"
             ],
             "matches": {
+                "windspro": [
+                    "Citra (32 bit)",
+                    "Citra Canary",
+                    "Citra Nightly"
+                ],
                 "emucontrolcenter": [
                     "citra"
                 ],
@@ -24046,12 +24118,15 @@
                 ]
             }
         },
-        "decaf-emulator": {
-            "id": "decaf-emulator",
-            "shortName": "decaf-emulator",
-            "name": "decaf-emulator",
+        "decaf": {
+            "id": "decaf",
+            "shortName": "decaf",
+            "name": "Decaf",
             "platforms": [],
             "matches": {
+                "windspro": [
+                    "Decaf"
+                ],
                 "emulationking": [
                     "decaf-emulator"
                 ]
@@ -24113,7 +24188,9 @@
                     "desmume"
                 ],
                 "windspro": [
-                    "DeSmuME"
+                    "DeSmuME",
+                    "DeSmuME X432R 32-bit",
+                    "DeSmuME X432R 64-bit"
                 ]
             }
         },
@@ -24228,6 +24305,12 @@
                 "wii"
             ],
             "matches": {
+                "windspro": [
+                    "Dolphin (Ishiiruka) 32-bit",
+                    "Dolphin (Ishiiruka) 64-bit",
+                    "Dolphin 32-bit",
+                    "Dolphin 64-bit"
+                ],
                 "emucontrolcenter": [
                     "dolphin"
                 ],
@@ -25004,6 +25087,9 @@
                 "ng"
             ],
             "matches": {
+                "windspro": [
+                    "Final Burn Alpha rr"
+                ],
                 "emucontrolcenter": [
                     "fbalpha"
                 ]
@@ -25752,6 +25838,9 @@
                 "smcd"
             ],
             "matches": {
+                "windspro": [
+                    "Gens rr"
+                ],
                 "emucontrolcenter": [
                     "gens"
                 ],
@@ -25791,6 +25880,9 @@
                 "smcd"
             ],
             "matches": {
+                "windspro": [
+                    "Gens GS"
+                ],
                 "emucontrolcenter": [
                     "gensgs"
                 ]
@@ -26107,6 +26199,16 @@
             "matches": {
                 "emucontrolcenter": [
                     "horizon"
+                ]
+            }
+        },
+        "hourglass": {
+            "id": "hourglass",
+            "shortName": "hourglass",
+            "name": "Hourglass",
+            "matches": {
+                "windspro": [
+                    "Hourglass"
                 ]
             }
         },
@@ -27182,6 +27284,10 @@
                 "ps1"
             ],
             "matches": {
+                "windspro": [
+                    "Mednafen (MedGui)",
+                    "Mednafen-rr"
+                ],
                 "emucontrolcenter": [
                     "mednafen"
                 ],
@@ -27937,6 +28043,9 @@
                 "n64"
             ],
             "matches": {
+                "windspro": [
+                    "Mupen64-rr"
+                ],
                 "emulationking": [
                     "mupen64"
                 ],
@@ -28522,7 +28631,9 @@
                     "nogba"
                 ],
                 "windspro": [
-                    "No$gba"
+                    "No$gba",
+                    "No$gba 2.6a",
+                    "No$gba2X"
                 ]
             }
         },
@@ -28800,6 +28911,10 @@
             "name": "openmsx",
             "platforms": [],
             "matches": {
+                "windspro": [
+                    "Open MSX 32-bit",
+                    "Open MSX 64-bit"
+                ],
                 "retropie": [
                     "openmsx"
                 ]
@@ -29094,6 +29209,9 @@
                 "ps1"
             ],
             "matches": {
+                "windspro": [
+                    "PCSX Redux"
+                ],
                 "emucontrolcenter": [
                     "pcsx"
                 ]
@@ -29105,6 +29223,9 @@
             "name": "pcsx-rearmed",
             "platforms": [],
             "matches": {
+                "windspro": [
+                    "PCSX-R"
+                ],
                 "retropie": [
                     "pcsx-rearmed"
                 ]
@@ -29470,6 +29591,10 @@
                 "psp"
             ],
             "matches": {
+                "windspro": [
+                    "PPSSPP 32-bit",
+                    "PPSSPP 64-bit"
+                ],
                 "emucontrolcenter": [
                     "ppsspp"
                 ],
@@ -29483,21 +29608,11 @@
                     "PPSSPP"
                 ],
                 "retropie": [
-                    "ppsspp"
+                    "ppsspp",
+                    "ppsspp-1.5.4"
                 ],
                 "recalbox": [
                     "ppsspp"
-                ]
-            }
-        },
-        "ppsspp-1.5.4": {
-            "id": "ppsspp-1.5.4",
-            "shortName": "ppsspp-1.5.4",
-            "name": "ppsspp-1.5.4",
-            "platforms": [],
-            "matches": {
-                "retropie": [
-                    "ppsspp-1.5.4"
                 ]
             }
         },
@@ -29535,17 +29650,6 @@
                 ]
             }
         },
-        "project-64": {
-            "id": "project-64",
-            "shortName": "project-64",
-            "name": "project-64",
-            "platforms": [],
-            "matches": {
-                "emulationking": [
-                    "project-64"
-                ]
-            }
-        },
         "project64": {
             "id": "project64",
             "shortName": "project64",
@@ -29554,6 +29658,9 @@
                 "n64"
             ],
             "matches": {
+                "emulationking": [
+                    "project-64"
+                ],
                 "emucontrolcenter": [
                     "project64"
                 ],
@@ -30640,6 +30747,10 @@
                 "snes"
             ],
             "matches": {
+                "windspro": [
+                    "Snes9x 32-bit",
+                    "Snes9x 64-bit"
+                ],
                 "emucontrolcenter": [
                     "snes9x"
                 ],
@@ -31611,6 +31722,9 @@
                 "gba"
             ],
             "matches": {
+                "windspro": [
+                    "VBA-M"
+                ],
                 "launchbox": [
                     "VisualBoyAdvance-M"
                 ],
@@ -31643,6 +31757,9 @@
                 "gbc"
             ],
             "matches": {
+                "windspro": [
+                    "VBA-rr"
+                ],
                 "emucontrolcenter": [
                     "vbarr"
                 ]
@@ -32454,6 +32571,15 @@
                 "vic20"
             ],
             "matches": {
+                "windspro": [
+                    "WinVICE C128",
+                    "WinVICE C64",
+                    "WinVICE C64 DTV",
+                    "WinVICE CBM-II",
+                    "WinVICE PET",
+                    "WinVICE PLUS4",
+                    "WinVICE VIC20"
+                ],
                 "emucontrolcenter": [
                     "winvice"
                 ]
@@ -32612,7 +32738,8 @@
                     "Xenia"
                 ],
                 "windspro": [
-                    "Xenia"
+                    "Xenia",
+                    "Xenia D3D"
                 ]
             }
         },
@@ -32935,13 +33062,6 @@
                     "yoshines"
                 ]
             }
-        },
-        "yuzu-emulator": {
-            "id": "yuzu-emulator",
-            "shortName": "yuzu-emulator",
-            "name": "yuzu-emulator",
-            "platforms": [],
-            "matches": []
         },
         "z26": {
             "id": "z26",
