@@ -25,6 +25,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
 | [ScreenScraper](sources/screenscraper.json) | API | 162 | 68 | 230 | 70.4% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 179 | 1108 | 1287 | 13.9% |
+| [GameTDB](sources/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [MAME](sources/mame.json) | Emulator | 652 | 15 | 667 | 97.8% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
@@ -65,6 +66,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 |-|-|-|-|-|-|
 | [Local](sources/local.json) | Custom | 0 | 0 | 0 | 0% |
 | [ScreenScraper](sources/screenscraper.json) | API | 0 | 0 | 0 | 0% |
+| [GameTDB](sources/gametdb.json) | Website | 0 | 0 | 0 | 0% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 0 | 0 | 0 | 0% |
 
 ### 📂 Mapping Files
@@ -95,13 +97,17 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - EmulationStation
     - RetroArch
     - RetroBat
+    - WinDSPro
   - APIs
     - MobyGames
     - IGDB
+    - HFS-DB
+    - GamesTDB
   - Tools
     - skeletonKey
     - ARRM
   - Websites
+    - GamesDatabase
     - EmuCR
     - EmuTopia
     - EmuParadise

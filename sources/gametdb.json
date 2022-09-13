@@ -1,0 +1,40 @@
+{
+    "platforms": {
+        "GameCube": {
+            "id": "GameCube",
+            "name": "Nintendo GameCube",
+            "shortName": "GameCube"
+        },
+        "DS": {
+            "id": "DS",
+            "name": "Nintendo DS",
+            "shortName": "DS"
+        },
+        "3DS": {
+            "id": "3DS",
+            "name": "Nintendo 3DS",
+            "shortName": "3DS"
+        },
+        "Wii": {
+            "id": "Wii",
+            "name": "Nintendo Wii",
+            "shortName": "Wii"
+        },
+        "WiiU": {
+            "id": "WiiU",
+            "name": "Nintendo Wii-U",
+            "shortName": "WiiU"
+        },
+        "Switch": {
+            "id": "Switch",
+            "name": "Nintendo Switch",
+            "shortName": "Switch"
+        },
+        "PS3": {
+            "id": "PS3",
+            "name": "Sony Playstation 3",
+            "shortName": "PS3"
+        }
+    },
+    "games": []
+}

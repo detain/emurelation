@@ -135,6 +135,22 @@
             "https://www.igdb.com/": "home"
         }
     },
+    "hfsdb": {
+        "id": "hfsdb",
+        "name": "HFS-DB",
+        "type": "API",
+        "provides": [
+            "companies",
+            "platforms",
+            "games"
+        ],
+        "description": "",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+            "https://db.hfsplay.fr/": "home"
+        }
+    },
     "mobygames": {
         "id": "mobygames",
         "name": "MobyGames",
@@ -165,6 +181,23 @@
             "https://www.old-computers.com/": "home"
         }
     },
+    "gamesdatabase.": {
+        "id": "gamesdatabase.",
+        "name": "GamesDatabase",
+        "type": "Website",
+        "provides": [
+            "platforms",
+            "companies",
+            "emulators",
+            "games"
+        ],
+        "description": "Online Games System Repository. The biggest source for manuals, videos, music and artwork/",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+            "https://www.gamesdatabase.org/": "home"
+        }
+    },
     "emucr": {
         "id": "emucr",
         "name": "EmuCR",
@@ -178,6 +211,21 @@
         "updateTrigger": "commit",
         "web": {
             "https://www.emucr.com/": "home"
+        }
+    },
+    "gametdb": {
+        "id": "gametdb",
+        "name": "GameTDB",
+        "type": "Website",
+        "provides": [
+            "platforms",
+            "games"
+        ],
+        "description": "",
+        "updatedLast": 1663052157,
+        "updateTrigger": "commit",
+        "web": {
+            "https://www.gametdb.com/": "home"
         }
     },
     "emulationking": {
@@ -368,6 +416,37 @@
         "web": {
             "https://emulationstation.org/": "home",
             "https://github.com/Aloshi/EmulationStation": "repo"
+        }
+    },
+    "windspro": {
+        "id": "windspro",
+        "name": "WinDSPro",
+        "type": "Frontend",
+        "provides": [
+            "emulators",
+            "platforms"
+        ],
+        "description": "A frontend for launching emulators.",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+            "https://windsprocentral.blogspot.com/": "home",
+            "https://github.com/lainz/windspro": "repo"
+        }
+    },
+    "arrm": {
+        "id": "arrm",
+        "name": "ARRM",
+        "type": "Tools",
+        "provides": [
+            "emulators",
+            "platforms"
+        ],
+        "description": "Another Gamelist, Roms manager, and Scraper for Recalbox, Batocera, Retropie, Retrobat & Emulationstation",
+        "updatedLast": false,
+        "updateTrigger": "commit",
+        "web": {
+            "http://jujuvincebros.fr/hard-soft/arrm-gamelist-roms-manager-scraper": "home"
         }
     },
     "emucontrolcenter": {
