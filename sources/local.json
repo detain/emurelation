@@ -22231,7 +22231,9 @@
                     "advancemame"
                 ],
                 "retropie": [
-                    "advmame"
+                    "advmame",
+                    "advmame-1.4",
+                    "advmame-0.94"
                 ]
             }
         },
@@ -22254,28 +22256,6 @@
             "name": "advmame",
             "platforms": [],
             "matches": []
-        },
-        "advmame-0.94": {
-            "id": "advmame-0.94",
-            "shortName": "advmame-0.94",
-            "name": "advmame-0.94",
-            "platforms": [],
-            "matches": {
-                "retropie": [
-                    "advmame-0.94"
-                ]
-            }
-        },
-        "advmame-1.4": {
-            "id": "advmame-1.4",
-            "shortName": "advmame-1.4",
-            "name": "advmame-1.4",
-            "platforms": [],
-            "matches": {
-                "retropie": [
-                    "advmame-1.4"
-                ]
-            }
         },
         "aes4all": {
             "id": "aes4all",
