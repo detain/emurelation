@@ -23,15 +23,17 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [TOSEC-ISO](sources/toseciso.json) | DAT | 241 | 0 | 241 | 100% |
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 634 | 227 | 861 | 73.6% |
 | [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
-| [ScreenScraper](sources/screenscraper.json) | API | 162 | 68 | 230 | 70.4% |
-| [Old-Computers](sources/oldcomputers.json) | Website | 179 | 1108 | 1287 | 13.9% |
+| [ScreenScraper](sources/screenscraper.json) | API | 163 | 67 | 230 | 70.9% |
+| [Old-Computers](sources/oldcomputers.json) | Website | 180 | 1107 | 1287 | 14% |
 | [GameTDB](sources/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [MAME](sources/mame.json) | Emulator | 652 | 15 | 667 | 97.8% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 194 | 0 | 194 | 100% |
+| [RetroBat](sources/retrobat.json) | Frontend | 126 | 26 | 152 | 82.9% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
 | [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |
 | [RetroPie](sources/retropie.json) | Frontend | 71 | 13 | 84 | 84.5% |
+| [ARRM](sources/arrm.json) | Tools | 207 | 68 | 275 | 75.3% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 175 | 22 | 197 | 88.8% |
 
 ### 💾 Emulators
@@ -43,9 +45,11 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [Old-Computers](sources/oldcomputers.json) | Website | 116 | 350 | 466 | 24.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 96 | 0 | 96 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
+| [RetroBat](sources/retrobat.json) | Frontend | 0 | 0 | 0 | 0% |
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 161 | 3 | 164 | 98.2% |
 | [RecalBox](sources/recalbox.json) | Frontend | 159 | 0 | 159 | 100% |
 | [RetroPie](sources/retropie.json) | Frontend | 153 | 0 | 153 | 100% |
+| [ARRM](sources/arrm.json) | Tools | 0 | 0 | 0 | 0% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
 
 ### 🏭 Companies
@@ -58,6 +62,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmulationKing](sources/emulationking.json) | Website | 5 | 0 | 5 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 44 | 81 | 125 | 35.2% |
 | [RecalBox](sources/recalbox.json) | Frontend | 31 | 22 | 53 | 58.5% |
+| [ARRM](sources/arrm.json) | Tools | 40 | 24 | 64 | 62.5% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 72 | 26 | 98 | 73.5% |
 
 ### 🕹 Games
@@ -74,7 +79,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | File | Description |
 |-|-|
 | [sources.json](sources.json) | list of sources |
-| [local.json](local.json) | local/main listing providing matching between other sources |
+| [sources/local.json](local.json) | local/main listing providing matching between other sources |
 | [sources/*.json](sources/) | each sources list of ids+names |
 
 ## 📒 Development Notes
@@ -105,7 +110,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - GamesTDB
   - Tools
     - skeletonKey
-    - ARRM
   - Websites
     - GamesDatabase
     - EmuCR

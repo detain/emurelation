@@ -1,0 +1,917 @@
+{
+    "platforms": {
+        "flash": {
+            "id": "flash",
+            "shortName": "flash",
+            "name": "flash",
+            "altNames": []
+        },
+        "mame": {
+            "id": "mame",
+            "shortName": "mame",
+            "name": "MAME",
+            "altNames": []
+        },
+        "hbmame": {
+            "id": "hbmame",
+            "shortName": "hbmame",
+            "name": "MAME Homebrew",
+            "altNames": []
+        },
+        "fbneo": {
+            "id": "fbneo",
+            "shortName": "fbneo",
+            "name": "Final Burn",
+            "altNames": []
+        },
+        "cave": {
+            "id": "cave",
+            "shortName": "cave",
+            "name": "CAVE",
+            "altNames": []
+        },
+        "daphne": {
+            "id": "daphne",
+            "shortName": "daphne",
+            "name": "Laserdisc",
+            "altNames": []
+        },
+        "cps1": {
+            "id": "cps1",
+            "shortName": "cps1",
+            "name": "CPS-I",
+            "altNames": []
+        },
+        "cps2": {
+            "id": "cps2",
+            "shortName": "cps2",
+            "name": "CPS-II",
+            "altNames": []
+        },
+        "cps3": {
+            "id": "cps3",
+            "shortName": "cps3",
+            "name": "CPS-III",
+            "altNames": []
+        },
+        "neogeo": {
+            "id": "neogeo",
+            "shortName": "neogeo",
+            "name": "Neo Geo",
+            "altNames": []
+        },
+        "neogeocd": {
+            "id": "neogeocd",
+            "shortName": "neogeocd",
+            "name": "Neo Geo CD",
+            "altNames": []
+        },
+        "model2": {
+            "id": "model2",
+            "shortName": "model2",
+            "name": "Model 2",
+            "altNames": []
+        },
+        "model3": {
+            "id": "model3",
+            "shortName": "model3",
+            "name": "Model 3",
+            "altNames": []
+        },
+        "atomiswave": {
+            "id": "atomiswave",
+            "shortName": "atomiswave",
+            "name": "Atomiswave",
+            "altNames": []
+        },
+        "naomi": {
+            "id": "naomi",
+            "shortName": "naomi",
+            "name": "Naomi",
+            "altNames": []
+        },
+        "naomi2": {
+            "id": "naomi2",
+            "shortName": "naomi2",
+            "name": "Naomi 2",
+            "altNames": []
+        },
+        "hikaru": {
+            "id": "hikaru",
+            "shortName": "hikaru",
+            "name": "Hikaru",
+            "altNames": []
+        },
+        "gaelco": {
+            "id": "gaelco",
+            "shortName": "gaelco",
+            "name": "Gaelco PowerVR",
+            "altNames": []
+        },
+        "chihiro": {
+            "id": "chihiro",
+            "shortName": "chihiro",
+            "name": "Chihiro",
+            "altNames": []
+        },
+        "triforce": {
+            "id": "triforce",
+            "shortName": "triforce",
+            "name": "Triforce",
+            "altNames": []
+        },
+        "sg1000": {
+            "id": "sg1000",
+            "shortName": "sg1000",
+            "name": "SG-1000",
+            "altNames": []
+        },
+        "mastersystem": {
+            "id": "mastersystem",
+            "shortName": "mastersystem",
+            "name": "Master System - Mark III",
+            "altNames": []
+        },
+        "megadrive": {
+            "id": "megadrive",
+            "shortName": "megadrive",
+            "name": "Megadrive - Genesis",
+            "altNames": []
+        },
+        "megadrive-msu": {
+            "id": "megadrive-msu",
+            "shortName": "megadrive-msu",
+            "name": "Megadrive - Genesis (MSU)",
+            "altNames": []
+        },
+        "segacd": {
+            "id": "segacd",
+            "shortName": "segacd",
+            "name": "Mega CD",
+            "altNames": []
+        },
+        "sega32x": {
+            "id": "sega32x",
+            "shortName": "sega32x",
+            "name": "32X",
+            "altNames": []
+        },
+        "saturn": {
+            "id": "saturn",
+            "shortName": "saturn",
+            "name": "Saturn",
+            "altNames": []
+        },
+        "dreamcast": {
+            "id": "dreamcast",
+            "shortName": "dreamcast",
+            "name": "Dreamcast",
+            "altNames": []
+        },
+        "fds": {
+            "id": "fds",
+            "shortName": "fds",
+            "name": "Nintendo Family Computer Disk System",
+            "altNames": []
+        },
+        "nes": {
+            "id": "nes",
+            "shortName": "nes",
+            "name": "Nintendo Entertainment System - Famicom",
+            "altNames": []
+        },
+        "snes": {
+            "id": "snes",
+            "shortName": "snes",
+            "name": "Super Nintendo Entertainment System",
+            "altNames": []
+        },
+        "snes-msu1": {
+            "id": "snes-msu1",
+            "shortName": "snes-msu1",
+            "name": "Super NES MSU-1",
+            "altNames": []
+        },
+        "satellaview": {
+            "id": "satellaview",
+            "shortName": "satellaview",
+            "name": "Satellaview",
+            "altNames": []
+        },
+        "sufami": {
+            "id": "sufami",
+            "shortName": "sufami",
+            "name": "SuFami Turbo",
+            "altNames": []
+        },
+        "virtualboy": {
+            "id": "virtualboy",
+            "shortName": "virtualboy",
+            "name": "Virtual Boy",
+            "altNames": []
+        },
+        "n64": {
+            "id": "n64",
+            "shortName": "n64",
+            "name": "Nintendo 64",
+            "altNames": []
+        },
+        "n64dd": {
+            "id": "n64dd",
+            "shortName": "n64dd",
+            "name": "Nintendo 64 Disk Drive",
+            "altNames": []
+        },
+        "gamecube": {
+            "id": "gamecube",
+            "shortName": "gamecube",
+            "name": "GameCube",
+            "altNames": []
+        },
+        "wii": {
+            "id": "wii",
+            "shortName": "wii",
+            "name": "Wii",
+            "altNames": []
+        },
+        "wiiu": {
+            "id": "wiiu",
+            "shortName": "wiiu",
+            "name": "Wii U",
+            "altNames": []
+        },
+        "switch": {
+            "id": "switch",
+            "shortName": "switch",
+            "name": "Switch",
+            "altNames": []
+        },
+        "pcengine": {
+            "id": "pcengine",
+            "shortName": "pcengine",
+            "name": "PC Engine",
+            "altNames": []
+        },
+        "pcenginecd": {
+            "id": "pcenginecd",
+            "shortName": "pcenginecd",
+            "name": "PC Engine CD",
+            "altNames": []
+        },
+        "supergrafx": {
+            "id": "supergrafx",
+            "shortName": "supergrafx",
+            "name": "SuperGrafx",
+            "altNames": []
+        },
+        "pcfx": {
+            "id": "pcfx",
+            "shortName": "pcfx",
+            "name": "PC-FX",
+            "altNames": []
+        },
+        "psx": {
+            "id": "psx",
+            "shortName": "psx",
+            "name": "PlayStation",
+            "altNames": []
+        },
+        "ps2": {
+            "id": "ps2",
+            "shortName": "ps2",
+            "name": "Playstation 2",
+            "altNames": []
+        },
+        "ps3": {
+            "id": "ps3",
+            "shortName": "ps3",
+            "name": "Playstation 3",
+            "altNames": []
+        },
+        "xbox": {
+            "id": "xbox",
+            "shortName": "xbox",
+            "name": "Xbox",
+            "altNames": []
+        },
+        "xbox360": {
+            "id": "xbox360",
+            "shortName": "xbox360",
+            "name": "Xbox 360",
+            "altNames": []
+        },
+        "3do": {
+            "id": "3do",
+            "shortName": "3do",
+            "name": "3DO",
+            "altNames": []
+        },
+        "amiga500": {
+            "id": "amiga500",
+            "shortName": "amiga500",
+            "name": "Amiga OCS/ECS",
+            "altNames": []
+        },
+        "amiga1200": {
+            "id": "amiga1200",
+            "shortName": "amiga1200",
+            "name": "Amiga AGA",
+            "altNames": []
+        },
+        "amiga4000": {
+            "id": "amiga4000",
+            "shortName": "amiga4000",
+            "name": "Amiga 4000",
+            "altNames": []
+        },
+        "amigacd32": {
+            "id": "amigacd32",
+            "shortName": "amigacd32",
+            "name": "Amiga CD32",
+            "altNames": []
+        },
+        "amigacdtv": {
+            "id": "amigacdtv",
+            "shortName": "amigacdtv",
+            "name": "Amiga CDTV",
+            "altNames": []
+        },
+        "amstradcpc": {
+            "id": "amstradcpc",
+            "shortName": "amstradcpc",
+            "name": "Amstrad CPC",
+            "altNames": []
+        },
+        "gx4000": {
+            "id": "gx4000",
+            "shortName": "gx4000",
+            "name": "Amstrad GX4000",
+            "altNames": []
+        },
+        "apple2": {
+            "id": "apple2",
+            "shortName": "apple2",
+            "name": "Apple II",
+            "altNames": []
+        },
+        "apple2gs": {
+            "id": "apple2gs",
+            "shortName": "apple2gs",
+            "name": "Apple IIGS",
+            "altNames": []
+        },
+        "atari800": {
+            "id": "atari800",
+            "shortName": "atari800",
+            "name": "Atari 800",
+            "altNames": []
+        },
+        "atari2600": {
+            "id": "atari2600",
+            "shortName": "atari2600",
+            "name": "Atari 2600",
+            "altNames": []
+        },
+        "atari5200": {
+            "id": "atari5200",
+            "shortName": "atari5200",
+            "name": "Atari 5200",
+            "altNames": []
+        },
+        "atari7800": {
+            "id": "atari7800",
+            "shortName": "atari7800",
+            "name": "Atari 7800",
+            "altNames": []
+        },
+        "atarist": {
+            "id": "atarist",
+            "shortName": "atarist",
+            "name": "Atari ST",
+            "altNames": []
+        },
+        "jaguar": {
+            "id": "jaguar",
+            "shortName": "jaguar",
+            "name": "Jaguar",
+            "altNames": []
+        },
+        "colecovision": {
+            "id": "colecovision",
+            "shortName": "colecovision",
+            "name": "ColecoVision",
+            "altNames": []
+        },
+        "c20": {
+            "id": "c20",
+            "shortName": "c20",
+            "name": "VIC-20",
+            "altNames": []
+        },
+        "c64": {
+            "id": "c64",
+            "shortName": "c64",
+            "name": "Commodore 64",
+            "altNames": []
+        },
+        "c128": {
+            "id": "c128",
+            "shortName": "c128",
+            "name": "Commodore 128",
+            "altNames": []
+        },
+        "intellivision": {
+            "id": "intellivision",
+            "shortName": "intellivision",
+            "name": "Mattel Intellivision",
+            "altNames": []
+        },
+        "channelf": {
+            "id": "channelf",
+            "shortName": "channelf",
+            "name": "Fairchild Channel F",
+            "altNames": []
+        },
+        "msx1": {
+            "id": "msx1",
+            "shortName": "msx1",
+            "name": "MSX",
+            "altNames": []
+        },
+        "msx2": {
+            "id": "msx2",
+            "shortName": "msx2",
+            "name": "MSX2",
+            "altNames": []
+        },
+        "msx2+": {
+            "id": "msx2+",
+            "shortName": "msx2+",
+            "name": "MSX2+",
+            "altNames": []
+        },
+        "spectravideo": {
+            "id": "spectravideo",
+            "shortName": "spectravideo",
+            "name": "Spectravideo SV-318",
+            "altNames": []
+        },
+        "oricatmos": {
+            "id": "oricatmos",
+            "shortName": "oricatmos",
+            "name": "Oric/Atmos",
+            "altNames": []
+        },
+        "pc88": {
+            "id": "pc88",
+            "shortName": "pc88",
+            "name": "PC-8800",
+            "altNames": []
+        },
+        "pc98": {
+            "id": "pc98",
+            "shortName": "pc98",
+            "name": "PC-9800",
+            "altNames": []
+        },
+        "samcoupe": {
+            "id": "samcoupe",
+            "shortName": "samcoupe",
+            "name": "Samcoupé",
+            "altNames": []
+        },
+        "x68000": {
+            "id": "x68000",
+            "shortName": "x68000",
+            "name": "Sharp X68000",
+            "altNames": []
+        },
+        "x1": {
+            "id": "x1",
+            "shortName": "x1",
+            "name": "Sharp X1",
+            "altNames": []
+        },
+        "thomson": {
+            "id": "thomson",
+            "shortName": "thomson",
+            "name": "Thomson - MO/TO",
+            "altNames": []
+        },
+        "vectrex": {
+            "id": "vectrex",
+            "shortName": "vectrex",
+            "name": "Vectrex",
+            "altNames": []
+        },
+        "odyssey2": {
+            "id": "odyssey2",
+            "shortName": "odyssey2",
+            "name": "Odyssey² - Videopac",
+            "altNames": []
+        },
+        "zx81": {
+            "id": "zx81",
+            "shortName": "zx81",
+            "name": "ZX 81",
+            "altNames": []
+        },
+        "zxspectrum": {
+            "id": "zxspectrum",
+            "shortName": "zxspectrum",
+            "name": "ZX Spectrum",
+            "altNames": []
+        },
+        "lynx": {
+            "id": "lynx",
+            "shortName": "lynx",
+            "name": "Lynx",
+            "altNames": []
+        },
+        "gamegear": {
+            "id": "gamegear",
+            "shortName": "gamegear",
+            "name": "Game Gear",
+            "altNames": []
+        },
+        "gw": {
+            "id": "gw",
+            "shortName": "gw",
+            "name": "Game and Watch",
+            "altNames": []
+        },
+        "gb": {
+            "id": "gb",
+            "shortName": "gb",
+            "name": "Game Boy",
+            "altNames": []
+        },
+        "gb2players": {
+            "id": "gb2players",
+            "shortName": "gb2players",
+            "name": "Game Boy 2 Players",
+            "altNames": []
+        },
+        "gbc": {
+            "id": "gbc",
+            "shortName": "gbc",
+            "name": "Game Boy Color",
+            "altNames": []
+        },
+        "gbc2players": {
+            "id": "gbc2players",
+            "shortName": "gbc2players",
+            "name": "Game Boy Color 2 Players",
+            "altNames": []
+        },
+        "gba": {
+            "id": "gba",
+            "shortName": "gba",
+            "name": "Game Boy Advance 2 Players",
+            "altNames": []
+        },
+        "pokemini": {
+            "id": "pokemini",
+            "shortName": "pokemini",
+            "name": "Pokemon-Mini",
+            "altNames": []
+        },
+        "nds": {
+            "id": "nds",
+            "shortName": "nds",
+            "name": "Nintendo DS",
+            "altNames": []
+        },
+        "3ds": {
+            "id": "3ds",
+            "shortName": "3ds",
+            "name": "Nintendo 3DS",
+            "altNames": []
+        },
+        "psp": {
+            "id": "psp",
+            "shortName": "psp",
+            "name": "PlayStation Portable",
+            "altNames": []
+        },
+        "ngp": {
+            "id": "ngp",
+            "shortName": "ngp",
+            "name": "Neo Geo Pocket",
+            "altNames": []
+        },
+        "ngpc": {
+            "id": "ngpc",
+            "shortName": "ngpc",
+            "name": "Neo Geo Pocket Color",
+            "altNames": []
+        },
+        "supervision": {
+            "id": "supervision",
+            "shortName": "supervision",
+            "name": "Watara SuperVision",
+            "altNames": []
+        },
+        "wswan": {
+            "id": "wswan",
+            "shortName": "wswan",
+            "name": "WonderSwan",
+            "altNames": []
+        },
+        "wswanc": {
+            "id": "wswanc",
+            "shortName": "wswanc",
+            "name": "WonderSwan Color",
+            "altNames": []
+        },
+        "scummvm": {
+            "id": "scummvm",
+            "shortName": "scummvm",
+            "name": "ScummVM",
+            "altNames": []
+        },
+        "ports": {
+            "id": "ports",
+            "shortName": "ports",
+            "name": "Ports",
+            "altNames": []
+        },
+        "love": {
+            "id": "love",
+            "shortName": "love",
+            "name": "LÖVE",
+            "altNames": []
+        },
+        "lutro": {
+            "id": "lutro",
+            "shortName": "lutro",
+            "name": "Lutro Lua Framework",
+            "altNames": []
+        },
+        "easyrpg": {
+            "id": "easyrpg",
+            "shortName": "easyrpg",
+            "name": "EasyRPG - RPG Maker 2000/2003 player",
+            "altNames": []
+        },
+        "prboom": {
+            "id": "prboom",
+            "shortName": "prboom",
+            "name": "PrBoom",
+            "altNames": []
+        },
+        "tyrquake": {
+            "id": "tyrquake",
+            "shortName": "tyrquake",
+            "name": "Quake",
+            "altNames": []
+        },
+        "cavestory": {
+            "id": "cavestory",
+            "shortName": "cavestory",
+            "name": "Cavestory",
+            "altNames": []
+        },
+        "mugen": {
+            "id": "mugen",
+            "shortName": "mugen",
+            "name": "MUGEN",
+            "altNames": []
+        },
+        "openbor": {
+            "id": "openbor",
+            "shortName": "openbor",
+            "name": "Openbor",
+            "altNames": []
+        },
+        "solarus": {
+            "id": "solarus",
+            "shortName": "solarus",
+            "name": "Solarus",
+            "altNames": []
+        },
+        "teknoparrot": {
+            "id": "teknoparrot",
+            "shortName": "teknoparrot",
+            "name": "TeknoParrot",
+            "altNames": []
+        },
+        "dos": {
+            "id": "dos",
+            "shortName": "dos",
+            "name": "DOS",
+            "altNames": []
+        },
+        "Windows": {
+            "id": "Windows",
+            "shortName": "Windows",
+            "name": "Windows",
+            "altNames": []
+        },
+        "vpinball": {
+            "id": "vpinball",
+            "shortName": "vpinball",
+            "name": "Visual Pinball",
+            "altNames": []
+        },
+        "fpinball": {
+            "id": "fpinball",
+            "shortName": "fpinball",
+            "name": "Future Pinball",
+            "altNames": []
+        },
+        "pinballfx3": {
+            "id": "pinballfx3",
+            "shortName": "pinballfx3",
+            "name": "Pinball FX3",
+            "altNames": []
+        },
+        "pico8": {
+            "id": "pico8",
+            "shortName": "pico8",
+            "name": "PICO-8",
+            "altNames": []
+        },
+        "tic80": {
+            "id": "tic80",
+            "shortName": "tic80",
+            "name": "TIC-80",
+            "altNames": []
+        },
+        "cdi": {
+            "id": "cdi",
+            "shortName": "cdi",
+            "name": "Philips CD-i",
+            "altNames": []
+        },
+        "advision": {
+            "id": "advision",
+            "shortName": "advision",
+            "name": "Adventure Vision",
+            "altNames": []
+        },
+        "tvgames": {
+            "id": "tvgames",
+            "shortName": "tvgames",
+            "name": "TV Games",
+            "altNames": []
+        },
+        "megaduck": {
+            "id": "megaduck",
+            "shortName": "megaduck",
+            "name": "Mega Duck",
+            "altNames": []
+        },
+        "pv1000": {
+            "id": "pv1000",
+            "shortName": "pv1000",
+            "name": "PV-1000",
+            "altNames": []
+        },
+        "crvision": {
+            "id": "crvision",
+            "shortName": "crvision",
+            "name": "CreatiVision",
+            "altNames": []
+        },
+        "gamecom": {
+            "id": "gamecom",
+            "shortName": "gamecom",
+            "name": "Game.com",
+            "altNames": []
+        },
+        "gamepock": {
+            "id": "gamepock",
+            "shortName": "gamepock",
+            "name": "Game Pocket Computer",
+            "altNames": []
+        },
+        "scv": {
+            "id": "scv",
+            "shortName": "scv",
+            "name": "Super Cassette Vision",
+            "altNames": []
+        },
+        "fm7": {
+            "id": "fm7",
+            "shortName": "fm7",
+            "name": "FM-7",
+            "altNames": []
+        },
+        "apfm1000": {
+            "id": "apfm1000",
+            "shortName": "apfm1000",
+            "name": "APF M-1000",
+            "altNames": []
+        },
+        "bbcmicro": {
+            "id": "bbcmicro",
+            "shortName": "bbcmicro",
+            "name": "BBC Micro",
+            "altNames": []
+        },
+        "arcadia": {
+            "id": "arcadia",
+            "shortName": "arcadia",
+            "name": "Arcadia 2001",
+            "altNames": []
+        },
+        "gmaster": {
+            "id": "gmaster",
+            "shortName": "gmaster",
+            "name": "Game Master",
+            "altNames": []
+        },
+        "astrocade": {
+            "id": "astrocade",
+            "shortName": "astrocade",
+            "name": "Astrocade",
+            "altNames": []
+        },
+        "ti99": {
+            "id": "ti99",
+            "shortName": "ti99",
+            "name": "TI/99",
+            "altNames": []
+        },
+        "tutor": {
+            "id": "tutor",
+            "shortName": "tutor",
+            "name": "Tutor",
+            "altNames": []
+        },
+        "coco": {
+            "id": "coco",
+            "shortName": "coco",
+            "name": "TRS-80 Color Computer",
+            "altNames": []
+        },
+        "fmtowns": {
+            "id": "fmtowns",
+            "shortName": "fmtowns",
+            "name": "FM Towns",
+            "altNames": []
+        },
+        "lcdgames": {
+            "id": "lcdgames",
+            "shortName": "lcdgames",
+            "name": "LCD Games",
+            "altNames": []
+        },
+        "vsmile": {
+            "id": "vsmile",
+            "shortName": "vsmile",
+            "name": "V.Smile",
+            "altNames": []
+        },
+        "camplynx": {
+            "id": "camplynx",
+            "shortName": "camplynx",
+            "name": "Camputers Lynx",
+            "altNames": []
+        },
+        "supracan": {
+            "id": "supracan",
+            "shortName": "supracan",
+            "name": "Super A'Can",
+            "altNames": []
+        },
+        "gamate": {
+            "id": "gamate",
+            "shortName": "gamate",
+            "name": "Gamate",
+            "altNames": []
+        },
+        "sgb": {
+            "id": "sgb",
+            "shortName": "sgb",
+            "name": "Super Game Boy",
+            "altNames": []
+        },
+        "neogeo64": {
+            "id": "neogeo64",
+            "shortName": "neogeo64",
+            "name": "Hyper Neo Geo 64",
+            "altNames": []
+        },
+        "library": {
+            "id": "library",
+            "shortName": "library",
+            "name": "Library",
+            "altNames": []
+        },
+        "retrobat": {
+            "id": "retrobat",
+            "shortName": "retrobat",
+            "name": "RetroBat",
+            "altNames": []
+        },
+        "screenshots": {
+            "id": "screenshots",
+            "shortName": "screenshots",
+            "name": "Screenshots",
+            "altNames": []
+        }
+    },
+    "emulators": []
+}

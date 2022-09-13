@@ -145,6 +145,9 @@
                 ],
                 "emucontrolcenter": [
                     "im"
+                ],
+                "arrm": [
+                    "apfm1000"
                 ]
             },
             "company": "APF",
@@ -164,6 +167,9 @@
                     "APF M-1000 - Compilations - Games",
                     "APF M-1000 - Demos",
                     "APF M-1000 - Games"
+                ],
+                "retrobat": [
+                    "apfm1000"
                 ]
             },
             "company": "APF",
@@ -344,6 +350,9 @@
                 ],
                 "emucontrolcenter": [
                     "archi"
+                ],
+                "arrm": [
+                    "archimedes"
                 ]
             },
             "company": "Acorn",
@@ -389,6 +398,9 @@
                     5014
                 ],
                 "emucontrolcenter": [
+                    "atom"
+                ],
+                "arrm": [
                     "atom"
                 ]
             },
@@ -465,6 +477,13 @@
                     "bbcmicro"
                 ],
                 "recalbox": [
+                    "bbcmicro"
+                ],
+                "retrobat": [
+                    "bbcmicro"
+                ],
+                "arrm": [
+                    "bbc",
                     "bbcmicro"
                 ]
             },
@@ -561,6 +580,9 @@
                 ],
                 "emucontrolcenter": [
                     "etron"
+                ],
+                "arrm": [
+                    "electron"
                 ]
             },
             "company": "Acorn",
@@ -653,6 +675,12 @@
                     "flash"
                 ],
                 "emucontrolcenter": [
+                    "flash"
+                ],
+                "retrobat": [
+                    "flash"
+                ],
+                "arrm": [
                     "flash"
                 ]
             },
@@ -864,6 +892,12 @@
                 ],
                 "recalbox": [
                     "amstradcpc"
+                ],
+                "retrobat": [
+                    "amstradcpc"
+                ],
+                "arrm": [
+                    "amstradcpc"
                 ]
             },
             "company": "Amstrad",
@@ -903,6 +937,12 @@
                     "gx4000"
                 ],
                 "recalbox": [
+                    "gx4000"
+                ],
+                "retrobat": [
+                    "gx4000"
+                ],
+                "arrm": [
                     "gx4000"
                 ]
             },
@@ -1253,6 +1293,12 @@
                 ],
                 "recalbox": [
                     "apple2"
+                ],
+                "retrobat": [
+                    "apple2"
+                ],
+                "arrm": [
+                    "apple2"
                 ]
             },
             "company": "Apple",
@@ -1324,6 +1370,12 @@
                     "apple2gs"
                 ],
                 "recalbox": [
+                    "apple2gs"
+                ],
+                "retrobat": [
+                    "apple2gs"
+                ],
+                "arrm": [
                     "apple2gs"
                 ]
             },
@@ -1479,6 +1531,9 @@
                     "macintosh"
                 ],
                 "recalbox": [
+                    "macintosh"
+                ],
+                "arrm": [
                     "macintosh"
                 ]
             },
@@ -1644,6 +1699,13 @@
                 ],
                 "recalbox": [
                     "atari2600"
+                ],
+                "retrobat": [
+                    "atari2600"
+                ],
+                "arrm": [
+                    "a2600",
+                    "atari2600"
                 ]
             },
             "company": "Atari",
@@ -1698,6 +1760,13 @@
                 ],
                 "recalbox": [
                     "atari5200"
+                ],
+                "retrobat": [
+                    "atari5200"
+                ],
+                "arrm": [
+                    "a5200",
+                    "atari5200"
                 ]
             },
             "company": "Atari",
@@ -1750,6 +1819,13 @@
                     "atari7800"
                 ],
                 "recalbox": [
+                    "atari7800"
+                ],
+                "retrobat": [
+                    "atari7800"
+                ],
+                "arrm": [
+                    "a7800",
                     "atari7800"
                 ]
             },
@@ -1847,6 +1923,13 @@
                 ],
                 "recalbox": [
                     "atari800"
+                ],
+                "retrobat": [
+                    "atari800"
+                ],
+                "arrm": [
+                    "a800",
+                    "atari800"
                 ]
             },
             "company": "Atari",
@@ -1914,6 +1997,13 @@
                 ],
                 "recalbox": [
                     "jaguar"
+                ],
+                "retrobat": [
+                    "jaguar"
+                ],
+                "arrm": [
+                    "atarijaguar",
+                    "jaguar"
                 ]
             },
             "company": "Atari",
@@ -1957,6 +2047,10 @@
                 ],
                 "emulationstation-de": [
                     "atarijaguarcd"
+                ],
+                "arrm": [
+                    "atarijaguarcd",
+                    "jaguarcd"
                 ]
             },
             "company": "Atari",
@@ -2014,6 +2108,15 @@
                 ],
                 "recalbox": [
                     "lynx"
+                ],
+                "retrobat": [
+                    "lynx",
+                    "camplynx"
+                ],
+                "arrm": [
+                    "atarilynx",
+                    "camplynx",
+                    "lynx"
                 ]
             },
             "company": "Atari",
@@ -2034,6 +2137,13 @@
                     "pc"
                 ],
                 "emulationstation-de": [
+                    "ports"
+                ],
+                "retrobat": [
+                    "ports"
+                ],
+                "arrm": [
+                    "pc",
                     "ports"
                 ]
             },
@@ -2154,6 +2264,12 @@
                 ],
                 "recalbox": [
                     "atarist"
+                ],
+                "retrobat": [
+                    "atarist"
+                ],
+                "arrm": [
+                    "atarist"
                 ]
             },
             "company": "Atari",
@@ -2173,6 +2289,10 @@
                 ],
                 "emulationstation-de": [
                     "atarixe"
+                ],
+                "arrm": [
+                    "atarixe",
+                    "xegs"
                 ]
             },
             "company": "Atari",
@@ -2333,6 +2453,12 @@
                     "ac"
                 ],
                 "emulationstation-de": [
+                    "astrocde"
+                ],
+                "retrobat": [
+                    "astrocade"
+                ],
+                "arrm": [
                     "astrocde"
                 ]
             },
@@ -2520,6 +2646,13 @@
                 ],
                 "recalbox": [
                     "wswan"
+                ],
+                "retrobat": [
+                    "wswan"
+                ],
+                "arrm": [
+                    "wonderswan",
+                    "wswan"
                 ]
             },
             "company": "Bandai",
@@ -2563,6 +2696,13 @@
                 ],
                 "recalbox": [
                     "wswanc"
+                ],
+                "retrobat": [
+                    "wswanc"
+                ],
+                "arrm": [
+                    "wonderswancolor",
+                    "wswanc"
                 ]
             },
             "company": "Bandai",
@@ -2587,6 +2727,9 @@
                     237
                 ],
                 "recalbox": [
+                    "pcv2"
+                ],
+                "arrm": [
                     "pcv2"
                 ]
             },
@@ -2672,6 +2815,12 @@
                 ],
                 "tgdb": [
                     5004
+                ],
+                "retrobat": [
+                    "gamate"
+                ],
+                "arrm": [
+                    "gamate"
                 ]
             },
             "company": "Bit Corporation",
@@ -2884,6 +3033,9 @@
                 ],
                 "screenscraper": [
                     6
+                ],
+                "retrobat": [
+                    "cps1"
                 ]
             },
             "company": "Capcom",
@@ -2899,6 +3051,9 @@
                     7
                 ],
                 "emucontrolcenter": [
+                    "cps2"
+                ],
+                "retrobat": [
                     "cps2"
                 ]
             },
@@ -2919,6 +3074,9 @@
                 ],
                 "screenscraper": [
                     8
+                ],
+                "retrobat": [
+                    "cps3"
                 ]
             },
             "company": "Capcom",
@@ -3058,6 +3216,12 @@
                 ],
                 "emucontrolcenter": [
                     "pv1000"
+                ],
+                "retrobat": [
+                    "pv1000"
+                ],
+                "arrm": [
+                    "pv1000"
                 ]
             },
             "company": "Casio",
@@ -3178,6 +3342,12 @@
                 ],
                 "recalbox": [
                     "colecovision"
+                ],
+                "retrobat": [
+                    "colecovision"
+                ],
+                "arrm": [
+                    "colecovision"
                 ]
             },
             "company": "Coleco",
@@ -3238,6 +3408,9 @@
                     89
                 ],
                 "emucontrolcenter": [
+                    "adam"
+                ],
+                "arrm": [
                     "adam"
                 ]
             },
@@ -3372,6 +3545,9 @@
                     "Commodore C128 - Manuals - Applications",
                     "Commodore C128 - Manuals - Hardware",
                     "Commodore C128 - Manuals - Technical"
+                ],
+                "retrobat": [
+                    "c128"
                 ]
             },
             "company": "Commodore",
@@ -3877,6 +4053,14 @@
                 ],
                 "recalbox": [
                     "c64"
+                ],
+                "retrobat": [
+                    "c64"
+                ],
+                "arrm": [
+                    "c128",
+                    "c20",
+                    "c64"
                 ]
             },
             "company": "Commodore",
@@ -4107,6 +4291,9 @@
                 ],
                 "retropie": [
                     "amiga"
+                ],
+                "arrm": [
+                    "amiga"
                 ]
             },
             "company": "Commodore",
@@ -4123,6 +4310,9 @@
                 ],
                 "oldcomputers": [
                     28
+                ],
+                "arrm": [
+                    "amiga1000"
                 ]
             },
             "company": "Commodore",
@@ -4142,6 +4332,9 @@
                 ],
                 "recalbox": [
                     "amiga1200"
+                ],
+                "arrm": [
+                    "amiga1200"
                 ]
             },
             "company": "Commodore",
@@ -4158,6 +4351,9 @@
                 ],
                 "oldcomputers": [
                     30
+                ],
+                "arrm": [
+                    "amiga3000"
                 ]
             },
             "company": "Commodore",
@@ -4177,6 +4373,9 @@
                 ],
                 "recalbox": [
                     "amiga600"
+                ],
+                "arrm": [
+                    "amiga600"
                 ]
             },
             "company": "Commodore",
@@ -4190,6 +4389,9 @@
             "matches": {
                 "mame": [
                     "amigaaga_flop"
+                ],
+                "retrobat": [
+                    "amiga1200"
                 ]
             },
             "company": "Commodore",
@@ -4279,6 +4481,12 @@
                 ],
                 "recalbox": [
                     "amigacd32"
+                ],
+                "retrobat": [
+                    "amigacd32"
+                ],
+                "arrm": [
+                    "amigacd32"
                 ]
             },
             "company": "Commodore",
@@ -4340,6 +4548,12 @@
                     "cdtv"
                 ],
                 "recalbox": [
+                    "amigacdtv"
+                ],
+                "retrobat": [
+                    "amigacdtv"
+                ],
+                "arrm": [
                     "amigacdtv"
                 ]
             },
@@ -4492,6 +4706,9 @@
                 ],
                 "emucontrolcenter": [
                     "pet"
+                ],
+                "arrm": [
+                    "pet"
                 ]
             },
             "company": "Commodore",
@@ -4557,6 +4774,9 @@
                 ],
                 "screenscraper": [
                     99
+                ],
+                "arrm": [
+                    "cplus4"
                 ]
             },
             "company": "Commodore",
@@ -4668,6 +4888,12 @@
                     "vic20"
                 ],
                 "recalbox": [
+                    "vic20"
+                ],
+                "retrobat": [
+                    "c20"
+                ],
+                "arrm": [
                     "vic20"
                 ]
             },
@@ -4842,6 +5068,13 @@
                 ],
                 "recalbox": [
                     "megaduck"
+                ],
+                "retrobat": [
+                    "megaduck"
+                ],
+                "arrm": [
+                    "megaduck",
+                    "sameduck"
                 ]
             },
             "company": "Creatronic",
@@ -4920,6 +5153,9 @@
                     "DEC PDP-1 - Games - [RIM]"
                 ],
                 "emucontrolcenter": [
+                    "pdp1"
+                ],
+                "arrm": [
                     "pdp1"
                 ]
             },
@@ -5248,6 +5484,10 @@
                 ],
                 "recalbox": [
                     "dragon"
+                ],
+                "arrm": [
+                    "dragon32",
+                    "dragon"
                 ]
             },
             "company": "Dragon",
@@ -5263,6 +5503,12 @@
                     "dragon_flop"
                 ],
                 "recalbox": [
+                    "dos"
+                ],
+                "retrobat": [
+                    "dos"
+                ],
+                "arrm": [
                     "dos"
                 ]
             },
@@ -5487,6 +5733,12 @@
                 ],
                 "emulationstation-de": [
                     "mugen"
+                ],
+                "retrobat": [
+                    "mugen"
+                ],
+                "arrm": [
+                    "mugen"
                 ]
             },
             "company": "Elecbyte",
@@ -5519,6 +5771,9 @@
                     93
                 ],
                 "recalbox": [
+                    "bk"
+                ],
+                "arrm": [
                     "bk"
                 ]
             },
@@ -5628,6 +5883,12 @@
                 ],
                 "retropie": [
                     "arcadia"
+                ],
+                "retrobat": [
+                    "arcadia"
+                ],
+                "arrm": [
+                    "arcadia"
                 ]
             },
             "company": "Emerson",
@@ -5714,6 +5975,12 @@
                 ],
                 "emucontrolcenter": [
                     "advision"
+                ],
+                "retrobat": [
+                    "advision"
+                ],
+                "arrm": [
+                    "advision"
                 ]
             },
             "company": "Entex",
@@ -5768,6 +6035,12 @@
                 ],
                 "screenscraper": [
                     95
+                ],
+                "retrobat": [
+                    "gamepock"
+                ],
+                "arrm": [
+                    "gamepock"
                 ]
             },
             "company": "Epoch",
@@ -5806,6 +6079,12 @@
                     "scv"
                 ],
                 "recalbox": [
+                    "scv"
+                ],
+                "retrobat": [
+                    "scv"
+                ],
+                "arrm": [
                     "scv"
                 ]
             },
@@ -6094,6 +6373,13 @@
                 ],
                 "recalbox": [
                     "channelf"
+                ],
+                "retrobat": [
+                    "channelf"
+                ],
+                "arrm": [
+                    "channel-f",
+                    "channelf"
                 ]
             },
             "company": "Fairchild",
@@ -6297,6 +6583,12 @@
                 ],
                 "emulationstation-de": [
                     "fmtowns"
+                ],
+                "retrobat": [
+                    "fmtowns"
+                ],
+                "arrm": [
+                    "fmtowns"
                 ]
             },
             "company": "Fujitsu",
@@ -6339,6 +6631,13 @@
                     "fm7"
                 ],
                 "retropie": [
+                    "fm7"
+                ],
+                "retrobat": [
+                    "fm7"
+                ],
+                "arrm": [
+                    "fm-7",
                     "fm7"
                 ]
             },
@@ -6435,6 +6734,12 @@
                 ],
                 "screenscraper": [
                     100
+                ],
+                "retrobat": [
+                    "supracan"
+                ],
+                "arrm": [
+                    "supracan"
                 ]
             },
             "company": "Funtech",
@@ -6451,6 +6756,12 @@
                 ],
                 "emucontrolcenter": [
                     "fp"
+                ],
+                "retrobat": [
+                    "fpinball"
+                ],
+                "arrm": [
+                    "fpinball"
                 ]
             }
         },
@@ -6495,6 +6806,12 @@
                     "vectrex"
                 ],
                 "recalbox": [
+                    "vectrex"
+                ],
+                "retrobat": [
+                    "vectrex"
+                ],
+                "arrm": [
                     "vectrex"
                 ]
             },
@@ -6645,7 +6962,8 @@
                     "mame"
                 ],
                 "screenscraper": [
-                    75
+                    75,
+                    194
                 ],
                 "emucontrolcenter": [
                     "mame"
@@ -6663,6 +6981,31 @@
                 "recalbox": [
                     "fba",
                     "mame"
+                ],
+                "retrobat": [
+                    "mame",
+                    "hbmame",
+                    "gaelco",
+                    "teknoparrot"
+                ],
+                "arrm": [
+                    "arcade",
+                    "cannonball",
+                    "chihiro",
+                    "cps1",
+                    "cps2",
+                    "cps3",
+                    "fba",
+                    "gaelco",
+                    "hbmame",
+                    "hikaru",
+                    "mame-advmame",
+                    "mame-libretro",
+                    "mame-mame4all",
+                    "mame",
+                    "teknoparrot",
+                    "triforce",
+                    "fba_libretro"
                 ]
             },
             "company": "Generic",
@@ -6748,6 +7091,9 @@
                 ],
                 "screenscraper": [
                     145
+                ],
+                "arrm": [
+                    "linux"
                 ]
             },
             "company": "Generic",
@@ -6783,6 +7129,12 @@
                     "openbor"
                 ],
                 "recalbox": [
+                    "openbor"
+                ],
+                "retrobat": [
+                    "openbor"
+                ],
+                "arrm": [
                     "openbor"
                 ]
             },
@@ -6850,6 +7202,12 @@
                 ],
                 "emulationstation-de": [
                     "pc"
+                ],
+                "retrobat": [
+                    "Windows"
+                ],
+                "arrm": [
+                    "windows"
                 ]
             },
             "company": "Generic",
@@ -6906,6 +7264,9 @@
                 ],
                 "recalbox": [
                     "palm"
+                ],
+                "arrm": [
+                    "palm"
                 ]
             },
             "company": "Generic",
@@ -6922,6 +7283,9 @@
                 ],
                 "screenscraper": [
                     197
+                ],
+                "arrm": [
+                    "pinball"
                 ]
             },
             "company": "Generic",
@@ -7002,6 +7366,12 @@
                 ],
                 "recalbox": [
                     "scummvm"
+                ],
+                "retrobat": [
+                    "scummvm"
+                ],
+                "arrm": [
+                    "scummvm"
                 ]
             },
             "company": "Generic",
@@ -7057,6 +7427,9 @@
             "matches": {
                 "launchbox": [
                     "Web Browser"
+                ],
+                "arrm": [
+                    "internet"
                 ]
             },
             "company": "Generic",
@@ -7210,6 +7583,9 @@
                 ],
                 "emucontrolcenter": [
                     "gm"
+                ],
+                "retrobat": [
+                    "gmaster"
                 ]
             },
             "company": "Hartung",
@@ -7898,6 +8274,9 @@
                 ],
                 "retropie": [
                     "zmachine"
+                ],
+                "arrm": [
+                    "zmachine"
                 ]
             },
             "company": "Infocom",
@@ -7969,6 +8348,9 @@
                     4994
                 ],
                 "emucontrolcenter": [
+                    "vc4000"
+                ],
+                "arrm": [
                     "vc4000"
                 ]
             },
@@ -8753,6 +9135,12 @@
                 ],
                 "recalbox": [
                     "samcoupe"
+                ],
+                "retrobat": [
+                    "samcoupe"
+                ],
+                "arrm": [
+                    "samcoupe"
                 ]
             },
             "company": "MGT",
@@ -8809,6 +9197,12 @@
             "matches": {
                 "retropie": [
                     "msx"
+                ],
+                "retrobat": [
+                    "msx1"
+                ],
+                "arrm": [
+                    "msx"
                 ]
             },
             "company": "MSX",
@@ -8821,6 +9215,12 @@
             "name": "MSX2",
             "matches": {
                 "recalbox": [
+                    "msx2"
+                ],
+                "retrobat": [
+                    "msx2"
+                ],
+                "arrm": [
                     "msx2"
                 ]
             },
@@ -8924,6 +9324,15 @@
                 ],
                 "recalbox": [
                     "o2em"
+                ],
+                "retrobat": [
+                    "odyssey2"
+                ],
+                "arrm": [
+                    "o2em",
+                    "odyssey2",
+                    "videopac",
+                    "videopacplus"
                 ]
             },
             "company": "Magnavox",
@@ -9164,6 +9573,12 @@
                     "intellivision"
                 ],
                 "recalbox": [
+                    "intellivision"
+                ],
+                "retrobat": [
+                    "intellivision"
+                ],
+                "arrm": [
                     "intellivision"
                 ]
             },
@@ -9499,6 +9914,9 @@
                 ],
                 "recalbox": [
                     "msx1"
+                ],
+                "arrm": [
+                    "msx1"
                 ]
             },
             "company": "Microsoft",
@@ -9531,6 +9949,9 @@
                     "msxturbor"
                 ],
                 "recalbox": [
+                    "msxturbor"
+                ],
+                "arrm": [
                     "msxturbor"
                 ]
             },
@@ -9596,6 +10017,12 @@
                 ],
                 "screenscraper": [
                     117
+                ],
+                "retrobat": [
+                    "msx2+"
+                ],
+                "arrm": [
+                    "msx2+"
                 ]
             },
             "company": "Microsoft",
@@ -9677,6 +10104,12 @@
                 ],
                 "emulationstation-de": [
                     "xbox"
+                ],
+                "retrobat": [
+                    "xbox"
+                ],
+                "arrm": [
+                    "xbox"
                 ]
             },
             "company": "Microsoft",
@@ -9726,6 +10159,13 @@
                     "xbox360"
                 ],
                 "emulationstation-de": [
+                    "xbox360"
+                ],
+                "retrobat": [
+                    "xbox360"
+                ],
+                "arrm": [
+                    "x360",
                     "xbox360"
                 ]
             },
@@ -9908,6 +10348,9 @@
                 ],
                 "emulationstation-de": [
                     "j2me"
+                ],
+                "arrm": [
+                    "j2me"
                 ]
             },
             "altNames": [
@@ -10072,6 +10515,12 @@
                 ],
                 "recalbox": [
                     "supergrafx"
+                ],
+                "retrobat": [
+                    "supergrafx"
+                ],
+                "arrm": [
+                    "supergrafx"
                 ]
             },
             "company": "NEC",
@@ -10160,6 +10609,9 @@
                 ],
                 "recalbox": [
                     "pc88"
+                ],
+                "retrobat": [
+                    "pc88"
                 ]
             },
             "company": "NEC",
@@ -10195,6 +10647,9 @@
                     "pc8801"
                 ],
                 "retropie": [
+                    "pc88"
+                ],
+                "arrm": [
                     "pc88"
                 ]
             },
@@ -10243,6 +10698,9 @@
                 ],
                 "recalbox": [
                     "pc98"
+                ],
+                "retrobat": [
+                    "pc98"
                 ]
             },
             "company": "NEC",
@@ -10280,6 +10738,10 @@
                 "retropie": [
                     "np2pi",
                     "pc98"
+                ],
+                "arrm": [
+                    "np2pi",
+                    "pc98"
                 ]
             },
             "company": "NEC",
@@ -10310,6 +10772,10 @@
                 ],
                 "emucontrolcenter": [
                     "pce"
+                ],
+                "arrm": [
+                    "pce",
+                    "pcengine"
                 ]
             },
             "company": "NEC",
@@ -10408,6 +10874,13 @@
                 ],
                 "recalbox": [
                     "pcfx"
+                ],
+                "retrobat": [
+                    "pcfx"
+                ],
+                "arrm": [
+                    "pc-fx",
+                    "pcfx"
                 ]
             },
             "company": "NEC",
@@ -10464,6 +10937,14 @@
                 ],
                 "recalbox": [
                     "pcenginecd"
+                ],
+                "retrobat": [
+                    "pcenginecd"
+                ],
+                "arrm": [
+                    "pcenginecd",
+                    "tg-cd",
+                    "pce-cd"
                 ]
             },
             "company": "NEC",
@@ -10499,6 +10980,12 @@
                 ],
                 "recalbox": [
                     "pcengine"
+                ],
+                "retrobat": [
+                    "pcengine"
+                ],
+                "arrm": [
+                    "tg16"
                 ]
             },
             "company": "NEC",
@@ -10550,6 +11037,9 @@
                 ],
                 "launchbox": [
                     "Sega Triforce"
+                ],
+                "retrobat": [
+                    "triforce"
                 ]
             },
             "company": "Namco-Sega-Nintendo",
@@ -10652,6 +11142,13 @@
                 ],
                 "gametdb": [
                     "3DS"
+                ],
+                "retrobat": [
+                    "3ds"
+                ],
+                "arrm": [
+                    "3ds",
+                    "n3ds"
                 ]
             },
             "company": "Nintendo",
@@ -10716,6 +11213,13 @@
                 ],
                 "recalbox": [
                     "n64"
+                ],
+                "retrobat": [
+                    "n64"
+                ],
+                "arrm": [
+                    "64dd",
+                    "n64"
                 ]
             },
             "company": "Nintendo",
@@ -10753,6 +11257,12 @@
                 ],
                 "recalbox": [
                     "64dd"
+                ],
+                "retrobat": [
+                    "n64dd"
+                ],
+                "arrm": [
+                    "n64dd"
                 ]
             },
             "company": "Nintendo",
@@ -10809,6 +11319,12 @@
                 ],
                 "gametdb": [
                     "DS"
+                ],
+                "retrobat": [
+                    "nds"
+                ],
+                "arrm": [
+                    "nds"
                 ]
             },
             "company": "Nintendo",
@@ -10914,6 +11430,12 @@
                 ],
                 "recalbox": [
                     "nes"
+                ],
+                "retrobat": [
+                    "nes"
+                ],
+                "arrm": [
+                    "nes"
                 ]
             },
             "company": "Nintendo"
@@ -10960,6 +11482,12 @@
                 ],
                 "recalbox": [
                     "fds"
+                ],
+                "retrobat": [
+                    "fds"
+                ],
+                "arrm": [
+                    "fds"
                 ]
             },
             "company": "Nintendo",
@@ -11000,6 +11528,13 @@
                     "gameandwatch"
                 ],
                 "recalbox": [
+                    "gw"
+                ],
+                "retrobat": [
+                    "gw"
+                ],
+                "arrm": [
+                    "gameandwatch",
                     "gw"
                 ]
             },
@@ -11048,6 +11583,14 @@
                 ],
                 "recalbox": [
                     "gb"
+                ],
+                "retrobat": [
+                    "gb",
+                    "sgb"
+                ],
+                "arrm": [
+                    "gb",
+                    "sgb"
                 ]
             },
             "company": "Nintendo",
@@ -11103,6 +11646,12 @@
                 ],
                 "recalbox": [
                     "gba"
+                ],
+                "retrobat": [
+                    "gba"
+                ],
+                "arrm": [
+                    "gba"
                 ]
             },
             "company": "Nintendo",
@@ -11150,6 +11699,12 @@
                     "gbc"
                 ],
                 "recalbox": [
+                    "gbc"
+                ],
+                "retrobat": [
+                    "gbc"
+                ],
+                "arrm": [
                     "gbc"
                 ]
             },
@@ -11202,6 +11757,13 @@
                 ],
                 "gametdb": [
                     "GameCube"
+                ],
+                "retrobat": [
+                    "gamecube"
+                ],
+                "arrm": [
+                    "gamecube",
+                    "gc"
                 ]
             },
             "company": "Nintendo",
@@ -11287,6 +11849,12 @@
                 ],
                 "recalbox": [
                     "pokemini"
+                ],
+                "retrobat": [
+                    "pokemini"
+                ],
+                "arrm": [
+                    "pokemini"
                 ]
             },
             "company": "Nintendo",
@@ -11315,6 +11883,12 @@
                 ],
                 "recalbox": [
                     "satellaview"
+                ],
+                "retrobat": [
+                    "satellaview"
+                ],
+                "arrm": [
+                    "satellaview"
                 ]
             },
             "company": "Nintendo",
@@ -11342,6 +11916,12 @@
                     "sufami"
                 ],
                 "emulationstation-de": [
+                    "sufami"
+                ],
+                "retrobat": [
+                    "sufami"
+                ],
+                "arrm": [
                     "sufami"
                 ]
             },
@@ -11416,6 +11996,13 @@
                 ],
                 "recalbox": [
                     "snes"
+                ],
+                "retrobat": [
+                    "snes"
+                ],
+                "arrm": [
+                    "sfc",
+                    "snes"
                 ]
             },
             "company": "Nintendo",
@@ -11444,6 +12031,12 @@
                 ],
                 "gametdb": [
                     "Switch"
+                ],
+                "retrobat": [
+                    "switch"
+                ],
+                "arrm": [
+                    "switch"
                 ]
             },
             "company": "Nintendo",
@@ -11493,6 +12086,12 @@
                     "virtualboy"
                 ],
                 "recalbox": [
+                    "virtualboy"
+                ],
+                "retrobat": [
+                    "virtualboy"
+                ],
+                "arrm": [
                     "virtualboy"
                 ]
             },
@@ -11549,6 +12148,12 @@
                 ],
                 "gametdb": [
                     "Wii"
+                ],
+                "retrobat": [
+                    "wii"
+                ],
+                "arrm": [
+                    "wii"
                 ]
             },
             "company": "Nintendo",
@@ -11593,6 +12198,12 @@
                 ],
                 "gametdb": [
                     "WiiU"
+                ],
+                "retrobat": [
+                    "wiiu"
+                ],
+                "arrm": [
+                    "wiiu"
                 ]
             },
             "company": "Nintendo",
@@ -11649,6 +12260,10 @@
                     30
                 ],
                 "emucontrolcenter": [
+                    "ngage"
+                ],
+                "arrm": [
+                    "n-gage",
                     "ngage"
                 ]
             },
@@ -12060,6 +12675,12 @@
                 ],
                 "recalbox": [
                     "3do"
+                ],
+                "retrobat": [
+                    "3do"
+                ],
+                "arrm": [
+                    "3do"
                 ]
             },
             "company": "Panasonic",
@@ -12178,6 +12799,13 @@
                     "cdimono1"
                 ],
                 "recalbox": [
+                    "cdi"
+                ],
+                "retrobat": [
+                    "cdi"
+                ],
+                "arrm": [
+                    "cd-i",
                     "cdi"
                 ]
             },
@@ -12887,6 +13515,12 @@
                 ],
                 "recalbox": [
                     "neogeo"
+                ],
+                "retrobat": [
+                    "neogeo"
+                ],
+                "arrm": [
+                    "neogeo"
                 ]
             },
             "company": "SNK",
@@ -12957,6 +13591,12 @@
                 ],
                 "recalbox": [
                     "neogeocd"
+                ],
+                "retrobat": [
+                    "neogeocd"
+                ],
+                "arrm": [
+                    "neogeocd"
                 ]
             },
             "company": "SNK",
@@ -13018,6 +13658,12 @@
                 ],
                 "recalbox": [
                     "ngp"
+                ],
+                "retrobat": [
+                    "ngp"
+                ],
+                "arrm": [
+                    "ngp"
                 ]
             },
             "company": "SNK",
@@ -13066,6 +13712,12 @@
                     "ngpc"
                 ],
                 "recalbox": [
+                    "ngpc"
+                ],
+                "retrobat": [
+                    "ngpc"
+                ],
+                "arrm": [
                     "ngpc"
                 ]
             },
@@ -13175,6 +13827,12 @@
                     "atomiswave"
                 ],
                 "recalbox": [
+                    "atomiswave"
+                ],
+                "retrobat": [
+                    "atomiswave"
+                ],
+                "arrm": [
                     "atomiswave"
                 ]
             },
@@ -13313,6 +13971,12 @@
                 ],
                 "recalbox": [
                     "sega32x"
+                ],
+                "retrobat": [
+                    "sega32x"
+                ],
+                "arrm": [
+                    "sega32x"
                 ]
             },
             "company": "Sega",
@@ -13405,6 +14069,10 @@
                 ],
                 "recalbox": [
                     "segacd"
+                ],
+                "arrm": [
+                    "megacd",
+                    "segacd"
                 ]
             },
             "company": "Sega",
@@ -13434,6 +14102,9 @@
                 ],
                 "toseciso": [
                     "Sega Chihiro - Games"
+                ],
+                "retrobat": [
+                    "chihiro"
                 ]
             },
             "company": "Sega",
@@ -13536,6 +14207,13 @@
                 ],
                 "recalbox": [
                     "dreamcast"
+                ],
+                "retrobat": [
+                    "dreamcast"
+                ],
+                "arrm": [
+                    "dreamcast",
+                    "vemulator"
                 ]
             },
             "company": "Sega",
@@ -13572,6 +14250,13 @@
                     "sg-1000"
                 ],
                 "recalbox": [
+                    "sg1000"
+                ],
+                "retrobat": [
+                    "sg1000"
+                ],
+                "arrm": [
+                    "sg-1000",
                     "sg1000"
                 ]
             },
@@ -13624,6 +14309,12 @@
                     "gamegear"
                 ],
                 "recalbox": [
+                    "gamegear"
+                ],
+                "retrobat": [
+                    "gamegear"
+                ],
+                "arrm": [
                     "gamegear"
                 ]
             },
@@ -13688,6 +14379,13 @@
                 ],
                 "recalbox": [
                     "megadrive"
+                ],
+                "retrobat": [
+                    "megadrive"
+                ],
+                "arrm": [
+                    "genesis",
+                    "megadrive"
                 ]
             },
             "company": "Sega",
@@ -13704,6 +14402,9 @@
                 ],
                 "screenscraper": [
                     258
+                ],
+                "retrobat": [
+                    "hikaru"
                 ]
             },
             "company": "Sega",
@@ -13785,6 +14486,12 @@
                 ],
                 "recalbox": [
                     "mastersystem"
+                ],
+                "retrobat": [
+                    "mastersystem"
+                ],
+                "arrm": [
+                    "mastersystem"
                 ]
             },
             "company": "Sega",
@@ -13801,6 +14508,9 @@
                     "megacdj"
                 ],
                 "retropie": [
+                    "segacd"
+                ],
+                "retrobat": [
                     "segacd"
                 ]
             },
@@ -13873,6 +14583,12 @@
                 ],
                 "emulationstation-de": [
                     "model2"
+                ],
+                "retrobat": [
+                    "model2"
+                ],
+                "arrm": [
+                    "model2"
                 ]
             },
             "company": "Sega",
@@ -13897,6 +14613,12 @@
                     "model3"
                 ],
                 "recalbox": [
+                    "model3"
+                ],
+                "retrobat": [
+                    "model3"
+                ],
+                "arrm": [
                     "model3"
                 ]
             },
@@ -13933,6 +14655,13 @@
                 "recalbox": [
                     "naomi",
                     "naomigd"
+                ],
+                "retrobat": [
+                    "naomi"
+                ],
+                "arrm": [
+                    "naomi",
+                    "naomigd"
                 ]
             },
             "company": "Sega",
@@ -13955,6 +14684,9 @@
                 ],
                 "screenscraper": [
                     230
+                ],
+                "retrobat": [
+                    "naomi2"
                 ]
             },
             "company": "Sega",
@@ -14100,6 +14832,9 @@
                 ],
                 "screenscraper": [
                     69
+                ],
+                "arrm": [
+                    "stv"
                 ]
             },
             "company": "Sega",
@@ -14166,6 +14901,12 @@
                     "saturn"
                 ],
                 "recalbox": [
+                    "saturn"
+                ],
+                "retrobat": [
+                    "saturn"
+                ],
+                "arrm": [
                     "saturn"
                 ]
             },
@@ -14508,6 +15249,12 @@
                 ],
                 "recalbox": [
                     "x1"
+                ],
+                "retrobat": [
+                    "x1"
+                ],
+                "arrm": [
+                    "x1"
                 ]
             },
             "company": "Sharp",
@@ -14576,6 +15323,12 @@
                     "x68000"
                 ],
                 "recalbox": [
+                    "x68000"
+                ],
+                "retrobat": [
+                    "x68000"
+                ],
+                "arrm": [
                     "x68000"
                 ]
             },
@@ -14887,6 +15640,12 @@
                 ],
                 "emucontrolcenter": [
                     "zxs"
+                ],
+                "retrobat": [
+                    "zxspectrum"
+                ],
+                "arrm": [
+                    "zxspectrum"
                 ]
             },
             "company": "Sinclair",
@@ -14948,6 +15707,15 @@
                 ],
                 "recalbox": [
                     "zx81"
+                ],
+                "retrobat": [
+                    "zx81"
+                ],
+                "arrm": [
+                    "zx81"
+                ],
+                "oldcomputers": [
+                    263
                 ]
             },
             "company": "Sinclair",
@@ -15040,6 +15808,12 @@
                 ],
                 "recalbox": [
                     "psx"
+                ],
+                "retrobat": [
+                    "psx"
+                ],
+                "arrm": [
+                    "psx"
                 ]
             },
             "company": "Sony",
@@ -15092,6 +15866,12 @@
                 ],
                 "recalbox": [
                     "ps2"
+                ],
+                "retrobat": [
+                    "ps2"
+                ],
+                "arrm": [
+                    "ps2"
                 ]
             },
             "company": "Sony",
@@ -15138,6 +15918,12 @@
                 ],
                 "gametdb": [
                     "PS3"
+                ],
+                "retrobat": [
+                    "ps3"
+                ],
+                "arrm": [
+                    "ps3"
                 ]
             },
             "company": "Sony",
@@ -15245,6 +16031,12 @@
                     "psp"
                 ],
                 "recalbox": [
+                    "psp"
+                ],
+                "retrobat": [
+                    "psp"
+                ],
+                "arrm": [
                     "psp"
                 ]
             },
@@ -15412,6 +16204,12 @@
                     "spectravideo"
                 ],
                 "recalbox": [
+                    "spectravideo"
+                ],
+                "retrobat": [
+                    "spectravideo"
+                ],
+                "arrm": [
                     "spectravideo"
                 ]
             },
@@ -15607,6 +16405,15 @@
                     "trs-80"
                 ],
                 "recalbox": [
+                    "trs80coco"
+                ],
+                "retrobat": [
+                    "coco"
+                ],
+                "arrm": [
+                    "coco",
+                    "trs-80",
+                    "trs80",
                     "trs80coco"
                 ]
             },
@@ -15828,6 +16635,9 @@
                     "oric"
                 ],
                 "retropie": [
+                    "oric"
+                ],
+                "arrm": [
                     "oric"
                 ]
             },
@@ -16389,6 +17199,13 @@
                 ],
                 "retropie": [
                     "ti99"
+                ],
+                "retrobat": [
+                    "ti99"
+                ],
+                "arrm": [
+                    "ti994a",
+                    "ti99"
                 ]
             },
             "company": "Texas Instruments",
@@ -16446,6 +17263,9 @@
                 ],
                 "emulationstation-de": [
                     "moto"
+                ],
+                "retrobat": [
+                    "thomson"
                 ]
             },
             "company": "Thomson",
@@ -16547,6 +17367,10 @@
                 ],
                 "emulationstation-de": [
                     "to8"
+                ],
+                "arrm": [
+                    "thomson",
+                    "to8"
                 ]
             },
             "company": "Thomson",
@@ -16614,6 +17438,12 @@
                     121
                 ],
                 "emucontrolcenter": [
+                    "gamecom"
+                ],
+                "retrobat": [
+                    "gamecom"
+                ],
+                "arrm": [
                     "gamecom"
                 ]
             },
@@ -16796,6 +17626,12 @@
                 ],
                 "tgdb": [
                     4960
+                ],
+                "retrobat": [
+                    "tutor"
+                ],
+                "arrm": [
+                    "tutor"
                 ]
             },
             "company": "Tomy",
@@ -16988,6 +17824,9 @@
                 ],
                 "recalbox": [
                     "multivision"
+                ],
+                "arrm": [
+                    "multivision"
                 ]
             },
             "company": "Tsukuda Original",
@@ -17079,6 +17918,9 @@
                     "uzebox"
                 ],
                 "recalbox": [
+                    "uzebox"
+                ],
+                "arrm": [
                     "uzebox"
                 ]
             },
@@ -17173,6 +18015,12 @@
                 ],
                 "emucontrolcenter": [
                     "cv"
+                ],
+                "retrobat": [
+                    "crvision"
+                ],
+                "arrm": [
+                    "crvision"
                 ]
             },
             "company": "VTech",
@@ -17511,6 +18359,9 @@
                 ],
                 "tgdb": [
                     4998
+                ],
+                "arrm": [
+                    "socrates"
                 ]
             },
             "company": "VTech",
@@ -17582,6 +18433,12 @@
                 ],
                 "tgdb": [
                     4988
+                ],
+                "retrobat": [
+                    "vsmile"
+                ],
+                "arrm": [
+                    "vsmile"
                 ]
             },
             "company": "VTech",
@@ -17690,6 +18547,12 @@
                 ],
                 "oldcomputers": [
                     889
+                ],
+                "retrobat": [
+                    "vpinball"
+                ],
+                "arrm": [
+                    "vpinball"
                 ]
             }
         },
@@ -17786,6 +18649,12 @@
                     "supervision"
                 ],
                 "recalbox": [
+                    "supervision"
+                ],
+                "retrobat": [
+                    "supervision"
+                ],
+                "arrm": [
                     "supervision"
                 ]
             },
@@ -18162,6 +19031,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "Adobe"
+                ],
+                "arrm": [
+                    "Adobe"
                 ]
             }
         },
@@ -18217,6 +19089,9 @@
                 ],
                 "recalbox": [
                     "Amstrad"
+                ],
+                "arrm": [
+                    "Amstrad"
                 ]
             }
         },
@@ -18247,6 +19122,9 @@
                     "Apple"
                 ],
                 "recalbox": [
+                    "Apple"
+                ],
+                "arrm": [
                     "Apple"
                 ]
             }
@@ -18290,6 +19168,9 @@
                     "Atari"
                 ],
                 "recalbox": [
+                    "Atari"
+                ],
+                "arrm": [
                     "Atari"
                 ]
             }
@@ -18337,6 +19218,9 @@
                 ],
                 "oldcomputers": [
                     "Bally"
+                ],
+                "arrm": [
+                    "Bally"
                 ]
             }
         },
@@ -18351,6 +19235,9 @@
                     "Bandai"
                 ],
                 "recalbox": [
+                    "Bandai"
+                ],
+                "arrm": [
                     "Bandai"
                 ]
             }
@@ -18437,6 +19324,9 @@
                 ],
                 "oldcomputers": [
                     "Camputers"
+                ],
+                "arrm": [
+                    "Camputers"
                 ]
             }
         },
@@ -18458,6 +19348,9 @@
                 ],
                 "screenscraper": [
                     "Capcom"
+                ],
+                "arrm": [
+                    "Capcom"
                 ]
             }
         },
@@ -18475,6 +19368,9 @@
                     "Casio"
                 ],
                 "screenscraper": [
+                    "Casio"
+                ],
+                "arrm": [
                     "Casio"
                 ]
             }
@@ -18509,6 +19405,9 @@
                 ],
                 "recalbox": [
                     "Coleco"
+                ],
+                "arrm": [
+                    "Coleco"
                 ]
             }
         },
@@ -18526,6 +19425,9 @@
                     "Commodore"
                 ],
                 "recalbox": [
+                    "Commodore"
+                ],
+                "arrm": [
                     "Commodore"
                 ]
             }
@@ -18692,6 +19594,9 @@
             "matches": {
                 "launchbox": [
                     "Elecbyte"
+                ],
+                "arrm": [
+                    "Elecbyte"
                 ]
             }
         },
@@ -18761,6 +19666,9 @@
                 ],
                 "oldcomputers": [
                     "ENTEX"
+                ],
+                "arrm": [
+                    "Entex"
                 ]
             }
         },
@@ -18781,6 +19689,9 @@
                     "Epoch"
                 ],
                 "recalbox": [
+                    "Epoch"
+                ],
+                "arrm": [
                     "Epoch"
                 ]
             }
@@ -18889,6 +19800,9 @@
                     "Fujitsu"
                 ],
                 "screenscraper": [
+                    "Fujitsu"
+                ],
+                "arrm": [
                     "Fujitsu"
                 ]
             }
@@ -19112,6 +20026,9 @@
                 ],
                 "oldcomputers": [
                     "INTERTON"
+                ],
+                "arrm": [
+                    "Interton"
                 ]
             }
         },
@@ -19289,6 +20206,9 @@
                 ],
                 "recalbox": [
                     "Magnavox"
+                ],
+                "arrm": [
+                    "Magnavox"
                 ]
             }
         },
@@ -19330,6 +20250,9 @@
                     "Mattel"
                 ],
                 "recalbox": [
+                    "Mattel"
+                ],
+                "arrm": [
                     "Mattel"
                 ]
             }
@@ -19397,6 +20320,9 @@
                 ],
                 "recalbox": [
                     "Microsoft"
+                ],
+                "arrm": [
+                    "Microsoft"
                 ]
             }
         },
@@ -19420,6 +20346,9 @@
             "name": "Milton Bradley",
             "matches": {
                 "oldcomputers": [
+                    "Milton Bradley"
+                ],
+                "arrm": [
                     "Milton Bradley"
                 ]
             }
@@ -19488,6 +20417,9 @@
                 ],
                 "recalbox": [
                     "NEC"
+                ],
+                "arrm": [
+                    "NEC"
                 ]
             }
         },
@@ -19509,7 +20441,11 @@
         "Namco-Sega-Nintendo": {
             "id": "Namco-Sega-Nintendo",
             "name": "Namco-Sega-Nintendo",
-            "matches": []
+            "matches": {
+                "arrm": [
+                    "Namco-Sega-Nintendo"
+                ]
+            }
         },
         "Nascom": {
             "id": "Nascom",
@@ -19546,6 +20482,9 @@
                 ],
                 "recalbox": [
                     "Nintendo"
+                ],
+                "arrm": [
+                    "Nintendo"
                 ]
             }
         },
@@ -19564,6 +20503,9 @@
                     "Nokia"
                 ],
                 "screenscraper": [
+                    "Nokia"
+                ],
+                "arrm": [
                     "Nokia"
                 ]
             }
@@ -19669,6 +20611,9 @@
                 ],
                 "recalbox": [
                     "Panasonic"
+                ],
+                "arrm": [
+                    "Panasonic"
                 ]
             }
         },
@@ -19701,6 +20646,9 @@
                     "Philips"
                 ],
                 "recalbox": [
+                    "Philips"
+                ],
+                "arrm": [
                     "Philips"
                 ]
             }
@@ -19860,6 +20808,9 @@
                 ],
                 "recalbox": [
                     "SNK"
+                ],
+                "arrm": [
+                    "SNK"
                 ]
             }
         },
@@ -19892,6 +20843,9 @@
             "name": "Sammy",
             "matches": {
                 "recalbox": [
+                    "Sammy"
+                ],
+                "arrm": [
                     "Sammy"
                 ]
             }
@@ -19935,6 +20889,9 @@
                 ],
                 "recalbox": [
                     "Sega"
+                ],
+                "arrm": [
+                    "Sega"
                 ]
             }
         },
@@ -19960,6 +20917,9 @@
                     "Sharp"
                 ],
                 "recalbox": [
+                    "Sharp"
+                ],
+                "arrm": [
                     "Sharp"
                 ]
             }
@@ -19992,6 +20952,9 @@
                 ],
                 "recalbox": [
                     "Sinclair"
+                ],
+                "arrm": [
+                    "Sinclair"
                 ]
             }
         },
@@ -20016,6 +20979,9 @@
                     "Sony"
                 ],
                 "recalbox": [
+                    "Sony"
+                ],
+                "arrm": [
                     "Sony"
                 ]
             }
@@ -20043,6 +21009,9 @@
                     "Spectravideo"
                 ],
                 "recalbox": [
+                    "Spectravideo"
+                ],
+                "arrm": [
                     "Spectravideo"
                 ]
             }
@@ -20200,6 +21169,9 @@
                 ],
                 "screenscraper": [
                     "Texas Instruments"
+                ],
+                "arrm": [
+                    "Texas Instruments"
                 ]
             }
         },
@@ -20215,6 +21187,9 @@
                 ],
                 "recalbox": [
                     "Thomson"
+                ],
+                "arrm": [
+                    "Thomson"
                 ]
             }
         },
@@ -20226,6 +21201,9 @@
                     "Tiger Electronics"
                 ],
                 "launchbox": [
+                    "Tiger Electronics"
+                ],
+                "arrm": [
                     "Tiger Electronics"
                 ]
             }
@@ -20256,6 +21234,9 @@
                     "Tomy"
                 ],
                 "oldcomputers": [
+                    "Tomy"
+                ],
+                "arrm": [
                     "Tomy"
                 ]
             }
@@ -20326,7 +21307,11 @@
         "Uzebox": {
             "id": "Uzebox",
             "name": "Uzebox",
-            "matches": []
+            "matches": {
+                "arrm": [
+                    "UzeBox"
+                ]
+            }
         },
         "VEB Mikroelektronik": {
             "id": "VEB Mikroelektronik",
@@ -20350,6 +21335,9 @@
                     "VTech"
                 ],
                 "screenscraper": [
+                    "VTech"
+                ],
+                "arrm": [
                     "VTech"
                 ]
             }
@@ -20419,6 +21407,9 @@
                     "Watara"
                 ],
                 "recalbox": [
+                    "Watara"
+                ],
+                "arrm": [
                     "Watara"
                 ]
             }
