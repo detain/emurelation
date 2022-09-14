@@ -21591,12 +21591,17 @@
         }
     },
     "emulators": {
-        "1964-emulator": {
-            "id": "1964-emulator",
-            "shortName": "1964-emulator",
-            "name": "1964-emulator",
-            "platforms": [],
+        "1964": {
+            "id": "1964",
+            "shortName": "1964",
+            "name": "1964",
+            "platforms": [
+                "n64"
+            ],
             "matches": {
+                "emucontrolcenter": [
+                    "1964"
+                ],
                 "emulationking": [
                     "1964-emulator"
                 ]
@@ -24591,10 +24596,10 @@
                 ]
             }
         },
-        "duos-emulator": {
-            "id": "duos-emulator",
-            "shortName": "duos-emulator",
-            "name": "duos-emulator",
+        "duos": {
+            "id": "duos",
+            "shortName": "duos",
+            "name": "duos",
             "platforms": [],
             "matches": {
                 "emulationking": [
@@ -29718,22 +29723,14 @@
                 "a7800"
             ],
             "matches": {
+                "emulationking": [
+                    "prosystem-emulator"
+                ],
                 "emucontrolcenter": [
                     "prosystem"
                 ],
                 "windspro": [
                     "ProSystem"
-                ]
-            }
-        },
-        "prosystem-emulator": {
-            "id": "prosystem-emulator",
-            "shortName": "prosystem-emulator",
-            "name": "prosystem-emulator",
-            "platforms": [],
-            "matches": {
-                "emulationking": [
-                    "prosystem-emulator"
                 ]
             }
         },
@@ -33173,19 +33170,6 @@
             "matches": {
                 "emucontrolcenter": [
                     "zxspin"
-                ]
-            }
-        },
-        "1964": {
-            "id": 1964,
-            "shortName": 1964,
-            "name": "1964",
-            "platforms": [
-                "n64"
-            ],
-            "matches": {
-                "emucontrolcenter": [
-                    1964
                 ]
             }
         }
