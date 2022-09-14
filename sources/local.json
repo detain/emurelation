@@ -145,9 +145,6 @@
                 ],
                 "emucontrolcenter": [
                     "im"
-                ],
-                "arrm": [
-                    "apfm1000"
                 ]
             },
             "company": "APF",
@@ -159,6 +156,9 @@
             "id": "APF M-1000",
             "name": "M-1000",
             "matches": {
+                "arrm": [
+                    "apfm1000"
+                ],
                 "mame": [
                     "apfm1000"
                 ],
@@ -240,58 +240,6 @@
             "company": "Acetronic",
             "altNames": [
                 "Acetronic MPU-1000"
-            ]
-        },
-        "Acorn 32016": {
-            "id": "Acorn 32016",
-            "name": "32016",
-            "matches": {
-                "mame": [
-                    "bbc_flop_32016"
-                ]
-            },
-            "company": "Acorn",
-            "altNames": [
-                "Acorn 32016"
-            ]
-        },
-        "Acorn 6502": {
-            "id": "Acorn 6502",
-            "name": "6502",
-            "matches": {
-                "mame": [
-                    "bbc_flop_6502"
-                ]
-            },
-            "company": "Acorn",
-            "altNames": [
-                "Acorn 6502"
-            ]
-        },
-        "Acorn 80186": {
-            "id": "Acorn 80186",
-            "name": "80186",
-            "matches": {
-                "mame": [
-                    "bbc_flop_80186"
-                ]
-            },
-            "company": "Acorn",
-            "altNames": [
-                "Acorn 80186"
-            ]
-        },
-        "Acorn ARM": {
-            "id": "Acorn ARM",
-            "name": "ARM",
-            "matches": {
-                "mame": [
-                    "bbc_flop_arm"
-                ]
-            },
-            "company": "Acorn",
-            "altNames": [
-                "Acorn ARM"
             ]
         },
         "Acorn Archimedes": {
@@ -448,6 +396,10 @@
                     "Acorn BBC - Operating Systems"
                 ],
                 "mame": [
+                    "bbc_flop_32016",
+                    "bbc_flop_6502",
+                    "bbc_flop_80186",
+                    "bbc_flop_arm",
                     "bbcm_cart",
                     "bbcm_flop",
                     "bbcmc_flop"
