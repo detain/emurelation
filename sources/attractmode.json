@@ -1,0 +1,614 @@
+{
+    "placeholder": true,
+    "platforms": {
+        "Panasonic 3DO": {
+            "id": "Panasonic 3DO"
+        },
+        "Nintendo 64DD": {
+            "id": "Nintendo 64DD"
+        },
+        "AAE": {
+            "id": "AAE"
+        },
+        "ALF TV Game": {
+            "id": "ALF TV Game"
+        },
+        "APF Imagination Machine": {
+            "id": "APF Imagination Machine"
+        },
+        "Aamber Pegasus": {
+            "id": "Aamber Pegasus"
+        },
+        "Acorn Archimedes": {
+            "id": "Acorn Archimedes"
+        },
+        "Acorn Atom": {
+            "id": "Acorn Atom"
+        },
+        "Acorn BBC Micro": {
+            "id": "Acorn BBC Micro"
+        },
+        "Acorn Electron": {
+            "id": "Acorn Electron"
+        },
+        "American Laser Games": {
+            "id": "American Laser Games"
+        },
+        "Amstrad CPC": {
+            "id": "Amstrad CPC"
+        },
+        "Amstrad GX4000": {
+            "id": "Amstrad GX4000"
+        },
+        "Apogee BK-01": {
+            "id": "Apogee BK-01"
+        },
+        "Apple IIGS": {
+            "id": "Apple IIGS"
+        },
+        "Apple II": {
+            "id": "Apple II"
+        },
+        "Arcade PC": {
+            "id": "Arcade PC"
+        },
+        "Atari 2600": {
+            "id": "Atari 2600"
+        },
+        "Atari 5200": {
+            "id": "Atari 5200"
+        },
+        "Atari 7800": {
+            "id": "Atari 7800"
+        },
+        "Atari 8-Bit": {
+            "id": "Atari 8-Bit"
+        },
+        "Atari Classics": {
+            "id": "Atari Classics"
+        },
+        "Atari Jaguar CD": {
+            "id": "Atari Jaguar CD"
+        },
+        "Atari Jaguar": {
+            "id": "Atari Jaguar"
+        },
+        "Atari Lynx": {
+            "id": "Atari Lynx"
+        },
+        "Atari ST": {
+            "id": "Atari ST"
+        },
+        "Bally Astrocade": {
+            "id": "Bally Astrocade"
+        },
+        "Bandai Super Vision 8000": {
+            "id": "Bandai Super Vision 8000"
+        },
+        "Bandai WonderSwan Color": {
+            "id": "Bandai WonderSwan Color"
+        },
+        "Bandai WonderSwan": {
+            "id": "Bandai WonderSwan"
+        },
+        "Big Fish Games": {
+            "id": "Big Fish Games"
+        },
+        "Camputers Lynx": {
+            "id": "Camputers Lynx"
+        },
+        "Capcom Classics": {
+            "id": "Capcom Classics"
+        },
+        "Capcom Play System III": {
+            "id": "Capcom Play System III"
+        },
+        "Capcom Play System II": {
+            "id": "Capcom Play System II"
+        },
+        "Capcom Play System": {
+            "id": "Capcom Play System"
+        },
+        "Casio Loopy": {
+            "id": "Casio Loopy"
+        },
+        "Casio PV-1000": {
+            "id": "Casio PV-1000"
+        },
+        "Casio PV-2000": {
+            "id": "Casio PV-2000"
+        },
+        "Coleco ADAM": {
+            "id": "Coleco ADAM"
+        },
+        "ColecoVision": {
+            "id": "ColecoVision"
+        },
+        "Commodore 128": {
+            "id": "Commodore 128"
+        },
+        "Commodore 16 & Plus4": {
+            "id": "Commodore 16 & Plus4"
+        },
+        "Commodore 64": {
+            "id": "Commodore 64"
+        },
+        "Commodore Amiga CD32": {
+            "id": "Commodore Amiga CD32"
+        },
+        "Commodore Amiga": {
+            "id": "Commodore Amiga"
+        },
+        "Commodore CDTV": {
+            "id": "Commodore CDTV"
+        },
+        "Commodore MAX Machine": {
+            "id": "Commodore MAX Machine"
+        },
+        "Commodore PET": {
+            "id": "Commodore PET"
+        },
+        "Commodore VIC-20": {
+            "id": "Commodore VIC-20"
+        },
+        "Creatronic Mega Duck": {
+            "id": "Creatronic Mega Duck"
+        },
+        "DICE": {
+            "id": "DICE"
+        },
+        "Daphne": {
+            "id": "Daphne"
+        },
+        "Data East Classics": {
+            "id": "Data East Classics"
+        },
+        "Doujin Soft": {
+            "id": "Doujin Soft"
+        },
+        "Dragon Data Dragon": {
+            "id": "Dragon Data Dragon"
+        },
+        "EACA EG2000 Colour Genie": {
+            "id": "EACA EG2000 Colour Genie"
+        },
+        "Electronic Handheld Games": {
+            "id": "Electronic Handheld Games"
+        },
+        "Elektronika BK": {
+            "id": "Elektronika BK"
+        },
+        "Emerson Arcadia 2001": {
+            "id": "Emerson Arcadia 2001"
+        },
+        "Entex Adventure Vision": {
+            "id": "Entex Adventure Vision"
+        },
+        "Epoch Game Pocket Computer": {
+            "id": "Epoch Game Pocket Computer"
+        },
+        "Examu eX-BOARD": {
+            "id": "Examu eX-BOARD"
+        },
+        "Exelvision EXL 100": {
+            "id": "Exelvision EXL 100"
+        },
+        "Exidy Sorcerer": {
+            "id": "Exidy Sorcerer"
+        },
+        "Fairchild Channel F": {
+            "id": "Fairchild Channel F"
+        },
+        "Final Burn Alpha": {
+            "id": "Final Burn Alpha"
+        },
+        "Fujitsu FM Towns": {
+            "id": "Fujitsu FM Towns"
+        },
+        "Fujitsu FM-7": {
+            "id": "Fujitsu FM-7"
+        },
+        "Funtech Super Acan": {
+            "id": "Funtech Super Acan"
+        },
+        "Future Pinball": {
+            "id": "Future Pinball"
+        },
+        "GCE Vectrex": {
+            "id": "GCE Vectrex"
+        },
+        "Gaelco": {
+            "id": "Gaelco"
+        },
+        "GamePark 32": {
+            "id": "GamePark 32"
+        },
+        "HBMAME": {
+            "id": "HBMAME"
+        },
+        "Hartung Game Master": {
+            "id": "Hartung Game Master"
+        },
+        "Hector HRX": {
+            "id": "Hector HRX"
+        },
+        "Ignore Roms - Do not delete!": {
+            "id": "Ignore Roms - Do not delete!"
+        },
+        "Interton VC 4000": {
+            "id": "Interton VC 4000"
+        },
+        "Irem Classics": {
+            "id": "Irem Classics"
+        },
+        "Jupiter ACE": {
+            "id": "Jupiter ACE"
+        },
+        "Konami Classics": {
+            "id": "Konami Classics"
+        },
+        "Konami e-AMUSEMENT": {
+            "id": "Konami e-AMUSEMENT"
+        },
+        "Konix Multi-System": {
+            "id": "Konix Multi-System"
+        },
+        "Lviv PC-01": {
+            "id": "Lviv PC-01"
+        },
+        "MAME": {
+            "id": "MAME"
+        },
+        "MGT Sam Coupe": {
+            "id": "MGT Sam Coupe"
+        },
+        "MUGEN": {
+            "id": "MUGEN"
+        },
+        "Magnavox Odyssey 2": {
+            "id": "Magnavox Odyssey 2"
+        },
+        "Magnavox Odyssey": {
+            "id": "Magnavox Odyssey"
+        },
+        "Matra and Hachette Alice": {
+            "id": "Matra and Hachette Alice"
+        },
+        "Mattel Aquarius": {
+            "id": "Mattel Aquarius"
+        },
+        "Mattel Intellivision": {
+            "id": "Mattel Intellivision"
+        },
+        "MiSFiT MAME": {
+            "id": "MiSFiT MAME"
+        },
+        "Microsoft MS-DOS": {
+            "id": "Microsoft MS-DOS"
+        },
+        "Microsoft MSX2+": {
+            "id": "Microsoft MSX2+"
+        },
+        "Microsoft MSX2": {
+            "id": "Microsoft MSX2"
+        },
+        "Microsoft MSX": {
+            "id": "Microsoft MSX"
+        },
+        "Microsoft Windows 3.x": {
+            "id": "Microsoft Windows 3.x"
+        },
+        "Microsoft Xbox": {
+            "id": "Microsoft Xbox"
+        },
+        "Midway Classics": {
+            "id": "Midway Classics"
+        },
+        "Milton Bradley Microvision": {
+            "id": "Milton Bradley Microvision"
+        },
+        "NEC PC Engine-CD": {
+            "id": "NEC PC Engine-CD"
+        },
+        "NEC PC Engine": {
+            "id": "NEC PC Engine"
+        },
+        "NEC PC-8801": {
+            "id": "NEC PC-8801"
+        },
+        "NEC PC-9801": {
+            "id": "NEC PC-9801"
+        },
+        "NEC PC-FX": {
+            "id": "NEC PC-FX"
+        },
+        "NEC SuperGrafx": {
+            "id": "NEC SuperGrafx"
+        },
+        "NEC TurboGrafx-16": {
+            "id": "NEC TurboGrafx-16"
+        },
+        "NEC TurboGrafx-CD": {
+            "id": "NEC TurboGrafx-CD"
+        },
+        "Namco Classics": {
+            "id": "Namco Classics"
+        },
+        "Namco System 22": {
+            "id": "Namco System 22"
+        },
+        "Nintendo 64": {
+            "id": "Nintendo 64"
+        },
+        "Nintendo Classics": {
+            "id": "Nintendo Classics"
+        },
+        "Nintendo DS": {
+            "id": "Nintendo DS"
+        },
+        "Nintendo Entertainment System": {
+            "id": "Nintendo Entertainment System"
+        },
+        "Nintendo Famicom Disk System": {
+            "id": "Nintendo Famicom Disk System"
+        },
+        "Nintendo Famicom": {
+            "id": "Nintendo Famicom"
+        },
+        "Nintendo Game Boy Advance": {
+            "id": "Nintendo Game Boy Advance"
+        },
+        "Nintendo Game Boy Color": {
+            "id": "Nintendo Game Boy Color"
+        },
+        "Nintendo Game Boy": {
+            "id": "Nintendo Game Boy"
+        },
+        "Nintendo GameCube": {
+            "id": "Nintendo GameCube"
+        },
+        "Nintendo Pokemon Mini": {
+            "id": "Nintendo Pokemon Mini"
+        },
+        "Nintendo Satellaview": {
+            "id": "Nintendo Satellaview"
+        },
+        "Nintendo Super Famicom": {
+            "id": "Nintendo Super Famicom"
+        },
+        "Nintendo Super Game Boy": {
+            "id": "Nintendo Super Game Boy"
+        },
+        "Nintendo Virtual Boy": {
+            "id": "Nintendo Virtual Boy"
+        },
+        "Nintendo Wii U": {
+            "id": "Nintendo Wii U"
+        },
+        "Nintendo WiiWare": {
+            "id": "Nintendo WiiWare"
+        },
+        "Nintendo Wii": {
+            "id": "Nintendo Wii"
+        },
+        "OpenBOR": {
+            "id": "OpenBOR"
+        },
+        "Othello Multivision": {
+            "id": "Othello Multivision"
+        },
+        "PC Games": {
+            "id": "PC Games"
+        },
+        "Philips CD-i": {
+            "id": "Philips CD-i"
+        },
+        "Philips VG 5000": {
+            "id": "Philips VG 5000"
+        },
+        "Philips Videopac Plus G7400": {
+            "id": "Philips Videopac Plus G7400"
+        },
+        "Pinball FX2": {
+            "id": "Pinball FX2"
+        },
+        "Pioneer Palcom Laserdisc": {
+            "id": "Pioneer Palcom Laserdisc"
+        },
+        "PopCap": {
+            "id": "PopCap"
+        },
+        "RCA Studio II": {
+            "id": "RCA Studio II"
+        },
+        "Radio-86RK Mikrosha": {
+            "id": "Radio-86RK Mikrosha"
+        },
+        "SNK Classics": {
+            "id": "SNK Classics"
+        },
+        "SNK Neo Geo AES": {
+            "id": "SNK Neo Geo AES"
+        },
+        "SNK Neo Geo CD": {
+            "id": "SNK Neo Geo CD"
+        },
+        "SNK Neo Geo MVS": {
+            "id": "SNK Neo Geo MVS"
+        },
+        "SNK Neo Geo Pocket Color": {
+            "id": "SNK Neo Geo Pocket Color"
+        },
+        "SNK Neo Geo Pocket": {
+            "id": "SNK Neo Geo Pocket"
+        },
+        "Sammy Atomiswave": {
+            "id": "Sammy Atomiswave"
+        },
+        "ScummVM": {
+            "id": "ScummVM"
+        },
+        "Sega 32X": {
+            "id": "Sega 32X"
+        },
+        "Sega CD": {
+            "id": "Sega CD"
+        },
+        "Sega Classics": {
+            "id": "Sega Classics"
+        },
+        "Sega Dreamcast": {
+            "id": "Sega Dreamcast"
+        },
+        "Sega Game Gear": {
+            "id": "Sega Game Gear"
+        },
+        "Sega Genesis": {
+            "id": "Sega Genesis"
+        },
+        "Sega Hikaru": {
+            "id": "Sega Hikaru"
+        },
+        "Sega Master System": {
+            "id": "Sega Master System"
+        },
+        "Sega Model 2": {
+            "id": "Sega Model 2"
+        },
+        "Sega Model 3": {
+            "id": "Sega Model 3"
+        },
+        "Sega Naomi": {
+            "id": "Sega Naomi"
+        },
+        "Sega Pico": {
+            "id": "Sega Pico"
+        },
+        "Sega SC-3000": {
+            "id": "Sega SC-3000"
+        },
+        "Sega SG-1000": {
+            "id": "Sega SG-1000"
+        },
+        "Sega ST-V": {
+            "id": "Sega ST-V"
+        },
+        "Sega Saturn": {
+            "id": "Sega Saturn"
+        },
+        "Sega Triforce": {
+            "id": "Sega Triforce"
+        },
+        "Sega VMU": {
+            "id": "Sega VMU"
+        },
+        "Sharp MZ-2500": {
+            "id": "Sharp MZ-2500"
+        },
+        "Sharp X1": {
+            "id": "Sharp X1"
+        },
+        "Sharp X68000": {
+            "id": "Sharp X68000"
+        },
+        "Sinclair ZX Spectrum": {
+            "id": "Sinclair ZX Spectrum"
+        },
+        "Sinclair ZX81": {
+            "id": "Sinclair ZX81"
+        },
+        "Sony PSP Minis": {
+            "id": "Sony PSP Minis"
+        },
+        "Sony PSP": {
+            "id": "Sony PSP"
+        },
+        "Sony PlayStation 2": {
+            "id": "Sony PlayStation 2"
+        },
+        "Sony PlayStation": {
+            "id": "Sony PlayStation"
+        },
+        "Sony PocketStation": {
+            "id": "Sony PocketStation"
+        },
+        "Sord M5": {
+            "id": "Sord M5"
+        },
+        "Spectravideo": {
+            "id": "Spectravideo"
+        },
+        "Super Nintendo Entertainment System": {
+            "id": "Super Nintendo Entertainment System"
+        },
+        "Taito Classics": {
+            "id": "Taito Classics"
+        },
+        "Taito Type X": {
+            "id": "Taito Type X"
+        },
+        "Tandy TRS-80 Color Computer": {
+            "id": "Tandy TRS-80 Color Computer"
+        },
+        "Tangerine Oric": {
+            "id": "Tangerine Oric"
+        },
+        "Texas Instruments TI 99-4A": {
+            "id": "Texas Instruments TI 99-4A"
+        },
+        "Tiger Game.com": {
+            "id": "Tiger Game.com"
+        },
+        "Tomy Tutor": {
+            "id": "Tomy Tutor"
+        },
+        "Touhou Project": {
+            "id": "Touhou Project"
+        },
+        "VM Labs Nuon": {
+            "id": "VM Labs Nuon"
+        },
+        "VTech CreatiVision": {
+            "id": "VTech CreatiVision"
+        },
+        "VTech Socrates": {
+            "id": "VTech Socrates"
+        },
+        "Vector-06C": {
+            "id": "Vector-06C"
+        },
+        "Visual Pinball": {
+            "id": "Visual Pinball"
+        },
+        "Williams Classics": {
+            "id": "Williams Classics"
+        },
+        "WoW Action Max": {
+            "id": "WoW Action Max"
+        },
+        "Zinc": {
+            "id": "Zinc"
+        },
+        "|Atari 8-Bit": {
+            "id": "|Atari 8-Bit"
+        },
+        "Cave": {
+            "id": "Cave"
+        },
+        "148": {
+            "id": "148"
+        },
+        "Arcade PC|Radio-86RK Mikrosha": {
+            "id": "Arcade PC|Radio-86RK Mikrosha"
+        },
+        "Epoch Super Cassette Vision": {
+            "id": "Epoch Super Cassette Vision"
+        },
+        "|Sega 32X": {
+            "id": "|Sega 32X"
+        },
+        "Watara Supervision": {
+            "id": "Watara Supervision"
+        }
+    }
+}

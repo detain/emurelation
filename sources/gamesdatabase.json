@@ -1,0 +1,362 @@
+{
+    "placeholder": true,
+    "platforms": {
+        "panasonic-3do": {
+            "id": "panasonic-3do"
+        },
+        "nintendo-ds": {
+            "id": "nintendo-ds"
+        },
+        "nintendo-n64": {
+            "id": "nintendo-n64"
+        },
+        "nintendo-snes": {
+            "id": "nintendo-snes"
+        },
+        "acorn-archimedes": {
+            "id": "acorn-archimedes"
+        },
+        "acorn-electron": {
+            "id": "acorn-electron"
+        },
+        "wow-action-max": {
+            "id": "wow-action-max"
+        },
+        "coleco-vision": {
+            "id": "coleco-vision"
+        },
+        "entex-adventure-vision": {
+            "id": "entex-adventure-vision"
+        },
+        "commodore-amiga": {
+            "id": "commodore-amiga"
+        },
+        "commodore-amiga-cd32": {
+            "id": "commodore-amiga-cd32"
+        },
+        "commodore-cdtv": {
+            "id": "commodore-cdtv"
+        },
+        "amstrad-cpc": {
+            "id": "amstrad-cpc"
+        },
+        "4916": {
+            "id": "4916"
+        },
+        "4969": {
+            "id": "4969"
+        },
+        "apple-ii": {
+            "id": "apple-ii"
+        },
+        "arcade": {
+            "id": "arcade"
+        },
+        "emerson-arcadia-2001": {
+            "id": "emerson-arcadia-2001"
+        },
+        "bally-astrocade": {
+            "id": "bally-astrocade"
+        },
+        "atari-2600": {
+            "id": "atari-2600"
+        },
+        "atari-5200": {
+            "id": "atari-5200"
+        },
+        "atari-7800": {
+            "id": "atari-7800"
+        },
+        "atari-8-bit": {
+            "id": "atari-8-bit"
+        },
+        "atari-jaguar-cd": {
+            "id": "atari-jaguar-cd"
+        },
+        "atari-jaguar": {
+            "id": "atari-jaguar"
+        },
+        "atari-lynx": {
+            "id": "atari-lynx"
+        },
+        "atari-st": {
+            "id": "atari-st"
+        },
+        "sammy-atomiswave": {
+            "id": "sammy-atomiswave"
+        },
+        "acorn-bbc-micro": {
+            "id": "acorn-bbc-micro"
+        },
+        "commodore-128": {
+            "id": "commodore-128"
+        },
+        "commodore-vic-20": {
+            "id": "commodore-vic-20"
+        },
+        "commodore-64": {
+            "id": "commodore-64"
+        },
+        "23": {
+            "id": "23"
+        },
+        "4964": {
+            "id": "4964"
+        },
+        "fairchild-channel-f": {
+            "id": "fairchild-channel-f"
+        },
+        "commodore_plus_4": {
+            "id": "commodore_plus_4"
+        },
+        "vtech-creativision": {
+            "id": "vtech-creativision"
+        },
+        "laserdisc": {
+            "id": "laserdisc"
+        },
+        "microsoft-dos": {
+            "id": "microsoft-dos"
+        },
+        "dragon-32-64": {
+            "id": "dragon-32-64"
+        },
+        "sega-dreamcast": {
+            "id": "sega-dreamcast"
+        },
+        "epoch-super-cassette-vision": {
+            "id": "epoch-super-cassette-vision"
+        },
+        "nintendo-nes": {
+            "id": "nintendo-nes"
+        },
+        "famicom-disk-system": {
+            "id": "famicom-disk-system"
+        },
+        "future_pinball": {
+            "id": "future_pinball"
+        },
+        "4950": {
+            "id": "4950"
+        },
+        "nintendo-gamecube": {
+            "id": "nintendo-gamecube"
+        },
+        "sega-game-gear": {
+            "id": "sega-game-gear"
+        },
+        "nintendo-game-boy": {
+            "id": "nintendo-game-boy"
+        },
+        "nintendo-game-boy-advance": {
+            "id": "nintendo-game-boy-advance"
+        },
+        "nintendo-game-boy-color": {
+            "id": "nintendo-game-boy-color"
+        },
+        "sega-genesis": {
+            "id": "sega-genesis"
+        },
+        "amstrad-gx4000": {
+            "id": "amstrad-gx4000"
+        },
+        "mattel-intellivision": {
+            "id": "mattel-intellivision"
+        },
+        "4915": {
+            "id": "4915"
+        },
+        "1": {
+            "id": "1"
+        },
+        "37": {
+            "id": "37"
+        },
+        "sega-master-system": {
+            "id": "sega-master-system"
+        },
+        "mega-duck": {
+            "id": "mega-duck"
+        },
+        "microsoft-xbox-360": {
+            "id": "microsoft-xbox-360"
+        },
+        "microsoft-xbox": {
+            "id": "microsoft-xbox"
+        },
+        "4972": {
+            "id": "4972"
+        },
+        "sega-model-2": {
+            "id": "sega-model-2"
+        },
+        "sega-model-3": {
+            "id": "sega-model-3"
+        },
+        "msx": {
+            "id": "msx"
+        },
+        "msx-2": {
+            "id": "msx-2"
+        },
+        "mugen": {
+            "id": "mugen"
+        },
+        "sega-sg-1000": {
+            "id": "sega-sg-1000"
+        },
+        "sega-naomi": {
+            "id": "sega-naomi"
+        },
+        "snk-neo-geo-cd": {
+            "id": "snk-neo-geo-cd"
+        },
+        "snk-neo-geo-aes": {
+            "id": "snk-neo-geo-aes"
+        },
+        "snk-neo-geo-pocket-color": {
+            "id": "snk-neo-geo-pocket-color"
+        },
+        "snk-neo-geo-pocket": {
+            "id": "snk-neo-geo-pocket"
+        },
+        "nintendo-pokemon-mini": {
+            "id": "nintendo-pokemon-mini"
+        },
+        "4971": {
+            "id": "4971"
+        },
+        "4934": {
+            "id": "4934"
+        },
+        "4935": {
+            "id": "4935"
+        },
+        "magnavox-odyssey-2": {
+            "id": "magnavox-odyssey-2"
+        },
+        "openbor": {
+            "id": "openbor"
+        },
+        "tangerine-oric": {
+            "id": "tangerine-oric"
+        },
+        "4921": {
+            "id": "4921"
+        },
+        "nec-pc-engine-cd": {
+            "id": "nec-pc-engine-cd"
+        },
+        "nec-pc-engine": {
+            "id": "nec-pc-engine"
+        },
+        "commodore-pet": {
+            "id": "commodore-pet"
+        },
+        "philips-cd-i": {
+            "id": "philips-cd-i"
+        },
+        "4975": {
+            "id": "4975"
+        },
+        "sony-playstation-2": {
+            "id": "sony-playstation-2"
+        },
+        "sony-playstation-3": {
+            "id": "sony-playstation-3"
+        },
+        "sony-playstation": {
+            "id": "sony-playstation"
+        },
+        "sony-psp": {
+            "id": "sony-psp"
+        },
+        "casio-pv-1000": {
+            "id": "casio-pv-1000"
+        },
+        "rca-studio-ii": {
+            "id": "rca-studio-ii"
+        },
+        "sinclair-zx-spectrum": {
+            "id": "sinclair-zx-spectrum"
+        },
+        "megaduck": {
+            "id": "megaduck"
+        },
+        "sega-saturn": {
+            "id": "sega-saturn"
+        },
+        "scummvm": {
+            "id": "scummvm"
+        },
+        "sega-32x": {
+            "id": "sega-32x"
+        },
+        "sega-pico": {
+            "id": "sega-pico"
+        },
+        "sega-cd": {
+            "id": "sega-cd"
+        },
+        "4977": {
+            "id": "4977"
+        },
+        "nintendo_msu-1": {
+            "id": "nintendo_msu-1"
+        },
+        "sony-playstation-4": {
+            "id": "sony-playstation-4"
+        },
+        "nec-supergrafx": {
+            "id": "nec-supergrafx"
+        },
+        "watara-supervision": {
+            "id": "watara-supervision"
+        },
+        "texas-instruments-ti-99-4a": {
+            "id": "texas-instruments-ti-99-4a"
+        },
+        "sinclair-zx-81": {
+            "id": "sinclair-zx-81"
+        },
+        "4960": {
+            "id": "4960"
+        },
+        "tandy-trs-80": {
+            "id": "tandy-trs-80"
+        },
+        "tandy-trs-80-coco": {
+            "id": "tandy-trs-80-coco"
+        },
+        "nec-turbografx-16": {
+            "id": "nec-turbografx-16"
+        },
+        "gce-vectrex": {
+            "id": "gce-vectrex"
+        },
+        "philips-videopac+": {
+            "id": "philips-videopac+"
+        },
+        "philips-vg-5000": {
+            "id": "philips-vg-5000"
+        },
+        "nintendo-virtual-boy": {
+            "id": "nintendo-virtual-boy"
+        },
+        "nintendo-wii-u": {
+            "id": "nintendo-wii-u"
+        },
+        "nintendo-wii": {
+            "id": "nintendo-wii"
+        },
+        "microsoft-windows": {
+            "id": "microsoft-windows"
+        },
+        "bandai-wonderswan-color": {
+            "id": "bandai-wonderswan-color"
+        },
+        "bandai-wonderswan": {
+            "id": "bandai-wonderswan"
+        }
+    }
+}
