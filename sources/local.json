@@ -1597,7 +1597,8 @@
                     37
                 ],
                 "launchbox": [
-                    "Apple Mac OS"
+                    "Apple Mac OS",
+                    "Apple IIGS"
                 ],
                 "tosecpix": [
                     "Apple Macintosh - Books",
@@ -1645,7 +1646,8 @@
                     "macintosh"
                 ],
                 "recalbox": [
-                    "macintosh"
+                    "macintosh",
+                    "apple2gs"
                 ],
                 "arrm": [
                     "macintosh"
@@ -2437,6 +2439,9 @@
                 ],
                 "attractmode": [
                     "PC Games"
+                ],
+                "recalbox": [
+                    "dos"
                 ]
             },
             "company": "Atari",
@@ -2617,10 +2622,14 @@
                     "atari-8-bit"
                 ],
                 "launchbox": [
-                    "Atari XEGS"
+                    "Atari XEGS",
+                    "Atari 800"
                 ],
                 "hfsdb": [
                     "240841"
+                ],
+                "recalbox": [
+                    "atari800"
                 ]
             },
             "company": "Atari",
@@ -3405,7 +3414,8 @@
                     "cps1"
                 ],
                 "screenscraper": [
-                    6
+                    6,
+                    "75"
                 ],
                 "retrobat": [
                     "cps1"
@@ -3420,7 +3430,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ]
             },
             "company": "Capcom",
@@ -3433,7 +3444,8 @@
             "name": "Capcom Play System 2",
             "matches": {
                 "screenscraper": [
-                    7
+                    7,
+                    "75"
                 ],
                 "emucontrolcenter": [
                     "cps2"
@@ -3451,7 +3463,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ]
             },
             "company": "Capcom",
@@ -3470,7 +3483,8 @@
                     "Capcom CP System III - Games"
                 ],
                 "screenscraper": [
-                    8
+                    8,
+                    "75"
                 ],
                 "retrobat": [
                     "cps3"
@@ -3485,7 +3499,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ]
             },
             "company": "Capcom",
@@ -3747,7 +3762,8 @@
                 ],
                 "screenscraper": [
                     48,
-                    183
+                    183,
+                    "75"
                 ],
                 "emucontrolcenter": [
                     "col"
@@ -3767,7 +3783,8 @@
                 "recalbox": [
                     "colecovision",
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ],
                 "retrobat": [
                     "colecovision"
@@ -4516,7 +4533,8 @@
                     "c64"
                 ],
                 "recalbox": [
-                    "c64"
+                    "c64",
+                    "vic20"
                 ],
                 "retrobat": [
                     "c64"
@@ -4841,6 +4859,12 @@
                 ],
                 "attractmode": [
                     "Commodore Amiga"
+                ],
+                "retropie": [
+                    "amiga"
+                ],
+                "recalbox": [
+                    "amiga1200"
                 ]
             },
             "company": "Commodore",
@@ -4894,6 +4918,12 @@
                 ],
                 "attractmode": [
                     "Commodore Amiga"
+                ],
+                "retropie": [
+                    "amiga"
+                ],
+                "recalbox": [
+                    "amiga1200"
                 ]
             },
             "company": "Commodore",
@@ -4931,6 +4961,12 @@
                 ],
                 "attractmode": [
                     "Commodore Amiga"
+                ],
+                "retropie": [
+                    "amiga"
+                ],
+                "recalbox": [
+                    "amiga600"
                 ]
             },
             "company": "Commodore",
@@ -4990,6 +5026,9 @@
                 ],
                 "attractmode": [
                     "Commodore Amiga"
+                ],
+                "retropie": [
+                    "amiga"
                 ]
             },
             "company": "Commodore",
@@ -5027,6 +5066,12 @@
                 ],
                 "attractmode": [
                     "Commodore Amiga"
+                ],
+                "retropie": [
+                    "amiga"
+                ],
+                "recalbox": [
+                    "amiga1200"
                 ]
             },
             "company": "Commodore",
@@ -5073,6 +5118,9 @@
                 ],
                 "attractmode": [
                     "Commodore Amiga"
+                ],
+                "retropie": [
+                    "amiga"
                 ]
             },
             "company": "Commodore",
@@ -5419,7 +5467,8 @@
             "name": "PET",
             "matches": {
                 "launchbox": [
-                    "Commodore PET"
+                    "Commodore PET",
+                    "Commodore VIC-20"
                 ],
                 "tosec": [
                     "Commodore PET - Compilations - Applications",
@@ -5471,6 +5520,12 @@
                 ],
                 "attractmode": [
                     "Commodore PET"
+                ],
+                "retropie": [
+                    "c64"
+                ],
+                "recalbox": [
+                    "vic20"
                 ]
             },
             "company": "Commodore",
@@ -6273,7 +6328,8 @@
             "name": "32-64",
             "matches": {
                 "launchbox": [
-                    "Dragon 32/64"
+                    "Dragon 32/64",
+                    "TRS-80 Color Computer"
                 ],
                 "tgdb": [
                     4952
@@ -6296,10 +6352,12 @@
                     "dragon32"
                 ],
                 "retropie": [
-                    "dragon32"
+                    "dragon32",
+                    "coco"
                 ],
                 "recalbox": [
-                    "dragon"
+                    "dragon",
+                    "trs80coco"
                 ],
                 "arrm": [
                     "dragon32",
@@ -6371,6 +6429,9 @@
                 ],
                 "attractmode": [
                     "Microsoft MS-DOS"
+                ],
+                "retropie": [
+                    "pc"
                 ]
             },
             "company": "Dragon",
@@ -6590,7 +6651,8 @@
             "name": "MUGEN",
             "matches": {
                 "launchbox": [
-                    "MUGEN"
+                    "MUGEN",
+                    "OpenBOR"
                 ],
                 "emulationstation-de": [
                     "mugen"
@@ -6615,6 +6677,9 @@
                 ],
                 "bezels_project": [
                     "bezelproject-MAME"
+                ],
+                "recalbox": [
+                    "openbor"
                 ]
             },
             "company": "Elecbyte",
@@ -7248,7 +7313,8 @@
                     "Exidy Sorcerer - Manuals - Hardware"
                 ],
                 "screenscraper": [
-                    165
+                    165,
+                    "75"
                 ],
                 "oldcomputers": [
                     214
@@ -7266,7 +7332,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ]
             },
             "company": "Exidy",
@@ -7985,7 +8052,8 @@
                     "mame",
                     "fba",
                     "mame-advmame",
-                    "mame-mame4all"
+                    "mame-mame4all",
+                    "fbneo"
                 ],
                 "retropie": [
                     "arcade",
@@ -8004,7 +8072,8 @@
                     "mame",
                     "hbmame",
                     "gaelco",
-                    "teknoparrot"
+                    "teknoparrot",
+                    "fbneo"
                 ],
                 "arrm": [
                     "arcade",
@@ -8023,7 +8092,8 @@
                     "mame",
                     "teknoparrot",
                     "triforce",
-                    "fba_libretro"
+                    "fba_libretro",
+                    "fbneo"
                 ],
                 "mobygames": [
                     "arcade"
@@ -8050,7 +8120,8 @@
                     "29543",
                     "74407",
                     "74074",
-                    "29789"
+                    "29789",
+                    "29794"
                 ]
             },
             "company": "Generic",
@@ -10347,6 +10418,9 @@
                 ],
                 "attractmode": [
                     "Microsoft MSX"
+                ],
+                "recalbox": [
+                    "msx1"
                 ]
             },
             "company": "MSX",
@@ -10390,6 +10464,9 @@
                 ],
                 "attractmode": [
                     "Microsoft MSX2"
+                ],
+                "retropie": [
+                    "msx"
                 ]
             },
             "company": "MSX",
@@ -11270,7 +11347,8 @@
             "name": "MSX2+",
             "matches": {
                 "launchbox": [
-                    "Microsoft MSX2+"
+                    "Microsoft MSX2+",
+                    "Microsoft MSX2"
                 ],
                 "tosec": [
                     "MSX MSX2+ - Applications",
@@ -11282,7 +11360,8 @@
                     "msx2p_flop"
                 ],
                 "screenscraper": [
-                    117
+                    117,
+                    "116"
                 ],
                 "retrobat": [
                     "msx2+"
@@ -11950,6 +12029,9 @@
                 ],
                 "screenscraper": [
                     "221"
+                ],
+                "retropie": [
+                    "pc88"
                 ]
             },
             "company": "NEC",
@@ -12193,6 +12275,12 @@
                 ],
                 "attractmode": [
                     "NEC PC Engine"
+                ],
+                "retropie": [
+                    "pcengine"
+                ],
+                "recalbox": [
+                    "pcengine"
                 ]
             },
             "company": "NEC",
@@ -12458,7 +12546,8 @@
                     "Namco System 22"
                 ],
                 "screenscraper": [
-                    156
+                    156,
+                    "75"
                 ],
                 "emucontrolcenter": [
                     "s22"
@@ -12473,7 +12562,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ]
             },
             "company": "Namco",
@@ -12699,7 +12789,8 @@
                     "n64"
                 ],
                 "recalbox": [
-                    "n64"
+                    "n64",
+                    "64dd"
                 ],
                 "retrobat": [
                     "n64"
@@ -13609,7 +13700,8 @@
                     "4"
                 ],
                 "recalbox": [
-                    "sufami"
+                    "sufami",
+                    "snes"
                 ],
                 "emulationstation-de": [
                     "sufami"
@@ -14707,7 +14799,8 @@
                     "vg7400"
                 ],
                 "launchbox": [
-                    "Philips Videopac+"
+                    "Philips Videopac+",
+                    "Magnavox Odyssey 2"
                 ],
                 "nointro": [
                     "Philips - Videopac+"
@@ -14717,10 +14810,14 @@
                     "Philips Videopac+ - Games"
                 ],
                 "recalbox": [
-                    "videopacplus"
+                    "videopacplus",
+                    "o2em"
                 ],
                 "screenscraper": [
                     "104"
+                ],
+                "retropie": [
+                    "videopac"
                 ]
             },
             "company": "Philips",
@@ -15721,7 +15818,8 @@
                     "Sammy Atomiswave"
                 ],
                 "screenscraper": [
-                    53
+                    53,
+                    "75"
                 ],
                 "emucontrolcenter": [
                     "atomisw"
@@ -15732,7 +15830,8 @@
                 "recalbox": [
                     "atomiswave",
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ],
                 "retrobat": [
                     "atomiswave"
@@ -16638,7 +16737,8 @@
                     "Sega Model 2"
                 ],
                 "screenscraper": [
-                    54
+                    54,
+                    "75"
                 ],
                 "emucontrolcenter": [
                     "bw2",
@@ -16663,7 +16763,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ],
                 "tgdb": [
                     "23"
@@ -16700,7 +16801,8 @@
                     "Sega Model 3"
                 ],
                 "screenscraper": [
-                    55
+                    55,
+                    "75"
                 ],
                 "emucontrolcenter": [
                     "model3"
@@ -16711,7 +16813,8 @@
                 "recalbox": [
                     "model3",
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ],
                 "retrobat": [
                     "model3"
@@ -16771,7 +16874,8 @@
                 ],
                 "screenscraper": [
                     56,
-                    227
+                    227,
+                    "75"
                 ],
                 "emucontrolcenter": [
                     "naomi"
@@ -16784,7 +16888,8 @@
                     "naomi",
                     "naomigd",
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ],
                 "retrobat": [
                     "naomi"
@@ -16839,7 +16944,8 @@
                     "Sega NAOMI 2 - Games"
                 ],
                 "screenscraper": [
-                    230
+                    230,
+                    "75"
                 ],
                 "retrobat": [
                     "naomi2"
@@ -16854,7 +16960,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ]
             },
             "company": "Sega",
@@ -17006,7 +17113,8 @@
                     "Sega ST-V"
                 ],
                 "screenscraper": [
-                    69
+                    69,
+                    "75"
                 ],
                 "arrm": [
                     "stv"
@@ -17021,7 +17129,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ],
                 "mobygames": [
                     "arcade"
@@ -18649,7 +18758,8 @@
                     "Taito Type X"
                 ],
                 "screenscraper": [
-                    112
+                    112,
+                    "75"
                 ],
                 "retropie": [
                     "arcade",
@@ -18661,7 +18771,8 @@
                 ],
                 "recalbox": [
                     "mame",
-                    "fba"
+                    "fba",
+                    "fbneo"
                 ]
             },
             "company": "Taito",
@@ -18990,7 +19101,8 @@
             "name": "Oric-1 & Oric Atmos",
             "matches": {
                 "arrm": [
-                    "oric"
+                    "oric",
+                    "oricatmos"
                 ],
                 "tosec": [
                     "Tangerine Oric-1 & Oric Atmos - Applications - [DSK]",
@@ -19045,6 +19157,15 @@
                 ],
                 "attractmode": [
                     "Tangerine Oric"
+                ],
+                "recalbox": [
+                    "oricatmos"
+                ],
+                "retrobat": [
+                    "oricatmos"
+                ],
+                "gamesdatabase": [
+                    "tangerine-oric"
                 ]
             },
             "company": "Tangerine",
@@ -20269,13 +20390,15 @@
                     "Tsukuda Original Othello Multivision - Games"
                 ],
                 "launchbox": [
-                    "Othello Multivision"
+                    "Othello Multivision",
+                    "Sega SG-1000"
                 ],
                 "emulationstation-de": [
                     "multivision"
                 ],
                 "recalbox": [
-                    "multivision"
+                    "multivision",
+                    "sg1000"
                 ],
                 "arrm": [
                     "multivision"
@@ -20297,6 +20420,9 @@
                 ],
                 "attractmode": [
                     "Othello Multivision"
+                ],
+                "retropie": [
+                    "sg-1000"
                 ]
             },
             "company": "Tsukuda Original",

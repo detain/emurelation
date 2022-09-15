@@ -32,12 +32,12 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [MAME](sources/mame.json) | Emulator | 649 | 15 | 664 | 97.7% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 183 | 0 | 183 | 100% |
-| [RetroBat](sources/retrobat.json) | Frontend | 128 | 24 | 152 | 84.2% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
-| [RecalBox](sources/recalbox.json) | Frontend | 97 | 29 | 126 | 77% |
+| [RetroBat](sources/retrobat.json) | Frontend | 130 | 22 | 152 | 85.5% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 135 | 21 | 156 | 86.5% |
+| [RecalBox](sources/recalbox.json) | Frontend | 98 | 28 | 126 | 77.8% |
 | [RetroPie](sources/retropie.json) | Frontend | 76 | 6 | 82 | 92.7% |
 | [WinDSPro](sources/windspro.json) | Frontend | 15 | 36 | 51 | 29.4% |
-| [ARRM](sources/arrm.json) | Tools | 211 | 64 | 275 | 76.7% |
+| [ARRM](sources/arrm.json) | Tools | 213 | 62 | 275 | 77.5% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 175 | 22 | 197 | 88.8% |
 
 ### 💾 Emulators
