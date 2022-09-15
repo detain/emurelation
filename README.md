@@ -16,7 +16,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 801 | 0 | 801 | 100% |
+| [Local](sources/local.json) | Custom | 797 | 0 | 797 | 100% |
 | [Redump](sources/redump.json) | DAT | 51 | 0 | 51 | 100% |
 | [No-Intro](sources/nointro.json) | DAT | 266 | 18 | 284 | 93.7% |
 | [TOSEC](sources/tosec.json) | DAT | 2429 | 1 | 2430 | 100% |
@@ -40,13 +40,13 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 767 | 0 | 767 | 100% |
+| [Local](sources/local.json) | Custom | 765 | 0 | 765 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 3 | 0 | 3 | 100% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 116 | 350 | 466 | 24.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 96 | 0 | 96 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
 | [RetroBat](sources/retrobat.json) | Frontend | 0 | 0 | 0 | 0% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 161 | 3 | 164 | 98.2% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 162 | 5 | 167 | 97% |
 | [RecalBox](sources/recalbox.json) | Frontend | 159 | 0 | 159 | 100% |
 | [RetroPie](sources/retropie.json) | Frontend | 153 | 0 | 153 | 100% |
 | [WinDSPro](sources/windspro.json) | Frontend | 82 | 9 | 91 | 90.1% |
