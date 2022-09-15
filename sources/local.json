@@ -1658,6 +1658,9 @@
                 "arrm": [
                     "a2600",
                     "atari2600"
+                ],
+                "windspro": [
+                    "Atari"
                 ]
             },
             "company": "Atari",
@@ -1719,6 +1722,9 @@
                 "arrm": [
                     "a5200",
                     "atari5200"
+                ],
+                "windspro": [
+                    "Atari 5200"
                 ]
             },
             "company": "Atari",
@@ -1956,6 +1962,9 @@
                 "arrm": [
                     "atarijaguar",
                     "jaguar"
+                ],
+                "windspro": [
+                    "Atari Jaguar"
                 ]
             },
             "company": "Atari",
@@ -2069,6 +2078,9 @@
                     "atarilynx",
                     "camplynx",
                     "lynx"
+                ],
+                "windspro": [
+                    "Atari Lynx"
                 ]
             },
             "company": "Atari",
@@ -3300,6 +3312,9 @@
                 ],
                 "arrm": [
                     "colecovision"
+                ],
+                "windspro": [
+                    "Coleco"
                 ]
             },
             "company": "Coleco",
@@ -5526,6 +5541,9 @@
                 ],
                 "arrm": [
                     "dos"
+                ],
+                "windspro": [
+                    "DOS"
                 ]
             },
             "company": "Dragon",
@@ -7224,6 +7242,9 @@
                 ],
                 "arrm": [
                     "windows"
+                ],
+                "windspro": [
+                    "Win32"
                 ]
             },
             "company": "Generic",
@@ -9219,6 +9240,9 @@
                 ],
                 "arrm": [
                     "msx"
+                ],
+                "windspro": [
+                    "MSX"
                 ]
             },
             "company": "MSX",
@@ -10126,6 +10150,9 @@
                 ],
                 "arrm": [
                     "xbox"
+                ],
+                "windspro": [
+                    "Microsoft XBOX"
                 ]
             },
             "company": "Microsoft",
@@ -10183,6 +10210,9 @@
                 "arrm": [
                     "x360",
                     "xbox360"
+                ],
+                "windspro": [
+                    "Microsoft XBOX 360"
                 ]
             },
             "company": "Microsoft",
@@ -11452,6 +11482,9 @@
                 ],
                 "arrm": [
                     "nes"
+                ],
+                "windspro": [
+                    "Nintendo"
                 ]
             },
             "company": "Nintendo"
@@ -11871,6 +11904,9 @@
                 ],
                 "arrm": [
                     "pokemini"
+                ],
+                "windspro": [
+                    "Pokémon Mini"
                 ]
             },
             "company": "Nintendo",
@@ -12019,6 +12055,9 @@
                 "arrm": [
                     "sfc",
                     "snes"
+                ],
+                "windspro": [
+                    "Super Nintendo (SNES)"
                 ]
             },
             "company": "Nintendo",
@@ -12053,6 +12092,9 @@
                 ],
                 "arrm": [
                     "switch"
+                ],
+                "windspro": [
+                    "Nintendo switch"
                 ]
             },
             "company": "Nintendo",
@@ -12998,7 +13040,7 @@
         },
         "Publications International Ltd. Story Reader": {
             "id": "Publications International Ltd. Story Reader",
-            "name": " Story Reader",
+            "name": "Story Reader",
             "matches": {
                 "mame": [
                     "pi_storyreader_cart"
@@ -14924,6 +14966,9 @@
                 ],
                 "arrm": [
                     "saturn"
+                ],
+                "windspro": [
+                    "Sega Saturn"
                 ]
             },
             "company": "Sega",

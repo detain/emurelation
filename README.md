@@ -24,6 +24,9 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [TOSEC-PIX](sources/tosecpix.json) | DAT | 634 | 227 | 861 | 73.6% |
 | [TheGamesDB](sources/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
 | [ScreenScraper](sources/screenscraper.json) | API | 163 | 67 | 230 | 70.9% |
+| [IGDB](sources/igdb.json) | API | 0 | 0 | 0 | 0% |
+| [HFS-DB](sources/hfsdb.json) | API | 0 | 0 | 0 | 0% |
+| [MobyGames](sources/mobygames.json) | API | 0 | 0 | 0 | 0% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 182 | 1105 | 1287 | 14.1% |
 | [GameTDB](sources/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](sources/emulationking.json) | Website | 34 | 0 | 34 | 100% |
@@ -33,6 +36,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 134 | 22 | 156 | 85.9% |
 | [RecalBox](sources/recalbox.json) | Frontend | 96 | 30 | 126 | 76.2% |
 | [RetroPie](sources/retropie.json) | Frontend | 71 | 6 | 77 | 92.2% |
+| [WinDSPro](sources/windspro.json) | Frontend | 15 | 36 | 51 | 29.4% |
 | [ARRM](sources/arrm.json) | Tools | 211 | 64 | 275 | 76.7% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 175 | 22 | 197 | 88.8% |
 
