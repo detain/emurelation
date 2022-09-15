@@ -95,7 +95,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 ### ☑ TODO
 
 - merge duplicate emulators in local list
-- remove excess local platforms without at least 1 nointro/redump/tosec/mame match
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
 - Setup source exports for
   - Frontends
@@ -110,6 +109,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - GamesTDB
   - Tools
     - skeletonKey
+    - scoop-emulators
   - Websites
     - GamesDatabase
     - EmuCR

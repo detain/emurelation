@@ -22,13 +22,15 @@
             "id": "amiga1200",
             "shortName": "amiga1200",
             "name": "Commodore Amiga 1200",
-            "altNames": []
+            "altNames": [],
+            "parent": "amiga"
         },
         "amiga600": {
             "id": "amiga600",
             "shortName": "amiga600",
             "name": "Commodore Amiga 600",
-            "altNames": []
+            "altNames": [],
+            "parent": "amiga"
         },
         "amigacd32": {
             "id": "amigacd32",
@@ -100,7 +102,8 @@
             "id": "atarijaguar",
             "shortName": "atarijaguar",
             "name": "Atari Jaguar",
-            "altNames": []
+            "altNames": [],
+            "parent": "atarijaguarcd"
         },
         "atarijaguarcd": {
             "id": "atarijaguarcd",
@@ -130,7 +133,8 @@
             "id": "atomiswave",
             "shortName": "atomiswave",
             "name": "Atomiswave",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "bbcmicro": {
             "id": "bbcmicro",
@@ -166,7 +170,8 @@
             "id": "chailove",
             "shortName": "chailove",
             "name": "ChaiLove Game Engine",
-            "altNames": []
+            "altNames": [],
+            "parent": "love"
         },
         "channelf": {
             "id": "channelf",
@@ -190,7 +195,8 @@
             "id": "cps",
             "shortName": "cps",
             "name": "Capcom Play System",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "daphne": {
             "id": "daphne",
@@ -202,13 +208,15 @@
             "id": "desktop",
             "shortName": "desktop",
             "name": "Desktop Applications",
-            "altNames": []
+            "altNames": [],
+            "parent": "pc"
         },
         "doom": {
             "id": "doom",
             "shortName": "doom",
             "name": "Doom",
-            "altNames": []
+            "altNames": [],
+            "parent": "pcwindows"
         },
         "dos": {
             "id": "dos",
@@ -238,7 +246,8 @@
             "id": "epic",
             "shortName": "epic",
             "name": "Epic Games Store",
-            "altNames": []
+            "altNames": [],
+            "parent": "pcwindows"
         },
         "famicom": {
             "id": "famicom",
@@ -250,13 +259,15 @@
             "id": "fba",
             "shortName": "fba",
             "name": "FinalBurn Alpha",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "fbneo": {
             "id": "fbneo",
             "shortName": "fbneo",
             "name": "FinalBurn Neo",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "fds": {
             "id": "fds",
@@ -334,19 +345,22 @@
             "id": "j2me",
             "shortName": "j2me",
             "name": "Java 2 Micro Edition (J2ME)",
-            "altNames": []
+            "altNames": [],
+            "parent": "android"
         },
         "kodi": {
             "id": "kodi",
             "shortName": "kodi",
             "name": "Kodi Home Theatre Software",
-            "altNames": []
+            "altNames": [],
+            "parent": "pc"
         },
         "lutris": {
             "id": "lutris",
             "shortName": "lutris",
             "name": "Lutris Open Gaming Platform",
-            "altNames": []
+            "altNames": [],
+            "parent": "pc"
         },
         "lutro": {
             "id": "lutro",
@@ -364,19 +378,22 @@
             "id": "mame",
             "shortName": "mame",
             "name": "Multiple Arcade Machine Emulator",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "mame-advmame": {
             "id": "mame-advmame",
             "shortName": "mame-advmame",
             "name": "AdvanceMAME",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "mame-mame4all": {
             "id": "mame-mame4all",
             "shortName": "mame-mame4all",
             "name": "MAME4ALL",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "mastersystem": {
             "id": "mastersystem",
@@ -388,13 +405,15 @@
             "id": "megacd",
             "shortName": "megacd",
             "name": "Sega Mega-CD",
-            "altNames": []
+            "altNames": [],
+            "parent": "segacd"
         },
         "megacdjp": {
             "id": "megacdjp",
             "shortName": "megacdjp",
             "name": "Sega Mega-CD",
-            "altNames": []
+            "altNames": [],
+            "parent": "segacd"
         },
         "megadrive": {
             "id": "megadrive",
@@ -418,13 +437,15 @@
             "id": "model2",
             "shortName": "model2",
             "name": "Sega Model 2",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "model3": {
             "id": "model3",
             "shortName": "model3",
             "name": "Sega Model 3",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "moonlight": {
             "id": "moonlight",
@@ -448,7 +469,8 @@
             "id": "msx1",
             "shortName": "msx1",
             "name": "MSX1",
-            "altNames": []
+            "altNames": [],
+            "parent": "msx"
         },
         "msx2": {
             "id": "msx2",
@@ -472,7 +494,8 @@
             "id": "multivision",
             "shortName": "multivision",
             "name": "Othello Multivision",
-            "altNames": []
+            "altNames": [],
+            "parent": "sg-1000"
         },
         "n3ds": {
             "id": "n3ds",
@@ -490,19 +513,22 @@
             "id": "n64dd",
             "shortName": "n64dd",
             "name": "Nintendo 64DD",
-            "altNames": []
+            "altNames": [],
+            "parent": "n64"
         },
         "naomi": {
             "id": "naomi",
             "shortName": "naomi",
             "name": "Sega NAOMI",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "naomigd": {
             "id": "naomigd",
             "shortName": "naomigd",
             "name": "Sega NAOMI GD-ROM",
-            "altNames": []
+            "altNames": [],
+            "parent": "arcade"
         },
         "nds": {
             "id": "nds",
@@ -526,7 +552,8 @@
             "id": "neogeocdjp",
             "shortName": "neogeocdjp",
             "name": "SNK Neo Geo CD",
-            "altNames": []
+            "altNames": [],
+            "parent": "neogeocd"
         },
         "nes": {
             "id": "nes",
@@ -622,7 +649,8 @@
             "id": "ports",
             "shortName": "ports",
             "name": "Ports",
-            "altNames": []
+            "altNames": [],
+            "parent": "pc"
         },
         "ps2": {
             "id": "ps2",
@@ -682,7 +710,8 @@
             "id": "saturnjp",
             "shortName": "saturnjp",
             "name": "Sega Saturn",
-            "altNames": []
+            "altNames": [],
+            "parent": "saturn"
         },
         "scummvm": {
             "id": "scummvm",
@@ -700,13 +729,15 @@
             "id": "sega32xjp",
             "shortName": "sega32xjp",
             "name": "Sega Super 32X",
-            "altNames": []
+            "altNames": [],
+            "parent": "sega32x"
         },
         "sega32xna": {
             "id": "sega32xna",
             "shortName": "sega32xna",
             "name": "Sega Genesis 32X",
-            "altNames": []
+            "altNames": [],
+            "parent": "sega32x"
         },
         "segacd": {
             "id": "segacd",
@@ -718,7 +749,8 @@
             "id": "sfc",
             "shortName": "sfc",
             "name": "Nintendo SFC (Super Famicom)",
-            "altNames": []
+            "altNames": [],
+            "parent": "snes"
         },
         "sg-1000": {
             "id": "sg-1000",
@@ -730,7 +762,8 @@
             "id": "sgb",
             "shortName": "sgb",
             "name": "Nintendo Super Game Boy",
-            "altNames": []
+            "altNames": [],
+            "parent": "gb"
         },
         "snes": {
             "id": "snes",
@@ -742,7 +775,8 @@
             "id": "snesna",
             "shortName": "snesna",
             "name": "Nintendo SNES (Super Nintendo)",
-            "altNames": []
+            "altNames": [],
+            "parent": "snes"
         },
         "solarus": {
             "id": "solarus",
@@ -796,25 +830,29 @@
             "id": "symbian",
             "shortName": "symbian",
             "name": "Symbian",
-            "altNames": []
+            "altNames": [],
+            "parent": "android"
         },
         "tanodragon": {
             "id": "tanodragon",
             "shortName": "tanodragon",
             "name": "Tano Dragon",
-            "altNames": []
+            "altNames": [],
+            "parent": "dragon32"
         },
         "tg16": {
             "id": "tg16",
             "shortName": "tg16",
             "name": "NEC TurboGrafx-16",
-            "altNames": []
+            "altNames": [],
+            "parent": "pcengine"
         },
         "tg-cd": {
             "id": "tg-cd",
             "shortName": "tg-cd",
             "name": "NEC TurboGrafx-CD",
-            "altNames": []
+            "altNames": [],
+            "parent": "pcenginecd"
         },
         "ti99": {
             "id": "ti99",
@@ -832,7 +870,8 @@
             "id": "to8",
             "shortName": "to8",
             "name": "Thomson TO8",
-            "altNames": []
+            "altNames": [],
+            "parent": "moto"
         },
         "trs-80": {
             "id": "trs-80",
@@ -1055,6 +1094,7 @@
                 "arcade",
                 "astrocde",
                 "cps",
+                "gameandwatch",
                 "gx4000",
                 "mame",
                 "ti99"
@@ -1186,16 +1226,6 @@
             ],
             "altNames": []
         },
-        "Model 2 Emulator [Suspend ES-DE]": {
-            "id": "Model 2 Emulator [Suspend ES-DE]",
-            "name": "Model 2 Emulator [Suspend ES-DE]",
-            "platforms": [
-                "arcade",
-                "mame",
-                "model2"
-            ],
-            "altNames": []
-        },
         "Supermodel": {
             "id": "Supermodel",
             "name": "Supermodel",
@@ -1309,12 +1339,10 @@
                 "chailove",
                 "channelf",
                 "fbneo",
-                "gameandwatch",
                 "intellivision",
                 "lutro",
                 "mess",
                 "moto",
-                "msxturbor",
                 "multivision",
                 "neogeo",
                 "neogeocd",
@@ -1342,18 +1370,17 @@
                 "chailove_libretro",
                 "freechaf_libretro",
                 "fbneo_libretro",
-                "gw_libretro",
                 "freeintv_libretro",
                 "lutro_libretro",
                 "mess2015_libretro",
                 "theodore_libretro",
-                "bluemsx_libretro",
                 "gearsystem_libretro",
                 "neocd_libretro",
                 "o2em_libretro",
                 "mu_libretro",
                 "quasi88_libretro",
                 "pokemini_libretro",
+                "bluemsx_libretro",
                 "tic80_libretro",
                 "uzem_libretro",
                 "vecx_libretro",
@@ -1485,6 +1512,7 @@
                 "msx",
                 "msx1",
                 "msx2",
+                "msxturbor",
                 "sg-1000"
             ],
             "altNames": [
@@ -1547,22 +1575,6 @@
             "name": "Hypseus [Singe]",
             "platforms": [
                 "daphne"
-            ],
-            "altNames": []
-        },
-        "Suspend ES-DE": {
-            "id": "Suspend ES-DE",
-            "name": "Suspend ES-DE",
-            "platforms": [
-                "desktop"
-            ],
-            "altNames": []
-        },
-        "Keep ES-DE running": {
-            "id": "Keep ES-DE running",
-            "name": "Keep ES-DE running",
-            "platforms": [
-                "desktop"
             ],
             "altNames": []
         },
@@ -1784,6 +1796,24 @@
             "name": "Tsugaru",
             "platforms": [
                 "fmtowns"
+            ],
+            "altNames": []
+        },
+        "RetroArch (Handheld Electronic (GW))": {
+            "id": "RetroArch (Handheld Electronic (GW))",
+            "name": "RetroArch (Handheld Electronic (GW))",
+            "platforms": [
+                "gameandwatch"
+            ],
+            "altNames": [
+                "gw_libretro"
+            ]
+        },
+        "MAME Local Artwork": {
+            "id": "MAME Local Artwork",
+            "name": "MAME Local Artwork",
+            "platforms": [
+                "gameandwatch"
             ],
             "altNames": []
         },
@@ -2108,6 +2138,28 @@
                 "fmsx_libretro"
             ]
         },
+        "openMSX": {
+            "id": "openMSX",
+            "name": "openMSX",
+            "platforms": [
+                "msx",
+                "msx1",
+                "msx2",
+                "msxturbor"
+            ],
+            "altNames": []
+        },
+        "openMSX No Machine": {
+            "id": "openMSX No Machine",
+            "name": "openMSX No Machine",
+            "platforms": [
+                "msx",
+                "msx1",
+                "msx2",
+                "msxturbor"
+            ],
+            "altNames": []
+        },
         "M.U.G.E.N": {
             "id": "M.U.G.E.N",
             "name": "M.U.G.E.N",
@@ -2173,6 +2225,14 @@
             "altNames": [
                 "parallel_n64_libretro"
             ]
+        },
+        "simple64": {
+            "id": "simple64",
+            "name": "simple64",
+            "platforms": [
+                "n64"
+            ],
+            "altNames": []
         },
         "Project64": {
             "id": "Project64",
@@ -2559,6 +2619,15 @@
             "altNames": [
                 "yabause_libretro"
             ]
+        },
+        "SSF": {
+            "id": "SSF",
+            "name": "SSF",
+            "platforms": [
+                "saturn",
+                "saturnjp"
+            ],
+            "altNames": []
         },
         "RetroArch (ScummVM)": {
             "id": "RetroArch (ScummVM)",
