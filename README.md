@@ -50,7 +50,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [RecalBox](sources/recalbox.json) | Frontend | 159 | 0 | 159 | 100% |
 | [RetroPie](sources/retropie.json) | Frontend | 153 | 0 | 153 | 100% |
 | [WinDSPro](sources/windspro.json) | Frontend | 82 | 9 | 91 | 90.1% |
-| [ARRM](sources/arrm.json) | Tools | 0 | 0 | 0 | 0% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
 
 ### 🏭 Companies

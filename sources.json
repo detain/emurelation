@@ -332,7 +332,7 @@
             "platforms"
         ],
         "description": "EmulationStation Desktop Edition is a frontend for browsing and launching games from your multi-platform game collection.",
-        "updatedLast": 1663207234,
+        "updatedLast": 1663218361,
         "updateTrigger": "commit",
         "web": {
             "https://es-de.org/": "home",
@@ -427,7 +427,7 @@
             "platforms"
         ],
         "description": "A frontend for launching emulators.",
-        "updatedLast": 1663094714,
+        "updatedLast": 1663218300,
         "updateTrigger": "commit",
         "web": {
             "https://windsprocentral.blogspot.com/": "home",
@@ -439,11 +439,11 @@
         "name": "ARRM",
         "type": "Tools",
         "provides": [
-            "emulators",
+            "companies",
             "platforms"
         ],
         "description": "Another Gamelist, Roms manager, and Scraper for Recalbox, Batocera, Retropie, Retrobat & Emulationstation",
-        "updatedLast": 1663068394,
+        "updatedLast": 1663219899,
         "updateTrigger": "commit",
         "web": {
             "http://jujuvincebros.fr/hard-soft/arrm-gamelist-roms-manager-scraper": "home"

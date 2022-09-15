@@ -263,7 +263,6 @@
             "shortName": "2048",
             "name": "2048",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "3do": {
@@ -271,7 +270,6 @@
             "shortName": "3do",
             "name": "3DO",
             "manufacturer": "Panasonic",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -308,7 +306,6 @@
             "shortName": "3ds",
             "name": "Nintendo 3DS",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -353,7 +350,6 @@
             "shortName": "64dd",
             "name": "Nintendo 64",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -398,7 +394,6 @@
             "shortName": "a2600",
             "name": "Atari 2600",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -431,7 +426,6 @@
             "shortName": "a5200",
             "name": "Atari 5200",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -464,7 +458,6 @@
             "shortName": "a7800",
             "name": "Atari 7800",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -497,7 +490,6 @@
             "shortName": "a800",
             "name": "Atari 800",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -526,7 +518,6 @@
             "shortName": "adam",
             "name": "Coleco ADAM",
             "manufacturer": "Coleco",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -567,7 +558,6 @@
             "shortName": "advision",
             "name": "Adventure Vision",
             "manufacturer": "Entex",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -600,7 +590,6 @@
             "shortName": "ags",
             "name": "--ags",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "amiga1000": {
@@ -608,7 +597,6 @@
             "shortName": "amiga1000",
             "name": "Amiga 1000",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -641,7 +629,6 @@
             "shortName": "amiga1200",
             "name": "Amiga 1200",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -682,7 +669,6 @@
             "shortName": "amiga3000",
             "name": "Amiga 3000",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -715,7 +701,6 @@
             "shortName": "amiga4000",
             "name": "Amiga 4000",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -748,7 +733,6 @@
             "shortName": "amiga500+",
             "name": "Amiga 500+",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": []
         },
         "amiga500": {
@@ -756,7 +740,6 @@
             "shortName": "amiga500",
             "name": "Amiga 500",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -789,7 +772,6 @@
             "shortName": "amiga600",
             "name": "Amiga 600",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -830,7 +812,6 @@
             "shortName": "amiga",
             "name": "Amiga",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -871,7 +852,6 @@
             "shortName": "amigacd32",
             "name": "Amiga CD32",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -916,7 +896,6 @@
             "shortName": "amigacdtv",
             "name": "CDTV",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -961,7 +940,6 @@
             "shortName": "amstradcpc",
             "name": "Amstrad CPC",
             "manufacturer": "Amstrad",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1006,7 +984,6 @@
             "shortName": "apfm1000",
             "name": "APF-M1000",
             "manufacturer": "APF Electronics Inc.",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1035,7 +1012,6 @@
             "shortName": "apple2",
             "name": "Apple II",
             "manufacturer": "Apple",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1076,7 +1052,6 @@
             "shortName": "apple2gs",
             "name": "Apple IIGS",
             "manufacturer": "Apple",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1117,7 +1092,6 @@
             "shortName": "arcade",
             "name": "Arcade",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1154,7 +1128,6 @@
             "shortName": "arcadia",
             "name": "Arcadia 2001",
             "manufacturer": "Emerson Radio",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1187,7 +1160,6 @@
             "shortName": "archimedes",
             "name": "Archimedes",
             "manufacturer": "Acorn Computers",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1224,7 +1196,6 @@
             "shortName": "art",
             "name": "--art",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "astrocde": {
@@ -1232,7 +1203,6 @@
             "shortName": "astrocde",
             "name": "Bally Astrocade",
             "manufacturer": "Bally",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1265,7 +1235,6 @@
             "shortName": "atari2600",
             "name": "Atari 2600",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1314,7 +1283,6 @@
             "shortName": "atari5200",
             "name": "Atari 5200",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1363,7 +1331,6 @@
             "shortName": "atari7800",
             "name": "Atari 7800",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1412,7 +1379,6 @@
             "shortName": "atari800",
             "name": "Atari 800",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1461,7 +1427,6 @@
             "shortName": "atarifalcon",
             "name": "Atari Falcon030",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -1474,7 +1439,6 @@
             "shortName": "atarijaguar",
             "name": "Jaguar",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1519,7 +1483,6 @@
             "shortName": "atarijaguarcd",
             "name": "Atari Jaguar CD",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1564,7 +1527,6 @@
             "shortName": "atarilynx",
             "name": "Lynx",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1609,7 +1571,6 @@
             "shortName": "atarist",
             "name": "Atari ST",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1654,7 +1615,6 @@
             "shortName": "atarixe",
             "name": "Atari XE",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1675,7 +1635,6 @@
             "shortName": "atom",
             "name": "Atom",
             "manufacturer": "Acorn Computers",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1712,7 +1671,6 @@
             "shortName": "atomiswave",
             "name": "Atomiswave",
             "manufacturer": "Sammy",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1757,7 +1715,6 @@
             "shortName": "bbc",
             "name": "BBC Micro",
             "manufacturer": "Acorn computers",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -1778,7 +1735,6 @@
             "shortName": "bbcmicro",
             "name": "BBC Micro",
             "manufacturer": "Acorn computers",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1823,7 +1779,6 @@
             "shortName": "bk",
             "name": "Electronika BK",
             "manufacturer": "Electronika",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -1852,7 +1807,6 @@
             "shortName": "c128",
             "name": "Commodore 64",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1897,7 +1851,6 @@
             "shortName": "c20",
             "name": "Commodore 64",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1942,7 +1895,6 @@
             "shortName": "c64",
             "name": "Commodore 64",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -1987,7 +1939,6 @@
             "shortName": "camplynx",
             "name": "Camputers Lynx",
             "manufacturer": "Camputers",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -2012,7 +1963,6 @@
             "shortName": "cannonball",
             "name": "Arcade",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2041,7 +1991,6 @@
             "shortName": "cave3rd",
             "name": "Cave CV1000",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2070,7 +2019,6 @@
             "shortName": "cavestory",
             "name": "Cave Story",
             "manufacturer": "Daisuke Amaya",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2095,7 +2043,6 @@
             "shortName": "cd-i",
             "name": "CD-i",
             "manufacturer": "Philips",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2132,7 +2079,6 @@
             "shortName": "cdi",
             "name": "CD-i",
             "manufacturer": "Philips",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2169,7 +2115,6 @@
             "shortName": "cgenius",
             "name": "--cgenius",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "channel-f": {
@@ -2177,7 +2122,6 @@
             "shortName": "channel-f",
             "name": "Fairchild Channel F",
             "manufacturer": "Fairchild Semiconductor",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2222,7 +2166,6 @@
             "shortName": "channelf",
             "name": "Fairchild Channel F",
             "manufacturer": "Fairchild Semiconductor",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2267,7 +2210,6 @@
             "shortName": "chihiro",
             "name": "Arcade",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -2304,7 +2246,6 @@
             "shortName": "coco",
             "name": "TRS-80",
             "manufacturer": "Tandy",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -2325,7 +2266,6 @@
             "shortName": "colecovision",
             "name": "ColecoVision",
             "manufacturer": "Coleco",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2362,7 +2302,6 @@
             "shortName": "cplus4",
             "name": "Commodore Plus/4",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2407,7 +2346,6 @@
             "shortName": "cps1",
             "name": "Arcade",
             "manufacturer": "Capcom",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -2448,7 +2386,6 @@
             "shortName": "cps2",
             "name": "Arcade",
             "manufacturer": "Capcom",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -2489,7 +2426,6 @@
             "shortName": "cps3",
             "name": "Arcade",
             "manufacturer": "Capcom",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -2530,7 +2466,6 @@
             "shortName": "crvision",
             "name": "CreatiVision",
             "manufacturer": "VTech",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2563,7 +2498,6 @@
             "shortName": "daphne",
             "name": "Daphne",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2600,7 +2534,6 @@
             "shortName": "devilutionx",
             "name": "DevilutionxX",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "dinothawr": {
@@ -2608,7 +2541,6 @@
             "shortName": "dinothawr",
             "name": "Dinothawr",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "doom": {
@@ -2616,7 +2548,6 @@
             "shortName": "doom",
             "name": "Doom",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2657,7 +2588,6 @@
             "shortName": "dos",
             "name": "DOS (x86)",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2702,7 +2632,6 @@
             "shortName": "dragon32",
             "name": "Dragon 32",
             "manufacturer": "Dargon Data",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2743,7 +2672,6 @@
             "shortName": "dragon",
             "name": "Dragon 32",
             "manufacturer": "Dargon Data",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2788,7 +2716,6 @@
             "shortName": "dreamcast",
             "name": "Dreamcast",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2829,7 +2756,6 @@
             "shortName": "easyrpg",
             "name": "Easy RPG",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -2854,7 +2780,6 @@
             "shortName": "ecwolf",
             "name": "ecwolf",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "electron": {
@@ -2862,7 +2787,6 @@
             "shortName": "electron",
             "name": "Electron",
             "manufacturer": "Acorn Computers",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2899,7 +2823,6 @@
             "shortName": "favorites",
             "name": "--Favorites",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "fba": {
@@ -2907,7 +2830,6 @@
             "shortName": "fba",
             "name": "Final Burn Alpha",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2948,7 +2870,6 @@
             "shortName": "fba_libretro",
             "name": "Final Burn Alpha",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -2989,7 +2910,6 @@
             "shortName": "fbneo",
             "name": "Final Burn Neo",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3034,7 +2954,6 @@
             "shortName": "fds",
             "name": "Famicom Disk System",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3075,7 +2994,6 @@
             "shortName": "flash",
             "name": "Flash",
             "manufacturer": "Adobe",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3108,7 +3026,6 @@
             "shortName": "flashback",
             "name": "Flashback",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "flatpak": {
@@ -3116,7 +3033,6 @@
             "shortName": "flatpak",
             "name": "--flatpak",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "fm-7": {
@@ -3124,7 +3040,6 @@
             "shortName": "fm-7",
             "name": "FM-7",
             "manufacturer": "Fujitsu",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3157,7 +3072,6 @@
             "shortName": "fm7",
             "name": "FM-7",
             "manufacturer": "Fujitsu",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3190,7 +3104,6 @@
             "shortName": "fmtowns",
             "name": "FM Towns",
             "manufacturer": "Fujitsu",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3231,7 +3144,6 @@
             "shortName": "fpinball",
             "name": "Future Pinball",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -3260,7 +3172,6 @@
             "shortName": "gaelco",
             "name": "Arcade",
             "manufacturer": "Gaelco",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -3297,7 +3208,6 @@
             "shortName": "gamate",
             "name": "Gamate",
             "manufacturer": "Bitcorp",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3310,7 +3220,6 @@
             "shortName": "gameandwatch",
             "name": "Game and Watch",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3347,7 +3256,6 @@
             "shortName": "gamecom",
             "name": "Game.com",
             "manufacturer": "Tiger Electronics",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3376,7 +3284,6 @@
             "shortName": "gamecube",
             "name": "Nintendo Gamecube",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3421,7 +3328,6 @@
             "shortName": "gamegear",
             "name": "Game Gear",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3466,7 +3372,6 @@
             "shortName": "gamepock",
             "name": "Game Pocket Computer",
             "manufacturer": "Epoch",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -3487,7 +3392,6 @@
             "shortName": "gb",
             "name": "Game Boy",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3532,7 +3436,6 @@
             "shortName": "gba",
             "name": "Game Boy Advance",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3577,7 +3480,6 @@
             "shortName": "gbc2players",
             "name": "Game Boy Color 2 players",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -3590,7 +3492,6 @@
             "shortName": "gbc",
             "name": "Game Boy Color",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3635,7 +3536,6 @@
             "shortName": "gc",
             "name": "Nintendo Gamecube",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3684,7 +3584,6 @@
             "shortName": "genesis",
             "name": "Genesis",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3729,7 +3628,6 @@
             "shortName": "gw",
             "name": "Game and Watch",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3766,7 +3664,6 @@
             "shortName": "gx4000",
             "name": "GX-4000",
             "manufacturer": "Amstrad",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3811,7 +3708,6 @@
             "shortName": "hbmame",
             "name": "Mame",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3848,7 +3744,6 @@
             "shortName": "hikaru",
             "name": "Arcade",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -3885,7 +3780,6 @@
             "shortName": "imageviewer",
             "name": "--Screenshots",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "intellivision": {
@@ -3893,7 +3787,6 @@
             "shortName": "intellivision",
             "name": "intellivision",
             "manufacturer": "Mattel",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3934,7 +3827,6 @@
             "shortName": "internet",
             "name": "Internet",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "j2me": {
@@ -3942,7 +3834,6 @@
             "shortName": "j2me",
             "name": "Java 2 MicroEdition",
             "manufacturer": "Sun",
-            "altNames": [],
             "matches": []
         },
         "jaguar": {
@@ -3950,7 +3841,6 @@
             "shortName": "jaguar",
             "name": "Jaguar",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -3995,7 +3885,6 @@
             "shortName": "jaguarcd",
             "name": "Atari Jaguar CD",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -4032,7 +3921,6 @@
             "shortName": "kodi",
             "name": "--kodi",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "lcdgames": {
@@ -4040,7 +3928,6 @@
             "shortName": "lcdgames",
             "name": "LCD Games",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4077,7 +3964,6 @@
             "shortName": "library",
             "name": "--library",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "lightgun": {
@@ -4085,7 +3971,6 @@
             "shortName": "lightgun",
             "name": "--LightGun",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "linux": {
@@ -4093,7 +3978,6 @@
             "shortName": "linux",
             "name": "Linux Games",
             "manufacturer": "Linux",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -4114,7 +3998,6 @@
             "shortName": "love",
             "name": "--love",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "lowresnx": {
@@ -4122,7 +4005,6 @@
             "shortName": "lowresnx",
             "name": "LowRes NX",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -4135,7 +4017,6 @@
             "shortName": "lutro",
             "name": "Lutro",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4156,7 +4037,6 @@
             "shortName": "lynx",
             "name": "Lynx",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4197,7 +4077,6 @@
             "shortName": "macintosh",
             "name": "Macintosh",
             "manufacturer": "Apple",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4230,7 +4109,6 @@
             "shortName": "mame-advmame",
             "name": "Mame",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -4263,7 +4141,6 @@
             "shortName": "mame-libretro",
             "name": "Mame",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4304,7 +4181,6 @@
             "shortName": "mame-mame4all",
             "name": "Mame",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4345,7 +4221,6 @@
             "shortName": "mame",
             "name": "Mame",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4382,7 +4257,6 @@
             "shortName": "mastersystem",
             "name": "Master System",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4427,7 +4301,6 @@
             "shortName": "medias",
             "name": "--medias",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "megacd": {
@@ -4435,7 +4308,6 @@
             "shortName": "megacd",
             "name": "Mega-CD",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -4472,7 +4344,6 @@
             "shortName": "megadrive",
             "name": "Mega Drive",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4517,7 +4388,6 @@
             "shortName": "megaduck",
             "name": "Mega Duck",
             "manufacturer": "Welback Holdings",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4550,7 +4420,6 @@
             "shortName": "mess",
             "name": "Mess",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -4563,7 +4432,6 @@
             "shortName": "model2",
             "name": "Sega Model 2",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4608,7 +4476,6 @@
             "shortName": "model3",
             "name": "Sega Model 3",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4653,7 +4520,6 @@
             "shortName": "moonlight",
             "name": "--Moonlight",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4686,7 +4552,6 @@
             "shortName": "mrboom",
             "name": "Mr. Boom",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "msu-md": {
@@ -4694,7 +4559,6 @@
             "shortName": "msu-md",
             "name": "MSU-MD",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4723,7 +4587,6 @@
             "shortName": "msx1",
             "name": "MSX1",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4768,7 +4631,6 @@
             "shortName": "msx2",
             "name": "MSX2",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4809,7 +4671,6 @@
             "shortName": "msx2+",
             "name": "MSX2 Plus",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -4842,7 +4703,6 @@
             "shortName": "msx",
             "name": "MSX",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4883,7 +4743,6 @@
             "shortName": "msxturbor",
             "name": "MSX Turbo R",
             "manufacturer": "Panasonic",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4924,7 +4783,6 @@
             "shortName": "mugen",
             "name": "MUGEN",
             "manufacturer": "Elecbyte",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -4957,7 +4815,6 @@
             "shortName": "multivision",
             "name": "Othello Multivision",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -4994,7 +4851,6 @@
             "shortName": "music",
             "name": "--music",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "n-gage": {
@@ -5002,7 +4858,6 @@
             "shortName": "n-gage",
             "name": "Nokia N-Gage",
             "manufacturer": "Nokia",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5031,7 +4886,6 @@
             "shortName": "n3ds",
             "name": "Nintendo 3DS",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5076,7 +4930,6 @@
             "shortName": "n64",
             "name": "Nintendo 64",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5117,7 +4970,6 @@
             "shortName": "n64dd",
             "name": "Nintendo 64DD",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5162,7 +5014,6 @@
             "shortName": "naomi",
             "name": "Naomi",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5203,7 +5054,6 @@
             "shortName": "naomigd",
             "name": "Naomi GD-ROM",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5244,7 +5094,6 @@
             "shortName": "nds",
             "name": "Nintendo DS",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5289,7 +5138,6 @@
             "shortName": "neogeo",
             "name": "Neo-Geo",
             "manufacturer": "SNK",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5334,7 +5182,6 @@
             "shortName": "neogeocd",
             "name": "Neo-Geo CD",
             "manufacturer": "SNK",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5379,7 +5226,6 @@
             "shortName": "neogeomini",
             "name": "Neo-Geo Mini",
             "manufacturer": "SNK",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5412,7 +5258,6 @@
             "shortName": "neogeox",
             "name": "Neo-Geo X",
             "manufacturer": "SNK",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5441,7 +5286,6 @@
             "shortName": "nes",
             "name": "Nintendo Entertainment System",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5482,7 +5326,6 @@
             "shortName": "nesmini",
             "name": "Nes Mini",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5515,7 +5358,6 @@
             "shortName": "ngage",
             "name": "Nokia N-Gage",
             "manufacturer": "Nokia",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5544,7 +5386,6 @@
             "shortName": "ngp",
             "name": "Neo-Geo Pocket",
             "manufacturer": "SNK",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5589,7 +5430,6 @@
             "shortName": "ngpc",
             "name": "Neo-Geo Pocket Color",
             "manufacturer": "SNK",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5634,7 +5474,6 @@
             "shortName": "np2pi",
             "name": "Nec PC-9801",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5655,7 +5494,6 @@
             "shortName": "o2em",
             "name": "Odyssey 2",
             "manufacturer": "Magnavox",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -5688,7 +5526,6 @@
             "shortName": "odyssey2",
             "name": "Odyssey 2",
             "manufacturer": "Magnavox",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5729,7 +5566,6 @@
             "shortName": "openbor",
             "name": "Openbor",
             "manufacturer": "Openbor",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -5758,7 +5594,6 @@
             "shortName": "oric",
             "name": "Oric 1",
             "manufacturer": "Tangerine Computer Systems",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5791,7 +5626,6 @@
             "shortName": "oricatmos",
             "name": "Oric / Atmos",
             "manufacturer": "Tangerine Computer Systems",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5832,7 +5666,6 @@
             "shortName": "palm",
             "name": "PalmOS",
             "manufacturer": "Plam Computing",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -5845,7 +5678,6 @@
             "shortName": "pc-fx",
             "name": "PC-FX",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5882,7 +5714,6 @@
             "shortName": "pc88",
             "name": "Nec PC-8801",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5927,7 +5758,6 @@
             "shortName": "pc98",
             "name": "Nec PC-9801",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -5972,7 +5802,6 @@
             "shortName": "pc",
             "name": "PC",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6017,7 +5846,6 @@
             "shortName": "pce-cd",
             "name": "PC-Engine CD",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6062,7 +5890,6 @@
             "shortName": "pce",
             "name": "PC-Engine",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6107,7 +5934,6 @@
             "shortName": "pcengine",
             "name": "PC-Engine",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6152,7 +5978,6 @@
             "shortName": "pcenginecd",
             "name": "PC-Engine CD",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6197,7 +6022,6 @@
             "shortName": "pcfx",
             "name": "PC-FX",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6242,7 +6066,6 @@
             "shortName": "pcv2",
             "name": "Benesse Pocket Challenge V2",
             "manufacturer": "Bandai",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -6255,7 +6078,6 @@
             "shortName": "pdp1",
             "name": "PDP-1",
             "manufacturer": "Digital Equipment Corporation",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -6268,7 +6090,6 @@
             "shortName": "pet",
             "name": "Commodore Pet",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6309,7 +6130,6 @@
             "shortName": "pico8",
             "name": "Pico8",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -6334,7 +6154,6 @@
             "shortName": "pinball",
             "name": "Pinball",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -6355,7 +6174,6 @@
             "shortName": "pinballfx3",
             "name": "Pinball FX3",
             "manufacturer": "Zen Studios",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -6372,7 +6190,6 @@
             "shortName": "plugnplay",
             "name": "--plugnplay",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "pokemini": {
@@ -6380,7 +6197,6 @@
             "shortName": "pokemini",
             "name": "Pokemon Mini",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6413,7 +6229,6 @@
             "shortName": "ports",
             "name": "Ports",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "prboom": {
@@ -6421,7 +6236,6 @@
             "shortName": "prboom",
             "name": "Prbooom",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6454,7 +6268,6 @@
             "shortName": "ps2",
             "name": "PlayStation 2",
             "manufacturer": "Sony",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6499,7 +6312,6 @@
             "shortName": "ps3",
             "name": "PlayStation 3",
             "manufacturer": "Sony",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6540,7 +6352,6 @@
             "shortName": "psp",
             "name": "PlayStation Portable",
             "manufacturer": "Sony",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6585,7 +6396,6 @@
             "shortName": "pspminis",
             "name": "PlayStation Portable Mini",
             "manufacturer": "Sony",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6618,7 +6428,6 @@
             "shortName": "psx",
             "name": "PlayStation",
             "manufacturer": "Sony",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6663,7 +6472,6 @@
             "shortName": "psxmini",
             "name": "PlayStation Classic Mini",
             "manufacturer": "Sony",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6696,7 +6504,6 @@
             "shortName": "pv1000",
             "name": "PV-1000",
             "manufacturer": "Casio",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6729,7 +6536,6 @@
             "shortName": "pygame",
             "name": "Pygame",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": []
         },
         "quake": {
@@ -6737,7 +6543,6 @@
             "shortName": "quake",
             "name": "Quake",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -6750,7 +6555,6 @@
             "shortName": "residualvm",
             "name": "ResidualVM",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -6767,7 +6571,6 @@
             "shortName": "retrobat",
             "name": "--retrobat",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "retropie": {
@@ -6775,7 +6578,6 @@
             "shortName": "retropie",
             "name": "--Retropie",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "rickdangerous": {
@@ -6783,7 +6585,6 @@
             "shortName": "rickdangerous",
             "name": "Rick Dangerous",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "samcoupe": {
@@ -6791,7 +6592,6 @@
             "shortName": "samcoupe",
             "name": "SAM Coupe",
             "manufacturer": "Miles Gordon Technology",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6828,7 +6628,6 @@
             "shortName": "sameduck",
             "name": "Mega Duck",
             "manufacturer": "Welback Holdings",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6861,7 +6660,6 @@
             "shortName": "satellaview",
             "name": "Satellaview",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -6894,7 +6692,6 @@
             "shortName": "saturn",
             "name": "Sega Saturn",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6939,7 +6736,6 @@
             "shortName": "screenshots",
             "name": "--screenshots",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "scummvm": {
@@ -6947,7 +6743,6 @@
             "shortName": "scummvm",
             "name": "ScummVM",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -6988,7 +6783,6 @@
             "shortName": "scv",
             "name": "Epoch Super Cassette Vision",
             "manufacturer": "Epoch",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7029,7 +6823,6 @@
             "shortName": "sdlpop",
             "name": "Sdlpop",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7062,7 +6855,6 @@
             "shortName": "sega32x",
             "name": "Mega Drive 32X",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7103,7 +6895,6 @@
             "shortName": "segacd",
             "name": "Mega-CD",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7148,7 +6939,6 @@
             "shortName": "sfc",
             "name": "Super Famicom",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7193,7 +6983,6 @@
             "shortName": "sg-1000",
             "name": "SG-1000",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7234,7 +7023,6 @@
             "shortName": "sg1000",
             "name": "SG-1000",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7279,7 +7067,6 @@
             "shortName": "sgb",
             "name": "Super Game Boy",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7316,7 +7103,6 @@
             "shortName": "shmups",
             "name": "Shoot'em Up",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -7349,7 +7135,6 @@
             "shortName": "snes-msu1",
             "name": "Super Disc System (MSU1)",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7394,7 +7179,6 @@
             "shortName": "snes",
             "name": "Super Nintendo",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7439,7 +7223,6 @@
             "shortName": "snesmini",
             "name": "Super NES Mini",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7472,7 +7255,6 @@
             "shortName": "solarus",
             "name": "Solarus",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -7489,7 +7271,6 @@
             "shortName": "sonicretro",
             "name": "SonicRetro",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": []
         },
         "socrates": {
@@ -7497,7 +7278,6 @@
             "shortName": "socrates",
             "name": "Socrates",
             "manufacturer": "VTech",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7518,7 +7298,6 @@
             "shortName": "spectravideo",
             "name": "Spectravideo",
             "manufacturer": "Spectravideo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7547,7 +7326,6 @@
             "shortName": "steam",
             "name": "--Steam",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "stratagus": {
@@ -7555,7 +7333,6 @@
             "shortName": "stratagus",
             "name": "Stratagus",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": []
         },
         "stv": {
@@ -7563,7 +7340,6 @@
             "shortName": "stv",
             "name": "Sega ST-V",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -7596,7 +7372,6 @@
             "shortName": "sufami",
             "name": "Sufami Turbo",
             "manufacturer": "Bandai",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -7625,7 +7400,6 @@
             "shortName": "supergrafx",
             "name": "PC Engine SuperGrafx",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7670,7 +7444,6 @@
             "shortName": "supervision",
             "name": "Watara supervision",
             "manufacturer": "Watara",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7715,7 +7488,6 @@
             "shortName": "supracan",
             "name": "Super A'Can",
             "manufacturer": "Funtech Entertainment",
-            "altNames": [],
             "matches": [
                 [
                     "hfsdb",
@@ -7728,7 +7500,6 @@
             "shortName": "switch",
             "name": "Switch",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7765,7 +7536,6 @@
             "shortName": "teknoparrot",
             "name": "Arcade",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7802,7 +7572,6 @@
             "shortName": "template",
             "name": "--Template",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "tg-cd": {
@@ -7810,7 +7579,6 @@
             "shortName": "tg-cd",
             "name": "TurboGrafX-CD",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -7823,7 +7591,6 @@
             "shortName": "tg16",
             "name": "TurboGrafX-16",
             "manufacturer": "NEC",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -7836,7 +7603,6 @@
             "shortName": "thomson",
             "name": "Thomson TO8",
             "manufacturer": "Thomson",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -7857,7 +7623,6 @@
             "shortName": "ti994a",
             "name": "Texas Instruments TI-99/4A",
             "manufacturer": "Texas Instruments",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7898,7 +7663,6 @@
             "shortName": "ti99",
             "name": "Texas Instruments TI-99/4A",
             "manufacturer": "Texas Instruments",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -7939,7 +7703,6 @@
             "shortName": "tic80",
             "name": "TIC-80",
             "manufacturer": "MIT",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -7952,7 +7715,6 @@
             "shortName": "to8",
             "name": "Thomson TO8",
             "manufacturer": "Thomson",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -7973,7 +7735,6 @@
             "shortName": "triforce",
             "name": "Arcade",
             "manufacturer": "Namco-Sega-Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -8010,7 +7771,6 @@
             "shortName": "trs-80",
             "name": "TRS-80",
             "manufacturer": "Tandy",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8047,7 +7807,6 @@
             "shortName": "trs80",
             "name": "TRS-80",
             "manufacturer": "Tandy",
-            "altNames": [],
             "matches": [
                 [
                     "igdb",
@@ -8060,7 +7819,6 @@
             "shortName": "trs80coco",
             "name": "TRS-80",
             "manufacturer": "Tandy",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8097,7 +7855,6 @@
             "shortName": "tutor",
             "name": "Tomy Tutor",
             "manufacturer": "Tomy",
-            "altNames": [],
             "matches": [
                 [
                     "mobygames",
@@ -8118,7 +7875,6 @@
             "shortName": "tvgames",
             "name": "TV Games",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": []
         },
         "tyrquake": {
@@ -8126,7 +7882,6 @@
             "shortName": "tyrquake",
             "name": "TyrQuake",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -8155,7 +7910,6 @@
             "shortName": "uzebox",
             "name": "UzeBox",
             "manufacturer": "UzeBox",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -8168,7 +7922,6 @@
             "shortName": "vc4000",
             "name": "VC 4000",
             "manufacturer": "Interton",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8189,7 +7942,6 @@
             "shortName": "vectrex",
             "name": "Vectrex",
             "manufacturer": "Milton Bradley",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8230,7 +7982,6 @@
             "shortName": "vemulator",
             "name": "SEGA Dreamcast VMU",
             "manufacturer": "Sega",
-            "altNames": [],
             "matches": [
                 [
                     "hfsdb",
@@ -8243,7 +7994,6 @@
             "shortName": "vgmplay",
             "name": "Video Game Music Player",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -8264,7 +8014,6 @@
             "shortName": "vic20",
             "name": "Commodore VIC-20",
             "manufacturer": "Commodore",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8309,7 +8058,6 @@
             "shortName": "videopac",
             "name": "Videopac",
             "manufacturer": "Philips",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8354,7 +8102,6 @@
             "shortName": "videopacplus",
             "name": "Videopac",
             "manufacturer": "Philips",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8399,7 +8146,6 @@
             "shortName": "virtualboy",
             "name": "Virtual Boy",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8444,7 +8190,6 @@
             "shortName": "vpinball",
             "name": "Visual Pinball",
             "manufacturer": "Various",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -8465,7 +8210,6 @@
             "shortName": "vsmile",
             "name": "V.Smile",
             "manufacturer": "VTech",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8486,7 +8230,6 @@
             "shortName": "wii",
             "name": "Wii",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8531,7 +8274,6 @@
             "shortName": "wiiu",
             "name": "WiiU",
             "manufacturer": "Nintendo",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8572,7 +8314,6 @@
             "shortName": "windows",
             "name": "Windows Games",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8613,7 +8354,6 @@
             "shortName": "windows_installers",
             "name": "Windows 32 installers",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8646,7 +8386,6 @@
             "shortName": "wolfenstein3d",
             "name": "Wolfenstein 3D",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "wonderswan": {
@@ -8654,7 +8393,6 @@
             "shortName": "wonderswan",
             "name": "WonderSwan",
             "manufacturer": "Bandai",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -8679,7 +8417,6 @@
             "shortName": "wonderswancolor",
             "name": "WonderSwan Color",
             "manufacturer": "Bandai",
-            "altNames": [],
             "matches": [
                 [
                     "screenscraper",
@@ -8708,7 +8445,6 @@
             "shortName": "wswan",
             "name": "WonderSwan",
             "manufacturer": "Bandai",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8753,7 +8489,6 @@
             "shortName": "wswanc",
             "name": "WonderSwan Color",
             "manufacturer": "Bandai",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8798,7 +8533,6 @@
             "shortName": "x1",
             "name": "Sharp X1",
             "manufacturer": "Sharp",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8839,7 +8573,6 @@
             "shortName": "x360",
             "name": "Xbox360",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8876,7 +8609,6 @@
             "shortName": "x68000",
             "name": "X68000",
             "manufacturer": "Sharp",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8917,7 +8649,6 @@
             "shortName": "xash3d_fwgs",
             "name": "xash3d_fwgs",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8950,7 +8681,6 @@
             "shortName": "xbox360",
             "name": "Xbox360",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -8983,7 +8713,6 @@
             "shortName": "xbox",
             "name": "Xbox",
             "manufacturer": "Microsoft",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -9020,7 +8749,6 @@
             "shortName": "xegs",
             "name": "Atari XE Game System",
             "manufacturer": "Atari",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -9053,7 +8781,6 @@
             "shortName": "zmachine",
             "name": "--Zmachine",
             "manufacturer": "--system",
-            "altNames": [],
             "matches": []
         },
         "zx81": {
@@ -9061,7 +8788,6 @@
             "shortName": "zx81",
             "name": "ZX81",
             "manufacturer": "Sinclair",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -9106,7 +8832,6 @@
             "shortName": "zxspectrum",
             "name": "ZX Spectrum",
             "manufacturer": "Sinclair",
-            "altNames": [],
             "matches": [
                 [
                     "tgdb",
@@ -9146,6 +8871,5 @@
                 ]
             ]
         }
-    },
-    "emulators": []
+    }
 }
