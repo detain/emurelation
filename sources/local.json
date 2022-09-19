@@ -24165,22 +24165,6 @@
         }
     },
     "emulators": {
-        "1964": {
-            "id": "1964",
-            "shortName": "1964",
-            "name": "1964",
-            "platforms": [
-                "n64"
-            ],
-            "matches": {
-                "emucontrolcenter": [
-                    "1964"
-                ],
-                "emulationking": [
-                    "1964-emulator"
-                ]
-            }
-        },
         "2048_libretro": {
             "id": "2048_libretro",
             "shortName": "2048_libretro",
@@ -24669,23 +24653,6 @@
                 ]
             }
         },
-        "yuzu": {
-            "id": "yuzu",
-            "shortName": "yuzu",
-            "name": "Yuzu",
-            "platforms": [],
-            "matches": {
-                "windspro": [
-                    "Yuzu Canary"
-                ],
-                "emulationking": [
-                    "yuzu-emulator"
-                ],
-                "emulationstation-de": [
-                    "Yuzu"
-                ]
-            }
-        },
         "a5200_libretro": {
             "id": "a5200_libretro",
             "shortName": "a5200_libretro",
@@ -25097,6 +25064,17 @@
                 ]
             }
         },
+        "arcadeflashweb": {
+            "id": "arcadeflashweb",
+            "shortName": "ArcadeFlashWeb",
+            "name": "ArcadeFlashWeb",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "ArcadeFlashWeb"
+                ]
+            }
+        },
         "arcem": {
             "id": "arcem",
             "shortName": "arcem",
@@ -25159,6 +25137,17 @@
         },
         "ares FDS": {
             "id": "ares FDS",
+            "shortName": "ares FDS",
+            "name": "ares FDS",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "ares FDS"
+                ]
+            }
+        },
+        "ares fds": {
+            "id": "ares fds",
             "shortName": "ares FDS",
             "name": "ares FDS",
             "platforms": [],
@@ -26923,6 +26912,17 @@
                 ]
             }
         },
+        "dosbox staging": {
+            "id": "dosbox staging",
+            "shortName": "DOSBox Staging",
+            "name": "DOSBox Staging",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "DOSBox Staging"
+                ]
+            }
+        },
         "dosbox-sdl2": {
             "id": "dosbox-sdl2",
             "shortName": "dosbox-sdl2",
@@ -26942,6 +26942,17 @@
             "matches": {
                 "retropie": [
                     "dosbox-staging"
+                ]
+            }
+        },
+        "dosbox-x": {
+            "id": "dosbox-x",
+            "shortName": "DOSBox-X",
+            "name": "DOSBox-X",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "DOSBox-X"
                 ]
             }
         },
@@ -27148,6 +27159,23 @@
                 ]
             }
         },
+        "duckstation": {
+            "id": "duckstation",
+            "shortName": "DuckStation",
+            "name": "DuckStation",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "DuckStation"
+                ],
+                "emulationstation-de": [
+                    "DuckStation"
+                ],
+                "recalbox": [
+                    "duckstation"
+                ]
+            }
+        },
         "duos": {
             "id": "duos",
             "shortName": "duos",
@@ -27180,6 +27208,17 @@
             "matches": {
                 "emulationking": [
                     "dxbx"
+                ]
+            }
+        },
+        "easyrpg player": {
+            "id": "easyrpg player",
+            "shortName": "EasyRPG Player",
+            "name": "EasyRPG Player",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "EasyRPG Player"
                 ]
             }
         },
@@ -27809,6 +27848,20 @@
             "matches": {
                 "emucontrolcenter": [
                     "firegb"
+                ]
+            }
+        },
+        "flycast": {
+            "id": "flycast",
+            "shortName": "Flycast",
+            "name": "Flycast",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Flycast"
+                ],
+                "windspro": [
+                    "Flycast"
                 ]
             }
         },
@@ -28846,6 +28899,28 @@
                 ]
             }
         },
+        "hypseus [daphne]": {
+            "id": "hypseus [daphne]",
+            "shortName": "Hypseus [Daphne]",
+            "name": "Hypseus [Daphne]",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Hypseus [Daphne]"
+                ]
+            }
+        },
+        "hypseus [singe]": {
+            "id": "hypseus [singe]",
+            "shortName": "Hypseus [Singe]",
+            "name": "Hypseus [Singe]",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Hypseus [Singe]"
+                ]
+            }
+        },
         "ice64": {
             "id": "ice64",
             "shortName": "ice64",
@@ -29221,6 +29296,17 @@
                 ]
             }
         },
+        "kemulator": {
+            "id": "kemulator",
+            "shortName": "KEmulator",
+            "name": "KEmulator",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "KEmulator"
+                ]
+            }
+        },
         "kigb": {
             "id": "kigb",
             "shortName": "kigb",
@@ -29398,6 +29484,17 @@
             "matches": {
                 "recalbox": [
                     "libretro_lutro"
+                ]
+            }
+        },
+        "m.u.g.e.n": {
+            "id": "m.u.g.e.n",
+            "shortName": "M.U.G.E.N",
+            "name": "M.U.G.E.N",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "M.U.G.E.N"
                 ]
             }
         },
@@ -30497,6 +30594,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "minus4"
+                ]
+            }
+        },
+        "model 2 emulator": {
+            "id": "model 2 emulator",
+            "shortName": "Model 2 Emulator",
+            "name": "Model 2 Emulator",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Model 2 Emulator"
                 ]
             }
         },
@@ -31811,6 +31919,17 @@
                 ]
             }
         },
+        "pcsx2 legacy": {
+            "id": "pcsx2 legacy",
+            "shortName": "PCSX2 Legacy",
+            "name": "PCSX2 Legacy",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "PCSX2 Legacy"
+                ]
+            }
+        },
         "pcsx2_libretro": {
             "id": "pcsx2_libretro",
             "shortName": "pcsx2_libretro",
@@ -31918,6 +32037,28 @@
                 ]
             }
         },
+        "pico-8": {
+            "id": "pico-8",
+            "shortName": "PICO-8",
+            "name": "PICO-8",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "PICO-8"
+                ]
+            }
+        },
+        "pico-8 splore": {
+            "id": "pico-8 splore",
+            "shortName": "PICO-8 Splore",
+            "name": "PICO-8 Splore",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "PICO-8 Splore"
+                ]
+            }
+        },
         "picodrive": {
             "id": "picodrive",
             "shortName": "picodrive",
@@ -31999,6 +32140,23 @@
             "matches": {
                 "emucontrolcenter": [
                     "pkemu"
+                ]
+            }
+        },
+        "play!": {
+            "id": "play!",
+            "shortName": "Play!",
+            "name": "Play!",
+            "platforms": [],
+            "matches": {
+                "emulationking": [
+                    "play-ps2"
+                ],
+                "emulationstation-de": [
+                    "Play!"
+                ],
+                "windspro": [
+                    "Play!"
                 ]
             }
         },
@@ -32193,6 +32351,17 @@
                 ],
                 "retropie": [
                     "lr-prboom"
+                ]
+            }
+        },
+        "primehack": {
+            "id": "primehack",
+            "shortName": "PrimeHack",
+            "name": "PrimeHack",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "PrimeHack"
                 ]
             }
         },
@@ -32713,6 +32882,23 @@
                 ]
             }
         },
+        "redream": {
+            "id": "redream",
+            "shortName": "Redream",
+            "name": "Redream",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "Redream"
+                ],
+                "emulationstation-de": [
+                    "Redream"
+                ],
+                "retropie": [
+                    "redream"
+                ]
+            }
+        },
         "redsquirrel": {
             "id": "redsquirrel",
             "shortName": "redsquirrel",
@@ -32799,6 +32985,23 @@
                 ]
             }
         },
+        "retroarch": {
+            "id": "retroarch",
+            "shortName": "RetroArch",
+            "name": "RetroArch",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "Retroarch"
+                ],
+                "emulationstation-de": [
+                    "RetroArch"
+                ],
+                "retropie": [
+                    "retroarch"
+                ]
+            }
+        },
         "retrocopy": {
             "id": "retrocopy",
             "shortName": "retrocopy",
@@ -32848,6 +33051,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "roc"
+                ]
+            }
+        },
+        "rocket launcher": {
+            "id": "rocket launcher",
+            "shortName": "Rocket Launcher",
+            "name": "Rocket Launcher",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "Rocket Launcher"
                 ]
             }
         },
@@ -32939,6 +33153,17 @@
                 ]
             }
         },
+        "ruffle": {
+            "id": "ruffle",
+            "shortName": "Ruffle",
+            "name": "Ruffle",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Ruffle"
+                ]
+            }
+        },
         "rxnes": {
             "id": "rxnes",
             "shortName": "rxnes",
@@ -32949,6 +33174,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "rxnes"
+                ]
+            }
+        },
+        "ryujinx": {
+            "id": "ryujinx",
+            "shortName": "Ryujinx",
+            "name": "Ryujinx",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Ryujinx"
                 ]
             }
         },
@@ -33125,6 +33361,39 @@
                 ]
             }
         },
+        "sdl2trs bootable diskette": {
+            "id": "sdl2trs bootable diskette",
+            "shortName": "sdl2trs Bootable Diskette",
+            "name": "sdl2trs Bootable Diskette",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "sdl2trs Bootable Diskette"
+                ]
+            }
+        },
+        "sdl2trs cmd file": {
+            "id": "sdl2trs cmd file",
+            "shortName": "sdl2trs CMD File",
+            "name": "sdl2trs CMD File",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "sdl2trs CMD File"
+                ]
+            }
+        },
+        "sdl2trs dos diskette": {
+            "id": "sdl2trs dos diskette",
+            "shortName": "sdl2trs DOS Diskette",
+            "name": "sdl2trs DOS Diskette",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "sdl2trs DOS Diskette"
+                ]
+            }
+        },
         "sdltrs": {
             "id": "sdltrs",
             "shortName": "sdltrs",
@@ -33180,6 +33449,17 @@
                 ],
                 "emulationstation-de": [
                     "SheepShaver"
+                ]
+            }
+        },
+        "shortcut or script": {
+            "id": "shortcut or script",
+            "shortName": "Shortcut or script",
+            "name": "Shortcut or script",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Shortcut or script"
                 ]
             }
         },
@@ -33929,6 +34209,17 @@
                 ]
             }
         },
+        "triforce": {
+            "id": "triforce",
+            "shortName": "Triforce",
+            "name": "Triforce",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Triforce"
+                ]
+            }
+        },
         "tronds": {
             "id": "tronds",
             "shortName": "tronds",
@@ -33955,6 +34246,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "trs80gp"
+                ]
+            }
+        },
+        "tsugaru": {
+            "id": "tsugaru",
+            "shortName": "Tsugaru",
+            "name": "Tsugaru",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Tsugaru"
                 ]
             }
         },
@@ -34456,6 +34758,28 @@
                 ]
             }
         },
+        "vice x64sc accurate": {
+            "id": "vice x64sc accurate",
+            "shortName": "VICE x64sc Accurate",
+            "name": "VICE x64sc Accurate",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "VICE x64sc Accurate"
+                ]
+            }
+        },
+        "vice xvic": {
+            "id": "vice xvic",
+            "shortName": "VICE xvic",
+            "name": "VICE xvic",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "VICE xvic"
+                ]
+            }
+        },
         "vice_libretro": {
             "id": "vice_libretro",
             "shortName": "vice_libretro",
@@ -34826,6 +35150,17 @@
             "matches": {
                 "emucontrolcenter": [
                     "visualpinball"
+                ]
+            }
+        },
+        "vita3k": {
+            "id": "vita3k",
+            "shortName": "Vita3K",
+            "name": "Vita3K",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "Vita3K"
                 ]
             }
         },
@@ -35261,6 +35596,20 @@
                 ]
             }
         },
+        "xemu": {
+            "id": "xemu",
+            "shortName": "Xemu",
+            "name": "Xemu",
+            "platforms": [],
+            "matches": {
+                "launchbox": [
+                    "Xemu"
+                ],
+                "emulationstation-de": [
+                    "xemu"
+                ]
+            }
+        },
         "xenia": {
             "id": "xenia",
             "shortName": "xenia",
@@ -35451,6 +35800,50 @@
                 ]
             }
         },
+        "xroar coco 2 ntsc": {
+            "id": "xroar coco 2 ntsc",
+            "shortName": "XRoar CoCo 2 NTSC",
+            "name": "XRoar CoCo 2 NTSC",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "XRoar CoCo 2 NTSC"
+                ]
+            }
+        },
+        "xroar coco 2 pal": {
+            "id": "xroar coco 2 pal",
+            "shortName": "XRoar CoCo 2 PAL",
+            "name": "XRoar CoCo 2 PAL",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "XRoar CoCo 2 PAL"
+                ]
+            }
+        },
+        "xroar dragon 32": {
+            "id": "xroar dragon 32",
+            "shortName": "XRoar Dragon 32",
+            "name": "XRoar Dragon 32",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "XRoar Dragon 32"
+                ]
+            }
+        },
+        "xroar dragon 64": {
+            "id": "xroar dragon 64",
+            "shortName": "XRoar Dragon 64",
+            "name": "XRoar Dragon 64",
+            "platforms": [],
+            "matches": {
+                "emulationstation-de": [
+                    "XRoar Dragon 64"
+                ]
+            }
+        },
         "xsnes": {
             "id": "xsnes",
             "shortName": "xsnes",
@@ -35607,6 +36000,23 @@
                 ]
             }
         },
+        "yuzu": {
+            "id": "yuzu",
+            "shortName": "yuzu",
+            "name": "Yuzu",
+            "platforms": [],
+            "matches": {
+                "windspro": [
+                    "Yuzu Canary"
+                ],
+                "emulationking": [
+                    "yuzu-emulator"
+                ],
+                "emulationstation-de": [
+                    "Yuzu"
+                ]
+            }
+        },
         "z26": {
             "id": "z26",
             "shortName": "z26",
@@ -35731,6 +36141,22 @@
             "matches": {
                 "emucontrolcenter": [
                     "zxspin"
+                ]
+            }
+        },
+        "1964": {
+            "id": "1964",
+            "shortName": "1964",
+            "name": "1964",
+            "platforms": [
+                "n64"
+            ],
+            "matches": {
+                "emucontrolcenter": [
+                    "1964"
+                ],
+                "emulationking": [
+                    "1964-emulator"
                 ]
             }
         }
