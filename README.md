@@ -44,15 +44,15 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 769 | 0 | 769 | 100% |
+| [Local](sources/local.json) | Custom | 758 | 0 | 758 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 3 | 0 | 3 | 100% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 116 | 350 | 466 | 24.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 96 | 0 | 96 | 100% |
 | [LaunchBox](sources/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
 | [RetroBat](sources/retrobat.json) | Frontend | 0 | 0 | 0 | 0% |
-| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 162 | 5 | 167 | 97% |
+| [EmulationStation-DE](sources/emulationstation-de.json) | Frontend | 161 | 6 | 167 | 96.4% |
 | [RecalBox](sources/recalbox.json) | Frontend | 159 | 0 | 159 | 100% |
-| [RetroPie](sources/retropie.json) | Frontend | 153 | 0 | 153 | 100% |
+| [RetroPie](sources/retropie.json) | Frontend | 152 | 1 | 153 | 99.3% |
 | [WinDSPro](sources/windspro.json) | Frontend | 82 | 9 | 91 | 90.1% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
 
