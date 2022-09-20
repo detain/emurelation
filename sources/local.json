@@ -24696,6 +24696,9 @@
                 ],
                 "oldcomputers": [
                     "Altirra"
+                ],
+                "scoop-emulators": [
+                    "altirra"
                 ]
             },
             "author": "Phaeron",
@@ -24909,6 +24912,9 @@
                 ],
                 "oldcomputers": [
                     "AppleWin"
+                ],
+                "scoop-emulators": [
+                    "applewin"
                 ]
             },
             "bin": [
@@ -24994,6 +25000,9 @@
                 ],
                 "oldcomputers": [
                     "ARAnyM"
+                ],
+                "scoop-emulators": [
+                    "aranym"
                 ]
             },
             "author": "The ARAnyM  Team",
@@ -25150,6 +25159,9 @@
                 ],
                 "windspro": [
                     "Ares"
+                ],
+                "scoop-emulators": [
+                    "ares"
                 ]
             },
             "web": {
@@ -25349,6 +25361,9 @@
                 ],
                 "retropie": [
                     "atari800"
+                ],
+                "scoop-emulators": [
+                    "atari800"
                 ]
             },
             "bin": [
@@ -25419,6 +25434,9 @@
                 ],
                 "oldcomputers": [
                     "Atari++"
+                ],
+                "scoop-emulators": [
+                    "atariplusplus"
                 ]
             },
             "author": "Thomas Richter",
@@ -25590,6 +25608,9 @@
                 ],
                 "recalbox": [
                     "beebem"
+                ],
+                "scoop-emulators": [
+                    "beebem"
                 ]
             },
             "author": "Mike Wyatt, David Adam Gilbert and Others",
@@ -25616,6 +25637,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "bem"
+                ],
+                "scoop-emulators": [
+                    "b-em"
                 ]
             },
             "author": "Tom Walker",
@@ -25669,6 +25693,9 @@
                 ],
                 "emulationking": [
                     "bgb"
+                ],
+                "scoop-emulators": [
+                    "bgb"
                 ]
             },
             "author": "Bas Steendijk",
@@ -25720,6 +25747,9 @@
                 ],
                 "windspro": [
                     "BizHawk"
+                ],
+                "scoop-emulators": [
+                    "bizhawk"
                 ]
             },
             "author": "BizHawk Team",
@@ -25948,6 +25978,9 @@
                     "bsnes"
                 ],
                 "launchbox": [
+                    "bsnes"
+                ],
+                "scoop-emulators": [
                     "bsnes"
                 ]
             },
@@ -26348,6 +26381,9 @@
                 ],
                 "windspro": [
                     "Cemu"
+                ],
+                "scoop-emulators": [
+                    "cemu"
                 ]
             },
             "bin": [
@@ -26419,6 +26455,9 @@
                 ],
                 "emulationstation-de": [
                     "Citra"
+                ],
+                "scoop-emulators": [
+                    "citra"
                 ]
             },
             "bin": [
@@ -27357,6 +27396,9 @@
                 ],
                 "windspro": [
                     "Demul"
+                ],
+                "scoop-emulators": [
+                    "demul"
                 ]
             },
             "author": "Demul Team",
@@ -27396,6 +27438,9 @@
                     "DeSmuME",
                     "DeSmuME X432R 32-bit",
                     "DeSmuME X432R 64-bit"
+                ],
+                "scoop-emulators": [
+                    "desmume"
                 ]
             },
             "author": "yopyop, DeSmuME team",
@@ -27557,6 +27602,9 @@
                     "dolphin"
                 ],
                 "recalbox": [
+                    "dolphin"
+                ],
+                "scoop-emulators": [
                     "dolphin"
                 ]
             },
@@ -27969,6 +28017,9 @@
                 ],
                 "recalbox": [
                     "duckstation"
+                ],
+                "scoop-emulators": [
+                    "duckstation"
                 ]
             },
             "web": {
@@ -28080,6 +28131,9 @@
                 ],
                 "oldcomputers": [
                     "EightyOne"
+                ],
+                "scoop-emulators": [
+                    "eightyone"
                 ]
             },
             "author": "Michael D Wynne",
@@ -28113,6 +28167,9 @@
                 ],
                 "oldcomputers": [
                     "ElectrEm"
+                ],
+                "scoop-emulators": [
+                    "electrem"
                 ]
             },
             "author": "Thomas Harte",
@@ -28559,6 +28616,9 @@
                 ],
                 "windspro": [
                     "ePSXe"
+                ],
+                "scoop-emulators": [
+                    "epsxe"
                 ]
             },
             "author": "Calb, Galtor, -Demo-",
@@ -28868,6 +28928,9 @@
                 ],
                 "windspro": [
                     "FCEUX"
+                ],
+                "scoop-emulators": [
+                    "fceux"
                 ]
             },
             "author": "FCEUX team",
@@ -28938,6 +29001,9 @@
                 ],
                 "windspro": [
                     "Flycast"
+                ],
+                "scoop-emulators": [
+                    "flycast"
                 ]
             },
             "bin": [
@@ -29324,6 +29390,9 @@
                 ],
                 "emulationking": [
                     "gbeplus"
+                ],
+                "scoop-emulators": [
+                    "gbeplus"
                 ]
             },
             "author": "D S Baxter aka Shonumi",
@@ -29407,6 +29476,9 @@
             "matches": {
                 "emulationking": [
                     "gearboy"
+                ],
+                "scoop-emulators": [
+                    "gearboy"
                 ]
             }
         },
@@ -29423,6 +29495,9 @@
                     "gearsystem"
                 ],
                 "emulationking": [
+                    "gearsystem"
+                ],
+                "scoop-emulators": [
                     "gearsystem"
                 ]
             },
@@ -29873,6 +29948,9 @@
                 ],
                 "windspro": [
                     "Handy"
+                ],
+                "scoop-emulators": [
+                    "handy"
                 ]
             },
             "author": "K Wilkins",
@@ -29913,6 +29991,9 @@
                     "hatari"
                 ],
                 "recalbox": [
+                    "hatari"
+                ],
+                "scoop-emulators": [
                     "hatari"
                 ]
             },
@@ -30003,6 +30084,9 @@
                 ],
                 "launchbox": [
                     "Higan"
+                ],
+                "scoop-emulators": [
+                    "higan"
                 ]
             },
             "author": "byuu",
@@ -30644,6 +30728,9 @@
                     "jpcsp"
                 ],
                 "emulationking": [
+                    "jpcsp"
+                ],
+                "scoop-emulators": [
                     "jpcsp"
                 ]
             },
@@ -31562,6 +31649,9 @@
                 ],
                 "retropie": [
                     "mame"
+                ],
+                "scoop-emulators": [
+                    "mame"
                 ]
             },
             "bin": [
@@ -31661,6 +31751,9 @@
                 ],
                 "emulationstation-de": [
                     "Mednafen"
+                ],
+                "scoop-emulators": [
+                    "mednafen"
                 ]
             },
             "bin": [
@@ -31840,6 +31933,9 @@
                 ],
                 "windspro": [
                     "melonDS"
+                ],
+                "scoop-emulators": [
+                    "melonds"
                 ]
             },
             "bin": [
@@ -31922,6 +32018,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "mesen"
+                ],
+                "scoop-emulators": [
                     "mesen"
                 ]
             },
@@ -32141,6 +32240,9 @@
                 ],
                 "windspro": [
                     "mGBA"
+                ],
+                "scoop-emulators": [
+                    "mgba"
                 ]
             },
             "bin": [
@@ -32285,6 +32387,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "modelb"
+                ],
+                "scoop-emulators": [
+                    "model-b"
                 ]
             },
             "author": "Tom Seddon",
@@ -32970,6 +33075,9 @@
                 ],
                 "windspro": [
                     "Nestopia"
+                ],
+                "scoop-emulators": [
+                    "nestopia"
                 ]
             },
             "author": "Martin Freij",
@@ -33103,6 +33211,9 @@
                     "nintendulator"
                 ],
                 "emulationking": [
+                    "nintendulator"
+                ],
+                "scoop-emulators": [
                     "nintendulator"
                 ]
             },
@@ -33764,6 +33875,9 @@
                 ],
                 "emulationstation-de": [
                     "openMSX"
+                ],
+                "scoop-emulators": [
+                    "openmsx"
                 ]
             },
             "bin": [
@@ -34310,6 +34424,9 @@
                 ],
                 "windspro": [
                     "PCSX2"
+                ],
+                "scoop-emulators": [
+                    "pcsx2"
                 ]
             },
             "bin": [
@@ -34849,6 +34966,9 @@
                 ],
                 "recalbox": [
                     "ppsspp"
+                ],
+                "scoop-emulators": [
+                    "ppsspp"
                 ]
             },
             "bin": [
@@ -34919,6 +35039,9 @@
                 ],
                 "windspro": [
                     "Project64"
+                ],
+                "scoop-emulators": [
+                    "project64"
                 ]
             },
             "bin": [
@@ -35060,6 +35183,9 @@
                 ],
                 "windspro": [
                     "ProSystem"
+                ],
+                "scoop-emulators": [
+                    "prosystem"
                 ]
             },
             "author": "Greg Stanton",
@@ -35293,6 +35419,9 @@
             ],
             "matches": {
                 "emucontrolcenter": [
+                    "punes"
+                ],
+                "scoop-emulators": [
                     "punes"
                 ]
             },
@@ -35671,6 +35800,9 @@
                 ],
                 "retropie": [
                     "redream"
+                ],
+                "scoop-emulators": [
+                    "redream"
                 ]
             },
             "web": {
@@ -35762,6 +35894,9 @@
                 ],
                 "retropie": [
                     "reicast"
+                ],
+                "scoop-emulators": [
+                    "reicast"
                 ]
             }
         },
@@ -35819,6 +35954,9 @@
                     "RetroArch"
                 ],
                 "retropie": [
+                    "retroarch"
+                ],
+                "scoop-emulators": [
                     "retroarch"
                 ]
             },
@@ -39648,6 +39786,9 @@
                 ],
                 "windspro": [
                     "rpcs3"
+                ],
+                "scoop-emulators": [
+                    "rpcs3"
                 ]
             },
             "author": "The RPCS3 Team",
@@ -39743,6 +39884,9 @@
             "matches": {
                 "emulationstation-de": [
                     "Ryujinx"
+                ],
+                "scoop-emulators": [
+                    "ryujinx"
                 ]
             },
             "web": {
@@ -39772,6 +39916,9 @@
                 ],
                 "oldcomputers": [
                     "SainT"
+                ],
+                "scoop-emulators": [
+                    "saint"
                 ]
             },
             "author": "Arnaud Carre and James Boulton",
@@ -39866,6 +40013,9 @@
                     "scummvm"
                 ],
                 "recalbox": [
+                    "scummvm"
+                ],
+                "scoop-emulators": [
                     "scummvm"
                 ]
             },
@@ -40300,6 +40450,9 @@
                 ],
                 "retropie": [
                     "snes9x"
+                ],
+                "scoop-emulators": [
+                    "snes9x"
                 ]
             },
             "bin": [
@@ -40571,6 +40724,9 @@
                 ],
                 "emulationstation-de": [
                     "SSF"
+                ],
+                "scoop-emulators": [
+                    "ssf"
                 ]
             },
             "bin": [
@@ -40645,6 +40801,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "steemsse"
+                ],
+                "scoop-emulators": [
+                    "steemsse"
                 ]
             },
             "author": "Anthony and Russel Hayward",
@@ -40678,6 +40837,9 @@
                     "Stella"
                 ],
                 "retropie": [
+                    "stella"
+                ],
+                "scoop-emulators": [
                     "stella"
                 ]
             },
@@ -41911,6 +42073,9 @@
                 ],
                 "retropie": [
                     "vice"
+                ],
+                "scoop-emulators": [
+                    "vice"
                 ]
             }
         },
@@ -42114,6 +42279,9 @@
                 ],
                 "windspro": [
                     "Virtual Jaguar"
+                ],
+                "scoop-emulators": [
+                    "virtualjaguar"
                 ]
             },
             "author": "Niels Wagenaar & Carwin Jones",
@@ -42324,6 +42492,9 @@
                 ],
                 "emucontrolcenter": [
                     "visualboyadvance"
+                ],
+                "scoop-emulators": [
+                    "visualboyadvance"
                 ]
             },
             "author": "Forgotten & kxu",
@@ -42402,6 +42573,9 @@
             "matches": {
                 "emulationstation-de": [
                     "Vita3K"
+                ],
+                "scoop-emulators": [
+                    "vita3k"
                 ]
             },
             "web": {
@@ -42755,6 +42929,9 @@
                 ],
                 "oldcomputers": [
                     "WinFellow"
+                ],
+                "scoop-emulators": [
+                    "winfellow"
                 ]
             },
             "author": "Peter Schau, Torsten Enderling and Worfje",
@@ -42841,6 +43018,9 @@
                 ],
                 "oldcomputers": [
                     "WinUAE"
+                ],
+                "scoop-emulators": [
+                    "winuae"
                 ]
             },
             "author": "Toni Wilen & WinUAE Team",
@@ -43087,6 +43267,9 @@
             "matches": {
                 "emucontrolcenter": [
                     "xebra"
+                ],
+                "scoop-emulators": [
+                    "xebra"
                 ]
             },
             "author": "Dr. Hell",
@@ -43114,6 +43297,9 @@
                     "Xemu"
                 ],
                 "emulationstation-de": [
+                    "xemu"
+                ],
+                "scoop-emulators": [
                     "xemu"
                 ]
             },
@@ -43154,6 +43340,9 @@
                 "windspro": [
                     "Xenia",
                     "Xenia D3D"
+                ],
+                "scoop-emulators": [
+                    "xenia"
                 ]
             },
             "bin": [
@@ -43601,6 +43790,9 @@
                 ],
                 "oldcomputers": [
                     "Yabause"
+                ],
+                "scoop-emulators": [
+                    "yabause"
                 ]
             },
             "author": "Yabouse Team",
@@ -43791,6 +43983,9 @@
                 ],
                 "emulationstation-de": [
                     "Yuzu"
+                ],
+                "scoop-emulators": [
+                    "yuzu"
                 ]
             },
             "bin": [
@@ -43819,6 +44014,9 @@
                 ],
                 "oldcomputers": [
                     "Z26"
+                ],
+                "scoop-emulators": [
+                    "z26"
                 ]
             },
             "author": "John Saeger",

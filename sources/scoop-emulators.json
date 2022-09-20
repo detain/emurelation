@@ -1,0 +1,532 @@
+{
+    "emulators": {
+        "64tass": {
+            "id": "64tass",
+            "name": "64tass"
+        },
+        "a7800": {
+            "id": "a7800",
+            "name": "a7800"
+        },
+        "acme": {
+            "id": "acme",
+            "name": "acme"
+        },
+        "altirra": {
+            "id": "altirra",
+            "name": "altirra"
+        },
+        "applewin": {
+            "id": "applewin",
+            "name": "applewin"
+        },
+        "aranym": {
+            "id": "aranym",
+            "name": "aranym"
+        },
+        "arcade64": {
+            "id": "arcade64",
+            "name": "arcade64"
+        },
+        "ares": {
+            "id": "ares",
+            "name": "ares"
+        },
+        "asap": {
+            "id": "asap",
+            "name": "asap"
+        },
+        "atari800": {
+            "id": "atari800",
+            "name": "atari800"
+        },
+        "atariplusplus": {
+            "id": "atariplusplus",
+            "name": "atariplusplus"
+        },
+        "b-em": {
+            "id": "b-em",
+            "name": "b-em"
+        },
+        "beebem": {
+            "id": "beebem",
+            "name": "beebem"
+        },
+        "betterjoy": {
+            "id": "betterjoy",
+            "name": "betterjoy"
+        },
+        "bgb": {
+            "id": "bgb",
+            "name": "bgb"
+        },
+        "bizhawk": {
+            "id": "bizhawk",
+            "name": "bizhawk"
+        },
+        "bsnes-hd-beta": {
+            "id": "bsnes-hd-beta",
+            "name": "bsnes-hd-beta"
+        },
+        "bsnes-plus": {
+            "id": "bsnes-plus",
+            "name": "bsnes-plus"
+        },
+        "bsnes": {
+            "id": "bsnes",
+            "name": "bsnes"
+        },
+        "cc65": {
+            "id": "cc65",
+            "name": "cc65"
+        },
+        "cemu-dev": {
+            "id": "cemu-dev",
+            "name": "cemu-dev"
+        },
+        "cemu": {
+            "id": "cemu",
+            "name": "cemu"
+        },
+        "cemuhook": {
+            "id": "cemuhook",
+            "name": "cemuhook"
+        },
+        "citra-canary": {
+            "id": "citra-canary",
+            "name": "citra-canary"
+        },
+        "citra-nightly": {
+            "id": "citra-nightly",
+            "name": "citra-nightly"
+        },
+        "citra": {
+            "id": "citra",
+            "name": "citra"
+        },
+        "cxbx-reloaded": {
+            "id": "cxbx-reloaded",
+            "name": "cxbx-reloaded"
+        },
+        "demul": {
+            "id": "demul",
+            "name": "demul"
+        },
+        "demulshooter": {
+            "id": "demulshooter",
+            "name": "demulshooter"
+        },
+        "desmume-stable": {
+            "id": "desmume-stable",
+            "name": "desmume-stable"
+        },
+        "desmume": {
+            "id": "desmume",
+            "name": "desmume"
+        },
+        "dolphin-beta": {
+            "id": "dolphin-beta",
+            "name": "dolphin-beta"
+        },
+        "dolphin-dev": {
+            "id": "dolphin-dev",
+            "name": "dolphin-dev"
+        },
+        "dolphin": {
+            "id": "dolphin",
+            "name": "dolphin"
+        },
+        "dsp-emulator": {
+            "id": "dsp-emulator",
+            "name": "dsp-emulator"
+        },
+        "duckstation": {
+            "id": "duckstation",
+            "name": "duckstation"
+        },
+        "eightyone": {
+            "id": "eightyone",
+            "name": "eightyone"
+        },
+        "electrem": {
+            "id": "electrem",
+            "name": "electrem"
+        },
+        "epsxe": {
+            "id": "epsxe",
+            "name": "epsxe"
+        },
+        "fbneo-nightly": {
+            "id": "fbneo-nightly",
+            "name": "fbneo-nightly"
+        },
+        "fbneo": {
+            "id": "fbneo",
+            "name": "fbneo"
+        },
+        "fceux-dev": {
+            "id": "fceux-dev",
+            "name": "fceux-dev"
+        },
+        "fceux-dev1": {
+            "id": "fceux-dev1",
+            "name": "fceux-dev1"
+        },
+        "fceux-dev2": {
+            "id": "fceux-dev2",
+            "name": "fceux-dev2"
+        },
+        "fceux": {
+            "id": "fceux",
+            "name": "fceux"
+        },
+        "flycast-dev": {
+            "id": "flycast-dev",
+            "name": "flycast-dev"
+        },
+        "flycast": {
+            "id": "flycast",
+            "name": "flycast"
+        },
+        "gbeplus": {
+            "id": "gbeplus",
+            "name": "gbeplus"
+        },
+        "gearboy": {
+            "id": "gearboy",
+            "name": "gearboy"
+        },
+        "gearsystem": {
+            "id": "gearsystem",
+            "name": "gearsystem"
+        },
+        "handy": {
+            "id": "handy",
+            "name": "handy"
+        },
+        "hatari": {
+            "id": "hatari",
+            "name": "hatari"
+        },
+        "higan": {
+            "id": "higan",
+            "name": "higan"
+        },
+        "iv-play": {
+            "id": "iv-play",
+            "name": "iv-play"
+        },
+        "jpcsp": {
+            "id": "jpcsp",
+            "name": "jpcsp"
+        },
+        "kega-fusion": {
+            "id": "kega-fusion",
+            "name": "kega-fusion"
+        },
+        "m64p": {
+            "id": "m64p",
+            "name": "m64p"
+        },
+        "mame": {
+            "id": "mame",
+            "name": "mame"
+        },
+        "mameui": {
+            "id": "mameui",
+            "name": "mameui"
+        },
+        "medgui-reborn": {
+            "id": "medgui-reborn",
+            "name": "medgui-reborn"
+        },
+        "mednafen-dev": {
+            "id": "mednafen-dev",
+            "name": "mednafen-dev"
+        },
+        "mednafen": {
+            "id": "mednafen",
+            "name": "mednafen"
+        },
+        "mednaffe": {
+            "id": "mednaffe",
+            "name": "mednaffe"
+        },
+        "melonds": {
+            "id": "melonds",
+            "name": "melonds"
+        },
+        "mesen-s": {
+            "id": "mesen-s",
+            "name": "mesen-s"
+        },
+        "mesen": {
+            "id": "mesen",
+            "name": "mesen"
+        },
+        "mgba-dev": {
+            "id": "mgba-dev",
+            "name": "mgba-dev"
+        },
+        "mgba": {
+            "id": "mgba",
+            "name": "mgba"
+        },
+        "model-b": {
+            "id": "model-b",
+            "name": "model-b"
+        },
+        "model3": {
+            "id": "model3",
+            "name": "model3"
+        },
+        "nanoboyadvance": {
+            "id": "nanoboyadvance",
+            "name": "nanoboyadvance"
+        },
+        "nester": {
+            "id": "nester",
+            "name": "nester"
+        },
+        "nestopia": {
+            "id": "nestopia",
+            "name": "nestopia"
+        },
+        "nintendulator": {
+            "id": "nintendulator",
+            "name": "nintendulator"
+        },
+        "noods": {
+            "id": "noods",
+            "name": "noods"
+        },
+        "openmsx-dev": {
+            "id": "openmsx-dev",
+            "name": "openmsx-dev"
+        },
+        "openmsx": {
+            "id": "openmsx",
+            "name": "openmsx"
+        },
+        "pcsx2-dev": {
+            "id": "pcsx2-dev",
+            "name": "pcsx2-dev"
+        },
+        "pcsx2": {
+            "id": "pcsx2",
+            "name": "pcsx2"
+        },
+        "pegasus-nightly": {
+            "id": "pegasus-nightly",
+            "name": "pegasus-nightly"
+        },
+        "pegasus": {
+            "id": "pegasus",
+            "name": "pegasus"
+        },
+        "phoenixemu": {
+            "id": "phoenixemu",
+            "name": "phoenixemu"
+        },
+        "play": {
+            "id": "play",
+            "name": "play"
+        },
+        "ppsspp-dev": {
+            "id": "ppsspp-dev",
+            "name": "ppsspp-dev"
+        },
+        "ppsspp": {
+            "id": "ppsspp",
+            "name": "ppsspp"
+        },
+        "project64-dev": {
+            "id": "project64-dev",
+            "name": "project64-dev"
+        },
+        "project64": {
+            "id": "project64",
+            "name": "project64"
+        },
+        "prosystem": {
+            "id": "prosystem",
+            "name": "prosystem"
+        },
+        "ps3-system-software": {
+            "id": "ps3-system-software",
+            "name": "ps3-system-software"
+        },
+        "punes-opengl": {
+            "id": "punes-opengl",
+            "name": "punes-opengl"
+        },
+        "punes": {
+            "id": "punes",
+            "name": "punes"
+        },
+        "raine": {
+            "id": "raine",
+            "name": "raine"
+        },
+        "redream-dev": {
+            "id": "redream-dev",
+            "name": "redream-dev"
+        },
+        "redream": {
+            "id": "redream",
+            "name": "redream"
+        },
+        "reicast": {
+            "id": "reicast",
+            "name": "reicast"
+        },
+        "retroarch-nightly": {
+            "id": "retroarch-nightly",
+            "name": "retroarch-nightly"
+        },
+        "retroarch": {
+            "id": "retroarch",
+            "name": "retroarch"
+        },
+        "romsorter": {
+            "id": "romsorter",
+            "name": "romsorter"
+        },
+        "rpcs3": {
+            "id": "rpcs3",
+            "name": "rpcs3"
+        },
+        "ryujinx": {
+            "id": "ryujinx",
+            "name": "ryujinx"
+        },
+        "saint": {
+            "id": "saint",
+            "name": "saint"
+        },
+        "sameboy": {
+            "id": "sameboy",
+            "name": "sameboy"
+        },
+        "scummvm-nightly": {
+            "id": "scummvm-nightly",
+            "name": "scummvm-nightly"
+        },
+        "scummvm": {
+            "id": "scummvm",
+            "name": "scummvm"
+        },
+        "snes9x-dev": {
+            "id": "snes9x-dev",
+            "name": "snes9x-dev"
+        },
+        "snes9x": {
+            "id": "snes9x",
+            "name": "snes9x"
+        },
+        "ssf": {
+            "id": "ssf",
+            "name": "ssf"
+        },
+        "steam-rom-manager": {
+            "id": "steam-rom-manager",
+            "name": "steam-rom-manager"
+        },
+        "steemsse": {
+            "id": "steemsse",
+            "name": "steemsse"
+        },
+        "stella": {
+            "id": "stella",
+            "name": "stella"
+        },
+        "tegra-rcm-gui": {
+            "id": "tegra-rcm-gui",
+            "name": "tegra-rcm-gui"
+        },
+        "townemu": {
+            "id": "townemu",
+            "name": "townemu"
+        },
+        "vice-stable": {
+            "id": "vice-stable",
+            "name": "vice-stable"
+        },
+        "vice": {
+            "id": "vice",
+            "name": "vice"
+        },
+        "virtualjaguar": {
+            "id": "virtualjaguar",
+            "name": "virtualjaguar"
+        },
+        "visualboyadvance-m-nightly": {
+            "id": "visualboyadvance-m-nightly",
+            "name": "visualboyadvance-m-nightly"
+        },
+        "visualboyadvance-m": {
+            "id": "visualboyadvance-m",
+            "name": "visualboyadvance-m"
+        },
+        "visualboyadvance-sdl": {
+            "id": "visualboyadvance-sdl",
+            "name": "visualboyadvance-sdl"
+        },
+        "visualboyadvance": {
+            "id": "visualboyadvance",
+            "name": "visualboyadvance"
+        },
+        "vita3k": {
+            "id": "vita3k",
+            "name": "vita3k"
+        },
+        "winfellow": {
+            "id": "winfellow",
+            "name": "winfellow"
+        },
+        "winuae": {
+            "id": "winuae",
+            "name": "winuae"
+        },
+        "xebra": {
+            "id": "xebra",
+            "name": "xebra"
+        },
+        "xemu": {
+            "id": "xemu",
+            "name": "xemu"
+        },
+        "xenia-canary": {
+            "id": "xenia-canary",
+            "name": "xenia-canary"
+        },
+        "xenia": {
+            "id": "xenia",
+            "name": "xenia"
+        },
+        "xformer": {
+            "id": "xformer",
+            "name": "xformer"
+        },
+        "yabause": {
+            "id": "yabause",
+            "name": "yabause"
+        },
+        "yuzu-dev": {
+            "id": "yuzu-dev",
+            "name": "yuzu-dev"
+        },
+        "yuzu-pineapple": {
+            "id": "yuzu-pineapple",
+            "name": "yuzu-pineapple"
+        },
+        "yuzu": {
+            "id": "yuzu",
+            "name": "yuzu"
+        },
+        "z26": {
+            "id": "z26",
+            "name": "z26"
+        }
+    }
+}
