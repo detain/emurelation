@@ -24465,6 +24465,10 @@
             "shortName": "advancemame",
             "name": "advancemame",
             "platforms": [],
+            "web": {
+                "https://www.advancemame.it/": "home",
+                "https://github.com/amadvance/advancemame": "repo"
+            },
             "matches": {
                 "recalbox": [
                     "advancemame"
@@ -24568,6 +24572,9 @@
                     "ages"
                 ]
             },
+            "web": {
+                "https://segaretro.org/AGES": "home"
+            },
             "author": "Quinntesson",
             "license": "Freeware",
             "bin": [
@@ -24587,6 +24594,10 @@
                 "retropie": [
                     "ags"
                 ]
+            },
+            "web": {
+                "https://www.adventuregamestudio.co.uk/site/ags/": "home",
+                "https://github.com/adventuregamestudio/ags/": "repo"
             }
         },
         "aipc": {
@@ -24706,6 +24717,10 @@
             "shortName": "amiberry",
             "name": "amiberry",
             "platforms": [],
+            "web": {
+                "https://amiberry.com/": "home",
+                "https://github.com/BlitterStudio/amiberry": "repo"
+            },
             "matches": {
                 "recalbox": [
                     "amiberry"
@@ -25006,6 +25021,9 @@
                     "ArcadeFlashWeb"
                 ]
             },
+            "web": {
+                "https://github.com/aureyoboss/ArcadeFlashWeb": "repo"
+            },
             "bin": [
                 "ArcadeFlashWeb.exe"
             ],
@@ -25134,6 +25152,10 @@
                     "Ares"
                 ]
             },
+            "web": {
+                "https://ares-emu.net/": "home",
+                "https://github.com/ares-emulator/ares": "repo"
+            },
             "bin": [
                 "ares.exe"
             ],
@@ -25163,28 +25185,6 @@
                 "%BIN% --fullscreen --system \"WonderSwan Color\" %ROM%"
             ]
         },
-        "ares FDS": {
-            "id": "ares FDS",
-            "shortName": "ares FDS",
-            "name": "ares FDS",
-            "platforms": [
-                "Nintendo Entertainment System"
-            ],
-            "matches": {
-                "emulationstation-de": [
-                    "ares FDS"
-                ]
-            },
-            "bin": [
-                "ares.exe"
-            ],
-            "dir": [
-                "ares"
-            ],
-            "cmd": [
-                "%BIN% --fullscreen --system \"Famicom Disk System\" %ROM%"
-            ]
-        },
         "ares fds": {
             "id": "ares fds",
             "shortName": "ares FDS",
@@ -25192,6 +25192,10 @@
             "platforms": [
                 "Nintendo Entertainment System"
             ],
+            "web": {
+                "https://ares-emu.net/": "home",
+                "https://github.com/ares-emulator/ares": "repo"
+            },
             "matches": {
                 "emulationstation-de": [
                     "ares FDS"
@@ -25305,6 +25309,11 @@
                 "emucontrolcenter": [
                     "aspectrum"
                 ]
+            },
+            "web": {
+                "http://aspectrum.sourceforge.net/index.en.html": "home",
+                "https://sourceforge.net/projects/aspectrum/": "home",
+                "https://github.com/alvaroalea/aspectrum": "repo"
             },
             "author": "Santiago Romero Iglesias and The Aspectrum Team",
             "contact": "sromero@escomposlinux.org",
@@ -25513,17 +25522,6 @@
                 ]
             }
         },
-        "basilisk": {
-            "id": "basilisk",
-            "shortName": "basilisk",
-            "name": "basilisk",
-            "platforms": [],
-            "matches": {
-                "retropie": [
-                    "basilisk"
-                ]
-            }
-        },
         "basiliskii": {
             "id": "basiliskii",
             "shortName": "basiliskii",
@@ -25532,6 +25530,9 @@
                 "Apple Macintosh"
             ],
             "matches": {
+                "retropie": [
+                    "basilisk"
+                ],
                 "emucontrolcenter": [
                     "basiliskii"
                 ],
@@ -25554,7 +25555,8 @@
             "author": "Christian Bauer aka cebix",
             "license": "GNU GPLv2",
             "web": {
-                "http://basilisk.cebix.net/": "home"
+                "http://basilisk.cebix.net/": "home",
+                "https://github.com/cebix/macemu": "repo"
             },
             "description": "Basilisk II is an Apple 68k Macintosh emulator."
         },
@@ -25563,6 +25565,9 @@
             "shortName": "batgba",
             "name": "batgba",
             "platforms": [],
+            "web": {
+                "https://batgba.zophar.net/": "home"
+            },
             "matches": {
                 "emulationking": [
                     "batgba"
@@ -26233,7 +26238,12 @@
             "id": "capricerpi",
             "shortName": "capricerpi",
             "name": "capricerpi",
-            "platforms": [],
+            "platforms": [
+                "Amstrad CPC"
+            ],
+            "web": {
+                "https://github.com/KaosOverride/CapriceRPI": "repo"
+            },
             "matches": {
                 "retropie": [
                     "capricerpi"
@@ -26556,6 +26566,9 @@
                     "comeback64"
                 ]
             },
+            "web": {
+                "https://sourceforge.net/projects/comeback64/": "home"
+            },
             "author": "D Luxen",
             "contact": "dluxen@hotmail.com",
             "license": "GNU GPLv2",
@@ -26841,6 +26854,9 @@
             "shortName": "crabemu",
             "name": "crabemu",
             "platforms": [],
+            "web": {
+                "https://sourceforge.net/projects/crabemu/": "home"
+            },
             "matches": {
                 "emulationking": [
                     "crabemu"
@@ -27281,6 +27297,9 @@
                     "decaf-emulator"
                 ]
             },
+            "web": {
+                "https://github.com/decaf-emu/decaf-emu": "repo"
+            },
             "bin": [
                 "decaf-qt.exe"
             ],
@@ -27623,29 +27642,6 @@
             },
             "description": "DOSBox is a DOS-emulator that uses the SDL-library which makes DOSBox very easy to port to different platforms."
         },
-        "dosbox staging": {
-            "id": "dosbox staging",
-            "shortName": "DOSBox Staging",
-            "name": "DOSBox Staging",
-            "platforms": [
-                "Microsoft MS-DOS",
-                "Generic PC"
-            ],
-            "matches": {
-                "emulationstation-de": [
-                    "DOSBox Staging"
-                ]
-            },
-            "bin": [
-                "dosbox.exe"
-            ],
-            "dir": [
-                "dosbox-staging"
-            ],
-            "cmd": [
-                "%BIN% %ROM%"
-            ]
-        },
         "dosbox-sdl2": {
             "id": "dosbox-sdl2",
             "shortName": "dosbox-sdl2",
@@ -27660,13 +27656,32 @@
         "dosbox-staging": {
             "id": "dosbox-staging",
             "shortName": "dosbox-staging",
-            "name": "dosbox-staging",
-            "platforms": [],
+            "name": "DOSBox Staging",
+            "web": {
+                "https://dosbox-staging.github.io/about/": "home",
+                "https://github.com/dosbox-staging/dosbox-staging": "repo"
+            },
+            "platforms": [
+                "Microsoft MS-DOS",
+                "Generic PC"
+            ],
             "matches": {
                 "retropie": [
                     "dosbox-staging"
+                ],
+                "emulationstation-de": [
+                    "DOSBox Staging"
                 ]
-            }
+            },
+            "bin": [
+                "dosbox.exe"
+            ],
+            "dir": [
+                "dosbox-staging"
+            ],
+            "cmd": [
+                "%BIN% %ROM%"
+            ]
         },
         "dosbox-x": {
             "id": "dosbox-x",
@@ -27680,6 +27695,10 @@
                 "emulationstation-de": [
                     "DOSBox-X"
                 ]
+            },
+            "web": {
+                "https://dosbox-x.com/": "home",
+                "https://github.com/joncampbell123/dosbox-x": "repo"
             },
             "bin": [
                 "dosbox-x.exe"
@@ -27715,17 +27734,6 @@
                 "http://pspemu.soywiz.com": "home"
             },
             "description": "PSPEmu is a Sony Playstation Portable emulator."
-        },
-        "drastic": {
-            "id": "drastic",
-            "shortName": "drastic",
-            "name": "drastic",
-            "platforms": [],
-            "matches": {
-                "retropie": [
-                    "drastic"
-                ]
-            }
         },
         "dream64": {
             "id": "dream64",
@@ -27924,6 +27932,9 @@
             "platforms": [
                 "Nintendo DS"
             ],
+            "web": {
+                "https://dualis.1emu.net/files/index.html": "home"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "dualis"
@@ -27960,6 +27971,10 @@
                     "duckstation"
                 ]
             },
+            "web": {
+                "https://www.duckstation.org/": "home",
+                "https://github.com/stenzek/duckstation": "repo"
+            },
             "bin": [
                 "duckstation-nogui-x64-ReleaseLTCG.exe",
                 "duckstation-qt-x64-ReleaseLTCG.exe"
@@ -27976,6 +27991,9 @@
             "shortName": "duos",
             "name": "duos",
             "platforms": [],
+            "web": {
+                "https://ds-duos.blogspot.com/": "home"
+            },
             "matches": {
                 "emulationking": [
                     "duos-emulator"
@@ -28013,6 +28031,9 @@
             "shortName": "dxbx",
             "name": "dxbx",
             "platforms": [],
+            "web": {
+                "https://sourceforge.net/projects/dxbx/": "home"
+            },
             "matches": {
                 "emulationking": [
                     "dxbx"
@@ -28028,6 +28049,10 @@
                 "emulationstation-de": [
                     "EasyRPG Player"
                 ]
+            },
+            "web": {
+                "https://easyrpg.org/": "home",
+                "https://github.com/EasyRPG/Player": "repo"
             },
             "bin": [
                 "Player.exe"
@@ -28078,6 +28103,10 @@
             "platforms": [
                 "Acorn Electron"
             ],
+            "web": {
+                "http://electrem.emuunlim.com/": "home",
+                "https://github.com/TomHarte/ElectrEm": "repo"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "electrem"
@@ -28330,6 +28359,9 @@
                     "emukon"
                 ]
             },
+            "web": {
+                "https://web.archive.org/web/20091217085148/http://emukon.kontechs.de:80/": "home"
+            },
             "author": "Martin and Robert Konrad",
             "license": "KonTechs Freeware License",
             "bin": [
@@ -28483,6 +28515,10 @@
             "platforms": [
                 "Enterprise 64 & 128"
             ],
+            "web": {
+                "http://web.axelero.hu/egzo/ep/": "home",
+                "http://www.ep128.hu/Ep_Emulator_eng.htm": "home"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "ep32"
@@ -28581,6 +28617,9 @@
             "platforms": [
                 "Sharp X68000"
             ],
+            "web": {
+                "http://www.ksky.ne.jp/~yamama/emul/": "home"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "ex68"
@@ -28707,6 +28746,9 @@
             "shortName": "fba2x",
             "name": "fba2x",
             "platforms": [],
+            "web": {
+                "https://github.com/recalbox/pifba/": "repo"
+            },
             "matches": {
                 "recalbox": [
                     "fba2x"
@@ -28800,6 +28842,10 @@
                 "retropie": [
                     "fbzx"
                 ]
+            },
+            "web": {
+                "https://www.rastersoft.com/programas/fbzx.html": "home",
+                "https://gitlab.com/rastersoft/fbzx": "repo"
             }
         },
         "fceux": {
@@ -28883,6 +28929,9 @@
                 "Sega Dreamcast",
                 "Sega Naomi"
             ],
+            "web": {
+                "https://github.com/flyinghead/flycast": "repo"
+            },
             "matches": {
                 "emulationstation-de": [
                     "Flycast"
@@ -29043,6 +29092,9 @@
             "shortName": "frotz",
             "name": "frotz",
             "platforms": [],
+            "web": {
+                "https://davidgriffith.gitlab.io/frotz/": "repo"
+            },
             "matches": {
                 "retropie": [
                     "frotz"
@@ -29052,17 +29104,6 @@
         "fs-uae": {
             "id": "fs-uae",
             "shortName": "fs-uae",
-            "name": "fs-uae",
-            "platforms": [],
-            "matches": {
-                "retropie": [
-                    "fs-uae"
-                ]
-            }
-        },
-        "fsuae": {
-            "id": "fsuae",
-            "shortName": "fsuae",
             "name": "FS-UAE Amiga Emulator",
             "platforms": [
                 "Commodore Amiga",
@@ -29070,6 +29111,9 @@
                 "Commodore Amiga CDTV"
             ],
             "matches": {
+                "retropie": [
+                    "fs-uae"
+                ],
                 "emucontrolcenter": [
                     "fsuae"
                 ]
@@ -29084,7 +29128,8 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://fs-uae.net/": "home"
+                "http://fs-uae.net/": "home",
+                "https://github.com/FrodeSolheim/fs-uae": "repo"
             },
             "description": "FS-UAE is an Amiga emulator for Windows, Linux and Mac OS X based on UAE/WinUAE, with a focus on emulating games. Features include emulation of Amiga 500, 1200, 4000, CD32 and CDTV, perfectly smooth scrolling on 50Hz displays, support for floppy images in ADF and IPF formats, CD-ROM images in ISO or BIN/CUE format, mounting folders on your computer as Amiga hard drives, support for Picasso 96 drivers for high-color and high-resolution Workbench displays, and more...."
         },
@@ -29206,6 +29251,9 @@
             "shortName": "gambatte",
             "name": "gambatte",
             "platforms": [],
+            "web": {
+                "https://sourceforge.net/projects/gambatte/": "home"
+            },
             "matches": {
                 "emulationking": [
                     "gambatte"
@@ -29353,6 +29401,9 @@
             "shortName": "gearboy",
             "name": "gearboy",
             "platforms": [],
+            "web": {
+                "https://github.com/drhelius/Gearboy": "repo"
+            },
             "matches": {
                 "emulationking": [
                     "gearboy"
@@ -29738,6 +29789,9 @@
             "shortName": "gnuboy",
             "name": "gnuboy",
             "platforms": [],
+            "web": {
+                "https://github.com/rofl0r/gnuboy": "repo"
+            },
             "matches": {
                 "emulationking": [
                     "gnuboy"
@@ -29749,6 +29803,10 @@
             "shortName": "gpsp",
             "name": "gpsp",
             "platforms": [],
+            "web": {
+                "https://gpsp-dev.blogspot.com/": "home",
+                "https://github.com/PSP-Archive/gpsp": "repo"
+            },
             "matches": {
                 "retropie": [
                     "gpsp"
@@ -29760,6 +29818,10 @@
             "shortName": "gsplus",
             "name": "gsplus",
             "platforms": [],
+            "web": {
+                "https://apple2.gs/plus/": "home",
+                "https://github.com/digarok/gsplus": "repo"
+            },
             "matches": {
                 "recalbox": [
                     "gsplus"
@@ -30035,6 +30097,9 @@
                     "Hourglass"
                 ]
             },
+            "web": {
+                "https://github.com/TASEmulators/hourglass-win32": "repo"
+            },
             "bin": [
                 "hourglass.exe"
             ],
@@ -30204,6 +30269,9 @@
             "shortName": "hypseus",
             "name": "hypseus",
             "platforms": [],
+            "web": {
+                "https://github.com/btolab/hypseus": "repo"
+            },
             "matches": {
                 "retropie": [
                     "hypseus"
@@ -30219,6 +30287,9 @@
                 "emulationstation-de": [
                     "Hypseus [Daphne]"
                 ]
+            },
+            "web": {
+                "https://github.com/DirtBagXon/hypseus-singe": "repo"
             },
             "bin": [
                 "hypseus.exe"
@@ -30239,6 +30310,9 @@
                 "emulationstation-de": [
                     "Hypseus [Singe]"
                 ]
+            },
+            "web": {
+                "https://github.com/DirtBagXon/hypseus-singe": "repo"
             },
             "bin": [
                 "hypseus.exe"
@@ -30336,6 +30410,9 @@
                 "emucontrolcenter": [
                     "infovectrex"
                 ]
+            },
+            "web": {
+                "https://github.com/jay-kumogata/InfoVectrex": "repo"
             },
             "author": "Jay's Factory",
             "license": "Freeware",
@@ -30910,6 +30987,9 @@
             "platforms": [
                 "Mobile J2ME"
             ],
+            "web": {
+                "http://www.javaemulator.com/java-emulator.php": "home"
+            },
             "matches": {
                 "emulationstation-de": [
                     "KEmulator"
@@ -30991,6 +31071,9 @@
             "platforms": [
                 "Sinclair ZX Spectrum +3"
             ],
+            "web": {
+                "https://github.com/hsaturn/klive": "repo"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "klive"
@@ -31059,6 +31142,9 @@
             "shortName": "launchbox",
             "name": "launchbox",
             "platforms": [],
+            "web": {
+                "https://www.launchbox-app.com/": "home"
+            },
             "matches": {
                 "screenscraper": [
                     "launchbox"
@@ -31070,6 +31156,9 @@
             "shortName": "linapple",
             "name": "linapple",
             "platforms": [],
+            "web": {
+                "https://github.com/linappleii/linapple": "repo"
+            },
             "matches": {
                 "recalbox": [
                     "linapple"
@@ -31086,6 +31175,9 @@
             "platforms": [
                 "Apple Lisa"
             ],
+            "web": {
+                "https://lisa.sunder.net/": "home"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "lisa"
@@ -31162,6 +31254,9 @@
             "platforms": [
                 "Elecbyte MUGEN"
             ],
+            "web": {
+                "http://www.elecbyte.com/mugendocs-11b1/mugen.html": "home"
+            },
             "matches": {
                 "emulationstation-de": [
                     "M.U.G.E.N"
@@ -31174,12 +31269,18 @@
                 "%HIDEWINDOW% %ESCAPESPECIALS% %STARTDIR%=%GAMEDIR% %BIN% /C %ROM%"
             ]
         },
-        "m2emulator": {
-            "id": "m2emulator",
-            "shortName": "m2emulator",
+        "model2emu": {
+            "id": "model2emu",
+            "shortName": "model2emu",
             "name": "Sega Model 2 Emulator",
-            "platforms": [],
+            "platforms": [
+                "Generic Arcade",
+                "Sega Model 2"
+            ],
             "matches": {
+                "emulationstation-de": [
+                    "Model 2 Emulator"
+                ],
                 "emucontrolcenter": [
                     "m2emulator"
                 ],
@@ -31189,6 +31290,9 @@
             },
             "author": "ElSemi",
             "license": "GNU GPLv2",
+            "dir": [
+                "m2emulator"
+            ],
             "bin": [
                 "EMULATOR.EXE"
             ],
@@ -31196,7 +31300,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://nebula.emulatronia.com": "home"
+                "https://web.archive.org/web/20220424033100/http://nebula.emulatronia.com/": "home"
             },
             "description": "Model 2 Emulator is a SEGA Model 2, 2A, 2B and 2C emulator. NOTE: To bypass the 'Network Board Not Present' message you need to set the 'Link ID' to 'Single'. To do this, enter Test Mode ('F2'), then select 'Game System' ('z' moves down, 'c' moves up, '1' selects) and select 'Single' in 'Link ID'. Finally, exit out of Test Mode and everything should work."
         },
@@ -31232,6 +31336,9 @@
             "platforms": [
                 "Nintendo Entertainment System"
             ],
+            "web": {
+                "https://github.com/hlorenzi/mahnes": "repo"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "mahnes"
@@ -31793,6 +31900,9 @@
                     "mesadx"
                 ]
             },
+            "web": {
+                "https://web.archive.org/web/20070124152103/http://home.comcast.net/~mesadx/index.html": "home"
+            },
             "author": "Eric R Quinn",
             "license": "Freeware",
             "bin": [
@@ -32165,29 +32275,6 @@
             },
             "description": "Minus / 4 is a C16 / Plus/4 emulator for Windows."
         },
-        "model 2 emulator": {
-            "id": "model 2 emulator",
-            "shortName": "Model 2 Emulator",
-            "name": "Model 2 Emulator",
-            "platforms": [
-                "Generic Arcade",
-                "Sega Model 2"
-            ],
-            "matches": {
-                "emulationstation-de": [
-                    "Model 2 Emulator"
-                ]
-            },
-            "bin": [
-                "EMULATOR.EXE"
-            ],
-            "dir": [
-                "m2emulator"
-            ],
-            "cmd": [
-                "%RUNINBACKGROUND% %STARTDIR%=%EMUDIR% %BIN% %BASENAME%"
-            ]
-        },
         "modelb": {
             "id": "modelb",
             "shortName": "modelb",
@@ -32225,6 +32312,9 @@
                 "emucontrolcenter": [
                     "modeler"
                 ]
+            },
+            "web": {
+                "https://web.archive.org/web/20020610034544/http://www.emuhype.com:80/index.phtml?s=modeler&ss=index": "home"
             },
             "author": "Farftch'd, R Belmont and Sarayan",
             "license": "Freeware",
@@ -32288,6 +32378,9 @@
                     "mupen64"
                 ]
             },
+            "web": {
+                "http://mupen64.emulation64.com/": "home"
+            },
             "bin": [
                 "mupen64.exe"
             ],
@@ -32303,28 +32396,6 @@
                 "pal",
                 "usa"
             ]
-        },
-        "mupen64k": {
-            "id": "mupen64k",
-            "shortName": "mupen64k",
-            "name": "Mupen64k",
-            "platforms": [
-                "Nintendo 64"
-            ],
-            "matches": {
-                "emucontrolcenter": [
-                    "mupen64k"
-                ]
-            },
-            "author": "UNKNOWN",
-            "license": "Freeware",
-            "bin": [
-                "mupen64k-0.8.exe"
-            ],
-            "cmd": [
-                "%BIN% %ROM%"
-            ],
-            "description": "Mupen64k is a fork of Mupen64 with added Kaillera support."
         },
         "mupen64plus": {
             "id": "mupen64plus",
@@ -32384,10 +32455,16 @@
             "id": "mupen64plusplus",
             "shortName": "mupen64plusplus",
             "name": "Mupen64++",
+            "altNames": [
+                "mupen64k"
+            ],
             "platforms": [
                 "Nintendo 64"
             ],
             "matches": {
+                "emucontrolcenter": [
+                    "mupen64k"
+                ],
                 "emucontrolcenter": [
                     "mupen64plusplus"
                 ]
@@ -35511,6 +35588,9 @@
             "shortName": "recalbox",
             "name": "recalbox",
             "platforms": [],
+            "web": {
+                "https://www.recalbox.com/": "home"
+            },
             "matches": {
                 "screenscraper": [
                     "recalbox"
@@ -35595,6 +35675,10 @@
                     "redream"
                 ]
             },
+            "web": {
+                "https://redream.io/": "home",
+                "https://gitlab.com/inolen/redream/": "repo"
+            },
             "bin": [
                 "redream.exe"
             ],
@@ -35668,6 +35752,9 @@
             "shortName": "reicast",
             "name": "reicast",
             "platforms": [],
+            "web": {
+                "https://github.com/skmp/reicast-emulator": "repo"
+            },
             "matches": {
                 "emulationking": [
                     "reicast"
@@ -35685,6 +35772,9 @@
             "shortName": "residualvm",
             "name": "residualvm",
             "platforms": [],
+            "web": {
+                "https://www.residualvm.org/": "home"
+            },
             "matches": {
                 "retropie": [
                     "residualvm"
@@ -35719,6 +35809,10 @@
                 "Sinclair ZX-81",
                 "Sinclair ZX Spectrum +3"
             ],
+            "web": {
+                "https://www.retroarch.com/": "home",
+                "https://github.com/libretro/RetroArch": "repo"
+            },
             "matches": {
                 "launchbox": [
                     "Retroarch"
@@ -39389,6 +39483,9 @@
             "shortName": "retropie",
             "name": "retropie",
             "platforms": [],
+            "web": {
+                "https://retropie.org.uk/": "home"
+            },
             "matches": {
                 "screenscraper": [
                     "retropie"
@@ -39423,6 +39520,9 @@
             "shortName": "Rocket Launcher",
             "name": "Rocket Launcher",
             "platforms": [],
+            "web": {
+                "https://www.rlauncher.com/": "home"
+            },
             "matches": {
                 "launchbox": [
                     "Rocket Launcher"
@@ -39576,6 +39676,9 @@
             "shortName": "rpix86",
             "name": "rpix86",
             "platforms": [],
+            "web": {
+                "https://rpix86.patrickaalto.com/": "home"
+            },
             "matches": {
                 "retropie": [
                     "rpix86"
@@ -39593,6 +39696,9 @@
                 "emulationstation-de": [
                     "Ruffle"
                 ]
+            },
+            "web": {
+                "https://ruffle.rs/": "home"
             },
             "bin": [
                 "ruffle.exe"
@@ -39640,6 +39746,10 @@
                 "emulationstation-de": [
                     "Ryujinx"
                 ]
+            },
+            "web": {
+                "https://ryujinx.org/": "home",
+                "https://github.com/Ryujinx/Ryujinx": "repo"
             },
             "bin": [
                 "Ryujinx.exe"
@@ -40031,23 +40141,6 @@
             },
             "description": "SheepShaver is a MacOS run-time environment that runs MacOS 7.5.2 thru 9.0.4."
         },
-        "shortcut or script": {
-            "id": "shortcut or script",
-            "shortName": "Shortcut or script",
-            "name": "Shortcut or script",
-            "platforms": [],
-            "matches": {
-                "emulationstation-de": [
-                    "Shortcut or script"
-                ]
-            },
-            "bin": [
-                "cmd.exe"
-            ],
-            "cmd": [
-                "%HIDEWINDOW% %ESCAPESPECIALS% %BIN% /C %ROM%"
-            ]
-        },
         "shortwaves": {
             "id": "shortwaves",
             "shortName": "shortwaves",
@@ -40331,6 +40424,9 @@
             "id": "solarus",
             "shortName": "solarus",
             "name": "solarus",
+            "web": {
+                "https://www.solarus-games.org/": "home"
+            },
             "platforms": [],
             "matches": {
                 "recalbox": [
@@ -40423,6 +40519,9 @@
             "cmd": [
                 "%BIN% %ROM%"
             ],
+            "web": {
+                "https://worldofspectrum.org/forums/index.php?p=discussion/43829/redirect/p1": "home"
+            },
             "description": "Spud is a ZX Spectrum 48k/128k Emulator written in C++, it emulates 16K/48K/128K/+2/+2A/+3 machines."
         },
         "spudace": {
@@ -40432,6 +40531,9 @@
             "platforms": [
                 "Jupiter Cantab Jupiter Ace"
             ],
+            "web": {
+                "http://www.jupiter-ace.co.uk/emulators_win.html": "home"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "spudace"
@@ -40497,6 +40599,9 @@
             "shortName": "ssspsx",
             "name": "ssspsx",
             "platforms": [],
+            "web": {
+                "https://ssspsxemulator.com/": "home"
+            },
             "matches": {
                 "emulationking": [
                     "ssspsx"
@@ -41009,6 +41114,10 @@
                     "Tsugaru"
                 ]
             },
+            "web": {
+                "http://ysflight.in.coocan.jp/FM/towns/Tsugaru/e.html": "home",
+                "https://github.com/captainys/TOWNSEMU": "repo"
+            },
             "bin": [
                 "Tsugaru_CUI.exe"
             ],
@@ -41055,6 +41164,9 @@
                 "NEC PC Engine SuperGrafx",
                 "NEC TurboGrafx-CD"
             ],
+            "web": {
+                "http://aamirm.hacking-cult.org/www/turbo.html": "home"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "turboengine"
@@ -41103,6 +41215,9 @@
             "shortName": "uae4all",
             "name": "uae4all",
             "platforms": [],
+            "web": {
+                "https://github.com/goldmojo/uae4all": "repo"
+            },
             "matches": {
                 "retropie": [
                     "uae4all"
@@ -41114,6 +41229,9 @@
             "shortName": "uae4arm",
             "name": "uae4arm",
             "platforms": [],
+            "web": {
+                "https://github.com/lubomyr/uae4arm": "repo"
+            },
             "matches": {
                 "retropie": [
                     "uae4arm"
@@ -41311,6 +41429,9 @@
             "platforms": [
                 "Nintendo Super Nintendo Entertainment System"
             ],
+            "web": {
+                "https://sourceforge.net/projects/toriniku/": "home"
+            },
             "matches": {
                 "emucontrolcenter": [
                     "uosnes"
@@ -41367,6 +41488,9 @@
             "author": "Edward Patel",
             "contact": "tiletech@hem.passagen.se",
             "license": "GNU GPLv2",
+            "web": {
+                "https://www.jupiter-ace.co.uk/emulators_win.html": "home"
+            },
             "bin": [
                 "Vace.exe"
             ],
@@ -41386,6 +41510,9 @@
                 "emucontrolcenter": [
                     "vace3d"
                 ]
+            },
+            "web": {
+                "https://www.jupiter-ace.co.uk/emulators_win.html": "home"
             },
             "author": "Edward Patel",
             "contact": "tiletech@hem.passagen.se",
@@ -41656,6 +41783,9 @@
                     "VECX"
                 ]
             },
+            "web": {
+                "https://github.com/jhawthorn/vecx": "repo"
+            },
             "author": "Valavan Manohararajah",
             "license": "Freeware",
             "bin": [
@@ -41774,6 +41904,9 @@
             "shortName": "vice",
             "name": "vice",
             "platforms": [],
+            "web": {
+                "https://vice-emu.sourceforge.io/": "home"
+            },
             "matches": {
                 "oldcomputers": [
                     "VICE"
@@ -41790,6 +41923,9 @@
             "platforms": [
                 "Commodore 64"
             ],
+            "web": {
+                "https://vice-emu.sourceforge.io/": "home"
+            },
             "matches": {
                 "emulationstation-de": [
                     "VICE x64sc Accurate"
@@ -41812,6 +41948,9 @@
             "platforms": [
                 "Commodore VIC-20"
             ],
+            "web": {
+                "https://vice-emu.sourceforge.io/": "home"
+            },
             "matches": {
                 "emulationstation-de": [
                     "VICE xvic"
@@ -42145,17 +42284,6 @@
             },
             "description": "VirtuaNES Plus is an emulator for the Nintendo NES and Famicom based on VirtuaNES but containing updated Mappers (mainly for Asian games). The website is a mixture of English and Japanese."
         },
-        "visual-boy-advance": {
-            "id": "visual-boy-advance",
-            "shortName": "visual-boy-advance",
-            "name": "visual-boy-advance",
-            "platforms": [],
-            "matches": {
-                "emulationking": [
-                    "visual-boy-advance"
-                ]
-            }
-        },
         "visualboy": {
             "id": "visualboy",
             "shortName": "visualboy",
@@ -42193,6 +42321,9 @@
                 "Nintendo Game Boy Color"
             ],
             "matches": {
+                "emulationking": [
+                    "visual-boy-advance"
+                ],
                 "emucontrolcenter": [
                     "visualboyadvance"
                 ]
@@ -42274,6 +42405,10 @@
                 "emulationstation-de": [
                     "Vita3K"
                 ]
+            },
+            "web": {
+                "https://vita3k.org/": "home",
+                "https://github.com/Vita3K/Vita3K/": "repo"
             },
             "bin": [
                 "Vita3K.exe"
@@ -42958,6 +43093,9 @@
             },
             "author": "Dr. Hell",
             "license": "Freeware",
+            "web": {
+                "http://drhell.web.fc2.com/ps1/": "home"
+            },
             "bin": [
                 "XEBRA.exe"
             ],
@@ -42980,6 +43118,10 @@
                 "emulationstation-de": [
                     "xemu"
                 ]
+            },
+            "web": {
+                "https://xemu.app/": "home",
+                "https://github.com/mborgerson/xemu": "repo"
             },
             "bin": [
                 "xemu.exe"
@@ -43301,7 +43443,8 @@
             "contact": "xroar@6809.org.uk",
             "license": "GNU GPLv2",
             "web": {
-                "http://www.6809.org.uk/xroar/": "home"
+                "http://www.6809.org.uk/xroar/": "home",
+                "https://www.6809.org.uk/git/xroar.git": "repo"
             },
             "description": "XRoar is an emulator for the following systems: DragonData Dragon 32, Dragon 64, Dragon 200-E, Tandy CoCo (Color Computer) 1 & 2, and compatibles."
         },
@@ -43314,6 +43457,10 @@
                 "emulationstation-de": [
                     "XRoar CoCo 2 NTSC"
                 ]
+            },
+            "web": {
+                "http://www.6809.org.uk/xroar/": "home",
+                "https://www.6809.org.uk/git/xroar.git": "repo"
             },
             "bin": [
                 "xroar.exe"
@@ -43335,6 +43482,10 @@
                     "XRoar CoCo 2 PAL"
                 ]
             },
+            "web": {
+                "http://www.6809.org.uk/xroar/": "home",
+                "https://www.6809.org.uk/git/xroar.git": "repo"
+            },
             "bin": [
                 "xroar.exe"
             ],
@@ -43352,6 +43503,10 @@
             "platforms": [
                 "Dragon 32-64"
             ],
+            "web": {
+                "http://www.6809.org.uk/xroar/": "home",
+                "https://www.6809.org.uk/git/xroar.git": "repo"
+            },
             "matches": {
                 "emulationstation-de": [
                     "XRoar Dragon 32"
@@ -43374,6 +43529,10 @@
             "platforms": [
                 "Dragon 32-64"
             ],
+            "web": {
+                "http://www.6809.org.uk/xroar/": "home",
+                "https://www.6809.org.uk/git/xroar.git": "repo"
+            },
             "matches": {
                 "emulationstation-de": [
                     "XRoar Dragon 64"
@@ -43419,6 +43578,9 @@
             "shortName": "yabasanshiro",
             "name": "yabasanshiro",
             "platforms": [],
+            "web": {
+                "https://www.uoyabause.org/": "home"
+            },
             "matches": {
                 "retropie": [
                     "yabasanshiro"
@@ -43670,6 +43832,12 @@
             "cmd": [
                 "%BIN% %ROM%"
             ],
+            "web": {
+                "https://yuzu-emu.org/": "home",
+                "https://github.com/yuzu-emu/yuzu": "repo",
+                "https://github.com/yuzu-emu/yuzu-mainline/": "repo",
+                "https://github.com/pineappleEA/pineapple-src": "repo"
+            },
             "description": "This version of z26 is designed to run natively on 32-bit x86 Windows platforms. It provides excellent sound quality, and correct frame synchronization on Windows-XP platforms."
         },
         "z80stealth": {

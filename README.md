@@ -118,6 +118,12 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - EmuCR
     - EmuTopia
     - EmuParadise
+    - SegaRetro.org
+    - Emulator.Games
+    - emulator-zone.com
+    - emulation64.com
+    - emulationrealm.net
+    - zophar.net
 
 ## 🔃 Contributing
 
