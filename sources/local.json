@@ -24185,6 +24185,9 @@
             "cmd": [
                 "%BIN% %ROM%"
             ],
+            "web": {
+                "https://github.com/plutooo/3dmoo": "repo"
+            },
             "description": "3dmoo is an open-source Nintendo 3DS emulator released on May 17, 2014 for Windows and Linux. It can run commercial Nintendo 3DS games, albeit very, very slowly, and most games frequently crash."
         },
         "3dnes": {
@@ -24285,6 +24288,9 @@
             "cmd": [
                 "%BIN% %ROM%"
             ],
+            "web": {
+                "https://www.zophar.net/nes/80five.html": "home"
+            },
             "description": "MarioNES / 80five is a Nintendo Entertainment System emulator."
         },
         "88va": {
@@ -24494,13 +24500,6 @@
                 "https://sourceforge.net/projects/adviemulator/": "home"
             },
             "description": "AdViEmulator is an Entex Adventure Vision with debugging capabilities."
-        },
-        "advmame": {
-            "id": "advmame",
-            "shortName": "advmame",
-            "name": "advmame",
-            "platforms": [],
-            "matches": []
         },
         "aes4all": {
             "id": "aes4all",
@@ -34575,13 +34574,6 @@
             "ext": [
                 "iso"
             ]
-        },
-        "play-ps2": {
-            "id": "play-ps2",
-            "shortName": "play-ps2",
-            "name": "play-ps2",
-            "platforms": [],
-            "matches": []
         },
         "playguy": {
             "id": "playguy",
