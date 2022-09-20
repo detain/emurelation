@@ -24663,7 +24663,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "https://github.com/sosaria7/appleinpc": "home"
+                "https://github.com/sosaria7/appleinpc": "repo"
             },
             "description": "AIPC (Apple in PC) is an Apple IIe Emulator."
         },
@@ -24960,7 +24960,7 @@
             "author": "AppleWin Team",
             "license": "GNU GPLv2",
             "web": {
-                "http://github.com/AppleWin/AppleWin": "home"
+                "http://github.com/AppleWin/AppleWin": "repo"
             },
             "description": "AppleWin is an Apple II emulator."
         },
@@ -25469,7 +25469,13 @@
             "web": {
                 "http://atariarea.krap.pl/PLus/index_us.htm": "home"
             },
-            "description": "Atari800Win Plus is an emulator that is based off the Atari800 kernel and the Atari800Win sources. It features nearly 100% compatability, stereo sound, multiple video modes, support for compressed disk images, and MUCH more."
+            "description": "Atari800Win Plus is an emulator that is based off the Atari800 kernel and the Atari800Win sources. It features nearly 100% compatability, stereo sound, multiple video modes, support for compressed disk images, and MUCH more.",
+            "dir": [
+                "Atari800Win_PLus_41"
+            ],
+            "ext": [
+                "a52"
+            ]
         },
         "atariplusplus": {
             "id": "atariplusplus",
@@ -25905,7 +25911,36 @@
             "web": {
                 "http://tasvideos.org/Bizhawk.html": "home"
             },
-            "description": "BizHawk is a A multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores."
+            "description": "BizHawk is a A multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.",
+            "dir": [
+                "BizHawk_153"
+            ],
+            "ext": [
+                "md",
+                "smd",
+                "gen",
+                "32x",
+                "bin",
+                "nes",
+                "nsf",
+                "unf",
+                "bin",
+                "bin",
+                "smc",
+                "fig",
+                "sfc",
+                "swc",
+                "gb",
+                "gmb",
+                "sgb",
+                "cgb",
+                "gbc",
+                "agb",
+                "bin",
+                "elf",
+                "gba",
+                "mb"
+            ]
         },
         "bk_libretro": {
             "id": "bk_libretro",
@@ -26068,7 +26103,17 @@
             "web": {
                 "http://www.bluemsx.com/": "home"
             },
-            "description": "blueMSX is an MSX, MSX2, MSX2+ and MSXturboR emulator. Almost all MSX machines like the ColecoVision console, the Sega SG-1000 console, the Sega SC-3000 and SF-7000 computers and the Spectravideo SVI318/328 computers are also supported."
+            "description": "blueMSX is an MSX, MSX2, MSX2+ and MSXturboR emulator. Almost all MSX machines like the ColecoVision console, the Sega SG-1000 console, the Sega SC-3000 and SF-7000 computers and the Spectravideo SVI318/328 computers are also supported.",
+            "dir": [
+                "blueMSX_282"
+            ],
+            "ext": [
+                "col",
+                "rom",
+                "rom",
+                "sc",
+                "sg"
+            ]
         },
         "bluemsx_libretro": {
             "id": "bluemsx_libretro",
@@ -26317,7 +26362,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/awjackson/bsnes-classic": "home"
+                "http://github.com/awjackson/bsnes-classic": "repo"
             },
             "description": "BSNES Classic is a Nintendo Entertainment System, Famicom, SNES, Super Famicom, Game Boy Color, BS-X Satellaview and Sufami Turbo emulator based on BSNES."
         },
@@ -26355,7 +26400,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/devinacker/bsnes-plus": "home"
+                "http://github.com/devinacker/bsnes-plus": "repo"
             },
             "description": "BSNES+ is a Nintendo Entertainment System, Famicom, SNES, Super Famicom, Game Boy Color, BS-X Satellaview and Sufami Turbo emulator based on BSNES Classic."
         },
@@ -26663,7 +26708,24 @@
             "web": {
                 "http://www.ccs64.com/": "home"
             },
-            "description": "CCS64 is a Commodore 64 Emulator for PC and also in the future other platforms. It was developed by me, Per Håkan Sundell, as my Master Thesis at my university in 1995 and have been expanded a lot since then. My personal  interest in the C64 has been very intensive since 1983 when I was spending nearly all my time with it, and I was deeply involved in the so called 'Scene'. When I later in 1987 bought my Amiga 500, I missed the old good times I had with my C64 and since then I have tried my very best to make all the old programs to work on my new machines."
+            "description": "CCS64 is a Commodore 64 Emulator for PC and also in the future other platforms. It was developed by me, Per Håkan Sundell, as my Master Thesis at my university in 1995 and have been expanded a lot since then. My personal  interest in the C64 has been very intensive since 1983 when I was spending nearly all my time with it, and I was deeply involved in the so called 'Scene'. When I later in 1987 bought my Amiga 500, I missed the old good times I had with my C64 and since then I have tried my very best to make all the old programs to work on my new machines.",
+            "dir": [
+                "CCS64_39"
+            ],
+            "ext": [
+                "102",
+                "bin",
+                "crt",
+                "u2",
+                "u3",
+                "u4",
+                "u5",
+                "ua2",
+                "ub3",
+                "g64",
+                "nib",
+                "tap"
+            ]
         },
         "cdi2015_libretro": {
             "id": "cdi2015_libretro",
@@ -26833,7 +26895,14 @@
             "web": {
                 "https://citra-emu.org/": "home"
             },
-            "description": "Citra is an experimental open-source Nintendo 3DS emulator/debugger written in C++. Although it is slow at this time, it is constantly being improved. Citra's features include better visual output, debugging homebrew, with planned controller support."
+            "description": "Citra is an experimental open-source Nintendo 3DS emulator/debugger written in C++. Although it is slow at this time, it is constantly being improved. Citra's features include better visual output, debugging homebrew, with planned controller support.",
+            "ext": [
+                "3ds",
+                "3dsx",
+                "cci",
+                "cxi",
+                "csu"
+            ]
         },
         "citra2018_libretro": {
             "id": "citra2018_libretro",
@@ -27381,7 +27450,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "https://github.com/Echelon9/cxbx-shogun": "home"
+                "https://github.com/Echelon9/cxbx-shogun": "repo"
             },
             "description": "Cxbx is a Microsoft XBox emulator. This version is a fork of the original Cxbx."
         },
@@ -27418,7 +27487,7 @@
             "author": "Luke Usher",
             "license": "GNU GPLv2",
             "web": {
-                "https://github.com/LukeUsher/Cxbx-Reloaded": "home"
+                "https://github.com/LukeUsher/Cxbx-Reloaded": "repo"
             },
             "description": "Cxbx-Reloaded is a Microsoft XBox emulator. This version is a fork of the original Cxbx."
         },
@@ -27765,7 +27834,13 @@
                 "emulationking": [
                     "decaf-emulator"
                 ]
-            }
+            },
+            "bin": [
+                "decaf-qt.exe"
+            ],
+            "dir": [
+                "decaf"
+            ]
         },
         "dega": {
             "id": "dega",
@@ -27830,7 +27905,13 @@
             "web": {
                 "http://demul.emulation64.com": "home"
             },
-            "description": "Demul is a Sega Dreamcast emulator which also emulates the arcade boards of Naomi 1, Naomi 2, Hikaru, and Atomiswave."
+            "description": "Demul is a Sega Dreamcast emulator which also emulates the arcade boards of Naomi 1, Naomi 2, Hikaru, and Atomiswave.",
+            "dir": [
+                "Demul_0582"
+            ],
+            "ext": [
+                "iso"
+            ]
         },
         "desmume": {
             "id": "desmume",
@@ -27863,7 +27944,16 @@
             "web": {
                 "http://desmume.org/": "home"
             },
-            "description": "DeSmuME is a freeware emulator for the NDS roms & Nintendo DS Lite and DSi games created by YopYop156. DeSmuME is also known as YopYop DS is written in C++ for Microsoft Windows and can play Nintendo DS homebrew and commercial nds roms. The emulator its self is in French (with full user translations to English and other languages). But even French version of DeSmuME is easy to navigate through menus as it has a similar users interface to DSemu. It supports many homebrew nds rom demoes as well as a handful of Wireless Multiboot demo nds roms. DeSmuME is also able to emulate nearly all of the commercial nds rom titles which other DS Emulators like iDeaS and Dualis aren't capable of running."
+            "description": "DeSmuME is a freeware emulator for the NDS roms & Nintendo DS Lite and DSi games created by YopYop156. DeSmuME is also known as YopYop DS is written in C++ for Microsoft Windows and can play Nintendo DS homebrew and commercial nds roms. The emulator its self is in French (with full user translations to English and other languages). But even French version of DeSmuME is easy to navigate through menus as it has a similar users interface to DSemu. It supports many homebrew nds rom demoes as well as a handful of Wireless Multiboot demo nds roms. DeSmuME is also able to emulate nearly all of the commercial nds rom titles which other DS Emulators like iDeaS and Dualis aren't capable of running.",
+            "dir": [
+                "DeSmuME_x432R"
+            ],
+            "ext": [
+                "dsi",
+                "nds",
+                "pme",
+                "srl"
+            ]
         },
         "desmume2015_libretro": {
             "id": "desmume2015_libretro",
@@ -28088,7 +28178,11 @@
             "web": {
                 "https://dolphin-emu.org/": "home"
             },
-            "description": "Dolphin is a GameCube and Wii emulator with high compatibility across the majority of titles for both platforms. It was first developed as closed source in 2003, and as open source since 2008."
+            "description": "Dolphin is a GameCube and Wii emulator with high compatibility across the majority of titles for both platforms. It was first developed as closed source in 2003, and as open source since 2008.",
+            "ext": [
+                "iso",
+                "iso"
+            ]
         },
         "dolphin_libretro": {
             "id": "dolphin_libretro",
@@ -28535,7 +28629,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/leniad/dsp-emulator": "home"
+                "http://github.com/leniad/dsp-emulator": "repo"
             },
             "description": "DSP is a multi-system emulator that emulates the following: Nintendo NES, Nintendo Game Boy and Game Boy Color, Coleco ColecoVision, Sharp Chip 8 and Super Chip 8,  Sega Master System, Sinclair Spectrum 16K, 48K, 128K, +2 and +2A/+3 and Amstrad CPC 464, 664 and 6128. It also emulates over 220 Arcade Machines (see Readme.txt for full list). NOTE: BIOS ROMs are not required but will improve emulation."
         },
@@ -29228,7 +29322,14 @@
             "web": {
                 "http://www.epsxe.com/": "home"
             },
-            "description": "ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux, as well as devices running Android. It was written by three authors, using the aliases calb, -Demo- and Galtor. ePSXe is closed source with the exception of the application programming interface (API) for its plug-ins."
+            "description": "ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux, as well as devices running Android. It was written by three authors, using the aliases calb, -Demo- and Galtor. ePSXe is closed source with the exception of the application programming interface (API) for its plug-ins.",
+            "dir": [
+                "ePSXe_190"
+            ],
+            "ext": [
+                "iso",
+                "bin"
+            ]
         },
         "euphoric": {
             "id": "euphoric",
@@ -29434,7 +29535,10 @@
             "web": {
                 "http://www.fbalpha.com": "home"
             },
-            "description": "FB Alpha is an arcade emulator supporting the following platforms: Capcom CPS1, CPS2 and CPS3, Cave, Data East DEC-0, DEC-8 and DECO IC16 based games, Galaxian based hardware, Irem M62, M63, M72, M90, M92 and M107 hardware, Kaneko 16, Konami, SNK NeoGeo, NMK16, Pacman based hardware, PGM, Psikyo 68EC020 and SH-2 based hardware, Sega System 1, System 16 (and similar), System 18, X-Board and Y-Board, Super Kaneko Nova System, Toaplan 1 and 2, Taito F2, X, Z and others. It has miscellaneous drivers for lots of other hardware and has WIP console drivers for Sega Megadrive/Genesis, ColecoVision, Sega SG-1000, Sega Master System/Game Gear and also PC-Engine/TurboGrafx 16/SuperGrafx."
+            "description": "FB Alpha is an arcade emulator supporting the following platforms: Capcom CPS1, CPS2 and CPS3, Cave, Data East DEC-0, DEC-8 and DECO IC16 based games, Galaxian based hardware, Irem M62, M63, M72, M90, M92 and M107 hardware, Kaneko 16, Konami, SNK NeoGeo, NMK16, Pacman based hardware, PGM, Psikyo 68EC020 and SH-2 based hardware, Sega System 1, System 16 (and similar), System 18, X-Board and Y-Board, Super Kaneko Nova System, Toaplan 1 and 2, Taito F2, X, Z and others. It has miscellaneous drivers for lots of other hardware and has WIP console drivers for Sega Megadrive/Genesis, ColecoVision, Sega SG-1000, Sega Master System/Game Gear and also PC-Engine/TurboGrafx 16/SuperGrafx.",
+            "dir": [
+                "Final_Burn_Alpha_rr_007"
+            ]
         },
         "fbalpha2012_cps1_libretro": {
             "id": "fbalpha2012_cps1_libretro",
@@ -29704,7 +29808,18 @@
             "web": {
                 "http://www.fceux.com/web/home.html": "home"
             },
-            "description": "FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evolution of the original FCE Ultra emulator. It is the favorite emu for recording/playing game movies."
+            "description": "FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evolution of the original FCE Ultra emulator. It is the favorite emu for recording/playing game movies.",
+            "dir": [
+                "FCEUX"
+            ],
+            "ext": [
+                "nes",
+                "nsf",
+                "unf",
+                "bin",
+                "bin",
+                "fds"
+            ]
         },
         "firegb": {
             "id": "firegb",
@@ -29727,7 +29842,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "https://github.com/Frankablu/FireGB": "home"
+                "https://github.com/Frankablu/FireGB": "repo"
             },
             "description": "FireGB is a Nintendo Game Boy emulator."
         },
@@ -29757,6 +29872,9 @@
             ],
             "cmd": [
                 "%BIN% %ROM%"
+            ],
+            "ext": [
+                "iso"
             ]
         },
         "flycast_libretro": {
@@ -30298,7 +30416,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/shonumi/gbe-plus": "home"
+                "http://github.com/shonumi/gbe-plus": "repo"
             },
             "description": "GB Enhanced+ is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator."
         },
@@ -30445,7 +30563,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/drhelius/Gearsystem": "home"
+                "http://github.com/drhelius/Gearsystem": "repo"
             },
             "description": "GearSystem is a Sega Master System and Game Gear emulator"
         },
@@ -30529,7 +30647,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/shonumi/gekko-gc-emu": "home"
+                "http://github.com/shonumi/gekko-gc-emu": "repo"
             },
             "description": "Gekko is a Nintendo GameCube emulator. NOTE: Screenshot from https://emulationking.com/gekko/."
         },
@@ -30728,7 +30846,17 @@
             "web": {
                 "http://gens.me": "home"
             },
-            "description": "Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earliest semi-functional release (only capable of debugging 68000 instructions) dates from 1999. The current version advertises full compatibility with over 90% of all Genesis games."
+            "description": "Gens is a Sega Mega Drive/Genesis, Sega Mega CD & Sega 32X emulator. The earliest semi-functional release (only capable of debugging 68000 instructions) dates from 1999. The current version advertises full compatibility with over 90% of all Genesis games.",
+            "dir": [
+                "Gens_rr_11_r341"
+            ],
+            "ext": [
+                "32x",
+                "bin",
+                "md",
+                "smd",
+                "gen"
+            ]
         },
         "gens32": {
             "id": "gens32",
@@ -30793,7 +30921,17 @@
             "web": {
                 "http://sonicretro.org": "home"
             },
-            "description": "Gens/GS is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator based on the Genesis emulator Gens. Project goals include clean source code, combined features from various forks of Gens, and improved platform portability."
+            "description": "Gens/GS is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator based on the Genesis emulator Gens. Project goals include clean source code, combined features from various forks of Gens, and improved platform portability.",
+            "dir": [
+                "Gens_gs_r7"
+            ],
+            "ext": [
+                "32x",
+                "bin",
+                "md",
+                "smd",
+                "gen"
+            ]
         },
         "gensplus": {
             "id": "gensplus",
@@ -31045,7 +31183,13 @@
             "web": {
                 "http://handy.sourceforge.net": "home"
             },
-            "description": "Handy is an Atari Lynx emulator. the Lynx BIOS is not required, unless you wish to run Cartridges."
+            "description": "Handy is an Atari Lynx emulator. the Lynx BIOS is not required, unless you wish to run Cartridges.",
+            "dir": [
+                "Handy_095"
+            ],
+            "ext": [
+                "lnx"
+            ]
         },
         "handy_libretro": {
             "id": "handy_libretro",
@@ -31291,7 +31435,16 @@
                 "windspro": [
                     "Hourglass"
                 ]
-            }
+            },
+            "bin": [
+                "hourglass.exe"
+            ],
+            "dir": [
+                "Hourglass_r81"
+            ],
+            "platforms": [
+                "Generic PC"
+            ]
         },
         "hoxs64": {
             "id": "hoxs64",
@@ -31935,7 +32088,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/jonathan-markland/Jynx": "home"
+                "http://github.com/jonathan-markland/Jynx": "repo"
             },
             "description": "Jynx is an emulator for the Camputers Lynx computer. See http://jynxemulator.wordpress.com/ for more information."
         },
@@ -32085,7 +32238,26 @@
             "web": {
                 "http://www.carpeludum.com/kega-fusion/": "home"
             },
-            "description": "Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, SVP, Pico, SegaCD/MegaCD and 32X emulator for Win9x/ME/2000/XP/Vista and Mac OSX/Intel"
+            "description": "Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, SVP, Pico, SegaCD/MegaCD and 32X emulator for Win9x/ME/2000/XP/Vista and Mac OSX/Intel",
+            "dir": [
+                "Kega_Fusion_364"
+            ],
+            "ext": [
+                "32x",
+                "bin",
+                "gg",
+                "sms",
+                "sms",
+                "sg",
+                "sc",
+                "mv",
+                "md",
+                "smd",
+                "gen",
+                "md",
+                "sc",
+                "sg"
+            ]
         },
         "kegs": {
             "id": "kegs",
@@ -32432,7 +32604,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "https://github.com/zeta0134/LuaGB": "home"
+                "https://github.com/zeta0134/LuaGB": "repo"
             },
             "description": "A gameboy emulator written in Pure Lua. Approaching feature completeness, but still a work in progress. This is designed to be fairly cross platform, and currently consists of a platform-independent gameboy module which contains the emulator, and a Love2D interface, presently the only supported platform."
         },
@@ -32513,7 +32685,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/rururutan/m88": "home"
+                "http://github.com/rururutan/m88": "repo"
             },
             "description": "M88 is an NEC PC8001 emulator. NOTE: The emulator is in Japanese."
         },
@@ -33025,7 +33197,46 @@
             "web": {
                 "http://mednafen.fobby.net": "home"
             },
-            "description": "Mednafen is a portable, utilizing OpenGL and SDL, argument (command-line)-driven multi-system emulator. Mednafen has the ability to remap hotkey functions and virtual system inputs to a keyboard, a joystick, or both simultaneously. Save states are supported, as is real-time game rewinding. Screen snapshots may be taken, in the PNG file format, at the press of a button. Mednafen can record audiovisual movies in the QuickTime file format, with several different lossless codecs supported. The following systems are supported: Atari Lynx, Neo Geo Pocket (Color), WonderSwan, GameBoy (Color), GameBoy Advance, Nintendo Entertainment System, Super Nintendo Entertainment System/Super Famicom, Virtual Boy, PC Engine/TurboGrafx 16 (CD), SuperGrafx, PC-FX, Sega Game Gear, Sega Genesis/Megadrive, Sega Master System & Sony PlayStation."
+            "description": "Mednafen is a portable, utilizing OpenGL and SDL, argument (command-line)-driven multi-system emulator. Mednafen has the ability to remap hotkey functions and virtual system inputs to a keyboard, a joystick, or both simultaneously. Save states are supported, as is real-time game rewinding. Screen snapshots may be taken, in the PNG file format, at the press of a button. Mednafen can record audiovisual movies in the QuickTime file format, with several different lossless codecs supported. The following systems are supported: Atari Lynx, Neo Geo Pocket (Color), WonderSwan, GameBoy (Color), GameBoy Advance, Nintendo Entertainment System, Super Nintendo Entertainment System/Super Famicom, Virtual Boy, PC Engine/TurboGrafx 16 (CD), SuperGrafx, PC-FX, Sega Game Gear, Sega Genesis/Megadrive, Sega Master System & Sony PlayStation.",
+            "ext": [
+                "lnx",
+                "ws",
+                "gb",
+                "gmb",
+                "sgb",
+                "cgb",
+                "gbc",
+                "agb",
+                "bin",
+                "elf",
+                "gba",
+                "mb",
+                "nes",
+                "nsf",
+                "unf",
+                "bin",
+                "bin",
+                "fds",
+                "vb",
+                "vboy",
+                "pce",
+                "pce",
+                "sgx",
+                "gg",
+                "sms",
+                "md",
+                "smd",
+                "gen",
+                "sms",
+                "sg",
+                "sc",
+                "mv",
+                "iso",
+                "bin",
+                "ngp",
+                "ngc",
+                "ngp"
+            ]
         },
         "mednafen_lynx_libretro": {
             "id": "mednafen_lynx_libretro",
@@ -33476,7 +33687,13 @@
             "web": {
                 "http://melonds.kuribo64.net/": "home"
             },
-            "description": "melonDS is part of a second wave of DS emulators. There are a few other emulator projects that are part of it, which you might have already heard of."
+            "description": "melonDS is part of a second wave of DS emulators. There are a few other emulator projects that are part of it, which you might have already heard of.",
+            "ext": [
+                "nes",
+                "nsf",
+                "unf",
+                "bin"
+            ]
         },
         "melonds_libretro": {
             "id": "melonds_libretro",
@@ -33902,7 +34119,14 @@
             "web": {
                 "http://mgba.io": "home"
             },
-            "description": "mGBA is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator."
+            "description": "mGBA is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator.",
+            "ext": [
+                "agb",
+                "bin",
+                "elf",
+                "gba",
+                "mb"
+            ]
         },
         "mgba_libretro": {
             "id": "mgba_libretro",
@@ -34190,9 +34414,7 @@
             "id": "mupen64",
             "shortName": "mupen64",
             "name": "Mupen64",
-            "platforms": [
-                "n64"
-            ],
+            "platforms": [],
             "matches": {
                 "windspro": [
                     "Mupen64-rr"
@@ -34203,7 +34425,22 @@
                 "launchbox": [
                     "mupen64"
                 ]
-            }
+            },
+            "bin": [
+                "mupen64.exe"
+            ],
+            "dir": [
+                "Mupen64_rr_462"
+            ],
+            "ext": [
+                "n64",
+                "v64",
+                "z64",
+                "rom",
+                "jap",
+                "pal",
+                "usa"
+            ]
         },
         "mupen64k": {
             "id": "mupen64k",
@@ -34270,7 +34507,16 @@
             "web": {
                 "http://mupen64plus.org": "home"
             },
-            "description": "Mupen64Plus is a Nintendo 64 emulator."
+            "description": "Mupen64Plus is a Nintendo 64 emulator.",
+            "ext": [
+                "n64",
+                "v64",
+                "z64",
+                "rom",
+                "jap",
+                "pal",
+                "usa"
+            ]
         },
         "mupen64plus_libretro": {
             "id": "mupen64plus_libretro",
@@ -34793,7 +35039,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/amaiorano/nes-emu/": "home"
+                "http://github.com/amaiorano/nes-emu/": "repo"
             },
             "description": "nes-emu is a Nintendo Entertainment System emulator."
         },
@@ -34882,7 +35128,16 @@
             "web": {
                 "http://nestopia.sourceforge.net/": "home"
             },
-            "description": "Nestopia is an open source NES/Famicom emulator written in standard C++, focused on delivering as accurate emulation as possible. It is released under the GNU General Public License (GPL)"
+            "description": "Nestopia is an open source NES/Famicom emulator written in standard C++, focused on delivering as accurate emulation as possible. It is released under the GNU General Public License (GPL)",
+            "dir": [
+                "Nestopia"
+            ],
+            "ext": [
+                "nes",
+                "nsf",
+                "unf",
+                "bin"
+            ]
         },
         "nestopia_libretro": {
             "id": "nestopia_libretro",
@@ -35120,7 +35375,10 @@
             "web": {
                 "http://problemkaputt.de/index.htm": "home"
             },
-            "description": "nocash Atari 2600 emulator/debugger for windows."
+            "description": "nocash Atari 2600 emulator/debugger for windows.",
+            "dir": [
+                "no$2k6_11"
+            ]
         },
         "noc64": {
             "id": "noc64",
@@ -35150,7 +35408,24 @@
             "web": {
                 "http://problemkaputt.de/index.htm": "home"
             },
-            "description": "nocash C64 emulator - Emulates cpu, memory, video, keyboard, joysticks, timers. Supports single file cassette loading (.PRG or .P00 files). Local keyboard support. Fast boot and fast intro/memcopy mechanisms. Fully featured debugger with breakpoints, symbolic debug info (labels), automatic I/O and Kernal disassembler comments, vram viewer, built-in assembler/disassembler supports native/nocash syntaxes, upload to real C64 function, help includes built-in C64 programming specs."
+            "description": "nocash C64 emulator - Emulates cpu, memory, video, keyboard, joysticks, timers. Supports single file cassette loading (.PRG or .P00 files). Local keyboard support. Fast boot and fast intro/memcopy mechanisms. Fully featured debugger with breakpoints, symbolic debug info (labels), automatic I/O and Kernal disassembler comments, vram viewer, built-in assembler/disassembler supports native/nocash syntaxes, upload to real C64 function, help includes built-in C64 programming specs.",
+            "dir": [
+                "no$c64_11"
+            ],
+            "ext": [
+                "102",
+                "bin",
+                "crt",
+                "u2",
+                "u3",
+                "u4",
+                "u5",
+                "ua2",
+                "ub3",
+                "tap",
+                "g64",
+                "nib"
+            ]
         },
         "nocpc": {
             "id": "nocpc",
@@ -35213,7 +35488,21 @@
             "web": {
                 "http://problemkaputt.de/index.htm": "home"
             },
-            "description": "nocash Gameboy Advance / Nintendo DS / DSi emulator/debugger for windows. Note that this version also includes an emulator for the Sony PocketStation."
+            "description": "nocash Gameboy Advance / Nintendo DS / DSi emulator/debugger for windows. Note that this version also includes an emulator for the Sony PocketStation.",
+            "dir": [
+                "no$gba"
+            ],
+            "ext": [
+                "dsi",
+                "nds",
+                "pme",
+                "srl",
+                "agb",
+                "bin",
+                "elf",
+                "gba",
+                "mb"
+            ]
         },
         "nogmb": {
             "id": "nogmb",
@@ -35267,7 +35556,14 @@
             "web": {
                 "http://problemkaputt.de/index.htm": "home"
             },
-            "description": "No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulators it's including a comfortable debugger, so that it's more a serious development tool than just a emulator. Beside for the development part, the most important goals are: User-friendly GUI and lots of options, and the complete lack of overload - the program is written in raw assembler language, sized about 150 KBytes, and works fine on 33MHz computers."
+            "description": "No$msx is a MSX1 + MSX2 emulator for DOS and Windows, like the other no$-emulators it's including a comfortable debugger, so that it's more a serious development tool than just a emulator. Beside for the development part, the most important goals are: User-friendly GUI and lots of options, and the complete lack of overload - the program is written in raw assembler language, sized about 150 KBytes, and works fine on 33MHz computers.",
+            "dir": [
+                "no$msx_15"
+            ],
+            "ext": [
+                "rom",
+                "rom"
+            ]
         },
         "nones": {
             "id": "nones",
@@ -35296,7 +35592,16 @@
             "web": {
                 "http://problemkaputt.de/index.htm": "home"
             },
-            "description": "nocash NES/FDS/PC10/VS emulator/debugger for windows."
+            "description": "nocash NES/FDS/PC10/VS emulator/debugger for windows.",
+            "dir": [
+                "no$nes_11"
+            ],
+            "ext": [
+                "nes",
+                "nsf",
+                "unf",
+                "bin"
+            ]
         },
         "nopsx": {
             "id": "nopsx",
@@ -35327,7 +35632,14 @@
             "web": {
                 "http://problemkaputt.de/index.htm": "home"
             },
-            "description": "nocash PS1 emulator/debugger for windows."
+            "description": "nocash PS1 emulator/debugger for windows.",
+            "dir": [
+                "no$psx_18"
+            ],
+            "ext": [
+                "iso",
+                "bin"
+            ]
         },
         "nosns": {
             "id": "nosns",
@@ -35355,7 +35667,17 @@
             "web": {
                 "http://problemkaputt.de/index.htm": "home"
             },
-            "description": "nocash SNES/Super Famicom emulator/debugger for windows."
+            "description": "nocash SNES/Super Famicom emulator/debugger for windows.",
+            "dir": [
+                "no$sns_15"
+            ],
+            "ext": [
+                "bin",
+                "smc",
+                "fig",
+                "sfc",
+                "swc"
+            ]
         },
         "nostalgia": {
             "id": "nostalgia",
@@ -35474,7 +35796,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/AlexAltea/nucleus/releases": "home"
+                "http://github.com/AlexAltea/nucleus/releases": "repo"
             },
             "description": "Nucleus is a Sony Playstation 3 emulator. NOTE: This emulator requires PS3 firmware keys to be placed in a file named 'keys.xml' next to the executable."
         },
@@ -35512,9 +35834,15 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/skmp/nulldc": "home"
+                "http://github.com/skmp/nulldc": "repo"
             },
-            "description": "nullDC is a Sega Dreamcast emulator."
+            "description": "nullDC is a Sega Dreamcast emulator.",
+            "dir": [
+                "nullDC_150"
+            ],
+            "ext": [
+                "iso"
+            ]
         },
         "nulldcn": {
             "id": "nulldcn",
@@ -35537,7 +35865,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/skmp/nulldc": "home"
+                "http://github.com/skmp/nulldc": "repo"
             },
             "description": "NullDC Naomi is a Sega Naomi emulator."
         },
@@ -35628,7 +35956,15 @@
             "web": {
                 "http://www.ouma.jp/ootake/": "home"
             },
-            "description": "PC Engine (Turbo Grafx 16) emulator since 2006/07"
+            "description": "PC Engine (Turbo Grafx 16) emulator since 2006/07",
+            "dir": [
+                "Ootake_275"
+            ],
+            "ext": [
+                "pce",
+                "pce",
+                "sgx"
+            ]
         },
         "openbor": {
             "id": "openbor",
@@ -35671,6 +36007,9 @@
                 "%BIN% -machine National_CF-3300 %INJECT%=%BASENAME%.commands %ROM%",
                 "%BIN% -machine Panasonic_FS-A1WSX %INJECT%=%BASENAME%.commands %ROM%",
                 "%BIN% -machine Panasonic_FS-A1GT %INJECT%=%BASENAME%.commands %ROM%"
+            ],
+            "ext": [
+                "rom"
             ]
         },
         "opera_libretro": {
@@ -35790,7 +36129,14 @@
             "cmd": [
                 "%BIN% %ROM%"
             ],
-            "description": "Oswan is a Bandai WonderSwan and WonderSwan Color emulator."
+            "description": "Oswan is a Bandai WonderSwan and WonderSwan Color emulator.",
+            "dir": [
+                "Oswan_173"
+            ],
+            "ext": [
+                "ws",
+                "wsc"
+            ]
         },
         "oswanu": {
             "id": "oswanu",
@@ -36190,7 +36536,14 @@
             "cmd": [
                 "%BIN% %ROM%"
             ],
-            "description": "Pcsx is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins."
+            "description": "Pcsx is a Sony Playstation 1 emulator. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins.",
+            "dir": [
+                "PCSXRedux"
+            ],
+            "ext": [
+                "iso",
+                "bin"
+            ]
         },
         "pcsx-rearmed": {
             "id": "pcsx-rearmed",
@@ -36204,7 +36557,17 @@
                 "retropie": [
                     "pcsx-rearmed"
                 ]
-            }
+            },
+            "bin": [
+                "pcsxr-pgxp.exe"
+            ],
+            "dir": [
+                "PCSXR_1993"
+            ],
+            "ext": [
+                "iso",
+                "bin"
+            ]
         },
         "pcsx2": {
             "id": "pcsx2",
@@ -36251,9 +36614,12 @@
             "author": "PCSX2 team",
             "license": "GNU GPLv3",
             "web": {
-                "https://github.com/PCSX2/pcsx2/": "home"
+                "https://github.com/PCSX2/pcsx2/": "repo"
             },
-            "description": "PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator. Its purpose is to emulate the PS2 hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits."
+            "description": "PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator. Its purpose is to emulate the PS2 hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.",
+            "ext": [
+                "iso"
+            ]
         },
         "pcsx2 legacy": {
             "id": "pcsx2 legacy",
@@ -36424,7 +36790,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/sebastianbiallas/pearpc": "home"
+                "http://github.com/sebastianbiallas/pearpc": "repo"
             },
             "description": "PearPC (PowerPC Architecture Emulator) is an PowerPC emulator. NOTE: PearPC requires a client OS (such as Darwin for PowerPC, Mac OS X or Mandrake Linux 9.1 for PowerPC) that runs in the emulator."
         },
@@ -36656,6 +37022,9 @@
             ],
             "cmd": [
                 "%BIN% --disc %ROM%"
+            ],
+            "ext": [
+                "iso"
             ]
         },
         "play-ps2": {
@@ -36754,7 +37123,13 @@
             "web": {
                 "http://sourceforge.net/projects/pokemini/": "home"
             },
-            "description": "Poke Mini is a Nintendo Pokemon-Mini emulator."
+            "description": "Poke Mini is a Nintendo Pokemon-Mini emulator.",
+            "dir": [
+                "PokeMini_054"
+            ],
+            "ext": [
+                "min"
+            ]
         },
         "pokemini_libretro": {
             "id": "pokemini_libretro",
@@ -36914,7 +37289,10 @@
             "web": {
                 "http://www.ppsspp.org/": "home"
             },
-            "description": "PPSSPP is a Sony Playstation Portable emulator."
+            "description": "PPSSPP is a Sony Playstation Portable emulator.",
+            "ext": [
+                "iso"
+            ]
         },
         "ppsspp_libretro": {
             "id": "ppsspp_libretro",
@@ -37038,7 +37416,16 @@
             "web": {
                 "http://www.pj64-emu.com/": "home"
             },
-            "description": "Project64 is a Nintendo 64 emulator which at first seemed to have popped up out of nowhere, offering excelent game support with little bugs. Future versions only improved things more!"
+            "description": "Project64 is a Nintendo 64 emulator which at first seemed to have popped up out of nowhere, offering excelent game support with little bugs. Future versions only improved things more!",
+            "ext": [
+                "n64",
+                "v64",
+                "z64",
+                "rom",
+                "jap",
+                "pal",
+                "usa"
+            ]
         },
         "project64k": {
             "id": "project64k",
@@ -37091,7 +37478,19 @@
             "web": {
                 "http://project64k7e.blogspot.com.au/": "home"
             },
-            "description": "Project64K7E is a Nintendo 64 emulator based on Project64."
+            "description": "Project64K7E is a Nintendo 64 emulator based on Project64.",
+            "dir": [
+                "Project64K7E_131"
+            ],
+            "ext": [
+                "n64",
+                "v64",
+                "z64",
+                "rom",
+                "jap",
+                "pal",
+                "usa"
+            ]
         },
         "projecttempest": {
             "id": "projecttempest",
@@ -37155,7 +37554,13 @@
             "web": {
                 "http://home.comcast.net/~gscottstanton/": "home"
             },
-            "description": "ProSystem is an emulator for the Windows operating system that will allow you to play Atari 7800 video games on your PC. An emulator is a program that has the ability to imitate another program, device, or computer. The ProSystem emulator imitates the Atari 7800's CPU, video, audio, joystick controls, etc. Before you can use the emulator, you will need to obtain rom images that are compatible with the Atari 7800."
+            "description": "ProSystem is an emulator for the Windows operating system that will allow you to play Atari 7800 video games on your PC. An emulator is a program that has the ability to imitate another program, device, or computer. The ProSystem emulator imitates the Atari 7800's CPU, video, audio, joystick controls, etc. Before you can use the emulator, you will need to obtain rom images that are compatible with the Atari 7800.",
+            "dir": [
+                "ProSystem_13"
+            ],
+            "ext": [
+                "a78"
+            ]
         },
         "prosystem_libretro": {
             "id": "prosystem_libretro",
@@ -37278,7 +37683,14 @@
             "web": {
                 "http://psxemulator.gazaxian.com/": "home"
             },
-            "description": "This emulator fully emulates the Sony Playstation. Compatibility is fairly high, most games I've tried work well."
+            "description": "This emulator fully emulates the Sony Playstation. Compatibility is fairly high, most games I've tried work well.",
+            "dir": [
+                "pSX_1_13"
+            ],
+            "ext": [
+                "iso",
+                "bin"
+            ]
         },
         "psxeven": {
             "id": "psxeven",
@@ -37335,7 +37747,14 @@
             "web": {
                 "http://code.google.com/p/psxjin/": "home"
             },
-            "description": "PSXjin is a Sony Playstation 1 emulator."
+            "description": "PSXjin is a Sony Playstation 1 emulator.",
+            "dir": [
+                "PSXjin_202"
+            ],
+            "ext": [
+                "iso",
+                "bin"
+            ]
         },
         "psyke": {
             "id": "psyke",
@@ -37840,7 +38259,14 @@
             "web": {
                 "http://www.vtemulation.net/emulators/windows/vb.php": "home"
             },
-            "description": "Red Dragon is a Nintendo Virtual Boy emulator."
+            "description": "Red Dragon is a Nintendo Virtual Boy emulator.",
+            "dir": [
+                "Red_Dragon_038"
+            ],
+            "ext": [
+                "vb",
+                "vboy"
+            ]
         },
         "redmsx": {
             "id": "redmsx",
@@ -38298,7 +38724,13 @@
             "web": {
                 "http://rpcs3.net/": "home"
             },
-            "description": "RPCS3 is a Sony Playstation 3 emulator. Screenshot from Author's Website."
+            "description": "RPCS3 is a Sony Playstation 3 emulator. Screenshot from Author's Website.",
+            "dir": [
+                "rpcs3"
+            ],
+            "ext": [
+                "iso"
+            ]
         },
         "rpix86": {
             "id": "rpix86",
@@ -39095,7 +39527,14 @@
             "web": {
                 "http://www.snes9x.com": "home"
             },
-            "description": "Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems."
+            "description": "Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems.",
+            "ext": [
+                "bin",
+                "smc",
+                "fig",
+                "sfc",
+                "swc"
+            ]
         },
         "snes9x2002_libretro": {
             "id": "snes9x2002_libretro",
@@ -39462,7 +39901,10 @@
             "web": {
                 "http://www.geocities.jp/mj3kj8o5/ssf/index.html": "home"
             },
-            "description": "SSF is a Windows-based emulator of the Sega Saturn and Sega Titan Video (ST-V, an arcade board very similar to the Saturn). Despite the historical difficulty of emulating the Saturn's rather idiosyncratic and complex architecture, and the fact that SSF is developed by a sole developer (Shima), it has overtaken other Saturn emulators to the point of being able to run the majority of games with few to no issues. It is designed to run game CDs directly, so images must be mounted with a virtual drive program (e.g. Daemon Tools) in order to be played."
+            "description": "SSF is a Windows-based emulator of the Sega Saturn and Sega Titan Video (ST-V, an arcade board very similar to the Saturn). Despite the historical difficulty of emulating the Saturn's rather idiosyncratic and complex architecture, and the fact that SSF is developed by a sole developer (Shima), it has overtaken other Saturn emulators to the point of being able to run the majority of games with few to no issues. It is designed to run game CDs directly, so images must be mounted with a virtual drive program (e.g. Daemon Tools) in order to be played.",
+            "ext": [
+                "iso"
+            ]
         },
         "ssspsx": {
             "id": "ssspsx",
@@ -40701,7 +41143,19 @@
             "web": {
                 "http://vba-m.com/": "home"
             },
-            "description": "VisualBoyAdvance-M-WX is a Nintendo Game Boy and Game Boy Advance emulator. It is a fork of VisualBoyAdvance."
+            "description": "VisualBoyAdvance-M-WX is a Nintendo Game Boy and Game Boy Advance emulator. It is a fork of VisualBoyAdvance.",
+            "ext": [
+                "gb",
+                "gmb",
+                "sgb",
+                "cgb",
+                "gbc",
+                "agb",
+                "bin",
+                "elf",
+                "gba",
+                "mb"
+            ]
         },
         "vbam_libretro": {
             "id": "vbam_libretro",
@@ -40756,7 +41210,22 @@
             "web": {
                 "http://code.google.com/archive/p/vba-rerecording/wikis": "home"
             },
-            "description": "VBA rerecording is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator based on the VisualBoyAdvance emulator."
+            "description": "VBA rerecording is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator based on the VisualBoyAdvance emulator.",
+            "dir": [
+                "VBA-rr_v24m_r480"
+            ],
+            "ext": [
+                "gb",
+                "gmb",
+                "sgb",
+                "cgb",
+                "gbc",
+                "agb",
+                "bin",
+                "elf",
+                "gba",
+                "mb"
+            ]
         },
         "vbjin": {
             "id": "vbjin",
@@ -40787,7 +41256,14 @@
             "web": {
                 "https://code.google.com/archive/p/vbjin/": "home"
             },
-            "description": "VBjin is a Nintendo Virtual Boy emulator."
+            "description": "VBjin is a Nintendo Virtual Boy emulator.",
+            "dir": [
+                "VBjin_r61"
+            ],
+            "ext": [
+                "vb",
+                "vboy"
+            ]
         },
         "vbjin-ovr": {
             "id": "vbjin-ovr",
@@ -40810,7 +41286,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "https://github.com/braindx/vbjin-ovr": "home"
+                "https://github.com/braindx/vbjin-ovr": "repo"
             },
             "description": "VBjin-OVR is a Virtual Boy Emulator for Windows with support for the Oculus Rift VR display device."
         },
@@ -41393,7 +41869,13 @@
             "web": {
                 "http://icculus.org/virtualjaguar/": "home"
             },
-            "description": "Virtual Jaguar GCC/SDL portable Jaguar emulator which is based on the source code released by David Raingeard (Cal2) of what used to be Potato Emulation"
+            "description": "Virtual Jaguar GCC/SDL portable Jaguar emulator which is based on the source code released by David Raingeard (Cal2) of what used to be Potato Emulation",
+            "dir": [
+                "Virtual_Jaguar_210"
+            ],
+            "ext": [
+                "j64"
+            ]
         },
         "virtualjaguar_libretro": {
             "id": "virtualjaguar_libretro",
@@ -41517,7 +41999,16 @@
             "web": {
                 "http://virtuanes.s1.xrea.com:8080/": "home"
             },
-            "description": "VirtuaNES is an emulator for the Nintendo NES and Famicom. The website is a mixture of English and Japanese."
+            "description": "VirtuaNES is an emulator for the Nintendo NES and Famicom. The website is a mixture of English and Japanese.",
+            "dir": [
+                "VirtuaNES_097e"
+            ],
+            "ext": [
+                "nes",
+                "nsf",
+                "unf",
+                "bin"
+            ]
         },
         "virtuanesplus": {
             "id": "virtuanesplus",
@@ -41542,7 +42033,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "http://github.com/KOT040188/myvirtuanes": "home"
+                "http://github.com/KOT040188/myvirtuanes": "repo"
             },
             "description": "VirtuaNES Plus is an emulator for the Nintendo NES and Famicom based on VirtuaNES but containing updated Mappers (mainly for Asian games). The website is a mixture of English and Japanese."
         },
@@ -42195,7 +42686,23 @@
             "web": {
                 "http://vice-emu.sourceforge.net": "home"
             },
-            "description": "VICE is a program that emulates the Commodore C64, the Commodore C64DTV, the Commodore C128, the Commodore VIC20, almost all Commodore PET models, the Commodore PLUS4 and the Commodore CBM-II (aka C610)."
+            "description": "VICE is a program that emulates the Commodore C64, the Commodore C64DTV, the Commodore C128, the Commodore VIC20, almost all Commodore PET models, the Commodore PLUS4 and the Commodore CBM-II (aka C610).",
+            "dir": [
+                "WinVICE_22"
+            ],
+            "ext": [
+                "20",
+                "40",
+                "60",
+                "70",
+                "80",
+                "a0",
+                "b0",
+                "bin",
+                "ub3",
+                "ud7",
+                "ue1"
+            ]
         },
         "winvz": {
             "id": "winvz",
@@ -42669,7 +43176,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "https://github.com/samstyle/Xpeccy": "home"
+                "https://github.com/samstyle/Xpeccy": "repo"
             },
             "description": "Xpeccy is a ZX Spectrum, Russian Clone and MSX-1 emulator. NOTE: BIOS images are required for ALL emulated systems except for the 48K Spectrum. These files must be placed in a 'roms' subdirectory and the emulator configured accordingly (Right-Click on screen to access menu)."
         },
@@ -42856,7 +43363,7 @@
                 "%BIN% %ROM%"
             ],
             "web": {
-                "https://github.com/juliangoracke/xSnes-Diverted-from-Higan-094": "home"
+                "https://github.com/juliangoracke/xSnes-Diverted-from-Higan-094": "repo"
             },
             "description": "Derived from higan v094 higan/bsnes Developed by \"byuu\" ,The idea behind the xSnes fork of higan/bsnes is to preserve and separate the near perfect Super Nintendo portion from the multi-emulator known as higan."
         },
@@ -43338,7 +43845,17 @@
             "web": {
                 "http://www.zsnes.com/": "home"
             },
-            "description": "ZSNES is a Super Nintendo emulator programmed by zsKnight and -Demo-. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public."
+            "description": "ZSNES is a Super Nintendo emulator programmed by zsKnight and -Demo-. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public.",
+            "dir": [
+                "ZSNES_151"
+            ],
+            "ext": [
+                "bin",
+                "smc",
+                "fig",
+                "sfc",
+                "swc"
+            ]
         },
         "zxspin": {
             "id": "zxspin",
