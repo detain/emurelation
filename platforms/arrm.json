@@ -1,0 +1,7264 @@
+{
+    "2048": {
+        "id": "2048",
+        "shortName": "2048",
+        "name": "2048",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "3do": {
+        "id": "3do",
+        "shortName": "3do",
+        "name": "3DO",
+        "manufacturer": "Panasonic",
+        "matches": {
+            "screenscraper": [
+                "29"
+            ],
+            "mobygames": [
+                "3do"
+            ],
+            "launchbox": [
+                "3DO Interactive Multiplayer"
+            ],
+            "igdb": [
+                "50"
+            ],
+            "hfsdb": [
+                "82826"
+            ],
+            "bezels_project": [
+                "bezelproject-3DO"
+            ],
+            "attractmode": [
+                "Panasonic 3DO"
+            ]
+        },
+        "company": "Panasonic"
+    },
+    "3ds": {
+        "id": "3ds",
+        "shortName": "3ds",
+        "name": "Nintendo 3DS",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4912"
+            ],
+            "screenscraper": [
+                "17"
+            ],
+            "mobygames": [
+                "3ds"
+            ],
+            "launchbox": [
+                "Nintendo 3DS"
+            ],
+            "igdb": [
+                "37"
+            ],
+            "hfsdb": [
+                "148845"
+            ],
+            "gametdb": [
+                "3DS"
+            ],
+            "gamesdatabase": [
+                "nintendo-ds"
+            ],
+            "bezels_project": [
+                "bezelproject-N3DS"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "64dd": {
+        "id": "64dd",
+        "shortName": "64dd",
+        "name": "Nintendo 64",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "3"
+            ],
+            "screenscraper": [
+                "122"
+            ],
+            "mobygames": [
+                "n64"
+            ],
+            "launchbox": [
+                "Nintendo 64DD"
+            ],
+            "igdb": [
+                "416"
+            ],
+            "hfsdb": [
+                "33139"
+            ],
+            "gamesdatabase": [
+                "nintendo-n64"
+            ],
+            "bezels_project": [
+                "bezelproject-N64DD"
+            ],
+            "attractmode": [
+                "Nintendo 64DD"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "a2600": {
+        "id": "a2600",
+        "shortName": "a2600",
+        "name": "Atari 2600",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "22"
+            ],
+            "screenscraper": [
+                "26"
+            ],
+            "launchbox": [
+                "Atari 2600"
+            ],
+            "igdb": [
+                "59"
+            ],
+            "hfsdb": [
+                "84224"
+            ],
+            "gamesdatabase": [
+                "atari-2600"
+            ]
+        },
+        "company": "Atari"
+    },
+    "a5200": {
+        "id": "a5200",
+        "shortName": "a5200",
+        "name": "Atari 5200",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "26"
+            ],
+            "screenscraper": [
+                "40"
+            ],
+            "launchbox": [
+                "Atari 5200"
+            ],
+            "igdb": [
+                "66"
+            ],
+            "hfsdb": [
+                "84223"
+            ],
+            "gamesdatabase": [
+                "atari-5200"
+            ]
+        },
+        "company": "Atari"
+    },
+    "a7800": {
+        "id": "a7800",
+        "shortName": "a7800",
+        "name": "Atari 7800",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "27"
+            ],
+            "screenscraper": [
+                "41"
+            ],
+            "launchbox": [
+                "Atari 7800"
+            ],
+            "igdb": [
+                "60"
+            ],
+            "hfsdb": [
+                "84225"
+            ],
+            "gamesdatabase": [
+                "atari-7800"
+            ]
+        },
+        "company": "Atari"
+    },
+    "a800": {
+        "id": "a800",
+        "shortName": "a800",
+        "name": "Atari 800",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "4943"
+            ],
+            "screenscraper": [
+                "43"
+            ],
+            "launchbox": [
+                "Atari 800"
+            ],
+            "hfsdb": [
+                "89769"
+            ],
+            "gamesdatabase": [
+                "atari-8-bit"
+            ]
+        },
+        "company": "Atari"
+    },
+    "adam": {
+        "id": "adam",
+        "shortName": "adam",
+        "name": "Coleco ADAM",
+        "manufacturer": "Coleco",
+        "matches": {
+            "tgdb": [
+                "31"
+            ],
+            "screenscraper": [
+                "89"
+            ],
+            "mobygames": [
+                "colecoadam"
+            ],
+            "launchbox": [
+                "Coleco ADAM"
+            ],
+            "hfsdb": [
+                "240844"
+            ],
+            "gamesdatabase": [
+                "coleco-vision"
+            ],
+            "bezels_project": [
+                "bezelproject-ColecoVision"
+            ],
+            "attractmode": [
+                "Coleco ADAM"
+            ]
+        },
+        "company": "Coleco"
+    },
+    "advision": {
+        "id": "advision",
+        "shortName": "advision",
+        "name": "Adventure Vision",
+        "manufacturer": "Entex",
+        "matches": {
+            "tgdb": [
+                "4974"
+            ],
+            "screenscraper": [
+                "78"
+            ],
+            "mobygames": [
+                "adventure-vision"
+            ],
+            "launchbox": [
+                "Entex Adventure Vision"
+            ],
+            "hfsdb": [
+                "35850"
+            ],
+            "gamesdatabase": [
+                "entex-adventure-vision"
+            ]
+        },
+        "company": "Entex"
+    },
+    "ags": {
+        "id": "ags",
+        "shortName": "ags",
+        "name": "--ags",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "amiga1000": {
+        "id": "amiga1000",
+        "shortName": "amiga1000",
+        "name": "Amiga 1000",
+        "manufacturer": "Commodore",
+        "matches": {
+            "screenscraper": [
+                "111"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amiga1200": {
+        "id": "amiga1200",
+        "shortName": "amiga1200",
+        "name": "Amiga 1200",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4911"
+            ],
+            "screenscraper": [
+                "111"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "gamesdatabase": [
+                "commodore-amiga"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amiga3000": {
+        "id": "amiga3000",
+        "shortName": "amiga3000",
+        "name": "Amiga 3000",
+        "manufacturer": "Commodore",
+        "matches": {
+            "screenscraper": [
+                "111"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amiga4000": {
+        "id": "amiga4000",
+        "shortName": "amiga4000",
+        "name": "Amiga 4000",
+        "manufacturer": "Commodore",
+        "matches": {
+            "screenscraper": [
+                "111"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amiga500+": {
+        "id": "amiga500+",
+        "shortName": "amiga500+",
+        "name": "Amiga 500+",
+        "manufacturer": "Commodore",
+        "matches": [],
+        "company": "Commodore"
+    },
+    "amiga500": {
+        "id": "amiga500",
+        "shortName": "amiga500",
+        "name": "Amiga 500",
+        "manufacturer": "Commodore",
+        "matches": {
+            "screenscraper": [
+                "64"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amiga600": {
+        "id": "amiga600",
+        "shortName": "amiga600",
+        "name": "Amiga 600",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4911"
+            ],
+            "screenscraper": [
+                "64"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "gamesdatabase": [
+                "commodore-amiga"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amiga": {
+        "id": "amiga",
+        "shortName": "amiga",
+        "name": "Amiga",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4911"
+            ],
+            "screenscraper": [
+                "64"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "gamesdatabase": [
+                "commodore-amiga"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amigacd32": {
+        "id": "amigacd32",
+        "shortName": "amigacd32",
+        "name": "Amiga CD32",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4947"
+            ],
+            "screenscraper": [
+                "130"
+            ],
+            "mobygames": [
+                "amiga-cd32"
+            ],
+            "launchbox": [
+                "Commodore Amiga CD32"
+            ],
+            "igdb": [
+                "114"
+            ],
+            "hfsdb": [
+                "136126"
+            ],
+            "gamesdatabase": [
+                "commodore-amiga-cd32"
+            ],
+            "bezels_project": [
+                "bezelproject-CD32"
+            ],
+            "attractmode": [
+                "Commodore Amiga CD32"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amigacdtv": {
+        "id": "amigacdtv",
+        "shortName": "amigacdtv",
+        "name": "CDTV",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4911"
+            ],
+            "screenscraper": [
+                "129"
+            ],
+            "mobygames": [
+                "cdtv"
+            ],
+            "launchbox": [
+                "Commodore CDTV"
+            ],
+            "igdb": [
+                "158"
+            ],
+            "hfsdb": [
+                "35808"
+            ],
+            "gamesdatabase": [
+                "commodore-cdtv"
+            ],
+            "bezels_project": [
+                "bezelproject-CDTV"
+            ],
+            "attractmode": [
+                "Commodore CDTV"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "amstradcpc": {
+        "id": "amstradcpc",
+        "shortName": "amstradcpc",
+        "name": "Amstrad CPC",
+        "manufacturer": "Amstrad",
+        "matches": {
+            "tgdb": [
+                "4914"
+            ],
+            "screenscraper": [
+                "65"
+            ],
+            "mobygames": [
+                "cpc"
+            ],
+            "launchbox": [
+                "Amstrad CPC"
+            ],
+            "igdb": [
+                "25"
+            ],
+            "hfsdb": [
+                "239404"
+            ],
+            "gamesdatabase": [
+                "amstrad-cpc"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-AmstradCPC"
+            ],
+            "attractmode": [
+                "Amstrad CPC"
+            ]
+        },
+        "company": "Amstrad"
+    },
+    "apfm1000": {
+        "id": "apfm1000",
+        "shortName": "apfm1000",
+        "name": "APF-M1000",
+        "manufacturer": "APF Electronics Inc.",
+        "matches": {
+            "tgdb": [
+                "4969"
+            ],
+            "mobygames": [
+                "apf"
+            ],
+            "launchbox": [
+                "APF Imagination Machine"
+            ],
+            "hfsdb": [
+                "139722"
+            ],
+            "gamesdatabase": [
+                "4969"
+            ]
+        },
+        "company": "APF Electronics Inc."
+    },
+    "apple2": {
+        "id": "apple2",
+        "shortName": "apple2",
+        "name": "Apple II",
+        "manufacturer": "Apple",
+        "matches": {
+            "tgdb": [
+                "4942"
+            ],
+            "screenscraper": [
+                "86"
+            ],
+            "mobygames": [
+                "apple2"
+            ],
+            "launchbox": [
+                "Apple II"
+            ],
+            "igdb": [
+                "75"
+            ],
+            "hfsdb": [
+                "139807"
+            ],
+            "gamesdatabase": [
+                "apple-ii"
+            ],
+            "attractmode": [
+                "Apple II"
+            ]
+        },
+        "company": "Apple"
+    },
+    "apple2gs": {
+        "id": "apple2gs",
+        "shortName": "apple2gs",
+        "name": "Apple IIGS",
+        "manufacturer": "Apple",
+        "matches": {
+            "tgdb": [
+                "4942"
+            ],
+            "screenscraper": [
+                "217"
+            ],
+            "mobygames": [
+                "apple2gs"
+            ],
+            "launchbox": [
+                "Apple IIGS"
+            ],
+            "igdb": [
+                "115"
+            ],
+            "hfsdb": [
+                "240837"
+            ],
+            "gamesdatabase": [
+                "apple-ii"
+            ],
+            "attractmode": [
+                "Apple IIGS"
+            ]
+        },
+        "company": "Apple"
+    },
+    "arcade": {
+        "id": "arcade",
+        "shortName": "arcade",
+        "name": "Arcade",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Arcade PC"
+            ]
+        },
+        "company": "Various"
+    },
+    "arcadia": {
+        "id": "arcadia",
+        "shortName": "arcadia",
+        "name": "Arcadia 2001",
+        "manufacturer": "Emerson Radio",
+        "matches": {
+            "tgdb": [
+                "4963"
+            ],
+            "screenscraper": [
+                "94"
+            ],
+            "mobygames": [
+                "arcadia-2001"
+            ],
+            "launchbox": [
+                "Emerson Arcadia 2001"
+            ],
+            "hfsdb": [
+                "129592"
+            ],
+            "gamesdatabase": [
+                "emerson-arcadia-2001"
+            ]
+        },
+        "company": "Emerson Radio"
+    },
+    "archimedes": {
+        "id": "archimedes",
+        "shortName": "archimedes",
+        "name": "Archimedes",
+        "manufacturer": "Acorn Computers",
+        "matches": {
+            "tgdb": [
+                "4944"
+            ],
+            "screenscraper": [
+                "84"
+            ],
+            "mobygames": [
+                "Acorn Archimedes"
+            ],
+            "launchbox": [
+                "Acorn Archimedes"
+            ],
+            "igdb": [
+                "116"
+            ],
+            "hfsdb": [
+                "137569"
+            ],
+            "attractmode": [
+                "Acorn Archimedes"
+            ]
+        },
+        "company": "Acorn Computers"
+    },
+    "art": {
+        "id": "art",
+        "shortName": "art",
+        "name": "--art",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "astrocde": {
+        "id": "astrocde",
+        "shortName": "astrocde",
+        "name": "Bally Astrocade",
+        "manufacturer": "Bally",
+        "matches": {
+            "tgdb": [
+                "4968"
+            ],
+            "screenscraper": [
+                "44"
+            ],
+            "mobygames": [
+                "bally-astrocade"
+            ],
+            "launchbox": [
+                "Bally Astrocade"
+            ],
+            "hfsdb": [
+                "75808"
+            ],
+            "gamesdatabase": [
+                "bally-astrocade"
+            ]
+        },
+        "company": "Bally"
+    },
+    "atari2600": {
+        "id": "atari2600",
+        "shortName": "atari2600",
+        "name": "Atari 2600",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "22"
+            ],
+            "screenscraper": [
+                "26"
+            ],
+            "mobygames": [
+                "atari-2600",
+                "atari-2600"
+            ],
+            "launchbox": [
+                "Atari 2600"
+            ],
+            "igdb": [
+                "59"
+            ],
+            "hfsdb": [
+                "84224"
+            ],
+            "gamesdatabase": [
+                "atari-2600"
+            ],
+            "bezels_project": [
+                "bezelproject-Atari2600"
+            ],
+            "attractmode": [
+                "Atari 2600"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atari5200": {
+        "id": "atari5200",
+        "shortName": "atari5200",
+        "name": "Atari 5200",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "26"
+            ],
+            "screenscraper": [
+                "40"
+            ],
+            "mobygames": [
+                "atari-5200",
+                "atari-5200"
+            ],
+            "launchbox": [
+                "Atari 5200"
+            ],
+            "igdb": [
+                "66"
+            ],
+            "hfsdb": [
+                "84223"
+            ],
+            "gamesdatabase": [
+                "atari-5200"
+            ],
+            "bezels_project": [
+                "bezelproject-Atari5200"
+            ],
+            "attractmode": [
+                "Atari 5200"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atari7800": {
+        "id": "atari7800",
+        "shortName": "atari7800",
+        "name": "Atari 7800",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "27"
+            ],
+            "screenscraper": [
+                "41"
+            ],
+            "mobygames": [
+                "atari-7800",
+                "atari-7800"
+            ],
+            "launchbox": [
+                "Atari 7800"
+            ],
+            "igdb": [
+                "60"
+            ],
+            "hfsdb": [
+                "84225"
+            ],
+            "gamesdatabase": [
+                "atari-7800"
+            ],
+            "bezels_project": [
+                "bezelproject-Atari7800"
+            ],
+            "attractmode": [
+                "Atari 7800"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atari800": {
+        "id": "atari800",
+        "shortName": "atari800",
+        "name": "Atari 800",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "4943"
+            ],
+            "screenscraper": [
+                "43"
+            ],
+            "mobygames": [
+                "atari-8-bit",
+                "atari-8-bit"
+            ],
+            "launchbox": [
+                "Atari 800"
+            ],
+            "igdb": [
+                "65"
+            ],
+            "hfsdb": [
+                "89769"
+            ],
+            "gamesdatabase": [
+                "atari-8-bit"
+            ],
+            "bezels_project": [
+                "bezelproject-AtariXEGS"
+            ],
+            "attractmode": [
+                "|Atari 8-Bit"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atarifalcon": {
+        "id": "atarifalcon",
+        "shortName": "atarifalcon",
+        "name": "Atari Falcon030",
+        "manufacturer": "Atari",
+        "matches": {
+            "igdb": [
+                "63"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atarijaguar": {
+        "id": "atarijaguar",
+        "shortName": "atarijaguar",
+        "name": "Jaguar",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "28"
+            ],
+            "screenscraper": [
+                "27"
+            ],
+            "mobygames": [
+                "jaguar"
+            ],
+            "launchbox": [
+                "Atari Jaguar"
+            ],
+            "igdb": [
+                "62"
+            ],
+            "hfsdb": [
+                "84220"
+            ],
+            "gamesdatabase": [
+                "atari-jaguar"
+            ],
+            "bezels_project": [
+                "bezelproject-AtariJaguar"
+            ],
+            "attractmode": [
+                "Atari Jaguar"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atarijaguarcd": {
+        "id": "atarijaguarcd",
+        "shortName": "atarijaguarcd",
+        "name": "Atari Jaguar CD",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "29"
+            ],
+            "screenscraper": [
+                "171"
+            ],
+            "mobygames": [
+                "jaguar"
+            ],
+            "launchbox": [
+                "Atari Jaguar CD"
+            ],
+            "igdb": [
+                "410"
+            ],
+            "hfsdb": [
+                "84220"
+            ],
+            "gamesdatabase": [
+                "atari-jaguar-cd"
+            ],
+            "bezels_project": [
+                "bezelproject-AtariJaguar"
+            ],
+            "attractmode": [
+                "Atari Jaguar CD"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atarilynx": {
+        "id": "atarilynx",
+        "shortName": "atarilynx",
+        "name": "Lynx",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "4924"
+            ],
+            "screenscraper": [
+                "28"
+            ],
+            "mobygames": [
+                "lynx"
+            ],
+            "launchbox": [
+                "Atari Lynx"
+            ],
+            "igdb": [
+                "61"
+            ],
+            "hfsdb": [
+                "33756"
+            ],
+            "gamesdatabase": [
+                "atari-lynx"
+            ],
+            "bezels_project": [
+                "bezelproject-AtariLynx"
+            ],
+            "attractmode": [
+                "Atari Lynx"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atarist": {
+        "id": "atarist",
+        "shortName": "atarist",
+        "name": "Atari ST",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "4937"
+            ],
+            "screenscraper": [
+                "42"
+            ],
+            "mobygames": [
+                "atari-st"
+            ],
+            "launchbox": [
+                "Atari ST"
+            ],
+            "igdb": [
+                "63"
+            ],
+            "hfsdb": [
+                "82160"
+            ],
+            "gamesdatabase": [
+                "atari-st"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-AtariST"
+            ],
+            "attractmode": [
+                "Atari ST"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atarixe": {
+        "id": "atarixe",
+        "shortName": "atarixe",
+        "name": "Atari XE",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "30"
+            ],
+            "igdb": [
+                "65"
+            ],
+            "gamesdatabase": [
+                "atari-8-bit"
+            ]
+        },
+        "company": "Atari"
+    },
+    "atom": {
+        "id": "atom",
+        "shortName": "atom",
+        "name": "Atom",
+        "manufacturer": "Acorn Computers",
+        "matches": {
+            "tgdb": [
+                "5014"
+            ],
+            "screenscraper": [
+                "36"
+            ],
+            "mobygames": [
+                "atom"
+            ],
+            "launchbox": [
+                "Acorn Atom"
+            ],
+            "igdb": [
+                "116"
+            ],
+            "hfsdb": [
+                "138925"
+            ],
+            "attractmode": [
+                "Acorn Atom"
+            ]
+        },
+        "company": "Acorn Computers"
+    },
+    "atomiswave": {
+        "id": "atomiswave",
+        "shortName": "atomiswave",
+        "name": "Atomiswave",
+        "manufacturer": "Sammy",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "53"
+            ],
+            "mobygames": [
+                "Sammy Atomiswave"
+            ],
+            "launchbox": [
+                "Sammy Atomiswave"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "29731"
+            ],
+            "gamesdatabase": [
+                "sammy-atomiswave"
+            ],
+            "bezels_project": [
+                "bezelproject-Atomiswave"
+            ],
+            "attractmode": [
+                "Sammy Atomiswave"
+            ]
+        },
+        "company": "Sammy"
+    },
+    "bbc": {
+        "id": "bbc",
+        "shortName": "bbc",
+        "name": "BBC Micro",
+        "manufacturer": "Acorn computers",
+        "matches": {
+            "screenscraper": [
+                "37"
+            ],
+            "igdb": [
+                "69"
+            ],
+            "hfsdb": [
+                "190502"
+            ]
+        },
+        "company": "Acorn computers"
+    },
+    "bbcmicro": {
+        "id": "bbcmicro",
+        "shortName": "bbcmicro",
+        "name": "BBC Micro",
+        "manufacturer": "Acorn computers",
+        "matches": {
+            "tgdb": [
+                "4954"
+            ],
+            "screenscraper": [
+                "37"
+            ],
+            "mobygames": [
+                "BBC Microcomputer System"
+            ],
+            "launchbox": [
+                "BBC Microcomputer System"
+            ],
+            "igdb": [
+                "69"
+            ],
+            "hfsdb": [
+                "190502"
+            ],
+            "gamesdatabase": [
+                "acorn-bbc-micro"
+            ],
+            "attractmode": [
+                "Acorn BBC Micro",
+                "Acorn BBC Micro"
+            ]
+        },
+        "company": "Acorn computers"
+    },
+    "bk": {
+        "id": "bk",
+        "shortName": "bk",
+        "name": "Electronika BK",
+        "manufacturer": "Electronika",
+        "matches": {
+            "screenscraper": [
+                "93"
+            ],
+            "mobygames": [
+                "Elektronika BK"
+            ],
+            "launchbox": [
+                "Elektronika BK"
+            ],
+            "hfsdb": [
+                "240855"
+            ],
+            "attractmode": [
+                "Elektronika BK"
+            ]
+        },
+        "company": "Electronika"
+    },
+    "c128": {
+        "id": "c128",
+        "shortName": "c128",
+        "name": "Commodore 64",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4946"
+            ],
+            "screenscraper": [
+                "66"
+            ],
+            "mobygames": [
+                "c128"
+            ],
+            "launchbox": [
+                "Commodore 128"
+            ],
+            "igdb": [
+                "15"
+            ],
+            "hfsdb": [
+                "240847"
+            ],
+            "gamesdatabase": [
+                "commodore-128"
+            ],
+            "bezels_project": [
+                "C64"
+            ],
+            "attractmode": [
+                "Commodore 128"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "c20": {
+        "id": "c20",
+        "shortName": "c20",
+        "name": "Commodore 64",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4945"
+            ],
+            "screenscraper": [
+                "73"
+            ],
+            "mobygames": [
+                "vic-20"
+            ],
+            "launchbox": [
+                "Commodore VIC-20"
+            ],
+            "igdb": [
+                "71"
+            ],
+            "hfsdb": [
+                "174662"
+            ],
+            "gamesdatabase": [
+                "commodore-vic-20"
+            ],
+            "bezels_project": [
+                "C64"
+            ],
+            "attractmode": [
+                "Commodore VIC-20"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "c64": {
+        "id": "c64",
+        "shortName": "c64",
+        "name": "Commodore 64",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "40"
+            ],
+            "screenscraper": [
+                "66"
+            ],
+            "mobygames": [
+                "c64"
+            ],
+            "launchbox": [
+                "Commodore 64"
+            ],
+            "igdb": [
+                "15"
+            ],
+            "hfsdb": [
+                "168000"
+            ],
+            "gamesdatabase": [
+                "commodore-64"
+            ],
+            "bezels_project": [
+                "C64"
+            ],
+            "attractmode": [
+                "Commodore 64"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "camplynx": {
+        "id": "camplynx",
+        "shortName": "camplynx",
+        "name": "Camputers Lynx",
+        "manufacturer": "Camputers",
+        "matches": {
+            "screenscraper": [
+                "88"
+            ],
+            "mobygames": [
+                "camputers-lynx"
+            ],
+            "launchbox": [
+                "Camputers Lynx"
+            ],
+            "hfsdb": [
+                "240842"
+            ]
+        },
+        "company": "Camputers"
+    },
+    "cannonball": {
+        "id": "cannonball",
+        "shortName": "cannonball",
+        "name": "Arcade",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "gamesdatabase": [
+                "23"
+            ]
+        },
+        "company": "Various"
+    },
+    "cave3rd": {
+        "id": "cave3rd",
+        "shortName": "cave3rd",
+        "name": "Cave CV1000",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "47"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "hfsdb": [
+                "75768"
+            ]
+        },
+        "company": "Sega"
+    },
+    "cavestory": {
+        "id": "cavestory",
+        "shortName": "cavestory",
+        "name": "Cave Story",
+        "manufacturer": "Daisuke Amaya",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "135"
+            ],
+            "gamesdatabase": [
+                "23"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ]
+        },
+        "company": "Daisuke Amaya"
+    },
+    "cd-i": {
+        "id": "cd-i",
+        "shortName": "cd-i",
+        "name": "CD-i",
+        "manufacturer": "Philips",
+        "matches": {
+            "tgdb": [
+                "4917"
+            ],
+            "screenscraper": [
+                "133"
+            ],
+            "mobygames": [
+                "cd-i"
+            ],
+            "launchbox": [
+                "Philips CD-i"
+            ],
+            "hfsdb": [
+                "190532"
+            ],
+            "bezels_project": [
+                "bezelproject-CDiMono1"
+            ],
+            "attractmode": [
+                "Philips CD-i"
+            ]
+        },
+        "company": "Philips"
+    },
+    "cdi": {
+        "id": "cdi",
+        "shortName": "cdi",
+        "name": "CD-i",
+        "manufacturer": "Philips",
+        "matches": {
+            "tgdb": [
+                "4917"
+            ],
+            "screenscraper": [
+                "133"
+            ],
+            "mobygames": [
+                "cd-i"
+            ],
+            "launchbox": [
+                "Philips CD-i"
+            ],
+            "igdb": [
+                "117"
+            ],
+            "hfsdb": [
+                "190532"
+            ],
+            "bezels_project": [
+                "bezelproject-CDiMono1"
+            ]
+        },
+        "company": "Philips"
+    },
+    "cgenius": {
+        "id": "cgenius",
+        "shortName": "cgenius",
+        "name": "--cgenius",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "channel-f": {
+        "id": "channel-f",
+        "shortName": "channel-f",
+        "name": "Fairchild Channel F",
+        "manufacturer": "Fairchild Semiconductor",
+        "matches": {
+            "tgdb": [
+                "4928"
+            ],
+            "screenscraper": [
+                "80"
+            ],
+            "mobygames": [
+                "channel-f"
+            ],
+            "launchbox": [
+                "Fairchild Channel F"
+            ],
+            "igdb": [
+                "127"
+            ],
+            "hfsdb": [
+                "35853"
+            ],
+            "gamesdatabase": [
+                "fairchild-channel-f"
+            ],
+            "bezels_project": [
+                "bezelproject-ChannelF"
+            ],
+            "attractmode": [
+                "Fairchild Channel F"
+            ]
+        },
+        "company": "Fairchild Semiconductor"
+    },
+    "channelf": {
+        "id": "channelf",
+        "shortName": "channelf",
+        "name": "Fairchild Channel F",
+        "manufacturer": "Fairchild Semiconductor",
+        "matches": {
+            "tgdb": [
+                "4928"
+            ],
+            "screenscraper": [
+                "80"
+            ],
+            "mobygames": [
+                "channel-f"
+            ],
+            "launchbox": [
+                "Fairchild Channel F"
+            ],
+            "igdb": [
+                "127"
+            ],
+            "hfsdb": [
+                "35853"
+            ],
+            "gamesdatabase": [
+                "fairchild-channel-f"
+            ],
+            "bezels_project": [
+                "bezelproject-ChannelF"
+            ],
+            "attractmode": [
+                "Fairchild Channel F"
+            ]
+        },
+        "company": "Fairchild Semiconductor"
+    },
+    "chihiro": {
+        "id": "chihiro",
+        "shortName": "chihiro",
+        "name": "Arcade",
+        "manufacturer": "Sega",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "75535"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ]
+        },
+        "company": "Sega"
+    },
+    "coco": {
+        "id": "coco",
+        "shortName": "coco",
+        "name": "TRS-80",
+        "manufacturer": "Tandy",
+        "matches": {
+            "screenscraper": [
+                "144"
+            ],
+            "igdb": [
+                "151"
+            ],
+            "hfsdb": [
+                "240928"
+            ]
+        },
+        "company": "Tandy"
+    },
+    "colecovision": {
+        "id": "colecovision",
+        "shortName": "colecovision",
+        "name": "ColecoVision",
+        "manufacturer": "Coleco",
+        "matches": {
+            "tgdb": [
+                "31"
+            ],
+            "screenscraper": [
+                "48"
+            ],
+            "mobygames": [
+                "colecovision"
+            ],
+            "launchbox": [
+                "ColecoVision"
+            ],
+            "hfsdb": [
+                "83499"
+            ],
+            "gamesdatabase": [
+                "coleco-vision"
+            ],
+            "bezels_project": [
+                "bezelproject-ColecoVision"
+            ]
+        },
+        "company": "Coleco"
+    },
+    "cplus4": {
+        "id": "cplus4",
+        "shortName": "cplus4",
+        "name": "Commodore Plus/4",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "40"
+            ],
+            "screenscraper": [
+                "99"
+            ],
+            "mobygames": [
+                "commodore-16-plus4"
+            ],
+            "launchbox": [
+                "Commodore Plus 4"
+            ],
+            "igdb": [
+                "94"
+            ],
+            "hfsdb": [
+                "240851"
+            ],
+            "gamesdatabase": [
+                "commodore_plus_4"
+            ],
+            "bezels_project": [
+                "C64"
+            ],
+            "attractmode": [
+                "Commodore 16 & Plus4"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "cps1": {
+        "id": "cps1",
+        "shortName": "cps1",
+        "name": "Arcade",
+        "manufacturer": "Capcom",
+        "matches": {
+            "screenscraper": [
+                "6"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "29475"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Arcade PC"
+            ]
+        },
+        "company": "Capcom"
+    },
+    "cps2": {
+        "id": "cps2",
+        "shortName": "cps2",
+        "name": "Arcade",
+        "manufacturer": "Capcom",
+        "matches": {
+            "screenscraper": [
+                "7"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "29506"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Arcade PC"
+            ]
+        },
+        "company": "Capcom"
+    },
+    "cps3": {
+        "id": "cps3",
+        "shortName": "cps3",
+        "name": "Arcade",
+        "manufacturer": "Capcom",
+        "matches": {
+            "screenscraper": [
+                "8"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "29543"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Arcade PC"
+            ]
+        },
+        "company": "Capcom"
+    },
+    "crvision": {
+        "id": "crvision",
+        "shortName": "crvision",
+        "name": "CreatiVision",
+        "manufacturer": "VTech",
+        "matches": {
+            "tgdb": [
+                "5005"
+            ],
+            "screenscraper": [
+                "241"
+            ],
+            "mobygames": [
+                "creativision"
+            ],
+            "launchbox": [
+                "VTech CreatiVision"
+            ],
+            "hfsdb": [
+                "190291"
+            ],
+            "gamesdatabase": [
+                "vtech-creativision"
+            ]
+        },
+        "company": "VTech"
+    },
+    "daphne": {
+        "id": "daphne",
+        "shortName": "daphne",
+        "name": "Daphne",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "49"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "laserdisc"
+            ],
+            "bezels_project": [
+                "bezelproject-Daphne"
+            ]
+        },
+        "company": "Various"
+    },
+    "devilutionx": {
+        "id": "devilutionx",
+        "shortName": "devilutionx",
+        "name": "DevilutionxX",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "dinothawr": {
+        "id": "dinothawr",
+        "shortName": "dinothawr",
+        "name": "Dinothawr",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "doom": {
+        "id": "doom",
+        "shortName": "doom",
+        "name": "Doom",
+        "manufacturer": "--system",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "135"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "MS-DOS"
+            ],
+            "igdb": [
+                "13"
+            ],
+            "hfsdb": [
+                "82805"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ]
+        },
+        "company": "--system"
+    },
+    "dos": {
+        "id": "dos",
+        "shortName": "dos",
+        "name": "DOS (x86)",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "135"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "MS-DOS"
+            ],
+            "igdb": [
+                "13"
+            ],
+            "hfsdb": [
+                "82805"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ],
+            "attractmode": [
+                "Microsoft MS-DOS"
+            ]
+        },
+        "company": "Various"
+    },
+    "dragon32": {
+        "id": "dragon32",
+        "shortName": "dragon32",
+        "name": "Dragon 32",
+        "manufacturer": "Dargon Data",
+        "matches": {
+            "tgdb": [
+                "4952"
+            ],
+            "screenscraper": [
+                "91"
+            ],
+            "mobygames": [
+                "dragon-3264"
+            ],
+            "launchbox": [
+                "Dragon 32/64"
+            ],
+            "igdb": [
+                "153"
+            ],
+            "hfsdb": [
+                "136146"
+            ],
+            "gamesdatabase": [
+                "dragon-32-64"
+            ],
+            "attractmode": [
+                "Dragon Data Dragon"
+            ]
+        },
+        "company": "Dargon Data"
+    },
+    "dragon": {
+        "id": "dragon",
+        "shortName": "dragon",
+        "name": "Dragon 32",
+        "manufacturer": "Dargon Data",
+        "matches": {
+            "tgdb": [
+                "4952"
+            ],
+            "screenscraper": [
+                "91"
+            ],
+            "mobygames": [
+                "dragon-3264"
+            ],
+            "launchbox": [
+                "Dragon 32/64"
+            ],
+            "igdb": [
+                "153"
+            ],
+            "hfsdb": [
+                "136146"
+            ],
+            "gamesdatabase": [
+                "dragon-32-64"
+            ],
+            "attractmode": [
+                "Dragon Data Dragon",
+                "Dragon Data Dragon"
+            ]
+        },
+        "company": "Dargon Data"
+    },
+    "dreamcast": {
+        "id": "dreamcast",
+        "shortName": "dreamcast",
+        "name": "Dreamcast",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "16"
+            ],
+            "screenscraper": [
+                "23"
+            ],
+            "mobygames": [
+                "dreamcast"
+            ],
+            "launchbox": [
+                "Sega Dreamcast"
+            ],
+            "hfsdb": [
+                "83702"
+            ],
+            "gamesdatabase": [
+                "sega-dreamcast"
+            ],
+            "bezels_project": [
+                "bezelproject-Dreamcast"
+            ],
+            "attractmode": [
+                "Sega Dreamcast"
+            ]
+        },
+        "company": "Sega"
+    },
+    "easyrpg": {
+        "id": "easyrpg",
+        "shortName": "easyrpg",
+        "name": "Easy RPG",
+        "manufacturer": "--system",
+        "matches": {
+            "screenscraper": [
+                "231"
+            ],
+            "mobygames": [
+                "MS-DOS"
+            ],
+            "launchbox": [
+                "Sega Dreamcast1"
+            ],
+            "hfsdb": [
+                "82805"
+            ]
+        },
+        "company": "--system"
+    },
+    "ecwolf": {
+        "id": "ecwolf",
+        "shortName": "ecwolf",
+        "name": "ecwolf",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "electron": {
+        "id": "electron",
+        "shortName": "electron",
+        "name": "Electron",
+        "manufacturer": "Acorn Computers",
+        "matches": {
+            "tgdb": [
+                "4954"
+            ],
+            "screenscraper": [
+                "85"
+            ],
+            "mobygames": [
+                "electron"
+            ],
+            "launchbox": [
+                "Acorn Electron"
+            ],
+            "igdb": [
+                "134"
+            ],
+            "hfsdb": [
+                "124274"
+            ],
+            "attractmode": [
+                "Acorn Electron"
+            ]
+        },
+        "company": "Acorn Computers"
+    },
+    "favorites": {
+        "id": "favorites",
+        "shortName": "favorites",
+        "name": "--Favorites",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "fba": {
+        "id": "fba",
+        "shortName": "fba",
+        "name": "Final Burn Alpha",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Final Burn Alpha"
+            ]
+        },
+        "company": "Various"
+    },
+    "fba_libretro": {
+        "id": "fba_libretro",
+        "shortName": "fba_libretro",
+        "name": "Final Burn Alpha",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Final Burn Alpha"
+            ]
+        },
+        "company": "Various"
+    },
+    "fbneo": {
+        "id": "fbneo",
+        "shortName": "fbneo",
+        "name": "Final Burn Neo",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "29794"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Final Burn Alpha"
+            ]
+        },
+        "company": "Various"
+    },
+    "fds": {
+        "id": "fds",
+        "shortName": "fds",
+        "name": "Famicom Disk System",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4936"
+            ],
+            "screenscraper": [
+                "106"
+            ],
+            "mobygames": [
+                "nes"
+            ],
+            "launchbox": [
+                "Nintendo Famicom Disk System"
+            ],
+            "hfsdb": [
+                "36283"
+            ],
+            "gamesdatabase": [
+                "famicom-disk-system"
+            ],
+            "bezels_project": [
+                "bezelproject-FDS"
+            ],
+            "attractmode": [
+                "Nintendo Famicom Disk System"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "flash": {
+        "id": "flash",
+        "shortName": "flash",
+        "name": "Flash",
+        "manufacturer": "Adobe",
+        "matches": {
+            "tgdb": [
+                "4916"
+            ],
+            "screenscraper": [
+                "63"
+            ],
+            "mobygames": [
+                "android"
+            ],
+            "launchbox": [
+                "Android"
+            ],
+            "hfsdb": [
+                "139081"
+            ],
+            "gamesdatabase": [
+                "4916"
+            ]
+        },
+        "company": "Adobe"
+    },
+    "flashback": {
+        "id": "flashback",
+        "shortName": "flashback",
+        "name": "Flashback",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "flatpak": {
+        "id": "flatpak",
+        "shortName": "flatpak",
+        "name": "--flatpak",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "fm-7": {
+        "id": "fm-7",
+        "shortName": "fm-7",
+        "name": "FM-7",
+        "manufacturer": "Fujitsu",
+        "matches": {
+            "tgdb": [
+                "4978"
+            ],
+            "screenscraper": [
+                "97"
+            ],
+            "mobygames": [
+                "fm-7"
+            ],
+            "launchbox": [
+                "Fujitsu FM-7"
+            ],
+            "hfsdb": [
+                "240860"
+            ],
+            "attractmode": [
+                "Fujitsu FM-7"
+            ]
+        },
+        "company": "Fujitsu"
+    },
+    "fm7": {
+        "id": "fm7",
+        "shortName": "fm7",
+        "name": "FM-7",
+        "manufacturer": "Fujitsu",
+        "matches": {
+            "tgdb": [
+                "4978"
+            ],
+            "screenscraper": [
+                "97"
+            ],
+            "mobygames": [
+                "fm-7"
+            ],
+            "launchbox": [
+                "Fujitsu FM-7"
+            ],
+            "igdb": [
+                "152"
+            ],
+            "hfsdb": [
+                "240860"
+            ]
+        },
+        "company": "Fujitsu"
+    },
+    "fmtowns": {
+        "id": "fmtowns",
+        "shortName": "fmtowns",
+        "name": "FM Towns",
+        "manufacturer": "Fujitsu",
+        "matches": {
+            "tgdb": [
+                "4932"
+            ],
+            "screenscraper": [
+                "253"
+            ],
+            "mobygames": [
+                "fmtowns"
+            ],
+            "launchbox": [
+                "Fujitsu FM Towns Marty"
+            ],
+            "igdb": [
+                "118"
+            ],
+            "hfsdb": [
+                "238067"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "attractmode": [
+                "Fujitsu FM Towns"
+            ]
+        },
+        "company": "Fujitsu"
+    },
+    "fpinball": {
+        "id": "fpinball",
+        "shortName": "fpinball",
+        "name": "Future Pinball",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "199"
+            ],
+            "mobygames": [
+                "Pinball"
+            ],
+            "launchbox": [
+                "Pinball"
+            ],
+            "gamesdatabase": [
+                "future_pinball"
+            ],
+            "attractmode": [
+                "Future Pinball"
+            ]
+        },
+        "company": "Various"
+    },
+    "gaelco": {
+        "id": "gaelco",
+        "shortName": "gaelco",
+        "name": "Arcade",
+        "manufacturer": "Gaelco",
+        "matches": {
+            "screenscraper": [
+                "194"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "74407"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ]
+        },
+        "company": "Gaelco"
+    },
+    "gamate": {
+        "id": "gamate",
+        "shortName": "gamate",
+        "name": "Gamate",
+        "manufacturer": "Bitcorp",
+        "matches": {
+            "tgdb": [
+                "5004"
+            ]
+        },
+        "company": "Bitcorp"
+    },
+    "gameandwatch": {
+        "id": "gameandwatch",
+        "shortName": "gameandwatch",
+        "name": "Game and Watch",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4950"
+            ],
+            "screenscraper": [
+                "52"
+            ],
+            "mobygames": [
+                "dedicated-handheld"
+            ],
+            "launchbox": [
+                "Nintendo Game &amp; Watch"
+            ],
+            "igdb": [
+                "307"
+            ],
+            "hfsdb": [
+                "190542"
+            ],
+            "gamesdatabase": [
+                "4950"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "gamecom": {
+        "id": "gamecom",
+        "shortName": "gamecom",
+        "name": "Game.com",
+        "manufacturer": "Tiger Electronics",
+        "matches": {
+            "tgdb": [
+                "4940"
+            ],
+            "screenscraper": [
+                "121"
+            ],
+            "mobygames": [
+                "game-com"
+            ],
+            "launchbox": [
+                "Android"
+            ],
+            "igdb": [
+                "379"
+            ]
+        },
+        "company": "Tiger Electronics"
+    },
+    "gamecube": {
+        "id": "gamecube",
+        "shortName": "gamecube",
+        "name": "Nintendo Gamecube",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "2"
+            ],
+            "screenscraper": [
+                "13"
+            ],
+            "mobygames": [
+                "gamecube"
+            ],
+            "launchbox": [
+                "Nintendo GameCube"
+            ],
+            "hfsdb": [
+                "82825"
+            ],
+            "gametdb": [
+                "Wii"
+            ],
+            "gamesdatabase": [
+                "nintendo-gamecube"
+            ],
+            "bezels_project": [
+                "bezelproject-GC"
+            ],
+            "attractmode": [
+                "Nintendo GameCube"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "gamegear": {
+        "id": "gamegear",
+        "shortName": "gamegear",
+        "name": "Game Gear",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "20"
+            ],
+            "screenscraper": [
+                "21"
+            ],
+            "mobygames": [
+                "game-gear"
+            ],
+            "launchbox": [
+                "Sega Game Gear"
+            ],
+            "igdb": [
+                "35"
+            ],
+            "hfsdb": [
+                "33807"
+            ],
+            "gamesdatabase": [
+                "sega-game-gear"
+            ],
+            "bezels_project": [
+                "bezelproject-GameGear"
+            ],
+            "attractmode": [
+                "Sega Game Gear"
+            ]
+        },
+        "company": "Sega"
+    },
+    "gamepock": {
+        "id": "gamepock",
+        "shortName": "gamepock",
+        "name": "Game Pocket Computer",
+        "manufacturer": "Epoch",
+        "matches": {
+            "screenscraper": [
+                "95"
+            ],
+            "mobygames": [
+                "epoch-game-pocket-computer"
+            ],
+            "launchbox": [
+                "Epoch Game Pocket Computer"
+            ]
+        },
+        "company": "Epoch"
+    },
+    "gb": {
+        "id": "gb",
+        "shortName": "gb",
+        "name": "Game Boy",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4"
+            ],
+            "screenscraper": [
+                "9"
+            ],
+            "mobygames": [
+                "gameboy"
+            ],
+            "launchbox": [
+                "Nintendo Game Boy"
+            ],
+            "igdb": [
+                "33"
+            ],
+            "hfsdb": [
+                "36022"
+            ],
+            "gamesdatabase": [
+                "nintendo-game-boy"
+            ],
+            "bezels_project": [
+                "bezelproject-GB"
+            ],
+            "attractmode": [
+                "Nintendo Game Boy"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "gba": {
+        "id": "gba",
+        "shortName": "gba",
+        "name": "Game Boy Advance",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "5"
+            ],
+            "screenscraper": [
+                "12"
+            ],
+            "mobygames": [
+                "gameboy-advance"
+            ],
+            "launchbox": [
+                "Nintendo Game Boy Advance"
+            ],
+            "igdb": [
+                "24"
+            ],
+            "hfsdb": [
+                "89234"
+            ],
+            "gamesdatabase": [
+                "nintendo-game-boy-advance"
+            ],
+            "bezels_project": [
+                "bezelproject-GBA"
+            ],
+            "attractmode": [
+                "Nintendo Game Boy Advance"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "gbc2players": {
+        "id": "gbc2players",
+        "shortName": "gbc2players",
+        "name": "Game Boy Color 2 players",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "igdb": [
+                "22"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "gbc": {
+        "id": "gbc",
+        "shortName": "gbc",
+        "name": "Game Boy Color",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "41"
+            ],
+            "screenscraper": [
+                "10"
+            ],
+            "mobygames": [
+                "Nintendo Game Boy Color"
+            ],
+            "launchbox": [
+                "Nintendo Game Boy Color"
+            ],
+            "igdb": [
+                "22"
+            ],
+            "hfsdb": [
+                "89235"
+            ],
+            "gamesdatabase": [
+                "nintendo-game-boy-color"
+            ],
+            "bezels_project": [
+                "bezelproject-GBC"
+            ],
+            "attractmode": [
+                "Nintendo Game Boy Color"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "gc": {
+        "id": "gc",
+        "shortName": "gc",
+        "name": "Nintendo Gamecube",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "2"
+            ],
+            "screenscraper": [
+                "13"
+            ],
+            "mobygames": [
+                "gamecube"
+            ],
+            "launchbox": [
+                "Nintendo GameCube"
+            ],
+            "igdb": [
+                "21"
+            ],
+            "hfsdb": [
+                "82825"
+            ],
+            "gametdb": [
+                "Wii"
+            ],
+            "gamesdatabase": [
+                "nintendo-gamecube"
+            ],
+            "bezels_project": [
+                "bezelproject-GC"
+            ],
+            "attractmode": [
+                "Nintendo GameCube"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "genesis": {
+        "id": "genesis",
+        "shortName": "genesis",
+        "name": "Genesis",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "18"
+            ],
+            "screenscraper": [
+                "1"
+            ],
+            "mobygames": [
+                "genesis"
+            ],
+            "launchbox": [
+                "Sega Genesis"
+            ],
+            "igdb": [
+                "29"
+            ],
+            "hfsdb": [
+                "33149"
+            ],
+            "gamesdatabase": [
+                "sega-genesis"
+            ],
+            "bezels_project": [
+                "bezelproject-MegaDrive"
+            ],
+            "attractmode": [
+                "Sega Genesis"
+            ]
+        },
+        "company": "Sega"
+    },
+    "gw": {
+        "id": "gw",
+        "shortName": "gw",
+        "name": "Game and Watch",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "4950"
+            ],
+            "screenscraper": [
+                "52"
+            ],
+            "mobygames": [
+                "dedicated-handheld"
+            ],
+            "launchbox": [
+                "Nintendo Game &amp; Watch"
+            ],
+            "igdb": [
+                "307"
+            ],
+            "hfsdb": [
+                "190542"
+            ],
+            "gamesdatabase": [
+                "4950"
+            ]
+        },
+        "company": "Various"
+    },
+    "gx4000": {
+        "id": "gx4000",
+        "shortName": "gx4000",
+        "name": "GX-4000",
+        "manufacturer": "Amstrad",
+        "matches": {
+            "tgdb": [
+                "4914"
+            ],
+            "screenscraper": [
+                "87"
+            ],
+            "mobygames": [
+                "cpc"
+            ],
+            "launchbox": [
+                "Amstrad GX4000"
+            ],
+            "igdb": [
+                "25"
+            ],
+            "hfsdb": [
+                "30250"
+            ],
+            "gamesdatabase": [
+                "amstrad-gx4000"
+            ],
+            "bezels_project": [
+                "bezelproject-AmstradGX4000"
+            ],
+            "attractmode": [
+                "Amstrad GX4000"
+            ]
+        },
+        "company": "Amstrad"
+    },
+    "hbmame": {
+        "id": "hbmame",
+        "shortName": "hbmame",
+        "name": "Mame",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ]
+        },
+        "company": "Various"
+    },
+    "hikaru": {
+        "id": "hikaru",
+        "shortName": "hikaru",
+        "name": "Arcade",
+        "manufacturer": "Sega",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "74074"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ]
+        },
+        "company": "Sega"
+    },
+    "imageviewer": {
+        "id": "imageviewer",
+        "shortName": "imageviewer",
+        "name": "--Screenshots",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "intellivision": {
+        "id": "intellivision",
+        "shortName": "intellivision",
+        "name": "intellivision",
+        "manufacturer": "Mattel",
+        "matches": {
+            "tgdb": [
+                "32"
+            ],
+            "screenscraper": [
+                "115"
+            ],
+            "mobygames": [
+                "intellivision"
+            ],
+            "launchbox": [
+                "Mattel Intellivision"
+            ],
+            "hfsdb": [
+                "84444"
+            ],
+            "gamesdatabase": [
+                "mattel-intellivision"
+            ],
+            "bezels_project": [
+                "bezelproject-Intellivision"
+            ],
+            "attractmode": [
+                "Mattel Intellivision"
+            ]
+        },
+        "company": "Mattel"
+    },
+    "internet": {
+        "id": "internet",
+        "shortName": "internet",
+        "name": "Internet",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "j2me": {
+        "id": "j2me",
+        "shortName": "j2me",
+        "name": "Java 2 MicroEdition",
+        "manufacturer": "Sun",
+        "matches": [],
+        "company": "Sun"
+    },
+    "jaguar": {
+        "id": "jaguar",
+        "shortName": "jaguar",
+        "name": "Jaguar",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "28"
+            ],
+            "screenscraper": [
+                "27"
+            ],
+            "mobygames": [
+                "jaguar"
+            ],
+            "launchbox": [
+                "Atari Jaguar"
+            ],
+            "igdb": [
+                "62"
+            ],
+            "hfsdb": [
+                "84220"
+            ],
+            "gamesdatabase": [
+                "atari-jaguar"
+            ],
+            "bezels_project": [
+                "bezelproject-AtariJaguar"
+            ],
+            "attractmode": [
+                "Atari Jaguar"
+            ]
+        },
+        "company": "Atari"
+    },
+    "jaguarcd": {
+        "id": "jaguarcd",
+        "shortName": "jaguarcd",
+        "name": "Atari Jaguar CD",
+        "manufacturer": "Atari",
+        "matches": {
+            "screenscraper": [
+                "171"
+            ],
+            "mobygames": [
+                "jaguar"
+            ],
+            "launchbox": [
+                "Atari Jaguar CD"
+            ],
+            "igdb": [
+                "410"
+            ],
+            "hfsdb": [
+                "84220"
+            ],
+            "bezels_project": [
+                "bezelproject-AtariJaguar"
+            ],
+            "attractmode": [
+                "Atari Jaguar CD"
+            ]
+        },
+        "company": "Atari"
+    },
+    "kodi": {
+        "id": "kodi",
+        "shortName": "kodi",
+        "name": "--kodi",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "lcdgames": {
+        "id": "lcdgames",
+        "shortName": "lcdgames",
+        "name": "LCD Games",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "4950"
+            ],
+            "screenscraper": [
+                "52"
+            ],
+            "mobygames": [
+                "dedicated-handheld"
+            ],
+            "launchbox": [
+                "Nintendo Game &amp; Watch"
+            ],
+            "igdb": [
+                "307"
+            ],
+            "hfsdb": [
+                "190542"
+            ],
+            "gamesdatabase": [
+                "4950"
+            ]
+        },
+        "company": "Various"
+    },
+    "library": {
+        "id": "library",
+        "shortName": "library",
+        "name": "--library",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "lightgun": {
+        "id": "lightgun",
+        "shortName": "lightgun",
+        "name": "--LightGun",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "linux": {
+        "id": "linux",
+        "shortName": "linux",
+        "name": "Linux Games",
+        "manufacturer": "Linux",
+        "matches": {
+            "screenscraper": [
+                "145"
+            ],
+            "mobygames": [
+                "linux"
+            ],
+            "launchbox": [
+                "Linux"
+            ]
+        },
+        "company": "Linux"
+    },
+    "love": {
+        "id": "love",
+        "shortName": "love",
+        "name": "--love",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "lowresnx": {
+        "id": "lowresnx",
+        "shortName": "lowresnx",
+        "name": "LowRes NX",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "244"
+            ]
+        },
+        "company": "Various"
+    },
+    "lutro": {
+        "id": "lutro",
+        "shortName": "lutro",
+        "name": "Lutro",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "206"
+            ],
+            "gamesdatabase": [
+                "1"
+            ]
+        },
+        "company": "Various"
+    },
+    "lynx": {
+        "id": "lynx",
+        "shortName": "lynx",
+        "name": "Lynx",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "4924"
+            ],
+            "screenscraper": [
+                "28"
+            ],
+            "mobygames": [
+                "lynx"
+            ],
+            "launchbox": [
+                "Atari Lynx"
+            ],
+            "igdb": [
+                "61"
+            ],
+            "hfsdb": [
+                "240842"
+            ],
+            "gamesdatabase": [
+                "atari-lynx"
+            ],
+            "bezels_project": [
+                "bezelproject-AtariLynx"
+            ]
+        },
+        "company": "Atari"
+    },
+    "macintosh": {
+        "id": "macintosh",
+        "shortName": "macintosh",
+        "name": "Macintosh",
+        "manufacturer": "Apple",
+        "matches": {
+            "tgdb": [
+                "37"
+            ],
+            "screenscraper": [
+                "217"
+            ],
+            "mobygames": [
+                "macintosh"
+            ],
+            "launchbox": [
+                "Apple Mac OS"
+            ],
+            "igdb": [
+                "14"
+            ],
+            "gamesdatabase": [
+                "37"
+            ]
+        },
+        "company": "Apple"
+    },
+    "mame-advmame": {
+        "id": "mame-advmame",
+        "shortName": "mame-advmame",
+        "name": "Mame",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "MAME"
+            ]
+        },
+        "company": "Various"
+    },
+    "mame-libretro": {
+        "id": "mame-libretro",
+        "shortName": "mame-libretro",
+        "name": "Mame",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "MAME"
+            ]
+        },
+        "company": "Various"
+    },
+    "mame-mame4all": {
+        "id": "mame-mame4all",
+        "shortName": "mame-mame4all",
+        "name": "Mame",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "MAME"
+            ]
+        },
+        "company": "Various"
+    },
+    "mame": {
+        "id": "mame",
+        "shortName": "mame",
+        "name": "Mame",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ]
+        },
+        "company": "Various"
+    },
+    "mastersystem": {
+        "id": "mastersystem",
+        "shortName": "mastersystem",
+        "name": "Master System",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "35"
+            ],
+            "screenscraper": [
+                "2"
+            ],
+            "mobygames": [
+                "sega-master-system"
+            ],
+            "launchbox": [
+                "Sega Master System"
+            ],
+            "igdb": [
+                "64"
+            ],
+            "hfsdb": [
+                "82166"
+            ],
+            "gamesdatabase": [
+                "sega-master-system"
+            ],
+            "bezels_project": [
+                "bezelproject-MasterSystem"
+            ],
+            "attractmode": [
+                "Sega Master System"
+            ]
+        },
+        "company": "Sega"
+    },
+    "medias": {
+        "id": "medias",
+        "shortName": "medias",
+        "name": "--medias",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "megacd": {
+        "id": "megacd",
+        "shortName": "megacd",
+        "name": "Mega-CD",
+        "manufacturer": "Sega",
+        "matches": {
+            "screenscraper": [
+                "20"
+            ],
+            "mobygames": [
+                "sega-cd"
+            ],
+            "launchbox": [
+                "Sega CD"
+            ],
+            "igdb": [
+                "29"
+            ],
+            "hfsdb": [
+                "83493"
+            ],
+            "bezels_project": [
+                "bezelproject-SegaCD"
+            ],
+            "attractmode": [
+                "Sega CD"
+            ]
+        },
+        "company": "Sega"
+    },
+    "megadrive": {
+        "id": "megadrive",
+        "shortName": "megadrive",
+        "name": "Mega Drive",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "18"
+            ],
+            "screenscraper": [
+                "1"
+            ],
+            "mobygames": [
+                "genesis"
+            ],
+            "launchbox": [
+                "Sega Genesis"
+            ],
+            "igdb": [
+                "29"
+            ],
+            "hfsdb": [
+                "33149"
+            ],
+            "gamesdatabase": [
+                "sega-genesis"
+            ],
+            "bezels_project": [
+                "bezelproject-MegaDrive"
+            ],
+            "attractmode": [
+                "Sega Genesis"
+            ]
+        },
+        "company": "Sega"
+    },
+    "megaduck": {
+        "id": "megaduck",
+        "shortName": "megaduck",
+        "name": "Mega Duck",
+        "manufacturer": "Welback Holdings",
+        "matches": {
+            "tgdb": [
+                "4948"
+            ],
+            "screenscraper": [
+                "90"
+            ],
+            "mobygames": [
+                "Mega Duck"
+            ],
+            "launchbox": [
+                "Mega Duck"
+            ],
+            "hfsdb": [
+                "239486"
+            ],
+            "gamesdatabase": [
+                "mega-duck"
+            ]
+        },
+        "company": "Welback Holdings"
+    },
+    "mess": {
+        "id": "mess",
+        "shortName": "mess",
+        "name": "Mess",
+        "manufacturer": "Various",
+        "matches": {
+            "igdb": [
+                "52"
+            ]
+        },
+        "company": "Various"
+    },
+    "model2": {
+        "id": "model2",
+        "shortName": "model2",
+        "name": "Sega Model 2",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "54"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Sega Model 2"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "29695"
+            ],
+            "gamesdatabase": [
+                "sega-model-2"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Sega Model 2"
+            ]
+        },
+        "company": "Sega"
+    },
+    "model3": {
+        "id": "model3",
+        "shortName": "model3",
+        "name": "Sega Model 3",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "55"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Sega Model 3"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "75739"
+            ],
+            "gamesdatabase": [
+                "sega-model-3"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Sega Model 3"
+            ]
+        },
+        "company": "Sega"
+    },
+    "moonlight": {
+        "id": "moonlight",
+        "shortName": "moonlight",
+        "name": "--Moonlight",
+        "manufacturer": "--system",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "135"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "MS-DOS"
+            ],
+            "gamesdatabase": [
+                "1"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ]
+        },
+        "company": "--system"
+    },
+    "mrboom": {
+        "id": "mrboom",
+        "shortName": "mrboom",
+        "name": "Mr. Boom",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "msu-md": {
+        "id": "msu-md",
+        "shortName": "msu-md",
+        "name": "MSU-MD",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "18"
+            ],
+            "mobygames": [
+                "megadrive|genesis"
+            ],
+            "launchbox": [
+                "megadrive|Sega Genesis"
+            ],
+            "igdb": [
+                "29"
+            ],
+            "hfsdb": [
+                "33149"
+            ]
+        },
+        "company": "Sega"
+    },
+    "msx1": {
+        "id": "msx1",
+        "shortName": "msx1",
+        "name": "MSX1",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "tgdb": [
+                "4929"
+            ],
+            "screenscraper": [
+                "113"
+            ],
+            "mobygames": [
+                "msx"
+            ],
+            "launchbox": [
+                "Microsoft MSX"
+            ],
+            "igdb": [
+                "27"
+            ],
+            "hfsdb": [
+                "113089"
+            ],
+            "gamesdatabase": [
+                "msx"
+            ],
+            "bezels_project": [
+                "bezelproject-MSX"
+            ],
+            "attractmode": [
+                "Microsoft MSX"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "msx2": {
+        "id": "msx2",
+        "shortName": "msx2",
+        "name": "MSX2",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "tgdb": [
+                "4929"
+            ],
+            "screenscraper": [
+                "116"
+            ],
+            "mobygames": [
+                "msx"
+            ],
+            "launchbox": [
+                "Microsoft MSX2"
+            ],
+            "hfsdb": [
+                "184439"
+            ],
+            "gamesdatabase": [
+                "msx-2"
+            ],
+            "bezels_project": [
+                "bezelproject-MSX2"
+            ],
+            "attractmode": [
+                "Microsoft MSX2"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "msx2+": {
+        "id": "msx2+",
+        "shortName": "msx2+",
+        "name": "MSX2 Plus",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "screenscraper": [
+                "117"
+            ],
+            "mobygames": [
+                "msx"
+            ],
+            "launchbox": [
+                "Microsoft MSX2+"
+            ],
+            "hfsdb": [
+                "184440"
+            ],
+            "bezels_project": [
+                "bezelproject-MSX2Plus"
+            ],
+            "attractmode": [
+                "Microsoft MSX2+"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "msx": {
+        "id": "msx",
+        "shortName": "msx",
+        "name": "MSX",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "tgdb": [
+                "4929"
+            ],
+            "screenscraper": [
+                "113"
+            ],
+            "mobygames": [
+                "msx"
+            ],
+            "launchbox": [
+                "Microsoft MSX"
+            ],
+            "hfsdb": [
+                "113089"
+            ],
+            "gamesdatabase": [
+                "msx"
+            ],
+            "bezels_project": [
+                "bezelproject-MSX"
+            ],
+            "attractmode": [
+                "Microsoft MSX"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "msxturbor": {
+        "id": "msxturbor",
+        "shortName": "msxturbor",
+        "name": "MSX Turbo R",
+        "manufacturer": "Panasonic",
+        "matches": {
+            "tgdb": [
+                "4929"
+            ],
+            "screenscraper": [
+                "118"
+            ],
+            "mobygames": [
+                "msx"
+            ],
+            "launchbox": [
+                "Microsoft MSX"
+            ],
+            "igdb": [
+                "53"
+            ],
+            "hfsdb": [
+                "184441"
+            ],
+            "gamesdatabase": [
+                "msx-2"
+            ],
+            "bezels_project": [
+                "bezelproject-MSXTurbo"
+            ]
+        },
+        "company": "Panasonic"
+    },
+    "mugen": {
+        "id": "mugen",
+        "shortName": "mugen",
+        "name": "MUGEN",
+        "manufacturer": "Elecbyte",
+        "matches": {
+            "screenscraper": [
+                "214"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "MUGEN"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "mugen"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ]
+        },
+        "company": "Elecbyte"
+    },
+    "multivision": {
+        "id": "multivision",
+        "shortName": "multivision",
+        "name": "Othello Multivision",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "4949"
+            ],
+            "screenscraper": [
+                "109"
+            ],
+            "mobygames": [
+                "Othello Multivision"
+            ],
+            "launchbox": [
+                "Othello Multivision"
+            ],
+            "gamesdatabase": [
+                "sega-sg-1000"
+            ],
+            "bezels_project": [
+                "bezelproject-SG-1000"
+            ],
+            "attractmode": [
+                "Othello Multivision"
+            ]
+        },
+        "company": "Sega"
+    },
+    "music": {
+        "id": "music",
+        "shortName": "music",
+        "name": "--music",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "n-gage": {
+        "id": "n-gage",
+        "shortName": "n-gage",
+        "name": "Nokia N-Gage",
+        "manufacturer": "Nokia",
+        "matches": {
+            "tgdb": [
+                "4938"
+            ],
+            "screenscraper": [
+                "30"
+            ],
+            "mobygames": [
+                "ngage"
+            ],
+            "launchbox": [
+                "Nokia N-Gage"
+            ],
+            "hfsdb": [
+                "128704"
+            ]
+        },
+        "company": "Nokia"
+    },
+    "n3ds": {
+        "id": "n3ds",
+        "shortName": "n3ds",
+        "name": "Nintendo 3DS",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4912"
+            ],
+            "screenscraper": [
+                "17"
+            ],
+            "mobygames": [
+                "3ds"
+            ],
+            "launchbox": [
+                "Nintendo 3DS"
+            ],
+            "igdb": [
+                "137"
+            ],
+            "hfsdb": [
+                "148845"
+            ],
+            "gametdb": [
+                "3DS"
+            ],
+            "gamesdatabase": [
+                "nintendo-ds"
+            ],
+            "bezels_project": [
+                "bezelproject-N3DS"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "n64": {
+        "id": "n64",
+        "shortName": "n64",
+        "name": "Nintendo 64",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "3"
+            ],
+            "screenscraper": [
+                "14"
+            ],
+            "mobygames": [
+                "n64"
+            ],
+            "launchbox": [
+                "Nintendo 64"
+            ],
+            "hfsdb": [
+                "32765"
+            ],
+            "gamesdatabase": [
+                "nintendo-n64"
+            ],
+            "bezels_project": [
+                "bezelproject-N64"
+            ],
+            "attractmode": [
+                "Nintendo 64"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "n64dd": {
+        "id": "n64dd",
+        "shortName": "n64dd",
+        "name": "Nintendo 64DD",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "3"
+            ],
+            "screenscraper": [
+                "122"
+            ],
+            "mobygames": [
+                "n64"
+            ],
+            "launchbox": [
+                "Nintendo 64DD"
+            ],
+            "igdb": [
+                "416"
+            ],
+            "hfsdb": [
+                "33139"
+            ],
+            "gamesdatabase": [
+                "nintendo-n64"
+            ],
+            "bezels_project": [
+                "bezelproject-N64DD"
+            ],
+            "attractmode": [
+                "Nintendo 64DD"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "naomi": {
+        "id": "naomi",
+        "shortName": "naomi",
+        "name": "Naomi",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "56"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Sega Naomi"
+            ],
+            "hfsdb": [
+                "36453"
+            ],
+            "gamesdatabase": [
+                "sega-naomi"
+            ],
+            "bezels_project": [
+                "bezelproject-Naomi"
+            ],
+            "attractmode": [
+                "Sega Naomi"
+            ]
+        },
+        "company": "Sega"
+    },
+    "naomigd": {
+        "id": "naomigd",
+        "shortName": "naomigd",
+        "name": "Naomi GD-ROM",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "227"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Sega Naomi 2"
+            ],
+            "hfsdb": [
+                "36453"
+            ],
+            "gamesdatabase": [
+                "sega-naomi"
+            ],
+            "bezels_project": [
+                "bezelproject-Naomi"
+            ],
+            "attractmode": [
+                "Sega Naomi"
+            ]
+        },
+        "company": "Sega"
+    },
+    "nds": {
+        "id": "nds",
+        "shortName": "nds",
+        "name": "Nintendo DS",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "8"
+            ],
+            "screenscraper": [
+                "15"
+            ],
+            "mobygames": [
+                "nintendo-ds"
+            ],
+            "launchbox": [
+                "Nintendo DS"
+            ],
+            "hfsdb": [
+                "98132"
+            ],
+            "gametdb": [
+                "DS"
+            ],
+            "gamesdatabase": [
+                "nintendo-ds"
+            ],
+            "bezels_project": [
+                "bezelproject-NDS"
+            ],
+            "attractmode": [
+                "Nintendo DS"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "neogeo": {
+        "id": "neogeo",
+        "shortName": "neogeo",
+        "name": "Neo-Geo",
+        "manufacturer": "SNK",
+        "matches": {
+            "tgdb": [
+                "24"
+            ],
+            "screenscraper": [
+                "142"
+            ],
+            "mobygames": [
+                "neo-geo"
+            ],
+            "launchbox": [
+                "SNK Neo Geo AES"
+            ],
+            "igdb": [
+                "79"
+            ],
+            "hfsdb": [
+                "29794"
+            ],
+            "gamesdatabase": [
+                "snk-neo-geo-aes"
+            ],
+            "bezels_project": [
+                "bezelproject-NG-CD"
+            ],
+            "attractmode": [
+                "SNK Neo Geo AES"
+            ]
+        },
+        "company": "SNK"
+    },
+    "neogeocd": {
+        "id": "neogeocd",
+        "shortName": "neogeocd",
+        "name": "Neo-Geo CD",
+        "manufacturer": "SNK",
+        "matches": {
+            "tgdb": [
+                "4956"
+            ],
+            "screenscraper": [
+                "70"
+            ],
+            "mobygames": [
+                "neo-geo-cd"
+            ],
+            "launchbox": [
+                "SNK Neo Geo CD"
+            ],
+            "igdb": [
+                "136"
+            ],
+            "hfsdb": [
+                "237944"
+            ],
+            "gamesdatabase": [
+                "snk-neo-geo-cd"
+            ],
+            "bezels_project": [
+                "bezelproject-NG-CD"
+            ],
+            "attractmode": [
+                "SNK Neo Geo CD"
+            ]
+        },
+        "company": "SNK"
+    },
+    "neogeomini": {
+        "id": "neogeomini",
+        "shortName": "neogeomini",
+        "name": "Neo-Geo Mini",
+        "manufacturer": "SNK",
+        "matches": {
+            "tgdb": [
+                "24"
+            ],
+            "screenscraper": [
+                "142"
+            ],
+            "mobygames": [
+                "neo-geo"
+            ],
+            "launchbox": [
+                "SNK Neo Geo AES"
+            ],
+            "gamesdatabase": [
+                "snk-neo-geo-aes"
+            ],
+            "bezels_project": [
+                "bezelproject-NG-CD"
+            ]
+        },
+        "company": "SNK"
+    },
+    "neogeox": {
+        "id": "neogeox",
+        "shortName": "neogeox",
+        "name": "Neo-Geo X",
+        "manufacturer": "SNK",
+        "matches": {
+            "tgdb": [
+                "24"
+            ],
+            "screenscraper": [
+                "142"
+            ],
+            "gamesdatabase": [
+                "snk-neo-geo-aes"
+            ],
+            "bezels_project": [
+                "bezelproject-NG-CD"
+            ],
+            "attractmode": [
+                "SNK Neo Geo AES"
+            ]
+        },
+        "company": "SNK"
+    },
+    "nes": {
+        "id": "nes",
+        "shortName": "nes",
+        "name": "Nintendo Entertainment System",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "7"
+            ],
+            "screenscraper": [
+                "3"
+            ],
+            "mobygames": [
+                "nes"
+            ],
+            "launchbox": [
+                "Nintendo Entertainment System"
+            ],
+            "hfsdb": [
+                "36012"
+            ],
+            "gamesdatabase": [
+                "nintendo-nes"
+            ],
+            "bezels_project": [
+                "bezelproject-NES"
+            ],
+            "attractmode": [
+                "Nintendo Entertainment System"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "nesmini": {
+        "id": "nesmini",
+        "shortName": "nesmini",
+        "name": "Nes Mini",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "7"
+            ],
+            "screenscraper": [
+                "3"
+            ],
+            "mobygames": [
+                "nes"
+            ],
+            "launchbox": [
+                "Nintendo Entertainment System"
+            ],
+            "gamesdatabase": [
+                "nintendo-nes"
+            ],
+            "bezels_project": [
+                "bezelproject-NES"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "ngage": {
+        "id": "ngage",
+        "shortName": "ngage",
+        "name": "Nokia N-Gage",
+        "manufacturer": "Nokia",
+        "matches": {
+            "tgdb": [
+                "4938"
+            ],
+            "screenscraper": [
+                "30"
+            ],
+            "mobygames": [
+                "ngage"
+            ],
+            "launchbox": [
+                "Nokia N-Gage"
+            ],
+            "hfsdb": [
+                "128704"
+            ]
+        },
+        "company": "Nokia"
+    },
+    "ngp": {
+        "id": "ngp",
+        "shortName": "ngp",
+        "name": "Neo-Geo Pocket",
+        "manufacturer": "SNK",
+        "matches": {
+            "tgdb": [
+                "4922"
+            ],
+            "screenscraper": [
+                "25"
+            ],
+            "mobygames": [
+                "neo-geo-pocket"
+            ],
+            "launchbox": [
+                "SNK Neo Geo Pocket"
+            ],
+            "igdb": [
+                "119"
+            ],
+            "hfsdb": [
+                "33980"
+            ],
+            "gamesdatabase": [
+                "snk-neo-geo-pocket"
+            ],
+            "bezels_project": [
+                "bezelproject-NGP"
+            ],
+            "attractmode": [
+                "SNK Neo Geo Pocket"
+            ]
+        },
+        "company": "SNK"
+    },
+    "ngpc": {
+        "id": "ngpc",
+        "shortName": "ngpc",
+        "name": "Neo-Geo Pocket Color",
+        "manufacturer": "SNK",
+        "matches": {
+            "tgdb": [
+                "4923"
+            ],
+            "screenscraper": [
+                "82"
+            ],
+            "mobygames": [
+                "neo-geo-pocket-color"
+            ],
+            "launchbox": [
+                "SNK Neo Geo Pocket Color"
+            ],
+            "igdb": [
+                "120"
+            ],
+            "hfsdb": [
+                "33980"
+            ],
+            "gamesdatabase": [
+                "snk-neo-geo-pocket-color"
+            ],
+            "bezels_project": [
+                "bezelproject-NGPC"
+            ],
+            "attractmode": [
+                "SNK Neo Geo Pocket Color"
+            ]
+        },
+        "company": "SNK"
+    },
+    "np2pi": {
+        "id": "np2pi",
+        "shortName": "np2pi",
+        "name": "Nec PC-9801",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "4934"
+            ],
+            "screenscraper": [
+                "208"
+            ],
+            "gamesdatabase": [
+                "4934"
+            ]
+        },
+        "company": "NEC"
+    },
+    "o2em": {
+        "id": "o2em",
+        "shortName": "o2em",
+        "name": "Odyssey 2",
+        "manufacturer": "Magnavox",
+        "matches": {
+            "screenscraper": [
+                "104"
+            ],
+            "mobygames": [
+                "odyssey-2"
+            ],
+            "launchbox": [
+                "Magnavox Odyssey 2"
+            ],
+            "hfsdb": [
+                "240881"
+            ],
+            "bezels_project": [
+                "bezelproject-Videopac"
+            ],
+            "attractmode": [
+                "Magnavox Odyssey 2"
+            ]
+        },
+        "company": "Magnavox"
+    },
+    "odyssey2": {
+        "id": "odyssey2",
+        "shortName": "odyssey2",
+        "name": "Odyssey 2",
+        "manufacturer": "Magnavox",
+        "matches": {
+            "tgdb": [
+                "4927"
+            ],
+            "screenscraper": [
+                "104"
+            ],
+            "mobygames": [
+                "odyssey-2"
+            ],
+            "launchbox": [
+                "Magnavox Odyssey 2"
+            ],
+            "hfsdb": [
+                "240881"
+            ],
+            "gamesdatabase": [
+                "magnavox-odyssey-2"
+            ],
+            "bezels_project": [
+                "bezelproject-Videopac"
+            ],
+            "attractmode": [
+                "Magnavox Odyssey 2"
+            ]
+        },
+        "company": "Magnavox"
+    },
+    "openbor": {
+        "id": "openbor",
+        "shortName": "openbor",
+        "name": "Openbor",
+        "manufacturer": "Openbor",
+        "matches": {
+            "screenscraper": [
+                "214"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "OpenBOR"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "openbor"
+            ]
+        },
+        "company": "Openbor"
+    },
+    "oric": {
+        "id": "oric",
+        "shortName": "oric",
+        "name": "Oric 1",
+        "manufacturer": "Tangerine Computer Systems",
+        "matches": {
+            "tgdb": [
+                "4986"
+            ],
+            "screenscraper": [
+                "131"
+            ],
+            "mobygames": [
+                "oric"
+            ],
+            "launchbox": [
+                "Oric Atmos"
+            ],
+            "hfsdb": [
+                "240911"
+            ],
+            "attractmode": [
+                "Tangerine Oric"
+            ]
+        },
+        "company": "Tangerine Computer Systems"
+    },
+    "oricatmos": {
+        "id": "oricatmos",
+        "shortName": "oricatmos",
+        "name": "Oric / Atmos",
+        "manufacturer": "Tangerine Computer Systems",
+        "matches": {
+            "tgdb": [
+                "4986"
+            ],
+            "screenscraper": [
+                "131"
+            ],
+            "mobygames": [
+                "oric"
+            ],
+            "launchbox": [
+                "Oric Atmos"
+            ],
+            "hfsdb": [
+                "240911"
+            ],
+            "gamesdatabase": [
+                "tangerine-oric"
+            ],
+            "attractmode": [
+                "Tangerine Oric",
+                "Tangerine Oric"
+            ]
+        },
+        "company": "Tangerine Computer Systems"
+    },
+    "palm": {
+        "id": "palm",
+        "shortName": "palm",
+        "name": "PalmOS",
+        "manufacturer": "Plam Computing",
+        "matches": {
+            "screenscraper": [
+                "219"
+            ]
+        },
+        "company": "Plam Computing"
+    },
+    "pc-fx": {
+        "id": "pc-fx",
+        "shortName": "pc-fx",
+        "name": "PC-FX",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "4930"
+            ],
+            "screenscraper": [
+                "72"
+            ],
+            "mobygames": [
+                "pc-fx"
+            ],
+            "launchbox": [
+                "NEC PC-FX"
+            ],
+            "hfsdb": [
+                "240904"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelproject-PCFX"
+            ]
+        },
+        "company": "NEC"
+    },
+    "pc88": {
+        "id": "pc88",
+        "shortName": "pc88",
+        "name": "Nec PC-8801",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "4933"
+            ],
+            "screenscraper": [
+                "221"
+            ],
+            "mobygames": [
+                "pc88"
+            ],
+            "launchbox": [
+                "NEC PC-8801"
+            ],
+            "igdb": [
+                "125"
+            ],
+            "hfsdb": [
+                "240898"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ],
+            "attractmode": [
+                "NEC PC-8801"
+            ]
+        },
+        "company": "NEC"
+    },
+    "pc98": {
+        "id": "pc98",
+        "shortName": "pc98",
+        "name": "Nec PC-9801",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "4934"
+            ],
+            "screenscraper": [
+                "208"
+            ],
+            "mobygames": [
+                "pc98"
+            ],
+            "launchbox": [
+                "NEC PC-9801"
+            ],
+            "igdb": [
+                "149"
+            ],
+            "hfsdb": [
+                "240901"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ],
+            "attractmode": [
+                "NEC PC-9801"
+            ]
+        },
+        "company": "NEC"
+    },
+    "pc": {
+        "id": "pc",
+        "shortName": "pc",
+        "name": "PC",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "135"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "MS-DOS"
+            ],
+            "igdb": [
+                "13"
+            ],
+            "hfsdb": [
+                "82805"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ],
+            "attractmode": [
+                "PC Games"
+            ]
+        },
+        "company": "Various"
+    },
+    "pce-cd": {
+        "id": "pce-cd",
+        "shortName": "pce-cd",
+        "name": "PC-Engine CD",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "4955"
+            ],
+            "screenscraper": [
+                "114"
+            ],
+            "mobygames": [
+                "turbografx-cd"
+            ],
+            "launchbox": [
+                "NEC TurboGrafx-CD"
+            ],
+            "igdb": [
+                "128"
+            ],
+            "hfsdb": [
+                "138489"
+            ],
+            "gamesdatabase": [
+                "nec-pc-engine-cd"
+            ],
+            "bezels_project": [
+                "bezelproject-PCE-CD"
+            ],
+            "attractmode": [
+                "NEC PC Engine-CD"
+            ]
+        },
+        "company": "NEC"
+    },
+    "pce": {
+        "id": "pce",
+        "shortName": "pce",
+        "name": "PC-Engine",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "34"
+            ],
+            "screenscraper": [
+                "31"
+            ],
+            "mobygames": [
+                "turbo-grafx"
+            ],
+            "launchbox": [
+                "NEC TurboGrafx-16"
+            ],
+            "igdb": [
+                "128"
+            ],
+            "hfsdb": [
+                "30273"
+            ],
+            "gamesdatabase": [
+                "nec-pc-engine"
+            ],
+            "bezels_project": [
+                "bezelproject-PCEngine"
+            ],
+            "attractmode": [
+                "NEC PC Engine"
+            ]
+        },
+        "company": "NEC"
+    },
+    "pcengine": {
+        "id": "pcengine",
+        "shortName": "pcengine",
+        "name": "PC-Engine",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "34"
+            ],
+            "screenscraper": [
+                "31"
+            ],
+            "mobygames": [
+                "turbo-grafx"
+            ],
+            "launchbox": [
+                "NEC TurboGrafx-16"
+            ],
+            "igdb": [
+                "128"
+            ],
+            "hfsdb": [
+                "30273"
+            ],
+            "gamesdatabase": [
+                "nec-pc-engine"
+            ],
+            "bezels_project": [
+                "bezelproject-PCEngine"
+            ],
+            "attractmode": [
+                "NEC PC Engine"
+            ]
+        },
+        "company": "NEC"
+    },
+    "pcenginecd": {
+        "id": "pcenginecd",
+        "shortName": "pcenginecd",
+        "name": "PC-Engine CD",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "4955"
+            ],
+            "screenscraper": [
+                "114"
+            ],
+            "mobygames": [
+                "turbografx-cd"
+            ],
+            "launchbox": [
+                "NEC TurboGrafx-CD"
+            ],
+            "igdb": [
+                "128"
+            ],
+            "hfsdb": [
+                "138489"
+            ],
+            "gamesdatabase": [
+                "nec-pc-engine-cd"
+            ],
+            "bezels_project": [
+                "bezelproject-PCE-CD"
+            ],
+            "attractmode": [
+                "NEC PC Engine-CD"
+            ]
+        },
+        "company": "NEC"
+    },
+    "pcfx": {
+        "id": "pcfx",
+        "shortName": "pcfx",
+        "name": "PC-FX",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "4930"
+            ],
+            "screenscraper": [
+                "72"
+            ],
+            "mobygames": [
+                "pc-fx"
+            ],
+            "launchbox": [
+                "NEC PC-FX"
+            ],
+            "igdb": [
+                "274"
+            ],
+            "hfsdb": [
+                "240904"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelproject-PCFX"
+            ],
+            "attractmode": [
+                "NEC PC-FX"
+            ]
+        },
+        "company": "NEC"
+    },
+    "pcv2": {
+        "id": "pcv2",
+        "shortName": "pcv2",
+        "name": "Benesse Pocket Challenge V2",
+        "manufacturer": "Bandai",
+        "matches": {
+            "screenscraper": [
+                "237"
+            ]
+        },
+        "company": "Bandai"
+    },
+    "pdp1": {
+        "id": "pdp1",
+        "shortName": "pdp1",
+        "name": "PDP-1",
+        "manufacturer": "Digital Equipment Corporation",
+        "matches": {
+            "igdb": [
+                "95"
+            ]
+        },
+        "company": "Digital Equipment Corporation"
+    },
+    "pet": {
+        "id": "pet",
+        "shortName": "pet",
+        "name": "Commodore Pet",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4945"
+            ],
+            "screenscraper": [
+                "73"
+            ],
+            "mobygames": [
+                "pet"
+            ],
+            "launchbox": [
+                "Commodore PET"
+            ],
+            "igdb": [
+                "90"
+            ],
+            "hfsdb": [
+                "240850"
+            ],
+            "gamesdatabase": [
+                "commodore-pet"
+            ],
+            "attractmode": [
+                "Commodore PET"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "pico8": {
+        "id": "pico8",
+        "shortName": "pico8",
+        "name": "Pico8",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "234"
+            ],
+            "mobygames": [
+                "sega-pico"
+            ],
+            "launchbox": [
+                "Sega Pico"
+            ],
+            "bezels_project": [
+                "bezelproject-Pico"
+            ]
+        },
+        "company": "Various"
+    },
+    "pinball": {
+        "id": "pinball",
+        "shortName": "pinball",
+        "name": "Pinball",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "197"
+            ],
+            "mobygames": [
+                "Pinball"
+            ],
+            "launchbox": [
+                "Pinball"
+            ]
+        },
+        "company": "Various"
+    },
+    "pinballfx3": {
+        "id": "pinballfx3",
+        "shortName": "pinballfx3",
+        "name": "Pinball FX3",
+        "manufacturer": "Zen Studios",
+        "matches": {
+            "screenscraper": [
+                "201"
+            ],
+            "hfsdb": [
+                "158691"
+            ]
+        },
+        "company": "Zen Studios"
+    },
+    "plugnplay": {
+        "id": "plugnplay",
+        "shortName": "plugnplay",
+        "name": "--plugnplay",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "pokemini": {
+        "id": "pokemini",
+        "shortName": "pokemini",
+        "name": "Pokemon Mini",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4957"
+            ],
+            "screenscraper": [
+                "211"
+            ],
+            "mobygames": [
+                "pokemon-mini"
+            ],
+            "launchbox": [
+                "Nintendo Pokemon Mini"
+            ],
+            "gamesdatabase": [
+                "nintendo-pokemon-mini"
+            ],
+            "attractmode": [
+                "Nintendo Pokemon Mini"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "ports": {
+        "id": "ports",
+        "shortName": "ports",
+        "name": "Ports",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "prboom": {
+        "id": "prboom",
+        "shortName": "prboom",
+        "name": "Prbooom",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "135"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "MS-DOS"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ]
+        },
+        "company": "Various"
+    },
+    "ps2": {
+        "id": "ps2",
+        "shortName": "ps2",
+        "name": "PlayStation 2",
+        "manufacturer": "Sony",
+        "matches": {
+            "tgdb": [
+                "11"
+            ],
+            "screenscraper": [
+                "58"
+            ],
+            "mobygames": [
+                "ps2"
+            ],
+            "launchbox": [
+                "Sony Playstation 2"
+            ],
+            "igdb": [
+                "8"
+            ],
+            "hfsdb": [
+                "83494"
+            ],
+            "gamesdatabase": [
+                "sony-playstation-2"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PS2"
+            ],
+            "attractmode": [
+                "Sony PlayStation 2"
+            ]
+        },
+        "company": "Sony"
+    },
+    "ps3": {
+        "id": "ps3",
+        "shortName": "ps3",
+        "name": "PlayStation 3",
+        "manufacturer": "Sony",
+        "matches": {
+            "tgdb": [
+                "12"
+            ],
+            "screenscraper": [
+                "59"
+            ],
+            "mobygames": [
+                "ps3"
+            ],
+            "launchbox": [
+                "Sony Playstation 3"
+            ],
+            "igdb": [
+                "9"
+            ],
+            "hfsdb": [
+                "91841"
+            ],
+            "gametdb": [
+                "PS3"
+            ],
+            "gamesdatabase": [
+                "sony-playstation-3"
+            ]
+        },
+        "company": "Sony"
+    },
+    "psp": {
+        "id": "psp",
+        "shortName": "psp",
+        "name": "PlayStation Portable",
+        "manufacturer": "Sony",
+        "matches": {
+            "tgdb": [
+                "13"
+            ],
+            "screenscraper": [
+                "61"
+            ],
+            "mobygames": [
+                "psp"
+            ],
+            "launchbox": [
+                "Sony PSP"
+            ],
+            "igdb": [
+                "38"
+            ],
+            "hfsdb": [
+                "91845"
+            ],
+            "gamesdatabase": [
+                "sony-psp"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PSP"
+            ],
+            "attractmode": [
+                "Sony PSP"
+            ]
+        },
+        "company": "Sony"
+    },
+    "pspminis": {
+        "id": "pspminis",
+        "shortName": "pspminis",
+        "name": "PlayStation Portable Mini",
+        "manufacturer": "Sony",
+        "matches": {
+            "tgdb": [
+                "13"
+            ],
+            "screenscraper": [
+                "61"
+            ],
+            "mobygames": [
+                "psp"
+            ],
+            "launchbox": [
+                "Sony Playstation"
+            ],
+            "gamesdatabase": [
+                "sony-playstation"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PSP"
+            ]
+        },
+        "company": "Sony"
+    },
+    "psx": {
+        "id": "psx",
+        "shortName": "psx",
+        "name": "PlayStation",
+        "manufacturer": "Sony",
+        "matches": {
+            "tgdb": [
+                "10"
+            ],
+            "screenscraper": [
+                "57"
+            ],
+            "mobygames": [
+                "playstation"
+            ],
+            "launchbox": [
+                "Sony Playstation"
+            ],
+            "igdb": [
+                "7"
+            ],
+            "hfsdb": [
+                "82937"
+            ],
+            "gamesdatabase": [
+                "sony-playstation"
+            ],
+            "bezels_project": [
+                "bezelproject-PSX"
+            ],
+            "attractmode": [
+                "Sony PlayStation"
+            ]
+        },
+        "company": "Sony"
+    },
+    "psxmini": {
+        "id": "psxmini",
+        "shortName": "psxmini",
+        "name": "PlayStation Classic Mini",
+        "manufacturer": "Sony",
+        "matches": {
+            "tgdb": [
+                "10"
+            ],
+            "screenscraper": [
+                "57"
+            ],
+            "mobygames": [
+                "playstation"
+            ],
+            "launchbox": [
+                "Sony Playstation"
+            ],
+            "gamesdatabase": [
+                "sony-playstation"
+            ],
+            "bezels_project": [
+                "bezelproject-PSX"
+            ]
+        },
+        "company": "Sony"
+    },
+    "pv1000": {
+        "id": "pv1000",
+        "shortName": "pv1000",
+        "name": "PV-1000",
+        "manufacturer": "Casio",
+        "matches": {
+            "tgdb": [
+                "4964"
+            ],
+            "screenscraper": [
+                "74"
+            ],
+            "mobygames": [
+                "casio-pv-1000"
+            ],
+            "launchbox": [
+                "Casio PV-1000"
+            ],
+            "hfsdb": [
+                "190512"
+            ],
+            "gamesdatabase": [
+                "casio-pv-1000"
+            ]
+        },
+        "company": "Casio"
+    },
+    "pygame": {
+        "id": "pygame",
+        "shortName": "pygame",
+        "name": "Pygame",
+        "manufacturer": "Various",
+        "matches": [],
+        "company": "Various"
+    },
+    "quake": {
+        "id": "quake",
+        "shortName": "quake",
+        "name": "Quake",
+        "manufacturer": "--system",
+        "matches": {
+            "igdb": [
+                "13"
+            ]
+        },
+        "company": "--system"
+    },
+    "residualvm": {
+        "id": "residualvm",
+        "shortName": "residualvm",
+        "name": "ResidualVM",
+        "manufacturer": "Various",
+        "matches": {
+            "igdb": [
+                "6"
+            ],
+            "bezels_project": [
+                "bezelproject-ScummVM"
+            ]
+        },
+        "company": "Various"
+    },
+    "retrobat": {
+        "id": "retrobat",
+        "shortName": "retrobat",
+        "name": "--retrobat",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "retropie": {
+        "id": "retropie",
+        "shortName": "retropie",
+        "name": "--Retropie",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "rickdangerous": {
+        "id": "rickdangerous",
+        "shortName": "rickdangerous",
+        "name": "Rick Dangerous",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "samcoupe": {
+        "id": "samcoupe",
+        "shortName": "samcoupe",
+        "name": "SAM Coupe",
+        "manufacturer": "Miles Gordon Technology",
+        "matches": {
+            "tgdb": [
+                "4979"
+            ],
+            "screenscraper": [
+                "213"
+            ],
+            "mobygames": [
+                "sam-coup"
+            ],
+            "launchbox": [
+                "SAM Coupe"
+            ],
+            "gamesdatabase": [
+                "sinclair-zx-spectrum"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-ZXSpectrum"
+            ],
+            "attractmode": [
+                "MGT Sam Coupe"
+            ]
+        },
+        "company": "Miles Gordon Technology"
+    },
+    "sameduck": {
+        "id": "sameduck",
+        "shortName": "sameduck",
+        "name": "Mega Duck",
+        "manufacturer": "Welback Holdings",
+        "matches": {
+            "tgdb": [
+                "4948"
+            ],
+            "screenscraper": [
+                "90"
+            ],
+            "mobygames": [
+                "Mega Duck"
+            ],
+            "launchbox": [
+                "Mega Duck"
+            ],
+            "hfsdb": [
+                "239486"
+            ],
+            "gamesdatabase": [
+                "megaduck"
+            ]
+        },
+        "company": "Welback Holdings"
+    },
+    "satellaview": {
+        "id": "satellaview",
+        "shortName": "satellaview",
+        "name": "Satellaview",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "screenscraper": [
+                "107"
+            ],
+            "mobygames": [
+                "Nintendo Satellaview"
+            ],
+            "launchbox": [
+                "Nintendo Satellaview"
+            ],
+            "hfsdb": [
+                "190500"
+            ],
+            "bezels_project": [
+                "bezelproject-SNES"
+            ],
+            "attractmode": [
+                "Nintendo Satellaview"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "saturn": {
+        "id": "saturn",
+        "shortName": "saturn",
+        "name": "Sega Saturn",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "17"
+            ],
+            "screenscraper": [
+                "22"
+            ],
+            "mobygames": [
+                "sega-saturn"
+            ],
+            "launchbox": [
+                "Sega Saturn"
+            ],
+            "igdb": [
+                "32"
+            ],
+            "hfsdb": [
+                "82924"
+            ],
+            "gamesdatabase": [
+                "sega-saturn"
+            ],
+            "bezels_project": [
+                "bezelproject-Saturn"
+            ],
+            "attractmode": [
+                "Sega Saturn"
+            ]
+        },
+        "company": "Sega"
+    },
+    "screenshots": {
+        "id": "screenshots",
+        "shortName": "screenshots",
+        "name": "--screenshots",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "scummvm": {
+        "id": "scummvm",
+        "shortName": "scummvm",
+        "name": "ScummVM",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "123"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "ScummVM"
+            ],
+            "igdb": [
+                "6"
+            ],
+            "hfsdb": [
+                "82805"
+            ],
+            "gamesdatabase": [
+                "scummvm"
+            ],
+            "bezels_project": [
+                "bezelproject-ScummVM"
+            ]
+        },
+        "company": "Various"
+    },
+    "scv": {
+        "id": "scv",
+        "shortName": "scv",
+        "name": "Epoch Super Cassette Vision",
+        "manufacturer": "Epoch",
+        "matches": {
+            "tgdb": [
+                "4966"
+            ],
+            "screenscraper": [
+                "67"
+            ],
+            "mobygames": [
+                "spectravideo"
+            ],
+            "launchbox": [
+                "Spectravideo"
+            ],
+            "igdb": [
+                "376"
+            ],
+            "hfsdb": [
+                "189145"
+            ],
+            "gamesdatabase": [
+                "epoch-super-cassette-vision"
+            ],
+            "attractmode": [
+                "Epoch Super Cassette Vision"
+            ]
+        },
+        "company": "Epoch"
+    },
+    "sdlpop": {
+        "id": "sdlpop",
+        "shortName": "sdlpop",
+        "name": "Sdlpop",
+        "manufacturer": "--system",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "135"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "MS-DOS"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ]
+        },
+        "company": "--system"
+    },
+    "sega32x": {
+        "id": "sega32x",
+        "shortName": "sega32x",
+        "name": "Mega Drive 32X",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "33"
+            ],
+            "screenscraper": [
+                "19"
+            ],
+            "mobygames": [
+                "sega-32x"
+            ],
+            "launchbox": [
+                "Sega 32X"
+            ],
+            "hfsdb": [
+                "33731"
+            ],
+            "gamesdatabase": [
+                "sega-32x"
+            ],
+            "bezels_project": [
+                "bezelproject-Sega32X "
+            ],
+            "attractmode": [
+                "|Sega 32X"
+            ]
+        },
+        "company": "Sega"
+    },
+    "segacd": {
+        "id": "segacd",
+        "shortName": "segacd",
+        "name": "Mega-CD",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "21"
+            ],
+            "screenscraper": [
+                "20"
+            ],
+            "mobygames": [
+                "sega-cd"
+            ],
+            "launchbox": [
+                "Sega CD"
+            ],
+            "igdb": [
+                "78"
+            ],
+            "hfsdb": [
+                "83493"
+            ],
+            "gamesdatabase": [
+                "sega-cd"
+            ],
+            "bezels_project": [
+                "bezelproject-SegaCD"
+            ],
+            "attractmode": [
+                "Sega CD"
+            ]
+        },
+        "company": "Sega"
+    },
+    "sfc": {
+        "id": "sfc",
+        "shortName": "sfc",
+        "name": "Super Famicom",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "6"
+            ],
+            "screenscraper": [
+                "4"
+            ],
+            "mobygames": [
+                "snes"
+            ],
+            "launchbox": [
+                "Super Nintendo Entertainment System"
+            ],
+            "igdb": [
+                "58"
+            ],
+            "hfsdb": [
+                "82351"
+            ],
+            "gamesdatabase": [
+                "nintendo-snes"
+            ],
+            "bezels_project": [
+                "bezelproject-SFC"
+            ],
+            "attractmode": [
+                "Nintendo Super Famicom"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "sg-1000": {
+        "id": "sg-1000",
+        "shortName": "sg-1000",
+        "name": "SG-1000",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "4949"
+            ],
+            "screenscraper": [
+                "109"
+            ],
+            "mobygames": [
+                "Sega SG-1000"
+            ],
+            "launchbox": [
+                "Sega SG-1000"
+            ],
+            "hfsdb": [
+                "75225"
+            ],
+            "gamesdatabase": [
+                "sega-sg-1000"
+            ],
+            "bezels_project": [
+                "bezelproject-SG-1000"
+            ],
+            "attractmode": [
+                "Sega SG-1000"
+            ]
+        },
+        "company": "Sega"
+    },
+    "sg1000": {
+        "id": "sg1000",
+        "shortName": "sg1000",
+        "name": "SG-1000",
+        "manufacturer": "Sega",
+        "matches": {
+            "tgdb": [
+                "4949"
+            ],
+            "screenscraper": [
+                "109"
+            ],
+            "mobygames": [
+                "Sega SG-1000"
+            ],
+            "launchbox": [
+                "Sega SG-1000"
+            ],
+            "igdb": [
+                "84"
+            ],
+            "hfsdb": [
+                "75225"
+            ],
+            "gamesdatabase": [
+                "sega-sg-1000"
+            ],
+            "bezels_project": [
+                "bezelproject-SG-1000"
+            ],
+            "attractmode": [
+                "Sega SG-1000"
+            ]
+        },
+        "company": "Sega"
+    },
+    "sgb": {
+        "id": "sgb",
+        "shortName": "sgb",
+        "name": "Super Game Boy",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4"
+            ],
+            "screenscraper": [
+                "127"
+            ],
+            "mobygames": [
+                "gameboy"
+            ],
+            "launchbox": [
+                "Nintendo Game Boy"
+            ],
+            "hfsdb": [
+                "36022"
+            ],
+            "gamesdatabase": [
+                "nintendo-game-boy"
+            ],
+            "bezels_project": [
+                "bezelproject-GB"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "shmups": {
+        "id": "shmups",
+        "shortName": "shmups",
+        "name": "Shoot'em Up",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ],
+            "attractmode": [
+                "Arcade PC"
+            ]
+        },
+        "company": "Various"
+    },
+    "snes-msu1": {
+        "id": "snes-msu1",
+        "shortName": "snes-msu1",
+        "name": "Super Disc System (MSU1)",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "6"
+            ],
+            "screenscraper": [
+                "210"
+            ],
+            "mobygames": [
+                "snes"
+            ],
+            "launchbox": [
+                "Super Nintendo Entertainment System"
+            ],
+            "igdb": [
+                "19"
+            ],
+            "hfsdb": [
+                "82351"
+            ],
+            "gamesdatabase": [
+                "nintendo_msu-1"
+            ],
+            "bezels_project": [
+                "bezelproject-SNES"
+            ],
+            "attractmode": [
+                "Super Nintendo Entertainment System"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "snes": {
+        "id": "snes",
+        "shortName": "snes",
+        "name": "Super Nintendo",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "6"
+            ],
+            "screenscraper": [
+                "4"
+            ],
+            "mobygames": [
+                "snes"
+            ],
+            "launchbox": [
+                "Super Nintendo Entertainment System"
+            ],
+            "igdb": [
+                "19"
+            ],
+            "hfsdb": [
+                "82351"
+            ],
+            "gamesdatabase": [
+                "nintendo-snes"
+            ],
+            "bezels_project": [
+                "bezelproject-SNES"
+            ],
+            "attractmode": [
+                "Super Nintendo Entertainment System"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "snesmini": {
+        "id": "snesmini",
+        "shortName": "snesmini",
+        "name": "Super NES Mini",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "6"
+            ],
+            "screenscraper": [
+                "4"
+            ],
+            "mobygames": [
+                "snes"
+            ],
+            "launchbox": [
+                "Super Nintendo Entertainment System"
+            ],
+            "gamesdatabase": [
+                "nintendo-snes"
+            ],
+            "bezels_project": [
+                "bezelproject-SNES"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "solarus": {
+        "id": "solarus",
+        "shortName": "solarus",
+        "name": "Solarus",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "223"
+            ],
+            "hfsdb": [
+                "82805"
+            ]
+        },
+        "company": "Various"
+    },
+    "sonicretro": {
+        "id": "sonicretro",
+        "shortName": "sonicretro",
+        "name": "SonicRetro",
+        "manufacturer": "Various",
+        "matches": [],
+        "company": "Various"
+    },
+    "socrates": {
+        "id": "socrates",
+        "shortName": "socrates",
+        "name": "Socrates",
+        "manufacturer": "VTech",
+        "matches": {
+            "tgdb": [
+                "4998"
+            ],
+            "screenscraper": [
+                "120"
+            ],
+            "hfsdb": [
+                "240929"
+            ]
+        },
+        "company": "VTech"
+    },
+    "spectravideo": {
+        "id": "spectravideo",
+        "shortName": "spectravideo",
+        "name": "Spectravideo",
+        "manufacturer": "Spectravideo",
+        "matches": {
+            "tgdb": [
+                "4929"
+            ],
+            "screenscraper": [
+                "218"
+            ],
+            "mobygames": [
+                "spectravideo"
+            ],
+            "launchbox": [
+                "Spectravideo"
+            ],
+            "gamesdatabase": [
+                "msx"
+            ]
+        },
+        "company": "Spectravideo"
+    },
+    "steam": {
+        "id": "steam",
+        "shortName": "steam",
+        "name": "--Steam",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "stratagus": {
+        "id": "stratagus",
+        "shortName": "stratagus",
+        "name": "Stratagus",
+        "manufacturer": "Various",
+        "matches": [],
+        "company": "Various"
+    },
+    "stv": {
+        "id": "stv",
+        "shortName": "stv",
+        "name": "Sega ST-V",
+        "manufacturer": "Sega",
+        "matches": {
+            "screenscraper": [
+                "69"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Sega ST-V"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "29755"
+            ],
+            "attractmode": [
+                "Sega ST-V"
+            ]
+        },
+        "company": "Sega"
+    },
+    "sufami": {
+        "id": "sufami",
+        "shortName": "sufami",
+        "name": "Sufami Turbo",
+        "manufacturer": "Bandai",
+        "matches": {
+            "screenscraper": [
+                "108"
+            ],
+            "mobygames": [
+                "snes"
+            ],
+            "launchbox": [
+                "Super Nintendo Entertainment System"
+            ],
+            "hfsdb": [
+                "190497"
+            ],
+            "bezels_project": [
+                "bezelproject-SufamiTurbo"
+            ]
+        },
+        "company": "Bandai"
+    },
+    "supergrafx": {
+        "id": "supergrafx",
+        "shortName": "supergrafx",
+        "name": "PC Engine SuperGrafx",
+        "manufacturer": "NEC",
+        "matches": {
+            "tgdb": [
+                "34"
+            ],
+            "screenscraper": [
+                "105"
+            ],
+            "mobygames": [
+                "PC Engine SuperGrafx"
+            ],
+            "launchbox": [
+                "PC Engine SuperGrafx"
+            ],
+            "igdb": [
+                "128"
+            ],
+            "hfsdb": [
+                "30443"
+            ],
+            "gamesdatabase": [
+                "nec-supergrafx"
+            ],
+            "bezels_project": [
+                "bezelproject-SuperGrafx"
+            ],
+            "attractmode": [
+                "NEC SuperGrafx"
+            ]
+        },
+        "company": "NEC"
+    },
+    "supervision": {
+        "id": "supervision",
+        "shortName": "supervision",
+        "name": "Watara supervision",
+        "manufacturer": "Watara",
+        "matches": {
+            "tgdb": [
+                "4959"
+            ],
+            "screenscraper": [
+                "207"
+            ],
+            "mobygames": [
+                "supervision"
+            ],
+            "launchbox": [
+                "Watara Supervision"
+            ],
+            "igdb": [
+                "415"
+            ],
+            "hfsdb": [
+                "190515"
+            ],
+            "gamesdatabase": [
+                "watara-supervision"
+            ],
+            "bezels_project": [
+                "bezelproject-Supervision"
+            ],
+            "attractmode": [
+                "Watara Supervision"
+            ]
+        },
+        "company": "Watara"
+    },
+    "supracan": {
+        "id": "supracan",
+        "shortName": "supracan",
+        "name": "Super A'Can",
+        "manufacturer": "Funtech Entertainment",
+        "matches": {
+            "hfsdb": [
+                "83389"
+            ]
+        },
+        "company": "Funtech Entertainment"
+    },
+    "switch": {
+        "id": "switch",
+        "shortName": "switch",
+        "name": "Switch",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4971"
+            ],
+            "screenscraper": [
+                "225"
+            ],
+            "mobygames": [
+                "switch"
+            ],
+            "launchbox": [
+                "Nintendo Switch"
+            ],
+            "igdb": [
+                "130"
+            ],
+            "hfsdb": [
+                "83485"
+            ],
+            "gametdb": [
+                "Switch"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "teknoparrot": {
+        "id": "teknoparrot",
+        "shortName": "teknoparrot",
+        "name": "Arcade",
+        "manufacturer": "Various",
+        "matches": {
+            "tgdb": [
+                "23"
+            ],
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ]
+        },
+        "company": "Various"
+    },
+    "template": {
+        "id": "template",
+        "shortName": "template",
+        "name": "--Template",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "tg-cd": {
+        "id": "tg-cd",
+        "shortName": "tg-cd",
+        "name": "TurboGrafX-CD",
+        "manufacturer": "NEC",
+        "matches": {
+            "igdb": [
+                "150"
+            ]
+        },
+        "company": "NEC"
+    },
+    "tg16": {
+        "id": "tg16",
+        "shortName": "tg16",
+        "name": "TurboGrafX-16",
+        "manufacturer": "NEC",
+        "matches": {
+            "igdb": [
+                "86"
+            ]
+        },
+        "company": "NEC"
+    },
+    "thomson": {
+        "id": "thomson",
+        "shortName": "thomson",
+        "name": "Thomson TO8",
+        "manufacturer": "Thomson",
+        "matches": {
+            "screenscraper": [
+                "141"
+            ],
+            "igdb": [
+                "156"
+            ],
+            "hfsdb": [
+                "183673"
+            ]
+        },
+        "company": "Thomson"
+    },
+    "ti994a": {
+        "id": "ti994a",
+        "shortName": "ti994a",
+        "name": "Texas Instruments TI-99/4A",
+        "manufacturer": "Texas Instruments",
+        "matches": {
+            "tgdb": [
+                "4953"
+            ],
+            "screenscraper": [
+                "205"
+            ],
+            "mobygames": [
+                "ti-994a"
+            ],
+            "launchbox": [
+                "Texas Instruments TI 99/4A"
+            ],
+            "igdb": [
+                "129"
+            ],
+            "hfsdb": [
+                "240924"
+            ],
+            "gamesdatabase": [
+                "texas-instruments-ti-99-4a"
+            ],
+            "attractmode": [
+                "Texas Instruments TI 99-4A"
+            ]
+        },
+        "company": "Texas Instruments"
+    },
+    "ti99": {
+        "id": "ti99",
+        "shortName": "ti99",
+        "name": "Texas Instruments TI-99/4A",
+        "manufacturer": "Texas Instruments",
+        "matches": {
+            "tgdb": [
+                "4953"
+            ],
+            "screenscraper": [
+                "205"
+            ],
+            "mobygames": [
+                "ti-994a"
+            ],
+            "launchbox": [
+                "Texas Instruments TI 99/4A"
+            ],
+            "igdb": [
+                "129"
+            ],
+            "hfsdb": [
+                "240924"
+            ],
+            "gamesdatabase": [
+                "texas-instruments-ti-99-4a"
+            ],
+            "attractmode": [
+                "Texas Instruments TI 99-4A"
+            ]
+        },
+        "company": "Texas Instruments"
+    },
+    "tic80": {
+        "id": "tic80",
+        "shortName": "tic80",
+        "name": "TIC-80",
+        "manufacturer": "MIT",
+        "matches": {
+            "screenscraper": [
+                "222"
+            ]
+        },
+        "company": "MIT"
+    },
+    "to8": {
+        "id": "to8",
+        "shortName": "to8",
+        "name": "Thomson TO8",
+        "manufacturer": "Thomson",
+        "matches": {
+            "screenscraper": [
+                "141"
+            ],
+            "igdb": [
+                "156"
+            ],
+            "hfsdb": [
+                "183673"
+            ]
+        },
+        "company": "Thomson"
+    },
+    "triforce": {
+        "id": "triforce",
+        "shortName": "triforce",
+        "name": "Arcade",
+        "manufacturer": "Namco-Sega-Nintendo",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "hfsdb": [
+                "29789"
+            ],
+            "gamesdatabase": [
+                "arcade"
+            ],
+            "bezels_project": [
+                "bezelproject-MAME"
+            ]
+        },
+        "company": "Namco-Sega-Nintendo"
+    },
+    "trs-80": {
+        "id": "trs-80",
+        "shortName": "trs-80",
+        "name": "TRS-80",
+        "manufacturer": "Tandy",
+        "matches": {
+            "tgdb": [
+                "4941"
+            ],
+            "screenscraper": [
+                "144"
+            ],
+            "mobygames": [
+                "trs-80"
+            ],
+            "launchbox": [
+                "Tandy TRS-80"
+            ],
+            "hfsdb": [
+                "240922"
+            ],
+            "gamesdatabase": [
+                "tandy-trs-80"
+            ],
+            "attractmode": [
+                "Tandy TRS-80 Color Computer"
+            ]
+        },
+        "company": "Tandy"
+    },
+    "trs80": {
+        "id": "trs80",
+        "shortName": "trs80",
+        "name": "TRS-80",
+        "manufacturer": "Tandy",
+        "matches": {
+            "igdb": [
+                "126"
+            ]
+        },
+        "company": "Tandy"
+    },
+    "trs80coco": {
+        "id": "trs80coco",
+        "shortName": "trs80coco",
+        "name": "TRS-80",
+        "manufacturer": "Tandy",
+        "matches": {
+            "tgdb": [
+                "4941"
+            ],
+            "screenscraper": [
+                "144"
+            ],
+            "mobygames": [
+                "trs-80-coco"
+            ],
+            "launchbox": [
+                "TRS-80 Color Computer"
+            ],
+            "hfsdb": [
+                "240928"
+            ],
+            "gamesdatabase": [
+                "tandy-trs-80-coco"
+            ],
+            "attractmode": [
+                "Tandy TRS-80 Color Computer"
+            ]
+        },
+        "company": "Tandy"
+    },
+    "tutor": {
+        "id": "tutor",
+        "shortName": "tutor",
+        "name": "Tomy Tutor",
+        "manufacturer": "Tomy",
+        "matches": {
+            "mobygames": [
+                "tomy-tutor"
+            ],
+            "launchbox": [
+                "Tomy Tutor"
+            ],
+            "hfsdb": [
+                "240926"
+            ]
+        },
+        "company": "Tomy"
+    },
+    "tvgames": {
+        "id": "tvgames",
+        "shortName": "tvgames",
+        "name": "TV Games",
+        "manufacturer": "Various",
+        "matches": [],
+        "company": "Various"
+    },
+    "tyrquake": {
+        "id": "tyrquake",
+        "shortName": "tyrquake",
+        "name": "TyrQuake",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "MS-DOS"
+            ],
+            "hfsdb": [
+                "82805"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ]
+        },
+        "company": "Various"
+    },
+    "uzebox": {
+        "id": "uzebox",
+        "shortName": "uzebox",
+        "name": "UzeBox",
+        "manufacturer": "UzeBox",
+        "matches": {
+            "screenscraper": [
+                "216"
+            ]
+        },
+        "company": "UzeBox"
+    },
+    "vc4000": {
+        "id": "vc4000",
+        "shortName": "vc4000",
+        "name": "VC 4000",
+        "manufacturer": "Interton",
+        "matches": {
+            "tgdb": [
+                "4994"
+            ],
+            "igdb": [
+                "138"
+            ],
+            "hfsdb": [
+                "240876"
+            ]
+        },
+        "company": "Interton"
+    },
+    "vectrex": {
+        "id": "vectrex",
+        "shortName": "vectrex",
+        "name": "Vectrex",
+        "manufacturer": "Milton Bradley",
+        "matches": {
+            "tgdb": [
+                "4939"
+            ],
+            "screenscraper": [
+                "102"
+            ],
+            "mobygames": [
+                "vectrex"
+            ],
+            "launchbox": [
+                "GCE Vectrex"
+            ],
+            "hfsdb": [
+                "80424"
+            ],
+            "gamesdatabase": [
+                "gce-vectrex"
+            ],
+            "bezels_project": [
+                "bezelproject-GCEVectrex"
+            ],
+            "attractmode": [
+                "GCE Vectrex"
+            ]
+        },
+        "company": "Milton Bradley"
+    },
+    "vemulator": {
+        "id": "vemulator",
+        "shortName": "vemulator",
+        "name": "SEGA Dreamcast VMU",
+        "manufacturer": "Sega",
+        "matches": {
+            "hfsdb": [
+                "90004"
+            ]
+        },
+        "company": "Sega"
+    },
+    "vgmplay": {
+        "id": "vgmplay",
+        "shortName": "vgmplay",
+        "name": "Video Game Music Player",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "launchbox": [
+                "Arcade"
+            ]
+        },
+        "company": "Various"
+    },
+    "vic20": {
+        "id": "vic20",
+        "shortName": "vic20",
+        "name": "Commodore VIC-20",
+        "manufacturer": "Commodore",
+        "matches": {
+            "tgdb": [
+                "4945"
+            ],
+            "screenscraper": [
+                "73"
+            ],
+            "mobygames": [
+                "vic-20"
+            ],
+            "launchbox": [
+                "Commodore VIC-20"
+            ],
+            "igdb": [
+                "71"
+            ],
+            "hfsdb": [
+                "174662"
+            ],
+            "gamesdatabase": [
+                "commodore-vic-20"
+            ],
+            "bezels_project": [
+                "C64"
+            ],
+            "attractmode": [
+                "Commodore VIC-20"
+            ]
+        },
+        "company": "Commodore"
+    },
+    "videopac": {
+        "id": "videopac",
+        "shortName": "videopac",
+        "name": "Videopac",
+        "manufacturer": "Philips",
+        "matches": {
+            "tgdb": [
+                "4927"
+            ],
+            "screenscraper": [
+                "104"
+            ],
+            "mobygames": [
+                "videopac-g7400"
+            ],
+            "launchbox": [
+                "Philips VG 5000"
+            ],
+            "igdb": [
+                "133"
+            ],
+            "hfsdb": [
+                "35882"
+            ],
+            "gamesdatabase": [
+                "philips-vg-5000"
+            ],
+            "bezels_project": [
+                "bezelproject-Videopac"
+            ],
+            "attractmode": [
+                "Philips Videopac Plus G7400"
+            ]
+        },
+        "company": "Philips"
+    },
+    "videopacplus": {
+        "id": "videopacplus",
+        "shortName": "videopacplus",
+        "name": "Videopac",
+        "manufacturer": "Philips",
+        "matches": {
+            "tgdb": [
+                "4927"
+            ],
+            "screenscraper": [
+                "104"
+            ],
+            "mobygames": [
+                "videopac-g7400"
+            ],
+            "launchbox": [
+                "Philips Videopac+"
+            ],
+            "igdb": [
+                "133"
+            ],
+            "hfsdb": [
+                "35882"
+            ],
+            "gamesdatabase": [
+                "philips-videopac+"
+            ],
+            "bezels_project": [
+                "bezelproject-Videopac"
+            ],
+            "attractmode": [
+                "Philips Videopac Plus G7400"
+            ]
+        },
+        "company": "Philips"
+    },
+    "virtualboy": {
+        "id": "virtualboy",
+        "shortName": "virtualboy",
+        "name": "Virtual Boy",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "4918"
+            ],
+            "screenscraper": [
+                "11"
+            ],
+            "mobygames": [
+                "virtual-boy"
+            ],
+            "launchbox": [
+                "Nintendo Virtual Boy"
+            ],
+            "igdb": [
+                "87"
+            ],
+            "hfsdb": [
+                "36396"
+            ],
+            "gamesdatabase": [
+                "nintendo-virtual-boy"
+            ],
+            "bezels_project": [
+                "bezelproject-Virtualboy"
+            ],
+            "attractmode": [
+                "Nintendo Virtual Boy"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "vpinball": {
+        "id": "vpinball",
+        "shortName": "vpinball",
+        "name": "Visual Pinball",
+        "manufacturer": "Various",
+        "matches": {
+            "screenscraper": [
+                "198"
+            ],
+            "mobygames": [
+                "Pinball"
+            ],
+            "launchbox": [
+                "Pinball"
+            ]
+        },
+        "company": "Various"
+    },
+    "vsmile": {
+        "id": "vsmile",
+        "shortName": "vsmile",
+        "name": "V.Smile",
+        "manufacturer": "VTech",
+        "matches": {
+            "tgdb": [
+                "4988"
+            ],
+            "screenscraper": [
+                "120"
+            ],
+            "hfsdb": [
+                "240929"
+            ]
+        },
+        "company": "VTech"
+    },
+    "wii": {
+        "id": "wii",
+        "shortName": "wii",
+        "name": "Wii",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "9"
+            ],
+            "screenscraper": [
+                "16"
+            ],
+            "mobygames": [
+                "wii"
+            ],
+            "launchbox": [
+                "Nintendo Wii"
+            ],
+            "hfsdb": [
+                "89530"
+            ],
+            "gametdb": [
+                "Wii"
+            ],
+            "gamesdatabase": [
+                "nintendo-wii"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-Wii"
+            ],
+            "attractmode": [
+                "Nintendo Wii"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "wiiu": {
+        "id": "wiiu",
+        "shortName": "wiiu",
+        "name": "WiiU",
+        "manufacturer": "Nintendo",
+        "matches": {
+            "tgdb": [
+                "38"
+            ],
+            "screenscraper": [
+                "18"
+            ],
+            "mobygames": [
+                "wii-u"
+            ],
+            "launchbox": [
+                "Nintendo Wii U"
+            ],
+            "hfsdb": [
+                "88837"
+            ],
+            "gametdb": [
+                "WiiU"
+            ],
+            "gamesdatabase": [
+                "nintendo-wii-u"
+            ],
+            "attractmode": [
+                "Nintendo Wii U"
+            ]
+        },
+        "company": "Nintendo"
+    },
+    "windows": {
+        "id": "windows",
+        "shortName": "windows",
+        "name": "Windows Games",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "138"
+            ],
+            "mobygames": [
+                "windows"
+            ],
+            "launchbox": [
+                "Windows"
+            ],
+            "igdb": [
+                "6"
+            ],
+            "hfsdb": [
+                "82805"
+            ],
+            "gamesdatabase": [
+                "microsoft-windows"
+            ],
+            "attractmode": [
+                "Microsoft Windows 3.x"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "windows_installers": {
+        "id": "windows_installers",
+        "shortName": "windows_installers",
+        "name": "Windows 32 installers",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "138"
+            ],
+            "mobygames": [
+                "windows"
+            ],
+            "launchbox": [
+                "138"
+            ],
+            "hfsdb": [
+                "82805"
+            ],
+            "gamesdatabase": [
+                "microsoft-windows"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "wolfenstein3d": {
+        "id": "wolfenstein3d",
+        "shortName": "wolfenstein3d",
+        "name": "Wolfenstein 3D",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "wonderswan": {
+        "id": "wonderswan",
+        "shortName": "wonderswan",
+        "name": "WonderSwan",
+        "manufacturer": "Bandai",
+        "matches": {
+            "screenscraper": [
+                "45"
+            ],
+            "hfsdb": [
+                "36312"
+            ],
+            "gamesdatabase": [
+                "bandai-wonderswan"
+            ],
+            "bezels_project": [
+                "bezelproject-WonderSwan"
+            ]
+        },
+        "company": "Bandai"
+    },
+    "wonderswancolor": {
+        "id": "wonderswancolor",
+        "shortName": "wonderswancolor",
+        "name": "WonderSwan Color",
+        "manufacturer": "Bandai",
+        "matches": {
+            "screenscraper": [
+                "46"
+            ],
+            "igdb": [
+                "123"
+            ],
+            "hfsdb": [
+                "36345"
+            ],
+            "gamesdatabase": [
+                "bandai-wonderswan-color"
+            ],
+            "bezels_project": [
+                "bezelproject-WonderSwanColor"
+            ]
+        },
+        "company": "Bandai"
+    },
+    "wswan": {
+        "id": "wswan",
+        "shortName": "wswan",
+        "name": "WonderSwan",
+        "manufacturer": "Bandai",
+        "matches": {
+            "tgdb": [
+                "4925"
+            ],
+            "screenscraper": [
+                "45"
+            ],
+            "mobygames": [
+                "wonderswan"
+            ],
+            "launchbox": [
+                "WonderSwan"
+            ],
+            "igdb": [
+                "57"
+            ],
+            "hfsdb": [
+                "36312"
+            ],
+            "gamesdatabase": [
+                "bandai-wonderswan"
+            ],
+            "bezels_project": [
+                "bezelproject-WonderSwan"
+            ],
+            "attractmode": [
+                "Bandai WonderSwan"
+            ]
+        },
+        "company": "Bandai"
+    },
+    "wswanc": {
+        "id": "wswanc",
+        "shortName": "wswanc",
+        "name": "WonderSwan Color",
+        "manufacturer": "Bandai",
+        "matches": {
+            "tgdb": [
+                "4926"
+            ],
+            "screenscraper": [
+                "46"
+            ],
+            "mobygames": [
+                "wonderswan-color"
+            ],
+            "launchbox": [
+                "WonderSwan Color"
+            ],
+            "igdb": [
+                "123"
+            ],
+            "hfsdb": [
+                "36345"
+            ],
+            "gamesdatabase": [
+                "bandai-wonderswan-color"
+            ],
+            "bezels_project": [
+                "bezelproject-WonderSwanColor"
+            ],
+            "attractmode": [
+                "Bandai WonderSwan Color"
+            ]
+        },
+        "company": "Bandai"
+    },
+    "x1": {
+        "id": "x1",
+        "shortName": "x1",
+        "name": "Sharp X1",
+        "manufacturer": "Sharp",
+        "matches": {
+            "tgdb": [
+                "4977"
+            ],
+            "screenscraper": [
+                "220"
+            ],
+            "mobygames": [
+                "sharp-x1"
+            ],
+            "launchbox": [
+                "Sharp X1"
+            ],
+            "igdb": [
+                "77"
+            ],
+            "hfsdb": [
+                "248941"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "attractmode": [
+                "Sharp X1"
+            ]
+        },
+        "company": "Sharp"
+    },
+    "x360": {
+        "id": "x360",
+        "shortName": "x360",
+        "name": "Xbox360",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "tgdb": [
+                "15"
+            ],
+            "screenscraper": [
+                "33"
+            ],
+            "mobygames": [
+                "xbox360"
+            ],
+            "launchbox": [
+                "Microsoft Xbox 360"
+            ],
+            "igdb": [
+                "12"
+            ],
+            "hfsdb": [
+                "145692"
+            ],
+            "gamesdatabase": [
+                "microsoft-xbox-360"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "x68000": {
+        "id": "x68000",
+        "shortName": "x68000",
+        "name": "X68000",
+        "manufacturer": "Sharp",
+        "matches": {
+            "tgdb": [
+                "4931"
+            ],
+            "screenscraper": [
+                "79"
+            ],
+            "mobygames": [
+                "sharp-x68000"
+            ],
+            "launchbox": [
+                "Fujitsu FM Towns Marty"
+            ],
+            "hfsdb": [
+                "239578"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-X68000"
+            ],
+            "attractmode": [
+                "Sharp X68000"
+            ]
+        },
+        "company": "Sharp"
+    },
+    "xash3d_fwgs": {
+        "id": "xash3d_fwgs",
+        "shortName": "xash3d_fwgs",
+        "name": "xash3d_fwgs",
+        "manufacturer": "--system",
+        "matches": {
+            "tgdb": [
+                "1"
+            ],
+            "screenscraper": [
+                "135"
+            ],
+            "mobygames": [
+                "dos"
+            ],
+            "launchbox": [
+                "MS-DOS"
+            ],
+            "gamesdatabase": [
+                "microsoft-dos"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-PC"
+            ]
+        },
+        "company": "--system"
+    },
+    "xbox360": {
+        "id": "xbox360",
+        "shortName": "xbox360",
+        "name": "Xbox360",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "tgdb": [
+                "15"
+            ],
+            "screenscraper": [
+                "33"
+            ],
+            "mobygames": [
+                "xbox360"
+            ],
+            "launchbox": [
+                "Microsoft Xbox 360"
+            ],
+            "hfsdb": [
+                "145692"
+            ],
+            "gamesdatabase": [
+                "microsoft-xbox-360"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "xbox": {
+        "id": "xbox",
+        "shortName": "xbox",
+        "name": "Xbox",
+        "manufacturer": "Microsoft",
+        "matches": {
+            "tgdb": [
+                "14"
+            ],
+            "screenscraper": [
+                "32"
+            ],
+            "mobygames": [
+                "xbox"
+            ],
+            "launchbox": [
+                "Microsoft Xbox"
+            ],
+            "hfsdb": [
+                "144719"
+            ],
+            "gamesdatabase": [
+                "microsoft-xbox"
+            ],
+            "attractmode": [
+                "Microsoft Xbox"
+            ]
+        },
+        "company": "Microsoft"
+    },
+    "xegs": {
+        "id": "xegs",
+        "shortName": "xegs",
+        "name": "Atari XE Game System",
+        "manufacturer": "Atari",
+        "matches": {
+            "tgdb": [
+                "30"
+            ],
+            "screenscraper": [
+                "43"
+            ],
+            "mobygames": [
+                "atari-8-bit"
+            ],
+            "launchbox": [
+                "Atari XEGS"
+            ],
+            "igdb": [
+                "65"
+            ],
+            "hfsdb": [
+                "240841"
+            ]
+        },
+        "company": "Atari"
+    },
+    "zmachine": {
+        "id": "zmachine",
+        "shortName": "zmachine",
+        "name": "--Zmachine",
+        "manufacturer": "--system",
+        "matches": [],
+        "company": "--system"
+    },
+    "zx81": {
+        "id": "zx81",
+        "shortName": "zx81",
+        "name": "ZX81",
+        "manufacturer": "Sinclair",
+        "matches": {
+            "tgdb": [
+                "4913"
+            ],
+            "screenscraper": [
+                "77"
+            ],
+            "mobygames": [
+                "zx-81"
+            ],
+            "launchbox": [
+                "Sinclair ZX-81"
+            ],
+            "igdb": [
+                "373"
+            ],
+            "hfsdb": [
+                "190538"
+            ],
+            "gamesdatabase": [
+                "sinclair-zx-81"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-ZX81"
+            ],
+            "attractmode": [
+                "Sinclair ZX81"
+            ]
+        },
+        "company": "Sinclair"
+    },
+    "zxspectrum": {
+        "id": "zxspectrum",
+        "shortName": "zxspectrum",
+        "name": "ZX Spectrum",
+        "manufacturer": "Sinclair",
+        "matches": {
+            "tgdb": [
+                "4913"
+            ],
+            "screenscraper": [
+                "76"
+            ],
+            "mobygames": [
+                "zx-spectrum"
+            ],
+            "launchbox": [
+                "Sinclair ZX Spectrum"
+            ],
+            "igdb": [
+                "26"
+            ],
+            "hfsdb": [
+                "100295"
+            ],
+            "gamesdatabase": [
+                "sinclair-zx-spectrum"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-ZXSpectrum"
+            ],
+            "attractmode": [
+                "Sinclair ZX Spectrum"
+            ]
+        },
+        "company": "Sinclair"
+    }
+}

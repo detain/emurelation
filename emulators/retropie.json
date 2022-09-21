@@ -1,0 +1,1575 @@
+{
+    "advmame-0.94": {
+        "id": "advmame-0.94",
+        "shortName": "advmame-0.94",
+        "name": "AdvanceMAME v0.94.0",
+        "platforms": [],
+        "altNames": []
+    },
+    "advmame-1.4": {
+        "id": "advmame-1.4",
+        "shortName": "advmame-1.4",
+        "name": "AdvanceMAME v1.4",
+        "platforms": [],
+        "altNames": []
+    },
+    "advmame": {
+        "id": "advmame",
+        "shortName": "advmame",
+        "name": "AdvanceMAME",
+        "platforms": [
+            "arcade",
+            "mame-advmame"
+        ],
+        "altNames": []
+    },
+    "ags": {
+        "id": "ags",
+        "shortName": "ags",
+        "name": "Adventure Game Studio - Adventure game engine",
+        "platforms": [
+            "ags"
+        ],
+        "altNames": []
+    },
+    "amiberry": {
+        "id": "amiberry",
+        "shortName": "amiberry",
+        "name": "Amiga emulator with JIT support (forked from uae4arm)",
+        "platforms": [
+            "amiga"
+        ],
+        "altNames": []
+    },
+    "atari800": {
+        "id": "atari800",
+        "shortName": "atari800",
+        "name": "Atari 8-bit/800/5200 emulator",
+        "platforms": [
+            "atari800",
+            "atari5200"
+        ],
+        "altNames": []
+    },
+    "basilisk": {
+        "id": "basilisk",
+        "shortName": "basilisk",
+        "name": "Macintosh emulator",
+        "platforms": [
+            "macintosh"
+        ],
+        "altNames": []
+    },
+    "capricerpi": {
+        "id": "capricerpi",
+        "shortName": "capricerpi",
+        "name": "Amstrad CPC emulator - port of Caprice32 for the RPI",
+        "platforms": [
+            "amstradcpc"
+        ],
+        "altNames": []
+    },
+    "coolcv": {
+        "id": "coolcv",
+        "shortName": "coolcv",
+        "name": "CoolCV Colecovision Emulator",
+        "platforms": [
+            "coleco"
+        ],
+        "altNames": []
+    },
+    "daphne": {
+        "id": "daphne",
+        "shortName": "daphne",
+        "name": "Daphne - Laserdisc Emulator",
+        "platforms": [
+            "daphne"
+        ],
+        "altNames": []
+    },
+    "dgen": {
+        "id": "dgen",
+        "shortName": "dgen",
+        "name": "Megadrive/Genesis emulator DGEN",
+        "platforms": [
+            "megadrive",
+            "segacd",
+            "sega32x"
+        ],
+        "altNames": []
+    },
+    "dolphin": {
+        "id": "dolphin",
+        "shortName": "dolphin",
+        "name": "Gamecube/Wii emulator Dolphin",
+        "platforms": [
+            "gc",
+            "wii"
+        ],
+        "altNames": []
+    },
+    "dosbox-sdl2": {
+        "id": "dosbox-sdl2",
+        "shortName": "dosbox-sdl2",
+        "name": "DOS emulator (enhanced DOSBox fork)",
+        "platforms": [],
+        "altNames": []
+    },
+    "dosbox-staging": {
+        "id": "dosbox-staging",
+        "shortName": "dosbox-staging",
+        "name": "modern DOS/x86 emulator focusing on ease of use",
+        "platforms": [],
+        "altNames": []
+    },
+    "dosbox": {
+        "id": "dosbox",
+        "shortName": "dosbox",
+        "name": "DOS emulator",
+        "platforms": [
+            "pc"
+        ],
+        "altNames": []
+    },
+    "drastic": {
+        "id": "drastic",
+        "shortName": "drastic",
+        "name": "NDS emu - DraStic",
+        "platforms": [
+            "nds"
+        ],
+        "altNames": []
+    },
+    "fbzx": {
+        "id": "fbzx",
+        "shortName": "fbzx",
+        "name": "ZXSpectrum emulator FBZX",
+        "platforms": [
+            "zxspectrum"
+        ],
+        "altNames": []
+    },
+    "frotz": {
+        "id": "frotz",
+        "shortName": "frotz",
+        "name": "Z-Machine Interpreter for Infocom games",
+        "platforms": [
+            "zmachine"
+        ],
+        "altNames": []
+    },
+    "fs-uae": {
+        "id": "fs-uae",
+        "shortName": "fs-uae",
+        "name": "Amiga emulator - FS-UAE integrates the most accurate Amiga emulation code available from WinUAE",
+        "platforms": [
+            "amiga"
+        ],
+        "altNames": []
+    },
+    "fuse": {
+        "id": "fuse",
+        "shortName": "fuse",
+        "name": "ZX Spectrum emulator Fuse",
+        "platforms": [
+            "zxspectrum"
+        ],
+        "altNames": []
+    },
+    "gngeopi": {
+        "id": "gngeopi",
+        "shortName": "gngeopi",
+        "name": "NeoGeo emulator GnGeoPi",
+        "platforms": [
+            "arcade",
+            "neogeo"
+        ],
+        "altNames": []
+    },
+    "gpsp": {
+        "id": "gpsp",
+        "shortName": "gpsp",
+        "name": "GameBoy Advance emulator",
+        "platforms": [
+            "gba"
+        ],
+        "altNames": []
+    },
+    "hatari": {
+        "id": "hatari",
+        "shortName": "hatari",
+        "name": "Atari emulator Hatari",
+        "platforms": [
+            "atarist"
+        ],
+        "altNames": []
+    },
+    "hypseus": {
+        "id": "hypseus",
+        "shortName": "hypseus",
+        "name": "Hypseus Singe - Laserdisc Emulator",
+        "platforms": [
+            "daphne"
+        ],
+        "altNames": []
+    },
+    "jzintv": {
+        "id": "jzintv",
+        "shortName": "jzintv",
+        "name": "Intellivision emulator",
+        "platforms": [
+            "intellivision"
+        ],
+        "altNames": []
+    },
+    "linapple": {
+        "id": "linapple",
+        "shortName": "linapple",
+        "name": "Apple 2 emulator LinApple",
+        "platforms": [
+            "apple2"
+        ],
+        "altNames": []
+    },
+    "mame": {
+        "id": "mame",
+        "shortName": "mame",
+        "name": "MAME emulator",
+        "platforms": [
+            "arcade"
+        ],
+        "altNames": []
+    },
+    "mame4all": {
+        "id": "mame4all",
+        "shortName": "mame4all",
+        "name": "MAME emulator MAME4All-Pi",
+        "platforms": [
+            "arcade"
+        ],
+        "altNames": []
+    },
+    "minivmac": {
+        "id": "minivmac",
+        "shortName": "minivmac",
+        "name": "Macintosh Plus Emulator",
+        "platforms": [
+            "macintosh"
+        ],
+        "altNames": []
+    },
+    "mupen64plus": {
+        "id": "mupen64plus",
+        "shortName": "mupen64plus",
+        "name": "N64 emulator MUPEN64Plus",
+        "platforms": [
+            "n64"
+        ],
+        "altNames": []
+    },
+    "np2pi": {
+        "id": "np2pi",
+        "shortName": "np2pi",
+        "name": "NEC PC-9801 emulator",
+        "platforms": [
+            "pc98"
+        ],
+        "altNames": []
+    },
+    "openmsx": {
+        "id": "openmsx",
+        "shortName": "openmsx",
+        "name": "MSX emulator OpenMSX",
+        "platforms": [
+            "msx"
+        ],
+        "altNames": []
+    },
+    "oricutron": {
+        "id": "oricutron",
+        "shortName": "oricutron",
+        "name": "Oricutron Oric 1/Oric Atmos emulator",
+        "platforms": [
+            "oric"
+        ],
+        "altNames": []
+    },
+    "osmose": {
+        "id": "osmose",
+        "shortName": "osmose",
+        "name": "Gamegear emulator Osmose",
+        "platforms": [
+            "gamegear",
+            "mastersystem"
+        ],
+        "altNames": []
+    },
+    "pcsx-rearmed": {
+        "id": "pcsx-rearmed",
+        "shortName": "pcsx-rearmed",
+        "name": "Playstation emulator - PCSX (arm optimised)",
+        "platforms": [
+            "psx"
+        ],
+        "altNames": []
+    },
+    "pcsx2": {
+        "id": "pcsx2",
+        "shortName": "pcsx2",
+        "name": "PS2 emulator PCSX2",
+        "platforms": [
+            "ps2"
+        ],
+        "altNames": []
+    },
+    "pifba": {
+        "id": "pifba",
+        "shortName": "pifba",
+        "name": "FBA emulator PiFBA",
+        "platforms": [
+            "arcade",
+            "neogeo",
+            "fba"
+        ],
+        "altNames": []
+    },
+    "pisnes": {
+        "id": "pisnes",
+        "shortName": "pisnes",
+        "name": "SNES emulator PiSNES",
+        "platforms": [
+            "snes"
+        ],
+        "altNames": []
+    },
+    "ppsspp-1.5.4": {
+        "id": "ppsspp-1.5.4",
+        "shortName": "ppsspp-1.5.4",
+        "name": "PlayStation Portable emulator PPSSPP v1.5.4",
+        "platforms": [],
+        "altNames": []
+    },
+    "ppsspp": {
+        "id": "ppsspp",
+        "shortName": "ppsspp",
+        "name": "PlayStation Portable emulator PPSSPP",
+        "platforms": [
+            "psp"
+        ],
+        "altNames": []
+    },
+    "px68k": {
+        "id": "px68k",
+        "shortName": "px68k",
+        "name": "SHARP X68000 Emulator",
+        "platforms": [
+            "x68000"
+        ],
+        "altNames": []
+    },
+    "quasi88": {
+        "id": "quasi88",
+        "shortName": "quasi88",
+        "name": "NEC PC-8801 emulator",
+        "platforms": [
+            "pc88"
+        ],
+        "altNames": []
+    },
+    "redream": {
+        "id": "redream",
+        "shortName": "redream",
+        "name": "Redream Dreamcast emulator",
+        "platforms": [
+            "dreamcast"
+        ],
+        "altNames": []
+    },
+    "reicast": {
+        "id": "reicast",
+        "shortName": "reicast",
+        "name": "Dreamcast emulator Reicast",
+        "platforms": [
+            "dreamcast"
+        ],
+        "altNames": []
+    },
+    "residualvm": {
+        "id": "residualvm",
+        "shortName": "residualvm",
+        "name": "ResidualVM - A 3D Game Interpreter",
+        "platforms": [
+            "residualvm\" \"ResidualVM\" \".sh .rvm"
+        ],
+        "altNames": []
+    },
+    "retroarch": {
+        "id": "retroarch",
+        "shortName": "retroarch",
+        "name": "RetroArch - frontend to the libretro emulator cores - required by all lr-* emulators",
+        "platforms": [],
+        "altNames": []
+    },
+    "rpix86": {
+        "id": "rpix86",
+        "shortName": "rpix86",
+        "name": "DOS Emulator rpix86",
+        "platforms": [
+            "pc"
+        ],
+        "altNames": []
+    },
+    "scummvm-sdl1": {
+        "id": "scummvm-sdl1",
+        "shortName": "scummvm-sdl1",
+        "name": "ScummVM - built with legacy SDL1 support.",
+        "platforms": [],
+        "altNames": []
+    },
+    "scummvm": {
+        "id": "scummvm",
+        "shortName": "scummvm",
+        "name": "ScummVM",
+        "platforms": [
+            "scummvm"
+        ],
+        "altNames": []
+    },
+    "sdltrs": {
+        "id": "sdltrs",
+        "shortName": "sdltrs",
+        "name": "Radio Shack TRS-80 Model I/III/4/4P emulator",
+        "platforms": [
+            "trs-80"
+        ],
+        "altNames": []
+    },
+    "simcoupe": {
+        "id": "simcoupe",
+        "shortName": "simcoupe",
+        "name": "SimCoupe SAM Coupe emulator",
+        "platforms": [
+            "samcoupe"
+        ],
+        "altNames": []
+    },
+    "snes9x": {
+        "id": "snes9x",
+        "shortName": "snes9x",
+        "name": "SNES emulator SNES9X-RPi",
+        "platforms": [
+            "snes"
+        ],
+        "altNames": []
+    },
+    "stella": {
+        "id": "stella",
+        "shortName": "stella",
+        "name": "Atari2600 emulator STELLA",
+        "platforms": [
+            "atari2600"
+        ],
+        "altNames": []
+    },
+    "stratagus": {
+        "id": "stratagus",
+        "shortName": "stratagus",
+        "name": "Stratagus - A strategy game engine to play Warcraft I or II, Starcraft, and some similar open-source games",
+        "platforms": [
+            "stratagus\" \"Stratagus Strategy Engine\" \".wc1 .wc2 .sc .data"
+        ],
+        "altNames": []
+    },
+    "ti99sim-sdl1": {
+        "id": "ti99sim-sdl1",
+        "shortName": "ti99sim-sdl1",
+        "name": "TI-99/SIM - Texas Instruments Home Computer Emulator (SDL1 version)",
+        "platforms": [
+            "ti99"
+        ],
+        "altNames": []
+    },
+    "ti99sim": {
+        "id": "ti99sim",
+        "shortName": "ti99sim",
+        "name": "TI-99/SIM - Texas Instruments Home Computer Emulator",
+        "platforms": [
+            "ti99"
+        ],
+        "altNames": []
+    },
+    "uae4all": {
+        "id": "uae4all",
+        "shortName": "uae4all",
+        "name": "Amiga emulator UAE4All",
+        "platforms": [
+            "amiga"
+        ],
+        "altNames": []
+    },
+    "uae4arm": {
+        "id": "uae4arm",
+        "shortName": "uae4arm",
+        "name": "Amiga emulator with JIT support",
+        "platforms": [
+            "amiga"
+        ],
+        "altNames": []
+    },
+    "vice": {
+        "id": "vice",
+        "shortName": "vice",
+        "name": "C64 emulator VICE",
+        "platforms": [
+            "c64"
+        ],
+        "altNames": []
+    },
+    "xm7": {
+        "id": "xm7",
+        "shortName": "xm7",
+        "name": "Fujitsu FM-7 series emulator",
+        "platforms": [
+            "fm7"
+        ],
+        "altNames": []
+    },
+    "xroar": {
+        "id": "xroar",
+        "shortName": "xroar",
+        "name": "Dragon / CoCo emulator XRoar",
+        "platforms": [
+            "dragon32",
+            "coco"
+        ],
+        "altNames": []
+    },
+    "yabasanshiro": {
+        "id": "yabasanshiro",
+        "shortName": "yabasanshiro",
+        "name": "SEGA Saturn emulator Yaba Sanshiro",
+        "platforms": [
+            "saturn"
+        ],
+        "altNames": []
+    },
+    "zesarux": {
+        "id": "zesarux",
+        "shortName": "zesarux",
+        "name": "ZX Spectrum emulator ZEsarUX",
+        "platforms": [
+            "zxspectrum",
+            "samcoupe",
+            "amstradcpc"
+        ],
+        "altNames": []
+    },
+    "lr-81": {
+        "id": "lr-81",
+        "shortName": "lr-81",
+        "name": "Sinclair ZX81 emulator - EightyOne port for libretro",
+        "platforms": [
+            "zx81"
+        ],
+        "altNames": [
+            "81_libretro"
+        ]
+    },
+    "lr-atari800": {
+        "id": "lr-atari800",
+        "shortName": "lr-atari800",
+        "name": "Atari 8-bit/800/5200 emulator - Atari800 port for libretro",
+        "platforms": [
+            "atari800",
+            "atari5200"
+        ],
+        "altNames": [
+            "atari800_libretro"
+        ]
+    },
+    "lr-beetle-lynx": {
+        "id": "lr-beetle-lynx",
+        "shortName": "lr-beetle-lynx",
+        "name": "Atari Lynx emulator - Mednafen Lynx Port for libretro, itself a fork of Handy",
+        "platforms": [
+            "atarilynx"
+        ],
+        "altNames": [
+            "beetle_lynx_libretro"
+        ]
+    },
+    "lr-beetle-ngp": {
+        "id": "lr-beetle-ngp",
+        "shortName": "lr-beetle-ngp",
+        "name": "Neo Geo Pocket(Color)emu - Mednafen Neo Geo Pocket core port for libretro",
+        "platforms": [
+            "ngp",
+            "ngpc"
+        ],
+        "altNames": [
+            "beetle_ngp_libretro"
+        ]
+    },
+    "lr-beetle-pce-fast": {
+        "id": "lr-beetle-pce-fast",
+        "shortName": "lr-beetle-pce-fast",
+        "name": "PCEngine emu - Mednafen PCE Fast port for libretro",
+        "platforms": [
+            "pcengine"
+        ],
+        "altNames": [
+            "beetle_pce_fast_libretro"
+        ]
+    },
+    "lr-beetle-pcfx": {
+        "id": "lr-beetle-pcfx",
+        "shortName": "lr-beetle-pcfx",
+        "name": "PCFX emulator - Mednafen PCFX Port for libretro",
+        "platforms": [
+            "pcfx"
+        ],
+        "altNames": [
+            "beetle_pcfx_libretro"
+        ]
+    },
+    "lr-beetle-psx": {
+        "id": "lr-beetle-psx",
+        "shortName": "lr-beetle-psx",
+        "name": "PlayStation emulator - Mednafen PSX Port for libretro",
+        "platforms": [
+            "psx"
+        ],
+        "altNames": [
+            "beetle_psx_libretro"
+        ]
+    },
+    "lr-beetle-saturn": {
+        "id": "lr-beetle-saturn",
+        "shortName": "lr-beetle-saturn",
+        "name": "Saturn emulator - Mednafen Saturn port for libretro",
+        "platforms": [
+            "saturn"
+        ],
+        "altNames": [
+            "beetle_saturn_libretro"
+        ]
+    },
+    "lr-beetle-supergrafx": {
+        "id": "lr-beetle-supergrafx",
+        "shortName": "lr-beetle-supergrafx",
+        "name": "SuperGrafx TG-16 emulator - Mednafen PCE Fast port for libretro",
+        "platforms": [
+            "pcengine"
+        ],
+        "altNames": [
+            "beetle_supergrafx_libretro"
+        ]
+    },
+    "lr-beetle-vb": {
+        "id": "lr-beetle-vb",
+        "shortName": "lr-beetle-vb",
+        "name": "Virtual Boy emulator - Mednafen VB (optimised) port for libretro",
+        "platforms": [
+            "virtualboy"
+        ],
+        "altNames": [
+            "beetle_vb_libretro"
+        ]
+    },
+    "lr-beetle-wswan": {
+        "id": "lr-beetle-wswan",
+        "shortName": "lr-beetle-wswan",
+        "name": "Wonderswan emu - Mednafen WonderSwan core port for libretro",
+        "platforms": [
+            "wonderswan",
+            "wonderswancolor"
+        ],
+        "altNames": [
+            "beetle_wswan_libretro"
+        ]
+    },
+    "lr-bluemsx": {
+        "id": "lr-bluemsx",
+        "shortName": "lr-bluemsx",
+        "name": "MSX/MSX2/Colecovision emu - blueMSX port for libretro",
+        "platforms": [
+            "msx",
+            "coleco"
+        ],
+        "altNames": [
+            "bluemsx_libretro"
+        ]
+    },
+    "lr-bsnes": {
+        "id": "lr-bsnes",
+        "shortName": "lr-bsnes",
+        "name": "Super Nintendo Emulator - bsnes port for libretro (v115)",
+        "platforms": [
+            "snes"
+        ],
+        "altNames": [
+            "bsnes_libretro"
+        ]
+    },
+    "lr-caprice32": {
+        "id": "lr-caprice32",
+        "shortName": "lr-caprice32",
+        "name": "Amstrad CPC emu - Caprice32 port for libretro",
+        "platforms": [
+            "amstradcpc"
+        ],
+        "altNames": [
+            "caprice32_libretro"
+        ]
+    },
+    "lr-desmume": {
+        "id": "lr-desmume",
+        "shortName": "lr-desmume",
+        "name": "NDS emu - DESMUME",
+        "platforms": [
+            "nds"
+        ],
+        "altNames": [
+            "desmume_libretro"
+        ]
+    },
+    "lr-desmume2015": {
+        "id": "lr-desmume2015",
+        "shortName": "lr-desmume2015",
+        "name": "NDS emu - DESMUME (2015 version)",
+        "platforms": [
+            "nds"
+        ],
+        "altNames": [
+            "desmume2015_libretro"
+        ]
+    },
+    "lr-dinothawr": {
+        "id": "lr-dinothawr",
+        "shortName": "lr-dinothawr",
+        "name": "Dinothawr - standalone libretro puzzle game",
+        "platforms": [],
+        "altNames": [
+            "dinothawr_libretro"
+        ]
+    },
+    "lr-dolphin": {
+        "id": "lr-dolphin",
+        "shortName": "lr-dolphin",
+        "name": "Gamecube/Wii emulator - Dolphin port for libretro",
+        "platforms": [
+            "gc",
+            "wii"
+        ],
+        "altNames": [
+            "dolphin_libretro"
+        ]
+    },
+    "lr-dosbox-pure": {
+        "id": "lr-dosbox-pure",
+        "shortName": "lr-dosbox-pure",
+        "name": "DOS emulator",
+        "platforms": [
+            "pc"
+        ],
+        "altNames": [
+            "dosbox_pure_libretro"
+        ]
+    },
+    "lr-dosbox": {
+        "id": "lr-dosbox",
+        "shortName": "lr-dosbox",
+        "name": "DOS emulator",
+        "platforms": [
+            "pc"
+        ],
+        "altNames": [
+            "dosbox_libretro"
+        ]
+    },
+    "lr-fbalpha2012": {
+        "id": "lr-fbalpha2012",
+        "shortName": "lr-fbalpha2012",
+        "name": "Arcade emu - Final Burn Alpha (0.2.97.30) port for libretro",
+        "platforms": [
+            "arcade",
+            "fba",
+            "neogeo"
+        ],
+        "altNames": [
+            "fbalpha2012_libretro"
+        ]
+    },
+    "lr-fbneo": {
+        "id": "lr-fbneo",
+        "shortName": "lr-fbneo",
+        "name": "Arcade emu - FinalBurn Neo (latest version) port for libretro",
+        "platforms": [
+            "${systems[@]}"
+        ],
+        "altNames": [
+            "fbneo_libretro"
+        ]
+    },
+    "lr-fceumm": {
+        "id": "lr-fceumm",
+        "shortName": "lr-fceumm",
+        "name": "NES emu - FCEUmm port for libretro",
+        "platforms": [
+            "nes",
+            "fds"
+        ],
+        "altNames": [
+            "fceumm_libretro"
+        ]
+    },
+    "lr-flycast": {
+        "id": "lr-flycast",
+        "shortName": "lr-flycast",
+        "name": "Dreamcast emulator - Reicast port for libretro",
+        "platforms": [
+            "dreamcast",
+            "arcade"
+        ],
+        "altNames": [
+            "flycast_libretro"
+        ]
+    },
+    "lr-fmsx": {
+        "id": "lr-fmsx",
+        "shortName": "lr-fmsx",
+        "name": "MSX/MSX2 emu - fMSX port for libretro",
+        "platforms": [
+            "msx"
+        ],
+        "altNames": [
+            "fmsx_libretro"
+        ]
+    },
+    "lr-freechaf": {
+        "id": "lr-freechaf",
+        "shortName": "lr-freechaf",
+        "name": "ChannelF emulator for libretro",
+        "platforms": [
+            "channelf"
+        ],
+        "altNames": [
+            "freechaf_libretro"
+        ]
+    },
+    "lr-freeintv": {
+        "id": "lr-freeintv",
+        "shortName": "lr-freeintv",
+        "name": "Intellivision emulator for libretro",
+        "platforms": [
+            "intellivision"
+        ],
+        "altNames": [
+            "freeintv_libretro"
+        ]
+    },
+    "lr-fuse": {
+        "id": "lr-fuse",
+        "shortName": "lr-fuse",
+        "name": "ZX Spectrum emu - Fuse port for libretro",
+        "platforms": [
+            "zxspectrum"
+        ],
+        "altNames": [
+            "fuse_libretro"
+        ]
+    },
+    "lr-gambatte": {
+        "id": "lr-gambatte",
+        "shortName": "lr-gambatte",
+        "name": "Gameboy Color emu - libgambatte port for libretro",
+        "platforms": [
+            "gb",
+            "gbc"
+        ],
+        "altNames": [
+            "gambatte_libretro"
+        ]
+    },
+    "lr-gearsystem": {
+        "id": "lr-gearsystem",
+        "shortName": "lr-gearsystem",
+        "name": "Sega 8 bit emu - Gearsystem port for libretro",
+        "platforms": [
+            "gamegear",
+            "mastersystem",
+            "sg-1000"
+        ],
+        "altNames": [
+            "gearsystem_libretro"
+        ]
+    },
+    "lr-genesis-plus-gx": {
+        "id": "lr-genesis-plus-gx",
+        "shortName": "lr-genesis-plus-gx",
+        "name": "Sega 8/16 bit emu - Genesis Plus (enhanced) port for libretro",
+        "platforms": [
+            "gamegear",
+            "mastersystem",
+            "megadrive",
+            "sg-1000",
+            "segacd"
+        ],
+        "altNames": [
+            "genesis_plus_gx_libretro"
+        ]
+    },
+    "lr-gpsp": {
+        "id": "lr-gpsp",
+        "shortName": "lr-gpsp",
+        "name": "GBA emu - gpSP port for libretro",
+        "platforms": [
+            "gba"
+        ],
+        "altNames": [
+            "gpsp_libretro"
+        ]
+    },
+    "lr-gw": {
+        "id": "lr-gw",
+        "shortName": "lr-gw",
+        "name": "Game and Watch simulator",
+        "platforms": [
+            "gameandwatch"
+        ],
+        "altNames": [
+            "gw_libretro"
+        ]
+    },
+    "lr-handy": {
+        "id": "lr-handy",
+        "shortName": "lr-handy",
+        "name": "Atari Lynx emulator - Handy port for libretro",
+        "platforms": [
+            "atarilynx"
+        ],
+        "altNames": [
+            "handy_libretro"
+        ]
+    },
+    "lr-hatari": {
+        "id": "lr-hatari",
+        "shortName": "lr-hatari",
+        "name": "Atari emulator - Hatari port for libretro",
+        "platforms": [
+            "atarist"
+        ],
+        "altNames": [
+            "hatari_libretro"
+        ]
+    },
+    "lr-kronos": {
+        "id": "lr-kronos",
+        "shortName": "lr-kronos",
+        "name": "Saturn & ST-V emulator - Kronos port for libretro",
+        "platforms": [
+            "saturn"
+        ],
+        "altNames": [
+            "kronos_libretro"
+        ]
+    },
+    "lr-mame": {
+        "id": "lr-mame",
+        "shortName": "lr-mame",
+        "name": "MAME emulator - MAME (current) port for libretro",
+        "platforms": [
+            "arcade",
+            "mame-libretro"
+        ],
+        "altNames": [
+            "mame_libretro"
+        ]
+    },
+    "lr-mame2000": {
+        "id": "lr-mame2000",
+        "shortName": "lr-mame2000",
+        "name": "Arcade emu - MAME 0.37b5 port for libretro",
+        "platforms": [
+            "arcade",
+            "mame-mame4all",
+            "mame-libretro"
+        ],
+        "altNames": [
+            "mame2000_libretro"
+        ]
+    },
+    "lr-mame2003-plus": {
+        "id": "lr-mame2003-plus",
+        "shortName": "lr-mame2003-plus",
+        "name": "Arcade emu - updated MAME 0.78 port for libretro with added game support",
+        "platforms": [],
+        "altNames": [
+            "mame2003_plus_libretro"
+        ]
+    },
+    "lr-mame2003": {
+        "id": "lr-mame2003",
+        "shortName": "lr-mame2003",
+        "name": "Arcade emu - MAME 0.78 port for libretro",
+        "platforms": [
+            "arcade",
+            "mame-libretro"
+        ],
+        "altNames": [
+            "mame2003_libretro"
+        ]
+    },
+    "lr-mame2010": {
+        "id": "lr-mame2010",
+        "shortName": "lr-mame2010",
+        "name": "Arcade emu - MAME 0.139 port for libretro",
+        "platforms": [
+            "arcade",
+            "mame-libretro"
+        ],
+        "altNames": [
+            "mame2010_libretro"
+        ]
+    },
+    "lr-mame2015": {
+        "id": "lr-mame2015",
+        "shortName": "lr-mame2015",
+        "name": "Arcade emu - MAME 0.160 port for libretro",
+        "platforms": [
+            "arcade",
+            "mame-libretro"
+        ],
+        "altNames": [
+            "mame2015_libretro"
+        ]
+    },
+    "lr-mame2016": {
+        "id": "lr-mame2016",
+        "shortName": "lr-mame2016",
+        "name": "MAME emulator - MAME 0.174 port for libretro",
+        "platforms": [
+            "arcade",
+            "mame-libretro"
+        ],
+        "altNames": [
+            "mame2016_libretro"
+        ]
+    },
+    "lr-mesen": {
+        "id": "lr-mesen",
+        "shortName": "lr-mesen",
+        "name": "High-accuracy NES and Famicom emulator",
+        "platforms": [
+            "nes",
+            "fds"
+        ],
+        "altNames": [
+            "mesen_libretro"
+        ]
+    },
+    "lr-mess": {
+        "id": "lr-mess",
+        "shortName": "lr-mess",
+        "name": "MESS emulator - MESS Port for libretro",
+        "platforms": [
+            "nes",
+            "gb",
+            "coleco",
+            "arcadia",
+            "crvision"
+        ],
+        "altNames": [
+            "mess_libretro"
+        ]
+    },
+    "lr-mess2016": {
+        "id": "lr-mess2016",
+        "shortName": "lr-mess2016",
+        "name": "MESS emulator - MESS Port for libretro",
+        "platforms": [],
+        "altNames": [
+            "mess2016_libretro"
+        ]
+    },
+    "lr-mgba": {
+        "id": "lr-mgba",
+        "shortName": "lr-mgba",
+        "name": "(Super) Game Boy Color/GBA emulator - MGBA (optimised) port for libretro",
+        "platforms": [
+            "gb",
+            "gbc",
+            "gba"
+        ],
+        "altNames": [
+            "mgba_libretro"
+        ]
+    },
+    "lr-mrboom": {
+        "id": "lr-mrboom",
+        "shortName": "lr-mrboom",
+        "name": "Mr.Boom - 8 players Bomberman clone for libretro.",
+        "platforms": [],
+        "altNames": [
+            "mrboom_libretro"
+        ]
+    },
+    "lr-mupen64plus-next": {
+        "id": "lr-mupen64plus-next",
+        "shortName": "lr-mupen64plus-next",
+        "name": "N64 emulator - Mupen64Plus + GLideN64 for libretro (next version)",
+        "platforms": [
+            "n64"
+        ],
+        "altNames": [
+            "mupen64plus_next_libretro"
+        ]
+    },
+    "lr-mupen64plus": {
+        "id": "lr-mupen64plus",
+        "shortName": "lr-mupen64plus",
+        "name": "N64 emu - Mupen64Plus + GLideN64 for libretro",
+        "platforms": [
+            "n64"
+        ],
+        "altNames": [
+            "mupen64plus_libretro"
+        ]
+    },
+    "lr-neocd": {
+        "id": "lr-neocd",
+        "shortName": "lr-neocd",
+        "name": "Neo Geo CD Emulator - rewrite of NeoCD for libretro",
+        "platforms": [
+            "neogeo"
+        ],
+        "altNames": [
+            "neocd_libretro"
+        ]
+    },
+    "lr-nestopia": {
+        "id": "lr-nestopia",
+        "shortName": "lr-nestopia",
+        "name": "NES emu - Nestopia (enhanced) port for libretro",
+        "platforms": [
+            "nes",
+            "fds"
+        ],
+        "altNames": [
+            "nestopia_libretro"
+        ]
+    },
+    "lr-np2kai": {
+        "id": "lr-np2kai",
+        "shortName": "lr-np2kai",
+        "name": "PC98 emu - Modified Neko Project II port for libretro",
+        "platforms": [
+            "pc98"
+        ],
+        "altNames": [
+            "np2kai_libretro"
+        ]
+    },
+    "lr-nxengine": {
+        "id": "lr-nxengine",
+        "shortName": "lr-nxengine",
+        "name": "Cave Story engine clone - NxEngine port for libretro",
+        "platforms": [],
+        "altNames": [
+            "nxengine_libretro"
+        ]
+    },
+    "lr-o2em": {
+        "id": "lr-o2em",
+        "shortName": "lr-o2em",
+        "name": "Odyssey 2 / Videopac emu - O2EM port for libretro",
+        "platforms": [
+            "videopac"
+        ],
+        "altNames": [
+            "o2em_libretro"
+        ]
+    },
+    "lr-opera": {
+        "id": "lr-opera",
+        "shortName": "lr-opera",
+        "name": "3DO emulator - fork of 4DO/FreeDO for libretro",
+        "platforms": [
+            "3do"
+        ],
+        "altNames": [
+            "opera_libretro"
+        ]
+    },
+    "lr-parallel-n64": {
+        "id": "lr-parallel-n64",
+        "shortName": "lr-parallel-n64",
+        "name": "N64 emu - Highly modified Mupen64Plus port for libretro",
+        "platforms": [
+            "n64"
+        ],
+        "altNames": [
+            "parallel_n64_libretro"
+        ]
+    },
+    "lr-pcsx-rearmed": {
+        "id": "lr-pcsx-rearmed",
+        "shortName": "lr-pcsx-rearmed",
+        "name": "Playstation emulator - PCSX (arm optimised) port for libretro",
+        "platforms": [
+            "psx"
+        ],
+        "altNames": [
+            "pcsx_rearmed_libretro"
+        ]
+    },
+    "lr-picodrive": {
+        "id": "lr-picodrive",
+        "shortName": "lr-picodrive",
+        "name": "Sega 8/16 bit emu - picodrive arm optimised libretro core",
+        "platforms": [
+            "megadrive",
+            "mastersystem",
+            "segacd",
+            "sega32x"
+        ],
+        "altNames": [
+            "picodrive_libretro"
+        ]
+    },
+    "lr-pokemini": {
+        "id": "lr-pokemini",
+        "shortName": "lr-pokemini",
+        "name": "Pokemon Mini emulator - PokeMini port for libretro",
+        "platforms": [
+            "pokemini"
+        ],
+        "altNames": [
+            "pokemini_libretro"
+        ]
+    },
+    "lr-ppsspp": {
+        "id": "lr-ppsspp",
+        "shortName": "lr-ppsspp",
+        "name": "PlayStation Portable emu - PPSSPP port for libretro",
+        "platforms": [
+            "psp"
+        ],
+        "altNames": [
+            "ppsspp_libretro"
+        ]
+    },
+    "lr-prboom": {
+        "id": "lr-prboom",
+        "shortName": "lr-prboom",
+        "name": "Doom/Doom II engine - PrBoom port for libretro",
+        "platforms": [],
+        "altNames": [
+            "prboom_libretro"
+        ]
+    },
+    "lr-prosystem": {
+        "id": "lr-prosystem",
+        "shortName": "lr-prosystem",
+        "name": "Atari 7800 ProSystem emu - ProSystem port for libretro",
+        "platforms": [
+            "atari7800"
+        ],
+        "altNames": [
+            "prosystem_libretro"
+        ]
+    },
+    "lr-puae": {
+        "id": "lr-puae",
+        "shortName": "lr-puae",
+        "name": "P-UAE Amiga emulator port for libretro",
+        "platforms": [
+            "amiga"
+        ],
+        "altNames": [
+            "puae_libretro"
+        ]
+    },
+    "lr-puae2021": {
+        "id": "lr-puae2021",
+        "shortName": "lr-puae2021",
+        "name": "P-UAE Amiga emulator port for libretro from 2021 (v2.6.1)",
+        "platforms": [
+            "amiga"
+        ],
+        "altNames": [
+            "puae2021_libretro"
+        ]
+    },
+    "lr-px68k": {
+        "id": "lr-px68k",
+        "shortName": "lr-px68k",
+        "name": "SHARP X68000 Emulator",
+        "platforms": [
+            "x68000"
+        ],
+        "altNames": [
+            "px68k_libretro"
+        ]
+    },
+    "lr-quasi88": {
+        "id": "lr-quasi88",
+        "shortName": "lr-quasi88",
+        "name": "NEC PC-8801 emu - Quasi88 port for libretro",
+        "platforms": [
+            "pc88"
+        ],
+        "altNames": [
+            "quasi88_libretro"
+        ]
+    },
+    "lr-quicknes": {
+        "id": "lr-quicknes",
+        "shortName": "lr-quicknes",
+        "name": "NES emulator - QuickNES Port for libretro",
+        "platforms": [
+            "nes"
+        ],
+        "altNames": [
+            "quicknes_libretro"
+        ]
+    },
+    "lr-retro8": {
+        "id": "lr-retro8",
+        "shortName": "lr-retro8",
+        "name": "PICO-8 compatible engine - port of retro8 for libretro",
+        "platforms": [
+            "pico8"
+        ],
+        "altNames": [
+            "retro8_libretro"
+        ]
+    },
+    "lr-scummvm": {
+        "id": "lr-scummvm",
+        "shortName": "lr-scummvm",
+        "name": "ScummVM port for libretro",
+        "platforms": [
+            "scummvm"
+        ],
+        "altNames": [
+            "scummvm_libretro"
+        ]
+    },
+    "lr-smsplus-gx": {
+        "id": "lr-smsplus-gx",
+        "shortName": "lr-smsplus-gx",
+        "name": "Sega Master System & Game Gear emu - SMSPlus (enhanced) port for libretro",
+        "platforms": [
+            "gamegear",
+            "mastersystem"
+        ],
+        "altNames": [
+            "smsplus_gx_libretro"
+        ]
+    },
+    "lr-snes9x": {
+        "id": "lr-snes9x",
+        "shortName": "lr-snes9x",
+        "name": "Super Nintendo emu - Snes9x (current) port for libretro",
+        "platforms": [
+            "snes"
+        ],
+        "altNames": [
+            "snes9x_libretro"
+        ]
+    },
+    "lr-snes9x2002": {
+        "id": "lr-snes9x2002",
+        "shortName": "lr-snes9x2002",
+        "name": "Super Nintendo emu - ARM optimised Snes9x 1.39 port for libretro",
+        "platforms": [
+            "snes"
+        ],
+        "altNames": [
+            "snes9x2002_libretro"
+        ]
+    },
+    "lr-snes9x2005": {
+        "id": "lr-snes9x2005",
+        "shortName": "lr-snes9x2005",
+        "name": "Super Nintendo emu - Snes9x 1.43 based port for libretro",
+        "platforms": [
+            "snes"
+        ],
+        "altNames": [
+            "snes9x2005_libretro"
+        ]
+    },
+    "lr-snes9x2010": {
+        "id": "lr-snes9x2010",
+        "shortName": "lr-snes9x2010",
+        "name": "Super Nintendo emu - Snes9x 1.52 based port for libretro",
+        "platforms": [
+            "snes"
+        ],
+        "altNames": [
+            "snes9x2010_libretro"
+        ]
+    },
+    "lr-stella": {
+        "id": "lr-stella",
+        "shortName": "lr-stella",
+        "name": "Atari 2600 emulator - Stella core for libretro",
+        "platforms": [
+            "atari2600"
+        ],
+        "altNames": [
+            "stella_libretro"
+        ]
+    },
+    "lr-stella2014": {
+        "id": "lr-stella2014",
+        "shortName": "lr-stella2014",
+        "name": "Atari 2600 emulator - Stella port for libretro",
+        "platforms": [
+            "atari2600"
+        ],
+        "altNames": [
+            "stella2014_libretro"
+        ]
+    },
+    "lr-superflappybirds": {
+        "id": "lr-superflappybirds",
+        "shortName": "lr-superflappybirds",
+        "name": "Super Flappy Birds - Multiplayer Flappy Bird Clone",
+        "platforms": [],
+        "altNames": [
+            "superflappybirds_libretro"
+        ]
+    },
+    "lr-tgbdual": {
+        "id": "lr-tgbdual",
+        "shortName": "lr-tgbdual",
+        "name": "Gameboy Color emu - TGB Dual port for libretro",
+        "platforms": [
+            "gb",
+            "gbc"
+        ],
+        "altNames": [
+            "tgbdual_libretro"
+        ]
+    },
+    "lr-theodore": {
+        "id": "lr-theodore",
+        "shortName": "lr-theodore",
+        "name": "Thomson MO/TO system emulator",
+        "platforms": [
+            "moto"
+        ],
+        "altNames": [
+            "theodore_libretro"
+        ]
+    },
+    "lr-tic80": {
+        "id": "lr-tic80",
+        "shortName": "lr-tic80",
+        "name": "TIC-80 fantasy computer - port for libretro",
+        "platforms": [
+            "tic80\" \"TIC-80"
+        ],
+        "altNames": [
+            "tic80_libretro"
+        ]
+    },
+    "lr-tyrquake": {
+        "id": "lr-tyrquake",
+        "shortName": "lr-tyrquake",
+        "name": "Quake 1 engine - Tyrquake port for libretro",
+        "platforms": [],
+        "altNames": [
+            "tyrquake_libretro"
+        ]
+    },
+    "lr-uae4arm": {
+        "id": "lr-uae4arm",
+        "shortName": "lr-uae4arm",
+        "name": "Uae4arm port for libretro",
+        "platforms": [
+            "amiga"
+        ],
+        "altNames": [
+            "uae4arm_libretro"
+        ]
+    },
+    "lr-vba-next": {
+        "id": "lr-vba-next",
+        "shortName": "lr-vba-next",
+        "name": "GBA emulator - VBA-M (optimised) port for libretro",
+        "platforms": [
+            "gba"
+        ],
+        "altNames": [
+            "vba_next_libretro"
+        ]
+    },
+    "lr-vecx": {
+        "id": "lr-vecx",
+        "shortName": "lr-vecx",
+        "name": "Vectrex emulator - vecx port for libretro",
+        "platforms": [
+            "vectrex"
+        ],
+        "altNames": [
+            "vecx_libretro"
+        ]
+    },
+    "lr-vice": {
+        "id": "lr-vice",
+        "shortName": "lr-vice",
+        "name": "C64 / C128 / PET / Plus4 / VIC20 emulator - port of VICE for libretro",
+        "platforms": [
+            "c64"
+        ],
+        "altNames": [
+            "vice_libretro"
+        ]
+    },
+    "lr-virtualjaguar": {
+        "id": "lr-virtualjaguar",
+        "shortName": "lr-virtualjaguar",
+        "name": "Atari Jaguar emu - Virtual Jaguar (optimised) port for libretro",
+        "platforms": [
+            "atarijaguar"
+        ],
+        "altNames": [
+            "virtualjaguar_libretro"
+        ]
+    },
+    "lr-x1": {
+        "id": "lr-x1",
+        "shortName": "lr-x1",
+        "name": "Sharp X1 emulator - X Millenium port for libretro",
+        "platforms": [
+            "x1"
+        ],
+        "altNames": [
+            "x1_libretro"
+        ]
+    },
+    "lr-xrick": {
+        "id": "lr-xrick",
+        "shortName": "lr-xrick",
+        "name": "Open source implementation of Rick Dangerous - xrick ported for libretro",
+        "platforms": [],
+        "altNames": [
+            "xrick_libretro"
+        ]
+    },
+    "lr-yabause": {
+        "id": "lr-yabause",
+        "shortName": "lr-yabause",
+        "name": "Sega Saturn emu - Yabause (optimised) port for libretro",
+        "platforms": [
+            "saturn"
+        ],
+        "altNames": [
+            "yabause_libretro"
+        ]
+    }
+}

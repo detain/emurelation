@@ -1,0 +1,2574 @@
+{
+    "8-Bit Productions": {
+        "id": "8-Bit Productions",
+        "name": "8-Bit Productions",
+        "matches": []
+    },
+    "ACT": {
+        "id": "ACT",
+        "name": "ACT",
+        "matches": {
+            "oldcomputers": [
+                "ACT"
+            ]
+        }
+    },
+    "ADC": {
+        "id": "ADC",
+        "name": "ADC",
+        "matches": []
+    },
+    "AEG": {
+        "id": "AEG",
+        "name": "AEG",
+        "matches": []
+    },
+    "AMPRO Computers": {
+        "id": "AMPRO Computers",
+        "name": "AMPRO Computers",
+        "matches": []
+    },
+    "APF": {
+        "id": "APF",
+        "name": "APF",
+        "matches": {
+            "arrm": [
+                "APF Electronics Inc."
+            ],
+            "emucontrolcenter": [
+                "APF Electronics"
+            ],
+            "oldcomputers": [
+                "APF"
+            ]
+        }
+    },
+    "AT&T": {
+        "id": "AT&T",
+        "name": "AT&T",
+        "matches": []
+    },
+    "AVE Micro Systems": {
+        "id": "AVE Micro Systems",
+        "name": "AVE Micro Systems",
+        "matches": []
+    },
+    "Acetronic": {
+        "id": "Acetronic",
+        "name": "Acetronic",
+        "matches": {
+            "oldcomputers": [
+                "Acetronic"
+            ]
+        }
+    },
+    "Acorn": {
+        "id": "Acorn",
+        "name": "Acorn",
+        "matches": {
+            "arrm": [
+                "Acorn Computers",
+                "Acorn computers"
+            ],
+            "emucontrolcenter": [
+                "Acorn"
+            ],
+            "recalbox": [
+                "Acorn"
+            ]
+        }
+    },
+    "Adobe": {
+        "id": "Adobe",
+        "name": "Adobe",
+        "matches": {
+            "emucontrolcenter": [
+                "Adobe"
+            ],
+            "arrm": [
+                "Adobe"
+            ]
+        }
+    },
+    "Advanced Computer Design": {
+        "id": "Advanced Computer Design",
+        "name": "Advanced Computer Design",
+        "matches": []
+    },
+    "AlphaSmart": {
+        "id": "AlphaSmart",
+        "name": "AlphaSmart",
+        "matches": []
+    },
+    "Alspa Computers": {
+        "id": "Alspa Computers",
+        "name": "Alspa Computers",
+        "matches": []
+    },
+    "Altos Computer Systems": {
+        "id": "Altos Computer Systems",
+        "name": "Altos Computer Systems",
+        "matches": {
+            "oldcomputers": [
+                "Altos Computer Systems"
+            ]
+        }
+    },
+    "American Laser Games": {
+        "id": "American Laser Games",
+        "name": "American Laser Games",
+        "matches": {
+            "screenscraper": [
+                "American Laser Games"
+            ]
+        }
+    },
+    "Amstrad": {
+        "id": "Amstrad",
+        "name": "Amstrad",
+        "matches": {
+            "emucontrolcenter": [
+                "Amstrad",
+                "Amstrad/Schneider"
+            ],
+            "launchbox": [
+                "Amstrad"
+            ],
+            "oldcomputers": [
+                "Amstrad"
+            ],
+            "screenscraper": [
+                "Amstrad"
+            ],
+            "recalbox": [
+                "Amstrad"
+            ],
+            "arrm": [
+                "Amstrad"
+            ]
+        }
+    },
+    "Analogue": {
+        "id": "Analogue",
+        "name": "Analogue",
+        "matches": []
+    },
+    "Apogee": {
+        "id": "Apogee",
+        "name": "Apogee",
+        "matches": []
+    },
+    "Apple": {
+        "id": "Apple",
+        "name": "Apple",
+        "matches": {
+            "emucontrolcenter": [
+                "Apple"
+            ],
+            "launchbox": [
+                "Apple"
+            ],
+            "oldcomputers": [
+                "Apple"
+            ],
+            "screenscraper": [
+                "Apple"
+            ],
+            "recalbox": [
+                "Apple"
+            ],
+            "arrm": [
+                "Apple"
+            ]
+        }
+    },
+    "Applied Technology": {
+        "id": "Applied Technology",
+        "name": "Applied Technology",
+        "matches": {
+            "emucontrolcenter": [
+                "Applied Technologies"
+            ]
+        }
+    },
+    "Applix": {
+        "id": "Applix",
+        "name": "Applix",
+        "matches": []
+    },
+    "Aquaplus": {
+        "id": "Aquaplus",
+        "name": "Aquaplus",
+        "matches": []
+    },
+    "Atari": {
+        "id": "Atari",
+        "name": "Atari",
+        "matches": {
+            "emucontrolcenter": [
+                "Atari"
+            ],
+            "emulationking": [
+                "atari"
+            ],
+            "launchbox": [
+                "Atari"
+            ],
+            "oldcomputers": [
+                "Atari"
+            ],
+            "screenscraper": [
+                "Atari"
+            ],
+            "recalbox": [
+                "Atari"
+            ],
+            "arrm": [
+                "Atari"
+            ]
+        }
+    },
+    "Aussie": {
+        "id": "Aussie",
+        "name": "Aussie",
+        "matches": []
+    },
+    "BASF": {
+        "id": "BASF",
+        "name": "BASF",
+        "matches": {
+            "oldcomputers": [
+                "BASF"
+            ]
+        }
+    },
+    "BBC": {
+        "id": "BBC",
+        "name": "BBC",
+        "matches": []
+    },
+    "BGR Computers": {
+        "id": "BGR Computers",
+        "name": "BGR Computers",
+        "matches": []
+    },
+    "BNPO": {
+        "id": "BNPO",
+        "name": "BNPO",
+        "matches": []
+    },
+    "Baiyi": {
+        "id": "Baiyi",
+        "name": "Baiyi",
+        "matches": []
+    },
+    "Bally": {
+        "id": "Bally",
+        "name": "Bally",
+        "matches": {
+            "emucontrolcenter": [
+                "Bally"
+            ],
+            "oldcomputers": [
+                "Bally"
+            ],
+            "arrm": [
+                "Bally"
+            ]
+        }
+    },
+    "Bandai": {
+        "id": "Bandai",
+        "name": "Bandai",
+        "matches": {
+            "emucontrolcenter": [
+                "Bandai"
+            ],
+            "oldcomputers": [
+                "Bandai"
+            ],
+            "recalbox": [
+                "Bandai"
+            ],
+            "arrm": [
+                "Bandai"
+            ]
+        }
+    },
+    "Benesse": {
+        "id": "Benesse",
+        "name": "Benesse",
+        "matches": {
+            "screenscraper": [
+                "Benesse"
+            ],
+            "recalbox": [
+                "Benesse"
+            ]
+        }
+    },
+    "Bernd Huebler": {
+        "id": "Bernd Huebler",
+        "name": "Bernd Huebler",
+        "matches": []
+    },
+    "Bernd Huebler & Klaus-Peter Evert": {
+        "id": "Bernd Huebler & Klaus-Peter Evert",
+        "name": "Bernd Huebler & Klaus-Peter Evert",
+        "matches": []
+    },
+    "Bit Corporation": {
+        "id": "Bit Corporation",
+        "name": "Bit Corporation",
+        "matches": {
+            "oldcomputers": [
+                "BIT CORPORATION",
+                "Bit Corporation"
+            ]
+        }
+    },
+    "Bondwell": {
+        "id": "Bondwell",
+        "name": "Bondwell",
+        "matches": {
+            "emucontrolcenter": [
+                "Bondwell"
+            ]
+        }
+    },
+    "Burroughs": {
+        "id": "Burroughs",
+        "name": "Burroughs",
+        "matches": []
+    },
+    "CCE": {
+        "id": "CCE",
+        "name": "CCE",
+        "matches": {
+            "oldcomputers": [
+                "CCE"
+            ]
+        }
+    },
+    "COMX": {
+        "id": "COMX",
+        "name": "COMX",
+        "matches": {
+            "emucontrolcenter": [
+                "Comx WOL"
+            ]
+        }
+    },
+    "Cadaco": {
+        "id": "Cadaco",
+        "name": "Cadaco",
+        "matches": []
+    },
+    "Cambridge Computer": {
+        "id": "Cambridge Computer",
+        "name": "Cambridge Computer",
+        "matches": []
+    },
+    "Camputers": {
+        "id": "Camputers",
+        "name": "Camputers",
+        "matches": {
+            "emucontrolcenter": [
+                "Camputers"
+            ],
+            "launchbox": [
+                "Camputers"
+            ],
+            "oldcomputers": [
+                "Camputers"
+            ],
+            "arrm": [
+                "Camputers"
+            ]
+        }
+    },
+    "Canon": {
+        "id": "Canon",
+        "name": "Canon",
+        "matches": {
+            "oldcomputers": [
+                "Canon"
+            ]
+        }
+    },
+    "Capcom": {
+        "id": "Capcom",
+        "name": "Capcom",
+        "matches": {
+            "emucontrolcenter": [
+                "Capcom"
+            ],
+            "screenscraper": [
+                "Capcom"
+            ],
+            "arrm": [
+                "Capcom"
+            ]
+        }
+    },
+    "Casio": {
+        "id": "Casio",
+        "name": "Casio",
+        "matches": {
+            "emucontrolcenter": [
+                "Casio"
+            ],
+            "launchbox": [
+                "Casio"
+            ],
+            "oldcomputers": [
+                "Casio"
+            ],
+            "screenscraper": [
+                "Casio"
+            ],
+            "arrm": [
+                "Casio"
+            ]
+        }
+    },
+    "Casper": {
+        "id": "Casper",
+        "name": "Casper",
+        "matches": []
+    },
+    "Chafitz": {
+        "id": "Chafitz",
+        "name": "Chafitz",
+        "matches": []
+    },
+    "China": {
+        "id": "China",
+        "name": "China",
+        "matches": []
+    },
+    "Coleco": {
+        "id": "Coleco",
+        "name": "Coleco",
+        "matches": {
+            "emucontrolcenter": [
+                "Coleco"
+            ],
+            "launchbox": [
+                "Coleco"
+            ],
+            "oldcomputers": [
+                "Coleco"
+            ],
+            "recalbox": [
+                "Coleco"
+            ],
+            "arrm": [
+                "Coleco"
+            ]
+        }
+    },
+    "Commodore": {
+        "id": "Commodore",
+        "name": "Commodore",
+        "matches": {
+            "emucontrolcenter": [
+                "Commodore"
+            ],
+            "oldcomputers": [
+                "Commodore"
+            ],
+            "screenscraper": [
+                "Commodore"
+            ],
+            "recalbox": [
+                "Commodore"
+            ],
+            "arrm": [
+                "Commodore"
+            ]
+        }
+    },
+    "Compucolor": {
+        "id": "Compucolor",
+        "name": "Compucolor",
+        "matches": []
+    },
+    "Compugraphic": {
+        "id": "Compugraphic",
+        "name": "Compugraphic",
+        "matches": []
+    },
+    "Conchess": {
+        "id": "Conchess",
+        "name": "Conchess",
+        "matches": []
+    },
+    "Conitec": {
+        "id": "Conitec",
+        "name": "Conitec",
+        "matches": {
+            "oldcomputers": [
+                "CONITEC",
+                "Conitec"
+            ]
+        }
+    },
+    "Control Data Corporation": {
+        "id": "Control Data Corporation",
+        "name": "Control Data Corporation",
+        "matches": []
+    },
+    "Convergent Technologies": {
+        "id": "Convergent Technologies",
+        "name": "Convergent Technologies",
+        "matches": {
+            "oldcomputers": [
+                "Convergent Technologies"
+            ]
+        }
+    },
+    "Creatronic": {
+        "id": "Creatronic",
+        "name": "Creatronic",
+        "matches": {
+            "emucontrolcenter": [
+                "CVT (Creatonic, Videojet, and Timlex)"
+            ]
+        }
+    },
+    "Cybiko": {
+        "id": "Cybiko",
+        "name": "Cybiko",
+        "matches": {
+            "emucontrolcenter": [
+                "Cybiko"
+            ]
+        }
+    },
+    "DAI": {
+        "id": "DAI",
+        "name": "DAI",
+        "matches": []
+    },
+    "DEC": {
+        "id": "DEC",
+        "name": "DEC",
+        "matches": {
+            "emucontrolcenter": [
+                "DEC"
+            ]
+        }
+    },
+    "Data Applications International": {
+        "id": "Data Applications International",
+        "name": "Data Applications International",
+        "matches": []
+    },
+    "Dick Smith": {
+        "id": "Dick Smith",
+        "name": "Dick Smith",
+        "matches": {
+            "oldcomputers": [
+                "Dick Smith"
+            ]
+        }
+    },
+    "Didact": {
+        "id": "Didact",
+        "name": "Didact",
+        "matches": []
+    },
+    "Digilog": {
+        "id": "Digilog",
+        "name": "Digilog",
+        "matches": []
+    },
+    "Digital Electronics": {
+        "id": "Digital Electronics",
+        "name": "Digital Electronics",
+        "matches": []
+    },
+    "Dragon": {
+        "id": "Dragon",
+        "name": "Dragon",
+        "matches": []
+    },
+    "Dragon Data": {
+        "id": "Dragon Data",
+        "name": "Dragon Data",
+        "matches": {
+            "emucontrolcenter": [
+                "Dragon Data"
+            ],
+            "launchbox": [
+                "Dragon Data"
+            ]
+        }
+    },
+    "Dynabyte": {
+        "id": "Dynabyte",
+        "name": "Dynabyte",
+        "matches": []
+    },
+    "EACA": {
+        "id": "EACA",
+        "name": "EACA",
+        "matches": {
+            "emucontrolcenter": [
+                "EACA"
+            ],
+            "launchbox": [
+                "EACA"
+            ],
+            "oldcomputers": [
+                "Eaca"
+            ]
+        }
+    },
+    "EC": {
+        "id": "EC",
+        "name": "EC",
+        "matches": []
+    },
+    "EPSON": {
+        "id": "EPSON",
+        "name": "EPSON",
+        "matches": {
+            "oldcomputers": [
+                "Epson"
+            ]
+        }
+    },
+    "ETL": {
+        "id": "ETL",
+        "name": "ETL",
+        "matches": []
+    },
+    "Elecbyte": {
+        "id": "Elecbyte",
+        "name": "Elecbyte",
+        "matches": {
+            "launchbox": [
+                "Elecbyte"
+            ],
+            "arrm": [
+                "Elecbyte"
+            ]
+        }
+    },
+    "Electronics Australia": {
+        "id": "Electronics Australia",
+        "name": "Electronics Australia",
+        "matches": []
+    },
+    "Elektronika": {
+        "id": "Elektronika",
+        "name": "Elektronika",
+        "matches": {
+            "arrm": [
+                "Electronika"
+            ],
+            "screenscraper": [
+                "Elektronika"
+            ],
+            "recalbox": [
+                "Elektronika"
+            ]
+        }
+    },
+    "Elektronska Industrija Nis": {
+        "id": "Elektronska Industrija Nis",
+        "name": "Elektronska Industrija Nis",
+        "matches": {
+            "oldcomputers": [
+                "ELEKTRONSKA INDUSTRIJA NIS",
+                "Elektronska industrija NIS"
+            ]
+        }
+    },
+    "Emerson": {
+        "id": "Emerson",
+        "name": "Emerson",
+        "matches": {
+            "arrm": [
+                "Emerson Radio"
+            ],
+            "emucontrolcenter": [
+                "Emerson"
+            ],
+            "oldcomputers": [
+                "Emerson"
+            ]
+        }
+    },
+    "Enterprex": {
+        "id": "Enterprex",
+        "name": "Enterprex",
+        "matches": []
+    },
+    "Enterprise": {
+        "id": "Enterprise",
+        "name": "Enterprise",
+        "matches": {
+            "emucontrolcenter": [
+                "Enterprise 64/128"
+            ],
+            "oldcomputers": [
+                "Enterprise"
+            ]
+        }
+    },
+    "Entex": {
+        "id": "Entex",
+        "name": "Entex",
+        "matches": {
+            "emucontrolcenter": [
+                "Entex",
+                "Entex Industries, Inc"
+            ],
+            "oldcomputers": [
+                "ENTEX"
+            ],
+            "arrm": [
+                "Entex"
+            ]
+        }
+    },
+    "Epoch": {
+        "id": "Epoch",
+        "name": "Epoch",
+        "matches": {
+            "emucontrolcenter": [
+                "Epoch/Yeno"
+            ],
+            "launchbox": [
+                "Epoch"
+            ],
+            "oldcomputers": [
+                "Epoch"
+            ],
+            "screenscraper": [
+                "Epoch"
+            ],
+            "recalbox": [
+                "Epoch"
+            ],
+            "arrm": [
+                "Epoch"
+            ]
+        }
+    },
+    "Epson": {
+        "id": "Epson",
+        "name": "Epson",
+        "matches": []
+    },
+    "Ericsson": {
+        "id": "Ericsson",
+        "name": "Ericsson",
+        "matches": []
+    },
+    "Excalibur": {
+        "id": "Excalibur",
+        "name": "Excalibur",
+        "matches": []
+    },
+    "Exelvision": {
+        "id": "Exelvision",
+        "name": "Exelvision",
+        "matches": {
+            "emucontrolcenter": [
+                "Exelvision"
+            ],
+            "launchbox": [
+                "Exelvision"
+            ],
+            "oldcomputers": [
+                "Exelvision"
+            ]
+        }
+    },
+    "Exidy": {
+        "id": "Exidy",
+        "name": "Exidy",
+        "matches": {
+            "emucontrolcenter": [
+                "Exidy"
+            ],
+            "launchbox": [
+                "Exidy"
+            ],
+            "oldcomputers": [
+                "Exidy"
+            ]
+        }
+    },
+    "Fairchild": {
+        "id": "Fairchild",
+        "name": "Fairchild",
+        "matches": {
+            "arrm": [
+                "Fairchild Semiconductor"
+            ],
+            "emucontrolcenter": [
+                "Fairchild"
+            ],
+            "oldcomputers": [
+                "Fairchild"
+            ],
+            "recalbox": [
+                "Fairchild"
+            ]
+        }
+    },
+    "Fairlight": {
+        "id": "Fairlight",
+        "name": "Fairlight",
+        "matches": []
+    },
+    "Ferguson": {
+        "id": "Ferguson",
+        "name": "Ferguson",
+        "matches": []
+    },
+    "Fidelity": {
+        "id": "Fidelity",
+        "name": "Fidelity",
+        "matches": []
+    },
+    "Fisher-Price - Mattel": {
+        "id": "Fisher-Price - Mattel",
+        "name": "Fisher-Price - Mattel",
+        "matches": []
+    },
+    "Front Fareast": {
+        "id": "Front Fareast",
+        "name": "Front Fareast",
+        "matches": []
+    },
+    "Fuji": {
+        "id": "Fuji",
+        "name": "Fuji",
+        "matches": []
+    },
+    "Fujitsu": {
+        "id": "Fujitsu",
+        "name": "Fujitsu",
+        "matches": {
+            "emucontrolcenter": [
+                "Fujitsu"
+            ],
+            "launchbox": [
+                "Fujitsu"
+            ],
+            "oldcomputers": [
+                "Fujitsu"
+            ],
+            "screenscraper": [
+                "Fujitsu"
+            ],
+            "arrm": [
+                "Fujitsu"
+            ]
+        }
+    },
+    "Fukutake Publishing": {
+        "id": "Fukutake Publishing",
+        "name": "Fukutake Publishing",
+        "matches": []
+    },
+    "Funtech": {
+        "id": "Funtech",
+        "name": "Funtech",
+        "matches": {
+            "arrm": [
+                "Funtech Entertainment"
+            ],
+            "emucontrolcenter": [
+                "Funtech Entertainment"
+            ],
+            "launchbox": [
+                "Funtech"
+            ]
+        }
+    },
+    "GCE": {
+        "id": "GCE",
+        "name": "GCE",
+        "matches": []
+    },
+    "Gakken": {
+        "id": "Gakken",
+        "name": "Gakken",
+        "matches": {
+            "oldcomputers": [
+                "Gakken"
+            ]
+        }
+    },
+    "Galaksija": {
+        "id": "Galaksija",
+        "name": "Galaksija",
+        "matches": {
+            "emucontrolcenter": [
+                "Galaksija"
+            ],
+            "oldcomputers": [
+                "GALAKSIJA"
+            ]
+        }
+    },
+    "GamePark": {
+        "id": "GamePark",
+        "name": "GamePark",
+        "matches": {
+            "emucontrolcenter": [
+                "Game Park"
+            ]
+        }
+    },
+    "Generic": {
+        "id": "Generic",
+        "name": "Generic",
+        "matches": []
+    },
+    "Gimix": {
+        "id": "Gimix",
+        "name": "Gimix",
+        "matches": []
+    },
+    "Gould": {
+        "id": "Gould",
+        "name": "Gould",
+        "matches": []
+    },
+    "Grundy": {
+        "id": "Grundy",
+        "name": "Grundy",
+        "matches": {
+            "oldcomputers": [
+                "GRUNDY",
+                "Grundy"
+            ]
+        }
+    },
+    "Gundam": {
+        "id": "Gundam",
+        "name": "Gundam",
+        "matches": []
+    },
+    "Handheld": {
+        "id": "Handheld",
+        "name": "Handheld",
+        "matches": []
+    },
+    "Hanimex": {
+        "id": "Hanimex",
+        "name": "Hanimex",
+        "matches": {
+            "oldcomputers": [
+                "Hanimex"
+            ]
+        }
+    },
+    "Hartung": {
+        "id": "Hartung",
+        "name": "Hartung",
+        "matches": {
+            "emucontrolcenter": [
+                "Hartung"
+            ],
+            "launchbox": [
+                "Hartung"
+            ]
+        }
+    },
+    "Hawthorne Technology": {
+        "id": "Hawthorne Technology",
+        "name": "Hawthorne Technology",
+        "matches": []
+    },
+    "Hector": {
+        "id": "Hector",
+        "name": "Hector",
+        "matches": []
+    },
+    "Hewlett-Packard": {
+        "id": "Hewlett-Packard",
+        "name": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hitachi": {
+        "id": "Hitachi",
+        "name": "Hitachi",
+        "matches": {
+            "oldcomputers": [
+                "Hitachi"
+            ]
+        }
+    },
+    "HomeLab": {
+        "id": "HomeLab",
+        "name": "HomeLab",
+        "matches": {
+            "emucontrolcenter": [
+                "HomeLAB"
+            ]
+        }
+    },
+    "IBM": {
+        "id": "IBM",
+        "name": "IBM",
+        "matches": {
+            "launchbox": [
+                "IBM"
+            ],
+            "oldcomputers": [
+                "IBM"
+            ],
+            "recalbox": [
+                "IBM"
+            ]
+        }
+    },
+    "IMLAC Corporation": {
+        "id": "IMLAC Corporation",
+        "name": "IMLAC Corporation",
+        "matches": []
+    },
+    "ITT": {
+        "id": "ITT",
+        "name": "ITT",
+        "matches": {
+            "oldcomputers": [
+                "ITT"
+            ]
+        }
+    },
+    "IVL Technologies": {
+        "id": "IVL Technologies",
+        "name": "IVL Technologies",
+        "matches": []
+    },
+    "Incredible Technologies": {
+        "id": "Incredible Technologies",
+        "name": "Incredible Technologies",
+        "matches": []
+    },
+    "Infocom": {
+        "id": "Infocom",
+        "name": "Infocom",
+        "matches": []
+    },
+    "Intec": {
+        "id": "Intec",
+        "name": "Intec",
+        "matches": []
+    },
+    "Interact": {
+        "id": "Interact",
+        "name": "Interact",
+        "matches": {
+            "emucontrolcenter": [
+                "Interact"
+            ],
+            "oldcomputers": [
+                "Interact"
+            ]
+        }
+    },
+    "Intergraph": {
+        "id": "Intergraph",
+        "name": "Intergraph",
+        "matches": []
+    },
+    "Interton": {
+        "id": "Interton",
+        "name": "Interton",
+        "matches": {
+            "emucontrolcenter": [
+                "Interton"
+            ],
+            "launchbox": [
+                "Interton"
+            ],
+            "oldcomputers": [
+                "INTERTON"
+            ],
+            "arrm": [
+                "Interton"
+            ]
+        }
+    },
+    "Itautec": {
+        "id": "Itautec",
+        "name": "Itautec",
+        "matches": []
+    },
+    "Ithaca": {
+        "id": "Ithaca",
+        "name": "Ithaca",
+        "matches": []
+    },
+    "JAKKS Pacific": {
+        "id": "JAKKS Pacific",
+        "name": "JAKKS Pacific",
+        "matches": []
+    },
+    "JPM": {
+        "id": "JPM",
+        "name": "JPM",
+        "matches": []
+    },
+    "Juku": {
+        "id": "Juku",
+        "name": "Juku",
+        "matches": []
+    },
+    "JungleTac-KenSingTon": {
+        "id": "JungleTac-KenSingTon",
+        "name": "JungleTac-KenSingTon",
+        "matches": []
+    },
+    "Jupiter Cantab": {
+        "id": "Jupiter Cantab",
+        "name": "Jupiter Cantab",
+        "matches": {
+            "emucontrolcenter": [
+                "Jupiter Cantab"
+            ],
+            "launchbox": [
+                "Jupiter Cantab"
+            ],
+            "oldcomputers": [
+                "JUPITER CANTAB",
+                "Jupiter Cantab"
+            ]
+        }
+    },
+    "Kaypro": {
+        "id": "Kaypro",
+        "name": "Kaypro",
+        "matches": {
+            "oldcomputers": [
+                "Kaypro"
+            ]
+        }
+    },
+    "Keio University": {
+        "id": "Keio University",
+        "name": "Keio University",
+        "matches": []
+    },
+    "Koei": {
+        "id": "Koei",
+        "name": "Koei",
+        "matches": []
+    },
+    "Konami": {
+        "id": "Konami",
+        "name": "Konami",
+        "matches": {
+            "screenscraper": [
+                "Konami"
+            ]
+        }
+    },
+    "Kontron": {
+        "id": "Kontron",
+        "name": "Kontron",
+        "matches": {
+            "oldcomputers": [
+                "KONTRON",
+                "Kontron"
+            ]
+        }
+    },
+    "LSI": {
+        "id": "LSI",
+        "name": "LSI",
+        "matches": []
+    },
+    "Lambda Electronics": {
+        "id": "Lambda Electronics",
+        "name": "Lambda Electronics",
+        "matches": []
+    },
+    "LeapFrog": {
+        "id": "LeapFrog",
+        "name": "LeapFrog",
+        "matches": []
+    },
+    "Luxor": {
+        "id": "Luxor",
+        "name": "Luxor",
+        "matches": {
+            "oldcomputers": [
+                "Luxor"
+            ]
+        }
+    },
+    "Lviv": {
+        "id": "Lviv",
+        "name": "Lviv",
+        "matches": []
+    },
+    "M&D": {
+        "id": "M&D",
+        "name": "M&D",
+        "matches": []
+    },
+    "MEGA": {
+        "id": "MEGA",
+        "name": "MEGA",
+        "matches": []
+    },
+    "MGT": {
+        "id": "MGT",
+        "name": "MGT",
+        "matches": {
+            "arrm": [
+                "Miles Gordon Technology"
+            ],
+            "emucontrolcenter": [
+                "Miles Gordon Technology"
+            ],
+            "launchbox": [
+                "MGT"
+            ],
+            "recalbox": [
+                "MGT"
+            ]
+        }
+    },
+    "MITS": {
+        "id": "MITS",
+        "name": "MITS",
+        "matches": {
+            "oldcomputers": [
+                "MITS"
+            ]
+        }
+    },
+    "MOS": {
+        "id": "MOS",
+        "name": "MOS",
+        "matches": []
+    },
+    "MSX": {
+        "id": "MSX",
+        "name": "MSX",
+        "matches": {
+            "oldcomputers": [
+                "MSX"
+            ]
+        }
+    },
+    "Magnavox": {
+        "id": "Magnavox",
+        "name": "Magnavox",
+        "matches": {
+            "launchbox": [
+                "Magnavox"
+            ],
+            "oldcomputers": [
+                "MAGNAVOX",
+                "Magnavox"
+            ],
+            "recalbox": [
+                "Magnavox"
+            ],
+            "arrm": [
+                "Magnavox"
+            ]
+        }
+    },
+    "Manfred Kramer": {
+        "id": "Manfred Kramer",
+        "name": "Manfred Kramer",
+        "matches": []
+    },
+    "Matra Hachette": {
+        "id": "Matra Hachette",
+        "name": "Matra Hachette",
+        "matches": {
+            "oldcomputers": [
+                "Matra Hachette"
+            ]
+        }
+    },
+    "Matsushita": {
+        "id": "Matsushita",
+        "name": "Matsushita",
+        "matches": {
+            "emucontrolcenter": [
+                "Matra/Hachette"
+            ],
+            "launchbox": [
+                "Matsushita"
+            ],
+            "oldcomputers": [
+                "MATSUSHITA",
+                "Matsushita"
+            ]
+        }
+    },
+    "Mattel": {
+        "id": "Mattel",
+        "name": "Mattel",
+        "matches": {
+            "emucontrolcenter": [
+                "Mattel"
+            ],
+            "launchbox": [
+                "Mattel"
+            ],
+            "recalbox": [
+                "Mattel"
+            ],
+            "arrm": [
+                "Mattel"
+            ]
+        }
+    },
+    "Megatel": {
+        "id": "Megatel",
+        "name": "Megatel",
+        "matches": []
+    },
+    "Memorex": {
+        "id": "Memorex",
+        "name": "Memorex",
+        "matches": []
+    },
+    "Memotech": {
+        "id": "Memotech",
+        "name": "Memotech",
+        "matches": {
+            "emucontrolcenter": [
+                "Memotech"
+            ],
+            "launchbox": [
+                "Memotech"
+            ],
+            "oldcomputers": [
+                "MEMOTECH",
+                "Memotech"
+            ]
+        }
+    },
+    "Mephisto": {
+        "id": "Mephisto",
+        "name": "Mephisto",
+        "matches": []
+    },
+    "Michael J. Bauer": {
+        "id": "Michael J. Bauer",
+        "name": "Michael J. Bauer",
+        "matches": []
+    },
+    "Microkey": {
+        "id": "Microkey",
+        "name": "Microkey",
+        "matches": {
+            "emucontrolcenter": [
+                "Microkey"
+            ]
+        }
+    },
+    "Microsoft": {
+        "id": "Microsoft",
+        "name": "Microsoft",
+        "matches": {
+            "emucontrolcenter": [
+                "Microsoft"
+            ],
+            "emulationking": [
+                "microsoft"
+            ],
+            "launchbox": [
+                "Microsoft"
+            ],
+            "screenscraper": [
+                "Microsoft"
+            ],
+            "recalbox": [
+                "Microsoft"
+            ],
+            "arrm": [
+                "Microsoft"
+            ]
+        }
+    },
+    "Microtan": {
+        "id": "Microtan",
+        "name": "Microtan",
+        "matches": []
+    },
+    "MikroMikko": {
+        "id": "MikroMikko",
+        "name": "MikroMikko",
+        "matches": []
+    },
+    "Millennium Systems": {
+        "id": "Millennium Systems",
+        "name": "Millennium Systems",
+        "matches": []
+    },
+    "Milton Bradley": {
+        "id": "Milton Bradley",
+        "name": "Milton Bradley",
+        "matches": {
+            "oldcomputers": [
+                "Milton Bradley"
+            ],
+            "arrm": [
+                "Milton Bradley"
+            ]
+        }
+    },
+    "Mindset Corporation": {
+        "id": "Mindset Corporation",
+        "name": "Mindset Corporation",
+        "matches": []
+    },
+    "Mitsubishi": {
+        "id": "Mitsubishi",
+        "name": "Mitsubishi",
+        "matches": {
+            "oldcomputers": [
+                "Mitsubishi"
+            ]
+        }
+    },
+    "Mobile": {
+        "id": "Mobile",
+        "name": "Mobile"
+    },
+    "Morrow": {
+        "id": "Morrow",
+        "name": "Morrow",
+        "matches": []
+    },
+    "Motorola": {
+        "id": "Motorola",
+        "name": "Motorola",
+        "matches": {
+            "launchbox": [
+                "Motorola"
+            ],
+            "oldcomputers": [
+                "Motorola"
+            ]
+        }
+    },
+    "Mr. Isizu": {
+        "id": "Mr. Isizu",
+        "name": "Mr. Isizu",
+        "matches": []
+    },
+    "NCR": {
+        "id": "NCR",
+        "name": "NCR",
+        "matches": {
+            "oldcomputers": [
+                "NCR"
+            ]
+        }
+    },
+    "NEC": {
+        "id": "NEC",
+        "name": "NEC",
+        "matches": {
+            "emucontrolcenter": [
+                "NEC"
+            ],
+            "launchbox": [
+                "NEC"
+            ],
+            "oldcomputers": [
+                "NEC"
+            ],
+            "recalbox": [
+                "NEC"
+            ],
+            "arrm": [
+                "NEC"
+            ]
+        }
+    },
+    "Namco": {
+        "id": "Namco",
+        "name": "Namco",
+        "matches": {
+            "emucontrolcenter": [
+                "Namco"
+            ],
+            "launchbox": [
+                "Namco"
+            ],
+            "screenscraper": [
+                "Namco"
+            ]
+        }
+    },
+    "Namco-Sega-Nintendo": {
+        "id": "Namco-Sega-Nintendo",
+        "name": "Namco-Sega-Nintendo",
+        "matches": {
+            "arrm": [
+                "Namco-Sega-Nintendo"
+            ]
+        }
+    },
+    "Nascom": {
+        "id": "Nascom",
+        "name": "Nascom",
+        "matches": []
+    },
+    "Nichibutsu": {
+        "id": "Nichibutsu",
+        "name": "Nichibutsu",
+        "matches": {
+            "screenscraper": [
+                "Nichibutsu"
+            ]
+        }
+    },
+    "Nintendo": {
+        "id": "Nintendo",
+        "name": "Nintendo",
+        "matches": {
+            "emucontrolcenter": [
+                "Nintendo"
+            ],
+            "emulationking": [
+                "nintendo"
+            ],
+            "launchbox": [
+                "Nintendo"
+            ],
+            "oldcomputers": [
+                "Nintendo"
+            ],
+            "screenscraper": [
+                "Nintendo"
+            ],
+            "recalbox": [
+                "Nintendo"
+            ],
+            "arrm": [
+                "Nintendo"
+            ]
+        }
+    },
+    "Nokia": {
+        "id": "Nokia",
+        "name": "Nokia",
+        "matches": {
+            "emucontrolcenter": [
+                "Nokia"
+            ],
+            "launchbox": [
+                "Nokia"
+            ],
+            "oldcomputers": [
+                "NOKIA",
+                "Nokia"
+            ],
+            "screenscraper": [
+                "Nokia"
+            ],
+            "arrm": [
+                "Nokia"
+            ]
+        }
+    },
+    "NorthStar": {
+        "id": "NorthStar",
+        "name": "NorthStar",
+        "matches": {
+            "oldcomputers": [
+                "Northstar"
+            ]
+        }
+    },
+    "Nuclear Data": {
+        "id": "Nuclear Data",
+        "name": "Nuclear Data",
+        "matches": []
+    },
+    "Nuova Elettronica": {
+        "id": "Nuova Elettronica",
+        "name": "Nuova Elettronica",
+        "matches": []
+    },
+    "OCC": {
+        "id": "OCC",
+        "name": "OCC",
+        "matches": []
+    },
+    "Oh! MZ": {
+        "id": "Oh! MZ",
+        "name": "Oh! MZ",
+        "matches": []
+    },
+    "Ohio Scientific": {
+        "id": "Ohio Scientific",
+        "name": "Ohio Scientific",
+        "matches": {
+            "oldcomputers": [
+                "OHIO Scientific"
+            ]
+        }
+    },
+    "Olivetti": {
+        "id": "Olivetti",
+        "name": "Olivetti",
+        "matches": {
+            "oldcomputers": [
+                "Olivetti"
+            ]
+        }
+    },
+    "Ondra": {
+        "id": "Ondra",
+        "name": "Ondra",
+        "matches": []
+    },
+    "Otrona": {
+        "id": "Otrona",
+        "name": "Otrona",
+        "matches": {
+            "oldcomputers": [
+                "Otrona"
+            ]
+        }
+    },
+    "PDC": {
+        "id": "PDC",
+        "name": "PDC",
+        "matches": []
+    },
+    "PEL Varazdin": {
+        "id": "PEL Varazdin",
+        "name": "PEL Varazdin",
+        "matches": {
+            "oldcomputers": [
+                "PEL VARAZDIN",
+                "PEL Varazdin"
+            ]
+        }
+    },
+    "PTC": {
+        "id": "PTC",
+        "name": "PTC",
+        "matches": []
+    },
+    "Palson": {
+        "id": "Palson",
+        "name": "Palson",
+        "matches": []
+    },
+    "Panasonic": {
+        "id": "Panasonic",
+        "name": "Panasonic",
+        "matches": {
+            "emucontrolcenter": [
+                "Panasonic"
+            ],
+            "oldcomputers": [
+                "Panasonic"
+            ],
+            "screenscraper": [
+                "Panasonic"
+            ],
+            "recalbox": [
+                "Panasonic"
+            ],
+            "arrm": [
+                "Panasonic"
+            ]
+        }
+    },
+    "Patisonic": {
+        "id": "Patisonic",
+        "name": "Patisonic",
+        "matches": []
+    },
+    "Peters Plus": {
+        "id": "Peters Plus",
+        "name": "Peters Plus",
+        "matches": []
+    },
+    "Philips": {
+        "id": "Philips",
+        "name": "Philips",
+        "matches": {
+            "emucontrolcenter": [
+                "Philips",
+                "Royal Philips Electronics",
+                "Phillips"
+            ],
+            "launchbox": [
+                "Philips"
+            ],
+            "oldcomputers": [
+                "Philips"
+            ],
+            "screenscraper": [
+                "Philips"
+            ],
+            "recalbox": [
+                "Philips"
+            ],
+            "arrm": [
+                "Philips"
+            ]
+        }
+    },
+    "Pioneer": {
+        "id": "Pioneer",
+        "name": "Pioneer",
+        "matches": {
+            "oldcomputers": [
+                "Pioneer"
+            ]
+        }
+    },
+    "Pravetz": {
+        "id": "Pravetz",
+        "name": "Pravetz",
+        "matches": {
+            "oldcomputers": [
+                "Pravetz"
+            ]
+        }
+    },
+    "Psion": {
+        "id": "Psion",
+        "name": "Psion",
+        "matches": {
+            "oldcomputers": [
+                "PSION"
+            ]
+        }
+    },
+    "Publications International Ltd": {
+        "id": "Publications International Ltd",
+        "name": "Publications International Ltd",
+        "matches": []
+    },
+    "RCA": {
+        "id": "RCA",
+        "name": "RCA",
+        "matches": {
+            "emucontrolcenter": [
+                "RCA"
+            ],
+            "launchbox": [
+                "RCA"
+            ],
+            "oldcomputers": [
+                "RCA"
+            ]
+        }
+    },
+    "RM": {
+        "id": "RM",
+        "name": "RM",
+        "matches": []
+    },
+    "ROLM": {
+        "id": "ROLM",
+        "name": "ROLM",
+        "matches": []
+    },
+    "Radica": {
+        "id": "Radica",
+        "name": "Radica",
+        "matches": []
+    },
+    "Radio-86RK": {
+        "id": "Radio-86RK",
+        "name": "Radio-86RK",
+        "matches": []
+    },
+    "Raytheon": {
+        "id": "Raytheon",
+        "name": "Raytheon",
+        "matches": []
+    },
+    "Regnecentralen": {
+        "id": "Regnecentralen",
+        "name": "Regnecentralen",
+        "matches": {
+            "oldcomputers": [
+                "Regnecentralen"
+            ]
+        }
+    },
+    "Retroleum": {
+        "id": "Retroleum",
+        "name": "Retroleum",
+        "matches": []
+    },
+    "Robotron": {
+        "id": "Robotron",
+        "name": "Robotron",
+        "matches": {
+            "emucontrolcenter": [
+                "Robotron"
+            ],
+            "oldcomputers": [
+                "Robotron"
+            ]
+        }
+    },
+    "Rockwell": {
+        "id": "Rockwell",
+        "name": "Rockwell",
+        "matches": {
+            "oldcomputers": [
+                "Rockwell"
+            ]
+        }
+    },
+    "Roland": {
+        "id": "Roland",
+        "name": "Roland",
+        "matches": []
+    },
+    "Rowtron": {
+        "id": "Rowtron",
+        "name": "Rowtron",
+        "matches": {
+            "oldcomputers": [
+                "ROWTRON",
+                "Rowtron"
+            ]
+        }
+    },
+    "SABA": {
+        "id": "SABA",
+        "name": "SABA",
+        "matches": []
+    },
+    "SGI": {
+        "id": "SGI",
+        "name": "SGI",
+        "matches": []
+    },
+    "SME Systems": {
+        "id": "SME Systems",
+        "name": "SME Systems",
+        "matches": []
+    },
+    "SNK": {
+        "id": "SNK",
+        "name": "SNK",
+        "matches": {
+            "emucontrolcenter": [
+                "SNK"
+            ],
+            "launchbox": [
+                "SNK"
+            ],
+            "oldcomputers": [
+                "SNK"
+            ],
+            "screenscraper": [
+                "SNK"
+            ],
+            "recalbox": [
+                "SNK"
+            ],
+            "arrm": [
+                "SNK"
+            ]
+        }
+    },
+    "SSD": {
+        "id": "SSD",
+        "name": "SSD",
+        "matches": []
+    },
+    "SSE": {
+        "id": "SSE",
+        "name": "SSE",
+        "matches": []
+    },
+    "Sage": {
+        "id": "Sage",
+        "name": "Sage",
+        "matches": []
+    },
+    "Saitek": {
+        "id": "Saitek",
+        "name": "Saitek",
+        "matches": {
+            "oldcomputers": [
+                "Saitek"
+            ]
+        }
+    },
+    "Sammy": {
+        "id": "Sammy",
+        "name": "Sammy",
+        "matches": {
+            "recalbox": [
+                "Sammy"
+            ],
+            "arrm": [
+                "Sammy"
+            ]
+        }
+    },
+    "Samsung": {
+        "id": "Samsung",
+        "name": "Samsung",
+        "matches": {
+            "oldcomputers": [
+                "Samsung"
+            ]
+        }
+    },
+    "Sanyo": {
+        "id": "Sanyo",
+        "name": "Sanyo",
+        "matches": {
+            "oldcomputers": [
+                "Sanyo"
+            ]
+        }
+    },
+    "Sega": {
+        "id": "Sega",
+        "name": "Sega",
+        "matches": {
+            "emucontrolcenter": [
+                "Sega"
+            ],
+            "emulationking": [
+                "sega"
+            ],
+            "launchbox": [
+                "Sega"
+            ],
+            "oldcomputers": [
+                "Sega"
+            ],
+            "screenscraper": [
+                "SEGA"
+            ],
+            "recalbox": [
+                "Sega"
+            ],
+            "arrm": [
+                "Sega"
+            ]
+        }
+    },
+    "Seta": {
+        "id": "Seta",
+        "name": "Seta",
+        "matches": []
+    },
+    "Sharp": {
+        "id": "Sharp",
+        "name": "Sharp",
+        "matches": {
+            "emucontrolcenter": [
+                "Sharp"
+            ],
+            "launchbox": [
+                "Sharp"
+            ],
+            "oldcomputers": [
+                "Sharp"
+            ],
+            "screenscraper": [
+                "Sharp"
+            ],
+            "recalbox": [
+                "Sharp"
+            ],
+            "arrm": [
+                "Sharp"
+            ]
+        }
+    },
+    "Siemens": {
+        "id": "Siemens",
+        "name": "Siemens",
+        "matches": {
+            "oldcomputers": [
+                "Siemens"
+            ]
+        }
+    },
+    "Sinclair": {
+        "id": "Sinclair",
+        "name": "Sinclair",
+        "matches": {
+            "emucontrolcenter": [
+                "Sinclair",
+                "Sinclair Research"
+            ],
+            "launchbox": [
+                "Sinclair"
+            ],
+            "oldcomputers": [
+                "Sinclair"
+            ],
+            "screenscraper": [
+                "Sinclair"
+            ],
+            "recalbox": [
+                "Sinclair"
+            ],
+            "arrm": [
+                "Sinclair"
+            ]
+        }
+    },
+    "Sony": {
+        "id": "Sony",
+        "name": "Sony",
+        "matches": {
+            "emucontrolcenter": [
+                "Sony",
+                "Sony Computer Entertainment"
+            ],
+            "emulationking": [
+                "sony"
+            ],
+            "launchbox": [
+                "Sony"
+            ],
+            "oldcomputers": [
+                "Sony"
+            ],
+            "screenscraper": [
+                "Sony"
+            ],
+            "recalbox": [
+                "Sony"
+            ],
+            "arrm": [
+                "Sony"
+            ]
+        }
+    },
+    "Sord": {
+        "id": "Sord",
+        "name": "Sord",
+        "matches": {
+            "emucontrolcenter": [
+                "Sord"
+            ],
+            "oldcomputers": [
+                "Sord"
+            ]
+        }
+    },
+    "Spectravideo": {
+        "id": "Spectravideo",
+        "name": "Spectravideo",
+        "matches": {
+            "emucontrolcenter": [
+                "Spectravideo"
+            ],
+            "oldcomputers": [
+                "Spectravideo"
+            ],
+            "recalbox": [
+                "Spectravideo"
+            ],
+            "arrm": [
+                "Spectravideo"
+            ]
+        }
+    },
+    "TAB-Austria": {
+        "id": "TAB-Austria",
+        "name": "TAB-Austria",
+        "matches": []
+    },
+    "TRQ": {
+        "id": "TRQ",
+        "name": "TRQ",
+        "matches": []
+    },
+    "Taikee": {
+        "id": "Taikee",
+        "name": "Taikee",
+        "matches": []
+    },
+    "Taito": {
+        "id": "Taito",
+        "name": "Taito",
+        "matches": {
+            "emucontrolcenter": [
+                "Taito"
+            ],
+            "screenscraper": [
+                "Taito"
+            ]
+        }
+    },
+    "Takara": {
+        "id": "Takara",
+        "name": "Takara",
+        "matches": []
+    },
+    "Tandberg": {
+        "id": "Tandberg",
+        "name": "Tandberg",
+        "matches": []
+    },
+    "Tandy Radio Shack": {
+        "id": "Tandy Radio Shack",
+        "name": "Tandy Radio Shack",
+        "matches": {
+            "arrm": [
+                "Tandy"
+            ],
+            "recalbox": [
+                "Tandy"
+            ],
+            "emucontrolcenter": [
+                "Tandy",
+                "Tandy/Radio Shack"
+            ],
+            "oldcomputers": [
+                "Tandy Radio Shack"
+            ]
+        }
+    },
+    "Tangerine": {
+        "id": "Tangerine",
+        "name": "Tangerine",
+        "matches": {
+            "arrm": [
+                "Tangerine Computer Systems"
+            ],
+            "oldcomputers": [
+                "TANGERINE",
+                "Tangerine"
+            ],
+            "recalbox": [
+                "Tangerine"
+            ]
+        }
+    },
+    "Tapwave": {
+        "id": "Tapwave",
+        "name": "Tapwave",
+        "matches": {
+            "launchbox": [
+                "Tapwave"
+            ]
+        }
+    },
+    "Tatung": {
+        "id": "Tatung",
+        "name": "Tatung",
+        "matches": {
+            "emucontrolcenter": [
+                "Tatung"
+            ],
+            "oldcomputers": [
+                "Tatung"
+            ]
+        }
+    },
+    "Technosys": {
+        "id": "Technosys",
+        "name": "Technosys",
+        "matches": []
+    },
+    "Tektronix": {
+        "id": "Tektronix",
+        "name": "Tektronix",
+        "matches": []
+    },
+    "Telcon": {
+        "id": "Telcon",
+        "name": "Telcon",
+        "matches": []
+    },
+    "TeleVideo Systems": {
+        "id": "TeleVideo Systems",
+        "name": "TeleVideo Systems",
+        "matches": []
+    },
+    "Telenova": {
+        "id": "Telenova",
+        "name": "Telenova",
+        "matches": {
+            "oldcomputers": [
+                "Telenova"
+            ]
+        }
+    },
+    "Telmac": {
+        "id": "Telmac",
+        "name": "Telmac",
+        "matches": []
+    },
+    "Terak": {
+        "id": "Terak",
+        "name": "Terak",
+        "matches": []
+    },
+    "Tesla": {
+        "id": "Tesla",
+        "name": "Tesla",
+        "matches": {
+            "emucontrolcenter": [
+                "Tesla"
+            ],
+            "oldcomputers": [
+                "Tesla"
+            ]
+        }
+    },
+    "Texas Instruments": {
+        "id": "Texas Instruments",
+        "name": "Texas Instruments",
+        "matches": {
+            "emucontrolcenter": [
+                "Texas Instruments"
+            ],
+            "launchbox": [
+                "Texas Instruments"
+            ],
+            "oldcomputers": [
+                "Texas Instruments"
+            ],
+            "screenscraper": [
+                "Texas Instruments"
+            ],
+            "arrm": [
+                "Texas Instruments"
+            ]
+        }
+    },
+    "Thomson": {
+        "id": "Thomson",
+        "name": "Thomson",
+        "matches": {
+            "emucontrolcenter": [
+                "Thomson"
+            ],
+            "oldcomputers": [
+                "Thomson"
+            ],
+            "recalbox": [
+                "Thomson"
+            ],
+            "arrm": [
+                "Thomson"
+            ]
+        }
+    },
+    "Tiger Electronics": {
+        "id": "Tiger Electronics",
+        "name": "Tiger Electronics",
+        "matches": {
+            "emucontrolcenter": [
+                "Tiger Electronics"
+            ],
+            "launchbox": [
+                "Tiger Electronics"
+            ],
+            "arrm": [
+                "Tiger Electronics"
+            ]
+        }
+    },
+    "Tiki Data": {
+        "id": "Tiki Data",
+        "name": "Tiki Data",
+        "matches": []
+    },
+    "TimeTop": {
+        "id": "TimeTop",
+        "name": "TimeTop",
+        "matches": []
+    },
+    "Timex Sinclair": {
+        "id": "Timex Sinclair",
+        "name": "Timex Sinclair",
+        "matches": []
+    },
+    "Tomy": {
+        "id": "Tomy",
+        "name": "Tomy",
+        "matches": {
+            "emucontrolcenter": [
+                "Tomy"
+            ],
+            "launchbox": [
+                "Tomy"
+            ],
+            "oldcomputers": [
+                "Tomy"
+            ],
+            "arrm": [
+                "Tomy"
+            ]
+        }
+    },
+    "Torch": {
+        "id": "Torch",
+        "name": "Torch",
+        "matches": []
+    },
+    "Toshiba": {
+        "id": "Toshiba",
+        "name": "Toshiba",
+        "matches": {
+            "oldcomputers": [
+                "Toshiba"
+            ]
+        }
+    },
+    "Touhou": {
+        "id": "Touhou",
+        "name": "Touhou",
+        "matches": []
+    },
+    "Toyquest": {
+        "id": "Toyquest",
+        "name": "Toyquest",
+        "matches": []
+    },
+    "Triumph-Adler": {
+        "id": "Triumph-Adler",
+        "name": "Triumph-Adler",
+        "matches": []
+    },
+    "Tsukuda Original": {
+        "id": "Tsukuda Original",
+        "name": "Tsukuda Original",
+        "matches": {
+            "launchbox": [
+                "Tsukuda Original"
+            ]
+        }
+    },
+    "UNIVAC": {
+        "id": "UNIVAC",
+        "name": "UNIVAC",
+        "matches": []
+    },
+    "USSR": {
+        "id": "USSR",
+        "name": "USSR",
+        "matches": []
+    },
+    "Unisonic": {
+        "id": "Unisonic",
+        "name": "Unisonic",
+        "matches": []
+    },
+    "University of Cambridge": {
+        "id": "University of Cambridge",
+        "name": "University of Cambridge",
+        "matches": []
+    },
+    "University of Tokyo": {
+        "id": "University of Tokyo",
+        "name": "University of Tokyo",
+        "matches": []
+    },
+    "Uzebox": {
+        "id": "Uzebox",
+        "name": "Uzebox",
+        "matches": {
+            "arrm": [
+                "UzeBox"
+            ]
+        }
+    },
+    "VEB Mikroelektronik": {
+        "id": "VEB Mikroelektronik",
+        "name": "VEB Mikroelektronik",
+        "matches": []
+    },
+    "VM-Labs": {
+        "id": "VM-Labs",
+        "name": "VM-Labs",
+        "matches": []
+    },
+    "VTech": {
+        "id": "VTech",
+        "name": "VTech",
+        "matches": {
+            "emucontrolcenter": [
+                "VTech",
+                "Vtech"
+            ],
+            "launchbox": [
+                "VTech"
+            ],
+            "screenscraper": [
+                "VTech"
+            ],
+            "arrm": [
+                "VTech"
+            ]
+        }
+    },
+    "Victor": {
+        "id": "Victor",
+        "name": "Victor",
+        "matches": {
+            "oldcomputers": [
+                "Victor"
+            ]
+        }
+    },
+    "VideoBrain": {
+        "id": "VideoBrain",
+        "name": "VideoBrain",
+        "matches": []
+    },
+    "Videoton": {
+        "id": "Videoton",
+        "name": "Videoton",
+        "matches": {
+            "emucontrolcenter": [
+                "Videoton"
+            ],
+            "oldcomputers": [
+                "Videoton"
+            ]
+        }
+    },
+    "Visual Technology": {
+        "id": "Visual Technology",
+        "name": "Visual Technology",
+        "matches": {
+            "oldcomputers": [
+                "VISUAL TECHNOLOGY",
+                "Visual Technology"
+            ]
+        }
+    },
+    "Voltmace": {
+        "id": "Voltmace",
+        "name": "Voltmace",
+        "matches": {
+            "oldcomputers": [
+                "VOLTMACE",
+                "Voltmace"
+            ]
+        }
+    },
+    "Wang": {
+        "id": "Wang",
+        "name": "Wang",
+        "matches": []
+    },
+    "Watara": {
+        "id": "Watara",
+        "name": "Watara",
+        "matches": {
+            "emucontrolcenter": [
+                "Watara"
+            ],
+            "launchbox": [
+                "Watara"
+            ],
+            "screenscraper": [
+                "Watara"
+            ],
+            "recalbox": [
+                "Watara"
+            ],
+            "arrm": [
+                "Watara"
+            ]
+        }
+    },
+    "WaveMate": {
+        "id": "WaveMate",
+        "name": "WaveMate",
+        "matches": []
+    },
+    "Waveterm": {
+        "id": "Waveterm",
+        "name": "Waveterm",
+        "matches": []
+    },
+    "WinFun": {
+        "id": "WinFun",
+        "name": "WinFun",
+        "matches": []
+    },
+    "WoW": {
+        "id": "WoW",
+        "name": "WoW",
+        "matches": []
+    },
+    "Xerox": {
+        "id": "Xerox",
+        "name": "Xerox",
+        "matches": {
+            "oldcomputers": [
+                "Xerox"
+            ]
+        }
+    },
+    "Yamaha": {
+        "id": "Yamaha",
+        "name": "Yamaha",
+        "matches": {
+            "oldcomputers": [
+                "Yamaha"
+            ]
+        }
+    },
+    "Yeno": {
+        "id": "Yeno",
+        "name": "Yeno",
+        "matches": {
+            "oldcomputers": [
+                "Yeno"
+            ]
+        }
+    },
+    "ZAPiT Games": {
+        "id": "ZAPiT Games",
+        "name": "ZAPiT Games",
+        "matches": {
+            "launchbox": [
+                "ZAPiT Games"
+            ]
+        }
+    },
+    "Zeebo": {
+        "id": "Zeebo",
+        "name": "Zeebo",
+        "matches": []
+    },
+    "Zilog": {
+        "id": "Zilog",
+        "name": "Zilog",
+        "matches": []
+    },
+    "funworld": {
+        "id": "funworld",
+        "name": "funworld",
+        "matches": []
+    },
+    "iQue": {
+        "id": "iQue",
+        "name": "iQue",
+        "matches": []
+    }
+}

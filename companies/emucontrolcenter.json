@@ -1,0 +1,394 @@
+{
+    "Acorn": {
+        "id": "Acorn",
+        "name": "Acorn"
+    },
+    "Adobe": {
+        "id": "Adobe",
+        "name": "Adobe"
+    },
+    "Amstrad": {
+        "id": "Amstrad",
+        "name": "Amstrad"
+    },
+    "Amstrad/Schneider": {
+        "id": "Amstrad/Schneider",
+        "name": "Amstrad/Schneider"
+    },
+    "APF Electronics": {
+        "id": "APF Electronics",
+        "name": "APF Electronics"
+    },
+    "Apple": {
+        "id": "Apple",
+        "name": "Apple"
+    },
+    "Applied Technologies": {
+        "id": "Applied Technologies",
+        "name": "Applied Technologies"
+    },
+    "Atari": {
+        "id": "Atari",
+        "name": "Atari"
+    },
+    "Bally": {
+        "id": "Bally",
+        "name": "Bally"
+    },
+    "Bandai": {
+        "id": "Bandai",
+        "name": "Bandai"
+    },
+    "Bondwell": {
+        "id": "Bondwell",
+        "name": "Bondwell"
+    },
+    "Camputers": {
+        "id": "Camputers",
+        "name": "Camputers"
+    },
+    "Capcom": {
+        "id": "Capcom",
+        "name": "Capcom"
+    },
+    "Casio": {
+        "id": "Casio",
+        "name": "Casio"
+    },
+    "Sun Microsystems (java)": {
+        "id": "Sun Microsystems (java)",
+        "name": "Sun Microsystems (java)"
+    },
+    "Chip-8": {
+        "id": "Chip-8",
+        "name": "Chip-8"
+    },
+    "Coleco": {
+        "id": "Coleco",
+        "name": "Coleco"
+    },
+    "Commodore": {
+        "id": "Commodore",
+        "name": "Commodore"
+    },
+    "Commodore PET": {
+        "id": "Commodore PET",
+        "name": "Commodore PET"
+    },
+    "Comx WOL": {
+        "id": "Comx WOL",
+        "name": "Comx WOL"
+    },
+    "Cosmac": {
+        "id": "Cosmac",
+        "name": "Cosmac"
+    },
+    "CVT (Creatonic, Videojet, and Timlex)": {
+        "id": "CVT (Creatonic, Videojet, and Timlex)",
+        "name": "CVT (Creatonic, Videojet, and Timlex)"
+    },
+    "Cybiko": {
+        "id": "Cybiko",
+        "name": "Cybiko"
+    },
+    "DEC": {
+        "id": "DEC",
+        "name": "DEC"
+    },
+    "DOSbox": {
+        "id": "DOSbox",
+        "name": "DOSbox"
+    },
+    "Dragon Data": {
+        "id": "Dragon Data",
+        "name": "Dragon Data"
+    },
+    "EACA": {
+        "id": "EACA",
+        "name": "EACA"
+    },
+    "Elektor": {
+        "id": "Elektor",
+        "name": "Elektor"
+    },
+    "Emerson": {
+        "id": "Emerson",
+        "name": "Emerson"
+    },
+    "Enterprise 64/128": {
+        "id": "Enterprise 64/128",
+        "name": "Enterprise 64/128"
+    },
+    "Entex": {
+        "id": "Entex",
+        "name": "Entex"
+    },
+    "Epoch/Yeno": {
+        "id": "Epoch/Yeno",
+        "name": "Epoch/Yeno"
+    },
+    "Exelvision": {
+        "id": "Exelvision",
+        "name": "Exelvision"
+    },
+    "Exidy": {
+        "id": "Exidy",
+        "name": "Exidy"
+    },
+    "Fairchild": {
+        "id": "Fairchild",
+        "name": "Fairchild"
+    },
+    "Fujitsu": {
+        "id": "Fujitsu",
+        "name": "Fujitsu"
+    },
+    "Funtech Entertainment": {
+        "id": "Funtech Entertainment",
+        "name": "Funtech Entertainment"
+    },
+    "Galaksija": {
+        "id": "Galaksija",
+        "name": "Galaksija"
+    },
+    "Game Park": {
+        "id": "Game Park",
+        "name": "Game Park"
+    },
+    "Smith Engineering": {
+        "id": "Smith Engineering",
+        "name": "Smith Engineering"
+    },
+    "Hartung": {
+        "id": "Hartung",
+        "name": "Hartung"
+    },
+    "Híradástechnika Szövetkezet": {
+        "id": "Híradástechnika Szövetkezet",
+        "name": "Híradástechnika Szövetkezet"
+    },
+    "HomeLAB": {
+        "id": "HomeLAB",
+        "name": "HomeLAB"
+    },
+    "IGS": {
+        "id": "IGS",
+        "name": "IGS"
+    },
+    "Interact": {
+        "id": "Interact",
+        "name": "Interact"
+    },
+    "Interton": {
+        "id": "Interton",
+        "name": "Interton"
+    },
+    "Jungle Soft": {
+        "id": "Jungle Soft",
+        "name": "Jungle Soft"
+    },
+    "Jupiter Cantab": {
+        "id": "Jupiter Cantab",
+        "name": "Jupiter Cantab"
+    },
+    "Matra/Hachette": {
+        "id": "Matra/Hachette",
+        "name": "Matra/Hachette"
+    },
+    "Mattel": {
+        "id": "Mattel",
+        "name": "Mattel"
+    },
+    "MCA": {
+        "id": "MCA",
+        "name": "MCA"
+    },
+    "Memotech": {
+        "id": "Memotech",
+        "name": "Memotech"
+    },
+    "Miles Gordon Technology": {
+        "id": "Miles Gordon Technology",
+        "name": "Miles Gordon Technology"
+    },
+    "Microkey": {
+        "id": "Microkey",
+        "name": "Microkey"
+    },
+    "Microsoft": {
+        "id": "Microsoft",
+        "name": "Microsoft"
+    },
+    "Mikrosha": {
+        "id": "Mikrosha",
+        "name": "Mikrosha"
+    },
+    "Sony - Philips - Sanyo - Panasonic...": {
+        "id": "Sony - Philips - Sanyo - Panasonic...",
+        "name": "Sony - Philips - Sanyo - Panasonic..."
+    },
+    "Panasonic": {
+        "id": "Panasonic",
+        "name": "Panasonic"
+    },
+    "Namco": {
+        "id": "Namco",
+        "name": "Namco"
+    },
+    "NEC": {
+        "id": "NEC",
+        "name": "NEC"
+    },
+    "Nintendo": {
+        "id": "Nintendo",
+        "name": "Nintendo"
+    },
+    "Nokia": {
+        "id": "Nokia",
+        "name": "Nokia"
+    },
+    "Oric": {
+        "id": "Oric",
+        "name": "Oric"
+    },
+    "Panasonic, Sanyo and Goldstar": {
+        "id": "Panasonic, Sanyo and Goldstar",
+        "name": "Panasonic, Sanyo and Goldstar"
+    },
+    "Royal Philips Electronics": {
+        "id": "Royal Philips Electronics",
+        "name": "Royal Philips Electronics"
+    },
+    "Phillips": {
+        "id": "Phillips",
+        "name": "Phillips"
+    },
+    "Philips": {
+        "id": "Philips",
+        "name": "Philips"
+    },
+    "Pinball": {
+        "id": "Pinball",
+        "name": "Pinball"
+    },
+    "RCA": {
+        "id": "RCA",
+        "name": "RCA"
+    },
+    "Robotron": {
+        "id": "Robotron",
+        "name": "Robotron"
+    },
+    "ScummVM team": {
+        "id": "ScummVM team",
+        "name": "ScummVM team"
+    },
+    "Sega": {
+        "id": "Sega",
+        "name": "Sega"
+    },
+    "Sega-Sammy Corporation": {
+        "id": "Sega-Sammy Corporation",
+        "name": "Sega-Sammy Corporation"
+    },
+    "Saturn": {
+        "id": "Saturn",
+        "name": "Saturn"
+    },
+    "Seiko/Matsucom": {
+        "id": "Seiko/Matsucom",
+        "name": "Seiko/Matsucom"
+    },
+    "Sharp": {
+        "id": "Sharp",
+        "name": "Sharp"
+    },
+    "Pipbug": {
+        "id": "Pipbug",
+        "name": "Pipbug"
+    },
+    "Sinclair": {
+        "id": "Sinclair",
+        "name": "Sinclair"
+    },
+    "Sinclair Research": {
+        "id": "Sinclair Research",
+        "name": "Sinclair Research"
+    },
+    "SNK": {
+        "id": "SNK",
+        "name": "SNK"
+    },
+    "Sony Computer Entertainment": {
+        "id": "Sony Computer Entertainment",
+        "name": "Sony Computer Entertainment"
+    },
+    "Sony": {
+        "id": "Sony",
+        "name": "Sony"
+    },
+    "Sord": {
+        "id": "Sord",
+        "name": "Sord"
+    },
+    "Spectravideo": {
+        "id": "Spectravideo",
+        "name": "Spectravideo"
+    },
+    "Taito": {
+        "id": "Taito",
+        "name": "Taito"
+    },
+    "Tandy/Radio Shack": {
+        "id": "Tandy/Radio Shack",
+        "name": "Tandy/Radio Shack"
+    },
+    "Tatung": {
+        "id": "Tatung",
+        "name": "Tatung"
+    },
+    "Tesla": {
+        "id": "Tesla",
+        "name": "Tesla"
+    },
+    "Texas Instruments": {
+        "id": "Texas Instruments",
+        "name": "Texas Instruments"
+    },
+    "Thomson": {
+        "id": "Thomson",
+        "name": "Thomson"
+    },
+    "Tiger Electronics": {
+        "id": "Tiger Electronics",
+        "name": "Tiger Electronics"
+    },
+    "Tomy": {
+        "id": "Tomy",
+        "name": "Tomy"
+    },
+    "V. I. Lenin": {
+        "id": "V. I. Lenin",
+        "name": "V. I. Lenin"
+    },
+    "Videoton": {
+        "id": "Videoton",
+        "name": "Videoton"
+    },
+    "VTech": {
+        "id": "VTech",
+        "name": "VTech"
+    },
+    "Video Technology": {
+        "id": "Video Technology",
+        "name": "Video Technology"
+    },
+    "Vtech": {
+        "id": "Vtech",
+        "name": "Vtech"
+    },
+    "Watara": {
+        "id": "Watara",
+        "name": "Watara"
+    }
+}

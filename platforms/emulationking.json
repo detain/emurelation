@@ -1,0 +1,206 @@
+{
+    "nintendoswitch": {
+        "id": "nintendoswitch",
+        "name": "Nintendo Switch",
+        "shortName": "nintendoswitch",
+        "company": "nintendo"
+    },
+    "wii-u": {
+        "id": "wii-u",
+        "name": "Nintendo Wii U",
+        "shortName": "wii-u",
+        "company": "nintendo"
+    },
+    "nintendo-3ds": {
+        "id": "nintendo-3ds",
+        "name": "Nintendo 3DS",
+        "shortName": "nintendo-3ds",
+        "company": "nintendo"
+    },
+    "wii": {
+        "id": "wii",
+        "name": "Nintendo Wii",
+        "shortName": "wii",
+        "company": "nintendo"
+    },
+    "nintendods": {
+        "id": "nintendods",
+        "name": "Nintendo DS",
+        "shortName": "nintendods",
+        "company": "nintendo"
+    },
+    "gamecube": {
+        "id": "gamecube",
+        "name": "Nintendo GameCube",
+        "shortName": "gamecube",
+        "company": "nintendo"
+    },
+    "gameboyadvance": {
+        "id": "gameboyadvance",
+        "name": "Game Boy Advance",
+        "shortName": "gameboyadvance",
+        "company": "nintendo"
+    },
+    "gameboycolor": {
+        "id": "gameboycolor",
+        "name": "Game Boy Color",
+        "shortName": "gameboycolor",
+        "company": "nintendo"
+    },
+    "nintendo64": {
+        "id": "nintendo64",
+        "name": "Nintendo 64",
+        "shortName": "nintendo64",
+        "company": "nintendo"
+    },
+    "virtualboy": {
+        "id": "virtualboy",
+        "name": "Virtual Boy",
+        "shortName": "virtualboy",
+        "company": "nintendo"
+    },
+    "snes": {
+        "id": "snes",
+        "name": "SNES / Super Famicon",
+        "shortName": "snes",
+        "company": "nintendo"
+    },
+    "nes": {
+        "id": "nes",
+        "name": "NES / Famicon",
+        "shortName": "nes",
+        "company": "nintendo"
+    },
+    "playstation5": {
+        "id": "playstation5",
+        "name": "PlayStation 5",
+        "shortName": "playstation5",
+        "company": "sony"
+    },
+    "playstation4": {
+        "id": "playstation4",
+        "name": "PlayStation 4",
+        "shortName": "playstation4",
+        "company": "sony"
+    },
+    "psvita": {
+        "id": "psvita",
+        "name": "PlayStation Vita",
+        "shortName": "psvita",
+        "company": "sony"
+    },
+    "playstation3": {
+        "id": "playstation3",
+        "name": "PlayStation 3",
+        "shortName": "playstation3",
+        "company": "sony"
+    },
+    "playstationportable": {
+        "id": "playstationportable",
+        "name": "PSP",
+        "shortName": "playstationportable",
+        "company": "sony"
+    },
+    "playstation2": {
+        "id": "playstation2",
+        "name": "PlayStation 2",
+        "shortName": "playstation2",
+        "company": "sony"
+    },
+    "psx": {
+        "id": "psx",
+        "name": "PlayStation",
+        "shortName": "psx",
+        "company": "sony"
+    },
+    "segadreamcast": {
+        "id": "segadreamcast",
+        "name": "Dreamcast",
+        "shortName": "segadreamcast",
+        "company": "sega"
+    },
+    "segasaturn": {
+        "id": "segasaturn",
+        "name": "SEGA Saturn",
+        "shortName": "segasaturn",
+        "company": "sega"
+    },
+    "segagenesis": {
+        "id": "segagenesis",
+        "name": "SEGA Genesis",
+        "shortName": "segagenesis",
+        "company": "sega"
+    },
+    "segamastersystem": {
+        "id": "segamastersystem",
+        "name": "Master System",
+        "shortName": "segamastersystem",
+        "company": "sega"
+    },
+    "sg-1000": {
+        "id": "sg-1000",
+        "name": "SG-1000",
+        "shortName": "sg-1000",
+        "company": "sega"
+    },
+    "xboxseries": {
+        "id": "xboxseries",
+        "name": "Xbox Series X/S",
+        "shortName": "xboxseries",
+        "company": "microsoft"
+    },
+    "xboxone": {
+        "id": "xboxone",
+        "name": "Xbox One",
+        "shortName": "xboxone",
+        "company": "microsoft"
+    },
+    "xbox360": {
+        "id": "xbox360",
+        "name": "Xbox 360",
+        "shortName": "xbox360",
+        "company": "microsoft"
+    },
+    "xbox": {
+        "id": "xbox",
+        "name": "Xbox",
+        "shortName": "xbox",
+        "company": "microsoft"
+    },
+    "ms-dos": {
+        "id": "ms-dos",
+        "name": "MS-DOS",
+        "shortName": "ms-dos",
+        "company": "microsoft"
+    },
+    "atarijaguar": {
+        "id": "atarijaguar",
+        "name": "Atari Jaguar",
+        "shortName": "atarijaguar",
+        "company": "atari"
+    },
+    "atarilynx": {
+        "id": "atarilynx",
+        "name": "Atari Lynx",
+        "shortName": "atarilynx",
+        "company": "atari"
+    },
+    "atari7800": {
+        "id": "atari7800",
+        "name": "Atari 7800 System",
+        "shortName": "atari7800",
+        "company": "atari"
+    },
+    "atari5200": {
+        "id": "atari5200",
+        "name": "Atari 5200 System",
+        "shortName": "atari5200",
+        "company": "atari"
+    },
+    "atari2600": {
+        "id": "atari2600",
+        "name": "Atari 2600 System",
+        "shortName": "atari2600",
+        "company": "atari"
+    }
+}

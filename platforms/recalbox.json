@@ -1,0 +1,1514 @@
+{
+    "2048": {
+        "id": "2048",
+        "shortName": "2048",
+        "name": "2048",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "240ptestsuite": {
+        "id": "240ptestsuite",
+        "shortName": "240ptestsuite",
+        "name": "240ptestsuite",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "virtual",
+        "company": "virtual"
+    },
+    "3do": {
+        "id": "3do",
+        "shortName": "3do",
+        "name": "Panasonic 3DO",
+        "matches": {
+            "screenscraper": [
+                "29"
+            ]
+        },
+        "manufacturer": "Panasonic",
+        "company": "Panasonic"
+    },
+    "64dd": {
+        "id": "64dd",
+        "shortName": "64dd",
+        "name": "Nintendo 64DD",
+        "matches": {
+            "screenscraper": [
+                "122"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "amiga1200": {
+        "id": "amiga1200",
+        "shortName": "amiga1200",
+        "name": "Amiga 1200",
+        "matches": {
+            "screenscraper": [
+                "111"
+            ]
+        },
+        "manufacturer": "Commodore",
+        "company": "Commodore"
+    },
+    "amiga600": {
+        "id": "amiga600",
+        "shortName": "amiga600",
+        "name": "Amiga 600",
+        "matches": {
+            "screenscraper": [
+                "64"
+            ]
+        },
+        "manufacturer": "Commodore",
+        "company": "Commodore"
+    },
+    "amigacd32": {
+        "id": "amigacd32",
+        "shortName": "amigacd32",
+        "name": "Amiga CD32",
+        "matches": {
+            "screenscraper": [
+                "130"
+            ]
+        },
+        "manufacturer": "Commodore",
+        "company": "Commodore"
+    },
+    "amigacdtv": {
+        "id": "amigacdtv",
+        "shortName": "amigacdtv",
+        "name": "Amiga CDTV",
+        "matches": {
+            "screenscraper": [
+                "129"
+            ]
+        },
+        "manufacturer": "Commodore",
+        "company": "Commodore"
+    },
+    "amstradcpc": {
+        "id": "amstradcpc",
+        "shortName": "amstradcpc",
+        "name": "AmstradCPC",
+        "matches": {
+            "screenscraper": [
+                "65"
+            ]
+        },
+        "manufacturer": "Amstrad",
+        "company": "Amstrad"
+    },
+    "apple2": {
+        "id": "apple2",
+        "shortName": "apple2",
+        "name": "Apple II",
+        "matches": {
+            "screenscraper": [
+                "86"
+            ]
+        },
+        "manufacturer": "Apple",
+        "company": "Apple"
+    },
+    "apple2gs": {
+        "id": "apple2gs",
+        "shortName": "apple2gs",
+        "name": "Apple IIGS",
+        "matches": {
+            "screenscraper": [
+                "217"
+            ]
+        },
+        "manufacturer": "Apple",
+        "company": "Apple"
+    },
+    "atari2600": {
+        "id": "atari2600",
+        "shortName": "atari2600",
+        "name": "Atari 2600",
+        "matches": {
+            "screenscraper": [
+                "26"
+            ]
+        },
+        "manufacturer": "Atari",
+        "company": "Atari"
+    },
+    "atari5200": {
+        "id": "atari5200",
+        "shortName": "atari5200",
+        "name": "Atari 5200",
+        "matches": {
+            "screenscraper": [
+                "40"
+            ]
+        },
+        "manufacturer": "Atari",
+        "company": "Atari"
+    },
+    "atari7800": {
+        "id": "atari7800",
+        "shortName": "atari7800",
+        "name": "Atari 7800",
+        "matches": {
+            "screenscraper": [
+                "41"
+            ]
+        },
+        "manufacturer": "Atari",
+        "company": "Atari"
+    },
+    "atari800": {
+        "id": "atari800",
+        "shortName": "atari800",
+        "name": "Atari 800",
+        "matches": {
+            "screenscraper": [
+                "43"
+            ]
+        },
+        "manufacturer": "Atari",
+        "company": "Atari"
+    },
+    "atarist": {
+        "id": "atarist",
+        "shortName": "atarist",
+        "name": "Atari ST",
+        "matches": {
+            "screenscraper": [
+                "42"
+            ]
+        },
+        "manufacturer": "Atari",
+        "company": "Atari"
+    },
+    "atomiswave": {
+        "id": "atomiswave",
+        "shortName": "atomiswave",
+        "name": "Sammy Atomiswave",
+        "matches": {
+            "screenscraper": [
+                "53"
+            ]
+        },
+        "manufacturer": "Sammy",
+        "company": "Sammy"
+    },
+    "bbcmicro": {
+        "id": "bbcmicro",
+        "shortName": "bbcmicro",
+        "name": "Acorn BBC Micro",
+        "matches": {
+            "screenscraper": [
+                "37"
+            ]
+        },
+        "manufacturer": "Acorn",
+        "company": "Acorn"
+    },
+    "bk": {
+        "id": "bk",
+        "shortName": "bk",
+        "name": "Elektronika BK",
+        "matches": {
+            "screenscraper": [
+                "93"
+            ]
+        },
+        "manufacturer": "Elektronika",
+        "company": "Elektronika"
+    },
+    "c64": {
+        "id": "c64",
+        "shortName": "c64",
+        "name": "Commodore 64",
+        "matches": {
+            "screenscraper": [
+                "66"
+            ]
+        },
+        "manufacturer": "Commodore",
+        "company": "Commodore"
+    },
+    "cavestory": {
+        "id": "cavestory",
+        "shortName": "cavestory",
+        "name": "Cave Story",
+        "matches": {
+            "screenscraper": [
+                "138"
+            ]
+        },
+        "manufacturer": "Studio Pixel",
+        "company": "Studio Pixel"
+    },
+    "cdi": {
+        "id": "cdi",
+        "shortName": "cdi",
+        "name": "Philips CD-I",
+        "matches": {
+            "screenscraper": [
+                "133"
+            ]
+        },
+        "manufacturer": "Phillips",
+        "company": "Phillips"
+    },
+    "channelf": {
+        "id": "channelf",
+        "shortName": "channelf",
+        "name": "Fairchild Channel F",
+        "matches": {
+            "screenscraper": [
+                "80"
+            ]
+        },
+        "manufacturer": "Fairchild",
+        "company": "Fairchild"
+    },
+    "colecovision": {
+        "id": "colecovision",
+        "shortName": "colecovision",
+        "name": "Colecovision",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "Coleco",
+        "company": "Coleco"
+    },
+    "daphne": {
+        "id": "daphne",
+        "shortName": "daphne",
+        "name": "Daphne",
+        "matches": {
+            "screenscraper": [
+                "49"
+            ]
+        },
+        "manufacturer": "Daphne",
+        "company": "Daphne"
+    },
+    "dinothawr": {
+        "id": "dinothawr",
+        "shortName": "dinothawr",
+        "name": "Dinothawr",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "doom": {
+        "id": "doom",
+        "shortName": "doom",
+        "name": "Doom",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "IdSoftware",
+        "company": "IdSoftware"
+    },
+    "doom3": {
+        "id": "doom3",
+        "shortName": "doom3",
+        "name": "Doom 3",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "IdSoftware",
+        "company": "IdSoftware"
+    },
+    "dos": {
+        "id": "dos",
+        "shortName": "dos",
+        "name": "Dos (x86)",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "IBM",
+        "company": "IBM"
+    },
+    "dragon": {
+        "id": "dragon",
+        "shortName": "dragon",
+        "name": "Dragon 32/64",
+        "matches": {
+            "screenscraper": [
+                "144"
+            ]
+        },
+        "manufacturer": "DragonData",
+        "company": "DragonData"
+    },
+    "dreamcast": {
+        "id": "dreamcast",
+        "shortName": "dreamcast",
+        "name": "Sega Dreamcast",
+        "matches": {
+            "screenscraper": [
+                "23"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "dungeoncrawlstonesoup": {
+        "id": "dungeoncrawlstonesoup",
+        "shortName": "dungeoncrawlstonesoup",
+        "name": "Dungeon Crawl Stone Soup",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "easyrpg": {
+        "id": "easyrpg",
+        "shortName": "easyrpg",
+        "name": "EasyRPG",
+        "matches": {
+            "screenscraper": [
+                "231"
+            ]
+        },
+        "manufacturer": "virtual",
+        "company": "virtual"
+    },
+    "fba": {
+        "id": "fba",
+        "shortName": "fba",
+        "name": "FinalBurn Alpha 2x",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ]
+        },
+        "manufacturer": "FBA",
+        "company": "FBA"
+    },
+    "fbneo": {
+        "id": "fbneo",
+        "shortName": "fbneo",
+        "name": "FinalBurn Neo",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ]
+        },
+        "manufacturer": "FBN",
+        "company": "FBN"
+    },
+    "fds": {
+        "id": "fds",
+        "shortName": "fds",
+        "name": "Family Computer Disk System",
+        "matches": {
+            "screenscraper": [
+                "106"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "flashback": {
+        "id": "flashback",
+        "shortName": "flashback",
+        "name": "Flashback",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "Delphine",
+        "company": "Delphine"
+    },
+    "gamecube": {
+        "id": "gamecube",
+        "shortName": "gamecube",
+        "name": "GameCube",
+        "matches": {
+            "screenscraper": [
+                "13"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "gamegear": {
+        "id": "gamegear",
+        "shortName": "gamegear",
+        "name": "Sega Game Gear",
+        "matches": {
+            "screenscraper": [
+                "21"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "gb": {
+        "id": "gb",
+        "shortName": "gb",
+        "name": "Game Boy",
+        "matches": {
+            "screenscraper": [
+                "9"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "gba": {
+        "id": "gba",
+        "shortName": "gba",
+        "name": "Game Boy Advance",
+        "matches": {
+            "screenscraper": [
+                "12"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "gbc": {
+        "id": "gbc",
+        "shortName": "gbc",
+        "name": "Game Boy Color",
+        "matches": {
+            "screenscraper": [
+                "10"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "gong": {
+        "id": "gong",
+        "shortName": "gong",
+        "name": "Gong",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "gw": {
+        "id": "gw",
+        "shortName": "gw",
+        "name": "Game and Watch",
+        "matches": {
+            "screenscraper": [
+                "52"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "gx4000": {
+        "id": "gx4000",
+        "shortName": "gx4000",
+        "name": "Amstrad GX4000",
+        "matches": {
+            "screenscraper": [
+                "87"
+            ]
+        },
+        "manufacturer": "Amstrad",
+        "company": "Amstrad"
+    },
+    "imageviewer": {
+        "id": "imageviewer",
+        "shortName": "imageviewer",
+        "name": "Screenshots",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "virtual",
+        "company": "virtual"
+    },
+    "intellivision": {
+        "id": "intellivision",
+        "shortName": "intellivision",
+        "name": "Mattel Intellivision",
+        "matches": {
+            "screenscraper": [
+                "115"
+            ]
+        },
+        "manufacturer": "Mattel",
+        "company": "Mattel"
+    },
+    "jaguar": {
+        "id": "jaguar",
+        "shortName": "jaguar",
+        "name": "Atari Jaguar",
+        "matches": {
+            "screenscraper": [
+                "27"
+            ]
+        },
+        "manufacturer": "Atari",
+        "company": "Atari"
+    },
+    "lowresnx": {
+        "id": "lowresnx",
+        "shortName": "lowresnx",
+        "name": "LowRes NX",
+        "matches": {
+            "screenscraper": [
+                "244"
+            ]
+        },
+        "manufacturer": "virtual",
+        "company": "virtual"
+    },
+    "lutro": {
+        "id": "lutro",
+        "shortName": "lutro",
+        "name": "Lutro",
+        "matches": {
+            "screenscraper": [
+                "206"
+            ]
+        },
+        "manufacturer": "virtual",
+        "company": "virtual"
+    },
+    "lynx": {
+        "id": "lynx",
+        "shortName": "lynx",
+        "name": "Lynx",
+        "matches": {
+            "screenscraper": [
+                "28"
+            ]
+        },
+        "manufacturer": "Atari",
+        "company": "Atari"
+    },
+    "macintosh": {
+        "id": "macintosh",
+        "shortName": "macintosh",
+        "name": "Apple Macintosh",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "mame": {
+        "id": "mame",
+        "shortName": "mame",
+        "name": "Mame",
+        "matches": {
+            "screenscraper": [
+                "75"
+            ]
+        },
+        "manufacturer": "Mame",
+        "company": "Mame"
+    },
+    "mastersystem": {
+        "id": "mastersystem",
+        "shortName": "mastersystem",
+        "name": "Sega Master System / Mark III",
+        "matches": {
+            "screenscraper": [
+                "2"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "megadrive": {
+        "id": "megadrive",
+        "shortName": "megadrive",
+        "name": "Sega Megadrive",
+        "matches": {
+            "screenscraper": [
+                "1"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "megaduck": {
+        "id": "megaduck",
+        "shortName": "megaduck",
+        "name": "MegaDuck",
+        "matches": {
+            "screenscraper": [
+                "90"
+            ]
+        },
+        "manufacturer": "Welback",
+        "company": "Welback"
+    },
+    "minecraft": {
+        "id": "minecraft",
+        "shortName": "minecraft",
+        "name": "Minecraft",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "Mojang",
+        "company": "Mojang"
+    },
+    "model3": {
+        "id": "model3",
+        "shortName": "model3",
+        "name": "Sega Model3",
+        "matches": {
+            "screenscraper": [
+                "55"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "moonlight": {
+        "id": "moonlight",
+        "shortName": "moonlight",
+        "name": "Moonlight",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "NVidia",
+        "company": "NVidia"
+    },
+    "mrboom": {
+        "id": "mrboom",
+        "shortName": "mrboom",
+        "name": "Mr. Boom",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "msx1": {
+        "id": "msx1",
+        "shortName": "msx1",
+        "name": "MSX1",
+        "matches": {
+            "screenscraper": [
+                "113"
+            ]
+        },
+        "manufacturer": "Microsoft",
+        "company": "Microsoft"
+    },
+    "msx2": {
+        "id": "msx2",
+        "shortName": "msx2",
+        "name": "MSX2",
+        "matches": {
+            "screenscraper": [
+                "116"
+            ]
+        },
+        "manufacturer": "Microsoft",
+        "company": "Microsoft"
+    },
+    "msxturbor": {
+        "id": "msxturbor",
+        "shortName": "msxturbor",
+        "name": "MSXturboR",
+        "matches": {
+            "screenscraper": [
+                "118"
+            ]
+        },
+        "manufacturer": "Microsoft",
+        "company": "Microsoft"
+    },
+    "multivision": {
+        "id": "multivision",
+        "shortName": "multivision",
+        "name": "Othello Multivision",
+        "matches": {
+            "screenscraper": [
+                "109"
+            ]
+        },
+        "manufacturer": "Tsukuda",
+        "company": "Tsukuda"
+    },
+    "n64": {
+        "id": "n64",
+        "shortName": "n64",
+        "name": "Nintendo 64",
+        "matches": {
+            "screenscraper": [
+                "14"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "naomi": {
+        "id": "naomi",
+        "shortName": "naomi",
+        "name": "Sega NAOMI",
+        "matches": {
+            "screenscraper": [
+                "56"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "naomigd": {
+        "id": "naomigd",
+        "shortName": "naomigd",
+        "name": "Sega NAOMI GD-ROM System",
+        "matches": {
+            "screenscraper": [
+                "227"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "nds": {
+        "id": "nds",
+        "shortName": "nds",
+        "name": "Nintendo DS",
+        "matches": {
+            "screenscraper": [
+                "15"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "neogeo": {
+        "id": "neogeo",
+        "shortName": "neogeo",
+        "name": "Neo-Geo",
+        "matches": {
+            "screenscraper": [
+                "142"
+            ]
+        },
+        "manufacturer": "SNK",
+        "company": "SNK"
+    },
+    "neogeocd": {
+        "id": "neogeocd",
+        "shortName": "neogeocd",
+        "name": "Neo-Geo CD",
+        "matches": {
+            "screenscraper": [
+                "70"
+            ]
+        },
+        "manufacturer": "SNK",
+        "company": "SNK"
+    },
+    "nes": {
+        "id": "nes",
+        "shortName": "nes",
+        "name": "Nintendo Entertainment System",
+        "matches": {
+            "screenscraper": [
+                "3"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "ngp": {
+        "id": "ngp",
+        "shortName": "ngp",
+        "name": "Neo-Geo Pocket",
+        "matches": {
+            "screenscraper": [
+                "25"
+            ]
+        },
+        "manufacturer": "SNK",
+        "company": "SNK"
+    },
+    "ngpc": {
+        "id": "ngpc",
+        "shortName": "ngpc",
+        "name": "Neo-Geo Pocket Color",
+        "matches": {
+            "screenscraper": [
+                "82"
+            ]
+        },
+        "manufacturer": "SNK",
+        "company": "SNK"
+    },
+    "o2em": {
+        "id": "o2em",
+        "shortName": "o2em",
+        "name": "Odyssey2",
+        "matches": {
+            "screenscraper": [
+                "104"
+            ]
+        },
+        "manufacturer": "Magnavox",
+        "company": "Magnavox"
+    },
+    "openbor": {
+        "id": "openbor",
+        "shortName": "openbor",
+        "name": "OpenBOR",
+        "matches": {
+            "screenscraper": [
+                "214"
+            ]
+        },
+        "manufacturer": "Senile Team",
+        "company": "Senile Team"
+    },
+    "oricatmos": {
+        "id": "oricatmos",
+        "shortName": "oricatmos",
+        "name": "Oric/Atmos",
+        "matches": {
+            "screenscraper": [
+                "131"
+            ]
+        },
+        "manufacturer": "Tangerine",
+        "company": "Tangerine"
+    },
+    "outrun": {
+        "id": "outrun",
+        "shortName": "outrun",
+        "name": "Out Run",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "palm": {
+        "id": "palm",
+        "shortName": "palm",
+        "name": "Palm",
+        "matches": {
+            "screenscraper": [
+                "219"
+            ]
+        },
+        "manufacturer": "Palm",
+        "company": "Palm"
+    },
+    "pc88": {
+        "id": "pc88",
+        "shortName": "pc88",
+        "name": "NEC PC-88",
+        "matches": {
+            "screenscraper": [
+                "221"
+            ]
+        },
+        "manufacturer": "NEC",
+        "company": "NEC"
+    },
+    "pc98": {
+        "id": "pc98",
+        "shortName": "pc98",
+        "name": "NEC PC-98",
+        "matches": {
+            "screenscraper": [
+                "208"
+            ]
+        },
+        "manufacturer": "NEC",
+        "company": "NEC"
+    },
+    "pcengine": {
+        "id": "pcengine",
+        "shortName": "pcengine",
+        "name": "PC Engine",
+        "matches": {
+            "screenscraper": [
+                "31"
+            ]
+        },
+        "manufacturer": "NEC",
+        "company": "NEC"
+    },
+    "pcenginecd": {
+        "id": "pcenginecd",
+        "shortName": "pcenginecd",
+        "name": "PC Engine CD",
+        "matches": {
+            "screenscraper": [
+                "114"
+            ]
+        },
+        "manufacturer": "NEC",
+        "company": "NEC"
+    },
+    "pcfx": {
+        "id": "pcfx",
+        "shortName": "pcfx",
+        "name": "NEC PC-FX",
+        "matches": {
+            "screenscraper": [
+                "72"
+            ]
+        },
+        "manufacturer": "NEC",
+        "company": "NEC"
+    },
+    "pcv2": {
+        "id": "pcv2",
+        "shortName": "pcv2",
+        "name": "Pocket Challenge v2",
+        "matches": {
+            "screenscraper": [
+                "237"
+            ]
+        },
+        "manufacturer": "Benesse",
+        "company": "Benesse"
+    },
+    "pico8": {
+        "id": "pico8",
+        "shortName": "pico8",
+        "name": "PICO-8",
+        "matches": {
+            "screenscraper": [
+                "234"
+            ]
+        },
+        "manufacturer": "virtual",
+        "company": "virtual"
+    },
+    "pokemini": {
+        "id": "pokemini",
+        "shortName": "pokemini",
+        "name": "Pokémon Mini",
+        "matches": {
+            "screenscraper": [
+                "211"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "ps2": {
+        "id": "ps2",
+        "shortName": "ps2",
+        "name": "Sony Playstation 2",
+        "matches": {
+            "screenscraper": [
+                "58"
+            ]
+        },
+        "manufacturer": "Sony",
+        "company": "Sony"
+    },
+    "psp": {
+        "id": "psp",
+        "shortName": "psp",
+        "name": "Sony Playstation Portable",
+        "matches": {
+            "screenscraper": [
+                "61"
+            ]
+        },
+        "manufacturer": "Sony",
+        "company": "Sony"
+    },
+    "psx": {
+        "id": "psx",
+        "shortName": "psx",
+        "name": "Sony Playstation 1",
+        "matches": {
+            "screenscraper": [
+                "57"
+            ]
+        },
+        "manufacturer": "Sony",
+        "company": "Sony"
+    },
+    "quake": {
+        "id": "quake",
+        "shortName": "quake",
+        "name": "Quake",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "IdSoftware",
+        "company": "IdSoftware"
+    },
+    "quake2": {
+        "id": "quake2",
+        "shortName": "quake2",
+        "name": "Quake 2",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "IdSoftware",
+        "company": "IdSoftware"
+    },
+    "quake3": {
+        "id": "quake3",
+        "shortName": "quake3",
+        "name": "Quake 3",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "IdSoftware",
+        "company": "IdSoftware"
+    },
+    "rickdangerous": {
+        "id": "rickdangerous",
+        "shortName": "rickdangerous",
+        "name": "Rick Dangerous",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "Core Design",
+        "company": "Core Design"
+    },
+    "samcoupe": {
+        "id": "samcoupe",
+        "shortName": "samcoupe",
+        "name": "MGT SAM Coupé",
+        "matches": {
+            "screenscraper": [
+                "213"
+            ]
+        },
+        "manufacturer": "MGT",
+        "company": "MGT"
+    },
+    "satellaview": {
+        "id": "satellaview",
+        "shortName": "satellaview",
+        "name": "Satellaview",
+        "matches": {
+            "screenscraper": [
+                "107"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "saturn": {
+        "id": "saturn",
+        "shortName": "saturn",
+        "name": "Sega Saturn",
+        "matches": {
+            "screenscraper": [
+                "22"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "scummvm": {
+        "id": "scummvm",
+        "shortName": "scummvm",
+        "name": "ScummVM",
+        "matches": {
+            "screenscraper": [
+                "123"
+            ]
+        },
+        "manufacturer": "Ludvig Strigeus",
+        "company": "Ludvig Strigeus"
+    },
+    "scv": {
+        "id": "scv",
+        "shortName": "scv",
+        "name": "Super Cassette Vision",
+        "matches": {
+            "screenscraper": [
+                "67"
+            ]
+        },
+        "manufacturer": "Epoch",
+        "company": "Epoch"
+    },
+    "sega32x": {
+        "id": "sega32x",
+        "shortName": "sega32x",
+        "name": "Sega 32X",
+        "matches": {
+            "screenscraper": [
+                "19"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "segacd": {
+        "id": "segacd",
+        "shortName": "segacd",
+        "name": "Sega CD",
+        "matches": {
+            "screenscraper": [
+                "20"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "sg1000": {
+        "id": "sg1000",
+        "shortName": "sg1000",
+        "name": "Sega SG1000",
+        "matches": {
+            "screenscraper": [
+                "109"
+            ]
+        },
+        "manufacturer": "Sega",
+        "company": "Sega"
+    },
+    "snes": {
+        "id": "snes",
+        "shortName": "snes",
+        "name": "Super Nintendo Entertainment System",
+        "matches": {
+            "screenscraper": [
+                "4"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "solarus": {
+        "id": "solarus",
+        "shortName": "solarus",
+        "name": "Solarus",
+        "matches": {
+            "screenscraper": [
+                "223"
+            ]
+        },
+        "manufacturer": "Solarus",
+        "company": "Solarus"
+    },
+    "spectravideo": {
+        "id": "spectravideo",
+        "shortName": "spectravideo",
+        "name": "Spectravideo",
+        "matches": {
+            "screenscraper": [
+                "218"
+            ]
+        },
+        "manufacturer": "Spectravideo",
+        "company": "Spectravideo"
+    },
+    "startrekvoyager": {
+        "id": "startrekvoyager",
+        "shortName": "startrekvoyager",
+        "name": "Star Trek Voyager",
+        "matches": {
+            "screenscraper": [
+                "0"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "sufami": {
+        "id": "sufami",
+        "shortName": "sufami",
+        "name": "SuFami Turbo",
+        "matches": {
+            "screenscraper": [
+                "4"
+            ]
+        },
+        "manufacturer": "Bandai",
+        "company": "Bandai"
+    },
+    "supergrafx": {
+        "id": "supergrafx",
+        "shortName": "supergrafx",
+        "name": "Supergrafx",
+        "matches": {
+            "screenscraper": [
+                "105"
+            ]
+        },
+        "manufacturer": "NEC",
+        "company": "NEC"
+    },
+    "supervision": {
+        "id": "supervision",
+        "shortName": "supervision",
+        "name": "Watara Supervision",
+        "matches": {
+            "screenscraper": [
+                "207"
+            ]
+        },
+        "manufacturer": "Watara",
+        "company": "Watara"
+    },
+    "thepowdertoy": {
+        "id": "thepowdertoy",
+        "shortName": "thepowdertoy",
+        "name": "The Powder Toy",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "thomson": {
+        "id": "thomson",
+        "shortName": "thomson",
+        "name": "Thomson",
+        "matches": {
+            "screenscraper": [
+                "141"
+            ]
+        },
+        "manufacturer": "Thomson",
+        "company": "Thomson"
+    },
+    "ti994a": {
+        "id": "ti994a",
+        "shortName": "ti994a",
+        "name": "Texas Instrument TI-99/4A",
+        "matches": {
+            "screenscraper": [
+                "205"
+            ]
+        },
+        "manufacturer": "Texas Instrument",
+        "company": "Texas Instrument"
+    },
+    "tic80": {
+        "id": "tic80",
+        "shortName": "tic80",
+        "name": "TIC-80",
+        "matches": {
+            "screenscraper": [
+                "222"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "trs80coco": {
+        "id": "trs80coco",
+        "shortName": "trs80coco",
+        "name": "TRS-80 Color Computer",
+        "matches": {
+            "screenscraper": [
+                "144"
+            ]
+        },
+        "manufacturer": "Tandy",
+        "company": "Tandy"
+    },
+    "uzebox": {
+        "id": "uzebox",
+        "shortName": "uzebox",
+        "name": "Uzebox",
+        "matches": {
+            "screenscraper": [
+                "216"
+            ]
+        },
+        "manufacturer": "port",
+        "company": "port"
+    },
+    "vectrex": {
+        "id": "vectrex",
+        "shortName": "vectrex",
+        "name": "Vectrex",
+        "matches": {
+            "screenscraper": [
+                "102"
+            ]
+        },
+        "manufacturer": "MB",
+        "company": "MB"
+    },
+    "vic20": {
+        "id": "vic20",
+        "shortName": "vic20",
+        "name": "Commodore VIC-20",
+        "matches": {
+            "screenscraper": [
+                "73"
+            ]
+        },
+        "manufacturer": "Commodore",
+        "company": "Commodore"
+    },
+    "videopacplus": {
+        "id": "videopacplus",
+        "shortName": "videopacplus",
+        "name": "Videopac+ G7400",
+        "matches": {
+            "screenscraper": [
+                "104"
+            ]
+        },
+        "manufacturer": "Philips",
+        "company": "Philips"
+    },
+    "virtualboy": {
+        "id": "virtualboy",
+        "shortName": "virtualboy",
+        "name": "Virtual Boy",
+        "matches": {
+            "screenscraper": [
+                "11"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "wii": {
+        "id": "wii",
+        "shortName": "wii",
+        "name": "Wii",
+        "matches": {
+            "screenscraper": [
+                "16"
+            ]
+        },
+        "manufacturer": "Nintendo",
+        "company": "Nintendo"
+    },
+    "wolfenstein3d": {
+        "id": "wolfenstein3d",
+        "shortName": "wolfenstein3d",
+        "name": "Wolfenstein 3D",
+        "matches": {
+            "screenscraper": [
+                "135"
+            ]
+        },
+        "manufacturer": "IdSoftware",
+        "company": "IdSoftware"
+    },
+    "wswan": {
+        "id": "wswan",
+        "shortName": "wswan",
+        "name": "WonderSwan",
+        "matches": {
+            "screenscraper": [
+                "45"
+            ]
+        },
+        "manufacturer": "Bandai",
+        "company": "Bandai"
+    },
+    "wswanc": {
+        "id": "wswanc",
+        "shortName": "wswanc",
+        "name": "WonderSwan Color",
+        "matches": {
+            "screenscraper": [
+                "46"
+            ]
+        },
+        "manufacturer": "Bandai",
+        "company": "Bandai"
+    },
+    "x1": {
+        "id": "x1",
+        "shortName": "x1",
+        "name": "Sharp X1",
+        "matches": {
+            "screenscraper": [
+                "220"
+            ]
+        },
+        "manufacturer": "Sharp",
+        "company": "Sharp"
+    },
+    "x68000": {
+        "id": "x68000",
+        "shortName": "x68000",
+        "name": "Sharp X68000",
+        "matches": {
+            "screenscraper": [
+                "79"
+            ]
+        },
+        "manufacturer": "Sharp",
+        "company": "Sharp"
+    },
+    "zx81": {
+        "id": "zx81",
+        "shortName": "zx81",
+        "name": "ZX81",
+        "matches": {
+            "screenscraper": [
+                "77"
+            ]
+        },
+        "manufacturer": "Sinclair",
+        "company": "Sinclair"
+    },
+    "zxspectrum": {
+        "id": "zxspectrum",
+        "shortName": "zxspectrum",
+        "name": "ZXSpectrum",
+        "matches": {
+            "screenscraper": [
+                "76"
+            ]
+        },
+        "manufacturer": "Sinclair",
+        "company": "Sinclair"
+    }
+}

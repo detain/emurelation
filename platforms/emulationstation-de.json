@@ -1,0 +1,977 @@
+{
+    "3do": {
+        "id": "3do",
+        "shortName": "3do",
+        "name": "3DO",
+        "altNames": []
+    },
+    "ags": {
+        "id": "ags",
+        "shortName": "ags",
+        "name": "Adventure Game Studio Game Engine",
+        "altNames": []
+    },
+    "amiga": {
+        "id": "amiga",
+        "shortName": "amiga",
+        "name": "Commodore Amiga",
+        "altNames": []
+    },
+    "amiga1200": {
+        "id": "amiga1200",
+        "shortName": "amiga1200",
+        "name": "Commodore Amiga 1200",
+        "altNames": [],
+        "parent": "amiga"
+    },
+    "amiga600": {
+        "id": "amiga600",
+        "shortName": "amiga600",
+        "name": "Commodore Amiga 600",
+        "altNames": [],
+        "parent": "amiga"
+    },
+    "amigacd32": {
+        "id": "amigacd32",
+        "shortName": "amigacd32",
+        "name": "Commodore Amiga CD32",
+        "altNames": []
+    },
+    "amstradcpc": {
+        "id": "amstradcpc",
+        "shortName": "amstradcpc",
+        "name": "Amstrad CPC",
+        "altNames": []
+    },
+    "android": {
+        "id": "android",
+        "shortName": "android",
+        "name": "Google Android",
+        "altNames": []
+    },
+    "apple2": {
+        "id": "apple2",
+        "shortName": "apple2",
+        "name": "Apple II",
+        "altNames": []
+    },
+    "apple2gs": {
+        "id": "apple2gs",
+        "shortName": "apple2gs",
+        "name": "Apple IIGS",
+        "altNames": []
+    },
+    "arcade": {
+        "id": "arcade",
+        "shortName": "arcade",
+        "name": "Arcade",
+        "altNames": []
+    },
+    "astrocde": {
+        "id": "astrocde",
+        "shortName": "astrocde",
+        "name": "Bally Astrocade",
+        "altNames": []
+    },
+    "atari2600": {
+        "id": "atari2600",
+        "shortName": "atari2600",
+        "name": "Atari 2600",
+        "altNames": []
+    },
+    "atari5200": {
+        "id": "atari5200",
+        "shortName": "atari5200",
+        "name": "Atari 5200",
+        "altNames": []
+    },
+    "atari7800": {
+        "id": "atari7800",
+        "shortName": "atari7800",
+        "name": "Atari 7800 ProSystem",
+        "altNames": []
+    },
+    "atari800": {
+        "id": "atari800",
+        "shortName": "atari800",
+        "name": "Atari 800",
+        "altNames": []
+    },
+    "atarijaguar": {
+        "id": "atarijaguar",
+        "shortName": "atarijaguar",
+        "name": "Atari Jaguar",
+        "altNames": [],
+        "parent": "atarijaguarcd"
+    },
+    "atarijaguarcd": {
+        "id": "atarijaguarcd",
+        "shortName": "atarijaguarcd",
+        "name": "Atari Jaguar CD",
+        "altNames": []
+    },
+    "atarilynx": {
+        "id": "atarilynx",
+        "shortName": "atarilynx",
+        "name": "Atari Lynx",
+        "altNames": []
+    },
+    "atarist": {
+        "id": "atarist",
+        "shortName": "atarist",
+        "name": "Atari ST",
+        "altNames": []
+    },
+    "atarixe": {
+        "id": "atarixe",
+        "shortName": "atarixe",
+        "name": "Atari XE",
+        "altNames": []
+    },
+    "atomiswave": {
+        "id": "atomiswave",
+        "shortName": "atomiswave",
+        "name": "Atomiswave",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "bbcmicro": {
+        "id": "bbcmicro",
+        "shortName": "bbcmicro",
+        "name": "BBC Micro",
+        "altNames": []
+    },
+    "c64": {
+        "id": "c64",
+        "shortName": "c64",
+        "name": "Commodore 64",
+        "altNames": []
+    },
+    "cavestory": {
+        "id": "cavestory",
+        "shortName": "cavestory",
+        "name": "Cave Story (NXEngine)",
+        "altNames": []
+    },
+    "cdimono1": {
+        "id": "cdimono1",
+        "shortName": "cdimono1",
+        "name": "Philips CD-i",
+        "altNames": []
+    },
+    "cdtv": {
+        "id": "cdtv",
+        "shortName": "cdtv",
+        "name": "Commodore CDTV",
+        "altNames": []
+    },
+    "chailove": {
+        "id": "chailove",
+        "shortName": "chailove",
+        "name": "ChaiLove Game Engine",
+        "altNames": [],
+        "parent": "love"
+    },
+    "channelf": {
+        "id": "channelf",
+        "shortName": "channelf",
+        "name": "Fairchild Channel F",
+        "altNames": []
+    },
+    "coco": {
+        "id": "coco",
+        "shortName": "coco",
+        "name": "Tandy Color Computer",
+        "altNames": []
+    },
+    "colecovision": {
+        "id": "colecovision",
+        "shortName": "colecovision",
+        "name": "ColecoVision",
+        "altNames": []
+    },
+    "cps": {
+        "id": "cps",
+        "shortName": "cps",
+        "name": "Capcom Play System",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "daphne": {
+        "id": "daphne",
+        "shortName": "daphne",
+        "name": "Daphne Arcade LaserDisc Emulator",
+        "altNames": []
+    },
+    "desktop": {
+        "id": "desktop",
+        "shortName": "desktop",
+        "name": "Desktop Applications",
+        "altNames": [],
+        "parent": "pc"
+    },
+    "doom": {
+        "id": "doom",
+        "shortName": "doom",
+        "name": "Doom",
+        "altNames": [],
+        "parent": "pcwindows"
+    },
+    "dos": {
+        "id": "dos",
+        "shortName": "dos",
+        "name": "DOS (PC)",
+        "altNames": []
+    },
+    "dragon32": {
+        "id": "dragon32",
+        "shortName": "dragon32",
+        "name": "Dragon 32",
+        "altNames": []
+    },
+    "dreamcast": {
+        "id": "dreamcast",
+        "shortName": "dreamcast",
+        "name": "Sega Dreamcast",
+        "altNames": []
+    },
+    "easyrpg": {
+        "id": "easyrpg",
+        "shortName": "easyrpg",
+        "name": "EasyRPG Game Engine",
+        "altNames": []
+    },
+    "epic": {
+        "id": "epic",
+        "shortName": "epic",
+        "name": "Epic Games Store",
+        "altNames": [],
+        "parent": "pcwindows"
+    },
+    "famicom": {
+        "id": "famicom",
+        "shortName": "famicom",
+        "name": "Nintendo Family Computer",
+        "altNames": []
+    },
+    "fba": {
+        "id": "fba",
+        "shortName": "fba",
+        "name": "FinalBurn Alpha",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "fbneo": {
+        "id": "fbneo",
+        "shortName": "fbneo",
+        "name": "FinalBurn Neo",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "fds": {
+        "id": "fds",
+        "shortName": "fds",
+        "name": "Nintendo Famicom Disk System",
+        "altNames": []
+    },
+    "flash": {
+        "id": "flash",
+        "shortName": "flash",
+        "name": "Adobe Flash",
+        "altNames": []
+    },
+    "fmtowns": {
+        "id": "fmtowns",
+        "shortName": "fmtowns",
+        "name": "Fujitsu FM Towns",
+        "altNames": []
+    },
+    "gameandwatch": {
+        "id": "gameandwatch",
+        "shortName": "gameandwatch",
+        "name": "Nintendo Game and Watch",
+        "altNames": []
+    },
+    "gamegear": {
+        "id": "gamegear",
+        "shortName": "gamegear",
+        "name": "Sega Game Gear",
+        "altNames": []
+    },
+    "gb": {
+        "id": "gb",
+        "shortName": "gb",
+        "name": "Nintendo Game Boy",
+        "altNames": []
+    },
+    "gba": {
+        "id": "gba",
+        "shortName": "gba",
+        "name": "Nintendo Game Boy Advance",
+        "altNames": []
+    },
+    "gbc": {
+        "id": "gbc",
+        "shortName": "gbc",
+        "name": "Nintendo Game Boy Color",
+        "altNames": []
+    },
+    "gc": {
+        "id": "gc",
+        "shortName": "gc",
+        "name": "Nintendo GameCube",
+        "altNames": []
+    },
+    "genesis": {
+        "id": "genesis",
+        "shortName": "genesis",
+        "name": "Sega Genesis",
+        "altNames": []
+    },
+    "gx4000": {
+        "id": "gx4000",
+        "shortName": "gx4000",
+        "name": "Amstrad GX4000",
+        "altNames": []
+    },
+    "intellivision": {
+        "id": "intellivision",
+        "shortName": "intellivision",
+        "name": "Mattel Electronics Intellivision",
+        "altNames": []
+    },
+    "j2me": {
+        "id": "j2me",
+        "shortName": "j2me",
+        "name": "Java 2 Micro Edition (J2ME)",
+        "altNames": [],
+        "parent": "android"
+    },
+    "kodi": {
+        "id": "kodi",
+        "shortName": "kodi",
+        "name": "Kodi Home Theatre Software",
+        "altNames": [],
+        "parent": "pc"
+    },
+    "lutris": {
+        "id": "lutris",
+        "shortName": "lutris",
+        "name": "Lutris Open Gaming Platform",
+        "altNames": [],
+        "parent": "pc"
+    },
+    "lutro": {
+        "id": "lutro",
+        "shortName": "lutro",
+        "name": "Lutro Game Engine",
+        "altNames": []
+    },
+    "macintosh": {
+        "id": "macintosh",
+        "shortName": "macintosh",
+        "name": "Apple Macintosh",
+        "altNames": []
+    },
+    "mame": {
+        "id": "mame",
+        "shortName": "mame",
+        "name": "Multiple Arcade Machine Emulator",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "mame-advmame": {
+        "id": "mame-advmame",
+        "shortName": "mame-advmame",
+        "name": "AdvanceMAME",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "mame-mame4all": {
+        "id": "mame-mame4all",
+        "shortName": "mame-mame4all",
+        "name": "MAME4ALL",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "mastersystem": {
+        "id": "mastersystem",
+        "shortName": "mastersystem",
+        "name": "Sega Master System",
+        "altNames": []
+    },
+    "megacd": {
+        "id": "megacd",
+        "shortName": "megacd",
+        "name": "Sega Mega-CD",
+        "altNames": [],
+        "parent": "segacd"
+    },
+    "megacdjp": {
+        "id": "megacdjp",
+        "shortName": "megacdjp",
+        "name": "Sega Mega-CD",
+        "altNames": [],
+        "parent": "segacd"
+    },
+    "megadrive": {
+        "id": "megadrive",
+        "shortName": "megadrive",
+        "name": "Sega Mega Drive",
+        "altNames": []
+    },
+    "megaduck": {
+        "id": "megaduck",
+        "shortName": "megaduck",
+        "name": "Creatronic Mega Duck",
+        "altNames": []
+    },
+    "mess": {
+        "id": "mess",
+        "shortName": "mess",
+        "name": "Multi Emulator Super System",
+        "altNames": []
+    },
+    "model2": {
+        "id": "model2",
+        "shortName": "model2",
+        "name": "Sega Model 2",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "model3": {
+        "id": "model3",
+        "shortName": "model3",
+        "name": "Sega Model 3",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "moonlight": {
+        "id": "moonlight",
+        "shortName": "moonlight",
+        "name": "Moonlight Game Streaming",
+        "altNames": []
+    },
+    "moto": {
+        "id": "moto",
+        "shortName": "moto",
+        "name": "Thomson MO/TO Series",
+        "altNames": []
+    },
+    "msx": {
+        "id": "msx",
+        "shortName": "msx",
+        "name": "MSX",
+        "altNames": []
+    },
+    "msx1": {
+        "id": "msx1",
+        "shortName": "msx1",
+        "name": "MSX1",
+        "altNames": [],
+        "parent": "msx"
+    },
+    "msx2": {
+        "id": "msx2",
+        "shortName": "msx2",
+        "name": "MSX2",
+        "altNames": []
+    },
+    "msxturbor": {
+        "id": "msxturbor",
+        "shortName": "msxturbor",
+        "name": "MSX Turbo R",
+        "altNames": []
+    },
+    "mugen": {
+        "id": "mugen",
+        "shortName": "mugen",
+        "name": "M.U.G.E.N Game Engine",
+        "altNames": []
+    },
+    "multivision": {
+        "id": "multivision",
+        "shortName": "multivision",
+        "name": "Othello Multivision",
+        "altNames": [],
+        "parent": "sg-1000"
+    },
+    "n3ds": {
+        "id": "n3ds",
+        "shortName": "n3ds",
+        "name": "Nintendo 3DS",
+        "altNames": []
+    },
+    "n64": {
+        "id": "n64",
+        "shortName": "n64",
+        "name": "Nintendo 64",
+        "altNames": []
+    },
+    "n64dd": {
+        "id": "n64dd",
+        "shortName": "n64dd",
+        "name": "Nintendo 64DD",
+        "altNames": [],
+        "parent": "n64"
+    },
+    "naomi": {
+        "id": "naomi",
+        "shortName": "naomi",
+        "name": "Sega NAOMI",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "naomigd": {
+        "id": "naomigd",
+        "shortName": "naomigd",
+        "name": "Sega NAOMI GD-ROM",
+        "altNames": [],
+        "parent": "arcade"
+    },
+    "nds": {
+        "id": "nds",
+        "shortName": "nds",
+        "name": "Nintendo DS",
+        "altNames": []
+    },
+    "neogeo": {
+        "id": "neogeo",
+        "shortName": "neogeo",
+        "name": "SNK Neo Geo",
+        "altNames": []
+    },
+    "neogeocd": {
+        "id": "neogeocd",
+        "shortName": "neogeocd",
+        "name": "SNK Neo Geo CD",
+        "altNames": []
+    },
+    "neogeocdjp": {
+        "id": "neogeocdjp",
+        "shortName": "neogeocdjp",
+        "name": "SNK Neo Geo CD",
+        "altNames": [],
+        "parent": "neogeocd"
+    },
+    "nes": {
+        "id": "nes",
+        "shortName": "nes",
+        "name": "Nintendo Entertainment System",
+        "altNames": []
+    },
+    "ngp": {
+        "id": "ngp",
+        "shortName": "ngp",
+        "name": "SNK Neo Geo Pocket",
+        "altNames": []
+    },
+    "ngpc": {
+        "id": "ngpc",
+        "shortName": "ngpc",
+        "name": "SNK Neo Geo Pocket Color",
+        "altNames": []
+    },
+    "odyssey2": {
+        "id": "odyssey2",
+        "shortName": "odyssey2",
+        "name": "Magnavox Odyssey2",
+        "altNames": []
+    },
+    "openbor": {
+        "id": "openbor",
+        "shortName": "openbor",
+        "name": "OpenBOR Game Engine",
+        "altNames": []
+    },
+    "oric": {
+        "id": "oric",
+        "shortName": "oric",
+        "name": "Tangerine Computer Systems Oric",
+        "altNames": []
+    },
+    "palm": {
+        "id": "palm",
+        "shortName": "palm",
+        "name": "Palm OS",
+        "altNames": []
+    },
+    "pc": {
+        "id": "pc",
+        "shortName": "pc",
+        "name": "IBM PC",
+        "altNames": []
+    },
+    "pc88": {
+        "id": "pc88",
+        "shortName": "pc88",
+        "name": "NEC PC-8800 Series",
+        "altNames": []
+    },
+    "pc98": {
+        "id": "pc98",
+        "shortName": "pc98",
+        "name": "NEC PC-9800 Series",
+        "altNames": []
+    },
+    "pcengine": {
+        "id": "pcengine",
+        "shortName": "pcengine",
+        "name": "NEC PC Engine",
+        "altNames": []
+    },
+    "pcenginecd": {
+        "id": "pcenginecd",
+        "shortName": "pcenginecd",
+        "name": "NEC PC Engine CD",
+        "altNames": []
+    },
+    "pcfx": {
+        "id": "pcfx",
+        "shortName": "pcfx",
+        "name": "NEC PC-FX",
+        "altNames": []
+    },
+    "pico8": {
+        "id": "pico8",
+        "shortName": "pico8",
+        "name": "PICO-8 Fantasy Console",
+        "altNames": []
+    },
+    "pokemini": {
+        "id": "pokemini",
+        "shortName": "pokemini",
+        "name": "Nintendo Pokémon Mini",
+        "altNames": []
+    },
+    "ports": {
+        "id": "ports",
+        "shortName": "ports",
+        "name": "Ports",
+        "altNames": [],
+        "parent": "pc"
+    },
+    "ps2": {
+        "id": "ps2",
+        "shortName": "ps2",
+        "name": "Sony PlayStation 2",
+        "altNames": []
+    },
+    "ps3": {
+        "id": "ps3",
+        "shortName": "ps3",
+        "name": "Sony PlayStation 3",
+        "altNames": []
+    },
+    "ps4": {
+        "id": "ps4",
+        "shortName": "ps4",
+        "name": "Sony PlayStation 4",
+        "altNames": []
+    },
+    "psp": {
+        "id": "psp",
+        "shortName": "psp",
+        "name": "Sony PlayStation Portable",
+        "altNames": []
+    },
+    "psvita": {
+        "id": "psvita",
+        "shortName": "psvita",
+        "name": "Sony PlayStation Vita",
+        "altNames": []
+    },
+    "psx": {
+        "id": "psx",
+        "shortName": "psx",
+        "name": "Sony PlayStation",
+        "altNames": []
+    },
+    "samcoupe": {
+        "id": "samcoupe",
+        "shortName": "samcoupe",
+        "name": "SAM Coupé",
+        "altNames": []
+    },
+    "satellaview": {
+        "id": "satellaview",
+        "shortName": "satellaview",
+        "name": "Nintendo Satellaview",
+        "altNames": []
+    },
+    "saturn": {
+        "id": "saturn",
+        "shortName": "saturn",
+        "name": "Sega Saturn",
+        "altNames": []
+    },
+    "saturnjp": {
+        "id": "saturnjp",
+        "shortName": "saturnjp",
+        "name": "Sega Saturn",
+        "altNames": [],
+        "parent": "saturn"
+    },
+    "scummvm": {
+        "id": "scummvm",
+        "shortName": "scummvm",
+        "name": "ScummVM Game Engine",
+        "altNames": []
+    },
+    "sega32x": {
+        "id": "sega32x",
+        "shortName": "sega32x",
+        "name": "Sega Mega Drive 32X",
+        "altNames": []
+    },
+    "sega32xjp": {
+        "id": "sega32xjp",
+        "shortName": "sega32xjp",
+        "name": "Sega Super 32X",
+        "altNames": [],
+        "parent": "sega32x"
+    },
+    "sega32xna": {
+        "id": "sega32xna",
+        "shortName": "sega32xna",
+        "name": "Sega Genesis 32X",
+        "altNames": [],
+        "parent": "sega32x"
+    },
+    "segacd": {
+        "id": "segacd",
+        "shortName": "segacd",
+        "name": "Sega CD",
+        "altNames": []
+    },
+    "sfc": {
+        "id": "sfc",
+        "shortName": "sfc",
+        "name": "Nintendo SFC (Super Famicom)",
+        "altNames": [],
+        "parent": "snes"
+    },
+    "sg-1000": {
+        "id": "sg-1000",
+        "shortName": "sg-1000",
+        "name": "Sega SG-1000",
+        "altNames": []
+    },
+    "sgb": {
+        "id": "sgb",
+        "shortName": "sgb",
+        "name": "Nintendo Super Game Boy",
+        "altNames": [],
+        "parent": "gb"
+    },
+    "snes": {
+        "id": "snes",
+        "shortName": "snes",
+        "name": "Nintendo SNES (Super Nintendo)",
+        "altNames": []
+    },
+    "snesna": {
+        "id": "snesna",
+        "shortName": "snesna",
+        "name": "Nintendo SNES (Super Nintendo)",
+        "altNames": [],
+        "parent": "snes"
+    },
+    "solarus": {
+        "id": "solarus",
+        "shortName": "solarus",
+        "name": "Solarus Game Engine",
+        "altNames": []
+    },
+    "spectravideo": {
+        "id": "spectravideo",
+        "shortName": "spectravideo",
+        "name": "Spectravideo",
+        "altNames": []
+    },
+    "steam": {
+        "id": "steam",
+        "shortName": "steam",
+        "name": "Valve Steam",
+        "altNames": []
+    },
+    "stratagus": {
+        "id": "stratagus",
+        "shortName": "stratagus",
+        "name": "Stratagus Game Engine",
+        "altNames": []
+    },
+    "sufami": {
+        "id": "sufami",
+        "shortName": "sufami",
+        "name": "Bandai SuFami Turbo",
+        "altNames": []
+    },
+    "supergrafx": {
+        "id": "supergrafx",
+        "shortName": "supergrafx",
+        "name": "NEC SuperGrafx",
+        "altNames": []
+    },
+    "supervision": {
+        "id": "supervision",
+        "shortName": "supervision",
+        "name": "Watara Supervision",
+        "altNames": []
+    },
+    "switch": {
+        "id": "switch",
+        "shortName": "switch",
+        "name": "Nintendo Switch",
+        "altNames": []
+    },
+    "symbian": {
+        "id": "symbian",
+        "shortName": "symbian",
+        "name": "Symbian",
+        "altNames": [],
+        "parent": "android"
+    },
+    "tanodragon": {
+        "id": "tanodragon",
+        "shortName": "tanodragon",
+        "name": "Tano Dragon",
+        "altNames": [],
+        "parent": "dragon32"
+    },
+    "tg16": {
+        "id": "tg16",
+        "shortName": "tg16",
+        "name": "NEC TurboGrafx-16",
+        "altNames": [],
+        "parent": "pcengine"
+    },
+    "tg-cd": {
+        "id": "tg-cd",
+        "shortName": "tg-cd",
+        "name": "NEC TurboGrafx-CD",
+        "altNames": [],
+        "parent": "pcenginecd"
+    },
+    "ti99": {
+        "id": "ti99",
+        "shortName": "ti99",
+        "name": "Texas Instruments TI-99",
+        "altNames": []
+    },
+    "tic80": {
+        "id": "tic80",
+        "shortName": "tic80",
+        "name": "TIC-80 Game Engine",
+        "altNames": []
+    },
+    "to8": {
+        "id": "to8",
+        "shortName": "to8",
+        "name": "Thomson TO8",
+        "altNames": [],
+        "parent": "moto"
+    },
+    "trs-80": {
+        "id": "trs-80",
+        "shortName": "trs-80",
+        "name": "Tandy TRS-80",
+        "altNames": []
+    },
+    "uzebox": {
+        "id": "uzebox",
+        "shortName": "uzebox",
+        "name": "Uzebox",
+        "altNames": []
+    },
+    "vectrex": {
+        "id": "vectrex",
+        "shortName": "vectrex",
+        "name": "Vectrex",
+        "altNames": []
+    },
+    "vic20": {
+        "id": "vic20",
+        "shortName": "vic20",
+        "name": "Commodore VIC-20",
+        "altNames": []
+    },
+    "videopac": {
+        "id": "videopac",
+        "shortName": "videopac",
+        "name": "Philips Videopac G7000",
+        "altNames": []
+    },
+    "virtualboy": {
+        "id": "virtualboy",
+        "shortName": "virtualboy",
+        "name": "Nintendo Virtual Boy",
+        "altNames": []
+    },
+    "wii": {
+        "id": "wii",
+        "shortName": "wii",
+        "name": "Nintendo Wii",
+        "altNames": []
+    },
+    "wiiu": {
+        "id": "wiiu",
+        "shortName": "wiiu",
+        "name": "Nintendo Wii U",
+        "altNames": []
+    },
+    "wonderswan": {
+        "id": "wonderswan",
+        "shortName": "wonderswan",
+        "name": "Bandai WonderSwan",
+        "altNames": []
+    },
+    "wonderswancolor": {
+        "id": "wonderswancolor",
+        "shortName": "wonderswancolor",
+        "name": "Bandai WonderSwan Color",
+        "altNames": []
+    },
+    "x1": {
+        "id": "x1",
+        "shortName": "x1",
+        "name": "Sharp X1",
+        "altNames": []
+    },
+    "x68000": {
+        "id": "x68000",
+        "shortName": "x68000",
+        "name": "Sharp X68000",
+        "altNames": []
+    },
+    "xbox": {
+        "id": "xbox",
+        "shortName": "xbox",
+        "name": "Microsoft Xbox",
+        "altNames": []
+    },
+    "xbox360": {
+        "id": "xbox360",
+        "shortName": "xbox360",
+        "name": "Microsoft Xbox 360",
+        "altNames": []
+    },
+    "zmachine": {
+        "id": "zmachine",
+        "shortName": "zmachine",
+        "name": "Infocom Z-machine",
+        "altNames": []
+    },
+    "zx81": {
+        "id": "zx81",
+        "shortName": "zx81",
+        "name": "Sinclair ZX81",
+        "altNames": []
+    },
+    "zxspectrum": {
+        "id": "zxspectrum",
+        "shortName": "zxspectrum",
+        "name": "Sinclair ZX Spectrum",
+        "altNames": []
+    }
+}

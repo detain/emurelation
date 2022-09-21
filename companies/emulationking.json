@@ -1,0 +1,27 @@
+{
+    "nintendo": {
+        "id": "nintendo",
+        "name": "Nintendo",
+        "shortName": "nintendo"
+    },
+    "sony": {
+        "id": "sony",
+        "name": "Sony",
+        "shortName": "sony"
+    },
+    "sega": {
+        "id": "sega",
+        "name": "SEGA",
+        "shortName": "sega"
+    },
+    "microsoft": {
+        "id": "microsoft",
+        "name": "Microsoft",
+        "shortName": "microsoft"
+    },
+    "atari": {
+        "id": "atari",
+        "name": "Atari",
+        "shortName": "atari"
+    }
+}

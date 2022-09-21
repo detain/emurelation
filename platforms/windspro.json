@@ -1,0 +1,437 @@
+{
+    "Nintendo 3DS (3DS)": {
+        "id": "Nintendo 3DS (3DS)",
+        "name": "Nintendo 3DS (3DS)",
+        "emulators": [
+            "Citra Nightly",
+            "Citra (32 bit)",
+            "Citra Canary"
+        ]
+    },
+    "Nintendo DS (NDS)": {
+        "id": "Nintendo DS (NDS)",
+        "name": "Nintendo DS (NDS)",
+        "emulators": [
+            "DeSmuME",
+            "MyZoom",
+            "NGZoom",
+            "No$gba 2.6a",
+            "No$gba2X",
+            "No$gba",
+            "No$Mooz",
+            "No$Zoomer",
+            "NOZ",
+            "DeSmuME X432R 32-bit",
+            "DeSmuME X432R 64-bit",
+            "melonDS"
+        ]
+    },
+    "Game Boy Advance (GBA)": {
+        "id": "Game Boy Advance (GBA)",
+        "name": "Game Boy Advance (GBA)",
+        "emulators": [
+            "No$gba 2.6a",
+            "No$gba",
+            "No$Zoomer",
+            "VBA Link",
+            "VBA-M",
+            "mGBA"
+        ]
+    },
+    "Game Boy (GB)": {
+        "id": "Game Boy (GB)",
+        "name": "Game Boy (GB)",
+        "emulators": [
+            "VBA Link",
+            "VBA-M"
+        ]
+    },
+    "Game Boy Color (GBC)": {
+        "id": "Game Boy Color (GBC)",
+        "name": "Game Boy Color (GBC)",
+        "emulators": [
+            "VBA Link",
+            "VBA-M"
+        ]
+    },
+    "Atari 5200": {
+        "id": "Atari 5200",
+        "name": "Atari 5200",
+        "emulators": [
+            "Atari800Win PLus"
+        ]
+    },
+    "Multiplatform": {
+        "id": "Multiplatform",
+        "name": "Multiplatform",
+        "emulators": [
+            "BizHawk",
+            "blueMSX",
+            "Final Burn Alpha rr",
+            "Mednafen (MedGui)",
+            "Mednafen-rr",
+            "Ares"
+        ]
+    },
+    "Nintendo": {
+        "id": "Nintendo",
+        "name": "Nintendo",
+        "emulators": [
+            "BizHawk",
+            "Mednafen (MedGui)",
+            "Mednafen-rr",
+            "Ares",
+            "Nestopia"
+        ]
+    },
+    "Sega": {
+        "id": "Sega",
+        "name": "Sega",
+        "emulators": [
+            "BizHawk",
+            "blueMSX",
+            "Mednafen (MedGui)",
+            "Mednafen-rr",
+            "Ares"
+        ]
+    },
+    "Atari": {
+        "id": "Atari",
+        "name": "Atari",
+        "emulators": [
+            "BizHawk",
+            "Mednafen (MedGui)",
+            "Mednafen-rr"
+        ]
+    },
+    "Coleco": {
+        "id": "Coleco",
+        "name": "Coleco",
+        "emulators": [
+            "blueMSX"
+        ]
+    },
+    "MSX": {
+        "id": "MSX",
+        "name": "MSX",
+        "emulators": [
+            "blueMSX",
+            "no$msx",
+            "Open MSX 32-bit",
+            "Open MSX 64-bit"
+        ]
+    },
+    "Commodore 64 (C64)": {
+        "id": "Commodore 64 (C64)",
+        "name": "Commodore 64 (C64)",
+        "emulators": [
+            "CCS64",
+            "no$c64",
+            "WinVICE C64"
+        ]
+    },
+    "Nintendo Wii U (Wii U)": {
+        "id": "Nintendo Wii U (Wii U)",
+        "name": "Nintendo Wii U (Wii U)",
+        "emulators": [
+            "Cemu",
+            "Decaf"
+        ]
+    },
+    "Microsoft XBOX": {
+        "id": "Microsoft XBOX",
+        "name": "Microsoft XBOX",
+        "emulators": [
+            "Cxbx Reloaded"
+        ]
+    },
+    "Sega Dreamcast (DC)": {
+        "id": "Sega Dreamcast (DC)",
+        "name": "Sega Dreamcast (DC)",
+        "emulators": [
+            "Demul",
+            "nullDC",
+            "Flycast"
+        ]
+    },
+    "Nintendo Wii (Wii)": {
+        "id": "Nintendo Wii (Wii)",
+        "name": "Nintendo Wii (Wii)",
+        "emulators": [
+            "Dolphin (Ishiiruka) 32-bit",
+            "Dolphin (Ishiiruka) 64-bit",
+            "Dolphin 32-bit",
+            "Dolphin 64-bit"
+        ]
+    },
+    "Nintendo GameCube (GC)": {
+        "id": "Nintendo GameCube (GC)",
+        "name": "Nintendo GameCube (GC)",
+        "emulators": [
+            "Dolphin (Ishiiruka) 32-bit",
+            "Dolphin (Ishiiruka) 64-bit",
+            "Dolphin 32-bit",
+            "Dolphin 64-bit"
+        ]
+    },
+    "Sony PlayStation (PSX)": {
+        "id": "Sony PlayStation (PSX)",
+        "name": "Sony PlayStation (PSX)",
+        "emulators": [
+            "ePSXe",
+            "no$psx",
+            "PCSX-R",
+            "pSX fin",
+            "PSXjin",
+            "PCSX Redux"
+        ]
+    },
+    "Nintendo (NES)": {
+        "id": "Nintendo (NES)",
+        "name": "Nintendo (NES)",
+        "emulators": [
+            "FCEUX",
+            "no$nes",
+            "VirtuaNES"
+        ]
+    },
+    "Sega Mega Drive (SMD)": {
+        "id": "Sega Mega Drive (SMD)",
+        "name": "Sega Mega Drive (SMD)",
+        "emulators": [
+            "Gens GS",
+            "Gens rr",
+            "Kega Fusion"
+        ]
+    },
+    "Sega 32X (32X)": {
+        "id": "Sega 32X (32X)",
+        "name": "Sega 32X (32X)",
+        "emulators": [
+            "Gens GS",
+            "Gens rr",
+            "Kega Fusion"
+        ]
+    },
+    "Atari Lynx": {
+        "id": "Atari Lynx",
+        "name": "Atari Lynx",
+        "emulators": [
+            "Handy"
+        ]
+    },
+    "Win32": {
+        "id": "Win32",
+        "name": "Win32",
+        "emulators": [
+            "Hourglass"
+        ]
+    },
+    "DOS": {
+        "id": "DOS",
+        "name": "DOS",
+        "emulators": [
+            "JPC-rr"
+        ]
+    },
+    "Super Nintendo (SNES)": {
+        "id": "Super Nintendo (SNES)",
+        "name": "Super Nintendo (SNES)",
+        "emulators": [
+            "lsnes rr2",
+            "no$sns",
+            "Snes9x 32-bit",
+            "Snes9x 64-bit",
+            "ZSNES"
+        ]
+    },
+    "Sony": {
+        "id": "Sony",
+        "name": "Sony",
+        "emulators": [
+            "Mednafen (MedGui)",
+            "Mednafen-rr"
+        ]
+    },
+    "SNK": {
+        "id": "SNK",
+        "name": "SNK",
+        "emulators": [
+            "Mednafen (MedGui)",
+            "Mednafen-rr"
+        ]
+    },
+    "Bandai": {
+        "id": "Bandai",
+        "name": "Bandai",
+        "emulators": [
+            "Mednafen (MedGui)",
+            "Mednafen-rr",
+            "Oswan"
+        ]
+    },
+    "NEC": {
+        "id": "NEC",
+        "name": "NEC",
+        "emulators": [
+            "Mednafen (MedGui)",
+            "Mednafen-rr",
+            "Ootake"
+        ]
+    },
+    "Nintendo 64 (N64)": {
+        "id": "Nintendo 64 (N64)",
+        "name": "Nintendo 64 (N64)",
+        "emulators": [
+            "Mupen64-rr",
+            "Mupen64Plus",
+            "Project64",
+            "Project64K7E"
+        ]
+    },
+    "Atari 2600 (A2600)": {
+        "id": "Atari 2600 (A2600)",
+        "name": "Atari 2600 (A2600)",
+        "emulators": [
+            "no$2k6"
+        ]
+    },
+    "Sony PlayStation 2 (PS2)": {
+        "id": "Sony PlayStation 2 (PS2)",
+        "name": "Sony PlayStation 2 (PS2)",
+        "emulators": [
+            "PCSX2",
+            "Play!"
+        ]
+    },
+    "Pokémon Mini": {
+        "id": "Pokémon Mini",
+        "name": "Pokémon Mini",
+        "emulators": [
+            "PokeMini"
+        ]
+    },
+    "Sony PlayStation Portable (PSP)": {
+        "id": "Sony PlayStation Portable (PSP)",
+        "name": "Sony PlayStation Portable (PSP)",
+        "emulators": [
+            "PPSSPP 32-bit",
+            "PPSSPP 64-bit"
+        ]
+    },
+    "Atari 7800 (A7800)": {
+        "id": "Atari 7800 (A7800)",
+        "name": "Atari 7800 (A7800)",
+        "emulators": [
+            "ProSystem"
+        ]
+    },
+    "Nintendo Virtual Boy (VB)": {
+        "id": "Nintendo Virtual Boy (VB)",
+        "name": "Nintendo Virtual Boy (VB)",
+        "emulators": [
+            "Red Dragon",
+            "VBjin"
+        ]
+    },
+    "Sony PlayStation 3 (PS3)": {
+        "id": "Sony PlayStation 3 (PS3)",
+        "name": "Sony PlayStation 3 (PS3)",
+        "emulators": [
+            "rpcs3"
+        ]
+    },
+    "Sega Saturn": {
+        "id": "Sega Saturn",
+        "name": "Sega Saturn",
+        "emulators": [
+            "SSF"
+        ]
+    },
+    "Nintendo Game Boy (GB)": {
+        "id": "Nintendo Game Boy (GB)",
+        "name": "Nintendo Game Boy (GB)",
+        "emulators": [
+            "VBA-rr"
+        ]
+    },
+    "Color (GBC)": {
+        "id": "Color (GBC)",
+        "name": "Color (GBC)",
+        "emulators": [
+            "VBA-rr"
+        ]
+    },
+    "Advance (GBA)": {
+        "id": "Advance (GBA)",
+        "name": "Advance (GBA)",
+        "emulators": [
+            "VBA-rr"
+        ]
+    },
+    "Atari Jaguar": {
+        "id": "Atari Jaguar",
+        "name": "Atari Jaguar",
+        "emulators": [
+            "Virtual Jaguar"
+        ]
+    },
+    "Commodore 128 (C128)": {
+        "id": "Commodore 128 (C128)",
+        "name": "Commodore 128 (C128)",
+        "emulators": [
+            "WinVICE C128"
+        ]
+    },
+    "Commodore 64 Direct-to-TV (C64)": {
+        "id": "Commodore 64 Direct-to-TV (C64)",
+        "name": "Commodore 64 Direct-to-TV (C64)",
+        "emulators": [
+            "WinVICE C64 DTV"
+        ]
+    },
+    "Commodore CBM-II (CBM-II)": {
+        "id": "Commodore CBM-II (CBM-II)",
+        "name": "Commodore CBM-II (CBM-II)",
+        "emulators": [
+            "WinVICE CBM-II"
+        ]
+    },
+    "Commodore PET (PET)": {
+        "id": "Commodore PET (PET)",
+        "name": "Commodore PET (PET)",
+        "emulators": [
+            "WinVICE PET"
+        ]
+    },
+    "Commodore PLUS4 (PLUS4)": {
+        "id": "Commodore PLUS4 (PLUS4)",
+        "name": "Commodore PLUS4 (PLUS4)",
+        "emulators": [
+            "WinVICE PLUS4"
+        ]
+    },
+    "Commodore VIC20 (VIC20)": {
+        "id": "Commodore VIC20 (VIC20)",
+        "name": "Commodore VIC20 (VIC20)",
+        "emulators": [
+            "WinVICE VIC20"
+        ]
+    },
+    "Microsoft XBOX 360": {
+        "id": "Microsoft XBOX 360",
+        "name": "Microsoft XBOX 360",
+        "emulators": [
+            "Xenia",
+            "Xenia D3D"
+        ]
+    },
+    "Nintendo switch": {
+        "id": "Nintendo switch",
+        "name": "Nintendo switch",
+        "emulators": [
+            "Yuzu Canary",
+            "Yuzu (Updater)"
+        ]
+    }
+}

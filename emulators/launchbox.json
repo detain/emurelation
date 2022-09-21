@@ -1,0 +1,269 @@
+{
+    "4DO": {
+        "id": "4DO",
+        "name": "4DO",
+        "platforms": [
+            "3DO Interactive Multiplayer"
+        ]
+    },
+    "bsnes": {
+        "id": "bsnes",
+        "name": "bsnes",
+        "platforms": [
+            "Super Nintendo Entertainment System"
+        ]
+    },
+    "Cemu": {
+        "id": "Cemu",
+        "name": "Cemu",
+        "platforms": [
+            "Nintendo Wii U"
+        ]
+    },
+    "Cxbx-Reloaded": {
+        "id": "Cxbx-Reloaded",
+        "name": "Cxbx-Reloaded",
+        "platforms": [
+            "Microsoft Xbox"
+        ]
+    },
+    "Demul": {
+        "id": "Demul",
+        "name": "Demul",
+        "platforms": [
+            "Sega Dreamcast"
+        ]
+    },
+    "Dolphin": {
+        "id": "Dolphin",
+        "name": "Dolphin",
+        "platforms": [
+            "Nintendo GameCube",
+            "Nintendo Wii"
+        ]
+    },
+    "DuckStation": {
+        "id": "DuckStation",
+        "name": "DuckStation",
+        "platforms": [
+            "Sony Playstation"
+        ]
+    },
+    "ePSXe": {
+        "id": "ePSXe",
+        "name": "ePSXe",
+        "platforms": [
+            "Sony Playstation"
+        ]
+    },
+    "FCEUX": {
+        "id": "FCEUX",
+        "name": "FCEUX",
+        "platforms": [
+            "Nintendo Entertainment System"
+        ]
+    },
+    "Higan": {
+        "id": "Higan",
+        "name": "Higan",
+        "platforms": [
+            "Super Nintendo Entertainment System"
+        ]
+    },
+    "Kega Fusion": {
+        "id": "Kega Fusion",
+        "name": "Kega Fusion",
+        "platforms": [
+            "Sega 32X",
+            "Sega CD",
+            "Sega Game Gear",
+            "Sega Genesis",
+            "Sega Master System",
+            "Sega SG-1000"
+        ]
+    },
+    "MAME": {
+        "id": "MAME",
+        "name": "MAME",
+        "platforms": [
+            "Arcade"
+        ]
+    },
+    "mupen64": {
+        "id": "mupen64",
+        "name": "mupen64",
+        "platforms": [
+            "Nintendo 64"
+        ]
+    },
+    "Nestopia": {
+        "id": "Nestopia",
+        "name": "Nestopia",
+        "platforms": [
+            "Nintendo Entertainment System"
+        ]
+    },
+    "nullDC": {
+        "id": "nullDC",
+        "name": "nullDC",
+        "platforms": [
+            "Sega Dreamcast"
+        ]
+    },
+    "PCSX2": {
+        "id": "PCSX2",
+        "name": "PCSX2",
+        "platforms": [
+            "Sony Playstation 2"
+        ]
+    },
+    "PCSX-Reloaded": {
+        "id": "PCSX-Reloaded",
+        "name": "PCSX-Reloaded",
+        "platforms": [
+            "Sony Playstation"
+        ]
+    },
+    "PPSSPP": {
+        "id": "PPSSPP",
+        "name": "PPSSPP",
+        "platforms": [
+            "Sony PSP"
+        ]
+    },
+    "Project64": {
+        "id": "Project64",
+        "name": "Project64",
+        "platforms": [
+            "Nintendo 64"
+        ]
+    },
+    "Project64 1.6": {
+        "id": "Project64 1.6",
+        "name": "Project64 1.6",
+        "platforms": [
+            "Nintendo 64"
+        ]
+    },
+    "Redream": {
+        "id": "Redream",
+        "name": "Redream",
+        "platforms": [
+            "Sega Dreamcast"
+        ]
+    },
+    "Retroarch": {
+        "id": "Retroarch",
+        "name": "Retroarch",
+        "platforms": [
+            "3DO Interactive Multiplayer",
+            "Amstrad CPC",
+            "Atari 2600",
+            "Atari 5200",
+            "Atari 7800",
+            "Atari Jaguar",
+            "Atari Lynx",
+            "Atari ST",
+            "ColecoVision",
+            "Commodore 128",
+            "Commodore 64",
+            "Commodore PET",
+            "Commodore Plus 4",
+            "Commodore VIC-20",
+            "GCE Vectrex",
+            "Magnavox Odyssey 2",
+            "Microsoft MSX",
+            "NEC PC-FX",
+            "NEC TurboGrafx-16",
+            "NEC TurboGrafx-CD",
+            "Nintendo 64",
+            "Nintendo DS",
+            "Nintendo Entertainment System",
+            "Nintendo Famicom Disk System",
+            "Nintendo Game & Watch",
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Advance",
+            "Nintendo Game Boy Color",
+            "Nintendo GameCube",
+            "Nintendo Pokemon Mini",
+            "Nintendo Virtual Boy",
+            "Nintendo Wii",
+            "PC Engine SuperGrafx",
+            "Philips Videopac+",
+            "Sega 32X",
+            "Sega CD",
+            "Sega Dreamcast",
+            "Sega Game Gear",
+            "Sega Genesis",
+            "Sega Master System",
+            "Sega Saturn",
+            "Sinclair ZX Spectrum",
+            "Sinclair ZX-81",
+            "SNK Neo Geo AES",
+            "SNK Neo Geo MVS",
+            "SNK Neo Geo Pocket",
+            "SNK Neo Geo Pocket Color",
+            "Sony Playstation",
+            "Sony PSP",
+            "Super Nintendo Entertainment System",
+            "WonderSwan",
+            "WonderSwan Color"
+        ]
+    },
+    "Rocket Launcher": {
+        "id": "Rocket Launcher",
+        "name": "Rocket Launcher",
+        "platforms": []
+    },
+    "RPCS3": {
+        "id": "RPCS3",
+        "name": "RPCS3",
+        "platforms": [
+            "Sony Playstation 3"
+        ]
+    },
+    "Sega Model 2 Emulator": {
+        "id": "Sega Model 2 Emulator",
+        "name": "Sega Model 2 Emulator",
+        "platforms": [
+            "Sega Model 2"
+        ]
+    },
+    "Snes9x": {
+        "id": "Snes9x",
+        "name": "Snes9x",
+        "platforms": [
+            "Super Nintendo Entertainment System"
+        ]
+    },
+    "Supermodel": {
+        "id": "Supermodel",
+        "name": "Supermodel",
+        "platforms": [
+            "Sega Model 3"
+        ]
+    },
+    "VisualBoyAdvance-M": {
+        "id": "VisualBoyAdvance-M",
+        "name": "VisualBoyAdvance-M",
+        "platforms": [
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Advance",
+            "Nintendo Game Boy Color"
+        ]
+    },
+    "Xemu": {
+        "id": "Xemu",
+        "name": "Xemu",
+        "platforms": [
+            "Microsoft Xbox"
+        ]
+    },
+    "Xenia": {
+        "id": "Xenia",
+        "name": "Xenia",
+        "platforms": [
+            "Microsoft Xbox 360"
+        ]
+    }
+}
