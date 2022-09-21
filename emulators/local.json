@@ -989,7 +989,8 @@
         ],
         "matches": {
             "emulationstation-de": [
-                "ares"
+                "ares",
+                "ares FDS"
             ],
             "windspro": [
                 "Ares"
@@ -1029,32 +1030,6 @@
             "%BIN% --fullscreen --system \"SuperGrafx\" %ROM%",
             "%BIN% --fullscreen --system \"WonderSwan\" %ROM%",
             "%BIN% --fullscreen --system \"WonderSwan Color\" %ROM%"
-        ]
-    },
-    "ares fds": {
-        "id": "ares fds",
-        "shortName": "ares FDS",
-        "name": "ares FDS",
-        "platforms": [
-            "Nintendo Entertainment System"
-        ],
-        "web": {
-            "https://ares-emu.net/": "home",
-            "https://github.com/ares-emulator/ares": "repo"
-        },
-        "matches": {
-            "emulationstation-de": [
-                "ares FDS"
-            ]
-        },
-        "bin": [
-            "ares.exe"
-        ],
-        "dir": [
-            "ares"
-        ],
-        "cmd": [
-            "%BIN% --fullscreen --system \"Famicom Disk System\" %ROM%"
         ]
     },
     "arnimedes": {
