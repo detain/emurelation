@@ -26037,6 +26037,9 @@
                 "Nintendo Super Nintendo Entertainment System"
             ],
             "matches": {
+                "scoop-emulators": [
+                    "bsnes-plus"
+                ],
                 "emucontrolcenter": [
                     "bsnesplus"
                 ]
@@ -26383,7 +26386,8 @@
                     "Cemu"
                 ],
                 "scoop-emulators": [
-                    "cemu"
+                    "cemu",
+                    "cemu-dev"
                 ]
             },
             "bin": [
@@ -26457,7 +26461,9 @@
                     "Citra"
                 ],
                 "scoop-emulators": [
-                    "citra"
+                    "citra",
+                    "citra-canary",
+                    "citra-nightly"
                 ]
             },
             "bin": [
@@ -26972,6 +26978,9 @@
                 "emulationstation-de": [
                     "Cxbx-Reloaded"
                 ],
+                "scoop-emulators": [
+                    "cxbx-reloaded"
+                ],
                 "windspro": [
                     "Cxbx Reloaded"
                 ]
@@ -27440,7 +27449,8 @@
                     "DeSmuME X432R 64-bit"
                 ],
                 "scoop-emulators": [
-                    "desmume"
+                    "desmume",
+                    "desmume-stable"
                 ]
             },
             "author": "yopyop, DeSmuME team",
@@ -27605,7 +27615,9 @@
                     "dolphin"
                 ],
                 "scoop-emulators": [
-                    "dolphin"
+                    "dolphin",
+                    "dolphin-beta",
+                    "dolphin-dev"
                 ]
             },
             "bin": [
@@ -27932,6 +27944,9 @@
                 "Sinclair ZX Spectrum +3"
             ],
             "matches": {
+                "scoop-bucket": [
+                    "dsp-emulator"
+                ],
                 "emucontrolcenter": [
                     "dsp"
                 ]
@@ -28930,7 +28945,10 @@
                     "FCEUX"
                 ],
                 "scoop-emulators": [
-                    "fceux"
+                    "fceux",
+                    "fceux-dev",
+                    "fceux-dev1",
+                    "fceux-dev2"
                 ]
             },
             "author": "FCEUX team",
@@ -29003,7 +29021,8 @@
                     "Flycast"
                 ],
                 "scoop-emulators": [
-                    "flycast"
+                    "flycast",
+                    "flycast-dev"
                 ]
             },
             "bin": [
@@ -32242,7 +32261,8 @@
                     "mGBA"
                 ],
                 "scoop-emulators": [
-                    "mgba"
+                    "mgba",
+                    "mgba-dev"
                 ]
             },
             "bin": [
@@ -33877,7 +33897,8 @@
                     "openMSX"
                 ],
                 "scoop-emulators": [
-                    "openmsx"
+                    "openmsx",
+                    "openmsx-dev"
                 ]
             },
             "bin": [
@@ -34426,7 +34447,8 @@
                     "PCSX2"
                 ],
                 "scoop-emulators": [
-                    "pcsx2"
+                    "pcsx2",
+                    "pcsx2-dev"
                 ]
             },
             "bin": [
@@ -34968,7 +34990,8 @@
                     "ppsspp"
                 ],
                 "scoop-emulators": [
-                    "ppsspp"
+                    "ppsspp",
+                    "ppsspp-dev"
                 ]
             },
             "bin": [
@@ -35041,7 +35064,8 @@
                     "Project64"
                 ],
                 "scoop-emulators": [
-                    "project64"
+                    "project64",
+                    "project64-dev"
                 ]
             },
             "bin": [
@@ -35422,7 +35446,8 @@
                     "punes"
                 ],
                 "scoop-emulators": [
-                    "punes"
+                    "punes",
+                    "punes-opengl"
                 ]
             },
             "author": "FHorse",
@@ -35802,7 +35827,8 @@
                     "redream"
                 ],
                 "scoop-emulators": [
-                    "redream"
+                    "redream",
+                    "redream-dev"
                 ]
             },
             "web": {
@@ -35957,7 +35983,8 @@
                     "retroarch"
                 ],
                 "scoop-emulators": [
-                    "retroarch"
+                    "retroarch",
+                    "retroarch-nightly"
                 ]
             },
             "bin": [
@@ -40016,7 +40043,8 @@
                     "scummvm"
                 ],
                 "scoop-emulators": [
-                    "scummvm"
+                    "scummvm",
+                    "scummvm-nightly"
                 ]
             },
             "bin": [
@@ -40452,7 +40480,8 @@
                     "snes9x"
                 ],
                 "scoop-emulators": [
-                    "snes9x"
+                    "snes9x",
+                    "snes9x-dev"
                 ]
             },
             "bin": [
@@ -41740,101 +41769,6 @@
             },
             "description": "VB64 is a Commodore 64 emulator written in VisualBasic."
         },
-        "vbam": {
-            "id": "vbam",
-            "shortName": "vbam",
-            "name": "VisualBoyAdvance-M-WX",
-            "platforms": [
-                "Nintendo Game Boy",
-                "Nintendo Game Boy Advance"
-            ],
-            "matches": {
-                "windspro": [
-                    "VBA-M"
-                ],
-                "launchbox": [
-                    "VisualBoyAdvance-M"
-                ],
-                "emucontrolcenter": [
-                    "vbam"
-                ],
-                "emulationstation-de": [
-                    "VBA-M"
-                ]
-            },
-            "bin": [
-                "VisualBoyAdvance-M-WX.exe"
-            ],
-            "dir": [
-                "VBA-M"
-            ],
-            "cmd": [
-                "%BIN% %ROM%"
-            ],
-            "author": "The VBA-M development team",
-            "license": "GNU GPLv2",
-            "web": {
-                "http://vba-m.com/": "home"
-            },
-            "description": "VisualBoyAdvance-M-WX is a Nintendo Game Boy and Game Boy Advance emulator. It is a fork of VisualBoyAdvance.",
-            "ext": [
-                "gb",
-                "gmb",
-                "sgb",
-                "cgb",
-                "gbc",
-                "agb",
-                "bin",
-                "elf",
-                "gba",
-                "mb"
-            ]
-        },
-        "vbarr": {
-            "id": "vbarr",
-            "shortName": "vbarr",
-            "name": "VisualBoyAdvance-rerecording",
-            "platforms": [
-                "Nintendo Game Boy",
-                "Nintendo Game Boy Advance",
-                "Nintendo Game Boy Color"
-            ],
-            "matches": {
-                "windspro": [
-                    "VBA-rr"
-                ],
-                "emucontrolcenter": [
-                    "vbarr"
-                ]
-            },
-            "author": "Forgotten, the VBA Team and the VBA-rr Team",
-            "license": "GNU GPLv2",
-            "bin": [
-                "VBA-rr-svn480+3.exe"
-            ],
-            "cmd": [
-                "%BIN% %ROM%"
-            ],
-            "web": {
-                "http://code.google.com/archive/p/vba-rerecording/wikis": "home"
-            },
-            "description": "VBA rerecording is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator based on the VisualBoyAdvance emulator.",
-            "dir": [
-                "VBA-rr_v24m_r480"
-            ],
-            "ext": [
-                "gb",
-                "gmb",
-                "sgb",
-                "cgb",
-                "gbc",
-                "agb",
-                "bin",
-                "elf",
-                "gba",
-                "mb"
-            ]
-        },
         "vbjin": {
             "id": "vbjin",
             "shortName": "vbjin",
@@ -42075,7 +42009,8 @@
                     "vice"
                 ],
                 "scoop-emulators": [
-                    "vice"
+                    "vice",
+                    "vice-stable"
                 ]
             }
         },
@@ -42477,6 +42412,60 @@
             },
             "description": "VisualBoy has a very high compatibility rate, performance is excellent and it supports all incarnations of the GameBoy. However, development of this emulator has been discontinued and it is now considered an integrated component of VisualBoy Advance. This emulator requires Direct X 7.0 or above."
         },
+        "visualboyadvance-m": {
+            "id": "visualboyadvance-m",
+            "shortName": "visualboyadvance-m",
+            "name": "VisualBoyAdvance-M-WX",
+            "platforms": [
+                "Nintendo Game Boy",
+                "Nintendo Game Boy Advance"
+            ],
+            "matches": {
+                "scoop-emulators": [
+                    "visualboyadvance-m",
+                    "visualboyadvance-m-nightly"
+                ],
+                "windspro": [
+                    "VBA-M"
+                ],
+                "launchbox": [
+                    "VisualBoyAdvance-M"
+                ],
+                "emucontrolcenter": [
+                    "vbam"
+                ],
+                "emulationstation-de": [
+                    "VBA-M"
+                ]
+            },
+            "bin": [
+                "VisualBoyAdvance-M-WX.exe"
+            ],
+            "dir": [
+                "VBA-M"
+            ],
+            "cmd": [
+                "%BIN% %ROM%"
+            ],
+            "author": "The VBA-M development team",
+            "license": "GNU GPLv2",
+            "web": {
+                "http://vba-m.com/": "home"
+            },
+            "description": "VisualBoyAdvance-M-WX is a Nintendo Game Boy and Game Boy Advance emulator. It is a fork of VisualBoyAdvance.",
+            "ext": [
+                "gb",
+                "gmb",
+                "sgb",
+                "cgb",
+                "gbc",
+                "agb",
+                "bin",
+                "elf",
+                "gba",
+                "mb"
+            ]
+        },
         "visualboyadvance": {
             "id": "visualboyadvance",
             "shortName": "visualboyadvance",
@@ -42511,9 +42500,9 @@
             },
             "description": "VisualBoyAdvance - a Gameboy and GameboyAdvance emulator"
         },
-        "visualboyadvancerr": {
-            "id": "visualboyadvancerr",
-            "shortName": "visualboyadvancerr",
+        "visualboyadvance-rr": {
+            "id": "visualboyadvance-rr",
+            "shortName": "visualboyadvance-rr",
             "name": "VisualBoyAdvance ReRecording",
             "platforms": [
                 "Nintendo Game Boy",
@@ -42521,7 +42510,11 @@
                 "Nintendo Game Boy Color"
             ],
             "matches": {
+                "windspro": [
+                    "VBA-rr"
+                ],
                 "emucontrolcenter": [
+                    "vbarr",
                     "visualboyadvancerr"
                 ]
             },
@@ -42532,6 +42525,21 @@
             ],
             "cmd": [
                 "%BIN% %ROM%"
+            ],
+            "dir": [
+                "VBA-rr_v24m_r480"
+            ],
+            "ext": [
+                "gb",
+                "gmb",
+                "sgb",
+                "cgb",
+                "gbc",
+                "agb",
+                "bin",
+                "elf",
+                "gba",
+                "mb"
             ],
             "web": {
                 "https://code.google.com/archive/p/vba-rerecording/": "home"
@@ -43342,7 +43350,8 @@
                     "Xenia D3D"
                 ],
                 "scoop-emulators": [
-                    "xenia"
+                    "xenia",
+                    "xenia-canary"
                 ]
             },
             "bin": [
@@ -43985,7 +43994,9 @@
                     "Yuzu"
                 ],
                 "scoop-emulators": [
-                    "yuzu"
+                    "yuzu",
+                    "yuzu-dev",
+                    "yuzu-pineapple"
                 ]
             },
             "bin": [

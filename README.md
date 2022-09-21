@@ -44,7 +44,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](sources/local.json) | Custom | 758 | 0 | 758 | 100% |
+| [Local](sources/local.json) | Custom | 757 | 0 | 757 | 100% |
 | [ScreenScraper](sources/screenscraper.json) | API | 3 | 0 | 3 | 100% |
 | [Old-Computers](sources/oldcomputers.json) | Website | 116 | 350 | 466 | 24.9% |
 | [EmulationKing](sources/emulationking.json) | Website | 96 | 0 | 96 | 100% |
@@ -55,7 +55,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [RetroPie](sources/retropie.json) | Frontend | 152 | 1 | 153 | 99.3% |
 | [WinDSPro](sources/windspro.json) | Frontend | 82 | 9 | 91 | 90.1% |
 | [emuControlCenter](sources/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
-| [scoop-emulators](sources/scoop-emulators.json) | Tools | 66 | 66 | 132 | 50% |
+| [scoop-emulators](sources/scoop-emulators.json) | Tools | 94 | 38 | 132 | 71.2% |
 
 ### 🏭 Companies
 
@@ -99,7 +99,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 ### ☑ TODO
 
-- merge duplicate emulators in local list
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
 - Setup source exports for
   - Frontends
@@ -114,7 +113,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - GamesTDB
   - Tools
     - skeletonKey
-    - scoop-emulators
   - Websites
     - GamesDatabase
     - EmuCR
