@@ -11835,6 +11835,7 @@
         "id": "retroarch_2048",
         "shortName": "retroarch_2048",
         "name": "retroarch_2048",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -11846,6 +11847,7 @@
         "id": "retroarch_81",
         "shortName": "retroarch_81",
         "name": "retroarch_81",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -11860,6 +11862,7 @@
         "id": "retroarch_a5200",
         "shortName": "retroarch_a5200",
         "name": "retroarch_a5200",
+        "parent": "retroarch",
         "platforms": [
             "Atari 5200"
         ],
@@ -11886,6 +11889,7 @@
         "id": "retroarch_atari800",
         "shortName": "retroarch_atari800",
         "name": "retroarch_atari800",
+        "parent": "retroarch",
         "platforms": [
             "Atari 5200",
             "Atari 800",
@@ -11918,6 +11922,7 @@
         "id": "retroarch_beetle_lynx",
         "shortName": "retroarch_beetle_lynx",
         "name": "retroarch_beetle_lynx",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -11929,6 +11934,7 @@
         "id": "retroarch_beetle_ngp",
         "shortName": "retroarch_beetle_ngp",
         "name": "retroarch_beetle_ngp",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -11940,6 +11946,7 @@
         "id": "retroarch_beetle_pce_fast",
         "shortName": "retroarch_beetle_pce_fast",
         "name": "retroarch_beetle_pce_fast",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -11951,6 +11958,7 @@
         "id": "retroarch_beetle_pcfx",
         "shortName": "retroarch_beetle_pcfx",
         "name": "retroarch_beetle_pcfx",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -11962,6 +11970,7 @@
         "id": "retroarch_beetle_psx",
         "shortName": "retroarch_beetle_psx",
         "name": "retroarch_beetle_psx",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -11973,6 +11982,7 @@
         "id": "retroarch_beetle_saturn",
         "shortName": "retroarch_beetle_saturn",
         "name": "retroarch_beetle_saturn",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -11984,6 +11994,7 @@
         "id": "retroarch_beetle_supergrafx",
         "shortName": "retroarch_beetle_supergrafx",
         "name": "retroarch_beetle_supergrafx",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -11995,6 +12006,7 @@
         "id": "retroarch_beetle_vb",
         "shortName": "retroarch_beetle_vb",
         "name": "retroarch_beetle_vb",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -12006,6 +12018,7 @@
         "id": "retroarch_beetle_wswan",
         "shortName": "retroarch_beetle_wswan",
         "name": "retroarch_beetle_wswan",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -12017,6 +12030,7 @@
         "id": "retroarch_bk",
         "shortName": "retroarch_bk",
         "name": "retroarch_bk",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12028,6 +12042,7 @@
         "id": "retroarch_blastem",
         "shortName": "retroarch_blastem",
         "name": "retroarch_blastem",
+        "parent": "retroarch",
         "platforms": [
             "Sega Genesis"
         ],
@@ -12051,6 +12066,7 @@
         "id": "retroarch_bluemsx",
         "shortName": "retroarch_bluemsx",
         "name": "retroarch_bluemsx",
+        "parent": "retroarch",
         "platforms": [
             "Coleco ColecoVision",
             "Microsoft MSX",
@@ -12083,6 +12099,7 @@
         "id": "retroarch_boom3",
         "shortName": "retroarch_boom3",
         "name": "retroarch_boom3",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "emulationstation-de": [
@@ -12107,6 +12124,7 @@
         "id": "retroarch_boom3_xp",
         "shortName": "retroarch_boom3_xp",
         "name": "retroarch_boom3_xp",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "emulationstation-de": [
@@ -12128,6 +12146,7 @@
         "id": "retroarch_bsnes",
         "shortName": "retroarch_bsnes",
         "name": "retroarch_bsnes",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Color",
@@ -12161,6 +12180,7 @@
         "id": "retroarch_bsnes_hd_beta",
         "shortName": "retroarch_bsnes_hd_beta",
         "name": "retroarch_bsnes_hd_beta",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Satellaview",
             "Nintendo Super Nintendo Entertainment System",
@@ -12186,6 +12206,7 @@
         "id": "retroarch_bsnes_mercury_accuracy",
         "shortName": "retroarch_bsnes_mercury_accuracy",
         "name": "retroarch_bsnes_mercury_accuracy",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Satellaview",
             "Nintendo Super Nintendo Entertainment System",
@@ -12211,6 +12232,7 @@
         "id": "retroarch_bsneshd",
         "shortName": "retroarch_bsneshd",
         "name": "retroarch_bsneshd",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12222,6 +12244,7 @@
         "id": "retroarch_cannonball",
         "shortName": "retroarch_cannonball",
         "name": "retroarch_cannonball",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12233,6 +12256,7 @@
         "id": "retroarch_cap32",
         "shortName": "retroarch_cap32",
         "name": "retroarch_cap32",
+        "parent": "retroarch",
         "platforms": [
             "Amstrad CPC",
             "Amstrad GX4000"
@@ -12260,6 +12284,7 @@
         "id": "retroarch_caprice32",
         "shortName": "retroarch_caprice32",
         "name": "retroarch_caprice32",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -12271,6 +12296,7 @@
         "id": "retroarch_cdi2015",
         "shortName": "retroarch_cdi2015",
         "name": "retroarch_cdi2015",
+        "parent": "retroarch",
         "platforms": [
             "Philips CD-i"
         ],
@@ -12297,6 +12323,7 @@
         "id": "retroarch_chailove",
         "shortName": "retroarch_chailove",
         "name": "retroarch_chailove",
+        "parent": "retroarch",
         "platforms": [],
         "matches": []
     },
@@ -12304,6 +12331,7 @@
         "id": "retroarch_citra",
         "shortName": "retroarch_citra",
         "name": "retroarch_citra",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo 3DS"
         ],
@@ -12327,6 +12355,7 @@
         "id": "retroarch_citra2018",
         "shortName": "retroarch_citra2018",
         "name": "retroarch_citra2018",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo 3DS"
         ],
@@ -12350,6 +12379,7 @@
         "id": "retroarch_craft",
         "shortName": "retroarch_craft",
         "name": "retroarch_craft",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12361,6 +12391,7 @@
         "id": "retroarch_crocods",
         "shortName": "retroarch_crocods",
         "name": "retroarch_crocods",
+        "parent": "retroarch",
         "platforms": [
             "Amstrad CPC",
             "Amstrad GX4000"
@@ -12388,6 +12419,7 @@
         "id": "retroarch_desmume",
         "shortName": "retroarch_desmume",
         "name": "retroarch_desmume",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo DS"
         ],
@@ -12417,6 +12449,7 @@
         "id": "retroarch_desmume2015",
         "shortName": "retroarch_desmume2015",
         "name": "retroarch_desmume2015",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo DS"
         ],
@@ -12443,6 +12476,7 @@
         "id": "retroarch_dinothawr",
         "shortName": "retroarch_dinothawr",
         "name": "retroarch_dinothawr",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12457,6 +12491,7 @@
         "id": "retroarch_dolphin",
         "shortName": "retroarch_dolphin",
         "name": "retroarch_dolphin",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo GameCube",
             "Nintendo Wii"
@@ -12484,6 +12519,7 @@
         "id": "retroarch_dosbox",
         "shortName": "retroarch_dosbox",
         "name": "retroarch_dosbox",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -12495,6 +12531,7 @@
         "id": "retroarch_dosbox_core",
         "shortName": "retroarch_dosbox_core",
         "name": "retroarch_dosbox_core",
+        "parent": "retroarch",
         "platforms": [
             "Microsoft MS-DOS",
             "Generic PC"
@@ -12519,6 +12556,7 @@
         "id": "retroarch_dosbox_pure",
         "shortName": "retroarch_dosbox_pure",
         "name": "retroarch_dosbox_pure",
+        "parent": "retroarch",
         "platforms": [
             "Microsoft MS-DOS",
             "Generic PC"
@@ -12549,6 +12587,7 @@
         "id": "retroarch_dosbox_svn",
         "shortName": "retroarch_dosbox_svn",
         "name": "retroarch_dosbox_svn",
+        "parent": "retroarch",
         "platforms": [
             "Microsoft MS-DOS",
             "Generic PC"
@@ -12573,6 +12612,7 @@
         "id": "retroarch_easyrpg",
         "shortName": "retroarch_easyrpg",
         "name": "retroarch_easyrpg",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "emulationstation-de": [
@@ -12597,6 +12637,7 @@
         "id": "retroarch_ecwolf",
         "shortName": "retroarch_ecwolf",
         "name": "retroarch_ecwolf",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12608,6 +12649,7 @@
         "id": "retroarch_emuscv",
         "shortName": "retroarch_emuscv",
         "name": "retroarch_emuscv",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12619,6 +12661,7 @@
         "id": "retroarch_fbalpha2012",
         "shortName": "retroarch_fbalpha2012",
         "name": "retroarch_fbalpha2012",
+        "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
             "Capcom Capcom Play System 1"
@@ -12646,6 +12689,7 @@
         "id": "retroarch_fbalpha2012_cps1",
         "shortName": "retroarch_fbalpha2012_cps1",
         "name": "retroarch_fbalpha2012_cps1",
+        "parent": "retroarch",
         "platforms": [
             "Capcom Capcom Play System 1"
         ],
@@ -12669,6 +12713,7 @@
         "id": "retroarch_fbalpha2012_cps2",
         "shortName": "retroarch_fbalpha2012_cps2",
         "name": "retroarch_fbalpha2012_cps2",
+        "parent": "retroarch",
         "platforms": [
             "Capcom Capcom Play System 1"
         ],
@@ -12692,6 +12737,7 @@
         "id": "retroarch_fbalpha2012_cps3",
         "shortName": "retroarch_fbalpha2012_cps3",
         "name": "retroarch_fbalpha2012_cps3",
+        "parent": "retroarch",
         "platforms": [
             "Capcom Capcom Play System 1"
         ],
@@ -12715,6 +12761,7 @@
         "id": "retroarch_fbalpha2012_neogeo",
         "shortName": "retroarch_fbalpha2012_neogeo",
         "name": "retroarch_fbalpha2012_neogeo",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "emulationstation-de": [
@@ -12736,6 +12783,7 @@
         "id": "retroarch_fbneo",
         "shortName": "retroarch_fbneo",
         "name": "retroarch_fbneo",
+        "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
             "Capcom Capcom Play System 1"
@@ -12766,6 +12814,7 @@
         "id": "retroarch_fceumm",
         "shortName": "retroarch_fceumm",
         "name": "retroarch_fceumm",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Entertainment System",
             "Nintendo Famicom"
@@ -12796,6 +12845,7 @@
         "id": "retroarch_fceunext",
         "shortName": "retroarch_fceunext",
         "name": "retroarch_fceunext",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12807,6 +12857,7 @@
         "id": "retroarch_flycast",
         "shortName": "retroarch_flycast",
         "name": "retroarch_flycast",
+        "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
             "Sammy Atomiswave",
@@ -12839,6 +12890,7 @@
         "id": "retroarch_fmsx",
         "shortName": "retroarch_fmsx",
         "name": "retroarch_fmsx",
+        "parent": "retroarch",
         "platforms": [
             "Microsoft MSX"
         ],
@@ -12868,6 +12920,7 @@
         "id": "retroarch_freechaf",
         "shortName": "retroarch_freechaf",
         "name": "retroarch_freechaf",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12882,6 +12935,7 @@
         "id": "retroarch_freeintv",
         "shortName": "retroarch_freeintv",
         "name": "retroarch_freeintv",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12896,6 +12950,7 @@
         "id": "retroarch_frodo",
         "shortName": "retroarch_frodo",
         "name": "retroarch_frodo",
+        "parent": "retroarch",
         "platforms": [
             "Commodore 64"
         ],
@@ -12919,6 +12974,7 @@
         "id": "retroarch_fuse",
         "shortName": "retroarch_fuse",
         "name": "retroarch_fuse",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -12933,6 +12989,7 @@
         "id": "retroarch_gambatte",
         "shortName": "retroarch_gambatte",
         "name": "retroarch_gambatte",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Color"
@@ -12963,6 +13020,7 @@
         "id": "retroarch_gearboy",
         "shortName": "retroarch_gearboy",
         "name": "retroarch_gearboy",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Color"
@@ -12987,6 +13045,7 @@
         "id": "retroarch_gearcoleco",
         "shortName": "retroarch_gearcoleco",
         "name": "retroarch_gearcoleco",
+        "parent": "retroarch",
         "platforms": [
             "Coleco ColecoVision"
         ],
@@ -13013,6 +13072,7 @@
         "id": "retroarch_gearsystem",
         "shortName": "retroarch_gearsystem",
         "name": "retroarch_gearsystem",
+        "parent": "retroarch",
         "platforms": [
             "Sega Game Gear",
             "Sega Mark III & Master System",
@@ -13044,6 +13104,7 @@
         "id": "retroarch_genesis_plus_gx",
         "shortName": "retroarch_genesis_plus_gx",
         "name": "retroarch_genesis_plus_gx",
+        "parent": "retroarch",
         "platforms": [
             "Sega Game Gear",
             "Sega Genesis",
@@ -13074,6 +13135,7 @@
         "id": "retroarch_genesis_plus_gx_wide",
         "shortName": "retroarch_genesis_plus_gx_wide",
         "name": "retroarch_genesis_plus_gx_wide",
+        "parent": "retroarch",
         "platforms": [
             "Sega Game Gear",
             "Sega Genesis",
@@ -13101,6 +13163,7 @@
         "id": "retroarch_genesisplusgx",
         "shortName": "retroarch_genesisplusgx",
         "name": "retroarch_genesisplusgx",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13112,6 +13175,7 @@
         "id": "retroarch_genesisplusgxwide",
         "shortName": "retroarch_genesisplusgxwide",
         "name": "retroarch_genesisplusgxwide",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13123,6 +13187,7 @@
         "id": "retroarch_gong",
         "shortName": "retroarch_gong",
         "name": "retroarch_gong",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13134,6 +13199,7 @@
         "id": "retroarch_gpsp",
         "shortName": "retroarch_gpsp",
         "name": "retroarch_gpsp",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy Advance"
         ],
@@ -13163,6 +13229,7 @@
         "id": "retroarch_gw",
         "shortName": "retroarch_gw",
         "name": "retroarch_gw",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game & Watch"
         ],
@@ -13192,6 +13259,7 @@
         "id": "retroarch_handy",
         "shortName": "retroarch_handy",
         "name": "retroarch_handy",
+        "parent": "retroarch",
         "platforms": [
             "Atari Lynx"
         ],
@@ -13221,6 +13289,7 @@
         "id": "retroarch_hatari",
         "shortName": "retroarch_hatari",
         "name": "retroarch_hatari",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13235,6 +13304,7 @@
         "id": "retroarch_imageviewer",
         "shortName": "retroarch_imageviewer",
         "name": "retroarch_imageviewer",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13246,6 +13316,7 @@
         "id": "retroarch_kronos",
         "shortName": "retroarch_kronos",
         "name": "retroarch_kronos",
+        "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
             "Sega Saturn"
@@ -13276,6 +13347,7 @@
         "id": "retroarch_lowresnx",
         "shortName": "retroarch_lowresnx",
         "name": "retroarch_lowresnx",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13287,6 +13359,7 @@
         "id": "retroarch_lutro",
         "shortName": "retroarch_lutro",
         "name": "retroarch_lutro",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13298,6 +13371,7 @@
         "id": "retroarch_mame",
         "shortName": "retroarch_mame",
         "name": "retroarch_mame",
+        "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
             "Bally Professional Arcade & Astrocade",
@@ -13329,6 +13403,7 @@
         "id": "retroarch_mame2000",
         "shortName": "retroarch_mame2000",
         "name": "retroarch_mame2000",
+        "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
             "Capcom Capcom Play System 1"
@@ -13359,6 +13434,7 @@
         "id": "retroarch_mame2003",
         "shortName": "retroarch_mame2003",
         "name": "retroarch_mame2003",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13373,6 +13449,7 @@
         "id": "retroarch_mame2003_plus",
         "shortName": "retroarch_mame2003_plus",
         "name": "retroarch_mame2003_plus",
+        "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
             "Capcom Capcom Play System 1"
@@ -13403,6 +13480,7 @@
         "id": "retroarch_mame2010",
         "shortName": "retroarch_mame2010",
         "name": "retroarch_mame2010",
+        "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
             "Capcom Capcom Play System 1"
@@ -13433,6 +13511,7 @@
         "id": "retroarch_mame2015",
         "shortName": "retroarch_mame2015",
         "name": "retroarch_mame2015",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13447,6 +13526,7 @@
         "id": "retroarch_mame2016",
         "shortName": "retroarch_mame2016",
         "name": "retroarch_mame2016",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13461,6 +13541,7 @@
         "id": "retroarch_mednafen_lynx",
         "shortName": "retroarch_mednafen_lynx",
         "name": "retroarch_mednafen_lynx",
+        "parent": "retroarch",
         "platforms": [
             "Atari Lynx"
         ],
@@ -13487,6 +13568,7 @@
         "id": "retroarch_mednafen_ngp",
         "shortName": "retroarch_mednafen_ngp",
         "name": "retroarch_mednafen_ngp",
+        "parent": "retroarch",
         "platforms": [
             "SNK Neo Geo Pocket",
             "SNK Neo Geo Pocket Color"
@@ -13514,6 +13596,7 @@
         "id": "retroarch_mednafen_pce",
         "shortName": "retroarch_mednafen_pce",
         "name": "retroarch_mednafen_pce",
+        "parent": "retroarch",
         "platforms": [
             "NEC Turbografx 16",
             "NEC TurboGrafx-CD",
@@ -13539,6 +13622,7 @@
         "id": "retroarch_mednafen_pce_fast",
         "shortName": "retroarch_mednafen_pce_fast",
         "name": "retroarch_mednafen_pce_fast",
+        "parent": "retroarch",
         "platforms": [
             "NEC Turbografx 16",
             "NEC TurboGrafx-CD"
@@ -13566,6 +13650,7 @@
         "id": "retroarch_mednafen_pcfx",
         "shortName": "retroarch_mednafen_pcfx",
         "name": "retroarch_mednafen_pcfx",
+        "parent": "retroarch",
         "platforms": [
             "NEC PC-FX"
         ],
@@ -13592,6 +13677,7 @@
         "id": "retroarch_mednafen_psx",
         "shortName": "retroarch_mednafen_psx",
         "name": "retroarch_mednafen_psx",
+        "parent": "retroarch",
         "platforms": [
             "Sony Playstation"
         ],
@@ -13618,6 +13704,7 @@
         "id": "retroarch_mednafen_psx_hw",
         "shortName": "retroarch_mednafen_psx_hw",
         "name": "retroarch_mednafen_psx_hw",
+        "parent": "retroarch",
         "platforms": [
             "Sony Playstation"
         ],
@@ -13644,6 +13731,7 @@
         "id": "retroarch_mednafen_saturn",
         "shortName": "retroarch_mednafen_saturn",
         "name": "retroarch_mednafen_saturn",
+        "parent": "retroarch",
         "platforms": [
             "Sega Saturn"
         ],
@@ -13670,6 +13758,7 @@
         "id": "retroarch_mednafen_supafaust",
         "shortName": "retroarch_mednafen_supafaust",
         "name": "retroarch_mednafen_supafaust",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Super Nintendo Entertainment System"
         ],
@@ -13693,6 +13782,7 @@
         "id": "retroarch_mednafen_supergrafx",
         "shortName": "retroarch_mednafen_supergrafx",
         "name": "retroarch_mednafen_supergrafx",
+        "parent": "retroarch",
         "platforms": [
             "NEC PC Engine SuperGrafx"
         ],
@@ -13719,6 +13809,7 @@
         "id": "retroarch_mednafen_vb",
         "shortName": "retroarch_mednafen_vb",
         "name": "retroarch_mednafen_vb",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Virtual Boy"
         ],
@@ -13745,6 +13836,7 @@
         "id": "retroarch_mednafen_wswan",
         "shortName": "retroarch_mednafen_wswan",
         "name": "retroarch_mednafen_wswan",
+        "parent": "retroarch",
         "platforms": [
             "Bandai WonderSwan",
             "Bandai WonderSwan Color"
@@ -13772,6 +13864,7 @@
         "id": "retroarch_melonds",
         "shortName": "retroarch_melonds",
         "name": "retroarch_melonds",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo DS"
         ],
@@ -13798,6 +13891,7 @@
         "id": "retroarch_mesen",
         "shortName": "retroarch_mesen",
         "name": "retroarch_mesen",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Entertainment System",
             "Nintendo Famicom"
@@ -13828,6 +13922,7 @@
         "id": "retroarch_mesen-s",
         "shortName": "retroarch_mesen-s",
         "name": "retroarch_mesen-s",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Color",
@@ -13854,6 +13949,7 @@
         "id": "retroarch_mesen_s",
         "shortName": "retroarch_mesen_s",
         "name": "retroarch_mesen_s",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13865,6 +13961,7 @@
         "id": "retroarch_mess",
         "shortName": "retroarch_mess",
         "name": "retroarch_mess",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -13876,6 +13973,7 @@
         "id": "retroarch_mess2015",
         "shortName": "retroarch_mess2015",
         "name": "retroarch_mess2015",
+        "parent": "retroarch",
         "platforms": [],
         "matches": []
     },
@@ -13883,6 +13981,7 @@
         "id": "retroarch_mess2016",
         "shortName": "retroarch_mess2016",
         "name": "retroarch_mess2016",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -13894,6 +13993,7 @@
         "id": "retroarch_meteor",
         "shortName": "retroarch_meteor",
         "name": "retroarch_meteor",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13905,6 +14005,7 @@
         "id": "retroarch_mgba",
         "shortName": "retroarch_mgba",
         "name": "retroarch_mgba",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Advance",
@@ -13936,6 +14037,7 @@
         "id": "retroarch_minivmac",
         "shortName": "retroarch_minivmac",
         "name": "retroarch_minivmac",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13947,6 +14049,7 @@
         "id": "retroarch_mrboom",
         "shortName": "retroarch_mrboom",
         "name": "retroarch_mrboom",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13961,6 +14064,7 @@
         "id": "retroarch_mu",
         "shortName": "retroarch_mu",
         "name": "retroarch_mu",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13972,6 +14076,7 @@
         "id": "retroarch_mupen64plus",
         "shortName": "retroarch_mupen64plus",
         "name": "retroarch_mupen64plus",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -13986,6 +14091,7 @@
         "id": "retroarch_mupen64plus_next",
         "shortName": "retroarch_mupen64plus_next",
         "name": "retroarch_mupen64plus_next",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo 64",
             "Nintendo 64DD"
@@ -14016,6 +14122,7 @@
         "id": "retroarch_nekop2",
         "shortName": "retroarch_nekop2",
         "name": "retroarch_nekop2",
+        "parent": "retroarch",
         "platforms": [
             "NEC PC-98 series"
         ],
@@ -14039,6 +14146,7 @@
         "id": "retroarch_neocd",
         "shortName": "retroarch_neocd",
         "name": "retroarch_neocd",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14053,6 +14161,7 @@
         "id": "retroarch_nestopia",
         "shortName": "retroarch_nestopia",
         "name": "retroarch_nestopia",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Entertainment System",
             "Nintendo Famicom"
@@ -14083,6 +14192,7 @@
         "id": "retroarch_np2kai",
         "shortName": "retroarch_np2kai",
         "name": "retroarch_np2kai",
+        "parent": "retroarch",
         "platforms": [
             "NEC PC-98 series"
         ],
@@ -14112,6 +14222,7 @@
         "id": "retroarch_nxengine",
         "shortName": "retroarch_nxengine",
         "name": "retroarch_nxengine",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14126,6 +14237,7 @@
         "id": "retroarch_o2em",
         "shortName": "retroarch_o2em",
         "name": "retroarch_o2em",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14140,6 +14252,7 @@
         "id": "retroarch_opera",
         "shortName": "retroarch_opera",
         "name": "retroarch_opera",
+        "parent": "retroarch",
         "platforms": [
             "Panasonic 3DO Interactive Multiplayer"
         ],
@@ -14169,6 +14282,7 @@
         "id": "retroarch_parallel_n64",
         "shortName": "retroarch_parallel_n64",
         "name": "retroarch_parallel_n64",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo 64",
             "Nintendo 64DD"
@@ -14199,6 +14313,7 @@
         "id": "retroarch_pcsx2",
         "shortName": "retroarch_pcsx2",
         "name": "retroarch_pcsx2",
+        "parent": "retroarch",
         "platforms": [
             "Sony Playstation 2"
         ],
@@ -14225,6 +14340,7 @@
         "id": "retroarch_pcsx_rearmed",
         "shortName": "retroarch_pcsx_rearmed",
         "name": "retroarch_pcsx_rearmed",
+        "parent": "retroarch",
         "platforms": [
             "Sony Playstation"
         ],
@@ -14254,6 +14370,7 @@
         "id": "retroarch_picodrive",
         "shortName": "retroarch_picodrive",
         "name": "retroarch_picodrive",
+        "parent": "retroarch",
         "platforms": [
             "Sega Genesis",
             "Sega Mark III & Master System",
@@ -14286,6 +14403,7 @@
         "id": "retroarch_pokemini",
         "shortName": "retroarch_pokemini",
         "name": "retroarch_pokemini",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14300,6 +14418,7 @@
         "id": "retroarch_potator",
         "shortName": "retroarch_potator",
         "name": "retroarch_potator",
+        "parent": "retroarch",
         "platforms": [
             "Watara Supervision"
         ],
@@ -14326,6 +14445,7 @@
         "id": "retroarch_ppsspp",
         "shortName": "retroarch_ppsspp",
         "name": "retroarch_ppsspp",
+        "parent": "retroarch",
         "platforms": [
             "Sony Playstation Portable"
         ],
@@ -14355,6 +14475,7 @@
         "id": "retroarch_prboom",
         "shortName": "retroarch_prboom",
         "name": "retroarch_prboom",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "emulationstation-de": [
@@ -14382,6 +14503,7 @@
         "id": "retroarch_prosystem",
         "shortName": "retroarch_prosystem",
         "name": "retroarch_prosystem",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14396,6 +14518,7 @@
         "id": "retroarch_puae",
         "shortName": "retroarch_puae",
         "name": "retroarch_puae",
+        "parent": "retroarch",
         "platforms": [
             "Commodore Amiga",
             "Commodore Amiga 1200",
@@ -14429,6 +14552,7 @@
         "id": "retroarch_puae2021",
         "shortName": "retroarch_puae2021",
         "name": "retroarch_puae2021",
+        "parent": "retroarch",
         "platforms": [
             "Commodore Amiga",
             "Commodore Amiga 1200",
@@ -14459,6 +14583,7 @@
         "id": "retroarch_px68k",
         "shortName": "retroarch_px68k",
         "name": "retroarch_px68k",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14473,6 +14598,7 @@
         "id": "retroarch_quasi88",
         "shortName": "retroarch_quasi88",
         "name": "retroarch_quasi88",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14487,6 +14613,7 @@
         "id": "retroarch_quicknes",
         "shortName": "retroarch_quicknes",
         "name": "retroarch_quicknes",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Entertainment System"
         ],
@@ -14516,6 +14643,7 @@
         "id": "retroarch_race",
         "shortName": "retroarch_race",
         "name": "retroarch_race",
+        "parent": "retroarch",
         "platforms": [
             "SNK Neo Geo Pocket",
             "SNK Neo Geo Pocket Color"
@@ -14543,6 +14671,7 @@
         "id": "retroarch_reminiscence",
         "shortName": "retroarch_reminiscence",
         "name": "retroarch_reminiscence",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14554,6 +14683,7 @@
         "id": "retroarch_retro8",
         "shortName": "retroarch_retro8",
         "name": "retroarch_retro8",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14568,6 +14698,7 @@
         "id": "retroarch_retrodream",
         "shortName": "retroarch_retrodream",
         "name": "retroarch_retrodream",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14579,6 +14710,7 @@
         "id": "retroarch_same_cdi",
         "shortName": "retroarch_same_cdi",
         "name": "retroarch_same_cdi",
+        "parent": "retroarch",
         "platforms": [
             "Philips CD-i"
         ],
@@ -14602,6 +14734,7 @@
         "id": "retroarch_sameboy",
         "shortName": "retroarch_sameboy",
         "name": "retroarch_sameboy",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Color"
@@ -14629,6 +14762,7 @@
         "id": "retroarch_sameduck",
         "shortName": "retroarch_sameduck",
         "name": "retroarch_sameduck",
+        "parent": "retroarch",
         "platforms": [
             "Creatronic Mega Duck & Cougar Boy"
         ],
@@ -14655,6 +14789,7 @@
         "id": "retroarch_scummvm",
         "shortName": "retroarch_scummvm",
         "name": "retroarch_scummvm",
+        "parent": "retroarch",
         "platforms": [
             "Generic ScummVM"
         ],
@@ -14684,6 +14819,7 @@
         "id": "retroarch_smsplus",
         "shortName": "retroarch_smsplus",
         "name": "retroarch_smsplus",
+        "parent": "retroarch",
         "platforms": [
             "Sega Game Gear",
             "Sega Mark III & Master System"
@@ -14708,6 +14844,7 @@
         "id": "retroarch_smsplus_gx",
         "shortName": "retroarch_smsplus_gx",
         "name": "retroarch_smsplus_gx",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -14719,6 +14856,7 @@
         "id": "retroarch_snes9x",
         "shortName": "retroarch_snes9x",
         "name": "retroarch_snes9x",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Satellaview",
             "Nintendo Super Nintendo Entertainment System",
@@ -14750,6 +14888,7 @@
         "id": "retroarch_snes9x2002",
         "shortName": "retroarch_snes9x2002",
         "name": "retroarch_snes9x2002",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14764,6 +14903,7 @@
         "id": "retroarch_snes9x2005",
         "shortName": "retroarch_snes9x2005",
         "name": "retroarch_snes9x2005",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14778,6 +14918,7 @@
         "id": "retroarch_snes9x2010",
         "shortName": "retroarch_snes9x2010",
         "name": "retroarch_snes9x2010",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Satellaview",
             "Nintendo Super Nintendo Entertainment System",
@@ -14809,6 +14950,7 @@
         "id": "retroarch_squirreljme",
         "shortName": "retroarch_squirreljme",
         "name": "retroarch_squirreljme",
+        "parent": "retroarch",
         "platforms": [
             "Mobile J2ME"
         ],
@@ -14832,6 +14974,7 @@
         "id": "retroarch_stella",
         "shortName": "retroarch_stella",
         "name": "retroarch_stella",
+        "parent": "retroarch",
         "platforms": [
             "Atari 2600"
         ],
@@ -14861,6 +15004,7 @@
         "id": "retroarch_stella2014",
         "shortName": "retroarch_stella2014",
         "name": "retroarch_stella2014",
+        "parent": "retroarch",
         "platforms": [
             "Atari 2600"
         ],
@@ -14890,6 +15034,7 @@
         "id": "retroarch_stonesoup",
         "shortName": "retroarch_stonesoup",
         "name": "retroarch_stonesoup",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14901,6 +15046,7 @@
         "id": "retroarch_superflappybirds",
         "shortName": "retroarch_superflappybirds",
         "name": "retroarch_superflappybirds",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -14912,6 +15058,7 @@
         "id": "retroarch_swanstation",
         "shortName": "retroarch_swanstation",
         "name": "retroarch_swanstation",
+        "parent": "retroarch",
         "platforms": [
             "Sony Playstation"
         ],
@@ -14938,6 +15085,7 @@
         "id": "retroarch_tgbdual",
         "shortName": "retroarch_tgbdual",
         "name": "retroarch_tgbdual",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Color"
@@ -14968,6 +15116,7 @@
         "id": "retroarch_theodore",
         "shortName": "retroarch_theodore",
         "name": "retroarch_theodore",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14982,6 +15131,7 @@
         "id": "retroarch_thepowdertoy",
         "shortName": "retroarch_thepowdertoy",
         "name": "retroarch_thepowdertoy",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -14993,6 +15143,7 @@
         "id": "retroarch_tic80",
         "shortName": "retroarch_tic80",
         "name": "retroarch_tic80",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15007,6 +15158,7 @@
         "id": "retroarch_tyrquake",
         "shortName": "retroarch_tyrquake",
         "name": "retroarch_tyrquake",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15021,6 +15173,7 @@
         "id": "retroarch_uae4arm",
         "shortName": "retroarch_uae4arm",
         "name": "retroarch_uae4arm",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15035,6 +15188,7 @@
         "id": "retroarch_uzem",
         "shortName": "retroarch_uzem",
         "name": "retroarch_uzem",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15046,6 +15200,7 @@
         "id": "retroarch_vba_next",
         "shortName": "retroarch_vba_next",
         "name": "retroarch_vba_next",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy Advance"
         ],
@@ -15072,6 +15227,7 @@
         "id": "retroarch_vbam",
         "shortName": "retroarch_vbam",
         "name": "retroarch_vbam",
+        "parent": "retroarch",
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Advance",
@@ -15097,6 +15253,7 @@
         "id": "retroarch_vecx",
         "shortName": "retroarch_vecx",
         "name": "retroarch_vecx",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15111,6 +15268,7 @@
         "id": "retroarch_vice",
         "shortName": "retroarch_vice",
         "name": "retroarch_vice",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "retropie": [
@@ -15122,6 +15280,7 @@
         "id": "retroarch_vice_x128",
         "shortName": "retroarch_vice_x128",
         "name": "retroarch_vice_x128",
+        "parent": "retroarch",
         "platforms": [
             "Commodore 64"
         ],
@@ -15148,6 +15307,7 @@
         "id": "retroarch_vice_x64",
         "shortName": "retroarch_vice_x64",
         "name": "retroarch_vice_x64",
+        "parent": "retroarch",
         "platforms": [
             "Commodore 64"
         ],
@@ -15174,6 +15334,7 @@
         "id": "retroarch_vice_x64sc",
         "shortName": "retroarch_vice_x64sc",
         "name": "retroarch_vice_x64sc",
+        "parent": "retroarch",
         "platforms": [
             "Commodore 64"
         ],
@@ -15200,6 +15361,7 @@
         "id": "retroarch_vice_xcbm2",
         "shortName": "retroarch_vice_xcbm2",
         "name": "retroarch_vice_xcbm2",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15211,6 +15373,7 @@
         "id": "retroarch_vice_xcbm5x0",
         "shortName": "retroarch_vice_xcbm5x0",
         "name": "retroarch_vice_xcbm5x0",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15222,6 +15385,7 @@
         "id": "retroarch_vice_xpet",
         "shortName": "retroarch_vice_xpet",
         "name": "retroarch_vice_xpet",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15233,6 +15397,7 @@
         "id": "retroarch_vice_xplus4",
         "shortName": "retroarch_vice_xplus4",
         "name": "retroarch_vice_xplus4",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15244,6 +15409,7 @@
         "id": "retroarch_vice_xscpu64",
         "shortName": "retroarch_vice_xscpu64",
         "name": "retroarch_vice_xscpu64",
+        "parent": "retroarch",
         "platforms": [
             "Commodore 64"
         ],
@@ -15270,6 +15436,7 @@
         "id": "retroarch_vice_xvic",
         "shortName": "retroarch_vice_xvic",
         "name": "retroarch_vice_xvic",
+        "parent": "retroarch",
         "platforms": [
             "Commodore VIC-20"
         ],
@@ -15296,6 +15463,7 @@
         "id": "retroarch_virtualjaguar",
         "shortName": "retroarch_virtualjaguar",
         "name": "retroarch_virtualjaguar",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15310,6 +15478,7 @@
         "id": "retroarch_vitaquake2",
         "shortName": "retroarch_vitaquake2",
         "name": "retroarch_vitaquake2",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15321,6 +15490,7 @@
         "id": "retroarch_vitaquake3",
         "shortName": "retroarch_vitaquake3",
         "name": "retroarch_vitaquake3",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15332,6 +15502,7 @@
         "id": "retroarch_vitavoyager",
         "shortName": "retroarch_vitavoyager",
         "name": "retroarch_vitavoyager",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15343,6 +15514,7 @@
         "id": "retroarch_x1",
         "shortName": "retroarch_x1",
         "name": "retroarch_x1",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15357,6 +15529,7 @@
         "id": "retroarch_xrick",
         "shortName": "retroarch_xrick",
         "name": "retroarch_xrick",
+        "parent": "retroarch",
         "platforms": [],
         "matches": {
             "recalbox": [
@@ -15371,6 +15544,7 @@
         "id": "retroarch_yabasanshiro",
         "shortName": "retroarch_yabasanshiro",
         "name": "retroarch_yabasanshiro",
+        "parent": "retroarch",
         "platforms": [
             "Sega Saturn"
         ],
@@ -15397,6 +15571,7 @@
         "id": "retroarch_yabause",
         "shortName": "retroarch_yabause",
         "name": "retroarch_yabause",
+        "parent": "retroarch",
         "platforms": [
             "Sega Saturn"
         ],
@@ -15883,138 +16058,6 @@
             ]
         }
     },
-    "sdl2trs Bootable Diskette": {
-        "id": "sdl2trs Bootable Diskette",
-        "shortName": "sdl2trs Bootable Diskette",
-        "name": "sdl2trs Bootable Diskette",
-        "platforms": [
-            "Tandy Radio Shack TRS-80 Color Computer"
-        ],
-        "matches": {
-            "emulationstation-de": [
-                "sdl2trs Bootable Diskette"
-            ]
-        },
-        "bin": [
-            "sdl2trs64.exe"
-        ],
-        "dir": [
-            "sdl2trs"
-        ],
-        "cmd": [
-            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom -disk0 %ROM%"
-        ]
-    },
-    "sdl2trs CMD File": {
-        "id": "sdl2trs CMD File",
-        "shortName": "sdl2trs CMD File",
-        "name": "sdl2trs CMD File",
-        "platforms": [
-            "Tandy Radio Shack TRS-80 Color Computer"
-        ],
-        "matches": {
-            "emulationstation-de": [
-                "sdl2trs CMD File"
-            ]
-        },
-        "bin": [
-            "sdl2trs64.exe"
-        ],
-        "dir": [
-            "sdl2trs"
-        ],
-        "cmd": [
-            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom %ROM%"
-        ]
-    },
-    "sdl2trs DOS Diskette": {
-        "id": "sdl2trs DOS Diskette",
-        "shortName": "sdl2trs DOS Diskette",
-        "name": "sdl2trs DOS Diskette",
-        "platforms": [
-            "Tandy Radio Shack TRS-80 Color Computer"
-        ],
-        "matches": {
-            "emulationstation-de": [
-                "sdl2trs DOS Diskette"
-            ]
-        },
-        "bin": [
-            "sdl2trs64.exe"
-        ],
-        "dir": [
-            "sdl2trs"
-        ],
-        "cmd": [
-            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom -disk0 %ROMPATH%\\trs-80\\boot.dsk -disk1 %ROM%"
-        ]
-    },
-    "sdl2trs bootable diskette": {
-        "id": "sdl2trs bootable diskette",
-        "shortName": "sdl2trs Bootable Diskette",
-        "name": "sdl2trs Bootable Diskette",
-        "platforms": [
-            "Tandy Radio Shack TRS-80 Color Computer"
-        ],
-        "matches": {
-            "emulationstation-de": [
-                "sdl2trs Bootable Diskette"
-            ]
-        },
-        "bin": [
-            "sdl2trs64.exe"
-        ],
-        "dir": [
-            "sdl2trs"
-        ],
-        "cmd": [
-            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom -disk0 %ROM%"
-        ]
-    },
-    "sdl2trs cmd file": {
-        "id": "sdl2trs cmd file",
-        "shortName": "sdl2trs CMD File",
-        "name": "sdl2trs CMD File",
-        "platforms": [
-            "Tandy Radio Shack TRS-80 Color Computer"
-        ],
-        "matches": {
-            "emulationstation-de": [
-                "sdl2trs CMD File"
-            ]
-        },
-        "bin": [
-            "sdl2trs64.exe"
-        ],
-        "dir": [
-            "sdl2trs"
-        ],
-        "cmd": [
-            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom %ROM%"
-        ]
-    },
-    "sdl2trs dos diskette": {
-        "id": "sdl2trs dos diskette",
-        "shortName": "sdl2trs DOS Diskette",
-        "name": "sdl2trs DOS Diskette",
-        "platforms": [
-            "Tandy Radio Shack TRS-80 Color Computer"
-        ],
-        "matches": {
-            "emulationstation-de": [
-                "sdl2trs DOS Diskette"
-            ]
-        },
-        "bin": [
-            "sdl2trs64.exe"
-        ],
-        "dir": [
-            "sdl2trs"
-        ],
-        "cmd": [
-            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom -disk0 %ROMPATH%\\trs-80\\boot.dsk -disk1 %ROM%"
-        ]
-    },
     "sdltrs": {
         "id": "sdltrs",
         "shortName": "sdltrs",
@@ -16043,6 +16086,144 @@
             "http://sdltrs.sourceforge.net/": "home"
         },
         "description": "sdltrs is a Tandy/Radio Shack TRS80 series emulator."
+    },
+    "sdl2trs Bootable Diskette": {
+        "id": "sdl2trs Bootable Diskette",
+        "shortName": "sdl2trs Bootable Diskette",
+        "name": "sdl2trs Bootable Diskette",
+        "parent": "sdl2trs",
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ],
+        "matches": {
+            "emulationstation-de": [
+                "sdl2trs Bootable Diskette"
+            ]
+        },
+        "bin": [
+            "sdl2trs64.exe"
+        ],
+        "dir": [
+            "sdl2trs"
+        ],
+        "cmd": [
+            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom -disk0 %ROM%"
+        ]
+    },
+    "sdl2trs CMD File": {
+        "id": "sdl2trs CMD File",
+        "shortName": "sdl2trs CMD File",
+        "name": "sdl2trs CMD File",
+        "parent": "sdl2trs",
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ],
+        "matches": {
+            "emulationstation-de": [
+                "sdl2trs CMD File"
+            ]
+        },
+        "bin": [
+            "sdl2trs64.exe"
+        ],
+        "dir": [
+            "sdl2trs"
+        ],
+        "cmd": [
+            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom %ROM%"
+        ]
+    },
+    "sdl2trs DOS Diskette": {
+        "id": "sdl2trs DOS Diskette",
+        "shortName": "sdl2trs DOS Diskette",
+        "name": "sdl2trs DOS Diskette",
+        "parent": "sdl2trs",
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ],
+        "matches": {
+            "emulationstation-de": [
+                "sdl2trs DOS Diskette"
+            ]
+        },
+        "bin": [
+            "sdl2trs64.exe"
+        ],
+        "dir": [
+            "sdl2trs"
+        ],
+        "cmd": [
+            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom -disk0 %ROMPATH%\\trs-80\\boot.dsk -disk1 %ROM%"
+        ]
+    },
+    "sdl2trs bootable diskette": {
+        "id": "sdl2trs bootable diskette",
+        "shortName": "sdl2trs Bootable Diskette",
+        "name": "sdl2trs Bootable Diskette",
+        "parent": "sdl2trs",
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ],
+        "matches": {
+            "emulationstation-de": [
+                "sdl2trs Bootable Diskette"
+            ]
+        },
+        "bin": [
+            "sdl2trs64.exe"
+        ],
+        "dir": [
+            "sdl2trs"
+        ],
+        "cmd": [
+            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom -disk0 %ROM%"
+        ]
+    },
+    "sdl2trs cmd file": {
+        "id": "sdl2trs cmd file",
+        "shortName": "sdl2trs CMD File",
+        "name": "sdl2trs CMD File",
+        "parent": "sdl2trs",
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ],
+        "matches": {
+            "emulationstation-de": [
+                "sdl2trs CMD File"
+            ]
+        },
+        "bin": [
+            "sdl2trs64.exe"
+        ],
+        "dir": [
+            "sdl2trs"
+        ],
+        "cmd": [
+            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom %ROM%"
+        ]
+    },
+    "sdl2trs dos diskette": {
+        "id": "sdl2trs dos diskette",
+        "shortName": "sdl2trs DOS Diskette",
+        "name": "sdl2trs DOS Diskette",
+        "parent": "sdl2trs",
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ],
+        "matches": {
+            "emulationstation-de": [
+                "sdl2trs DOS Diskette"
+            ]
+        },
+        "bin": [
+            "sdl2trs64.exe"
+        ],
+        "dir": [
+            "sdl2trs"
+        ],
+        "cmd": [
+            "%STARTDIR%=%EMUDIR% %BIN% -rom %ROMPATH%\\trs-80\\level2.rom -disk0 %ROMPATH%\\trs-80\\boot.dsk -disk1 %ROM%"
+        ]
     },
     "sharp80": {
         "id": "sharp80",
@@ -19457,7 +19638,10 @@
         "id": "xroar coco 2 ntsc",
         "shortName": "XRoar CoCo 2 NTSC",
         "name": "XRoar CoCo 2 NTSC",
-        "platforms": [],
+        "parent": "xroar",
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ],
         "matches": {
             "emulationstation-de": [
                 "XRoar CoCo 2 NTSC"
@@ -19481,7 +19665,10 @@
         "id": "xroar coco 2 pal",
         "shortName": "XRoar CoCo 2 PAL",
         "name": "XRoar CoCo 2 PAL",
-        "platforms": [],
+        "parent": "xroar",
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer"
+        ],
         "matches": {
             "emulationstation-de": [
                 "XRoar CoCo 2 PAL"
@@ -19505,6 +19692,7 @@
         "id": "xroar dragon 32",
         "shortName": "XRoar Dragon 32",
         "name": "XRoar Dragon 32",
+        "parent": "xroar",
         "platforms": [
             "Dragon 32-64"
         ],
@@ -19531,6 +19719,7 @@
         "id": "xroar dragon 64",
         "shortName": "XRoar Dragon 64",
         "name": "XRoar Dragon 64",
+        "parent": "xroar",
         "platforms": [
             "Dragon 32-64"
         ],
