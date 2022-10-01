@@ -367,7 +367,7 @@
     "agat": {
         "id": "agat",
         "shortName": "agat",
-        "name": "Agat Emulator",
+        "name": "Agat",
         "platforms": [
             "Apple I",
             "Apple II"
@@ -655,7 +655,7 @@
     "apple1": {
         "id": "apple1",
         "shortName": "apple1",
-        "name": "Apple 1 Emulator",
+        "name": "Apple 1",
         "platforms": [
             "Apple I"
         ],
@@ -770,7 +770,7 @@
     "aprnes": {
         "id": "aprnes",
         "shortName": "aprnes",
-        "name": "April NES Emulator",
+        "name": "April NES",
         "platforms": [
             "Nintendo Entertainment System"
         ],
@@ -2148,7 +2148,7 @@
     "cdiemulator": {
         "id": "cdiemulator",
         "shortName": "cdiemulator",
-        "name": "CD-i Emulator",
+        "name": "CD-i",
         "platforms": [
             "Philips CD-i"
         ],
@@ -2656,7 +2656,7 @@
     "cps3emulator": {
         "id": "cps3emulator",
         "shortName": "cps3emulator",
-        "name": "Capcom Play System 3 Emulator",
+        "name": "Capcom Play System 3",
         "platforms": [
             "Capcom Capcom Play System III"
         ],
@@ -2720,7 +2720,7 @@
     "creativision": {
         "id": "creativision",
         "shortName": "creativision",
-        "name": "creatiVision Emulator",
+        "name": "creatiVision",
         "platforms": [
             "VTech CreatiVision"
         ],
@@ -3741,7 +3741,7 @@
     "dsp": {
         "id": "dsp",
         "shortName": "dsp",
-        "name": "DSP Emulator",
+        "name": "DSP",
         "platforms": [
             "RCA Chip-8",
             "Coleco ColecoVision",
@@ -4010,7 +4010,7 @@
     "elf": {
         "id": "elf",
         "shortName": "elf",
-        "name": "RCS Elf Emulator",
+        "name": "RCS Elf",
         "platforms": [
             "COMX COMX-35",
             "RCA Studio II"
@@ -4998,7 +4998,7 @@
     "fs-uae": {
         "id": "fs-uae",
         "shortName": "fs-uae",
-        "name": "FS-UAE Amiga Emulator",
+        "name": "FS-UAE Amiga",
         "platforms": [
             "Commodore Amiga",
             "Commodore Amiga CD32",
@@ -5157,7 +5157,7 @@
     "gamecomemu": {
         "id": "gamecomemu",
         "shortName": "gamecomemu",
-        "name": "Game.Com Emulator",
+        "name": "Game.Com",
         "platforms": [
             "Tiger Electronics Game.com"
         ],
@@ -6578,7 +6578,7 @@
     "jpemu": {
         "id": "jpemu",
         "shortName": "jpemu",
-        "name": "JPeMu IMPACT Emulator",
+        "name": "JPeMu IMPACT",
         "platforms": [],
         "matches": {
             "emucontrolcenter": [
@@ -7187,7 +7187,7 @@
     "model2emu": {
         "id": "model2emu",
         "shortName": "model2emu",
-        "name": "Sega Model 2 Emulator",
+        "name": "Sega Model 2",
         "platforms": [
             "Generic Arcade",
             "Sega Model 2"
@@ -8027,7 +8027,7 @@
     "mfme": {
         "id": "mfme",
         "shortName": "mfme",
-        "name": "Multiple Fruit Machine Emulator",
+        "name": "Multiple Fruit Machine",
         "platforms": [],
         "matches": {
             "emucontrolcenter": [
@@ -8467,7 +8467,7 @@
     "mz800emu": {
         "id": "mz800emu",
         "shortName": "mz800emu",
-        "name": "MZ-800 Emulator",
+        "name": "MZ-800",
         "platforms": [],
         "matches": {
             "emucontrolcenter": [
@@ -9848,7 +9848,7 @@
     "pale": {
         "id": "pale",
         "shortName": "pale",
-        "name": "Pete's Amazing Lynx Emulator",
+        "name": "Pete's Amazing Lynx",
         "platforms": [],
         "matches": {
             "emucontrolcenter": [
@@ -9875,7 +9875,7 @@
     "parajve": {
         "id": "parajve",
         "shortName": "parajve",
-        "name": "Parabellum's Java Vectrex Emulator",
+        "name": "Parabellum's Java Vectrex",
         "platforms": [
             "GCE Vectrex"
         ],
@@ -10062,7 +10062,7 @@
     "pcae": {
         "id": "pcae",
         "shortName": "pcae",
-        "name": "PC Atari Emulator",
+        "name": "PC Atari",
         "platforms": [
             "Atari 2600"
         ],
@@ -16853,7 +16853,7 @@
     "t2k": {
         "id": "t2k",
         "shortName": "t2k",
-        "name": "Jaguar Tempest 2000 Emulator",
+        "name": "Jaguar Tempest 2000",
         "platforms": [
             "Atari Jaguar"
         ],
@@ -17780,7 +17780,7 @@
     "vic20emu": {
         "id": "vic20emu",
         "shortName": "vic20emu",
-        "name": "Vic-20 Emulator",
+        "name": "Vic-20",
         "platforms": [
             "Commodore VIC-20"
         ],
