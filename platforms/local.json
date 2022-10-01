@@ -3509,7 +3509,7 @@
     },
     "Casio": {
         "id": "Casio",
-        "name": false,
+        "name": "Casio",
         "matches": {
             "mame": [
                 "casio_rompack"
@@ -7910,7 +7910,7 @@
     },
     "Galaksija": {
         "id": "Galaksija",
-        "name": false,
+        "name": "Galaksija",
         "matches": {
             "tosec": [
                 "Galaksija Galaksija - Applications",
@@ -9033,7 +9033,7 @@
     },
     "HomeLab": {
         "id": "HomeLab",
-        "name": false,
+        "name": "HomeLab",
         "matches": {
             "tosec": [
                 "HomeLab HomeLab - Applications",
@@ -15069,7 +15069,7 @@
     },
     "Radio-86RK": {
         "id": "Radio-86RK",
-        "name": false,
+        "name": "Radio-86RK",
         "matches": {
             "tosec": [
                 "Radio-86RK Radio-86RK - Various"
