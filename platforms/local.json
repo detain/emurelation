@@ -327,6 +327,9 @@
             ],
             "attractmode": [
                 "Acorn Archimedes"
+            ],
+            "emutopia": [
+                305
             ]
         },
         "company": "Acorn",
@@ -388,6 +391,9 @@
             ],
             "attractmode": [
                 "Acorn Atom"
+            ],
+            "emutopia": [
+                306
             ]
         },
         "company": "Acorn",
@@ -494,6 +500,10 @@
             ],
             "attractmode": [
                 "Acorn BBC Micro"
+            ],
+            "emutopia": [
+                307,
+                308
             ]
         },
         "company": "Acorn",
@@ -958,6 +968,9 @@
             ],
             "attractmode": [
                 "Amstrad CPC"
+            ],
+            "emutopia": [
+                311
             ]
         },
         "company": "Amstrad",
@@ -1113,6 +1126,9 @@
             ],
             "emucontrolcenter": [
                 "pcw"
+            ],
+            "emutopia": [
+                312
             ]
         },
         "company": "Amstrad",
@@ -1226,6 +1242,9 @@
             ],
             "emucontrolcenter": [
                 "apple1"
+            ],
+            "emutopia": [
+                314
             ]
         },
         "company": "Apple",
@@ -1393,6 +1412,9 @@
             ],
             "attractmode": [
                 "Apple II"
+            ],
+            "emutopia": [
+                315
             ]
         },
         "company": "Apple",
@@ -1562,6 +1584,9 @@
             ],
             "emucontrolcenter": [
                 "lisa"
+            ],
+            "emutopia": [
+                316
             ]
         },
         "company": "Apple",
@@ -1719,6 +1744,9 @@
                 "mbee_quik",
                 "mbee_flop",
                 "mbee_cart"
+            ],
+            "emutopia": [
+                319
             ]
         },
         "company": "Applied Technology",
@@ -1851,6 +1879,9 @@
             ],
             "attractmode": [
                 "Atari 2600"
+            ],
+            "emutopia": [
+                270
             ]
         },
         "company": "Atari",
@@ -1933,6 +1964,9 @@
             ],
             "attractmode": [
                 "Atari 5200"
+            ],
+            "emutopia": [
+                271
             ]
         },
         "company": "Atari",
@@ -2011,6 +2045,9 @@
             ],
             "attractmode": [
                 "Atari 7800"
+            ],
+            "emutopia": [
+                272
             ]
         },
         "company": "Atari",
@@ -2227,6 +2264,9 @@
             ],
             "attractmode": [
                 "Atari Jaguar"
+            ],
+            "emutopia": [
+                273
             ]
         },
         "company": "Atari",
@@ -2383,6 +2423,9 @@
             ],
             "attractmode": [
                 "Atari Lynx"
+            ],
+            "emutopia": [
+                258
             ]
         },
         "company": "Atari",
@@ -2584,6 +2627,9 @@
             ],
             "attractmode": [
                 "Atari ST"
+            ],
+            "emutopia": [
+                321
             ]
         },
         "company": "Atari",
@@ -3016,6 +3062,9 @@
             ],
             "attractmode": [
                 "Bandai WonderSwan"
+            ],
+            "emutopia": [
+                259
             ]
         },
         "company": "Bandai",
@@ -3318,6 +3367,9 @@
             "tosec": [
                 "COMX COMX-35 - Demos",
                 "COMX COMX-35 - Games"
+            ],
+            "emutopia": [
+                329
             ]
         },
         "company": "COMX",
@@ -3431,6 +3483,10 @@
                 "mame",
                 "fba",
                 "fbneo"
+            ],
+            "emutopia": [
+                257,
+                217
             ]
         },
         "company": "Capcom",
@@ -3805,6 +3861,9 @@
             ],
             "bezels_project": [
                 "bezelproject-ColecoVision"
+            ],
+            "emutopia": [
+                274
             ]
         },
         "company": "Coleco",
@@ -4569,6 +4628,10 @@
                 "Commodore 128",
                 "Commodore VIC-20",
                 "Commodore 64"
+            ],
+            "emutopia": [
+                323,
+                327
             ]
         },
         "company": "Commodore",
@@ -4592,6 +4655,9 @@
                 "Commodore C65 - Applications",
                 "Commodore C65 - Demos",
                 "Commodore C65 - Firmware"
+            ],
+            "emutopia": [
+                409
             ]
         },
         "company": "Commodore",
@@ -4821,6 +4887,9 @@
             ],
             "attractmode": [
                 "Commodore Amiga"
+            ],
+            "emutopia": [
+                324
             ]
         },
         "company": "Commodore",
@@ -5255,6 +5324,9 @@
             ],
             "attractmode": [
                 "Commodore Amiga CD32"
+            ],
+            "emutopia": [
+                275
             ]
         },
         "company": "Commodore",
@@ -5347,6 +5419,9 @@
             ],
             "attractmode": [
                 "Commodore CDTV"
+            ],
+            "emutopia": [
+                276
             ]
         },
         "company": "Commodore",
@@ -5612,6 +5687,9 @@
             ],
             "attractmode": [
                 "Commodore 16 & Plus4"
+            ],
+            "emutopia": [
+                326
             ]
         },
         "company": "Commodore",
@@ -6135,6 +6213,9 @@
             ],
             "oldcomputers": [
                 780
+            ],
+            "emutopia": [
+                330
             ]
         },
         "company": "DEC",
@@ -6376,6 +6457,9 @@
             ],
             "attractmode": [
                 "Dragon Data Dragon"
+            ],
+            "emutopia": [
+                331
             ]
         },
         "company": "Dragon",
@@ -6897,6 +6981,9 @@
             ],
             "emucontrolcenter": [
                 "enterprise"
+            ],
+            "emutopia": [
+                334
             ]
         },
         "company": "Enterprise",
@@ -7398,6 +7485,9 @@
             ],
             "attractmode": [
                 "Fairchild Channel F"
+            ],
+            "emutopia": [
+                278
             ]
         },
         "company": "Fairchild",
@@ -7822,6 +7912,9 @@
             ],
             "attractmode": [
                 "Future Pinball"
+            ],
+            "emutopia": [
+                237
             ]
         }
     },
@@ -7888,6 +7981,9 @@
             ],
             "attractmode": [
                 "GCE Vectrex"
+            ],
+            "emutopia": [
+                280
             ]
         },
         "company": "GCE",
@@ -10328,6 +10424,9 @@
             ],
             "attractmode": [
                 "MGT Sam Coupe"
+            ],
+            "emutopia": [
+                358
             ]
         },
         "company": "MGT",
@@ -10358,6 +10457,9 @@
             ],
             "oldcomputers": [
                 62
+            ],
+            "emutopia": [
+                310
             ]
         },
         "company": "MITS",
@@ -10420,6 +10522,9 @@
             ],
             "recalbox": [
                 "msx1"
+            ],
+            "emutopia": [
+                345
             ]
         },
         "company": "MSX",
@@ -10515,6 +10620,9 @@
             "tosecpix": [
                 "Magnavox Odyssey - Manuals - Hardware",
                 "Magnavox Odyssey - Manuals - Software"
+            ],
+            "emutopia": [
+                281
             ]
         },
         "company": "Magnavox",
@@ -10603,6 +10711,10 @@
             ],
             "igdb": [
                 "133"
+            ],
+            "emutopia": [
+                354,
+                282
             ]
         },
         "company": "Magnavox",
@@ -10865,6 +10977,9 @@
             ],
             "attractmode": [
                 "Mattel Intellivision"
+            ],
+            "emutopia": [
+                283
             ]
         },
         "company": "Mattel",
@@ -11487,6 +11602,9 @@
             ],
             "attractmode": [
                 "Microsoft Xbox"
+            ],
+            "emutopia": [
+                284
             ]
         },
         "company": "Microsoft",
@@ -11958,6 +12076,9 @@
             ],
             "emucontrolcenter": [
                 "pc6001"
+            ],
+            "emutopia": [
+                346
             ]
         },
         "company": "NEC",
@@ -11980,6 +12101,9 @@
                 "pc8001_flop",
                 "pc8001mk2_flop",
                 "pc8001mk2sr_flop"
+            ],
+            "emutopia": [
+                347
             ]
         },
         "company": "NEC",
@@ -12031,6 +12155,9 @@
             ],
             "retropie": [
                 "pc88"
+            ],
+            "emutopia": [
+                348
             ]
         },
         "company": "NEC",
@@ -12403,6 +12530,9 @@
             ],
             "attractmode": [
                 "NEC PC-FX"
+            ],
+            "emutopia": [
+                286
             ]
         },
         "company": "NEC",
@@ -12723,6 +12853,9 @@
             ],
             "bezels_project": [
                 "bezelproject-N3DS"
+            ],
+            "emutopia": [
+                411
             ]
         },
         "company": "Nintendo",
@@ -12818,6 +12951,10 @@
             "attractmode": [
                 "Nintendo 64DD",
                 "Nintendo 64"
+            ],
+            "emutopia": [
+                287,
+                201
             ]
         },
         "company": "Nintendo",
@@ -12962,6 +13099,9 @@
             ],
             "attractmode": [
                 "Nintendo DS"
+            ],
+            "emutopia": [
+                260
             ]
         },
         "company": "Nintendo",
@@ -13373,6 +13513,9 @@
             ],
             "attractmode": [
                 "Nintendo Game Boy Advance"
+            ],
+            "emutopia": [
+                262
             ]
         },
         "company": "Nintendo",
@@ -13522,6 +13665,10 @@
             ],
             "igdb": [
                 "21"
+            ],
+            "emutopia": [
+                288,
+                292
             ]
         },
         "company": "Nintendo",
@@ -13625,6 +13772,9 @@
             ],
             "attractmode": [
                 "Nintendo Pokemon Mini"
+            ],
+            "emutopia": [
+                263
             ]
         },
         "company": "Nintendo",
@@ -13949,6 +14099,9 @@
             ],
             "attractmode": [
                 "Nintendo Virtual Boy"
+            ],
+            "emutopia": [
+                291
             ]
         },
         "company": "Nintendo",
@@ -14087,6 +14240,9 @@
             ],
             "attractmode": [
                 "Nintendo Wii U"
+            ],
+            "emutopia": [
+                413
             ]
         },
         "company": "Nintendo",
@@ -14585,6 +14741,9 @@
             ],
             "attractmode": [
                 "Panasonic 3DO"
+            ],
+            "emutopia": [
+                269
             ]
         },
         "company": "Panasonic",
@@ -14726,6 +14885,9 @@
             ],
             "igdb": [
                 "117"
+            ],
+            "emutopia": [
+                293
             ]
         },
         "company": "Philips",
@@ -14933,6 +15095,9 @@
             ],
             "mame": [
                 "chip8_quik"
+            ],
+            "emutopia": [
+                322
             ]
         },
         "company": "RCA",
@@ -15013,6 +15178,9 @@
             ],
             "oldcomputers": [
                 543
+            ],
+            "emutopia": [
+                356
             ]
         },
         "company": "RCA",
@@ -15466,6 +15634,9 @@
             ],
             "attractmode": [
                 "SNK Neo Geo AES"
+            ],
+            "emutopia": [
+                304
             ]
         },
         "company": "SNK",
@@ -15645,6 +15816,9 @@
             ],
             "attractmode": [
                 "SNK Neo Geo Pocket"
+            ],
+            "emutopia": [
+                265
             ]
         },
         "company": "SNK",
@@ -16299,6 +16473,9 @@
             ],
             "attractmode": [
                 "Sega Dreamcast"
+            ],
+            "emutopia": [
+                294
             ]
         },
         "company": "Sega",
@@ -16441,6 +16618,9 @@
             ],
             "attractmode": [
                 "Sega Game Gear"
+            ],
+            "emutopia": [
+                264
             ]
         },
         "company": "Sega",
@@ -16653,6 +16833,9 @@
             ],
             "attractmode": [
                 "Sega Master System"
+            ],
+            "emutopia": [
+                295
             ]
         },
         "company": "Sega",
@@ -16922,6 +17105,9 @@
             ],
             "attractmode": [
                 "Sega Naomi"
+            ],
+            "emutopia": [
+                392
             ]
         },
         "company": "Sega",
@@ -17236,6 +17422,9 @@
             ],
             "attractmode": [
                 "Sega Saturn"
+            ],
+            "emutopia": [
+                297
             ]
         },
         "company": "Sega",
@@ -17689,6 +17878,9 @@
             ],
             "attractmode": [
                 "Sharp X68000"
+            ],
+            "emutopia": [
+                360
             ]
         },
         "company": "Sharp",
@@ -17755,6 +17947,9 @@
             ],
             "oldcomputers": [
                 199
+            ],
+            "emutopia": [
+                361
             ]
         },
         "company": "Sinclair",
@@ -18023,6 +18218,9 @@
             ],
             "attractmode": [
                 "Sinclair ZX Spectrum"
+            ],
+            "emutopia": [
+                364
             ]
         },
         "company": "Sinclair",
@@ -18112,6 +18310,9 @@
             ],
             "attractmode": [
                 "Sinclair ZX81"
+            ],
+            "emutopia": [
+                363
             ]
         },
         "company": "Sinclair",
@@ -18228,6 +18429,11 @@
             ],
             "attractmode": [
                 "Sony PlayStation"
+            ],
+            "emutopia": [
+                299,
+                199,
+                228
             ]
         },
         "company": "Sony",
@@ -18304,6 +18510,10 @@
             ],
             "attractmode": [
                 "Sony PlayStation 2"
+            ],
+            "emutopia": [
+                300,
+                200
             ]
         },
         "company": "Sony",
@@ -18368,6 +18578,9 @@
             ],
             "gamesdatabase": [
                 "sony-playstation-3"
+            ],
+            "emutopia": [
+                301
             ]
         },
         "company": "Sony",
@@ -18500,6 +18713,9 @@
             ],
             "attractmode": [
                 "Sony PSP"
+            ],
+            "emutopia": [
+                266
             ]
         },
         "company": "Sony",
@@ -18596,6 +18812,9 @@
             ],
             "emucontrolcenter": [
                 "zinc"
+            ],
+            "emutopia": [
+                221
             ]
         },
         "company": "Sony",
@@ -19571,6 +19790,9 @@
             ],
             "emucontrolcenter": [
                 "ti82"
+            ],
+            "emutopia": [
+                247
             ]
         },
         "company": "Texas Instruments",
@@ -19592,6 +19814,9 @@
                 "Texas Instruments TI-83 - Modules - Ion",
                 "Texas Instruments TI-83 - Shells",
                 "Texas Instruments TI-83 - Sources"
+            ],
+            "emutopia": [
+                248
             ]
         },
         "company": "Texas Instruments",
@@ -19609,6 +19834,9 @@
             ],
             "emucontrolcenter": [
                 "ti85"
+            ],
+            "emutopia": [
+                250
             ]
         },
         "company": "Texas Instruments",
@@ -19626,6 +19854,9 @@
             ],
             "emucontrolcenter": [
                 "ti86"
+            ],
+            "emutopia": [
+                251
             ]
         },
         "company": "Texas Instruments",
@@ -19657,6 +19888,9 @@
             ],
             "emucontrolcenter": [
                 "ti92"
+            ],
+            "emutopia": [
+                252
             ]
         },
         "company": "Texas Instruments",
@@ -19747,6 +19981,9 @@
             ],
             "attractmode": [
                 "Texas Instruments TI 99-4A"
+            ],
+            "emutopia": [
+                365
             ]
         },
         "company": "Texas Instruments",
@@ -20111,6 +20348,9 @@
             ],
             "mame": [
                 "gameking"
+            ],
+            "emutopia": [
+                267
             ]
         },
         "company": "TimeTop",
@@ -20842,6 +21082,9 @@
                 "VTech Laser 200 - Games - [WAV]",
                 "VTech Laser 200 - Magazines",
                 "VTech Laser 200 - Operating Systems"
+            ],
+            "emutopia": [
+                369
             ]
         },
         "company": "VTech",
@@ -20888,6 +21131,9 @@
             ],
             "oldcomputers": [
                 157
+            ],
+            "emutopia": [
+                370
             ]
         },
         "company": "VTech",
@@ -21141,6 +21387,9 @@
                 "Videoton TV-Computer - Compilations",
                 "Videoton TV-Computer - Games - [CAS]",
                 "Videoton TV-Computer - Games - [Multipart]"
+            ],
+            "emutopia": [
+                368
             ]
         },
         "company": "Videoton",
@@ -21293,6 +21542,9 @@
             ],
             "attractmode": [
                 "Watara Supervision"
+            ],
+            "emutopia": [
+                268
             ]
         },
         "company": "Watara",

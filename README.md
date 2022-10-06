@@ -34,6 +34,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [Old-Computers](platforms/oldcomputers.json) | Website | 181 | 1105 | 1286 | 14.1% |
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
+| [Emutopia](platforms/emutopia.json) | Website | 90 | 85 | 175 | 51.4% |
 | [MAME](platforms/mame.json) | Emulator | 649 | 15 | 664 | 97.7% |
 | [LaunchBox](platforms/launchbox.json) | Frontend | 183 | 0 | 183 | 100% |
 | [RetroBat](platforms/retrobat.json) | Frontend | 130 | 22 | 152 | 85.5% |
@@ -52,6 +53,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [ScreenScraper](emulators/screenscraper.json) | API | 3 | 0 | 3 | 100% |
 | [Old-Computers](emulators/oldcomputers.json) | Website | 116 | 350 | 466 | 24.9% |
 | [EmulationKing](emulators/emulationking.json) | Website | 96 | 0 | 96 | 100% |
+| [Emutopia](emulators/emutopia.json) | Website | 227 | 302 | 529 | 42.9% |
 | [LaunchBox](emulators/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
 | [RetroBat](emulators/retrobat.json) | Frontend | 0 | 0 | 0 | 0% |
 | [EmulationStation-DE](emulators/emulationstation-de.json) | Frontend | 161 | 6 | 167 | 96.4% |
