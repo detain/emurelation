@@ -14528,22 +14528,6 @@
             "Olivetti Prodest PC 128S"
         ]
     },
-    "Ondra & Ondra ViLi": {
-        "id": "Ondra & Ondra ViLi",
-        "name": "& Ondra ViLi",
-        "matches": {
-            "mame": [
-                "ondra"
-            ],
-            "oldcomputers": [
-                612
-            ]
-        },
-        "company": "Ondra",
-        "altNames": [
-            "Ondra & Ondra ViLi"
-        ]
-    },
     "Otrona Attache": {
         "id": "Otrona Attache",
         "name": "Attache",
@@ -19624,10 +19608,16 @@
             "Terak 8510A & 8600"
         ]
     },
-    "Tesla Ondra Vili": {
-        "id": "Tesla Ondra Vili",
-        "name": "Ondra Vili",
+    "Tesla Ondra & Ondra ViLi": {
+        "id": "Tesla Ondra & Ondra ViLi",
+        "name": "Ondra & Ondra ViLi",
         "matches": {
+            "mame": [
+                "ondra"
+            ],
+            "oldcomputers": [
+                612
+            ],
             "tosec": [
                 "Tesla Ondra Vili - Games - [TAP]",
                 "Tesla Ondra Vili - Games - [WAV]"
@@ -19635,7 +19625,11 @@
         },
         "company": "Tesla",
         "altNames": [
-            "Tesla Ondra Vili"
+            "Tesla Ondra & Ondra ViLi",
+            "Tesla Ondra",
+            "Tesla Ondra ViLi",
+            "Ondra",
+            "Ondra ViLi"
         ]
     },
     "Tesla PMD-85": {

@@ -283,7 +283,7 @@
             "games"
         ],
         "description": "MAME is a multi-purpose emulation framework.  MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important vintage software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus.",
-        "updatedLast": 1662712092,
+        "updatedLast": 1665185885,
         "updateTrigger": "commit",
         "web": {
             "https://www.mamedev.org/": "home",
@@ -301,7 +301,7 @@
             "games"
         ],
         "description": "LaunchBox was originally built as an attractive frontend for DOSBox, but has long since expanded to support both modern PC games and emulated console platforms. LaunchBox aims to be the one-stop shop for gaming on your computer, for both modern and historical games.",
-        "updatedLast": 1662521189,
+        "updatedLast": 1665181687,
         "updateTrigger": "commit",
         "web": {
             "https://www.launchbox-app.com/": "home"
