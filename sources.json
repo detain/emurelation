@@ -23,7 +23,7 @@
             "games"
         ],
         "description": "Redump is a disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system. The goal is to make blueprints of the data on console and computer game discs. Redump.org also provides guides to ensure the dumps are correctly done. Users of the website who follow the guides correctly are encouraged to share their results to help build the database. Multiple dumps of games with the same serial number by different people are collected to ensure the same results are gathered, which help correct any incorrect dumps in the database as well as to help recognize alternate versions of the same game. ",
-        "updatedLast": 1661404803,
+        "updatedLast": 1665187724,
         "updateTrigger": "commit",
         "web": {
             "http://redump.org/": "home"
@@ -38,7 +38,7 @@
             "games"
         ],
         "description": "What No-Intro does is fill some DAT files, to be used with ROM managers, with information about the known ROMS released. Often there are more versions of the same ROM dump, but most of them are garbage, some examples may include: bad dumps, hacks, fakes, overdumps, underdumps, and so on. No-Intro lists only the best available ROM; it must be a full dump with no faults and no changes to the file, basically just the ROMS that are the closest as possible to the original licensed cartridges.",
-        "updatedLast": 1661405222,
+        "updatedLast": 1665187596,
         "updateTrigger": "commit",
         "web": {
             "https://no-intro.org/": "home"
@@ -53,7 +53,7 @@
             "games"
         ],
         "description": "The Old School Emulation Center (TOSEC) is a retrocomputing initiative dedicated to the cataloging and preservation of software, firmware and resources for arcade machines, microcomputers, minicomputers and video game consoles. The main goal of the project is to catalog and audit various kinds of software and firmware images for these systems.  TOSEC, or sometimes for clarity referred to as 'TOSEC (main)', is the original main branch of the project. It catalogs all the non-optical disc based systems and remains the bulk of the TOSEC database.",
-        "updatedLast": 1661942241,
+        "updatedLast": 1665187861,
         "updateTrigger": "commit",
         "web": {
             "https://www.tosecdev.org/": "home"
@@ -68,7 +68,7 @@
             "games"
         ],
         "description": "TOSEC-ISO is a separate ancillary branch and includes optical disc based systems. This branch contains both optical disc based images (such as DVD, CD and GD based images) as well as the firmware for these disc based systems.",
-        "updatedLast": 1661942244,
+        "updatedLast": 1665187862,
         "updateTrigger": "commit",
         "web": {
             "https://www.tosecdev.org/": "home"
@@ -83,7 +83,7 @@
             "games"
         ],
         "description": "TOSEC-PIX is the second separate ancillary branch and includes computing and gaming resources such as scans of software and hardware manuals, magazine scans, computing catalogs, and videos.",
-        "updatedLast": 1661942253,
+        "updatedLast": 1665187863,
         "updateTrigger": "commit",
         "web": {
             "https://www.tosecdev.org/": "home"

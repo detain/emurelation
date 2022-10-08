@@ -26,18 +26,9 @@
         ],
         "company": "APF"
     },
-    "Acorn - Archimedes": {
-        "id": "Acorn - Archimedes",
-        "name": "Acorn - Archimedes",
-        "altNames": [
-            "Archimedes",
-            "Acorn Archimedes"
-        ],
-        "company": "Acorn"
-    },
-    "Acorn - Archimedes (Protected)": {
-        "id": "Acorn - Archimedes (Protected)",
-        "name": "Acorn - Archimedes (Protected)",
+    "Acorn - Archimedes (ADF)": {
+        "id": "Acorn - Archimedes (ADF)",
+        "name": "Acorn - Archimedes (ADF)",
         "altNames": [
             "Acorn - Archimedes",
             "Archimedes",
@@ -45,10 +36,21 @@
         ],
         "company": "Acorn"
     },
-    "Acorn - Atom": {
-        "id": "Acorn - Atom",
-        "name": "Acorn - Atom",
+    "Acorn - Archimedes (JFD)": {
+        "id": "Acorn - Archimedes (JFD)",
+        "name": "Acorn - Archimedes (JFD)",
         "altNames": [
+            "Acorn - Archimedes",
+            "Archimedes",
+            "Acorn Archimedes"
+        ],
+        "company": "Acorn"
+    },
+    "Acorn - Atom (Tapes) (UEF)": {
+        "id": "Acorn - Atom (Tapes) (UEF)",
+        "name": "Acorn - Atom (Tapes) (UEF)",
+        "altNames": [
+            "Acorn - Atom",
             "Atom",
             "Acorn Atom"
         ],
@@ -64,9 +66,19 @@
         ],
         "company": "Acorn"
     },
-    "Amstrad - CPC (DSK)": {
-        "id": "Amstrad - CPC (DSK)",
-        "name": "Amstrad - CPC (DSK)",
+    "Acorn RISC OS - Flash Media (Misc)": {
+        "id": "Acorn RISC OS - Flash Media (Misc)",
+        "name": "Acorn RISC OS - Flash Media (Misc)",
+        "altNames": [
+            "Acorn RISC OS - Flash Media",
+            "Flash Media",
+            "Acorn RISC OS Flash Media"
+        ],
+        "company": "Acorn RISC OS"
+    },
+    "Amstrad - CPC (FluxDumps)": {
+        "id": "Amstrad - CPC (FluxDumps)",
+        "name": "Amstrad - CPC (FluxDumps)",
         "altNames": [
             "Amstrad - CPC",
             "CPC",
@@ -74,15 +86,24 @@
         ],
         "company": "Amstrad"
     },
-    "Amstrad - CPC (Flux)": {
-        "id": "Amstrad - CPC (Flux)",
-        "name": "Amstrad - CPC (Flux)",
+    "Amstrad - CPC (Misc)": {
+        "id": "Amstrad - CPC (Misc)",
+        "name": "Amstrad - CPC (Misc)",
         "altNames": [
             "Amstrad - CPC",
             "CPC",
             "Amstrad CPC"
         ],
         "company": "Amstrad"
+    },
+    "Analogue - Analogue Pocket": {
+        "id": "Analogue - Analogue Pocket",
+        "name": "Analogue - Analogue Pocket",
+        "altNames": [
+            "Analogue Pocket",
+            "Analogue Analogue Pocket"
+        ],
+        "company": "Analogue"
     },
     "Apple - I (Tapes)": {
         "id": "Apple - I (Tapes)",
@@ -204,9 +225,19 @@
         ],
         "company": "Apple"
     },
-    "Apple - Macintosh (BETA) (A2R)": {
-        "id": "Apple - Macintosh (BETA) (A2R)",
-        "name": "Apple - Macintosh (BETA) (A2R)",
+    "Apple - Macintosh (BETA) (Bitstreams)": {
+        "id": "Apple - Macintosh (BETA) (Bitstreams)",
+        "name": "Apple - Macintosh (BETA) (Bitstreams)",
+        "altNames": [
+            "Apple - Macintosh",
+            "Macintosh",
+            "Apple Macintosh"
+        ],
+        "company": "Apple"
+    },
+    "Apple - Macintosh (BETA) (FluxDumps)": {
+        "id": "Apple - Macintosh (BETA) (FluxDumps)",
+        "name": "Apple - Macintosh (BETA) (FluxDumps)",
         "altNames": [
             "Apple - Macintosh",
             "Macintosh",
@@ -367,9 +398,9 @@
         ],
         "company": "Bally"
     },
-    "Bally - Astrocade (Tapes) (BIN)": {
-        "id": "Bally - Astrocade (Tapes) (BIN)",
-        "name": "Bally - Astrocade (Tapes) (BIN)",
+    "Bally - Astrocade (Tapes)": {
+        "id": "Bally - Astrocade (Tapes)",
+        "name": "Bally - Astrocade (Tapes)",
         "altNames": [
             "Bally - Astrocade",
             "Astrocade",
@@ -944,6 +975,16 @@
         ],
         "company": "Microsoft"
     },
+    "Microsoft - Xbox (Development Kit Hard Drives)": {
+        "id": "Microsoft - Xbox (Development Kit Hard Drives)",
+        "name": "Microsoft - Xbox (Development Kit Hard Drives)",
+        "altNames": [
+            "Microsoft - Xbox",
+            "Xbox",
+            "Microsoft Xbox"
+        ],
+        "company": "Microsoft"
+    },
     "Microsoft - Xbox 360 (Development Kit Hard Drives)": {
         "id": "Microsoft - Xbox 360 (Development Kit Hard Drives)",
         "name": "Microsoft - Xbox 360 (Development Kit Hard Drives)",
@@ -1136,9 +1177,9 @@
         ],
         "company": "Nichibutsu"
     },
-    "Nintendo - Family BASIC (Text)": {
-        "id": "Nintendo - Family BASIC (Text)",
-        "name": "Nintendo - Family BASIC (Text)",
+    "Nintendo - Family BASIC (Tapes)": {
+        "id": "Nintendo - Family BASIC (Tapes)",
+        "name": "Nintendo - Family BASIC (Tapes)",
         "altNames": [
             "Nintendo - Family BASIC",
             "Family BASIC",
@@ -1225,6 +1266,16 @@
     "Nintendo - Game Boy Advance (Video)": {
         "id": "Nintendo - Game Boy Advance (Video)",
         "name": "Nintendo - Game Boy Advance (Video)",
+        "altNames": [
+            "Nintendo - Game Boy Advance",
+            "Game Boy Advance",
+            "Nintendo Game Boy Advance"
+        ],
+        "company": "Nintendo"
+    },
+    "Nintendo - Game Boy Advance (e-Reader)": {
+        "id": "Nintendo - Game Boy Advance (e-Reader)",
+        "name": "Nintendo - Game Boy Advance (e-Reader)",
         "altNames": [
             "Nintendo - Game Boy Advance",
             "Game Boy Advance",
@@ -1631,15 +1682,6 @@
         ],
         "company": "Nintendo"
     },
-    "Nintendo - e-Reader": {
-        "id": "Nintendo - e-Reader",
-        "name": "Nintendo - e-Reader",
-        "altNames": [
-            "e-Reader",
-            "Nintendo e-Reader"
-        ],
-        "company": "Nintendo"
-    },
     "Nokia - N-Gage (WIP)": {
         "id": "Nokia - N-Gage (WIP)",
         "name": "Nokia - N-Gage (WIP)",
@@ -1711,6 +1753,16 @@
     "Non-Redump - IBM - PC Compatible (Discs) (Hentai)": {
         "id": "Non-Redump - IBM - PC Compatible (Discs) (Hentai)",
         "name": "Non-Redump - IBM - PC Compatible (Discs) (Hentai)",
+        "altNames": [
+            "IBM - PC Compatible",
+            "PC Compatible",
+            "IBM PC Compatible"
+        ],
+        "company": "IBM"
+    },
+    "Non-Redump - IBM - PC Compatible (Discs) (Non-Game)": {
+        "id": "Non-Redump - IBM - PC Compatible (Discs) (Non-Game)",
+        "name": "Non-Redump - IBM - PC Compatible (Discs) (Non-Game)",
         "altNames": [
             "IBM - PC Compatible",
             "PC Compatible",
@@ -1985,6 +2037,16 @@
         ],
         "company": "Sega"
     },
+    "Sega - Dreamcast (Visual Memory Unit)": {
+        "id": "Sega - Dreamcast (Visual Memory Unit)",
+        "name": "Sega - Dreamcast (Visual Memory Unit)",
+        "altNames": [
+            "Sega - Dreamcast",
+            "Dreamcast",
+            "Sega Dreamcast"
+        ],
+        "company": "Sega"
+    },
     "Sega - Game Gear": {
         "id": "Sega - Game Gear",
         "name": "Sega - Game Gear",
@@ -2106,6 +2168,16 @@
             "Sony - PlayStation",
             "PlayStation",
             "Sony PlayStation"
+        ],
+        "company": "Sony"
+    },
+    "Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)": {
+        "id": "Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)",
+        "name": "Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)",
+        "altNames": [
+            "Sony - PlayStation 3",
+            "PlayStation 3",
+            "Sony PlayStation 3"
         ],
         "company": "Sony"
     },
@@ -2289,6 +2361,16 @@
         ],
         "company": "Nintendo"
     },
+    "Source Code - Sega - DreamCast": {
+        "id": "Source Code - Sega - DreamCast",
+        "name": "Source Code - Sega - DreamCast",
+        "altNames": [
+            "Sega - DreamCast",
+            "DreamCast",
+            "Sega DreamCast"
+        ],
+        "company": "Sega"
+    },
     "Source Code - VM Labs - NUON": {
         "id": "Source Code - VM Labs - NUON",
         "name": "Source Code - VM Labs - NUON",
@@ -2305,26 +2387,6 @@
         "altNames": [
             "Various"
         ]
-    },
-    "Tangerine Computer Systems - Oric (Flux)": {
-        "id": "Tangerine Computer Systems - Oric (Flux)",
-        "name": "Tangerine Computer Systems - Oric (Flux)",
-        "altNames": [
-            "Tangerine Computer Systems - Oric",
-            "Oric",
-            "Tangerine Computer Systems Oric"
-        ],
-        "company": "Tangerine Computer Systems"
-    },
-    "Tangerine Computer Systems - Oric (Waveform)": {
-        "id": "Tangerine Computer Systems - Oric (Waveform)",
-        "name": "Tangerine Computer Systems - Oric (Waveform)",
-        "altNames": [
-            "Tangerine Computer Systems - Oric",
-            "Oric",
-            "Tangerine Computer Systems Oric"
-        ],
-        "company": "Tangerine Computer Systems"
     },
     "TeleNova - Compis (Flux)": {
         "id": "TeleNova - Compis (Flux)",
