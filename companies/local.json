@@ -2408,6 +2408,10 @@
         "id": "VTech",
         "name": "VTech",
         "matches": {
+            "oldcomputers": [
+                "VISUAL TECHNOLOGY",
+                "Visual Technology"
+            ],
             "emucontrolcenter": [
                 "VTech",
                 "Vtech"
@@ -2446,16 +2450,6 @@
             ],
             "oldcomputers": [
                 "Videoton"
-            ]
-        }
-    },
-    "Visual Technology": {
-        "id": "Visual Technology",
-        "name": "Visual Technology",
-        "matches": {
-            "oldcomputers": [
-                "VISUAL TECHNOLOGY",
-                "Visual Technology"
             ]
         }
     },

@@ -6684,6 +6684,7 @@
     "ETI-660": {
         "id": "ETI-660",
         "name": "ETI-660",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "eti660_quik"
@@ -7888,6 +7889,7 @@
     "Future Pinball": {
         "id": "Future Pinball",
         "name": "Future Pinball",
+        "company": "Generic",
         "matches": {
             "screenscraper": [
                 199
@@ -11168,6 +11170,7 @@
     "Micro Craft Dimension 68000": {
         "id": "Micro Craft Dimension 68000",
         "name": "Micro Craft Dimension 68000",
+        "company": "Generic",
         "matches": {
             "tosec": [
                 "Micro Craft Dimension 68000 - System",
@@ -11756,6 +11759,7 @@
     "Mikro-80": {
         "id": "Mikro-80",
         "name": "Mikro-80",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "mikro80"
@@ -14552,6 +14556,7 @@
     "Ouya": {
         "id": "Ouya",
         "name": "Ouya",
+        "company": "Generic",
         "matches": {
             "launchbox": [
                 "Ouya"
@@ -14751,6 +14756,7 @@
     "Partner-01.01": {
         "id": "Partner-01.01",
         "name": "Partner-01.01",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "partner_cass",
@@ -14779,6 +14785,7 @@
     "Pentagon (ZX Spectrum clone)": {
         "id": "Pentagon (ZX Spectrum clone)",
         "name": "Pentagon (ZX Spectrum clone)",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "pentagon_cass"
@@ -14973,6 +14980,7 @@
     "Photo CD": {
         "id": "Photo CD",
         "name": "Photo CD",
+        "company": "Generic",
         "matches": {
             "redump": [
                 "Photo CD"
@@ -15515,6 +15523,7 @@
     "SDK-85": {
         "id": "SDK-85",
         "name": "SDK-85",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "sdk85"
@@ -18838,6 +18847,7 @@
     "Specialist": {
         "id": "Specialist",
         "name": "Specialist",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "special_cass",
@@ -18895,6 +18905,7 @@
     "Super Brain": {
         "id": "Super Brain",
         "name": "Super Brain",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "sbrain"
@@ -18904,6 +18915,7 @@
     "Super Sensor IV": {
         "id": "Super Sensor IV",
         "name": "Super Sensor IV",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "novag_ssensor4"
@@ -20562,6 +20574,7 @@
     "Touch & Tell": {
         "id": "Touch & Tell",
         "name": "Touch & Tell",
+        "company": "Generic",
         "matches": {
             "mame": [
                 "tntell"
@@ -20680,6 +20693,13 @@
         "id": "USSR Vector-06C",
         "name": "Vector-06C",
         "matches": {
+            "launchbox": [
+                "Vector-06C"
+            ],
+            "mame": [
+                "vector06_cart",
+                "vector06_flop"
+            ],
             "tosec": [
                 "USSR Vector-06C - Games"
             ]
@@ -21325,19 +21345,6 @@
             "VTech V.Smile Motion"
         ]
     },
-    "Vector-06C": {
-        "id": "Vector-06C",
-        "name": "Vector-06C",
-        "matches": {
-            "launchbox": [
-                "Vector-06C"
-            ],
-            "mame": [
-                "vector06_cart",
-                "vector06_flop"
-            ]
-        }
-    },
     "Victor 9000 - ACT Sirius 1": {
         "id": "Victor 9000 - ACT Sirius 1",
         "name": "9000 - ACT Sirius 1",
@@ -21394,6 +21401,7 @@
     "Visual Pinball": {
         "id": "Visual Pinball",
         "name": "Visual Pinball",
+        "company": "Generic",
         "matches": {
             "screenscraper": [
                 198
