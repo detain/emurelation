@@ -25,6 +25,7 @@
         "description": "Redump is a disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system. The goal is to make blueprints of the data on console and computer game discs. Redump.org also provides guides to ensure the dumps are correctly done. Users of the website who follow the guides correctly are encouraged to share their results to help build the database. Multiple dumps of games with the same serial number by different people are collected to ensure the same results are gathered, which help correct any incorrect dumps in the database as well as to help recognize alternate versions of the same game. ",
         "updatedLast": 1665187724,
         "updateTrigger": "commit",
+        "logo": "https://ia601802.us.archive.org/14/items/redump.psx.p2/zzzRedump.png",
         "web": {
             "http://redump.org/": "home"
         }
@@ -40,6 +41,7 @@
         "description": "What No-Intro does is fill some DAT files, to be used with ROM managers, with information about the known ROMS released. Often there are more versions of the same ROM dump, but most of them are garbage, some examples may include: bad dumps, hacks, fakes, overdumps, underdumps, and so on. No-Intro lists only the best available ROM; it must be a full dump with no faults and no changes to the file, basically just the ROMS that are the closest as possible to the original licensed cartridges.",
         "updatedLast": 1665187596,
         "updateTrigger": "commit",
+        "logo": "https://no-intro.org/gbadat/gui/banner3.5.svg",
         "web": {
             "https://no-intro.org/": "home"
         }
@@ -55,6 +57,7 @@
         "description": "The Old School Emulation Center (TOSEC) is a retrocomputing initiative dedicated to the cataloging and preservation of software, firmware and resources for arcade machines, microcomputers, minicomputers and video game consoles. The main goal of the project is to catalog and audit various kinds of software and firmware images for these systems.  TOSEC, or sometimes for clarity referred to as 'TOSEC (main)', is the original main branch of the project. It catalogs all the non-optical disc based systems and remains the bulk of the TOSEC database.",
         "updatedLast": 1665187861,
         "updateTrigger": "commit",
+        "logo": "https://www.tosecdev.org/templates/ja_purity_ii/images/logo.gif",
         "web": {
             "https://www.tosecdev.org/": "home"
         }
@@ -117,6 +120,7 @@
         "description": "Retro Gaming Online DB and API",
         "updatedLast": 1662527942,
         "updateTrigger": "commit",
+        "logo": "https://www.screenscraper.fr/images/logoanime.gif",
         "web": {
             "https://www.screenscraper.fr/": "home"
         }
@@ -131,6 +135,7 @@
         "description": "Retro Gaming Online DB and API",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://www.igdb.com/apple-icon-72x72.png",
         "web": {
             "https://www.igdb.com/": "home"
         }
@@ -147,6 +152,7 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://db.hfsplay.fr/static/img/logo_hfs.png",
         "web": {
             "https://db.hfsplay.fr/": "home"
         }
@@ -161,6 +167,7 @@
         "description": "Retro Gaming Online DB and API",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://www.mobygames.com/images/mobygames-logo.png",
         "web": {
             "https://www.mobygames.com/": "home"
         }
@@ -194,6 +201,7 @@
         "description": "Online Games System Repository. The biggest source for manuals, videos, music and artwork/",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://www.gamesdatabase.org/Images/Logo1.gif",
         "web": {
             "https://www.gamesdatabase.org/": "home"
         }
@@ -209,6 +217,7 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://3.bp.blogspot.com/_Y6S_jlqe0OQ/TJv0025CbfI/AAAAAAAAAy0/orKSymTi284/s400/emucrlogo.gif",
         "web": {
             "https://www.emucr.com/": "home"
         }
@@ -224,6 +233,7 @@
         "description": "",
         "updatedLast": 1663052157,
         "updateTrigger": "commit",
+        "logo": "https://www.gametdb.com/pub/skins/GameTDB-400.png",
         "web": {
             "https://www.gametdb.com/": "home"
         }
@@ -239,6 +249,7 @@
         "description": "",
         "updatedLast": 1662449460,
         "updateTrigger": "commit",
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2021/03/emulationkinglogo.png",
         "web": {
             "https://emulationking.com/": "home"
         }
@@ -254,6 +265,7 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://b64459531885200b3efb-5206a7b3a50a3f5974248375cd863061.ssl.cf1.rackcdn.com/graphics/eplogo-tag.jpg",
         "web": {
             "https://www.emuparadise.me/": "home"
         }
@@ -269,6 +281,7 @@
         "description": "",
         "updatedLast": 1665064581,
         "updateTrigger": "commit",
+        "logo": "https://emutopia.com/images/emulogo.png.pagespeed.ce.BPXYwR6LZu.png",
         "web": {
             "https://emutopia.com/": "home"
         }
@@ -285,6 +298,7 @@
         "description": "MAME is a multi-purpose emulation framework.  MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important vintage software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus.",
         "updatedLast": 1665185885,
         "updateTrigger": "commit",
+        "logo": "https://forum.mamedev.org/styles/hawiki/theme/images/mame-forum.png",
         "web": {
             "https://www.mamedev.org/": "home",
             "https://github.com/mamedev/mame/": "repo"
@@ -303,6 +317,7 @@
         "description": "LaunchBox was originally built as an attractive frontend for DOSBox, but has long since expanded to support both modern PC games and emulated console platforms. LaunchBox aims to be the one-stop shop for gaming on your computer, for both modern and historical games.",
         "updatedLast": 1665181687,
         "updateTrigger": "commit",
+        "logo": "https://www.launchbox-app.com/Resources/Images/logo.png",
         "web": {
             "https://www.launchbox-app.com/": "home"
         }
@@ -318,6 +333,7 @@
         "description": "",
         "updatedLast": 1663059972,
         "updateTrigger": "commit",
+        "logo": "https://www.retrobat.ovh/img/baniere2.png",
         "web": {
             "https://github.com/kaylh/RetroBat": "repo",
             "https://www.retrobat.ovh/": "home"
@@ -334,6 +350,7 @@
         "description": "EmulationStation Desktop Edition is a frontend for browsing and launching games from your multi-platform game collection.",
         "updatedLast": 1663218361,
         "updateTrigger": "commit",
+        "logo": "https://es-de.org/____impro/1/onewebmedia/ES-DE_logo.png?etag=%226071-6041244a%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=240%2B168",
         "web": {
             "https://es-de.org/": "home",
             "https://gitlab.com/es-de/emulationstation-de/": "repo"
@@ -350,6 +367,7 @@
         "description": "",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://hyperspin-fe.com/uploads/monthly_2021_07/ebd74b9b3bfd11deb539e4242d95078b.png.5be05f4f01167f0fa912a6d47322bf6c.png",
         "web": {
             "https://hyperspin-fe.com/": "home"
         }
@@ -365,6 +383,7 @@
         "description": "Retrogaming open source operating system for Raspberry Pi, Odroid and PC.",
         "updatedLast": 1662715521,
         "updateTrigger": "commit",
+        "logo": "https://user-content.gitlab-static.net/eaf79c85113f3e5b19267e83eb7125a0fd31fbd0/68747470733a2f2f73332d65752d776573742d312e616d617a6f6e6177732e636f6d2f666f72756d732e726563616c626f782e636f6d2f38643831653535362d616566622d343732392d616432662d3964373338366566663463642e706e67",
         "web": {
             "https://www.recalbox.com/": "home",
             "https://gitlab.com/recalbox/recalbox": "repo"
@@ -381,6 +400,7 @@
         "description": "RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, EmulationStation, RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up. For power users it also provides a large variety of configuration tools to customise the system as you want.",
         "updatedLast": 1662715983,
         "updateTrigger": "commit",
+        "logo": "https://retropie.org.uk/wp-content/uploads/2016/04/RetroPieWebsiteLogo.png",
         "web": {
             "https://retropie.org.uk/": "home",
             "https://github.com/RetroPie/RetroPie-Setup": "repo"
@@ -397,6 +417,7 @@
         "description": "Cross-platform, sophisticated frontend for the libretro API.",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://www.retroarch.com/images/logo.png",
         "web": {
             "https://www.libretro.com/": "home",
             "https://github.com/libretro/RetroArch": "repo"
@@ -413,6 +434,7 @@
         "description": "A flexible emulator front-end supporting keyboardless navigation and custom system themes.",
         "updatedLast": false,
         "updateTrigger": "commit",
+        "logo": "https://emulationstation.org/assets/logo_es.png",
         "web": {
             "https://emulationstation.org/": "home",
             "https://github.com/Aloshi/EmulationStation": "repo"
@@ -445,6 +467,7 @@
         "description": "Another Gamelist, Roms manager, and Scraper for Recalbox, Batocera, Retropie, Retrobat & Emulationstation",
         "updatedLast": 1663222440,
         "updateTrigger": "commit",
+        "logo": "http://jujuvincebros.fr/images/phocadownload/arrm/arrm.png",
         "web": {
             "http://jujuvincebros.fr/hard-soft/arrm-gamelist-roms-manager-scraper": "home"
         }
@@ -461,6 +484,7 @@
         "description": "emuControlCenter is a Console/Computer Rom-Manager & Frontend for various older and newer consoles/handheld/computer games and is build for people who want to play games quick 'n' easy without searching to much. ECC uses rom-releated meta and has extended search functions built-in, it supports bookmarks, ratings and a history for roms. You can also add images and preview them directy in the 'Resultview'. There is also a 'ImageCenter' build-in for a fullsize preview of screens and covers.",
         "updatedLast": 1664616850,
         "updateTrigger": "commit",
+        "logo": "https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuControlCenter/images/ecc_splashscreen_123.png",
         "web": {
             "https://github.com/PhoenixInteractiveNL/emuControlCenter": "repo",
             "https://github.com/PhoenixInteractiveNL/emuControlCenter.wiki": "repo",
