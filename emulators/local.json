@@ -167,7 +167,9 @@
             "Capcom Capcom Play System 1",
             "Capcom Capcom Play System 2",
             "SNK Neo Geo",
-            "Sega System 16"
+            "Sega System 16",
+            "Atari 800",
+            "Amstrad CPC"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -254,7 +256,8 @@
         "shortName": "adamem",
         "name": "ADAMEm",
         "platforms": [
-            "Coleco ColecoVision ADAM"
+            "Coleco ColecoVision ADAM",
+            "Coleco ColecoVision"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -307,7 +310,9 @@
         "id": "advancemame",
         "shortName": "advancemame",
         "name": "advancemame",
-        "platforms": [],
+        "platforms": [
+            "Taito Type X"
+        ],
         "web": {
             "https://www.advancemame.it/": "home",
             "https://github.com/amadvance/advancemame": "repo"
@@ -568,7 +573,12 @@
         "id": "amiberry",
         "shortName": "amiberry",
         "name": "amiberry",
-        "platforms": [],
+        "platforms": [
+            "Commodore Amiga 3000",
+            "Commodore Amiga 600",
+            "Commodore Amiga CD32",
+            "Commodore Amiga CDTV"
+        ],
         "web": {
             "https://amiberry.com/": "home",
             "https://github.com/BlitterStudio/amiberry": "repo"
@@ -586,7 +596,9 @@
         "id": "andripsx",
         "shortName": "andripsx",
         "name": "andripsx",
-        "platforms": [],
+        "platforms": [
+            "Sony Playstation"
+        ],
         "matches": {
             "emulationking": [
                 "andripsx"
@@ -753,7 +765,9 @@
         "shortName": "applewin",
         "name": "AppleWin",
         "platforms": [
-            "Apple II"
+            "Apple II",
+            "Apple II Plus",
+            "Apple IIe"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -1192,7 +1206,8 @@
         "name": "Atari800",
         "platforms": [
             "Atari 5200",
-            "Atari 800"
+            "Atari 800",
+            "Atari XE"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -1393,7 +1408,9 @@
         "id": "basicboy",
         "shortName": "basicboy",
         "name": "basicboy",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Color"
+        ],
         "matches": {
             "emulationking": [
                 "basicboy"
@@ -1445,7 +1462,9 @@
         "id": "batgba",
         "shortName": "batgba",
         "name": "batgba",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Advance"
+        ],
         "web": {
             "https://batgba.zophar.net/": "home"
         },
@@ -1460,7 +1479,8 @@
         "shortName": "beebem",
         "name": "BeebEm",
         "platforms": [
-            "Acorn BBC"
+            "Acorn BBC",
+            "Acorn BBC Micro"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -1611,7 +1631,8 @@
             "Sega Mark III & Master System",
             "Nintendo Super Nintendo Entertainment System",
             "Texas Instruments TI-99 4A",
-            "Bandai WonderSwan"
+            "Bandai WonderSwan",
+            "Texas Instruments TI-83"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -1705,7 +1726,9 @@
         "id": "bleem",
         "shortName": "bleem",
         "name": "bleem",
-        "platforms": [],
+        "platforms": [
+            "Sony Playstation"
+        ],
         "matches": {
             "emulationking": [
                 "bleem"
@@ -1776,7 +1799,9 @@
             "Microsoft MSX",
             "MSX TurboR",
             "Sega SC-3000",
-            "Sega Game 1000"
+            "Sega Game 1000",
+            "Microsoft MSX Turbo-R",
+            "MSX MSX"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -1852,7 +1877,9 @@
         "name": "BSNES",
         "platforms": [
             "Nintendo Entertainment System",
-            "Nintendo Super Nintendo Entertainment System"
+            "Nintendo Super Nintendo Entertainment System",
+            "Nintendo Satellaview",
+            "Nintendo Sufami Turbo"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -2191,7 +2218,8 @@
         "name": "CCS64",
         "platforms": [
             "Commodore Plus-4 - C16 - C116",
-            "Commodore 64"
+            "Commodore 64",
+            "Handheld Electronic Games (LCD)"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -2401,7 +2429,9 @@
         "id": "classic99",
         "shortName": "classic99",
         "name": "Classic99",
-        "platforms": [],
+        "platforms": [
+            "Texas Instruments TI-99 4A"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "classic99"
@@ -2818,7 +2848,11 @@
         "id": "crabemu",
         "shortName": "crabemu",
         "name": "crabemu",
-        "platforms": [],
+        "platforms": [
+            "Sega Mark III & Master System",
+            "Sega Game 1000",
+            "Sega Game Gear"
+        ],
         "web": {
             "https://sourceforge.net/projects/crabemu/": "home"
         },
@@ -3016,7 +3050,9 @@
         "shortName": "dapple",
         "name": "Dapple",
         "platforms": [
-            "Apple II"
+            "Apple II",
+            "Apple II Plus",
+            "Apple IIe"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -3069,7 +3105,8 @@
         "shortName": "dcalice",
         "name": "DCALICE",
         "platforms": [
-            "Matra Hachette Alice 32"
+            "Matra Hachette Alice 32",
+            "Matra Hachette Alice 90"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -3128,7 +3165,9 @@
         "id": "dchector",
         "shortName": "dchector",
         "name": "DCHector",
-        "platforms": [],
+        "platforms": [
+            "Hector HRX"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "dchector"
@@ -3185,7 +3224,8 @@
         "shortName": "dcmo5",
         "name": "DCMO5",
         "platforms": [
-            "Thomson MO5"
+            "Thomson MO5",
+            "Olivetti Prodest PC 128"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -3214,7 +3254,8 @@
         "shortName": "dcmoto",
         "name": "DCMOTO",
         "platforms": [
-            "Thomson MO5"
+            "Thomson MO5",
+            "Olivetti Prodest PC 128"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -3246,7 +3287,8 @@
         "shortName": "dcvg5k",
         "name": "DCVG5K",
         "platforms": [
-            "Philips VG 5000"
+            "Philips VG 5000",
+            "Magnavox Odyssey 2"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -3277,7 +3319,9 @@
         "id": "decaf",
         "shortName": "decaf",
         "name": "Decaf",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Wii U"
+        ],
         "matches": {
             "windspro": [
                 "Decaf"
@@ -3302,7 +3346,8 @@
         "name": "Dega",
         "platforms": [
             "Sega Game Gear",
-            "Sega Mark III & Master System"
+            "Sega Mark III & Master System",
+            "Sega SG-1000"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -3430,7 +3475,9 @@
         "shortName": "dgen",
         "name": "DGen",
         "platforms": [
-            "Sega Genesis"
+            "Sega Genesis",
+            "Sega Mega CD",
+            "Sega 32X"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -3488,7 +3535,9 @@
         "id": "directvms",
         "shortName": "directvms",
         "name": "DirectVMS",
-        "platforms": [],
+        "platforms": [
+            "Sega Dreamcast"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "directvms"
@@ -3635,7 +3684,9 @@
         "id": "dosbox",
         "shortName": "dosbox",
         "name": "DOSBox",
-        "platforms": [],
+        "platforms": [
+            "Microsoft MS-DOS"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "dosbox"
@@ -3866,7 +3917,9 @@
         "id": "dreamgbc",
         "shortName": "dreamgbc",
         "name": "dreamgbc",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Color"
+        ],
         "matches": {
             "emulationking": [
                 "dreamgbc"
@@ -3877,7 +3930,9 @@
         "id": "dreamvmu",
         "shortName": "dreamvmu",
         "name": "DreamVMU",
-        "platforms": [],
+        "platforms": [
+            "Sega Dreamcast"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "dreamvmu"
@@ -4024,7 +4079,9 @@
         "id": "duos",
         "shortName": "duos",
         "name": "duos",
-        "platforms": [],
+        "platforms": [
+            "Nintendo DS"
+        ],
         "web": {
             "https://ds-duos.blogspot.com/": "home"
         },
@@ -4067,7 +4124,9 @@
         "id": "dxbx",
         "shortName": "dxbx",
         "name": "dxbx",
-        "platforms": [],
+        "platforms": [
+            "Microsoft Xbox"
+        ],
         "web": {
             "https://sourceforge.net/projects/dxbx/": "home"
         },
@@ -4112,7 +4171,8 @@
             "Jupiter Cantab Jupiter Ace",
             "Sinclair QL",
             "Sinclair ZX-81",
-            "Sinclair ZX Spectrum +3"
+            "Sinclair ZX Spectrum +3",
+            "Atari PC"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -4178,7 +4238,8 @@
         "name": "RCS Elf",
         "platforms": [
             "COMX COMX-35",
-            "RCA Studio II"
+            "RCA Studio II",
+            "RCA VIP"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -4209,7 +4270,8 @@
         "shortName": "elkulator",
         "name": "Elkulator",
         "platforms": [
-            "Acorn Electron"
+            "Acorn Electron",
+            "Acorn BBC"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -4323,7 +4385,8 @@
         "name": "Emulator2001",
         "platforms": [
             "Emerson Arcadia 2001",
-            "Interton VC 4000"
+            "Interton VC 4000",
+            "VTech Laser 310"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -4821,7 +4884,10 @@
         "id": "fba2x",
         "shortName": "fba2x",
         "name": "fba2x",
-        "platforms": [],
+        "platforms": [
+            "Taito Type X",
+            "SNK Neo Geo"
+        ],
         "web": {
             "https://github.com/recalbox/pifba/": "repo"
         },
@@ -4847,7 +4913,8 @@
             "NEC PC Engine SuperGrafx",
             "Sega System 16",
             "Sega Game 1000",
-            "Sega Mark III & Master System"
+            "Sega Mark III & Master System",
+            "Microsoft MSX"
         ],
         "matches": {
             "windspro": [
@@ -4889,7 +4956,8 @@
             "NEC PC Engine SuperGrafx",
             "Sega System 16",
             "Sega Game 1000",
-            "Sega Mark III & Master System"
+            "Sega Mark III & Master System",
+            "Microsoft MSX"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -4913,7 +4981,9 @@
         "id": "fbzx",
         "shortName": "fbzx",
         "name": "fbzx",
-        "platforms": [],
+        "platforms": [
+            "Sinclair ZX Spectrum +3"
+        ],
         "matches": {
             "retropie": [
                 "fbzx"
@@ -5047,7 +5117,8 @@
         "shortName": "fmsx",
         "name": "fMSX",
         "platforms": [
-            "Microsoft MSX"
+            "Microsoft MSX",
+            "MSX MSX"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -5100,7 +5171,8 @@
         "shortName": "free64",
         "name": "Free 64",
         "platforms": [
-            "Commodore 64"
+            "Commodore 64",
+            "Handheld Electronic Games (LCD)"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -5186,7 +5258,9 @@
         "id": "frotz",
         "shortName": "frotz",
         "name": "frotz",
-        "platforms": [],
+        "platforms": [
+            "Infocom Z-Machine"
+        ],
         "web": {
             "https://davidgriffith.gitlab.io/frotz/": "repo"
         },
@@ -5323,7 +5397,8 @@
         "shortName": "galaxywin",
         "name": "Galaxy Win",
         "platforms": [
-            "Galaksija Plus"
+            "Galaksija Plus",
+            "Galaksija"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -5351,7 +5426,9 @@
         "id": "gambatte",
         "shortName": "gambatte",
         "name": "gambatte",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Color"
+        ],
         "web": {
             "https://sourceforge.net/projects/gambatte/": "home"
         },
@@ -5507,7 +5584,9 @@
         "id": "gearboy",
         "shortName": "gearboy",
         "name": "gearboy",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Color"
+        ],
         "web": {
             "https://github.com/drhelius/Gearboy": "repo"
         },
@@ -5709,7 +5788,9 @@
         "platforms": [
             "Sega 32X",
             "Sega Genesis",
-            "Sega CD"
+            "Sega CD",
+            "Sega Mega Drive",
+            "Sega WonderMega"
         ],
         "matches": {
             "windspro": [
@@ -5911,7 +5992,10 @@
         "id": "gngeopi",
         "shortName": "gngeopi",
         "name": "gngeopi",
-        "platforms": [],
+        "platforms": [
+            "Taito Type X",
+            "SNK Neo Geo"
+        ],
         "matches": {
             "retropie": [
                 "gngeopi"
@@ -5922,7 +6006,9 @@
         "id": "gnuboy",
         "shortName": "gnuboy",
         "name": "gnuboy",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Color"
+        ],
         "web": {
             "https://github.com/rofl0r/gnuboy": "repo"
         },
@@ -5936,7 +6022,9 @@
         "id": "gpsp",
         "shortName": "gpsp",
         "name": "gpsp",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Advance"
+        ],
         "web": {
             "https://gpsp-dev.blogspot.com/": "home",
             "https://github.com/PSP-Archive/gpsp": "repo"
@@ -5951,7 +6039,10 @@
         "id": "gsplus",
         "shortName": "gsplus",
         "name": "gsplus",
-        "platforms": [],
+        "platforms": [
+            "Apple II",
+            "Apple Macintosh"
+        ],
         "web": {
             "https://apple2.gs/plus/": "home",
             "https://github.com/digarok/gsplus": "repo"
@@ -6141,7 +6232,9 @@
             "Nintendo Game Boy Color",
             "Nintendo Super Nintendo Entertainment System",
             "Bandai WonderSwan",
-            "Bandai WonderSwan Color"
+            "Bandai WonderSwan Color",
+            "Nintendo Entertainment System",
+            "Nintendo DS"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -6302,7 +6395,8 @@
         "shortName": "hpsx64",
         "name": "HPSX (Highly-Experimental Playstation Emulator)",
         "platforms": [
-            "Sony Playstation"
+            "Sony Playstation",
+            "Sony Playstation 2"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -6934,7 +7028,9 @@
         "id": "jynx",
         "shortName": "jynx",
         "name": "Jynx",
-        "platforms": [],
+        "platforms": [
+            "Atari Lynx"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "jynx"
@@ -7081,7 +7177,9 @@
             "Sega SC-3000",
             "Sega Game 1000",
             "Sega CD",
-            "Sega Mark III & Master System"
+            "Sega Mark III & Master System",
+            "Sega Mega Drive",
+            "Tsukuda Original Othello Multivision"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -7359,7 +7457,135 @@
         "id": "launchbox",
         "shortName": "launchbox",
         "name": "launchbox",
-        "platforms": [],
+        "platforms": [
+            "Sega Genesis",
+            "Sega Mark III & Master System",
+            "Nintendo Entertainment System",
+            "Nintendo Super Nintendo Entertainment System",
+            "Generic Arcade",
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Color",
+            "Nintendo Virtual Boy",
+            "Nintendo Game Boy Advance",
+            "Nintendo GameCube",
+            "Nintendo 64",
+            "Nintendo DS",
+            "Nintendo Wii",
+            "Nintendo 3DS",
+            "Nintendo Wii U",
+            "Sega 32X",
+            "Sega CD",
+            "Sega Game Gear",
+            "Sega Saturn",
+            "Sega Dreamcast",
+            "SNK Neo Geo Pocket",
+            "Atari 2600",
+            "Atari Jaguar",
+            "Atari Lynx",
+            "Panasonic 3DO Interactive Multiplayer",
+            "Nokia N-Gage",
+            "NEC Turbografx 16",
+            "Microsoft Xbox",
+            "Microsoft Xbox 360",
+            "Microsoft Xbox One",
+            "Acorn Atom",
+            "Acorn BBC Micro",
+            "Atari 5200",
+            "Atari 7800",
+            "Atari ST",
+            "Atari XE",
+            "Bally Professional Arcade & Astrocade",
+            "Bandai WonderSwan",
+            "Bandai WonderSwan Color",
+            "Coleco ColecoVision",
+            "Nintendo Game & Watch",
+            "Sammy Atomiswave",
+            "Sega Model 2",
+            "Sega Model 3",
+            "Sega Naomi",
+            "Sony Playstation",
+            "Sony Playstation 2",
+            "Sony Playstation 3",
+            "Sony Playstation 4",
+            "Sony Playstation Portable",
+            "Sony Playstation Vita",
+            "Generic Android",
+            "Commodore Amiga 600",
+            "Amstrad CPC",
+            "Commodore 64",
+            "Epoch Super Cassette Vision",
+            "SNK Neo Geo MVS",
+            "Sega ST-V",
+            "SNK Neo Geo CD",
+            "NEC PC-FX",
+            "Commodore VIC-20",
+            "Casio PV-1000",
+            "Taito Type X",
+            "Sinclair ZX Spectrum +3",
+            "Sinclair ZX-81",
+            "Entex Adventure Vision",
+            "Sharp X68000",
+            "Fairchild Channel F",
+            "WoW Action Max",
+            "SNK Neo Geo Pocket Color",
+            "Technosys Aamber Pegasus",
+            "Acorn Archimedes",
+            "Acorn Electron",
+            "Apple II",
+            "Amstrad GX4000",
+            "Camputers Lynx",
+            "Coleco ColecoVision ADAM",
+            "Creatronic Mega Duck & Cougar Boy",
+            "Dragon 32-64",
+            "EACA EG2000 Colour Genie",
+            "Elektronika BK",
+            "Emerson Arcadia 2001",
+            "Epoch Game Pocket Computer",
+            "Exelvision EXL 100",
+            "Fujitsu FM-7",
+            "Casio Loopy",
+            "Commodore Plus-4 - C16 - C116",
+            "Funtech Super A'Can",
+            "GCE Vectrex",
+            "Hartung Game Master",
+            "Philips Videopac+",
+            "NEC PC Engine SuperGrafx",
+            "Nintendo Famicom",
+            "Nintendo Satellaview",
+            "Tsukuda Original Othello Multivision",
+            "Commodore Amiga 3000",
+            "Microsoft MSX",
+            "NEC TurboGrafx-CD",
+            "Mattel Intellivision",
+            "Microsoft MSX2+",
+            "Microsoft MSX Turbo-R",
+            "Nintendo 64DD",
+            "Generic ScummVM",
+            "Radio-86RK Mikrosha",
+            "Jupiter Cantab Jupiter Ace",
+            "Commodore Amiga CDTV",
+            "Commodore Amiga CD32",
+            "Tangerine Oric-1 & Oric Atmos",
+            "Philips CD-i",
+            "Microsoft MS-DOS",
+            "Microsoft Windows",
+            "Thomson TO8",
+            "SNK Neo Geo",
+            "Tandy Radio Shack TRS-80 Color Computer",
+            "Apple Macintosh",
+            "Namco System 22",
+            "Exidy Sorcerer",
+            "Atari Jaguar CD",
+            "Texas Instruments TI-99 4A",
+            "Watara Supervision",
+            "MGT Sam Coupe",
+            "Generic OpenBOR",
+            "Uzebox",
+            "Spectravideo SVI-318 & SVI-328",
+            "Sharp X1",
+            "Nintendo Switch",
+            "Sega Naomi 2"
+        ],
         "web": {
             "https://www.launchbox-app.com/": "home"
         },
@@ -7373,7 +7599,9 @@
         "id": "linapple",
         "shortName": "linapple",
         "name": "linapple",
-        "platforms": [],
+        "platforms": [
+            "Apple II"
+        ],
         "web": {
             "https://github.com/linappleii/linapple": "repo"
         },
@@ -7416,7 +7644,8 @@
         "shortName": "lisaem",
         "name": "LisaEm",
         "platforms": [
-            "Apple Lisa"
+            "Apple Lisa",
+            "Apple Macintosh"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -7772,7 +8001,10 @@
             "Sharp X68000",
             "Sony ZiNc",
             "Sinclair ZX-81",
-            "Sinclair ZX Spectrum +3"
+            "Sinclair ZX Spectrum +3",
+            "Texas Instruments TI-99 4A",
+            "Nintendo Game & Watch",
+            "Taito Type X"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -7818,7 +8050,9 @@
         "id": "mame4all",
         "shortName": "mame4all",
         "name": "mame4all",
-        "platforms": [],
+        "platforms": [
+            "Taito Type X"
+        ],
         "matches": {
             "retropie": [
                 "mame4all"
@@ -7839,7 +8073,8 @@
             "SNK Neo Geo",
             "Sega System 16",
             "Namco System 22",
-            "Sony ZiNc"
+            "Sony ZiNc",
+            "Sega Model 2"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -7883,7 +8118,10 @@
             "Nintendo Super Nintendo Entertainment System",
             "Nintendo Virtual Boy",
             "Bandai WonderSwan",
-            "Bandai WonderSwan Color"
+            "Bandai WonderSwan Color",
+            "Apple II",
+            "NEC Turbografx 16",
+            "NEC TurboGrafx-CD"
         ],
         "matches": {
             "windspro": [
@@ -8019,7 +8257,9 @@
         "id": "meisei",
         "shortName": "meisei",
         "name": "meisei",
-        "platforms": [],
+        "platforms": [
+            "Microsoft MSX"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "meisei"
@@ -8044,7 +8284,8 @@
             "Sega Game Gear",
             "Sega SC-3000",
             "Sega Game 1000",
-            "Sega Mark III & Master System"
+            "Sega Mark III & Master System",
+            "Sega SG-1000"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -8331,7 +8572,21 @@
             "Sharp X1",
             "Sharp X68000",
             "Sinclair ZX-81",
-            "Sinclair ZX Spectrum +3"
+            "Sinclair ZX Spectrum +3",
+            "Texas Instruments TI-99 4A",
+            "Luxor ABC 80",
+            "Rockwell AIM 65",
+            "Commodore Amiga 1000",
+            "Commodore Amiga 1200",
+            "Commodore Amiga 3000",
+            "Commodore Amiga 4000",
+            "Commodore Amiga 500",
+            "Commodore Amiga 600",
+            "Galaksija",
+            "Kaypro II",
+            "Handheld Electronic Games (LCD)",
+            "Atari PC",
+            "Tandy Radio Shack TRS-80 Model III"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -8385,7 +8640,8 @@
         "platforms": [
             "Nintendo Game Boy",
             "Nintendo Game Boy Advance",
-            "Nintendo Game Boy Color"
+            "Nintendo Game Boy Color",
+            "Nintendo DS"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -8646,7 +8902,9 @@
         "id": "mupen64",
         "shortName": "mupen64",
         "name": "Mupen64",
-        "platforms": [],
+        "platforms": [
+            "Nintendo 64"
+        ],
         "matches": {
             "windspro": [
                 "Mupen64-rr"
@@ -8682,7 +8940,8 @@
         "shortName": "mupen64plus",
         "name": "Mupen64+",
         "platforms": [
-            "Nintendo 64"
+            "Nintendo 64",
+            "Nintendo 64DD"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -9139,7 +9398,8 @@
         "shortName": "neopop",
         "name": "NeoPop",
         "platforms": [
-            "SNK Neo Geo Pocket Color"
+            "SNK Neo Geo Pocket Color",
+            "SNK Neo Geo Pocket"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -9254,7 +9514,8 @@
         "shortName": "nestopia",
         "name": "Nestopia",
         "platforms": [
-            "Nintendo Entertainment System"
+            "Nintendo Entertainment System",
+            "Nintendo Famicom"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -9439,7 +9700,8 @@
         "name": "NLMSX",
         "platforms": [
             "Microsoft MSX",
-            "MSX TurboR"
+            "MSX TurboR",
+            "MSX MSX"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -9902,7 +10164,9 @@
         "id": "np2pi",
         "shortName": "np2pi",
         "name": "np2pi",
-        "platforms": [],
+        "platforms": [
+            "NEC PC-9801"
+        ],
         "matches": {
             "retropie": [
                 "np2pi"
@@ -9939,7 +10203,8 @@
         "shortName": "nulldc",
         "name": "nullDC",
         "platforms": [
-            "Sega Dreamcast"
+            "Sega Dreamcast",
+            "Sega Naomi"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -10044,7 +10309,8 @@
         "shortName": "ootake",
         "name": "Ootake",
         "platforms": [
-            "NEC PC-Engine"
+            "NEC PC-Engine",
+            "NEC Turbografx 16"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -10085,7 +10351,9 @@
         "id": "openbor",
         "shortName": "openbor",
         "name": "openbor",
-        "platforms": [],
+        "platforms": [
+            "Generic OpenBOR"
+        ],
         "matches": {
             "recalbox": [
                 "openbor"
@@ -10098,7 +10366,9 @@
         "name": "openmsx",
         "platforms": [
             "Microsoft MSX",
-            "Microsoft MSX Turbo-R"
+            "Microsoft MSX Turbo-R",
+            "Microsoft MSX2+",
+            "MSX MSX"
         ],
         "matches": {
             "windspro": [
@@ -10264,7 +10534,9 @@
         "id": "pale",
         "shortName": "pale",
         "name": "Pete's Amazing Lynx",
-        "platforms": [],
+        "platforms": [
+            "Atari Lynx"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "pale"
@@ -10639,7 +10911,9 @@
         "id": "pcsx-rearmed",
         "shortName": "pcsx-rearmed",
         "name": "pcsx-rearmed",
-        "platforms": [],
+        "platforms": [
+            "Sony Playstation"
+        ],
         "matches": {
             "windspro": [
                 "PCSX-R"
@@ -10744,7 +11018,9 @@
         "id": "pcsx_rearmed",
         "shortName": "pcsx_rearmed",
         "name": "pcsx_rearmed",
-        "platforms": [],
+        "platforms": [
+            "Sony Playstation"
+        ],
         "matches": {
             "recalbox": [
                 "pcsx_rearmed"
@@ -10851,7 +11127,8 @@
             "Coleco ColecoVision",
             "Sega Game Gear",
             "Sega Game 1000",
-            "Sega Mark III & Master System"
+            "Sega Mark III & Master System",
+            "Atari Jaguar"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -10947,7 +11224,10 @@
         "id": "pifba",
         "shortName": "pifba",
         "name": "pifba",
-        "platforms": [],
+        "platforms": [
+            "Taito Type X",
+            "SNK Neo Geo"
+        ],
         "matches": {
             "retropie": [
                 "pifba"
@@ -10958,7 +11238,9 @@
         "id": "pisnes",
         "shortName": "pisnes",
         "name": "pisnes",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Super Nintendo Entertainment System"
+        ],
         "matches": {
             "recalbox": [
                 "pisnes"
@@ -11053,7 +11335,9 @@
         "id": "playguy",
         "shortName": "playguy",
         "name": "playguy",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Color"
+        ],
         "matches": {
             "emulationking": [
                 "playguy"
@@ -11763,7 +12047,9 @@
         "id": "px68k",
         "shortName": "px68k",
         "name": "px68k",
-        "platforms": [],
+        "platforms": [
+            "Sharp X68000"
+        ],
         "matches": {
             "retropie": [
                 "px68k"
@@ -12041,7 +12327,107 @@
         "id": "recalbox",
         "shortName": "recalbox",
         "name": "recalbox",
-        "platforms": [],
+        "platforms": [
+            "Sega Genesis",
+            "Sega Mark III & Master System",
+            "Nintendo Entertainment System",
+            "Nintendo Super Nintendo Entertainment System",
+            "Generic Arcade",
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Color",
+            "Nintendo Virtual Boy",
+            "Nintendo Game Boy Advance",
+            "Nintendo GameCube",
+            "Nintendo 64",
+            "Nintendo DS",
+            "Nintendo Wii",
+            "Sega 32X",
+            "Sega CD",
+            "Sega Game Gear",
+            "Sega Saturn",
+            "Sega Dreamcast",
+            "SNK Neo Geo Pocket",
+            "Atari 2600",
+            "Atari Jaguar",
+            "Atari Lynx",
+            "Panasonic 3DO Interactive Multiplayer",
+            "NEC Turbografx 16",
+            "Acorn BBC Micro",
+            "Atari 5200",
+            "Atari 7800",
+            "Atari ST",
+            "Atari XE",
+            "Bandai WonderSwan",
+            "Bandai WonderSwan Color",
+            "Coleco ColecoVision",
+            "Nintendo Game & Watch",
+            "Sammy Atomiswave",
+            "Sega Model 2",
+            "Sega Model 3",
+            "Sega Naomi",
+            "Sony Playstation",
+            "Sony Playstation 2",
+            "Sony Playstation Portable",
+            "Commodore Amiga 600",
+            "Amstrad CPC",
+            "Commodore 64",
+            "Epoch Super Cassette Vision",
+            "Sega ST-V",
+            "SNK Neo Geo CD",
+            "NEC PC-FX",
+            "Commodore VIC-20",
+            "Taito Type X",
+            "Sinclair ZX Spectrum +3",
+            "Sinclair ZX-81",
+            "Sharp X68000",
+            "Fairchild Channel F",
+            "SNK Neo Geo Pocket Color",
+            "Apple II",
+            "Amstrad GX4000",
+            "Dragon 32-64",
+            "Elektronika BK",
+            "GCE Vectrex",
+            "Philips Videopac+",
+            "NEC PC Engine SuperGrafx",
+            "Nintendo Famicom",
+            "Nintendo Satellaview",
+            "Nintendo Sufami Turbo",
+            "Tsukuda Original Othello Multivision",
+            "Commodore Amiga 3000",
+            "Microsoft MSX",
+            "NEC TurboGrafx-CD",
+            "Mattel Intellivision",
+            "Microsoft MSX2+",
+            "Microsoft MSX Turbo-R",
+            "Nintendo 64DD",
+            "Generic ScummVM",
+            "Commodore Amiga CDTV",
+            "Commodore Amiga CD32",
+            "Tangerine Oric-1 & Oric Atmos",
+            "Philips CD-i",
+            "Commodore Amiga CD",
+            "Microsoft MS-DOS",
+            "Thomson TO8",
+            "SNK Neo Geo",
+            "Tandy Radio Shack TRS-80 Color Computer",
+            "Namco System 22",
+            "Exidy Sorcerer",
+            "Texas Instruments TI-99 4A",
+            "Watara Supervision",
+            "NEC PC-9801",
+            "Nintendo Pokemon Mini",
+            "MGT Sam Coupe",
+            "Generic OpenBOR",
+            "Uzebox",
+            "Apple Macintosh",
+            "Spectravideo SVI-318 & SVI-328",
+            "Generic Palm",
+            "Sharp X1",
+            "NEC PC-8801",
+            "Sega Naomi 2",
+            "Benesse Pocket Challenge V2",
+            "Commodore PET"
+        ],
         "web": {
             "https://www.recalbox.com/": "home"
         },
@@ -12218,7 +12604,9 @@
         "id": "reicast",
         "shortName": "reicast",
         "name": "reicast",
-        "platforms": [],
+        "platforms": [
+            "Sega Dreamcast"
+        ],
         "web": {
             "https://github.com/skmp/reicast-emulator": "repo"
         },
@@ -12277,7 +12665,49 @@
             "Sharp X1",
             "Sharp X68000",
             "Sinclair ZX-81",
-            "Sinclair ZX Spectrum +3"
+            "Sinclair ZX Spectrum +3",
+            "Panasonic 3DO Interactive Multiplayer",
+            "Amstrad CPC",
+            "Atari 2600",
+            "Atari 5200",
+            "Atari Lynx",
+            "Coleco ColecoVision",
+            "Commodore 64",
+            "Commodore PET",
+            "Commodore Plus-4 - C16 - C116",
+            "Commodore VIC-20",
+            "Philips Videopac+",
+            "Microsoft MSX Turbo-R",
+            "NEC PC-FX",
+            "NEC Turbografx 16",
+            "NEC TurboGrafx-CD",
+            "Nintendo 64",
+            "Nintendo DSi",
+            "Nintendo Famicom",
+            "Nintendo Game & Watch",
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Advance",
+            "Nintendo Game Boy Color",
+            "Nintendo GameCube",
+            "Nintendo Virtual Boy",
+            "Nintendo Wii",
+            "NEC PC Engine SuperGrafx",
+            "Sega 32X",
+            "Sega CD",
+            "Sega Dreamcast",
+            "Sega Game Gear",
+            "Sega Mega Drive",
+            "Sega Mark III & Master System",
+            "Sega Saturn",
+            "SNK Neo Geo MVS",
+            "SNK Neo Geo Pocket",
+            "SNK Neo Geo Pocket Color",
+            "Sony Playstation",
+            "Sony Playstation Portable",
+            "Nintendo Super Nintendo Entertainment System",
+            "Bandai WonderSwan",
+            "Bandai WonderSwan Color",
+            "Generic Arcade"
         ],
         "web": {
             "https://www.retroarch.com/": "home",
@@ -12353,7 +12783,9 @@
         "shortName": "retroarch_81",
         "name": "retroarch_81",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sinclair ZX-81"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_81"
@@ -12428,7 +12860,9 @@
         "shortName": "retroarch_beetle_lynx",
         "name": "retroarch_beetle_lynx",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Atari Lynx"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-lynx"
@@ -12440,7 +12874,10 @@
         "shortName": "retroarch_beetle_ngp",
         "name": "retroarch_beetle_ngp",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "SNK Neo Geo Pocket",
+            "SNK Neo Geo Pocket Color"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-ngp"
@@ -12452,7 +12889,9 @@
         "shortName": "retroarch_beetle_pce_fast",
         "name": "retroarch_beetle_pce_fast",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "NEC Turbografx 16"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-pce-fast"
@@ -12464,7 +12903,9 @@
         "shortName": "retroarch_beetle_pcfx",
         "name": "retroarch_beetle_pcfx",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "NEC PC-FX"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-pcfx"
@@ -12476,7 +12917,9 @@
         "shortName": "retroarch_beetle_psx",
         "name": "retroarch_beetle_psx",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sony Playstation"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-psx"
@@ -12488,7 +12931,9 @@
         "shortName": "retroarch_beetle_saturn",
         "name": "retroarch_beetle_saturn",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sega Saturn"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-saturn"
@@ -12500,7 +12945,9 @@
         "shortName": "retroarch_beetle_supergrafx",
         "name": "retroarch_beetle_supergrafx",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "NEC Turbografx 16"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-supergrafx"
@@ -12512,7 +12959,9 @@
         "shortName": "retroarch_beetle_vb",
         "name": "retroarch_beetle_vb",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Virtual Boy"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-vb"
@@ -12524,7 +12973,10 @@
         "shortName": "retroarch_beetle_wswan",
         "name": "retroarch_beetle_wswan",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Bandai WonderSwan",
+            "Bandai WonderSwan Color"
+        ],
         "matches": {
             "retropie": [
                 "lr-beetle-wswan"
@@ -12536,7 +12988,9 @@
         "shortName": "retroarch_bk",
         "name": "retroarch_bk",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Elektronika BK"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_bk"
@@ -12576,7 +13030,9 @@
             "Coleco ColecoVision",
             "Microsoft MSX",
             "Microsoft MSX Turbo-R",
-            "Sega Game 1000"
+            "Sega Game 1000",
+            "Microsoft MSX2+",
+            "Spectravideo SVI-318 & SVI-328"
         ],
         "matches": {
             "emulationstation-de": [
@@ -12738,7 +13194,10 @@
         "shortName": "retroarch_bsneshd",
         "name": "retroarch_bsneshd",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Satellaview",
+            "Nintendo Super Nintendo Entertainment System"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_bsneshd"
@@ -12790,7 +13249,9 @@
         "shortName": "retroarch_caprice32",
         "name": "retroarch_caprice32",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Amstrad CPC"
+        ],
         "matches": {
             "retropie": [
                 "lr-caprice32"
@@ -13025,7 +13486,9 @@
         "shortName": "retroarch_dosbox",
         "name": "retroarch_dosbox",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Microsoft MS-DOS"
+        ],
         "matches": {
             "retropie": [
                 "lr-dosbox"
@@ -13155,7 +13618,9 @@
         "shortName": "retroarch_emuscv",
         "name": "retroarch_emuscv",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Epoch Super Cassette Vision"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_emuscv"
@@ -13169,7 +13634,9 @@
         "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Taito Type X",
+            "SNK Neo Geo"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13196,7 +13663,8 @@
         "name": "retroarch_fbalpha2012_cps1",
         "parent": "retroarch",
         "platforms": [
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Generic Arcade"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13220,7 +13688,8 @@
         "name": "retroarch_fbalpha2012_cps2",
         "parent": "retroarch",
         "platforms": [
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Generic Arcade"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13244,7 +13713,8 @@
         "name": "retroarch_fbalpha2012_cps3",
         "parent": "retroarch",
         "platforms": [
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Generic Arcade"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13267,7 +13737,9 @@
         "shortName": "retroarch_fbalpha2012_neogeo",
         "name": "retroarch_fbalpha2012_neogeo",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Generic Arcade"
+        ],
         "matches": {
             "emulationstation-de": [
                 "RetroArch (FB Alpha 2012 Neo Geo)"
@@ -13291,7 +13763,23 @@
         "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Fairchild Channel F",
+            "Coleco ColecoVision",
+            "Taito Type X",
+            "Nintendo Famicom",
+            "Sega Game Gear",
+            "Sega Mark III & Master System",
+            "Sega Genesis",
+            "Microsoft MSX",
+            "SNK Neo Geo",
+            "SNK Neo Geo CD",
+            "Nintendo Entertainment System",
+            "SNK Neo Geo Pocket",
+            "NEC Turbografx 16",
+            "Tsukuda Original Othello Multivision",
+            "NEC PC Engine SuperGrafx",
+            "Sinclair ZX Spectrum +3"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13351,7 +13839,9 @@
         "shortName": "retroarch_fceunext",
         "name": "retroarch_fceunext",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Entertainment System"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_fceunext"
@@ -13367,7 +13857,8 @@
             "Generic Arcade",
             "Sammy Atomiswave",
             "Sega Dreamcast",
-            "Sega Naomi"
+            "Sega Naomi",
+            "Taito Type X"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13397,7 +13888,8 @@
         "name": "retroarch_fmsx",
         "parent": "retroarch",
         "platforms": [
-            "Microsoft MSX"
+            "Microsoft MSX",
+            "Microsoft MSX2+"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13426,7 +13918,9 @@
         "shortName": "retroarch_freechaf",
         "name": "retroarch_freechaf",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Fairchild Channel F"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_freechaf"
@@ -13441,7 +13935,9 @@
         "shortName": "retroarch_freeintv",
         "name": "retroarch_freeintv",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Mattel Intellivision"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_freeintv"
@@ -13480,7 +13976,9 @@
         "shortName": "retroarch_fuse",
         "name": "retroarch_fuse",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sinclair ZX Spectrum +3"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_fuse"
@@ -13581,7 +14079,8 @@
         "platforms": [
             "Sega Game Gear",
             "Sega Mark III & Master System",
-            "Sega Game 1000"
+            "Sega Game 1000",
+            "Tsukuda Original Othello Multivision"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13615,7 +14114,9 @@
             "Sega Genesis",
             "Sega Mark III & Master System",
             "Sega CD",
-            "Sega Game 1000"
+            "Sega Game 1000",
+            "Tsukuda Original Othello Multivision",
+            "Sega Mega CD"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13669,7 +14170,13 @@
         "shortName": "retroarch_genesisplusgx",
         "name": "retroarch_genesisplusgx",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sega Game Gear",
+            "Sega Mark III & Master System",
+            "Sega Genesis",
+            "Sega CD",
+            "Tsukuda Original Othello Multivision"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_genesisplusgx"
@@ -13681,7 +14188,9 @@
         "shortName": "retroarch_genesisplusgxwide",
         "name": "retroarch_genesisplusgxwide",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sega Genesis"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_genesisplusgxwide"
@@ -13795,7 +14304,9 @@
         "shortName": "retroarch_hatari",
         "name": "retroarch_hatari",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Atari ST"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_hatari"
@@ -13880,7 +14391,8 @@
         "platforms": [
             "Generic Arcade",
             "Bally Professional Arcade & Astrocade",
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Taito Type X"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13911,7 +14423,9 @@
         "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Taito Type X",
+            "SNK Neo Geo"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13940,7 +14454,10 @@
         "shortName": "retroarch_mame2003",
         "name": "retroarch_mame2003",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Taito Type X",
+            "SNK Neo Geo"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_mame2003"
@@ -13957,7 +14474,9 @@
         "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Taito Type X",
+            "SNK Neo Geo"
         ],
         "matches": {
             "emulationstation-de": [
@@ -13988,7 +14507,9 @@
         "parent": "retroarch",
         "platforms": [
             "Generic Arcade",
-            "Capcom Capcom Play System 1"
+            "Capcom Capcom Play System 1",
+            "Taito Type X",
+            "SNK Neo Geo"
         ],
         "matches": {
             "emulationstation-de": [
@@ -14017,7 +14538,10 @@
         "shortName": "retroarch_mame2015",
         "name": "retroarch_mame2015",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Taito Type X",
+            "SNK Neo Geo"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_mame2015"
@@ -14032,7 +14556,10 @@
         "shortName": "retroarch_mame2016",
         "name": "retroarch_mame2016",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "SNK Neo Geo",
+            "Taito Type X"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_mame2016"
@@ -14289,7 +14816,9 @@
         "name": "retroarch_mednafen_supergrafx",
         "parent": "retroarch",
         "platforms": [
-            "NEC PC Engine SuperGrafx"
+            "NEC PC Engine SuperGrafx",
+            "NEC Turbografx 16",
+            "NEC TurboGrafx-CD"
         ],
         "matches": {
             "emulationstation-de": [
@@ -14344,7 +14873,8 @@
         "parent": "retroarch",
         "platforms": [
             "Bandai WonderSwan",
-            "Bandai WonderSwan Color"
+            "Bandai WonderSwan Color",
+            "Benesse Pocket Challenge V2"
         ],
         "matches": {
             "emulationstation-de": [
@@ -14455,7 +14985,12 @@
         "shortName": "retroarch_mesen_s",
         "name": "retroarch_mesen_s",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Color",
+            "Nintendo Satellaview",
+            "Nintendo Super Nintendo Entertainment System"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_mesen_s"
@@ -14467,7 +15002,12 @@
         "shortName": "retroarch_mess",
         "name": "retroarch_mess",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Entertainment System",
+            "Nintendo Game Boy",
+            "Emerson Arcadia 2001",
+            "VTech CreatiVision"
+        ],
         "matches": {
             "retropie": [
                 "lr-mess"
@@ -14499,7 +15039,9 @@
         "shortName": "retroarch_meteor",
         "name": "retroarch_meteor",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Advance"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_meteor"
@@ -14543,7 +15085,9 @@
         "shortName": "retroarch_minivmac",
         "name": "retroarch_minivmac",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Apple Macintosh"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_minivmac"
@@ -14570,7 +15114,9 @@
         "shortName": "retroarch_mu",
         "name": "retroarch_mu",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Generic Palm"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_mu"
@@ -14582,7 +15128,10 @@
         "shortName": "retroarch_mupen64plus",
         "name": "retroarch_mupen64plus",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo 64",
+            "Nintendo 64DD"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_mupen64plus"
@@ -14652,7 +15201,10 @@
         "shortName": "retroarch_neocd",
         "name": "retroarch_neocd",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "SNK Neo Geo CD",
+            "SNK Neo Geo"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_neocd"
@@ -14699,7 +15251,8 @@
         "name": "retroarch_np2kai",
         "parent": "retroarch",
         "platforms": [
-            "NEC PC-98 series"
+            "NEC PC-98 series",
+            "NEC PC-9801"
         ],
         "matches": {
             "emulationstation-de": [
@@ -14743,7 +15296,9 @@
         "shortName": "retroarch_o2em",
         "name": "retroarch_o2em",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Philips Videopac+"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_o2em"
@@ -14880,7 +15435,8 @@
             "Sega Genesis",
             "Sega Mark III & Master System",
             "Sega CD",
-            "Sega 32X"
+            "Sega 32X",
+            "Sega Mega CD"
         ],
         "matches": {
             "emulationstation-de": [
@@ -14909,7 +15465,9 @@
         "shortName": "retroarch_pokemini",
         "name": "retroarch_pokemini",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Pokemon Mini"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_pokemini"
@@ -15009,7 +15567,9 @@
         "shortName": "retroarch_prosystem",
         "name": "retroarch_prosystem",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Atari 7800"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_prosystem"
@@ -15029,7 +15589,8 @@
             "Commodore Amiga 1200",
             "Commodore Amiga 600",
             "Commodore Amiga CD32",
-            "Commodore Amiga CDTV"
+            "Commodore Amiga CDTV",
+            "Commodore Amiga 3000"
         ],
         "matches": {
             "emulationstation-de": [
@@ -15089,7 +15650,9 @@
         "shortName": "retroarch_px68k",
         "name": "retroarch_px68k",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sharp X68000"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_px68k"
@@ -15104,7 +15667,9 @@
         "shortName": "retroarch_quasi88",
         "name": "retroarch_quasi88",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "NEC PC-8801"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_quasi88"
@@ -15204,7 +15769,9 @@
         "shortName": "retroarch_retrodream",
         "name": "retroarch_retrodream",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sega Dreamcast"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_retrodream"
@@ -15350,7 +15917,10 @@
         "shortName": "retroarch_smsplus_gx",
         "name": "retroarch_smsplus_gx",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sega Game Gear",
+            "Sega Mark III & Master System"
+        ],
         "matches": {
             "retropie": [
                 "lr-smsplus-gx"
@@ -15394,7 +15964,9 @@
         "shortName": "retroarch_snes9x2002",
         "name": "retroarch_snes9x2002",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Super Nintendo Entertainment System"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_snes9x2002"
@@ -15409,7 +15981,9 @@
         "shortName": "retroarch_snes9x2005",
         "name": "retroarch_snes9x2005",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Super Nintendo Entertainment System"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_snes9x2005"
@@ -15622,7 +16196,10 @@
         "shortName": "retroarch_theodore",
         "name": "retroarch_theodore",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Thomson TO8",
+            "Thomson MO5"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_theodore"
@@ -15679,7 +16256,12 @@
         "shortName": "retroarch_uae4arm",
         "name": "retroarch_uae4arm",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Commodore Amiga 3000",
+            "Commodore Amiga 600",
+            "Commodore Amiga CD32",
+            "Commodore Amiga CDTV"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_uae4arm"
@@ -15694,7 +16276,9 @@
         "shortName": "retroarch_uzem",
         "name": "retroarch_uzem",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Uzebox"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_uzem"
@@ -15759,7 +16343,9 @@
         "shortName": "retroarch_vecx",
         "name": "retroarch_vecx",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "GCE Vectrex"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_vecx"
@@ -15774,7 +16360,9 @@
         "shortName": "retroarch_vice",
         "name": "retroarch_vice",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Commodore VIC-20"
+        ],
         "matches": {
             "retropie": [
                 "lr-vice"
@@ -15867,7 +16455,9 @@
         "shortName": "retroarch_vice_xcbm2",
         "name": "retroarch_vice_xcbm2",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Commodore 64"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_vice_xcbm2"
@@ -15879,7 +16469,9 @@
         "shortName": "retroarch_vice_xcbm5x0",
         "name": "retroarch_vice_xcbm5x0",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Commodore 64"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_vice_xcbm5x0"
@@ -15891,7 +16483,9 @@
         "shortName": "retroarch_vice_xpet",
         "name": "retroarch_vice_xpet",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Commodore 64"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_vice_xpet"
@@ -15903,7 +16497,9 @@
         "shortName": "retroarch_vice_xplus4",
         "name": "retroarch_vice_xplus4",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Commodore 64"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_vice_xplus4"
@@ -15943,7 +16539,8 @@
         "name": "retroarch_vice_xvic",
         "parent": "retroarch",
         "platforms": [
-            "Commodore VIC-20"
+            "Commodore VIC-20",
+            "Commodore 64"
         ],
         "matches": {
             "emulationstation-de": [
@@ -15969,7 +16566,9 @@
         "shortName": "retroarch_virtualjaguar",
         "name": "retroarch_virtualjaguar",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Atari Jaguar"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_virtualjaguar"
@@ -16020,7 +16619,9 @@
         "shortName": "retroarch_x1",
         "name": "retroarch_x1",
         "parent": "retroarch",
-        "platforms": [],
+        "platforms": [
+            "Sharp X1"
+        ],
         "matches": {
             "recalbox": [
                 "libretro_x1"
@@ -16137,7 +16738,97 @@
         "id": "retropie",
         "shortName": "retropie",
         "name": "retropie",
-        "platforms": [],
+        "platforms": [
+            "Sega Genesis",
+            "Sega Mark III & Master System",
+            "Nintendo Entertainment System",
+            "Nintendo Super Nintendo Entertainment System",
+            "Generic Arcade",
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Color",
+            "Nintendo Virtual Boy",
+            "Nintendo Game Boy Advance",
+            "Nintendo GameCube",
+            "Nintendo 64",
+            "Nintendo DS",
+            "Nintendo Wii",
+            "Sega 32X",
+            "Sega CD",
+            "Sega Game Gear",
+            "Sega Saturn",
+            "Sega Dreamcast",
+            "SNK Neo Geo Pocket",
+            "Atari 2600",
+            "Atari Jaguar",
+            "Atari Lynx",
+            "Panasonic 3DO Interactive Multiplayer",
+            "NEC Turbografx 16",
+            "Acorn BBC Micro",
+            "Atari 5200",
+            "Atari 7800",
+            "Atari ST",
+            "Atari XE",
+            "Bally Professional Arcade & Astrocade",
+            "Bandai WonderSwan",
+            "Bandai WonderSwan Color",
+            "Coleco ColecoVision",
+            "Nintendo Game & Watch",
+            "Sammy Atomiswave",
+            "Sega Model 2",
+            "Sega Model 3",
+            "Sega Naomi",
+            "Sony Playstation",
+            "Sony Playstation 2",
+            "Sony Playstation Portable",
+            "Commodore Amiga 600",
+            "Amstrad CPC",
+            "Commodore 64",
+            "Sega ST-V",
+            "NEC PC-FX",
+            "Commodore VIC-20",
+            "Taito Type X",
+            "Sinclair ZX Spectrum +3",
+            "Sharp X68000",
+            "Fairchild Channel F",
+            "SNK Neo Geo Pocket Color",
+            "Apple II",
+            "Dragon 32-64",
+            "GCE Vectrex",
+            "Philips Videopac+",
+            "NEC PC Engine SuperGrafx",
+            "Nintendo Famicom",
+            "Nintendo Satellaview",
+            "Nintendo Sufami Turbo",
+            "Tsukuda Original Othello Multivision",
+            "Commodore Amiga 3000",
+            "Microsoft MSX",
+            "NEC TurboGrafx-CD",
+            "Mattel Intellivision",
+            "Microsoft MSX2+",
+            "Microsoft MSX Turbo-R",
+            "Nintendo 64DD",
+            "Generic ScummVM",
+            "Commodore Amiga CDTV",
+            "Commodore Amiga CD32",
+            "Tangerine Oric-1 & Oric Atmos",
+            "Commodore Amiga CD",
+            "Microsoft MS-DOS",
+            "SNK Neo Geo",
+            "Tandy Radio Shack TRS-80 Color Computer",
+            "Apple Macintosh",
+            "Namco System 22",
+            "Exidy Sorcerer",
+            "Texas Instruments TI-99 4A",
+            "NEC PC-9801",
+            "Generic OpenBOR",
+            "Uzebox",
+            "Spectravideo SVI-318 & SVI-328",
+            "Sharp X1",
+            "NEC PC-8801",
+            "Sega Naomi 2",
+            "VTech CreatiVision",
+            "Fujitsu FM Towns"
+        ],
         "web": {
             "https://retropie.org.uk/": "home"
         },
@@ -16345,7 +17036,9 @@
         "id": "rpix86",
         "shortName": "rpix86",
         "name": "rpix86",
-        "platforms": [],
+        "platforms": [
+            "Microsoft MS-DOS"
+        ],
         "web": {
             "https://rpix86.patrickaalto.com/": "home"
         },
@@ -16900,7 +17593,9 @@
         "name": "SIMH",
         "platforms": [
             "DEC PDP-1",
-            "DEC PDP-7"
+            "DEC PDP-7",
+            "MITS Altair 8800",
+            "DEC PDP-8"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -16979,7 +17674,9 @@
         "shortName": "snes9x",
         "name": "SNES9X",
         "platforms": [
-            "Nintendo Super Nintendo Entertainment System"
+            "Nintendo Super Nintendo Entertainment System",
+            "Nintendo Satellaview",
+            "Nintendo Sufami Turbo"
         ],
         "matches": {
             "windspro": [
@@ -17115,7 +17812,9 @@
         "id": "softvms",
         "shortName": "softvms",
         "name": "SoftVMS",
-        "platforms": [],
+        "platforms": [
+            "Sega Dreamcast"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "softvms"
@@ -17178,7 +17877,9 @@
         "id": "soywiz-psp-emu",
         "shortName": "soywiz-psp-emu",
         "name": "soywiz-psp-emu",
-        "platforms": [],
+        "platforms": [
+            "Sony Playstation Portable"
+        ],
         "matches": {
             "emulationking": [
                 "soywiz-psp-emu"
@@ -17321,7 +18022,9 @@
         "id": "ssspsx",
         "shortName": "ssspsx",
         "name": "ssspsx",
-        "platforms": [],
+        "platforms": [
+            "Sony Playstation"
+        ],
         "web": {
             "https://ssspsxemulator.com/": "home"
         },
@@ -17528,7 +18231,8 @@
         "shortName": "supermodel",
         "name": "Supermodel",
         "platforms": [
-            "Sega Model 3"
+            "Sega Model 3",
+            "Generic Arcade"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -17687,7 +18391,9 @@
         "id": "ti994w",
         "shortName": "ti994w",
         "name": "Ti994W",
-        "platforms": [],
+        "platforms": [
+            "Texas Instruments TI-99 4A"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "ti994w"
@@ -17710,7 +18416,9 @@
         "id": "ti99sim",
         "shortName": "ti99sim",
         "name": "ti99sim",
-        "platforms": [],
+        "platforms": [
+            "Texas Instruments TI-99 4A"
+        ],
         "matches": {
             "recalbox": [
                 "ti99sim"
@@ -17724,7 +18432,9 @@
         "id": "ti99sim-sdl1",
         "shortName": "ti99sim-sdl1",
         "name": "ti99sim-sdl1",
-        "platforms": [],
+        "platforms": [
+            "Texas Instruments TI-99 4A"
+        ],
         "matches": {
             "retropie": [
                 "ti99sim-sdl1"
@@ -17952,7 +18662,10 @@
         "id": "uae4all",
         "shortName": "uae4all",
         "name": "uae4all",
-        "platforms": [],
+        "platforms": [
+            "Commodore Amiga CDTV",
+            "Commodore Amiga"
+        ],
         "web": {
             "https://github.com/goldmojo/uae4all": "repo"
         },
@@ -17969,7 +18682,9 @@
         "id": "uae4arm",
         "shortName": "uae4arm",
         "name": "uae4arm",
-        "platforms": [],
+        "platforms": [
+            "Commodore Amiga CDTV"
+        ],
         "web": {
             "https://github.com/lubomyr/uae4arm": "repo"
         },
@@ -18408,7 +19123,11 @@
             "Coleco ColecoVision",
             "Sega SC-3000",
             "Sega Game 1000",
-            "Nintendo Entertainment System"
+            "Nintendo Entertainment System",
+            "Microsoft MSX",
+            "MSX MSX",
+            "Sega Mark III & Master System",
+            "Sega Game Gear"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -18552,7 +19271,8 @@
         "shortName": "vic20emu",
         "name": "Vic-20",
         "platforms": [
-            "Commodore VIC-20"
+            "Commodore VIC-20",
+            "Commodore 64"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -18579,7 +19299,12 @@
         "id": "vice",
         "shortName": "vice",
         "name": "vice",
-        "platforms": [],
+        "platforms": [
+            "Commodore 64",
+            "Handheld Electronic Games (LCD)",
+            "Commodore VIC-20",
+            "Commodore Plus-4 - C16 - C116"
+        ],
         "web": {
             "https://vice-emu.sourceforge.io/": "home"
         },
@@ -18677,7 +19402,9 @@
         "id": "virtpanajr",
         "shortName": "virtpanajr",
         "name": "Virtual Panasonic JR-200U",
-        "platforms": [],
+        "platforms": [
+            "Matsushita National JR 200"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "virtpanajr"
@@ -19018,7 +19745,8 @@
         "name": "VisualBoyAdvance-M-WX",
         "platforms": [
             "Nintendo Game Boy",
-            "Nintendo Game Boy Advance"
+            "Nintendo Game Boy Advance",
+            "Nintendo Game Boy Color"
         ],
         "matches": {
             "scoop-emulators": [
@@ -19262,7 +19990,9 @@
         "id": "vzem",
         "shortName": "vzem",
         "name": "VZEM",
-        "platforms": [],
+        "platforms": [
+            "VTech Laser 310"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "vzem"
@@ -19370,7 +20100,8 @@
         "shortName": "win64",
         "name": "Win64",
         "platforms": [
-            "Commodore 64"
+            "Commodore 64",
+            "Handheld Electronic Games (LCD)"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -19398,7 +20129,9 @@
         "id": "win994a",
         "shortName": "win994a",
         "name": "Win994a",
-        "platforms": [],
+        "platforms": [
+            "Texas Instruments TI-99 4A"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "win994a"
@@ -19454,7 +20187,8 @@
         "name": "WinArcadia",
         "platforms": [
             "Emerson Arcadia 2001",
-            "Interton VC 4000"
+            "Interton VC 4000",
+            "Rowtron Television Computer System"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -19538,7 +20272,14 @@
         "shortName": "winfellow",
         "name": "WinFellow",
         "platforms": [
-            "Commodore Amiga"
+            "Commodore Amiga",
+            "Commodore Amiga 1000",
+            "Commodore Amiga 1200",
+            "Commodore Amiga 3000",
+            "Commodore Amiga 4000",
+            "Commodore Amiga 500",
+            "Commodore Amiga 600",
+            "Commodore Amiga CDTV"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -19630,7 +20371,14 @@
         "name": "WinUAE",
         "platforms": [
             "Commodore Amiga",
-            "Commodore Amiga CD32"
+            "Commodore Amiga CD32",
+            "Commodore Amiga 1000",
+            "Commodore Amiga 1200",
+            "Commodore Amiga 3000",
+            "Commodore Amiga 4000",
+            "Commodore Amiga 500",
+            "Commodore Amiga 600",
+            "Commodore Amiga CDTV"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -19719,7 +20467,9 @@
         "id": "winvz",
         "shortName": "winvz",
         "name": "WinVZ",
-        "platforms": [],
+        "platforms": [
+            "VTech Laser 310"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "winvz"
@@ -20133,7 +20883,8 @@
         "shortName": "xm8",
         "name": "XM8",
         "platforms": [
-            "NEC PC-8801"
+            "NEC PC-8801",
+            "NEC PC-88 series"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -20186,7 +20937,8 @@
         "shortName": "xpeccy",
         "name": "Xpeccy",
         "platforms": [
-            "Sinclair ZX Spectrum +3"
+            "Sinclair ZX Spectrum +3",
+            "Microsoft MSX"
         ],
         "matches": {
             "emucontrolcenter": [
@@ -20414,7 +21166,9 @@
         "id": "yabasanshiro",
         "shortName": "yabasanshiro",
         "name": "yabasanshiro",
-        "platforms": [],
+        "platforms": [
+            "Sega Saturn"
+        ],
         "web": {
             "https://www.uoyabause.org/": "home"
         },
