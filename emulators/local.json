@@ -4080,8 +4080,8 @@
             ]
         }
     },
-    "easyrpg player": {
-        "id": "easyrpg player",
+    "easyrpg-player": {
+        "id": "easyrpg-player",
         "shortName": "EasyRPG Player",
         "name": "EasyRPG Player",
         "platforms": [],
@@ -6451,8 +6451,8 @@
             ]
         }
     },
-    "hypseus [daphne]": {
-        "id": "hypseus [daphne]",
+    "hypseus-daphne": {
+        "id": "hypseus-daphne",
         "shortName": "Hypseus [Daphne]",
         "name": "Hypseus [Daphne]",
         "platforms": [],
@@ -6474,8 +6474,8 @@
             "%BIN% %BASENAME% vldp -framefile %GAMEDIR%\\%BASENAME%.txt %INJECT%=%BASENAME%.commands"
         ]
     },
-    "hypseus [singe]": {
-        "id": "hypseus [singe]",
+    "hypseus-singe": {
+        "id": "hypseus-singe",
         "shortName": "Hypseus [Singe]",
         "name": "Hypseus [Singe]",
         "platforms": [],
@@ -10894,8 +10894,8 @@
             "%BIN% -root_path %GAMEDIR% -run %ROM%"
         ]
     },
-    "pico-8 splore": {
-        "id": "pico-8 splore",
+    "pico-8-splore": {
+        "id": "pico-8-splore",
         "shortName": "PICO-8 Splore",
         "name": "PICO-8 Splore",
         "platforms": [],
@@ -16170,8 +16170,8 @@
         ],
         "description": "ROC (Return of CoCo) is a Tandy/Radio Shack TRS-80, Color Computer I, II, 3, TDP-100 (Tandy Data Products), Dragon Data Dragon 32/64 and Micro-SEP 1600 emulator."
     },
-    "rocket launcher": {
-        "id": "rocket launcher",
+    "rocketlauncher": {
+        "id": "rocketlauncher",
         "shortName": "Rocket Launcher",
         "name": "Rocket Launcher",
         "platforms": [],

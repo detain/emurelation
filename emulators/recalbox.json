@@ -6,7 +6,8 @@
             "2048"
         ],
         "altNames": [
-            "2048_libretro"
+            "2048_libretro",
+            "retroarch_2048"
         ]
     },
     "libretro_nestopia": {
@@ -18,7 +19,8 @@
             "nes"
         ],
         "altNames": [
-            "nestopia_libretro"
+            "nestopia_libretro",
+            "retroarch_nestopia"
         ]
     },
     "libretro_snes9x": {
@@ -31,7 +33,8 @@
             "sufami"
         ],
         "altNames": [
-            "snes9x_libretro"
+            "snes9x_libretro",
+            "retroarch_snes9x"
         ]
     },
     "libretro_genesisplusgx": {
@@ -46,7 +49,8 @@
             "sg1000"
         ],
         "altNames": [
-            "genesisplusgx_libretro"
+            "genesisplusgx_libretro",
+            "retroarch_genesisplusgx"
         ]
     },
     "libretro_mednafen_supergrafx": {
@@ -59,7 +63,8 @@
             "supergrafx"
         ],
         "altNames": [
-            "mednafen_supergrafx_libretro"
+            "mednafen_supergrafx_libretro",
+            "retroarch_mednafen_supergrafx"
         ]
     },
     "libretro_gambatte": {
@@ -71,7 +76,8 @@
             "gbc"
         ],
         "altNames": [
-            "gambatte_libretro"
+            "gambatte_libretro",
+            "retroarch_gambatte"
         ]
     },
     "libretro_mgba": {
@@ -84,7 +90,8 @@
             "gbc"
         ],
         "altNames": [
-            "mgba_libretro"
+            "mgba_libretro",
+            "retroarch_mgba"
         ]
     },
     "libretro_flycast": {
@@ -98,7 +105,8 @@
             "naomigd"
         ],
         "altNames": [
-            "flycast_libretro"
+            "flycast_libretro",
+            "retroarch_flycast"
         ]
     },
     "libretro_swanstation": {
@@ -109,7 +117,8 @@
             "psx"
         ],
         "altNames": [
-            "swanstation_libretro"
+            "swanstation_libretro",
+            "retroarch_swanstation"
         ]
     },
     "libretro_opera": {
@@ -119,7 +128,8 @@
             "3do"
         ],
         "altNames": [
-            "opera_libretro"
+            "opera_libretro",
+            "retroarch_opera"
         ]
     },
     "libretro_parallel_n64": {
@@ -130,7 +140,8 @@
             "n64"
         ],
         "altNames": [
-            "parallel_n64_libretro"
+            "parallel_n64_libretro",
+            "retroarch_parallel_n64"
         ]
     },
     "libretro_mupen64plus_next": {
@@ -141,7 +152,8 @@
             "n64"
         ],
         "altNames": [
-            "mupen64plus_next_libretro"
+            "mupen64plus_next_libretro",
+            "retroarch_mupen64plus_next"
         ]
     },
     "amiberry": {
@@ -165,7 +177,8 @@
             "amigacdtv"
         ],
         "altNames": [
-            "puae_libretro"
+            "puae_libretro",
+            "retroarch_puae"
         ]
     },
     "libretro_uae4arm": {
@@ -178,7 +191,8 @@
             "amigacdtv"
         ],
         "altNames": [
-            "uae4arm_libretro"
+            "uae4arm_libretro",
+            "retroarch_uae4arm"
         ]
     },
     "libretro_cap32": {
@@ -189,7 +203,8 @@
             "gx4000"
         ],
         "altNames": [
-            "cap32_libretro"
+            "cap32_libretro",
+            "retroarch_cap32"
         ]
     },
     "libretro_crocods": {
@@ -199,7 +214,8 @@
             "amstradcpc"
         ],
         "altNames": [
-            "crocods_libretro"
+            "crocods_libretro",
+            "retroarch_crocods"
         ]
     },
     "linapple": {
@@ -226,7 +242,8 @@
             "atari2600"
         ],
         "altNames": [
-            "stella_libretro"
+            "stella_libretro",
+            "retroarch_stella"
         ]
     },
     "libretro_stella2014": {
@@ -236,7 +253,8 @@
             "atari2600"
         ],
         "altNames": [
-            "stella2014_libretro"
+            "stella2014_libretro",
+            "retroarch_stella2014"
         ]
     },
     "libretro_atari800": {
@@ -247,7 +265,8 @@
             "atari800"
         ],
         "altNames": [
-            "atari800_libretro"
+            "atari800_libretro",
+            "retroarch_atari800"
         ]
     },
     "libretro_a5200": {
@@ -257,7 +276,8 @@
             "atari5200"
         ],
         "altNames": [
-            "a5200_libretro"
+            "a5200_libretro",
+            "retroarch_a5200"
         ]
     },
     "libretro_prosystem": {
@@ -267,7 +287,8 @@
             "atari7800"
         ],
         "altNames": [
-            "prosystem_libretro"
+            "prosystem_libretro",
+            "retroarch_prosystem"
         ]
     },
     "libretro_hatari": {
@@ -277,7 +298,8 @@
             "atarist"
         ],
         "altNames": [
-            "hatari_libretro"
+            "hatari_libretro",
+            "retroarch_hatari"
         ]
     },
     "hatari": {
@@ -303,7 +325,8 @@
             "bk"
         ],
         "altNames": [
-            "bk_libretro"
+            "bk_libretro",
+            "retroarch_bk"
         ]
     },
     "libretro_vice_x64": {
@@ -313,7 +336,8 @@
             "c64"
         ],
         "altNames": [
-            "vice_x64_libretro"
+            "vice_x64_libretro",
+            "retroarch_vice_x64"
         ]
     },
     "libretro_vice_x64sc": {
@@ -323,7 +347,8 @@
             "c64"
         ],
         "altNames": [
-            "vice_x64sc_libretro"
+            "vice_x64sc_libretro",
+            "retroarch_vice_x64sc"
         ]
     },
     "libretro_vice_xplus4": {
@@ -333,7 +358,8 @@
             "c64"
         ],
         "altNames": [
-            "vice_xplus4_libretro"
+            "vice_xplus4_libretro",
+            "retroarch_vice_xplus4"
         ]
     },
     "libretro_vice_xpet": {
@@ -343,7 +369,8 @@
             "c64"
         ],
         "altNames": [
-            "vice_xpet_libretro"
+            "vice_xpet_libretro",
+            "retroarch_vice_xpet"
         ]
     },
     "libretro_vice_xvic": {
@@ -354,7 +381,8 @@
             "vic20"
         ],
         "altNames": [
-            "vice_xvic_libretro"
+            "vice_xvic_libretro",
+            "retroarch_vice_xvic"
         ]
     },
     "libretro_vice_x128": {
@@ -364,7 +392,8 @@
             "c64"
         ],
         "altNames": [
-            "vice_x128_libretro"
+            "vice_x128_libretro",
+            "retroarch_vice_x128"
         ]
     },
     "libretro_vice_xscpu64": {
@@ -374,7 +403,8 @@
             "c64"
         ],
         "altNames": [
-            "vice_xscpu64_libretro"
+            "vice_xscpu64_libretro",
+            "retroarch_vice_xscpu64"
         ]
     },
     "libretro_vice_xcbm2": {
@@ -384,7 +414,8 @@
             "c64"
         ],
         "altNames": [
-            "vice_xcbm2_libretro"
+            "vice_xcbm2_libretro",
+            "retroarch_vice_xcbm2"
         ]
     },
     "libretro_vice_xcbm5x0": {
@@ -394,7 +425,8 @@
             "c64"
         ],
         "altNames": [
-            "vice_xcbm5x0_libretro"
+            "vice_xcbm5x0_libretro",
+            "retroarch_vice_xcbm5x0"
         ]
     },
     "libretro_nxengine": {
@@ -404,7 +436,8 @@
             "cavestory"
         ],
         "altNames": [
-            "nxengine_libretro"
+            "nxengine_libretro",
+            "retroarch_nxengine"
         ]
     },
     "libretro_cdi2015": {
@@ -414,7 +447,8 @@
             "cdi"
         ],
         "altNames": [
-            "cdi2015_libretro"
+            "cdi2015_libretro",
+            "retroarch_cdi2015"
         ]
     },
     "libretro_freechaf": {
@@ -424,7 +458,8 @@
             "channelf"
         ],
         "altNames": [
-            "freechaf_libretro"
+            "freechaf_libretro",
+            "retroarch_freechaf"
         ]
     },
     "libretro_fbneo": {
@@ -449,7 +484,8 @@
             "zxspectrum"
         ],
         "altNames": [
-            "fbneo_libretro"
+            "fbneo_libretro",
+            "retroarch_fbneo"
         ]
     },
     "libretro_bluemsx": {
@@ -463,7 +499,8 @@
             "spectravideo"
         ],
         "altNames": [
-            "bluemsx_libretro"
+            "bluemsx_libretro",
+            "retroarch_bluemsx"
         ]
     },
     "libretro_gearcoleco": {
@@ -473,7 +510,8 @@
             "colecovision"
         ],
         "altNames": [
-            "gearcoleco_libretro"
+            "gearcoleco_libretro",
+            "retroarch_gearcoleco"
         ]
     },
     "daphne": {
@@ -491,7 +529,8 @@
             "dinothawr"
         ],
         "altNames": [
-            "dinothawr_libretro"
+            "dinothawr_libretro",
+            "retroarch_dinothawr"
         ]
     },
     "libretro_prboom": {
@@ -501,7 +540,8 @@
             "doom"
         ],
         "altNames": [
-            "prboom_libretro"
+            "prboom_libretro",
+            "retroarch_prboom"
         ]
     },
     "libretro_boom3": {
@@ -511,7 +551,8 @@
             "doom3"
         ],
         "altNames": [
-            "boom3_libretro"
+            "boom3_libretro",
+            "retroarch_boom3"
         ]
     },
     "libretro_dosbox_pure": {
@@ -521,7 +562,8 @@
             "dos"
         ],
         "altNames": [
-            "dosbox_pure_libretro"
+            "dosbox_pure_libretro",
+            "retroarch_dosbox_pure"
         ]
     },
     "dosbox": {
@@ -557,7 +599,8 @@
             "dreamcast"
         ],
         "altNames": [
-            "retrodream_libretro"
+            "retrodream_libretro",
+            "retroarch_retrodream"
         ]
     },
     "libretro_stonesoup": {
@@ -567,7 +610,8 @@
             "dungeoncrawlstonesoup"
         ],
         "altNames": [
-            "stonesoup_libretro"
+            "stonesoup_libretro",
+            "retroarch_stonesoup"
         ]
     },
     "libretro_easyrpg": {
@@ -577,7 +621,8 @@
             "easyrpg"
         ],
         "altNames": [
-            "easyrpg_libretro"
+            "easyrpg_libretro",
+            "retroarch_easyrpg"
         ]
     },
     "fba2x": {
@@ -597,7 +642,8 @@
             "nes"
         ],
         "altNames": [
-            "fceumm_libretro"
+            "fceumm_libretro",
+            "retroarch_fceumm"
         ]
     },
     "libretro_mesen": {
@@ -608,7 +654,8 @@
             "nes"
         ],
         "altNames": [
-            "mesen_libretro"
+            "mesen_libretro",
+            "retroarch_mesen"
         ]
     },
     "libretro_reminiscence": {
@@ -618,7 +665,8 @@
             "flashback"
         ],
         "altNames": [
-            "reminiscence_libretro"
+            "reminiscence_libretro",
+            "retroarch_reminiscence"
         ]
     },
     "dolphin": {
@@ -640,7 +688,8 @@
             "sg1000"
         ],
         "altNames": [
-            "gearsystem_libretro"
+            "gearsystem_libretro",
+            "retroarch_gearsystem"
         ]
     },
     "libretro_tgbdual": {
@@ -651,7 +700,8 @@
             "gbc"
         ],
         "altNames": [
-            "tgbdual_libretro"
+            "tgbdual_libretro",
+            "retroarch_tgbdual"
         ]
     },
     "libretro_sameboy": {
@@ -662,7 +712,8 @@
             "gbc"
         ],
         "altNames": [
-            "sameboy_libretro"
+            "sameboy_libretro",
+            "retroarch_sameboy"
         ]
     },
     "libretro_mesen_s": {
@@ -675,7 +726,8 @@
             "snes"
         ],
         "altNames": [
-            "mesen_s_libretro"
+            "mesen_s_libretro",
+            "retroarch_mesen_s"
         ]
     },
     "libretro_gpsp": {
@@ -685,7 +737,8 @@
             "gba"
         ],
         "altNames": [
-            "gpsp_libretro"
+            "gpsp_libretro",
+            "retroarch_gpsp"
         ]
     },
     "libretro_meteor": {
@@ -695,7 +748,8 @@
             "gba"
         ],
         "altNames": [
-            "meteor_libretro"
+            "meteor_libretro",
+            "retroarch_meteor"
         ]
     },
     "libretro_gong": {
@@ -705,7 +759,8 @@
             "gong"
         ],
         "altNames": [
-            "gong_libretro"
+            "gong_libretro",
+            "retroarch_gong"
         ]
     },
     "libretro_gw": {
@@ -715,7 +770,8 @@
             "gw"
         ],
         "altNames": [
-            "gw_libretro"
+            "gw_libretro",
+            "retroarch_gw"
         ]
     },
     "libretro_imageviewer": {
@@ -725,7 +781,8 @@
             "imageviewer"
         ],
         "altNames": [
-            "imageviewer_libretro"
+            "imageviewer_libretro",
+            "retroarch_imageviewer"
         ]
     },
     "libretro_freeintv": {
@@ -735,7 +792,8 @@
             "intellivision"
         ],
         "altNames": [
-            "freeintv_libretro"
+            "freeintv_libretro",
+            "retroarch_freeintv"
         ]
     },
     "libretro_virtualjaguar": {
@@ -745,7 +803,8 @@
             "jaguar"
         ],
         "altNames": [
-            "virtualjaguar_libretro"
+            "virtualjaguar_libretro",
+            "retroarch_virtualjaguar"
         ]
     },
     "libretro_lowresnx": {
@@ -755,7 +814,8 @@
             "lowresnx"
         ],
         "altNames": [
-            "lowresnx_libretro"
+            "lowresnx_libretro",
+            "retroarch_lowresnx"
         ]
     },
     "libretro_lutro": {
@@ -765,7 +825,8 @@
             "lutro"
         ],
         "altNames": [
-            "lutro_libretro"
+            "lutro_libretro",
+            "retroarch_lutro"
         ]
     },
     "libretro_handy": {
@@ -775,7 +836,8 @@
             "lynx"
         ],
         "altNames": [
-            "handy_libretro"
+            "handy_libretro",
+            "retroarch_handy"
         ]
     },
     "libretro_mednafen_lynx": {
@@ -785,7 +847,8 @@
             "lynx"
         ],
         "altNames": [
-            "mednafen_lynx_libretro"
+            "mednafen_lynx_libretro",
+            "retroarch_mednafen_lynx"
         ]
     },
     "libretro_minivmac": {
@@ -795,7 +858,8 @@
             "macintosh"
         ],
         "altNames": [
-            "minivmac_libretro"
+            "minivmac_libretro",
+            "retroarch_minivmac"
         ]
     },
     "libretro_mame2003_plus": {
@@ -806,7 +870,8 @@
             "neogeo"
         ],
         "altNames": [
-            "mame2003_plus_libretro"
+            "mame2003_plus_libretro",
+            "retroarch_mame2003_plus"
         ]
     },
     "libretro_mame2003": {
@@ -817,7 +882,8 @@
             "neogeo"
         ],
         "altNames": [
-            "mame2003_libretro"
+            "mame2003_libretro",
+            "retroarch_mame2003"
         ]
     },
     "libretro_mame2000": {
@@ -828,7 +894,8 @@
             "neogeo"
         ],
         "altNames": [
-            "mame2000_libretro"
+            "mame2000_libretro",
+            "retroarch_mame2000"
         ]
     },
     "libretro_mame2010": {
@@ -839,7 +906,8 @@
             "neogeo"
         ],
         "altNames": [
-            "mame2010_libretro"
+            "mame2010_libretro",
+            "retroarch_mame2010"
         ]
     },
     "libretro_mame2015": {
@@ -850,7 +918,8 @@
             "neogeo"
         ],
         "altNames": [
-            "mame2015_libretro"
+            "mame2015_libretro",
+            "retroarch_mame2015"
         ]
     },
     "libretro_mame": {
@@ -860,7 +929,8 @@
             "mame"
         ],
         "altNames": [
-            "mame_libretro"
+            "mame_libretro",
+            "retroarch_mame"
         ]
     },
     "advancemame": {
@@ -881,7 +951,8 @@
             "segacd"
         ],
         "altNames": [
-            "picodrive_libretro"
+            "picodrive_libretro",
+            "retroarch_picodrive"
         ]
     },
     "libretro_genesisplusgxwide": {
@@ -891,7 +962,8 @@
             "megadrive"
         ],
         "altNames": [
-            "genesisplusgxwide_libretro"
+            "genesisplusgxwide_libretro",
+            "retroarch_genesisplusgxwide"
         ]
     },
     "libretro_sameduck": {
@@ -901,7 +973,8 @@
             "megaduck"
         ],
         "altNames": [
-            "sameduck_libretro"
+            "sameduck_libretro",
+            "retroarch_sameduck"
         ]
     },
     "libretro_craft": {
@@ -911,7 +984,8 @@
             "minecraft"
         ],
         "altNames": [
-            "craft_libretro"
+            "craft_libretro",
+            "retroarch_craft"
         ]
     },
     "supermodel": {
@@ -937,7 +1011,8 @@
             "mrboom"
         ],
         "altNames": [
-            "mrboom_libretro"
+            "mrboom_libretro",
+            "retroarch_mrboom"
         ]
     },
     "libretro_fmsx": {
@@ -948,7 +1023,8 @@
             "msx2"
         ],
         "altNames": [
-            "fmsx_libretro"
+            "fmsx_libretro",
+            "retroarch_fmsx"
         ]
     },
     "mupen64plus_gliden64": {
@@ -998,7 +1074,8 @@
             "n64"
         ],
         "altNames": [
-            "mupen64plus_libretro"
+            "mupen64plus_libretro",
+            "retroarch_mupen64plus"
         ]
     },
     "mupen64plus_rice": {
@@ -1016,7 +1093,8 @@
             "nds"
         ],
         "altNames": [
-            "desmume_libretro"
+            "desmume_libretro",
+            "retroarch_desmume"
         ]
     },
     "libretro_melonds": {
@@ -1026,7 +1104,8 @@
             "nds"
         ],
         "altNames": [
-            "melonds_libretro"
+            "melonds_libretro",
+            "retroarch_melonds"
         ]
     },
     "libretro_mame2016": {
@@ -1036,7 +1115,8 @@
             "neogeo"
         ],
         "altNames": [
-            "mame2016_libretro"
+            "mame2016_libretro",
+            "retroarch_mame2016"
         ]
     },
     "libretro_neocd": {
@@ -1046,7 +1126,8 @@
             "neogeocd"
         ],
         "altNames": [
-            "neocd_libretro"
+            "neocd_libretro",
+            "retroarch_neocd"
         ]
     },
     "libretro_fceunext": {
@@ -1056,7 +1137,8 @@
             "nes"
         ],
         "altNames": [
-            "fceunext_libretro"
+            "fceunext_libretro",
+            "retroarch_fceunext"
         ]
     },
     "libretro_quicknes": {
@@ -1066,7 +1148,8 @@
             "nes"
         ],
         "altNames": [
-            "quicknes_libretro"
+            "quicknes_libretro",
+            "retroarch_quicknes"
         ]
     },
     "libretro_mednafen_ngp": {
@@ -1077,7 +1160,8 @@
             "ngpc"
         ],
         "altNames": [
-            "mednafen_ngp_libretro"
+            "mednafen_ngp_libretro",
+            "retroarch_mednafen_ngp"
         ]
     },
     "libretro_race": {
@@ -1088,7 +1172,8 @@
             "ngpc"
         ],
         "altNames": [
-            "race_libretro"
+            "race_libretro",
+            "retroarch_race"
         ]
     },
     "libretro_o2em": {
@@ -1099,7 +1184,8 @@
             "videopacplus"
         ],
         "altNames": [
-            "o2em_libretro"
+            "o2em_libretro",
+            "retroarch_o2em"
         ]
     },
     "openbor": {
@@ -1125,7 +1211,8 @@
             "outrun"
         ],
         "altNames": [
-            "cannonball_libretro"
+            "cannonball_libretro",
+            "retroarch_cannonball"
         ]
     },
     "libretro_mu": {
@@ -1135,7 +1222,8 @@
             "palm"
         ],
         "altNames": [
-            "mu_libretro"
+            "mu_libretro",
+            "retroarch_mu"
         ]
     },
     "libretro_quasi88": {
@@ -1145,7 +1233,8 @@
             "pc88"
         ],
         "altNames": [
-            "quasi88_libretro"
+            "quasi88_libretro",
+            "retroarch_quasi88"
         ]
     },
     "libretro_np2kai": {
@@ -1155,7 +1244,8 @@
             "pc98"
         ],
         "altNames": [
-            "np2kai_libretro"
+            "np2kai_libretro",
+            "retroarch_np2kai"
         ]
     },
     "libretro_mednafen_pce_fast": {
@@ -1166,7 +1256,8 @@
             "pcenginecd"
         ],
         "altNames": [
-            "mednafen_pce_fast_libretro"
+            "mednafen_pce_fast_libretro",
+            "retroarch_mednafen_pce_fast"
         ]
     },
     "libretro_mednafen_pcfx": {
@@ -1176,7 +1267,8 @@
             "pcfx"
         ],
         "altNames": [
-            "mednafen_pcfx_libretro"
+            "mednafen_pcfx_libretro",
+            "retroarch_mednafen_pcfx"
         ]
     },
     "libretro_mednafen_wswan": {
@@ -1188,7 +1280,8 @@
             "wswanc"
         ],
         "altNames": [
-            "mednafen_wswan_libretro"
+            "mednafen_wswan_libretro",
+            "retroarch_mednafen_wswan"
         ]
     },
     "libretro_retro8": {
@@ -1198,7 +1291,8 @@
             "pico8"
         ],
         "altNames": [
-            "retro8_libretro"
+            "retro8_libretro",
+            "retroarch_retro8"
         ]
     },
     "libretro_pokemini": {
@@ -1208,7 +1302,8 @@
             "pokemini"
         ],
         "altNames": [
-            "pokemini_libretro"
+            "pokemini_libretro",
+            "retroarch_pokemini"
         ]
     },
     "pcsx2": {
@@ -1226,7 +1321,8 @@
             "ps2"
         ],
         "altNames": [
-            "pcsx2_libretro"
+            "pcsx2_libretro",
+            "retroarch_pcsx2"
         ]
     },
     "ppsspp": {
@@ -1244,7 +1340,8 @@
             "psp"
         ],
         "altNames": [
-            "ppsspp_libretro"
+            "ppsspp_libretro",
+            "retroarch_ppsspp"
         ]
     },
     "pcsx_rearmed": {
@@ -1262,7 +1359,8 @@
             "psx"
         ],
         "altNames": [
-            "pcsx_rearmed_libretro"
+            "pcsx_rearmed_libretro",
+            "retroarch_pcsx_rearmed"
         ]
     },
     "libretro_mednafen_psx": {
@@ -1272,7 +1370,8 @@
             "psx"
         ],
         "altNames": [
-            "mednafen_psx_libretro"
+            "mednafen_psx_libretro",
+            "retroarch_mednafen_psx"
         ]
     },
     "libretro_mednafen_psx_hw": {
@@ -1282,7 +1381,8 @@
             "psx"
         ],
         "altNames": [
-            "mednafen_psx_hw_libretro"
+            "mednafen_psx_hw_libretro",
+            "retroarch_mednafen_psx_hw"
         ]
     },
     "duckstation": {
@@ -1300,7 +1400,8 @@
             "quake"
         ],
         "altNames": [
-            "tyrquake_libretro"
+            "tyrquake_libretro",
+            "retroarch_tyrquake"
         ]
     },
     "libretro_vitaquake2": {
@@ -1310,7 +1411,8 @@
             "quake2"
         ],
         "altNames": [
-            "vitaquake2_libretro"
+            "vitaquake2_libretro",
+            "retroarch_vitaquake2"
         ]
     },
     "libretro_vitaquake3": {
@@ -1320,7 +1422,8 @@
             "quake3"
         ],
         "altNames": [
-            "vitaquake3_libretro"
+            "vitaquake3_libretro",
+            "retroarch_vitaquake3"
         ]
     },
     "libretro_xrick": {
@@ -1330,7 +1433,8 @@
             "rickdangerous"
         ],
         "altNames": [
-            "xrick_libretro"
+            "xrick_libretro",
+            "retroarch_xrick"
         ]
     },
     "simcoupe": {
@@ -1349,7 +1453,8 @@
             "snes"
         ],
         "altNames": [
-            "bsnes_libretro"
+            "bsnes_libretro",
+            "retroarch_bsnes"
         ]
     },
     "libretro_bsneshd": {
@@ -1360,7 +1465,8 @@
             "snes"
         ],
         "altNames": [
-            "bsneshd_libretro"
+            "bsneshd_libretro",
+            "retroarch_bsneshd"
         ]
     },
     "libretro_mednafen_saturn": {
@@ -1370,7 +1476,8 @@
             "saturn"
         ],
         "altNames": [
-            "mednafen_saturn_libretro"
+            "mednafen_saturn_libretro",
+            "retroarch_mednafen_saturn"
         ]
     },
     "libretro_yabause": {
@@ -1380,7 +1487,8 @@
             "saturn"
         ],
         "altNames": [
-            "yabause_libretro"
+            "yabause_libretro",
+            "retroarch_yabause"
         ]
     },
     "libretro_yabasanshiro": {
@@ -1390,7 +1498,8 @@
             "saturn"
         ],
         "altNames": [
-            "yabasanshiro_libretro"
+            "yabasanshiro_libretro",
+            "retroarch_yabasanshiro"
         ]
     },
     "libretro_kronos": {
@@ -1400,7 +1509,8 @@
             "saturn"
         ],
         "altNames": [
-            "kronos_libretro"
+            "kronos_libretro",
+            "retroarch_kronos"
         ]
     },
     "scummvm": {
@@ -1418,7 +1528,8 @@
             "scummvm"
         ],
         "altNames": [
-            "scummvm_libretro"
+            "scummvm_libretro",
+            "retroarch_scummvm"
         ]
     },
     "libretro_emuscv": {
@@ -1428,7 +1539,8 @@
             "scv"
         ],
         "altNames": [
-            "emuscv_libretro"
+            "emuscv_libretro",
+            "retroarch_emuscv"
         ]
     },
     "pisnes": {
@@ -1446,7 +1558,8 @@
             "snes"
         ],
         "altNames": [
-            "snes9x2010_libretro"
+            "snes9x2010_libretro",
+            "retroarch_snes9x2010"
         ]
     },
     "libretro_snes9x2005": {
@@ -1456,7 +1569,8 @@
             "snes"
         ],
         "altNames": [
-            "snes9x2005_libretro"
+            "snes9x2005_libretro",
+            "retroarch_snes9x2005"
         ]
     },
     "libretro_snes9x2002": {
@@ -1466,7 +1580,8 @@
             "snes"
         ],
         "altNames": [
-            "snes9x2002_libretro"
+            "snes9x2002_libretro",
+            "retroarch_snes9x2002"
         ]
     },
     "solarus": {
@@ -1484,7 +1599,8 @@
             "startrekvoyager"
         ],
         "altNames": [
-            "vitavoyager_libretro"
+            "vitavoyager_libretro",
+            "retroarch_vitavoyager"
         ]
     },
     "libretro_potator": {
@@ -1494,7 +1610,8 @@
             "supervision"
         ],
         "altNames": [
-            "potator_libretro"
+            "potator_libretro",
+            "retroarch_potator"
         ]
     },
     "libretro_thepowdertoy": {
@@ -1504,7 +1621,8 @@
             "thepowdertoy"
         ],
         "altNames": [
-            "thepowdertoy_libretro"
+            "thepowdertoy_libretro",
+            "retroarch_thepowdertoy"
         ]
     },
     "libretro_theodore": {
@@ -1514,7 +1632,8 @@
             "thomson"
         ],
         "altNames": [
-            "theodore_libretro"
+            "theodore_libretro",
+            "retroarch_theodore"
         ]
     },
     "ti99sim": {
@@ -1532,7 +1651,8 @@
             "tic80"
         ],
         "altNames": [
-            "tic80_libretro"
+            "tic80_libretro",
+            "retroarch_tic80"
         ]
     },
     "libretro_uzem": {
@@ -1542,7 +1662,8 @@
             "uzebox"
         ],
         "altNames": [
-            "uzem_libretro"
+            "uzem_libretro",
+            "retroarch_uzem"
         ]
     },
     "libretro_vecx": {
@@ -1552,7 +1673,8 @@
             "vectrex"
         ],
         "altNames": [
-            "vecx_libretro"
+            "vecx_libretro",
+            "retroarch_vecx"
         ]
     },
     "libretro_mednafen_vb": {
@@ -1562,7 +1684,8 @@
             "virtualboy"
         ],
         "altNames": [
-            "mednafen_vb_libretro"
+            "mednafen_vb_libretro",
+            "retroarch_mednafen_vb"
         ]
     },
     "libretro_ecwolf": {
@@ -1572,7 +1695,8 @@
             "wolfenstein3d"
         ],
         "altNames": [
-            "ecwolf_libretro"
+            "ecwolf_libretro",
+            "retroarch_ecwolf"
         ]
     },
     "libretro_x1": {
@@ -1582,7 +1706,8 @@
             "x1"
         ],
         "altNames": [
-            "x1_libretro"
+            "x1_libretro",
+            "retroarch_x1"
         ]
     },
     "libretro_px68k": {
@@ -1592,7 +1717,8 @@
             "x68000"
         ],
         "altNames": [
-            "px68k_libretro"
+            "px68k_libretro",
+            "retroarch_px68k"
         ]
     },
     "libretro_81": {
@@ -1602,7 +1728,8 @@
             "zx81"
         ],
         "altNames": [
-            "81_libretro"
+            "81_libretro",
+            "retroarch_81"
         ]
     },
     "libretro_fuse": {
@@ -1612,7 +1739,8 @@
             "zxspectrum"
         ],
         "altNames": [
-            "fuse_libretro"
+            "fuse_libretro",
+            "retroarch_fuse"
         ]
     }
 }
