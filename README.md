@@ -20,9 +20,9 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](platforms/local.json) | Custom | 797 | 0 | 797 | 100% |
-| [Redump](platforms/redump.json) | DAT | 51 | 0 | 51 | 100% |
-| [No-Intro](platforms/nointro.json) | DAT | 266 | 18 | 284 | 93.7% |
+| [Local](platforms/local.json) | Custom | 795 | 0 | 795 | 100% |
+| [Redump](platforms/redump.json) | DAT | 52 | 1 | 53 | 98.1% |
+| [No-Intro](platforms/nointro.json) | DAT | 271 | 19 | 290 | 93.4% |
 | [TOSEC](platforms/tosec.json) | DAT | 2427 | 1 | 2428 | 100% |
 | [TOSEC-ISO](platforms/toseciso.json) | DAT | 241 | 0 | 241 | 100% |
 | [TOSEC-PIX](platforms/tosecpix.json) | DAT | 634 | 227 | 861 | 73.6% |
@@ -31,12 +31,12 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [IGDB](platforms/igdb.json) | API | 80 | 0 | 80 | 100% |
 | [HFS-DB](platforms/hfsdb.json) | API | 123 | 0 | 123 | 100% |
 | [MobyGames](platforms/mobygames.json) | API | 110 | 0 | 110 | 100% |
-| [Old-Computers](platforms/oldcomputers.json) | Website | 181 | 1105 | 1286 | 14.1% |
+| [Old-Computers](platforms/oldcomputers.json) | Website | 182 | 1104 | 1286 | 14.2% |
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [Emutopia](platforms/emutopia.json) | Website | 90 | 85 | 175 | 51.4% |
 | [MAME](platforms/mame.json) | Emulator | 649 | 15 | 664 | 97.7% |
-| [LaunchBox](platforms/launchbox.json) | Frontend | 183 | 0 | 183 | 100% |
+| [LaunchBox](platforms/launchbox.json) | Frontend | 649 | 16 | 665 | 97.6% |
 | [RetroBat](platforms/retrobat.json) | Frontend | 130 | 22 | 152 | 85.5% |
 | [EmulationStation-DE](platforms/emulationstation-de.json) | Frontend | 135 | 21 | 156 | 86.5% |
 | [RecalBox](platforms/recalbox.json) | Frontend | 98 | 28 | 126 | 77.8% |
@@ -61,13 +61,13 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [RetroPie](emulators/retropie.json) | Frontend | 152 | 1 | 153 | 99.3% |
 | [WinDSPro](emulators/windspro.json) | Frontend | 82 | 9 | 91 | 90.1% |
 | [emuControlCenter](emulators/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
-| [scoop-emulators](emulators/scoop-emulators.json) | Tools | 94 | 38 | 132 | 71.2% |
+| [scoop-emulators](emulators/scoop-emulators.json) | Tools | 95 | 37 | 132 | 72% |
 
 ### 🏭 Companies
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](companies/local.json) | Custom | 288 | 0 | 288 | 100% |
+| [Local](companies/local.json) | Custom | 287 | 0 | 287 | 100% |
 | [ScreenScraper](companies/screenscraper.json) | API | 28 | 28 | 56 | 50% |
 | [Old-Computers](companies/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
 | [EmulationKing](companies/emulationking.json) | Website | 5 | 0 | 5 | 100% |

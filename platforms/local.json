@@ -40,6 +40,9 @@
             ],
             "nointro": [
                 "ACT - Apricot PC Xi"
+            ],
+            "launchbox": [
+                "apricot_flop"
             ]
         },
         "company": "ACT",
@@ -57,6 +60,9 @@
             ],
             "mame": [
                 "apxen_flop"
+            ],
+            "launchbox": [
+                "apxen_flop"
             ]
         },
         "altNames": [
@@ -68,6 +74,9 @@
         "name": "Super Six",
         "matches": {
             "mame": [
+                "super6"
+            ],
+            "launchbox": [
                 "super6"
             ]
         },
@@ -99,6 +108,9 @@
             ],
             "mame": [
                 "ampro"
+            ],
+            "launchbox": [
+                "ampro"
             ]
         },
         "company": "AMPRO Computers",
@@ -111,7 +123,8 @@
         "name": "Imagination Machine",
         "matches": {
             "launchbox": [
-                "APF Imagination Machine"
+                "APF Imagination Machine",
+                "apfimag_cass"
             ],
             "tosec": [
                 "APF Imagination Machine - Applications",
@@ -177,7 +190,8 @@
                 "apf"
             ],
             "launchbox": [
-                "APF Imagination Machine"
+                "APF Imagination Machine",
+                "apfm1000"
             ],
             "hfsdb": [
                 "139722"
@@ -236,6 +250,9 @@
         "matches": {
             "mame": [
                 "arb"
+            ],
+            "launchbox": [
+                "arb"
             ]
         },
         "company": "AVE Micro Systems",
@@ -249,6 +266,9 @@
         "matches": {
             "mame": [
                 "mpu1000"
+            ],
+            "launchbox": [
+                "mpu1000"
             ]
         },
         "company": "Acetronic",
@@ -261,7 +281,10 @@
         "name": "Archimedes",
         "matches": {
             "launchbox": [
-                "Acorn Archimedes"
+                "Acorn Archimedes",
+                "archimedes",
+                "archimedes_hdd",
+                "archimedes_rom"
             ],
             "tosec": [
                 "Acorn Archimedes - Applications",
@@ -302,7 +325,9 @@
             ],
             "nointro": [
                 "Acorn - Archimedes",
-                "Acorn - Archimedes (Protected)"
+                "Acorn - Archimedes (Protected)",
+                "Acorn - Archimedes (ADF)",
+                "Acorn - Archimedes (JFD)"
             ],
             "redump": [
                 "Acorn - Archimedes"
@@ -342,7 +367,10 @@
         "name": "Atom",
         "matches": {
             "launchbox": [
-                "Acorn Atom"
+                "Acorn Atom",
+                "atom_rom",
+                "atom_cass",
+                "atom_flop"
             ],
             "tosec": [
                 "Acorn Atom - Applications",
@@ -363,7 +391,8 @@
                 "Acorn Atom - Manuals - Technical"
             ],
             "nointro": [
-                "Acorn - Atom"
+                "Acorn - Atom",
+                "Acorn - Atom (Tapes) (UEF)"
             ],
             "screenscraper": [
                 36
@@ -449,7 +478,14 @@
                 "bbcmc_flop"
             ],
             "launchbox": [
-                "BBC Microcomputer System"
+                "BBC Microcomputer System",
+                "bbc_flop_80186",
+                "bbc_flop_32016",
+                "bbcm_flop",
+                "bbcmc_flop",
+                "bbcm_cart",
+                "bbc_flop_6502",
+                "bbc_flop_arm"
             ],
             "oldcomputers": [
                 29
@@ -542,7 +578,13 @@
                 "bbcb_flop_us"
             ],
             "launchbox": [
-                "BBC Microcomputer System"
+                "BBC Microcomputer System",
+                "bbc_cass",
+                "bbc_rom",
+                "bbcb_flop",
+                "bbcb_flop_orig",
+                "bbc_hdd",
+                "bbcb_flop_us"
             ],
             "screenscraper": [
                 37
@@ -561,7 +603,11 @@
         "name": "Electron",
         "matches": {
             "launchbox": [
-                "Acorn Electron"
+                "Acorn Electron",
+                "electron_cass",
+                "electron_cart",
+                "electron_flop",
+                "electron_rom"
             ],
             "tosec": [
                 "Acorn Electron - Applications - [BIN]",
@@ -630,6 +676,9 @@
         "matches": {
             "mame": [
                 "e01_flop"
+            ],
+            "launchbox": [
+                "e01_flop"
             ]
         },
         "company": "Acorn",
@@ -681,6 +730,10 @@
             ],
             "oldcomputers": [
                 483
+            ],
+            "launchbox": [
+                "acrnsys_flop",
+                "acrnsys_rom"
             ]
         },
         "company": "Acorn",
@@ -693,6 +746,9 @@
         "name": "Z80",
         "matches": {
             "mame": [
+                "bbc_flop_z80"
+            ],
+            "launchbox": [
                 "bbc_flop_z80"
             ]
         },
@@ -767,6 +823,9 @@
             ],
             "mame": [
                 "alphasmart_kapps"
+            ],
+            "launchbox": [
+                "alphasmart_kapps"
             ]
         },
         "altNames": [
@@ -839,6 +898,9 @@
             ],
             "mame": [
                 "altos8600"
+            ],
+            "launchbox": [
+                "altos8600"
             ]
         },
         "company": "Altos Computer Systems",
@@ -858,6 +920,9 @@
                 "Altos Computer Systems Series 5 - Operating Systems - [TD0]"
             ],
             "mame": [
+                "altos5"
+            ],
+            "launchbox": [
                 "altos5"
             ]
         },
@@ -884,7 +949,9 @@
         "name": "CPC",
         "matches": {
             "launchbox": [
-                "Amstrad CPC"
+                "Amstrad CPC",
+                "cpc_cass",
+                "cpc_flop"
             ],
             "tosec": [
                 "Amstrad CPC - Applications - [BIN]",
@@ -928,7 +995,9 @@
             ],
             "nointro": [
                 "Amstrad - CPC (DSK)",
-                "Amstrad - CPC (Flux)"
+                "Amstrad - CPC (Flux)",
+                "Amstrad - CPC (FluxDumps)",
+                "Amstrad - CPC (Misc)"
             ],
             "screenscraper": [
                 65
@@ -983,7 +1052,8 @@
         "name": "GX4000",
         "matches": {
             "launchbox": [
-                "Amstrad GX4000"
+                "Amstrad GX4000",
+                "gx4000"
             ],
             "tosec": [
                 "Amstrad GX4000 - Demos",
@@ -1049,6 +1119,9 @@
         "matches": {
             "mame": [
                 "megapc"
+            ],
+            "launchbox": [
+                "megapc"
             ]
         },
         "company": "Amstrad",
@@ -1089,6 +1162,10 @@
             "mame": [
                 "pc1512_flop",
                 "pc1512_hdd"
+            ],
+            "launchbox": [
+                "pc1512_flop",
+                "pc1512_hdd"
             ]
         },
         "company": "Amstrad",
@@ -1101,6 +1178,10 @@
         "name": "PC1640",
         "matches": {
             "mame": [
+                "pc1640_flop",
+                "pc1640_hdd"
+            ],
+            "launchbox": [
                 "pc1640_flop",
                 "pc1640_hdd"
             ]
@@ -1129,6 +1210,9 @@
             ],
             "emutopia": [
                 312
+            ],
+            "launchbox": [
+                "pcw"
             ]
         },
         "company": "Amstrad",
@@ -1141,6 +1225,9 @@
         "name": "PCW16",
         "matches": {
             "mame": [
+                "pcw16"
+            ],
+            "launchbox": [
                 "pcw16"
             ]
         },
@@ -1184,6 +1271,9 @@
                 "Analogue Pocket - Applications",
                 "Analogue Pocket - Demos",
                 "Analogue Pocket - Games"
+            ],
+            "nointro": [
+                "Analogue - Analogue Pocket"
             ]
         },
         "altNames": [
@@ -1208,7 +1298,8 @@
         "name": "BK-01",
         "matches": {
             "launchbox": [
-                "Apogee BK-01"
+                "Apogee BK-01",
+                "apogee"
             ],
             "mame": [
                 "apogee"
@@ -1245,6 +1336,9 @@
             ],
             "emutopia": [
                 314
+            ],
+            "launchbox": [
+                "apple1"
             ]
         },
         "company": "Apple",
@@ -1257,7 +1351,11 @@
         "name": "II",
         "matches": {
             "launchbox": [
-                "Apple II"
+                "Apple II",
+                "apple2_flop_clcracked",
+                "apple2_flop_orig",
+                "apple2_flop_misc",
+                "apple2_cass"
             ],
             "tosec": [
                 "Apple II - Applications - [2MG]",
@@ -1444,7 +1542,10 @@
         "name": "IIGS",
         "matches": {
             "launchbox": [
-                "Apple IIGS"
+                "Apple IIGS",
+                "apple2gs_flop_clcracked",
+                "apple2gs_flop_orig",
+                "apple2gs_flop_misc"
             ],
             "oldcomputers": [
                 71
@@ -1543,6 +1644,9 @@
             ],
             "emucontrolcenter": [
                 "apple3"
+            ],
+            "launchbox": [
+                "apple3"
             ]
         },
         "company": "Apple",
@@ -1587,6 +1691,9 @@
             ],
             "emutopia": [
                 316
+            ],
+            "launchbox": [
+                "lisa"
             ]
         },
         "company": "Apple",
@@ -1622,7 +1729,10 @@
             ],
             "launchbox": [
                 "Apple Mac OS",
-                "Apple IIGS"
+                "Apple IIGS",
+                "mac_flop",
+                "mac_hdd",
+                "mac_hdflop"
             ],
             "tosecpix": [
                 "Apple Macintosh - Books",
@@ -1651,7 +1761,9 @@
                 "Apple - Macintosh (DC42)",
                 "Apple - Macintosh (KryoFlux)",
                 "Apple - Macintosh (Uncategorized)",
-                "Apple - Macintosh (WOZ)"
+                "Apple - Macintosh (WOZ)",
+                "Apple - Macintosh (BETA) (Bitstreams)",
+                "Apple - Macintosh (BETA) (FluxDumps)"
             ],
             "oldcomputers": [
                 271
@@ -1747,6 +1859,12 @@
             ],
             "emutopia": [
                 319
+            ],
+            "launchbox": [
+                "mbee_cass",
+                "mbee_quik",
+                "mbee_cart",
+                "mbee_flop"
             ]
         },
         "company": "Applied Technology",
@@ -1759,6 +1877,9 @@
         "name": "1616",
         "matches": {
             "mame": [
+                "applix_flop"
+            ],
+            "launchbox": [
                 "applix_flop"
             ]
         },
@@ -1788,7 +1909,9 @@
                 "atari2600"
             ],
             "launchbox": [
-                "Atari 2600"
+                "Atari 2600",
+                "a2600",
+                "a2600_cass"
             ],
             "nointro": [
                 "Atari - 2600",
@@ -1897,7 +2020,8 @@
                 "atari5200"
             ],
             "launchbox": [
-                "Atari 5200"
+                "Atari 5200",
+                "a5200"
             ],
             "nointro": [
                 "Atari - 5200"
@@ -1982,7 +2106,8 @@
                 "atari7800"
             ],
             "launchbox": [
-                "Atari 7800"
+                "Atari 7800",
+                "a7800"
             ],
             "nointro": [
                 "Atari - 7800"
@@ -2068,7 +2193,10 @@
                 "Source Code - Atari - 8-bit Family"
             ],
             "launchbox": [
-                "Atari 800"
+                "Atari 800",
+                "a800_flop",
+                "a800",
+                "a800_cass"
             ],
             "tgdb": [
                 4943
@@ -2181,7 +2309,8 @@
         "name": "Jaguar",
         "matches": {
             "launchbox": [
-                "Atari Jaguar"
+                "Atari Jaguar",
+                "jaguar"
             ],
             "nointro": [
                 "Atari - Jaguar (J64)",
@@ -2345,7 +2474,8 @@
         "matches": {
             "launchbox": [
                 "Atari Lynx",
-                "Camputers Lynx"
+                "Camputers Lynx",
+                "lynx"
             ],
             "nointro": [
                 "Atari - Lynx"
@@ -2500,6 +2630,9 @@
             ],
             "oldcomputers": [
                 356
+            ],
+            "launchbox": [
+                "pofo"
             ]
         },
         "company": "Atari",
@@ -2512,7 +2645,9 @@
         "name": "ST",
         "matches": {
             "launchbox": [
-                "Atari ST"
+                "Atari ST",
+                "st_flop",
+                "st_cart"
             ],
             "nointro": [
                 "Atari - ST",
@@ -2668,7 +2803,8 @@
             ],
             "launchbox": [
                 "Atari XEGS",
-                "Atari 800"
+                "Atari 800",
+                "xegs"
             ],
             "hfsdb": [
                 "240841"
@@ -2701,6 +2837,9 @@
         "matches": {
             "mame": [
                 "aussiebyte"
+            ],
+            "launchbox": [
+                "aussiebyte"
             ]
         },
         "company": "Aussie",
@@ -2718,6 +2857,9 @@
             ],
             "mame": [
                 "basf7100"
+            ],
+            "launchbox": [
+                "basf7100"
             ]
         },
         "altNames": [
@@ -2733,6 +2875,9 @@
             ],
             "tgdb": [
                 4997
+            ],
+            "launchbox": [
+                "bbcbc"
             ]
         },
         "company": "BBC",
@@ -2759,6 +2904,9 @@
         "matches": {
             "mame": [
                 "b2m"
+            ],
+            "launchbox": [
+                "b2m"
             ]
         },
         "company": "BNPO",
@@ -2771,6 +2919,9 @@
         "name": "C2 Color & Card",
         "matches": {
             "mame": [
+                "c2color_cart"
+            ],
+            "launchbox": [
                 "c2color_cart"
             ]
         },
@@ -2808,7 +2959,8 @@
                 "Bally Professional Arcade & Astrocade - Various - [WAV]"
             ],
             "launchbox": [
-                "Bally Astrocade"
+                "Bally Astrocade",
+                "astrocde"
             ],
             "tgdb": [
                 4968
@@ -2826,7 +2978,8 @@
             "nointro": [
                 "Bally - Astrocade",
                 "Bally - Astrocade (Tapes) (BIN)",
-                "Bally - Astrocade (Tapes) (WAV)"
+                "Bally - Astrocade (Tapes) (WAV)",
+                "Bally - Astrocade (Tapes)"
             ],
             "screenscraper": [
                 44
@@ -2872,6 +3025,10 @@
             "tosec": [
                 "Bandai Design Master Denshi Mangajuku - Design Cartridges",
                 "Bandai Design Master Denshi Mangajuku - Games"
+            ],
+            "launchbox": [
+                "bdesignm_game_cart",
+                "bdesignm_design_cart"
             ]
         },
         "company": "Bandai",
@@ -2898,6 +3055,9 @@
         "matches": {
             "mame": [
                 "bkrankp_cart"
+            ],
+            "launchbox": [
+                "bkrankp_cart"
             ]
         },
         "company": "Bandai",
@@ -2921,6 +3081,9 @@
             "nointro": [
                 "Apple-Bandai - Pippin (Floppies)",
                 "Non-Redump - Apple-Bandai - Pippin"
+            ],
+            "launchbox": [
+                "pippin"
             ]
         },
         "company": "Bandai",
@@ -2975,6 +3138,9 @@
         "matches": {
             "mame": [
                 "snotec"
+            ],
+            "launchbox": [
+                "snotec"
             ]
         },
         "company": "Bandai",
@@ -2991,6 +3157,9 @@
             ],
             "tosec": [
                 "Bandai Super Vision 8000 - Games"
+            ],
+            "launchbox": [
+                "sv8000"
             ]
         },
         "company": "Bandai",
@@ -3018,7 +3187,8 @@
                 1175
             ],
             "launchbox": [
-                "WonderSwan"
+                "WonderSwan",
+                "wswan"
             ],
             "tgdb": [
                 4925
@@ -3092,7 +3262,8 @@
                 "Bandai WonderSwan Color - Games"
             ],
             "launchbox": [
-                "WonderSwan Color"
+                "WonderSwan Color",
+                "wscolor"
             ],
             "tgdb": [
                 4926
@@ -3161,6 +3332,9 @@
             ],
             "arrm": [
                 "pcv2"
+            ],
+            "launchbox": [
+                "pockchalv2"
             ]
         },
         "company": "Benesse",
@@ -3180,6 +3354,9 @@
             ],
             "nointro": [
                 "Benesse - Pocket Challenge W"
+            ],
+            "launchbox": [
+                "pockchalw"
             ]
         },
         "company": "Benesse",
@@ -3251,6 +3428,9 @@
             ],
             "arrm": [
                 "gamate"
+            ],
+            "launchbox": [
+                "gamate"
             ]
         },
         "company": "Bit Corporation",
@@ -3266,6 +3446,9 @@
                 "Bondwell 12 - Operating Systems"
             ],
             "mame": [
+                "bw12"
+            ],
+            "launchbox": [
                 "bw12"
             ]
         },
@@ -3283,6 +3466,9 @@
                 "Bondwell 14 - Operating Systems"
             ],
             "mame": [
+                "bw14"
+            ],
+            "launchbox": [
                 "bw14"
             ]
         },
@@ -3302,6 +3488,9 @@
                 "Bondwell 2 - Operating Systems - [TD0]"
             ],
             "mame": [
+                "bw2"
+            ],
+            "launchbox": [
                 "bw2"
             ]
         },
@@ -3347,6 +3536,9 @@
             "tosec": [
                 "CCE MC-1000 - Demos",
                 "CCE MC-1000 - Games"
+            ],
+            "launchbox": [
+                "mc1000_cass"
             ]
         },
         "company": "CCE",
@@ -3370,6 +3562,12 @@
             ],
             "emutopia": [
                 329
+            ],
+            "oldcomputers": [
+                110
+            ],
+            "launchbox": [
+                "comx35_flop"
             ]
         },
         "company": "COMX",
@@ -3382,6 +3580,9 @@
         "name": "Buzztime Trivia",
         "matches": {
             "mame": [
+                "buzztime_cart"
+            ],
+            "launchbox": [
                 "buzztime_cart"
             ]
         },
@@ -3400,6 +3601,9 @@
             ],
             "mame": [
                 "z88_cart"
+            ],
+            "launchbox": [
+                "z88_cart"
             ]
         },
         "company": "Cambridge Computer",
@@ -3412,7 +3616,9 @@
         "name": "Lynx",
         "matches": {
             "launchbox": [
-                "Camputers Lynx"
+                "Camputers Lynx",
+                "camplynx_cass",
+                "camplynx_flop"
             ],
             "tosec": [
                 "Camputers Lynx - Applications",
@@ -3447,6 +3653,10 @@
             ],
             "oldcomputers": [
                 258
+            ],
+            "launchbox": [
+                "x07_card",
+                "x07_cass"
             ]
         },
         "company": "Canon",
@@ -3487,6 +3697,9 @@
             "emutopia": [
                 257,
                 217
+            ],
+            "launchbox": [
+                "mame"
             ]
         },
         "company": "Capcom",
@@ -3569,6 +3782,9 @@
         "matches": {
             "mame": [
                 "casio_rompack"
+            ],
+            "launchbox": [
+                "casio_rompack"
             ]
         },
         "company": "Casio",
@@ -3607,7 +3823,8 @@
         "name": "Loopy",
         "matches": {
             "launchbox": [
-                "Casio Loopy"
+                "Casio Loopy",
+                "casloopy"
             ],
             "nointro": [
                 "Casio - Loopy"
@@ -3661,6 +3878,9 @@
         "matches": {
             "mame": [
                 "pb2000c"
+            ],
+            "launchbox": [
+                "pb2000c"
             ]
         },
         "company": "Casio",
@@ -3673,7 +3893,8 @@
         "name": "PV-1000",
         "matches": {
             "launchbox": [
-                "Casio PV-1000"
+                "Casio PV-1000",
+                "pv1000"
             ],
             "nointro": [
                 "Casio - PV-1000"
@@ -3733,6 +3954,9 @@
             ],
             "emucontrolcenter": [
                 "pv2000"
+            ],
+            "launchbox": [
+                "pv2000"
             ]
         },
         "company": "Casio",
@@ -3745,6 +3969,9 @@
         "name": "68000",
         "matches": {
             "mame": [
+                "bbc_flop_68000"
+            ],
+            "launchbox": [
                 "bbc_flop_68000"
             ]
         },
@@ -3759,6 +3986,9 @@
         "matches": {
             "mame": [
                 "ggm"
+            ],
+            "launchbox": [
+                "ggm"
             ]
         },
         "company": "Chafitz",
@@ -3771,6 +4001,9 @@
         "name": "Education Computer",
         "matches": {
             "mame": [
+                "cecflop"
+            ],
+            "launchbox": [
                 "cecflop"
             ]
         },
@@ -3797,7 +4030,8 @@
                 "coleco"
             ],
             "launchbox": [
-                "ColecoVision"
+                "ColecoVision",
+                "coleco"
             ],
             "tgdb": [
                 31
@@ -3877,7 +4111,10 @@
         "name": "ColecoVision ADAM",
         "matches": {
             "launchbox": [
-                "Coleco ADAM"
+                "Coleco ADAM",
+                "adam_cart",
+                "adam_cass",
+                "adam_flop"
             ],
             "oldcomputers": [
                 57,
@@ -3960,6 +4197,9 @@
         "matches": {
             "mame": [
                 "quizwiz"
+            ],
+            "launchbox": [
+                "quizwiz"
             ]
         },
         "company": "Coleco",
@@ -3989,6 +4229,9 @@
         "matches": {
             "mame": [
                 "tc4"
+            ],
+            "launchbox": [
+                "tc4"
             ]
         },
         "company": "Coleco",
@@ -4001,7 +4244,10 @@
         "name": "128",
         "matches": {
             "launchbox": [
-                "Commodore 128"
+                "Commodore 128",
+                "c128_cart",
+                "c128_flop",
+                "c128_rom"
             ],
             "tgdb": [
                 4946
@@ -4097,7 +4343,11 @@
             "launchbox": [
                 "Commodore 64",
                 "Commodore 128",
-                "Commodore VIC-20"
+                "Commodore VIC-20",
+                "c64_cart",
+                "c64_cass",
+                "c64_flop_orig",
+                "c64_flop_misc"
             ],
             "nointro": [
                 "Commodore - Commodore 64",
@@ -4658,6 +4908,9 @@
             ],
             "emutopia": [
                 409
+            ],
+            "launchbox": [
+                "c65_flop"
             ]
         },
         "company": "Commodore",
@@ -4672,6 +4925,9 @@
         "matches": {
             "mame": [
                 "cbm8096_flop"
+            ],
+            "launchbox": [
+                "cbm8096_flop"
             ]
         },
         "company": "Commodore",
@@ -4685,6 +4941,9 @@
         "matches": {
             "mame": [
                 "cbm8296_flop"
+            ],
+            "launchbox": [
+                "cbm8296_flop"
             ]
         },
         "company": "Commodore",
@@ -4697,7 +4956,13 @@
         "name": "Amiga",
         "matches": {
             "launchbox": [
-                "Commodore Amiga"
+                "Commodore Amiga",
+                "amiga_workbench",
+                "amiga_hardware",
+                "amiga_apps",
+                "amiga_flop",
+                "amiga_demos",
+                "amiga_hdd"
             ],
             "nointro": [
                 "Commodore - Amiga",
@@ -4917,7 +5182,8 @@
                 "amiga"
             ],
             "launchbox": [
-                "Commodore Amiga"
+                "Commodore Amiga",
+                "amiga_a1000"
             ],
             "hfsdb": [
                 "36003"
@@ -5124,7 +5390,8 @@
                 "amiga"
             ],
             "launchbox": [
-                "Commodore Amiga"
+                "Commodore Amiga",
+                "amiga_a3000"
             ],
             "hfsdb": [
                 "36003"
@@ -5205,6 +5472,9 @@
             ],
             "retrobat": [
                 "amiga1200"
+            ],
+            "launchbox": [
+                "amigaaga_flop"
             ]
         },
         "company": "Commodore",
@@ -5236,7 +5506,8 @@
         "name": "Amiga CD32",
         "matches": {
             "launchbox": [
-                "Commodore Amiga CD32"
+                "Commodore Amiga CD32",
+                "cd32"
             ],
             "redump": [
                 "Commodore - Amiga CD32"
@@ -5342,7 +5613,8 @@
                 "Commodore - Amiga CDTV"
             ],
             "launchbox": [
-                "Commodore CDTV"
+                "Commodore CDTV",
+                "cdtv"
             ],
             "oldcomputers": [
                 106
@@ -5435,6 +5707,9 @@
         "matches": {
             "mame": [
                 "amigaecs_flop"
+            ],
+            "launchbox": [
+                "amigaecs_flop"
             ]
         },
         "company": "Commodore",
@@ -5447,6 +5722,9 @@
         "name": "Amiga OCS",
         "matches": {
             "mame": [
+                "amigaocs_flop"
+            ],
+            "launchbox": [
                 "amigaocs_flop"
             ]
         },
@@ -5465,6 +5743,9 @@
             "tosec": [
                 "Commodore BX256-80HP - Applications",
                 "Commodore BX256-80HP - Operating Systems"
+            ],
+            "launchbox": [
+                "bx256hp_flop"
             ]
         },
         "company": "Commodore",
@@ -5500,6 +5781,10 @@
             "mame": [
                 "cbm2_cart",
                 "cbm2_flop"
+            ],
+            "launchbox": [
+                "cbm2_cart",
+                "cbm2_flop"
             ]
         },
         "company": "Commodore",
@@ -5529,6 +5814,9 @@
         "matches": {
             "mame": [
                 "p500_flop"
+            ],
+            "launchbox": [
+                "p500_flop"
             ]
         },
         "company": "Commodore",
@@ -5542,7 +5830,12 @@
         "matches": {
             "launchbox": [
                 "Commodore PET",
-                "Commodore VIC-20"
+                "Commodore VIC-20",
+                "pet_cass",
+                "pet_flop",
+                "pet_hdd",
+                "pet_quik",
+                "pet_rom"
             ],
             "tosec": [
                 "Commodore PET - Compilations - Applications",
@@ -5641,7 +5934,10 @@
                 "Commodore C16, C116 & Plus-4 - Utilities - [Z64]"
             ],
             "launchbox": [
-                "Commodore Plus 4"
+                "Commodore Plus 4",
+                "plus4_cart",
+                "plus4_cass",
+                "plus4_flop"
             ],
             "tgdb": [
                 5006,
@@ -5703,6 +5999,9 @@
         "matches": {
             "mame": [
                 "superpet_flop"
+            ],
+            "launchbox": [
+                "superpet_flop"
             ]
         },
         "company": "Commodore",
@@ -5716,6 +6015,9 @@
         "matches": {
             "mame": [
                 "vic10"
+            ],
+            "launchbox": [
+                "vic10"
             ]
         },
         "company": "Commodore",
@@ -5728,6 +6030,11 @@
         "name": "VIC-1001 - VIC-20",
         "matches": {
             "mame": [
+                "vic1001_cart",
+                "vic1001_cass",
+                "vic1001_flop"
+            ],
+            "launchbox": [
                 "vic1001_cart",
                 "vic1001_cass",
                 "vic1001_flop"
@@ -5845,6 +6152,9 @@
             ],
             "oldcomputers": [
                 560
+            ],
+            "launchbox": [
+                "compclr2_flop"
             ]
         },
         "company": "Compucolor",
@@ -5871,6 +6181,9 @@
         "matches": {
             "mame": [
                 "conchess_plymate"
+            ],
+            "launchbox": [
+                "conchess_plymate"
             ]
         },
         "company": "Conchess",
@@ -5884,6 +6197,9 @@
         "matches": {
             "mame": [
                 "conchess_standard"
+            ],
+            "launchbox": [
+                "conchess_standard"
             ]
         },
         "company": "Conchess",
@@ -5896,6 +6212,9 @@
         "name": "PROF-180",
         "matches": {
             "mame": [
+                "prof180"
+            ],
+            "launchbox": [
                 "prof180"
             ]
         },
@@ -5913,6 +6232,9 @@
             ],
             "oldcomputers": [
                 992
+            ],
+            "launchbox": [
+                "prof80"
             ]
         },
         "company": "Conitec",
@@ -5986,7 +6308,8 @@
                 "megaduck"
             ],
             "launchbox": [
-                "Mega Duck"
+                "Mega Duck",
+                "megaduck"
             ],
             "tgdb": [
                 4948
@@ -6249,6 +6572,9 @@
             ],
             "oldcomputers": [
                 284
+            ],
+            "launchbox": [
+                "rainbow"
             ]
         },
         "company": "DEC",
@@ -6286,6 +6612,9 @@
             ],
             "oldcomputers": [
                 752
+            ],
+            "launchbox": [
+                "dai_cass"
             ]
         },
         "company": "Data Applications International",
@@ -6301,6 +6630,10 @@
             "mame": [
                 "super80_flop",
                 "super80_cass"
+            ],
+            "launchbox": [
+                "super80_cass",
+                "super80_flop"
             ]
         },
         "company": "Dick Smith",
@@ -6357,6 +6690,10 @@
             "mame": [
                 "vz_cass",
                 "vz_snap"
+            ],
+            "launchbox": [
+                "vz_cass",
+                "vz_snap"
             ]
         },
         "company": "Dick Smith",
@@ -6384,6 +6721,9 @@
         "matches": {
             "mame": [
                 "digilog320"
+            ],
+            "launchbox": [
+                "digilog320"
             ]
         },
         "altNames": [
@@ -6409,7 +6749,8 @@
         "matches": {
             "launchbox": [
                 "Dragon 32/64",
-                "TRS-80 Color Computer"
+                "TRS-80 Color Computer",
+                "dragon_cass"
             ],
             "tgdb": [
                 4952
@@ -6496,7 +6837,8 @@
                 "dos"
             ],
             "launchbox": [
-                "MS-DOS"
+                "MS-DOS",
+                "dragon_flop"
             ],
             "igdb": [
                 "13"
@@ -6547,7 +6889,10 @@
                 "Dragon Data Dragon Beta - Operating Systems"
             ],
             "launchbox": [
-                "Dragon 32/64"
+                "Dragon 32/64",
+                "dragon_cart",
+                "dgnalpha_flop",
+                "dgnbeta_flop"
             ],
             "mame": [
                 "dragon_cart",
@@ -6574,6 +6919,9 @@
         "matches": {
             "mame": [
                 "dragon_flex"
+            ],
+            "launchbox": [
+                "dragon_flex"
             ]
         },
         "company": "Dragon",
@@ -6586,6 +6934,9 @@
         "name": "OS-9",
         "matches": {
             "mame": [
+                "dragon_os9"
+            ],
+            "launchbox": [
                 "dragon_os9"
             ]
         },
@@ -6612,7 +6963,9 @@
         "name": "EG2000 Colour Genie",
         "matches": {
             "launchbox": [
-                "EACA EG2000 Colour Genie"
+                "EACA EG2000 Colour Genie",
+                "cgenie_cass",
+                "cgenie_flop_rom"
             ],
             "tosec": [
                 "EACA EG2000 Colour Genie - Applications",
@@ -6661,6 +7014,9 @@
         "matches": {
             "mame": [
                 "ec1841"
+            ],
+            "launchbox": [
+                "ec1841"
             ]
         },
         "company": "EC",
@@ -6673,6 +7029,9 @@
         "name": "PX-4",
         "matches": {
             "mame": [
+                "px4_cart"
+            ],
+            "launchbox": [
                 "px4_cart"
             ]
         },
@@ -6687,6 +7046,9 @@
         "company": "Generic",
         "matches": {
             "mame": [
+                "eti660_quik"
+            ],
+            "launchbox": [
                 "eti660_quik"
             ]
         }
@@ -6829,6 +7191,9 @@
             ],
             "mame": [
                 "bk0010"
+            ],
+            "launchbox": [
+                "bk0010"
             ]
         },
         "company": "Elektronika",
@@ -6858,6 +7223,9 @@
         "matches": {
             "mame": [
                 "mc1502_flop"
+            ],
+            "launchbox": [
+                "mc1502_flop"
             ]
         },
         "company": "Elektronika",
@@ -6876,6 +7244,9 @@
             ],
             "mame": [
                 "pecom_cass"
+            ],
+            "launchbox": [
+                "pecom_cass"
             ]
         },
         "company": "Elektronska Industrija Nis",
@@ -6888,7 +7259,8 @@
         "name": "Arcadia 2001",
         "matches": {
             "launchbox": [
-                "Emerson Arcadia 2001"
+                "Emerson Arcadia 2001",
+                "arcadia"
             ],
             "nointro": [
                 "Emerson - Arcadia 2001"
@@ -6945,6 +7317,9 @@
         "matches": {
             "mame": [
                 "apollo_ctape"
+            ],
+            "launchbox": [
+                "apollo_ctape"
             ]
         },
         "company": "Enterprex",
@@ -6975,7 +7350,10 @@
                 "ep64_flop"
             ],
             "launchbox": [
-                "Enterprise"
+                "Enterprise",
+                "ep64_cart",
+                "ep64_cass",
+                "ep64_flop"
             ],
             "oldcomputers": [
                 1013
@@ -6997,7 +7375,8 @@
         "name": "Adventure Vision",
         "matches": {
             "launchbox": [
-                "Entex Adventure Vision"
+                "Entex Adventure Vision",
+                "advision"
             ],
             "nointro": [
                 "Entex - Adventure Vision"
@@ -7052,6 +7431,9 @@
             ],
             "mame": [
                 "entex_sag"
+            ],
+            "launchbox": [
+                "entex_sag"
             ]
         },
         "company": "Entex",
@@ -7080,7 +7462,8 @@
         "name": "Game Pocket Computer",
         "matches": {
             "launchbox": [
-                "Epoch Game Pocket Computer"
+                "Epoch Game Pocket Computer",
+                "gamepock"
             ],
             "mame": [
                 "gamepock"
@@ -7112,7 +7495,8 @@
         "matches": {
             "launchbox": [
                 "Epoch Super Cassette Vision",
-                "Spectravideo"
+                "Spectravideo",
+                "scv"
             ],
             "nointro": [
                 "Epoch - Super Cassette Vision"
@@ -7173,6 +7557,9 @@
         "matches": {
             "mame": [
                 "epson_cpm"
+            ],
+            "launchbox": [
+                "epson_cpm"
             ]
         },
         "company": "Epson",
@@ -7185,6 +7572,9 @@
         "name": "HX-20 Optional",
         "matches": {
             "mame": [
+                "hx20_rom"
+            ],
+            "launchbox": [
                 "hx20_rom"
             ]
         },
@@ -7224,6 +7614,9 @@
             ],
             "mame": [
                 "px8_cart"
+            ],
+            "launchbox": [
+                "px8_cart"
             ]
         },
         "company": "Epson",
@@ -7240,6 +7633,9 @@
             ],
             "tosec": [
                 "Epson QX-10 - Games"
+            ],
+            "launchbox": [
+                "qx10_flop"
             ]
         },
         "company": "Epson",
@@ -7267,6 +7663,9 @@
         "matches": {
             "mame": [
                 "ews286_flop"
+            ],
+            "launchbox": [
+                "ews286_flop"
             ]
         },
         "company": "Ericsson",
@@ -7279,6 +7678,9 @@
         "name": "PC step-one",
         "matches": {
             "mame": [
+                "stepone_flop"
+            ],
+            "launchbox": [
                 "stepone_flop"
             ]
         },
@@ -7293,6 +7695,9 @@
         "matches": {
             "mame": [
                 "excalibur64"
+            ],
+            "launchbox": [
+                "excalibur64"
             ]
         },
         "company": "Excalibur",
@@ -7305,7 +7710,8 @@
         "name": "EXL 100",
         "matches": {
             "launchbox": [
-                "Exelvision EXL 100"
+                "Exelvision EXL 100",
+                "exl100"
             ],
             "oldcomputers": [
                 123
@@ -7370,7 +7776,10 @@
         "name": "Sorcerer",
         "matches": {
             "launchbox": [
-                "Exidy Sorcerer"
+                "Exidy Sorcerer",
+                "sorcerer_cart",
+                "sorcerer_cass",
+                "sorcerer_flop"
             ],
             "tosec": [
                 "Exidy Sorcerer - Applications - [DSK]",
@@ -7433,7 +7842,8 @@
         "name": "Channel F",
         "matches": {
             "launchbox": [
-                "Fairchild Channel F"
+                "Fairchild Channel F",
+                "channelf"
             ],
             "nointro": [
                 "Fairchild - Channel F"
@@ -7551,6 +7961,9 @@
         "matches": {
             "mame": [
                 "fidel_msc"
+            ],
+            "launchbox": [
+                "fidel_msc"
             ]
         },
         "company": "Fidelity",
@@ -7563,6 +7976,9 @@
         "name": "SC6",
         "matches": {
             "mame": [
+                "fidel_sc6"
+            ],
+            "launchbox": [
                 "fidel_sc6"
             ]
         },
@@ -7580,6 +7996,9 @@
             ],
             "mame": [
                 "fidel_scc"
+            ],
+            "launchbox": [
+                "fidel_scc"
             ]
         },
         "company": "Fidelity",
@@ -7593,6 +8012,9 @@
         "matches": {
             "mame": [
                 "icanguit"
+            ],
+            "launchbox": [
+                "icanguit"
             ]
         },
         "company": "Fisher-Price - Mattel",
@@ -7605,6 +8027,9 @@
         "name": "I Can Play Piano",
         "matches": {
             "mame": [
+                "icanpian"
+            ],
+            "launchbox": [
                 "icanpian"
             ]
         },
@@ -7658,7 +8083,11 @@
                 968
             ],
             "launchbox": [
-                "Fujitsu FM Towns Marty"
+                "Fujitsu FM Towns Marty",
+                "fmtowns_flop_orig",
+                "fmtowns_flop_cracked",
+                "fmtowns_flop_misc",
+                "fmtowns_cd"
             ],
             "mame": [
                 "fmtowns_cd",
@@ -7725,7 +8154,9 @@
         "name": "FM-7",
         "matches": {
             "launchbox": [
-                "Fujitsu FM-7"
+                "Fujitsu FM-7",
+                "fm7_cass",
+                "fm7_disk"
             ],
             "tosec": [
                 "Fujitsu FM-7 - Applications",
@@ -7796,6 +8227,9 @@
                 "Fujitsu FM77-AV - Games - [IMD]",
                 "Fujitsu FM77-AV - Games - [RAW]",
                 "Fujitsu FM77-AV - Games - [TD0]"
+            ],
+            "launchbox": [
+                "fm77av"
             ]
         },
         "company": "Fujitsu",
@@ -7812,6 +8246,9 @@
                 "fm8_cass"
             ],
             "mame": [
+                "fm8_cass"
+            ],
+            "launchbox": [
                 "fm8_cass"
             ]
         },
@@ -7860,7 +8297,8 @@
                 "supracan"
             ],
             "launchbox": [
-                "Funtech Super Acan"
+                "Funtech Super Acan",
+                "supracan"
             ],
             "nointro": [
                 "Funtech - Super Acan"
@@ -7925,7 +8363,8 @@
         "name": "Vectrex",
         "matches": {
             "launchbox": [
-                "GCE Vectrex"
+                "GCE Vectrex",
+                "vectrex"
             ],
             "nointro": [
                 "GCE - Vectrex"
@@ -8023,6 +8462,9 @@
             "oldcomputers": [
                 330,
                 385
+            ],
+            "launchbox": [
+                "galaxy"
             ]
         },
         "company": "Galaksija",
@@ -8065,7 +8507,8 @@
         "name": "GP32",
         "matches": {
             "launchbox": [
-                "GamePark GP32"
+                "GamePark GP32",
+                "gp32"
             ],
             "nointro": [
                 "GamePark - GP32"
@@ -8232,6 +8675,9 @@
         "matches": {
             "mame": [
                 "bbc_flop_hybrid"
+            ],
+            "launchbox": [
+                "bbc_flop_hybrid"
             ]
         },
         "company": "Generic",
@@ -8249,6 +8695,10 @@
             ],
             "oldcomputers": [
                 1045
+            ],
+            "launchbox": [
+                "iq151_cart",
+                "iq151_flop"
             ]
         },
         "company": "Generic",
@@ -8261,6 +8711,9 @@
         "name": "Intellect-02",
         "matches": {
             "mame": [
+                "intellect02"
+            ],
+            "launchbox": [
                 "intellect02"
             ]
         },
@@ -8275,6 +8728,9 @@
         "matches": {
             "mame": [
                 "jazz"
+            ],
+            "launchbox": [
+                "jazz"
             ]
         },
         "company": "Generic",
@@ -8287,6 +8743,9 @@
         "name": "Korvet",
         "matches": {
             "mame": [
+                "korvet_flop"
+            ],
+            "launchbox": [
                 "korvet_flop"
             ]
         },
@@ -8324,6 +8783,10 @@
             "mame": [
                 "next",
                 "next_cdrom"
+            ],
+            "launchbox": [
+                "next_cdrom",
+                "next"
             ]
         },
         "company": "Generic",
@@ -8392,6 +8855,11 @@
                 "orion_cass",
                 "orion_flop",
                 "orion_cart"
+            ],
+            "launchbox": [
+                "orion_cass",
+                "orion_flop",
+                "orion_cart"
             ]
         },
         "company": "Generic",
@@ -8404,6 +8872,9 @@
         "name": "OrionPro",
         "matches": {
             "mame": [
+                "orionpro_flop"
+            ],
+            "launchbox": [
                 "orionpro_flop"
             ]
         },
@@ -8470,6 +8941,9 @@
             ],
             "oldcomputers": [
                 192
+            ],
+            "launchbox": [
+                "phc25_cass"
             ]
         },
         "company": "Generic",
@@ -8482,6 +8956,9 @@
         "name": "PT68K2",
         "matches": {
             "mame": [
+                "pt68k2"
+            ],
+            "launchbox": [
                 "pt68k2"
             ]
         },
@@ -8548,6 +9025,9 @@
         "matches": {
             "mame": [
                 "poisk1_flop"
+            ],
+            "launchbox": [
+                "poisk1_flop"
             ]
         },
         "company": "Generic",
@@ -8560,6 +9040,9 @@
         "name": "Poly",
         "matches": {
             "mame": [
+                "poly_flop"
+            ],
+            "launchbox": [
                 "poly_flop"
             ]
         },
@@ -8574,6 +9057,9 @@
         "matches": {
             "mame": [
                 "pyl601"
+            ],
+            "launchbox": [
+                "pyl601"
             ]
         },
         "company": "Generic",
@@ -8586,6 +9072,9 @@
         "name": "SITCOM",
         "matches": {
             "mame": [
+                "sitcom"
+            ],
+            "launchbox": [
                 "sitcom"
             ]
         },
@@ -8655,6 +9144,9 @@
             ],
             "oldcomputers": [
                 224
+            ],
+            "launchbox": [
+                "squale_cart"
             ]
         },
         "company": "Generic",
@@ -8668,6 +9160,9 @@
         "matches": {
             "mame": [
                 "midi_flop"
+            ],
+            "launchbox": [
+                "midi_flop"
             ]
         },
         "company": "Generic",
@@ -8680,6 +9175,9 @@
         "name": "UT-88",
         "matches": {
             "mame": [
+                "ut88"
+            ],
+            "launchbox": [
                 "ut88"
             ]
         },
@@ -8713,6 +9211,9 @@
             ],
             "oldcomputers": [
                 534
+            ],
+            "launchbox": [
+                "gimix"
             ]
         },
         "company": "Gimix",
@@ -8786,6 +9287,10 @@
             ],
             "nointro": [
                 "Bandai - Gundam RX-78"
+            ],
+            "launchbox": [
+                "rx78_cart",
+                "rx78_cass"
             ]
         },
         "company": "Gundam",
@@ -8821,6 +9326,9 @@
             ],
             "oldcomputers": [
                 136
+            ],
+            "launchbox": [
+                "pencil2"
             ]
         },
         "company": "Hanimex",
@@ -8833,7 +9341,8 @@
         "name": "Game Master",
         "matches": {
             "launchbox": [
-                "Hartung Game Master"
+                "Hartung Game Master",
+                "gmaster"
             ],
             "nointro": [
                 "Hartung - Game Master"
@@ -8869,6 +9378,9 @@
                 "Hawthorne Technology TinyGiant 68000 Single Board Computer - Operating Systems"
             ],
             "mame": [
+                "ht68k"
+            ],
+            "launchbox": [
                 "ht68k"
             ]
         },
@@ -8925,6 +9437,9 @@
         "matches": {
             "mame": [
                 "hp9825b_rom"
+            ],
+            "launchbox": [
+                "hp9825b_rom"
             ]
         },
         "company": "Hewlett-Packard",
@@ -8938,6 +9453,9 @@
         "matches": {
             "mame": [
                 "hp9845a_rom"
+            ],
+            "launchbox": [
+                "hp9845a_rom"
             ]
         },
         "company": "Hewlett-Packard",
@@ -8950,6 +9468,9 @@
         "name": "HP 9845B-T-C",
         "matches": {
             "mame": [
+                "hp9845b_rom"
+            ],
+            "launchbox": [
                 "hp9845b_rom"
             ]
         },
@@ -8965,6 +9486,10 @@
             "mame": [
                 "hp_ipc",
                 "hp_ipc_rom"
+            ],
+            "launchbox": [
+                "hp_ipc",
+                "hp_ipc_rom"
             ]
         },
         "company": "Hewlett-Packard",
@@ -8977,6 +9502,9 @@
         "name": "HP-86/7",
         "matches": {
             "mame": [
+                "hp86_rom"
+            ],
+            "launchbox": [
                 "hp86_rom"
             ]
         },
@@ -9025,6 +9553,9 @@
             ],
             "oldcomputers": [
                 353
+            ],
+            "launchbox": [
+                "hp85_rom"
             ]
         },
         "company": "Hewlett-Packard",
@@ -9037,6 +9568,11 @@
         "name": "HP9000-300",
         "matches": {
             "mame": [
+                "hp9k3xx_flop",
+                "hp9k3xx_cdrom",
+                "hp9k3xx_hdd"
+            ],
+            "launchbox": [
                 "hp9k3xx_flop",
                 "hp9k3xx_cdrom",
                 "hp9k3xx_hdd"
@@ -9055,6 +9591,9 @@
                 "Hewlett-Packard HP9835A-B - Option ROMs"
             ],
             "mame": [
+                "hp9835a_rom"
+            ],
+            "launchbox": [
                 "hp9835a_rom"
             ]
         },
@@ -9102,6 +9641,9 @@
             "tosec": [
                 "Hitachi Basic Master Jr. Level 3 - Games - [L3]",
                 "Hitachi Basic Master Jr. Level 3 - Games - [WAV]"
+            ],
+            "launchbox": [
+                "bml3_flop"
             ]
         },
         "altNames": [
@@ -9210,6 +9752,9 @@
                 "IBM Displaywriter - Educational",
                 "IBM Displaywriter - Miscellaneous",
                 "IBM Displaywriter - Operating Systems"
+            ],
+            "launchbox": [
+                "ibm6580"
             ]
         },
         "company": "IBM",
@@ -9222,6 +9767,9 @@
         "name": "PC 5140 Convertible",
         "matches": {
             "mame": [
+                "ibm5140"
+            ],
+            "launchbox": [
                 "ibm5140"
             ]
         },
@@ -9251,7 +9799,8 @@
                 "IBM - PC and Compatibles (SCP)",
                 "Source Code - IBM - PC and Compatibles",
                 "Non-Redump - IBM - PC Compatible (Discs)",
-                "Non-Redump - IBM - PC Compatible (Discs) (Hentai)"
+                "Non-Redump - IBM - PC Compatible (Discs) (Hentai)",
+                "Non-Redump - IBM - PC Compatible (Discs) (Non-Game)"
             ],
             "redump": [
                 "IBM - PC compatible"
@@ -9377,6 +9926,10 @@
                 "IBM PC Compatibles - CD - Multimedia",
                 "IBM PC Compatibles - CD - Operating Systems",
                 "IBM PC Compatibles - CD - Samplers"
+            ],
+            "launchbox": [
+                "ibm5150",
+                "ibm5150_hdd"
             ]
         },
         "company": "IBM",
@@ -9392,6 +9945,11 @@
                 "ibm5170_cdrom",
                 "ibm5170_hdd",
                 "ibm5170"
+            ],
+            "launchbox": [
+                "ibm5170",
+                "ibm5170_cdrom",
+                "ibm5170_hdd"
             ]
         },
         "company": "IBM",
@@ -9404,6 +9962,9 @@
         "name": "PC-XT",
         "matches": {
             "mame": [
+                "ibm5150_cass"
+            ],
+            "launchbox": [
                 "ibm5150_cass"
             ]
         },
@@ -9436,6 +9997,10 @@
                 "IBM PCjr - Manuals - Hardware",
                 "IBM PCjr - Manuals - Technical",
                 "IBM PCjr - Video"
+            ],
+            "launchbox": [
+                "ibmpcjr_cart",
+                "ibmpcjr_flop"
             ]
         },
         "company": "IBM",
@@ -9486,6 +10051,9 @@
             ],
             "oldcomputers": [
                 146
+            ],
+            "launchbox": [
+                "itt3030"
             ]
         },
         "company": "ITT",
@@ -9499,6 +10067,9 @@
         "company": "IVL Technologies",
         "matches": {
             "mame": [
+                "easy_karaoke_cart"
+            ],
+            "launchbox": [
                 "easy_karaoke_cart"
             ]
         },
@@ -9575,6 +10146,9 @@
             ],
             "mame": [
                 "interact"
+            ],
+            "launchbox": [
+                "interact"
             ]
         },
         "company": "Interact",
@@ -9588,6 +10162,9 @@
         "matches": {
             "mame": [
                 "interpro"
+            ],
+            "launchbox": [
+                "interpro"
             ]
         },
         "company": "Intergraph",
@@ -9600,7 +10177,8 @@
         "name": "VC 4000",
         "matches": {
             "launchbox": [
-                "Interton VC 4000"
+                "Interton VC 4000",
+                "vc4000"
             ],
             "mame": [
                 "vc4000"
@@ -9638,6 +10216,9 @@
         "matches": {
             "mame": [
                 "i7000_card"
+            ],
+            "launchbox": [
+                "i7000_card"
             ]
         },
         "company": "Itautec",
@@ -9654,6 +10235,9 @@
             ],
             "oldcomputers": [
                 574
+            ],
+            "launchbox": [
+                "dps1"
             ]
         },
         "company": "Ithaca",
@@ -9666,6 +10250,9 @@
         "name": "'DP' Game Keys",
         "matches": {
             "mame": [
+                "jakks_gamekey_dp"
+            ],
+            "launchbox": [
                 "jakks_gamekey_dp"
             ]
         },
@@ -9680,6 +10267,9 @@
         "matches": {
             "mame": [
                 "jakks_gamekey_dy"
+            ],
+            "launchbox": [
+                "jakks_gamekey_dy"
             ]
         },
         "company": "JAKKS Pacific",
@@ -9692,6 +10282,9 @@
         "name": "'MV' Game Keys",
         "matches": {
             "mame": [
+                "jakks_gamekey_mv"
+            ],
+            "launchbox": [
                 "jakks_gamekey_mv"
             ]
         },
@@ -9706,6 +10299,9 @@
         "matches": {
             "mame": [
                 "jakks_gamekey_nk"
+            ],
+            "launchbox": [
+                "jakks_gamekey_nk"
             ]
         },
         "company": "JAKKS Pacific",
@@ -9718,6 +10314,9 @@
         "name": "'NM' Game Keys",
         "matches": {
             "mame": [
+                "jakks_gamekey_nm"
+            ],
+            "launchbox": [
                 "jakks_gamekey_nm"
             ]
         },
@@ -9732,6 +10331,9 @@
         "matches": {
             "mame": [
                 "jakks_gamekey_sw"
+            ],
+            "launchbox": [
+                "jakks_gamekey_sw"
             ]
         },
         "company": "JAKKS Pacific",
@@ -9744,6 +10346,9 @@
         "name": "Telestory",
         "matches": {
             "mame": [
+                "telestory_cart"
+            ],
+            "launchbox": [
                 "telestory_cart"
             ]
         },
@@ -9758,6 +10363,9 @@
         "matches": {
             "mame": [
                 "guab"
+            ],
+            "launchbox": [
+                "guab"
             ]
         },
         "company": "JPM",
@@ -9770,6 +10378,9 @@
         "name": "E5101",
         "matches": {
             "mame": [
+                "juku"
+            ],
+            "launchbox": [
                 "juku"
             ]
         },
@@ -9786,6 +10397,9 @@
                 "vii"
             ],
             "emucontrolcenter": [
+                "vii"
+            ],
+            "launchbox": [
                 "vii"
             ]
         },
@@ -9833,7 +10447,9 @@
                 "jupace_snap"
             ],
             "launchbox": [
-                "Jupiter Ace"
+                "Jupiter Ace",
+                "jupace_cass",
+                "jupace_snap"
             ],
             "tosecpix": [
                 "Jupiter Cantab Jupiter Ace - Books",
@@ -9894,6 +10510,9 @@
         "matches": {
             "mame": [
                 "pasogo"
+            ],
+            "launchbox": [
+                "pasogo"
             ]
         },
         "company": "Koei",
@@ -9949,6 +10568,9 @@
             ],
             "mame": [
                 "picno"
+            ],
+            "launchbox": [
+                "picno"
             ]
         },
         "company": "Konami",
@@ -9966,6 +10588,9 @@
             ],
             "mame": [
                 "kpython2"
+            ],
+            "launchbox": [
+                "kpython2"
             ]
         },
         "altNames": [
@@ -9978,6 +10603,9 @@
         "matches": {
             "toseciso": [
                 "Konami System 573 - Games"
+            ],
+            "redump": [
+                "Arcade - Konami - System 573"
             ]
         },
         "company": "Konami",
@@ -10017,6 +10645,9 @@
         "matches": {
             "mame": [
                 "psi98"
+            ],
+            "launchbox": [
+                "psi98"
             ]
         },
         "company": "Kontron",
@@ -10029,6 +10660,9 @@
         "name": "Octopus floppy",
         "matches": {
             "mame": [
+                "octopus"
+            ],
+            "launchbox": [
                 "octopus"
             ]
         },
@@ -10056,6 +10690,9 @@
         "matches": {
             "mame": [
                 "clickstart_cart"
+            ],
+            "launchbox": [
+                "clickstart_cart"
             ]
         },
         "company": "LeapFrog",
@@ -10072,6 +10709,9 @@
             ],
             "mame": [
                 "leapfrog_didj_cart"
+            ],
+            "launchbox": [
+                "leapfrog_didj_cart"
             ]
         },
         "company": "LeapFrog",
@@ -10085,6 +10725,9 @@
         "company": "LeapFrog",
         "matches": {
             "mame": [
+                "leapfrog_iquest_cart"
+            ],
+            "launchbox": [
                 "leapfrog_iquest_cart"
             ]
         },
@@ -10104,6 +10747,9 @@
             ],
             "tosec": [
                 "LeapFrog LeapPad - Educational"
+            ],
+            "launchbox": [
+                "leapfrog_leappad_cart"
             ]
         },
         "company": "LeapFrog",
@@ -10125,6 +10771,10 @@
             "mame": [
                 "leapster",
                 "leapster_explorer_cart"
+            ],
+            "launchbox": [
+                "leapster_explorer_cart",
+                "leapster"
             ]
         },
         "company": "LeapFrog",
@@ -10138,6 +10788,9 @@
         "matches": {
             "mame": [
                 "leapfrog_ltleappad_cart"
+            ],
+            "launchbox": [
+                "leapfrog_ltleappad_cart"
             ]
         },
         "company": "LeapFrog",
@@ -10150,6 +10803,9 @@
         "name": "My First LeapPad",
         "matches": {
             "mame": [
+                "leapfrog_mfleappad_cart"
+            ],
+            "launchbox": [
                 "leapfrog_mfleappad_cart"
             ]
         },
@@ -10165,6 +10821,9 @@
         "matches": {
             "mame": [
                 "turboextreme_cart"
+            ],
+            "launchbox": [
+                "turboextreme_cart"
             ]
         },
         "altNames": [
@@ -10178,6 +10837,9 @@
         "matches": {
             "mame": [
                 "ttwist_brainquest_cart"
+            ],
+            "launchbox": [
+                "ttwist_brainquest_cart"
             ]
         },
         "altNames": [
@@ -10190,6 +10852,9 @@
         "company": "LeapFrog",
         "matches": {
             "mame": [
+                "leapfrog_zippity_cart"
+            ],
+            "launchbox": [
                 "leapfrog_zippity_cart"
             ]
         },
@@ -10205,6 +10870,9 @@
                 "Luxor ABC 1600 - Operating Systems"
             ],
             "mame": [
+                "abc1600_flop"
+            ],
+            "launchbox": [
                 "abc1600_flop"
             ]
         },
@@ -10236,6 +10904,10 @@
                 37
             ],
             "mame": [
+                "abc80_cass",
+                "abc80_flop"
+            ],
+            "launchbox": [
                 "abc80_cass",
                 "abc80_flop"
             ]
@@ -10270,6 +10942,10 @@
             ],
             "nointro": [
                 "Luxor - ABC 800 (Flux)"
+            ],
+            "launchbox": [
+                "abc800",
+                "abc800_hdd"
             ]
         },
         "company": "Luxor",
@@ -10286,6 +10962,9 @@
                 "Luxor ABC 806 - Operating Systems"
             ],
             "mame": [
+                "abc806"
+            ],
+            "launchbox": [
                 "abc806"
             ]
         },
@@ -10315,6 +10994,9 @@
         "matches": {
             "mame": [
                 "x37_flop"
+            ],
+            "launchbox": [
+                "x37_flop"
             ]
         },
         "altNames": [
@@ -10326,7 +11008,8 @@
         "name": "PC-01",
         "matches": {
             "launchbox": [
-                "Lviv PC-01"
+                "Lviv PC-01",
+                "lviv"
             ],
             "mame": [
                 "lviv"
@@ -10345,6 +11028,9 @@
         "name": "Monon Color",
         "matches": {
             "mame": [
+                "monon_color"
+            ],
+            "launchbox": [
                 "monon_color"
             ]
         },
@@ -10371,7 +11057,9 @@
         "name": "Sam Coupe",
         "matches": {
             "launchbox": [
-                "SAM Coupé"
+                "SAM Coupé",
+                "samcoupe_cass",
+                "samcoupe_flop"
             ],
             "tgdb": [
                 4979
@@ -10474,6 +11162,9 @@
         "name": "KIM-1",
         "matches": {
             "mame": [
+                "kim1_cass"
+            ],
+            "launchbox": [
                 "kim1_cass"
             ]
         },
@@ -10756,7 +11447,8 @@
                 "alice32"
             ],
             "launchbox": [
-                "Matra and Hachette Alice"
+                "Matra and Hachette Alice",
+                "alice32"
             ],
             "oldcomputers": [
                 60
@@ -10780,6 +11472,9 @@
             ],
             "oldcomputers": [
                 61
+            ],
+            "launchbox": [
+                "alice90"
             ]
         },
         "company": "Matra Hachette",
@@ -10828,7 +11523,9 @@
         "name": "Aquarius",
         "matches": {
             "launchbox": [
-                "Mattel Aquarius"
+                "Mattel Aquarius",
+                "aquarius_cart",
+                "aquarius_cass"
             ],
             "tosec": [
                 "Mattel Aquarius - Applications",
@@ -10874,7 +11571,9 @@
         "name": "HyperScan",
         "matches": {
             "launchbox": [
-                "Mattel HyperScan"
+                "Mattel HyperScan",
+                "hyperscan",
+                "hyperscan_card"
             ],
             "redump": [
                 "Mattel - HyperScan"
@@ -10904,7 +11603,9 @@
         "name": "Intellivision",
         "matches": {
             "launchbox": [
-                "Mattel Intellivision"
+                "Mattel Intellivision",
+                "intv",
+                "intvecs"
             ],
             "nointro": [
                 "Mattel - Intellivision"
@@ -10998,6 +11699,9 @@
             ],
             "mame": [
                 "juicebox"
+            ],
+            "launchbox": [
+                "juicebox"
             ]
         },
         "company": "Mattel",
@@ -11041,6 +11745,9 @@
                 "Memorex Video Information System - Games",
                 "Memorex Video Information System - Multimedia",
                 "Memorex Video Information System - Samplers"
+            ],
+            "launchbox": [
+                "vis"
             ]
         },
         "company": "Memorex",
@@ -11066,7 +11773,12 @@
         "name": "MTX512",
         "matches": {
             "launchbox": [
-                "Memotech MTX512"
+                "Memotech MTX512",
+                "mtx_cass",
+                "mtx_flop",
+                "mtx_cart",
+                "mtx_hdd",
+                "mtx_rom"
             ],
             "tosec": [
                 "Memotech MTX - Applications",
@@ -11094,6 +11806,9 @@
         "matches": {
             "mame": [
                 "mephisto_mm1"
+            ],
+            "launchbox": [
+                "mephisto_mm1"
             ]
         },
         "company": "Mephisto",
@@ -11106,6 +11821,9 @@
         "name": "MM II",
         "matches": {
             "mame": [
+                "mephisto_mm2"
+            ],
+            "launchbox": [
                 "mephisto_mm2"
             ]
         },
@@ -11120,6 +11838,9 @@
         "matches": {
             "mame": [
                 "mephisto_mm4"
+            ],
+            "launchbox": [
+                "mephisto_mm4"
             ]
         },
         "company": "Mephisto",
@@ -11133,6 +11854,9 @@
         "matches": {
             "mame": [
                 "mephisto_mm5"
+            ],
+            "launchbox": [
+                "mephisto_mm5"
             ]
         },
         "company": "Mephisto",
@@ -11145,6 +11869,9 @@
         "name": "Super Mondial II",
         "matches": {
             "mame": [
+                "mephisto_smondial2"
+            ],
+            "launchbox": [
                 "mephisto_smondial2"
             ]
         },
@@ -11177,6 +11904,9 @@
                 "Micro Craft Dimension 68000 - Utilities"
             ],
             "mame": [
+                "dim68k"
+            ],
+            "launchbox": [
                 "dim68k"
             ]
         }
@@ -11259,7 +11989,10 @@
         "name": "MSX",
         "matches": {
             "launchbox": [
-                "Microsoft MSX"
+                "Microsoft MSX",
+                "msx1_cass",
+                "msx1_cart",
+                "msx1_flop"
             ],
             "nointro": [
                 "Microsoft - MSX"
@@ -11385,7 +12118,8 @@
                 "msxturbor"
             ],
             "launchbox": [
-                "Microsoft MSX"
+                "Microsoft MSX",
+                "msxr_flop"
             ],
             "retropie": [
                 "msx"
@@ -11419,7 +12153,10 @@
         "name": "MSX2",
         "matches": {
             "launchbox": [
-                "Microsoft MSX2"
+                "Microsoft MSX2",
+                "msx2_cass",
+                "msx2_cart",
+                "msx2_flop"
             ],
             "nointro": [
                 "Microsoft - MSX2"
@@ -11465,7 +12202,8 @@
         "matches": {
             "launchbox": [
                 "Microsoft MSX2+",
-                "Microsoft MSX2"
+                "Microsoft MSX2",
+                "msx2p_flop"
             ],
             "tosec": [
                 "MSX MSX2+ - Applications",
@@ -11574,7 +12312,8 @@
                 32
             ],
             "nointro": [
-                "Non-Redump - Microsoft - Xbox"
+                "Non-Redump - Microsoft - Xbox",
+                "Microsoft - Xbox (Development Kit Hard Drives)"
             ],
             "emucontrolcenter": [
                 "xbox"
@@ -11749,6 +12488,11 @@
             ],
             "oldcomputers": [
                 166
+            ],
+            "launchbox": [
+                "mt65_rom",
+                "mt65_cass",
+                "mt65_snap"
             ]
         },
         "company": "Microtan",
@@ -11763,6 +12507,9 @@
         "matches": {
             "mame": [
                 "mikro80"
+            ],
+            "launchbox": [
+                "mikro80"
             ]
         }
     },
@@ -11771,6 +12518,9 @@
         "name": "1",
         "matches": {
             "mame": [
+                "mm1_flop"
+            ],
+            "launchbox": [
                 "mm1_flop"
             ]
         },
@@ -11784,6 +12534,9 @@
         "name": "Wicat",
         "matches": {
             "mame": [
+                "wicat"
+            ],
+            "launchbox": [
                 "wicat"
             ]
         },
@@ -11801,6 +12554,9 @@
             ],
             "tgdb": [
                 4972
+            ],
+            "launchbox": [
+                "microvision"
             ]
         },
         "company": "Milton Bradley",
@@ -11826,6 +12582,9 @@
         "name": "Mindset",
         "matches": {
             "mame": [
+                "mindset_flop"
+            ],
+            "launchbox": [
                 "mindset_flop"
             ]
         },
@@ -11910,6 +12669,9 @@
         "matches": {
             "mame": [
                 "mpz80"
+            ],
+            "launchbox": [
+                "mpz80"
             ]
         },
         "company": "Morrow",
@@ -11958,6 +12720,9 @@
             ],
             "mame": [
                 "dmv"
+            ],
+            "launchbox": [
+                "dmv"
             ]
         },
         "company": "NCR",
@@ -11982,6 +12747,9 @@
             ],
             "oldcomputers": [
                 333
+            ],
+            "launchbox": [
+                "apc"
             ]
         },
         "company": "NEC",
@@ -12019,7 +12787,8 @@
                 "NEC SuperGrafx - Games"
             ],
             "launchbox": [
-                "PC Engine SuperGrafx"
+                "PC Engine SuperGrafx",
+                "sgx"
             ],
             "screenscraper": [
                 105
@@ -12083,6 +12852,9 @@
             ],
             "emutopia": [
                 346
+            ],
+            "launchbox": [
+                "pc6001_cart"
             ]
         },
         "company": "NEC",
@@ -12108,6 +12880,11 @@
             ],
             "emutopia": [
                 347
+            ],
+            "launchbox": [
+                "pc8001_flop",
+                "pc8001mk2_flop",
+                "pc8001mk2sr_flop"
             ]
         },
         "company": "NEC",
@@ -12123,6 +12900,9 @@
                 "NEC PC-8201 - Firmware"
             ],
             "mame": [
+                "pc8201"
+            ],
+            "launchbox": [
                 "pc8201"
             ]
         },
@@ -12174,7 +12954,10 @@
         "name": "PC-8801",
         "matches": {
             "launchbox": [
-                "NEC PC-8801"
+                "NEC PC-8801",
+                "pc8801_cass",
+                "pc8801_flop",
+                "pc8801_cdrom"
             ],
             "tosec": [
                 "NEC PC-8801 - Applications",
@@ -12243,6 +13026,9 @@
             ],
             "mame": [
                 "pc88va"
+            ],
+            "launchbox": [
+                "pc88va"
             ]
         },
         "company": "NEC",
@@ -12290,7 +13076,9 @@
         "name": "PC-9801",
         "matches": {
             "launchbox": [
-                "NEC PC-9801"
+                "NEC PC-9801",
+                "pc98",
+                "pc98_cd"
             ],
             "tosec": [
                 "NEC PC-9801 - Applications",
@@ -12389,7 +13177,9 @@
                 "turbo-grafx"
             ],
             "launchbox": [
-                "NEC TurboGrafx-16"
+                "NEC TurboGrafx-16",
+                "pce",
+                "pce_tourvision"
             ],
             "igdb": [
                 "128"
@@ -12437,6 +13227,9 @@
             ],
             "tosecpix": [
                 "NEC PC-Engine & TurboGrafx-16 - Manuals - Games"
+            ],
+            "launchbox": [
+                "pcecd"
             ]
         },
         "company": "NEC",
@@ -12477,7 +13270,8 @@
         "name": "PC-FX",
         "matches": {
             "launchbox": [
-                "NEC PC-FX"
+                "NEC PC-FX",
+                "pcfx"
             ],
             "oldcomputers": [
                 796
@@ -12635,7 +13429,8 @@
                 "tg16"
             ],
             "launchbox": [
-                "NEC TurboGrafx-16"
+                "NEC TurboGrafx-16",
+                "tg16"
             ],
             "tgdb": [
                 34
@@ -12761,6 +13556,11 @@
                 "nascom_flop",
                 "nascom_snap",
                 "nascom_socket"
+            ],
+            "launchbox": [
+                "nascom_snap",
+                "nascom_socket",
+                "nascom_flop"
             ]
         },
         "company": "Nascom",
@@ -12781,6 +13581,9 @@
             ],
             "nointro": [
                 "Nichibutsu - My Vision"
+            ],
+            "launchbox": [
+                "myvision"
             ]
         },
         "company": "Nichibutsu",
@@ -12873,7 +13676,8 @@
         "matches": {
             "launchbox": [
                 "Nintendo 64",
-                "Nintendo 64DD"
+                "Nintendo 64DD",
+                "n64"
             ],
             "nointro": [
                 "Nintendo - Nintendo 64 (BigEndian)",
@@ -12971,7 +13775,8 @@
         "name": "64DD",
         "matches": {
             "launchbox": [
-                "Nintendo 64DD"
+                "Nintendo 64DD",
+                "n64dd"
             ],
             "nointro": [
                 "Nintendo - Nintendo 64DD"
@@ -13138,7 +13943,13 @@
         "name": "Nintendo Entertainment System",
         "matches": {
             "launchbox": [
-                "Nintendo Entertainment System"
+                "Nintendo Entertainment System",
+                "nes",
+                "nes_ade",
+                "nes_ntbrom",
+                "nes_kstudio",
+                "nes_datach",
+                "nes_vt_cart"
             ],
             "nointro": [
                 "Nintendo - Nintendo Entertainment System (Headered)",
@@ -13254,7 +14065,9 @@
             ],
             "launchbox": [
                 "Nintendo Famicom Disk System",
-                "Nintendo Entertainment System"
+                "Nintendo Entertainment System",
+                "famicom_cass",
+                "famicom_flop"
             ],
             "tosec": [
                 "Nintendo Famicom Disk System - Applications",
@@ -13377,7 +14190,8 @@
         "name": "Game Boy",
         "matches": {
             "launchbox": [
-                "Nintendo Game Boy"
+                "Nintendo Game Boy",
+                "gameboy"
             ],
             "nointro": [
                 "Nintendo - Game Boy"
@@ -13450,13 +14264,15 @@
         "name": "Game Boy Advance",
         "matches": {
             "launchbox": [
-                "Nintendo Game Boy Advance"
+                "Nintendo Game Boy Advance",
+                "gba"
             ],
             "nointro": [
                 "Nintendo - Game Boy Advance",
                 "Nintendo - Game Boy Advance (Multiboot)",
                 "Nintendo - Game Boy Advance (Video)",
-                "Source Code - Nintendo - Game Boy Advance"
+                "Source Code - Nintendo - Game Boy Advance",
+                "Nintendo - Game Boy Advance (e-Reader)"
             ],
             "tosec": [
                 "Nintendo Game Boy Advance - Applications",
@@ -13532,7 +14348,8 @@
         "name": "Game Boy Color",
         "matches": {
             "launchbox": [
-                "Nintendo Game Boy Color"
+                "Nintendo Game Boy Color",
+                "gbcolor"
             ],
             "nointro": [
                 "Nintendo - Game Boy Color",
@@ -13728,7 +14545,8 @@
         "name": "Pokemon Mini",
         "matches": {
             "launchbox": [
-                "Nintendo Pokemon Mini"
+                "Nintendo Pokemon Mini",
+                "pokemini"
             ],
             "nointro": [
                 "Nintendo - Pokemon Mini"
@@ -13791,7 +14609,8 @@
         "name": "Satellaview",
         "matches": {
             "launchbox": [
-                "Nintendo Satellaview"
+                "Nintendo Satellaview",
+                "snes_bspack"
             ],
             "nointro": [
                 "Nintendo - Satellaview"
@@ -13872,7 +14691,8 @@
                 "snes"
             ],
             "launchbox": [
-                "Super Nintendo Entertainment System"
+                "Super Nintendo Entertainment System",
+                "snes_strom"
             ],
             "hfsdb": [
                 "190497"
@@ -13928,7 +14748,8 @@
                 6
             ],
             "launchbox": [
-                "Super Nintendo Entertainment System"
+                "Super Nintendo Entertainment System",
+                "snes"
             ],
             "mame": [
                 "snes"
@@ -14041,7 +14862,8 @@
         "name": "Virtual Boy",
         "matches": {
             "launchbox": [
-                "Nintendo Virtual Boy"
+                "Nintendo Virtual Boy",
+                "vboy"
             ],
             "nointro": [
                 "Nintendo - Virtual Boy"
@@ -14356,6 +15178,9 @@
             ],
             "oldcomputers": [
                 50
+            ],
+            "launchbox": [
+                "horizon"
             ]
         },
         "company": "NorthStar",
@@ -14383,6 +15208,10 @@
             "mame": [
                 "z80ne_cass",
                 "z80ne_flop"
+            ],
+            "launchbox": [
+                "z80ne_cass",
+                "z80ne_flop"
             ]
         },
         "company": "Nuova Elettronica",
@@ -14401,6 +15230,9 @@
                 "OCC Osborne 1 & Osborne Executive - Games - [COM]",
                 "OCC Osborne 1 & Osborne Executive - Games - [DSK]",
                 "OCC Osborne 1 & Osborne Executive - Various"
+            ],
+            "launchbox": [
+                "osborne2"
             ]
         },
         "company": "OCC",
@@ -14414,6 +15246,9 @@
         "matches": {
             "mame": [
                 "vixen"
+            ],
+            "launchbox": [
+                "vixen"
             ]
         },
         "company": "OCC",
@@ -14426,6 +15261,9 @@
         "name": "Osborne-1",
         "matches": {
             "mame": [
+                "osborne1"
+            ],
+            "launchbox": [
                 "osborne1"
             ]
         },
@@ -14475,6 +15313,9 @@
             ],
             "tosec": [
                 "Olivetti M20 - Games"
+            ],
+            "launchbox": [
+                "m20"
             ]
         },
         "company": "Olivetti",
@@ -14491,6 +15332,9 @@
             ],
             "oldcomputers": [
                 535
+            ],
+            "launchbox": [
+                "m24"
             ]
         },
         "company": "Olivetti",
@@ -14509,6 +15353,11 @@
             ],
             "oldcomputers": [
                 853
+            ],
+            "launchbox": [
+                "pro128_cart",
+                "pro128_cass",
+                "pro128_flop"
             ]
         },
         "company": "Olivetti",
@@ -14525,6 +15374,9 @@
             ],
             "oldcomputers": [
                 1055
+            ],
+            "launchbox": [
+                "pro128s_flop"
             ]
         },
         "company": "Olivetti",
@@ -14545,6 +15397,9 @@
                 1227
             ],
             "mame": [
+                "attache"
+            ],
+            "launchbox": [
                 "attache"
             ]
         },
@@ -14575,6 +15430,9 @@
         "matches": {
             "mame": [
                 "clipper_flop"
+            ],
+            "launchbox": [
+                "clipper_flop"
             ]
         },
         "company": "PDC",
@@ -14595,6 +15453,9 @@
                 981
             ],
             "mame": [
+                "orao"
+            ],
+            "launchbox": [
                 "orao"
             ]
         },
@@ -14627,6 +15488,9 @@
             ],
             "mame": [
                 "sol20_cass"
+            ],
+            "launchbox": [
+                "sol20_cass"
             ]
         },
         "company": "PTC",
@@ -14639,6 +15503,9 @@
         "name": "CX 3000 Tele Computer",
         "matches": {
             "mame": [
+                "cx3000tc"
+            ],
+            "launchbox": [
                 "cx3000tc"
             ]
         },
@@ -14746,6 +15613,9 @@
         "matches": {
             "mame": [
                 "jb3000_flop"
+            ],
+            "launchbox": [
+                "jb3000_flop"
             ]
         },
         "company": "Panasonic",
@@ -14759,6 +15629,10 @@
         "company": "Generic",
         "matches": {
             "mame": [
+                "partner_cass",
+                "partner_flop"
+            ],
+            "launchbox": [
                 "partner_cass",
                 "partner_flop"
             ]
@@ -14775,6 +15649,9 @@
             ],
             "mame": [
                 "aleste"
+            ],
+            "launchbox": [
+                "aleste"
             ]
         },
         "company": "Patisonic",
@@ -14788,6 +15665,9 @@
         "company": "Generic",
         "matches": {
             "mame": [
+                "pentagon_cass"
+            ],
+            "launchbox": [
                 "pentagon_cass"
             ]
         }
@@ -14810,7 +15690,8 @@
         "name": "CD-i",
         "matches": {
             "launchbox": [
-                "Philips CD-i"
+                "Philips CD-i",
+                "cdi"
             ],
             "redump": [
                 "Philips - CD-i"
@@ -14907,7 +15788,8 @@
         "name": "VG 5000",
         "matches": {
             "launchbox": [
-                "Philips VG 5000"
+                "Philips VG 5000",
+                "vg5k"
             ],
             "tosec": [
                 "Philips VG 5000 - Applications",
@@ -14935,6 +15817,9 @@
         "name": "Videopac / Odyssey 2",
         "matches": {
             "mame": [
+                "videopac"
+            ],
+            "launchbox": [
                 "videopac"
             ]
         },
@@ -15025,6 +15910,9 @@
         "matches": {
             "mame": [
                 "psion1"
+            ],
+            "launchbox": [
+                "psion1"
             ]
         },
         "company": "Psion",
@@ -15041,6 +15929,9 @@
             ],
             "oldcomputers": [
                 1203
+            ],
+            "launchbox": [
+                "psion2"
             ]
         },
         "company": "Psion",
@@ -15054,6 +15945,9 @@
         "matches": {
             "mame": [
                 "pi_storyreader_v2_cart"
+            ],
+            "launchbox": [
+                "pi_storyreader_v2_cart"
             ]
         },
         "company": "Publications International Ltd",
@@ -15066,6 +15960,9 @@
         "name": "Story Reader",
         "matches": {
             "mame": [
+                "pi_storyreader_cart"
+            ],
+            "launchbox": [
                 "pi_storyreader_cart"
             ]
         },
@@ -15090,6 +15987,9 @@
             ],
             "emutopia": [
                 322
+            ],
+            "launchbox": [
+                "chip8_quik"
             ]
         },
         "company": "RCA",
@@ -15115,7 +16015,8 @@
         "name": "Studio II",
         "matches": {
             "launchbox": [
-                "RCA Studio II"
+                "RCA Studio II",
+                "studio2"
             ],
             "nointro": [
                 "RCA - Studio II"
@@ -15173,6 +16074,9 @@
             ],
             "emutopia": [
                 356
+            ],
+            "launchbox": [
+                "vip"
             ]
         },
         "company": "RCA",
@@ -15194,6 +16098,9 @@
             ],
             "oldcomputers": [
                 1011
+            ],
+            "launchbox": [
+                "nimbus"
             ]
         },
         "company": "RM",
@@ -15206,6 +16113,9 @@
         "name": "CBX 9751 floppy",
         "matches": {
             "mame": [
+                "r9751"
+            ],
+            "launchbox": [
                 "r9751"
             ]
         },
@@ -15240,6 +16150,10 @@
             ],
             "emucontrolcenter": [
                 "r86rk"
+            ],
+            "launchbox": [
+                "radio86_cass",
+                "radio86_cart"
             ]
         },
         "company": "Radio-86RK",
@@ -15279,7 +16193,9 @@
         "name": "Mikrosha",
         "matches": {
             "launchbox": [
-                "Radio-86RK Mikrosha"
+                "Radio-86RK Mikrosha",
+                "mikrosha_cass",
+                "mikrosha_cart"
             ],
             "tosec": [
                 "Radio-86RK Mikrosha - Various"
@@ -15445,6 +16361,9 @@
             ],
             "oldcomputers": [
                 58
+            ],
+            "launchbox": [
+                "aim65_cart"
             ]
         },
         "company": "Rockwell",
@@ -15459,6 +16378,9 @@
         "matches": {
             "mame": [
                 "r8_card"
+            ],
+            "launchbox": [
+                "r8_card"
             ]
         },
         "altNames": [
@@ -15472,6 +16394,9 @@
         "matches": {
             "mame": [
                 "roland_tnsc1"
+            ],
+            "launchbox": [
+                "roland_tnsc1"
             ]
         },
         "altNames": [
@@ -15484,6 +16409,9 @@
         "company": "Roland",
         "matches": {
             "mame": [
+                "u110_card"
+            ],
+            "launchbox": [
                 "u110_card"
             ]
         },
@@ -15500,6 +16428,9 @@
             ],
             "oldcomputers": [
                 727
+            ],
+            "launchbox": [
+                "rwtrntcs"
             ]
         },
         "company": "Rowtron",
@@ -15530,6 +16461,9 @@
             ],
             "oldcomputers": [
                 805
+            ],
+            "launchbox": [
+                "sdk85"
             ]
         }
     },
@@ -15538,6 +16472,10 @@
         "name": "MIPS/IRIX",
         "matches": {
             "mame": [
+                "sgi_mips",
+                "sgi_mips_hdd"
+            ],
+            "launchbox": [
                 "sgi_mips",
                 "sgi_mips_hdd"
             ]
@@ -15584,7 +16522,8 @@
                 24
             ],
             "launchbox": [
-                "SNK Neo Geo AES"
+                "SNK Neo Geo AES",
+                "neogeo"
             ],
             "screenscraper": [
                 142
@@ -15664,7 +16603,8 @@
         "name": "Neo Geo CD",
         "matches": {
             "launchbox": [
-                "SNK Neo Geo CD"
+                "SNK Neo Geo CD",
+                "neocd"
             ],
             "redump": [
                 "SNK - Neo Geo CD"
@@ -15757,7 +16697,8 @@
                 "SNK Neo-Geo Pocket - Games"
             ],
             "launchbox": [
-                "SNK Neo Geo Pocket"
+                "SNK Neo Geo Pocket",
+                "ngp"
             ],
             "nointro": [
                 "SNK - Neo Geo Pocket"
@@ -15833,7 +16774,8 @@
                 "SNK Neo-Geo Pocket Color - Samplers"
             ],
             "launchbox": [
-                "SNK Neo Geo Pocket Color"
+                "SNK Neo Geo Pocket Color",
+                "ngpc"
             ],
             "nointro": [
                 "SNK - Neo Geo Pocket Color"
@@ -15914,6 +16856,9 @@
         "matches": {
             "mame": [
                 "softbox"
+            ],
+            "launchbox": [
+                "softbox"
             ]
         },
         "company": "SSE",
@@ -15930,6 +16875,9 @@
             ],
             "oldcomputers": [
                 607
+            ],
+            "launchbox": [
+                "sage2"
             ]
         },
         "company": "Sage",
@@ -15942,6 +16890,9 @@
         "name": "Endgame",
         "matches": {
             "mame": [
+                "saitek_egr"
+            ],
+            "launchbox": [
                 "saitek_egr"
             ]
         },
@@ -15956,6 +16907,9 @@
         "matches": {
             "mame": [
                 "saitek_kso"
+            ],
+            "launchbox": [
+                "saitek_kso"
             ]
         },
         "company": "Saitek",
@@ -15968,6 +16922,9 @@
         "name": "Kasparov Sensor Chess",
         "matches": {
             "mame": [
+                "saitek_schess"
+            ],
+            "launchbox": [
                 "saitek_schess"
             ]
         },
@@ -16052,6 +17009,9 @@
             ],
             "tosec": [
                 "Samsung SPC-1000 - Games"
+            ],
+            "launchbox": [
+                "spc1000_cass"
             ]
         },
         "company": "Samsung",
@@ -16065,6 +17025,9 @@
         "matches": {
             "mame": [
                 "spc1500_cass"
+            ],
+            "launchbox": [
+                "spc1500_cass"
             ]
         },
         "company": "Samsung",
@@ -16077,6 +17040,9 @@
         "name": "MBC-200-MBC-1200",
         "matches": {
             "mame": [
+                "mbc200"
+            ],
+            "launchbox": [
                 "mbc200"
             ]
         },
@@ -16117,6 +17083,9 @@
                 "Sanyo MBC-550 & 555 - Games - [TD0]",
                 "Sanyo MBC-550 & 555 - Operating Systems - [DSK]",
                 "Sanyo MBC-550 & 555 - Operating Systems - [IMA]"
+            ],
+            "launchbox": [
+                "mbc55x"
             ]
         },
         "company": "Sanyo",
@@ -16129,7 +17098,8 @@
         "name": "32X",
         "matches": {
             "launchbox": [
-                "Sega 32X"
+                "Sega 32X",
+                "32x"
             ],
             "nointro": [
                 "Sega - 32X"
@@ -16220,6 +17190,9 @@
             ],
             "nointro": [
                 "Sega - Beena"
+            ],
+            "launchbox": [
+                "sega_beena_cart"
             ]
         },
         "company": "Sega",
@@ -16232,7 +17205,8 @@
         "name": "CD",
         "matches": {
             "launchbox": [
-                "Sega CD"
+                "Sega CD",
+                "segacd"
             ],
             "nointro": [
                 "Non-Redump - Sega - Sega Mega CD + Sega CD"
@@ -16363,6 +17337,10 @@
             ],
             "tosecpix": [
                 "Sega Computer 3000 - Catalogs"
+            ],
+            "launchbox": [
+                "sc3000_cart",
+                "sc3000_cass"
             ]
         },
         "company": "Sega",
@@ -16376,7 +17354,8 @@
         "matches": {
             "launchbox": [
                 "Sega Dreamcast",
-                "Sega Dreamcast VMU"
+                "Sega Dreamcast VMU",
+                "dc"
             ],
             "redump": [
                 "Sega - Dreamcast"
@@ -16423,7 +17402,9 @@
                 "Sega Dreamcast - Various Unverified Dumps"
             ],
             "nointro": [
-                "Non-Redump - Sega - Dreamcast"
+                "Non-Redump - Sega - Dreamcast",
+                "Sega - Dreamcast (Visual Memory Unit)",
+                "Source Code - Sega - DreamCast"
             ],
             "screenscraper": [
                 23
@@ -16547,7 +17528,8 @@
         "name": "Game Gear",
         "matches": {
             "launchbox": [
-                "Sega Game Gear"
+                "Sega Game Gear",
+                "gamegear"
             ],
             "nointro": [
                 "Sega - Game Gear"
@@ -16629,7 +17611,8 @@
                 "gen"
             ],
             "launchbox": [
-                "Sega Genesis"
+                "Sega Genesis",
+                "megadriv"
             ],
             "tgdb": [
                 18
@@ -16747,6 +17730,9 @@
         "matches": {
             "mame": [
                 "md2_flop"
+            ],
+            "launchbox": [
+                "md2_flop"
             ]
         },
         "company": "Sega",
@@ -16770,7 +17756,8 @@
                 "Sega - Master System - Mark III"
             ],
             "launchbox": [
-                "Sega Master System"
+                "Sega Master System",
+                "sms"
             ],
             "tgdb": [
                 35
@@ -16849,6 +17836,10 @@
             ],
             "retrobat": [
                 "segacd"
+            ],
+            "launchbox": [
+                "megacd",
+                "megacdj"
             ]
         },
         "company": "Sega",
@@ -16880,6 +17871,9 @@
         "name": "MegaTech",
         "matches": {
             "mame": [
+                "megatech"
+            ],
+            "launchbox": [
                 "megatech"
             ]
         },
@@ -17165,7 +18159,8 @@
         "name": "Pico",
         "matches": {
             "launchbox": [
-                "Sega Pico"
+                "Sega Pico",
+                "pico"
             ],
             "tosec": [
                 "Sega Pico - Educational",
@@ -17253,7 +18248,8 @@
         "name": "SG-1000",
         "matches": {
             "launchbox": [
-                "Sega SG-1000"
+                "Sega SG-1000",
+                "sg1000"
             ],
             "nointro": [
                 "Sega - SG-1000"
@@ -17333,7 +18329,9 @@
         "name": "Saturn",
         "matches": {
             "launchbox": [
-                "Sega Saturn"
+                "Sega Saturn",
+                "saturn",
+                "sat_cart"
             ],
             "redump": [
                 "Sega - Saturn"
@@ -17431,6 +18429,9 @@
         "matches": {
             "mame": [
                 "sawatte"
+            ],
+            "launchbox": [
+                "sawatte"
             ]
         },
         "company": "Sega",
@@ -17460,6 +18461,9 @@
         "name": "Super Control Station SF-7000",
         "matches": {
             "mame": [
+                "sf7000"
+            ],
+            "launchbox": [
                 "sf7000"
             ]
         },
@@ -17506,6 +18510,9 @@
             ],
             "emucontrolcenter": [
                 "stv"
+            ],
+            "launchbox": [
+                "stv"
             ]
         },
         "company": "Sega",
@@ -17525,6 +18532,9 @@
                 "Sega Visual Memory System - Multimedia"
             ],
             "mame": [
+                "svmu"
+            ],
+            "launchbox": [
                 "svmu"
             ]
         },
@@ -17584,6 +18594,10 @@
             ],
             "emucontrolcenter": [
                 "mz2000"
+            ],
+            "launchbox": [
+                "mz2000_flop",
+                "mz2000_cass"
             ]
         },
         "company": "Sharp",
@@ -17604,6 +18618,9 @@
             ],
             "nointro": [
                 "Sharp - MZ-2200 (Waveform)"
+            ],
+            "launchbox": [
+                "mz2200_cass"
             ]
         },
         "company": "Sharp",
@@ -17616,7 +18633,8 @@
         "name": "MZ-2500",
         "matches": {
             "launchbox": [
-                "Sharp MZ-2500"
+                "Sharp MZ-2500",
+                "mz2500"
             ],
             "mame": [
                 "mz2500"
@@ -17649,6 +18667,9 @@
             ],
             "nointro": [
                 "Sharp - MZ-700 (Waveform)"
+            ],
+            "launchbox": [
+                "mz700_cass"
             ]
         },
         "company": "Sharp",
@@ -17669,6 +18690,9 @@
                 "Sharp MZ-800 & MZ-1500 - Games - [MZF]",
                 "Sharp MZ-800 & MZ-1500 - Games - [MZT]",
                 "Sharp MZ-800 & MZ-1500 - Games - [WAV]"
+            ],
+            "launchbox": [
+                "mz800_cass"
             ]
         },
         "company": "Sharp",
@@ -17713,6 +18737,9 @@
             ],
             "mame": [
                 "wizard_cart"
+            ],
+            "launchbox": [
+                "wizard_cart"
             ]
         },
         "altNames": [
@@ -17724,7 +18751,9 @@
         "name": "X1",
         "matches": {
             "launchbox": [
-                "Sharp X1"
+                "Sharp X1",
+                "x1_flop",
+                "x1_cass"
             ],
             "tosec": [
                 "Sharp X1 - Applications - [2D]",
@@ -17810,7 +18839,8 @@
         "matches": {
             "launchbox": [
                 "Sharp X68000",
-                "Fujitsu FM Towns Marty"
+                "Fujitsu FM Towns Marty",
+                "x68k_flop"
             ],
             "tosec": [
                 "Sharp X68000 - Applications",
@@ -17887,6 +18917,9 @@
         "matches": {
             "mame": [
                 "pcd_flop"
+            ],
+            "launchbox": [
+                "pcd_flop"
             ]
         },
         "company": "Siemens",
@@ -17899,6 +18932,9 @@
         "name": "PC-X",
         "matches": {
             "mame": [
+                "pcx_flop"
+            ],
+            "launchbox": [
                 "pcx_flop"
             ]
         },
@@ -17913,6 +18949,9 @@
         "company": "Sinclair",
         "matches": {
             "mame": [
+                "pc200"
+            ],
+            "launchbox": [
                 "pc200"
             ]
         },
@@ -17943,6 +18982,11 @@
             ],
             "emutopia": [
                 361
+            ],
+            "launchbox": [
+                "ql_cart",
+                "ql_cass",
+                "ql_flop"
             ]
         },
         "company": "Sinclair",
@@ -17955,6 +18999,9 @@
         "name": "ZX Microdrive",
         "matches": {
             "mame": [
+                "spectrum_microdrive"
+            ],
+            "launchbox": [
                 "spectrum_microdrive"
             ]
         },
@@ -17971,7 +19018,14 @@
                 "Sinclair - ZX Spectrum +3"
             ],
             "launchbox": [
-                "Sinclair ZX Spectrum"
+                "Sinclair ZX Spectrum",
+                "spectrum_cass",
+                "spectrum_betadisc_flop",
+                "specpls3_flop",
+                "spectrum_cart",
+                "spectrum_flop_opus",
+                "spectrum_mgt_flop",
+                "spectrum_wafadrive"
             ],
             "tosec": [
                 "Sinclair ZX Spectrum - Applications - [$B]",
@@ -18233,6 +19287,9 @@
             ],
             "tosec": [
                 "Sinclair ZX80 - Games"
+            ],
+            "launchbox": [
+                "zx80_cass"
             ]
         },
         "company": "Sinclair",
@@ -18245,7 +19302,8 @@
         "name": "ZX-81",
         "matches": {
             "launchbox": [
-                "Sinclair ZX-81"
+                "Sinclair ZX-81",
+                "zx81_cass"
             ],
             "tosec": [
                 "Sinclair ZX81 - Applications - [Multipart]",
@@ -18331,7 +19389,8 @@
         "name": "Playstation",
         "matches": {
             "launchbox": [
-                "Sony Playstation"
+                "Sony Playstation",
+                "psx"
             ],
             "tgdb": [
                 10
@@ -18527,7 +19586,8 @@
             "nointro": [
                 "Sony - PlayStation 3 (PSN) (Content)",
                 "Sony - PlayStation 3 (PSN) (Updates)",
-                "Unofficial - Sony - PlayStation 3 (PSN) (Decrypted)"
+                "Unofficial - Sony - PlayStation 3 (PSN) (Decrypted)",
+                "Sony - PlayStation 3 (Development Kit Hard Drives) (Decrypted)"
             ],
             "redump": [
                 "Sony - PlayStation 3"
@@ -18789,6 +19849,9 @@
                 "Sony SMC-777 - Games - [D88]",
                 "Sony SMC-777 - Games - [DSK]",
                 "Sony SMC-777 - Games - [RAW]"
+            ],
+            "launchbox": [
+                "smc777"
             ]
         },
         "company": "Sony",
@@ -18820,7 +19883,10 @@
         "name": "M5",
         "matches": {
             "launchbox": [
-                "Sord M5"
+                "Sord M5",
+                "m5_cart",
+                "m5_cass",
+                "m5_flop"
             ],
             "tosec": [
                 "Sord M5 - Applications - [BIN]",
@@ -18852,6 +19918,10 @@
             "mame": [
                 "special_cass",
                 "special_flop"
+            ],
+            "launchbox": [
+                "special_cass",
+                "special_flop"
             ]
         }
     },
@@ -18870,7 +19940,10 @@
                 "svi318_flop"
             ],
             "launchbox": [
-                "Spectravideo"
+                "Spectravideo",
+                "svi318_cass",
+                "svi318_cart",
+                "svi318_flop"
             ],
             "screenscraper": [
                 218
@@ -18909,6 +19982,9 @@
         "matches": {
             "mame": [
                 "sbrain"
+            ],
+            "launchbox": [
+                "sbrain"
             ]
         }
     },
@@ -18918,6 +19994,9 @@
         "company": "Generic",
         "matches": {
             "mame": [
+                "novag_ssensor4"
+            ],
+            "launchbox": [
                 "novag_ssensor4"
             ]
         }
@@ -18944,6 +20023,9 @@
             ],
             "mame": [
                 "h21"
+            ],
+            "launchbox": [
+                "h21"
             ]
         },
         "company": "TRQ",
@@ -18957,6 +20039,9 @@
         "company": "Taikee",
         "matches": {
             "mame": [
+                "singingstarkaraoke_cart"
+            ],
+            "launchbox": [
                 "singingstarkaraoke_cart"
             ]
         },
@@ -19000,6 +20085,9 @@
         "matches": {
             "mame": [
                 "jpopira_jp"
+            ],
+            "launchbox": [
+                "jpopira_jp"
             ]
         },
         "company": "Takara",
@@ -19027,6 +20115,23 @@
                 "ekara_japan",
                 "ekara_japan_en",
                 "ekara_japan_p"
+            ],
+            "launchbox": [
+                "ekara_japan_p",
+                "ekara_us",
+                "ekara_pal",
+                "ekara_japan",
+                "ekara_japan_g",
+                "ekara_japan_s",
+                "ekara_japan_m",
+                "ekara_japan_d",
+                "ekara_japan_en",
+                "ekara_japan_sp",
+                "ekara_japan_web",
+                "ekara_japan_a",
+                "ekara_japan_gk",
+                "ekara_japan_bh",
+                "ekara_japan_ac"
             ]
         },
         "company": "Takara",
@@ -19039,6 +20144,9 @@
         "name": "TDV 2324",
         "matches": {
             "mame": [
+                "tdv2324"
+            ],
+            "launchbox": [
                 "tdv2324"
             ]
         },
@@ -19066,7 +20174,12 @@
             ],
             "launchbox": [
                 "TRS-80 Color Computer",
-                "Tandy TRS-80"
+                "Tandy TRS-80",
+                "coco_cart",
+                "coco_flop",
+                "trs80_cass",
+                "trs80_quik",
+                "trs80_flop"
             ],
             "tgdb": [
                 4941
@@ -19152,6 +20265,9 @@
             ],
             "mame": [
                 "mc10"
+            ],
+            "launchbox": [
+                "mc10"
             ]
         },
         "company": "Tandy Radio Shack",
@@ -19168,6 +20284,9 @@
                 "Tandy Radio Shack TRS-80 Model 100 - Games - [CO]"
             ],
             "mame": [
+                "trsm100"
+            ],
+            "launchbox": [
                 "trsm100"
             ]
         },
@@ -19208,6 +20327,9 @@
         "matches": {
             "mame": [
                 "trs80m2"
+            ],
+            "launchbox": [
+                "trs80m2"
             ]
         },
         "company": "Tandy Radio Shack",
@@ -19237,6 +20359,9 @@
         "matches": {
             "mame": [
                 "t1000"
+            ],
+            "launchbox": [
+                "t1000"
             ]
         },
         "company": "Tandy Radio Shack",
@@ -19250,6 +20375,9 @@
         "matches": {
             "mame": [
                 "tandy200"
+            ],
+            "launchbox": [
+                "tandy200"
             ]
         },
         "company": "Tandy Radio Shack",
@@ -19262,6 +20390,9 @@
         "name": "Tandy 2000",
         "matches": {
             "mame": [
+                "tandy2k"
+            ],
+            "launchbox": [
                 "tandy2k"
             ]
         },
@@ -19425,6 +20556,9 @@
             ],
             "emucontrolcenter": [
                 "einst"
+            ],
+            "launchbox": [
+                "einstein"
             ]
         },
         "company": "Tatung",
@@ -19444,7 +20578,8 @@
                 "pegasus_cart"
             ],
             "launchbox": [
-                "Aamber Pegasus"
+                "Aamber Pegasus",
+                "pegasus_cart"
             ],
             "tosecpix": [
                 "Technosys Aamber Pegasus - Magazines - Pegasus Newsletter (NZ)",
@@ -19471,6 +20606,9 @@
             ],
             "tosec": [
                 "Tektronix 405x - Utilities"
+            ],
+            "launchbox": [
+                "tek4052_cart"
             ]
         },
         "company": "Tektronix",
@@ -19524,6 +20662,9 @@
             ],
             "oldcomputers": [
                 637
+            ],
+            "launchbox": [
+                "zorba"
             ]
         },
         "company": "Telcon",
@@ -19586,6 +20727,9 @@
             ],
             "nointro": [
                 "TeleNova - Compis (Flux)"
+            ],
+            "launchbox": [
+                "compis"
             ]
         },
         "company": "Telenova",
@@ -19633,6 +20777,9 @@
             "tosec": [
                 "Tesla Ondra Vili - Games - [TAP]",
                 "Tesla Ondra Vili - Games - [WAV]"
+            ],
+            "launchbox": [
+                "ondra"
             ]
         },
         "company": "Tesla",
@@ -19660,6 +20807,9 @@
             ],
             "emucontrolcenter": [
                 "pmd85"
+            ],
+            "launchbox": [
+                "pmd85_cass"
             ]
         },
         "company": "Tesla",
@@ -19678,6 +20828,9 @@
             ],
             "mame": [
                 "cc40_cart"
+            ],
+            "launchbox": [
+                "cc40_cart"
             ]
         },
         "company": "Texas Instruments",
@@ -19691,6 +20844,9 @@
         "matches": {
             "mame": [
                 "snread"
+            ],
+            "launchbox": [
+                "snread"
             ]
         },
         "company": "Texas Instruments",
@@ -19703,6 +20859,9 @@
         "name": "Speak & Spell",
         "matches": {
             "mame": [
+                "snspell"
+            ],
+            "launchbox": [
                 "snspell"
             ]
         },
@@ -19742,6 +20901,9 @@
             ],
             "tosec": [
                 "Texas Instruments TI-74 - Cartridges"
+            ],
+            "launchbox": [
+                "ti74_cart"
             ]
         },
         "company": "Texas Instruments",
@@ -19913,6 +21075,9 @@
             ],
             "tosec": [
                 "Texas Instruments TI-95 - Cartridges"
+            ],
+            "launchbox": [
+                "ti95_cart"
             ]
         },
         "company": "Texas Instruments",
@@ -19938,7 +21103,8 @@
                 "Texas Instruments TI-99 4A - Various"
             ],
             "launchbox": [
-                "Texas Instruments TI 99/4A"
+                "Texas Instruments TI 99/4A",
+                "ti99_cart"
             ],
             "mame": [
                 "ti99_cart"
@@ -20050,6 +21216,12 @@
             ],
             "retrobat": [
                 "thomson"
+            ],
+            "launchbox": [
+                "mo5_cart",
+                "mo5_cass",
+                "mo5_flop",
+                "mo5_qd"
             ]
         },
         "company": "Thomson",
@@ -20073,6 +21245,10 @@
             ],
             "recalbox": [
                 "thomson"
+            ],
+            "launchbox": [
+                "mo6_cass",
+                "mo6_flop"
             ]
         },
         "company": "Thomson",
@@ -20085,6 +21261,9 @@
         "name": "TO-series",
         "matches": {
             "mame": [
+                "to_flop"
+            ],
+            "launchbox": [
                 "to_flop"
             ]
         },
@@ -20120,6 +21299,11 @@
             ],
             "recalbox": [
                 "thomson"
+            ],
+            "launchbox": [
+                "to7_cart",
+                "to7_cass",
+                "to7_qd"
             ]
         },
         "company": "Thomson",
@@ -20140,6 +21324,10 @@
             ],
             "recalbox": [
                 "thomson"
+            ],
+            "launchbox": [
+                "to770_cart",
+                "to770a_cart"
             ]
         },
         "company": "Thomson",
@@ -20173,6 +21361,10 @@
             ],
             "hfsdb": [
                 "183673"
+            ],
+            "launchbox": [
+                "to8_cass",
+                "to8_qd"
             ]
         },
         "company": "Thomson",
@@ -20226,7 +21418,8 @@
             ],
             "launchbox": [
                 "Tiger Game.com",
-                "Android"
+                "Android",
+                "gamecom"
             ],
             "nointro": [
                 "Tiger - Game.com"
@@ -20286,6 +21479,9 @@
             ],
             "mame": [
                 "k28m2"
+            ],
+            "launchbox": [
+                "k28m2"
             ]
         },
         "company": "Tiger Electronics",
@@ -20299,6 +21495,9 @@
         "company": "Tiger Electronics",
         "matches": {
             "mame": [
+                "playmaker"
+            ],
+            "launchbox": [
                 "playmaker"
             ]
         },
@@ -20337,6 +21536,9 @@
             ],
             "oldcomputers": [
                 734
+            ],
+            "launchbox": [
+                "tiki100"
             ]
         },
         "company": "Tiki Data",
@@ -20357,6 +21559,9 @@
             ],
             "emutopia": [
                 267
+            ],
+            "launchbox": [
+                "gameking"
             ]
         },
         "company": "TimeTop",
@@ -20372,6 +21577,9 @@
                 "TimeTop GameKing 3 - Games"
             ],
             "mame": [
+                "gameking3"
+            ],
+            "launchbox": [
                 "gameking3"
             ]
         },
@@ -20393,6 +21601,10 @@
             ],
             "tosec": [
                 "Timex Sinclair TS-2068 - Games"
+            ],
+            "launchbox": [
+                "timex_cass",
+                "timex_dock"
             ]
         },
         "company": "Timex Sinclair",
@@ -20421,6 +21633,9 @@
         "name": "Prin-C",
         "matches": {
             "mame": [
+                "princ"
+            ],
+            "launchbox": [
                 "princ"
             ]
         },
@@ -20470,6 +21685,9 @@
             ],
             "emucontrolcenter": [
                 "tutor"
+            ],
+            "launchbox": [
+                "tutor"
             ]
         },
         "company": "Tomy",
@@ -20483,6 +21701,9 @@
         "matches": {
             "mame": [
                 "evio"
+            ],
+            "launchbox": [
+                "evio"
             ]
         },
         "company": "Tomy",
@@ -20495,6 +21716,9 @@
         "name": "Co-Processor",
         "matches": {
             "mame": [
+                "bbc_flop_torch"
+            ],
+            "launchbox": [
                 "bbc_flop_torch"
             ]
         },
@@ -20543,6 +21767,9 @@
                 "Toshiba Pasopia - Firmware",
                 "Toshiba Pasopia - Games - [BIN]",
                 "Toshiba Pasopia - Games - [WAV]"
+            ],
+            "launchbox": [
+                "pasopia_cass"
             ]
         },
         "company": "Toshiba",
@@ -20564,6 +21791,9 @@
             ],
             "nointro": [
                 "Toshiba - Visicom"
+            ],
+            "launchbox": [
+                "visicom"
             ]
         },
         "company": "Toshiba",
@@ -20577,6 +21807,9 @@
         "company": "Generic",
         "matches": {
             "mame": [
+                "tntell"
+            ],
+            "launchbox": [
                 "tntell"
             ]
         }
@@ -20600,6 +21833,9 @@
         "matches": {
             "mame": [
                 "tvgogo"
+            ],
+            "launchbox": [
+                "tvgogo"
             ]
         },
         "company": "Toyquest",
@@ -20620,6 +21856,10 @@
             ],
             "oldcomputers": [
                 241
+            ],
+            "launchbox": [
+                "alphatro_flop",
+                "alphatro_cart"
             ]
         },
         "company": "Triumph-Adler",
@@ -20694,7 +21934,9 @@
         "name": "Vector-06C",
         "matches": {
             "launchbox": [
-                "Vector-06C"
+                "Vector-06C",
+                "vector06_flop",
+                "vector06_cart"
             ],
             "mame": [
                 "vector06_cart",
@@ -20714,6 +21956,9 @@
         "name": "Champion 2711",
         "matches": {
             "mame": [
+                "unichamp"
+            ],
+            "launchbox": [
                 "unichamp"
             ]
         },
@@ -20771,6 +22016,9 @@
             ],
             "arrm": [
                 "uzebox"
+            ],
+            "launchbox": [
+                "uzebox"
             ]
         },
         "company": "Uzebox"
@@ -20783,6 +22031,9 @@
                 "VEB Mikroelektronik Erfurt Chess-Master Diamond - Modules"
             ],
             "mame": [
+                "chessmstdm"
+            ],
+            "launchbox": [
                 "chessmstdm"
             ]
         },
@@ -20799,6 +22050,11 @@
                 "kc_cart",
                 "kc_cass",
                 "kc_flop"
+            ],
+            "launchbox": [
+                "kc_cart",
+                "kc_flop",
+                "kc_cass"
             ]
         },
         "company": "VEB Mikroelektronik",
@@ -20814,7 +22070,8 @@
                 "VM Labs - NUON"
             ],
             "launchbox": [
-                "Nuon"
+                "Nuon",
+                "nuon"
             ],
             "tgdb": [
                 4935
@@ -20849,7 +22106,8 @@
                 "crvision"
             ],
             "launchbox": [
-                "VTech CreatiVision"
+                "VTech CreatiVision",
+                "crvision"
             ],
             "nointro": [
                 "VTech - CreatiVision"
@@ -20905,6 +22163,9 @@
         "matches": {
             "mame": [
                 "iq128"
+            ],
+            "launchbox": [
+                "iq128"
             ]
         },
         "company": "VTech",
@@ -20917,6 +22178,9 @@
         "name": "Genius Junior 4000",
         "matches": {
             "mame": [
+                "gj4000"
+            ],
+            "launchbox": [
                 "gj4000"
             ]
         },
@@ -20934,6 +22198,9 @@
             ],
             "mame": [
                 "gjmovie"
+            ],
+            "launchbox": [
+                "gjmovie"
             ]
         },
         "company": "VTech",
@@ -20946,6 +22213,9 @@
         "name": "Genius Junior Redstar",
         "matches": {
             "mame": [
+                "gjrstar"
+            ],
+            "launchbox": [
                 "gjrstar"
             ]
         },
@@ -20964,6 +22234,9 @@
             ],
             "mame": [
                 "gl2000"
+            ],
+            "launchbox": [
+                "gl2000"
             ]
         },
         "company": "VTech",
@@ -20980,6 +22253,9 @@
             ],
             "mame": [
                 "gl6000sl"
+            ],
+            "launchbox": [
+                "gl6000sl"
             ]
         },
         "company": "VTech",
@@ -20992,6 +22268,9 @@
         "name": "Genius Leader CX",
         "matches": {
             "mame": [
+                "glcx"
+            ],
+            "launchbox": [
                 "glcx"
             ]
         },
@@ -21009,6 +22288,9 @@
             ],
             "mame": [
                 "glcolor"
+            ],
+            "launchbox": [
+                "glcolor"
             ]
         },
         "company": "VTech",
@@ -21021,6 +22303,9 @@
         "name": "Genius Leader Notebook",
         "matches": {
             "mame": [
+                "gln"
+            ],
+            "launchbox": [
                 "gln"
             ]
         },
@@ -21035,6 +22320,9 @@
         "matches": {
             "mame": [
                 "gls"
+            ],
+            "launchbox": [
+                "gls"
             ]
         },
         "company": "VTech",
@@ -21047,6 +22335,9 @@
         "name": "IQ Unlimited",
         "matches": {
             "mame": [
+                "iqunlim_cart"
+            ],
+            "launchbox": [
                 "iqunlim_cart"
             ]
         },
@@ -21062,6 +22353,9 @@
         "matches": {
             "mame": [
                 "vtech_innotab_cart"
+            ],
+            "launchbox": [
+                "vtech_innotab_cart"
             ]
         },
         "altNames": [
@@ -21074,6 +22368,9 @@
         "company": "VTech",
         "matches": {
             "mame": [
+                "vtech_innotv_cart"
+            ],
+            "launchbox": [
                 "vtech_innotv_cart"
             ]
         },
@@ -21116,6 +22413,10 @@
             ],
             "oldcomputers": [
                 43
+            ],
+            "launchbox": [
+                "laser2001_cart",
+                "laser2001_flop"
             ]
         },
         "company": "VTech",
@@ -21176,6 +22477,9 @@
         "matches": {
             "mame": [
                 "vtech2_cass"
+            ],
+            "launchbox": [
+                "vtech2_cass"
             ]
         },
         "altNames": [
@@ -21191,6 +22495,9 @@
             ],
             "nointro": [
                 "VTech - Mobigo"
+            ],
+            "launchbox": [
+                "mobigo_cart"
             ]
         },
         "company": "VTech",
@@ -21204,6 +22511,9 @@
         "matches": {
             "mame": [
                 "pc1000"
+            ],
+            "launchbox": [
+                "pc1000"
             ]
         },
         "company": "VTech",
@@ -21216,7 +22526,8 @@
         "name": "Socrates",
         "matches": {
             "launchbox": [
-                "VTech Socrates"
+                "VTech Socrates",
+                "socrates"
             ],
             "mame": [
                 "socrates"
@@ -21245,6 +22556,9 @@
         "matches": {
             "mame": [
                 "vtech_storio_cart"
+            ],
+            "launchbox": [
+                "vtech_storio_cart"
             ]
         },
         "company": "VTech",
@@ -21257,6 +22571,9 @@
         "name": "V.Baby",
         "matches": {
             "mame": [
+                "vbaby_cart"
+            ],
+            "launchbox": [
                 "vbaby_cart"
             ]
         },
@@ -21281,6 +22598,9 @@
             ],
             "toseciso": [
                 "VTech V.Flash Home Edutainment System - Educational"
+            ],
+            "launchbox": [
+                "vsmile_cd"
             ]
         },
         "company": "VTech",
@@ -21312,6 +22632,9 @@
             ],
             "hfsdb": [
                 "240929"
+            ],
+            "launchbox": [
+                "vsmile_cart"
             ]
         },
         "company": "VTech",
@@ -21324,6 +22647,9 @@
         "name": "V.Smile Baby",
         "matches": {
             "mame": [
+                "vsmileb_cart"
+            ],
+            "launchbox": [
                 "vsmileb_cart"
             ]
         },
@@ -21338,6 +22664,9 @@
         "matches": {
             "mame": [
                 "vsmilem_cart"
+            ],
+            "launchbox": [
+                "vsmilem_cart"
             ]
         },
         "company": "VTech",
@@ -21351,6 +22680,9 @@
         "matches": {
             "mame": [
                 "victor9k_flop"
+            ],
+            "launchbox": [
+                "victor9k_flop"
             ]
         },
         "company": "Victor",
@@ -21363,6 +22695,9 @@
         "name": "Family Computer",
         "matches": {
             "mame": [
+                "vidbrain"
+            ],
+            "launchbox": [
                 "vidbrain"
             ]
         },
@@ -21391,6 +22726,11 @@
             ],
             "emutopia": [
                 368
+            ],
+            "launchbox": [
+                "tvc_cart",
+                "tvc_cass",
+                "tvc_flop"
             ]
         },
         "company": "Videoton",
@@ -21442,6 +22782,10 @@
             "mame": [
                 "v1050_flop",
                 "v1050_hdd"
+            ],
+            "launchbox": [
+                "v1050_flop",
+                "v1050_hdd"
             ]
         },
         "company": "Visual Technology",
@@ -21455,6 +22799,9 @@
         "matches": {
             "mame": [
                 "database"
+            ],
+            "launchbox": [
+                "database"
             ]
         },
         "company": "Voltmace",
@@ -21467,6 +22814,9 @@
         "name": "PC",
         "matches": {
             "mame": [
+                "wangpc"
+            ],
+            "launchbox": [
                 "wangpc"
             ]
         },
@@ -21494,7 +22844,8 @@
         "name": "Supervision",
         "matches": {
             "launchbox": [
-                "Watara Supervision"
+                "Watara Supervision",
+                "svision"
             ],
             "nointro": [
                 "Watara - Supervision"
@@ -21560,6 +22911,9 @@
         "matches": {
             "mame": [
                 "wmbullet"
+            ],
+            "launchbox": [
+                "wmbullet"
             ]
         },
         "company": "WaveMate",
@@ -21573,6 +22927,9 @@
         "matches": {
             "mame": [
                 "waveterm"
+            ],
+            "launchbox": [
+                "waveterm"
             ]
         },
         "company": "Waveterm",
@@ -21585,6 +22942,9 @@
         "name": "KidConnection SmarTV Adventures / Funtastic TV Adventures",
         "matches": {
             "mame": [
+                "smarttv_cart"
+            ],
+            "launchbox": [
                 "smarttv_cart"
             ]
         },
@@ -21681,6 +23041,9 @@
             ],
             "mame": [
                 "xerox820"
+            ],
+            "launchbox": [
+                "xerox820"
             ]
         },
         "company": "Xerox",
@@ -21701,6 +23064,9 @@
                 487
             ],
             "mame": [
+                "xerox820ii"
+            ],
+            "launchbox": [
                 "xerox820ii"
             ]
         },
@@ -21739,6 +23105,9 @@
             ],
             "nointro": [
                 "Yamaha - Copera"
+            ],
+            "launchbox": [
+                "copera"
             ]
         },
         "company": "Yamaha",
@@ -21751,6 +23120,9 @@
         "name": "MisterX",
         "matches": {
             "mame": [
+                "misterx"
+            ],
+            "launchbox": [
                 "misterx"
             ]
         },
