@@ -37944,6 +37944,15 @@
                 "vita3k"
             ]
         },
+        "logo": "https://vita3k.org/img/logo.svg",
+        "screenshots": [
+            "https://vita3k.org/img/portfolio/fullsize/1.png",
+            "https://vita3k.org/img/portfolio/fullsize/2.png",
+            "https://vita3k.org/img/portfolio/fullsize/3.png",
+            "https://vita3k.org/img/portfolio/fullsize/4.png",
+            "https://vita3k.org/img/portfolio/fullsize/5.png",
+            "https://vita3k.org/img/portfolio/fullsize/6.png"
+        ],
         "web": {
             "https://vita3k.org/": "home",
             "https://github.com/Vita3K/Vita3K/": "repo"
