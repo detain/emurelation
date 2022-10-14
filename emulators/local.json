@@ -1180,8 +1180,25 @@
                 "bits": 32,
                 "date": "2009-07-04",
                 "changes": "https://consolo.is.cc/emu/altirra/1.2_changelog.txt"
+            },
+            "3.2": {
+                "url": "https://consolo.is.cc/emulationking/altirra/Altirra-3.20-src.zip",
+                "os": "File-code"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Altirra-Atari-5200-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Altirra-Atari-5200-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Altirra-Atari-5200-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Altirra-Atari-5200-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Altirra-Atari-5200-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Altirra-Atari-5200-Emulator-Pic-06.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Altirra is a cycle accurate Atari 5200 emulator for Windows. Being cycle accurate means Altirra emulates the Atari5200 more accurately then traditional emulators.",
+        "url": "https://emulationking.com/altirra/"
     },
     "amiberry": {
         "id": "amiberry",
@@ -1217,6 +1234,27 @@
             "emulationking": [
                 "andripsx"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/10/andripsx-logo-thumbnail.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/AndriPSX-PSX-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/AndriPSX-PSX-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/AndriPSX-PSX-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/AndriPSX-PSX-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/AndriPSX-PSX-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/AndriPSX-PSX-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "AndriPSX is an early PlayStation emulator for Windows that can play only a few commercial games. AndriPSX was one of the first emulators to prove that PlayStation emulation was possible.",
+        "url": "https://emulationking.com/andripsx/",
+        "description": "AndriPSX was one of the original emulators for the PSX, it was incredibly promising at its time despite being behind completing emulators at the time such as PSEmu Pro.\nSadly despite such a good promising start, AndriPSX’s development was stopped and the emulator never got to meet its full potential. \nIt managed to run a few games, however never managed to get to the same level of compatibility as similar emulators around its time.",
+        "versions": {
+            "1.0.5": {
+                "url": "https://consolo.is.cc/emulationking/andripsx/AdriPSX_ILE_Edition_1-0-5.zip",
+                "os": "Windows"
+            }
         }
     },
     "anex86": {
@@ -2484,8 +2522,35 @@
                 "bits": 32,
                 "date": "2002-01-02",
                 "changes": "https://consolo.is.cc/emu/atari800/1.2.2_changelog.txt"
+            },
+            "5.0.0": {
+                "url": "https://consolo.is.cc/emulationking/atari800/atari800-5.0.0-win32-sdl.zip",
+                "os": "Windows"
+            },
+            "4.2.0": {
+                "url": "https://consolo.is.cc/emulationking/atari800/atari800_4.2.0_rpi4_buster.deb",
+                "os": "Raspberry-pi"
+            },
+            "4.1.0": {
+                "url": "https://consolo.is.cc/emulationking/atari800/atari800-4.1.0-macos.zip",
+                "os": "Apple"
             }
-        }
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/10/atari800-logo-thumbnail.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Atari800-Atari-5200-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Atari800-Atari-5200-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Atari800-Atari-5200-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Atari800-Atari-5200-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Atari800-Atari-5200-Emulator-Pic-05.png"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Atari800 is one of the best Atari 5200 emulators available. Developed originally back in 1995, Atari800 offers support for all features of the Atari800.",
+        "url": "https://emulationking.com/atari800/"
     },
     "atari800winplus": {
         "id": "atari800winplus",
@@ -2640,8 +2705,21 @@
                 "bits": 32,
                 "date": "2009-11-30",
                 "changes": "https://consolo.is.cc/emu/atariplusplus/1.58_changelog.txt"
+            },
+            "1.80": {
+                "url": "https://consolo.is.cc/emulationking/atariplusplus/atariplusplus_win_1.80.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/10/altirra-logo-thumbnail.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Atari-Atari-5200-Emulator-Pic-01.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Atari++ is another cycle accurate Atari 5200 emulator. It was developed with the goal of emulating the Atari 5200 right down to its hardware bugs.",
+        "url": "https://emulationking.com/atariplusplus/"
     },
     "atom": {
         "id": "atom",
@@ -2807,6 +2885,27 @@
             "emulationking": [
                 "basicboy"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-logo-thumbnail-transparent.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-GBC-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-GBC-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-GBC-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-GBC-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-GBC-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/basicboy-GBC-Emulator-Pic-06.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "BasicBoy is a GBC emulator that was written entirely in the Visual Basic programming language. While now dated, the Game Boy Color emulator offered decent compatibility and accuracy despite been written in Visual Basic.",
+        "url": "https://emulationking.com/basicboy/",
+        "description": "BasicBoy is a Game Boy Color emulator written purely in Microsoft Visual Basic.\nThere is not much to say about this emulator as it doesn’t sport any big feature or even that great compatibility.\nThe biggest achievement is the fact that the emulator is written purely using Visual Basic.",
+        "versions": {
+            "2.0.3": {
+                "url": "https://consolo.is.cc/emulationking/basicboy/BasicBoy2.0.3bin.zip",
+                "os": "Windows"
+            }
         }
     },
     "basiliskii": {
@@ -2877,6 +2976,24 @@
             "emulationking": [
                 "batgba"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/08/batgba-logo-GBA-Emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/BatGBA-GBA-Emulator-Pic-01.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/BatGBA-GBA-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/BatGBA-GBA-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "BatGBA is a once promising emulator that has sadly been long put to rest, it required the GBA Bios to be able to emulate some games but had begun work on trying to emulate all required functions within BatGBA itself.",
+        "url": "https://emulationking.com/batgba/",
+        "description": "BatGBA is a now out dated GBA Emulator. It was once promising but was eventually surpassed by the many other GBA emulators. it was one of the first emulators to start really tackling the GBA, however like a few other emulators of its time requires the GBA Bios.\nThe emulation abilities of BatGBA was never fully fleshed out, as newer versions of the emulator was moving to eventually remove the requirement to need a GBA bios alongside the emulator, with work being done to emulate the BIOS within BatGBA itself.\nSadly this is another promising emulator that never survived long enough to become fully fleshed out, and was surpassed by emulators such as Visual Boy Advance. If your after a stable and fast GBA emulator your better off looking at newer emulators such as mGBA or Visual Boy Advance.",
+        "versions": {
+            "2.25b": {
+                "url": "https://consolo.is.cc/emulationking/batgba/batgba225b.zip",
+                "os": "Windows"
+            }
         }
     },
     "beebem": {
@@ -3129,8 +3246,28 @@
                 "bits": 32,
                 "date": "2006-01-05",
                 "changes": "https://consolo.is.cc/emu/bgb/1.12_changelog.txt"
+            },
+            "1.5.9": {
+                "url": "https://consolo.is.cc/emulationking/bgb/bgbbgb_1_5_9.zip",
+                "os": "Windows"
+            },
+            "1.5.8": {
+                "url": "https://consolo.is.cc/emulationking/bgb/bgbbgb_1_5_8.zip",
+                "os": "Windows"
+            },
+            "1.5.7": {
+                "url": "https://consolo.is.cc/emulationking/bgb/bgbw64-1.5.7.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/bgb-GBC-Emulator-Pic-01.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "BGB is a Game Boy Color emulator that was designed to be used as a debugging tool as well as an emulator. BGB accurately emulates the GBC hardware alongside providing a powerful debugger making this emulator a solid choice.",
+        "url": "https://emulationking.com/bgb/"
     },
     "bizhawk": {
         "id": "bizhawk",
@@ -3498,8 +3635,26 @@
                 "bits": 32,
                 "date": "2016-05-03",
                 "changes": "https://consolo.is.cc/emu/blastem/0.4.0_changelog.txt"
+            },
+            "0.6.2": {
+                "url": "https://consolo.is.cc/emulationking/blastem/blastem64-0.6.2.tar.gz",
+                "os": "Linux"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/BlastEm-SEGA-Genesis-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/BlastEm-SEGA-Genesis-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/BlastEm-SEGA-Genesis-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/BlastEm-SEGA-Genesis-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/BlastEm-SEGA-Genesis-Emulator-Pic-05.png"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "BlastEM is an extremely accurate SEGA Genesis emulator. Thanks to its accuracy, it has support for almost every Genesis game. BlastEM is heavily optimized and can run on weaker systems.",
+        "url": "https://emulationking.com/blastem/"
     },
     "bleem": {
         "id": "bleem",
@@ -3512,6 +3667,22 @@
             "emulationking": [
                 "bleem"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/08/Bleem-Logo-PSX-Emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Bleem-PSX-Emulator-Pic-01.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Bleem! was one of the first commercial emulators for the PlayStation 1. While a promising PSX emulator, the Bleem! team eventually went bankrupt after a prolonged lawsuit with Sony.",
+        "url": "https://emulationking.com/bleem/",
+        "description": "Bleem! was one of the very first commercial PSX Emulators. Bleem! Was a promising start of an emulator, however unlike most other emulators you had to actually buy it, which was an unusual thing at the time and something that did not sit well with big companies like Sony. \nUltimately it was their legal battles with Sony that ultimately killed the company developing Bleem!.\nBleem! was a somewhat promising PSX Emulator, it managed to emulate a variety of games to varying degrees and was surprisingly fast. It achieved this by being written primarily in assembly, this allowed the developers to create very precise optimizations in there code, however it also made it an awful lot more complicated.\nThe Bleem! PSX Emulator also managed to make use of the PC’s graphics hardware to increase the speed of 3D rendering. For its time Bleem! had showed massive promise, helped in part by its commercial nature. Ultimately Bleem! went bankrupt, they may of won the court cases with Sony, but they couldn’t afford the legal fees and had to shut down.\nHowever thanks to them fighting the court case and winning it helped pave the wave for a huge increase in freeware PSX Emulators as it proved in law that an emulator can’t be sued for copyright.\nPlease note Bleem! may not run on any operating system newer then Windows 98. Our team hasn’t personally tested this yet, so drop us a line below if it manages to run.",
+        "versions": {
+            "1.4": {
+                "url": "https://consolo.is.cc/emulationking/bleem/bleem-demo-v1_4.zip",
+                "os": "Windows"
+            }
         }
     },
     "bliss": {
@@ -3781,8 +3952,25 @@
                 "bits": 32,
                 "date": "2003-05-17",
                 "changes": "https://consolo.is.cc/emu/boycottadv/0.2.8_changelog.txt"
+            },
+            "0.4.0": {
+                "url": "https://consolo.is.cc/emulationking/boycottadvance/ba-040.dmg",
+                "os": "Apple"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Boycott-Advance-GBC-Emulator-GBA-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Boycott-Advance-GBC-Emulator-GBA-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Boycott-Advance-GBC-Emulator-GBA-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Boycott-Advance-GBC-Emulator-GBA-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "BoycottAdvance has now ceased active development, but was at one point regarded as one of the best Nintendo 64 Emulators around, making use of an extremely fast recompiler core that gave it an edge in performance.",
+        "url": "https://emulationking.com/boycottadvance/"
     },
     "bsnes": {
         "id": "bsnes",
@@ -4792,8 +4980,49 @@
                 "bits": 64,
                 "date": "2015-10-13",
                 "changes": "https://consolo.is.cc/emu/cemu/1.0.0_changelog.txt"
+            },
+            "1.26.2": {
+                "url": "https://consolo.is.cc/emulationking/cemu/cemu_1.26.2.zip",
+                "os": "Windows"
+            },
+            "1.26.1": {
+                "url": "https://consolo.is.cc/emulationking/cemu/cemu_1.26.1.zip",
+                "os": "Windows"
+            },
+            "1.26.0": {
+                "url": "https://consolo.is.cc/emulationking/cemu/cemu_1.26.0.zip",
+                "os": "Windows"
+            },
+            "1.25.6": {
+                "url": "https://consolo.is.cc/emulationking/cemu/cemu_1.25.6.zip",
+                "os": "Windows"
+            },
+            "1.25.5": {
+                "url": "https://consolo.is.cc/emulationking/cemu/cemu_1.25.5.zip",
+                "os": "Windows"
+            },
+            "1.25.4": {
+                "url": "https://consolo.is.cc/emulationking/cemu/cemu_1.25.4.zip",
+                "os": "Windows"
+            },
+            "1.25.3": {
+                "url": "https://consolo.is.cc/emulationking/cemu/cemu_1.25.3.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Cemu-Wii-U-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Cemu-Wii-U-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Cemu-Wii-U-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Cemu-Wii-U-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Cemu-Wii-U-Emulator-Pic-06.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Cemu-Wii-U-Emulator-Pic-05.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Cemu was a surprise Nintendo Wii U Emulator, and so far has been the most successful one, in just over a year it has gone form just being able to boot games to being able to run several games without any game breaking hitches.",
+        "url": "https://emulationking.com/cemu/"
     },
     "chankast": {
         "id": "chankast",
@@ -4888,8 +5117,27 @@
                 "date": "2004-05-29",
                 "changes": "https://consolo.is.cc/emu/chankast/0.1a_changelog.txt",
                 "notes": "Needs Daemon Tools (or similar) to mount CD Files."
+            },
+            "0.25 Alpha": {
+                "url": "https://consolo.is.cc/emulationking/chankast/ChankastAlpha025.rar",
+                "os": "Windows"
+            },
+            "4.0b": {
+                "url": "https://consolo.is.cc/emulationking/chankast/darkman_dinput40b.zip",
+                "os": "Download"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Chankast-SEGA-Dreamcast-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Chankast-SEGA-Dreamcast-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Chankast-SEGA-Dreamcast-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Chankast-SEGA-Dreamcast-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Chankast was one of the first Dreamcast emulators that were able to emulate commercial Dreamcast games successfully. Due to development ending abruptly, Chankast was left buggy and unstable.",
+        "url": "https://emulationking.com/chankast/"
     },
     "citra": {
         "id": "citra",
@@ -4966,8 +5214,119 @@
                 "date": "2014-05-23",
                 "changes": "https://consolo.is.cc/emu/citra/20140523-x86_changelog.txt",
                 "notes": "32 bit systems only"
+            },
+            "nightly-1779 2022-08-15": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220814-58d0705_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/15",
+                "branch": "Nightly"
+            },
+            "nightly-1778 2022-08-05": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220804-a51b1cd_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/05",
+                "branch": "Nightly"
+            },
+            "nightly-1777 2022-08-02": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220801-bf6e4a4_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/02",
+                "branch": "Nightly"
+            },
+            "nightly-1776 2022-07-29": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220728-6764264_nightly.7z",
+                "os": "Windows",
+                "date": "2022/07/29",
+                "branch": "Nightly"
+            },
+            "nightly-1775 2022-07-24": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220723-357025d_nightly.7z",
+                "os": "Windows",
+                "date": "2022/07/24",
+                "branch": "Nightly"
+            },
+            "nightly-1774 2022-07-18": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220717-2d95b99_nightly.7z",
+                "os": "Windows",
+                "date": "2022/07/18",
+                "branch": "Nightly"
+            },
+            "nightly-1773 2022-07-08": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220706-353aaaf_nightly.7z",
+                "os": "Windows",
+                "date": "2022/07/08",
+                "branch": "Nightly"
+            },
+            "canary-2239 2022-08-19": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220819-82179e1_canary.7z",
+                "os": "Windows",
+                "date": "2022/08/19",
+                "branch": "Canary"
+            },
+            "canary-2238 2022-08-18": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220818-6d388d0_canary.7z",
+                "os": "Windows",
+                "date": "2022/08/18",
+                "branch": "Canary"
+            },
+            "canary-2237 2022-08-17": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220817-cde88be_canary.7z",
+                "os": "Windows",
+                "date": "2022/08/17",
+                "branch": "Canary"
+            },
+            "canary-2236 2022-08-16": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220816-976fa35_canary.7z",
+                "os": "Windows",
+                "date": "2022/08/16",
+                "branch": "Canary"
+            },
+            "canary-2235 2022-08-15": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220815-159f734_canary.7z",
+                "os": "Windows",
+                "date": "2022/08/15",
+                "branch": "Canary"
+            },
+            "canary-2234 2022-08-14": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220814-4e39a8d_canary.7z",
+                "os": "Windows",
+                "date": "2022/08/14",
+                "branch": "Canary"
+            },
+            "canary-2233 2022-08-13": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra-windows-mingw-20220813-0e4bdbf_canary.7z",
+                "os": "Windows",
+                "date": "2022/08/13",
+                "branch": "Canary"
+            },
+            "beta-15 2021-05-08": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra_app-release-bed6a4f_android.apk",
+                "os": "Android",
+                "date": "2021/05/08",
+                "branch": "Android"
+            },
+            "beta-14 2021-02-28": {
+                "url": "https://consolo.is.cc/emulationking/citra/citra_app-release-a6860a9_android.apk",
+                "os": "Android",
+                "date": "2021/02/28",
+                "branch": "Android"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Citra-Emulator-Nintendo-3DS-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Citra-Emulator-Nintendo-3DS-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Citra-Emulator-Nintendo-3DS-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Citra-Emulator-Nintendo-3DS-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Citra-Emulator-Nintendo-3DS-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Citra-Emulator-Nintendo-3DS-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Citra is a superb Nintendo 3DS Emulator that is already managing to emulate several Nintendo 3DS games. Development of Citra is moving quickly, with large increases in both speed and compatibility coming often.",
+        "url": "https://emulationking.com/citra/"
     },
     "classic99": {
         "id": "classic99",
@@ -6041,6 +6400,26 @@
             "emutopia": [
                 399
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/08/CrabEmu-Logo-SG-100-Emulator-SEGA-Master-System-Emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CrabEmu-SG-1000-Emulator-SEGA-Master-System-Emulator-Pic-01-.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CrabEmu-SG-1000-Emulator-SEGA-Master-System-Emulator-Pic-02-.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CrabEmu-SG-1000-Emulator-SEGA-Master-System-Emulator-Pic-03-.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CrabEmu-SG-1000-Emulator-SEGA-Master-System-Emulator-Pic-04-.png"
+        ],
+        "runs": [
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "CrabEmu is one of the best SEGA Master System emulators available for Linux and macOS. It is used as the Master System emulator for the OpenEmu project.",
+        "url": "https://emulationking.com/crabemu/",
+        "description": "CrabEmu is a SG-1000 Emulator and a SEGA Mega System Emulator for Linux,  Mac OS X and even the Dreamcast for those whole still have a Dreamcast lying around.\nThe main focus of CrabEmu was to develop a fast and effective emulator for SEGA’s two 8-bit consoles, the SG-1000 and the SEGA Master System.\nUnlike most emulators though, this emulator is not available on Windows Operating systems.\nCrabEmu boasts quite a high compatibility rate while also managing to retain performance, and also include the ability to be able to render the SG-1000 and SEGA Master System’s graphics at a much higher resolution then they were ever intended to be rendered at.\nWhile development of Crab Emu has ceased, its core has now been implemented into the Mac OS X OpenEmu project to handle support for the SEGA Master system.",
+        "versions": {
+            "0.2.0": {
+                "url": "https://consolo.is.cc/emulationking/crabemu/CrabEmu-BIOS-0.2.0.tar.bz2",
+                "os": "Download"
+            }
         }
     },
     "creativision": {
@@ -6292,8 +6671,24 @@
                 "bits": 32,
                 "date": "2015-10-30",
                 "changes": "https://consolo.is.cc/emu/cxbx/0.81pre3_changelog.txt"
+            },
+            "0.7.8.c": {
+                "url": "https://consolo.is.cc/emulationking/cxbx/Cxbx-0.7.8c.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CXBX-Microsoft-Xbox-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CXBX-Microsoft-Xbox-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CXBX-Microsoft-Xbox-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CXBX-Microsoft-Xbox-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/CXBX-Microsoft-Xbox-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "CXBX is one of the few Xbox emulators that have managed to succesfully run commercial Xbox games. It is currently one of the few remaining hopes of seeing the original Xbox fully emulated.",
+        "url": "https://emulationking.com/cxbx/"
     },
     "cxbxreloaded": {
         "id": "cxbxreloaded",
@@ -7332,7 +7727,28 @@
         ],
         "dir": [
             "decaf"
-        ]
+        ],
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/09/Decaf-Emulator-Logo-Wii-U-Emulator-Small.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Decaf-Emulator-Wii-U-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Decaf-Emulator-Wii-U-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Decaf-Emulator-Wii-U-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Decaf-Emulator-Wii-U-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux"
+        ],
+        "shortDesc": "Decaf Emulator is the only open sourced Wii U emulator around, so far it isn’t as advanced in its emulation of the Wii U as Cemu is, but it is making remarkable progress.",
+        "url": "https://emulationking.com/decaf-emulator/",
+        "description": "Decaf Emulator is the only currently actively developed, open source Nintendo Wii U Emulator. It is the open source alternative to the excellent proprietary Wii U emulator, CEMU.\nWhile Decaf doesn’t emulate the Wii U as good as CEMU at the moment, it is an extremely promising start and is already making big strides to catch up to CEMU in emulation capabilities.\nInitially, Decaf emulator was a Windows 10 only Wii U emulator, and this was due to its initial use of DirectX 12. However, the primary developer of Decaf, Exjam, made the decision to drop DirectX 12 in favor of OpenGL 4.5. This change allows Decaf emulator to be multi-platform.\nDecaf is already able to run some commercial Wii U games, so it’s great if you’re looking to play Wii u games. However, at this moment, you are likely to run into an assortment of graphical issues and severe bugs. Decaf is very much in the experimental stage, but Decaf has made quick progress in just a few short months.",
+        "versions": {
+            "2019-06-18": {
+                "url": "https://consolo.is.cc/emulationking/decaf-emulator/decaf-bin-18_06_2019.zip",
+                "os": "Windows",
+                "date": "2019/06/18"
+            }
+        }
     },
     "dega": {
         "id": "dega",
@@ -7582,8 +7998,24 @@
                 "bits": 32,
                 "date": "2008-08-12",
                 "changes": "https://consolo.is.cc/emu/demul/0.4.6_changelog.txt"
+            },
+            "0.7 ALPHA BUILD 18081": {
+                "url": "https://consolo.is.cc/emulationking/demul/demul07_111117.7z",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Demul-SEGA-Dreamcast-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Demul-SEGA-Dreamcast-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Demul-SEGA-Dreamcast-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Demul-SEGA-Dreamcast-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Demul-SEGA-Dreamcast-Emulator-Pic-05.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Demul is regarded as one of the best Dreamcast emulators available. Demul focusses on compatibility while making use of more modern rendering techniques such as using DirectX 11.",
+        "url": "https://emulationking.com/demul/"
     },
     "desmume": {
         "id": "desmume",
@@ -7698,8 +8130,55 @@
                 "bits": 32,
                 "date": "2013-11-27",
                 "changes": "https://consolo.is.cc/emu/desmume/0.9.10-win32-nosse2_changelog.txt"
+            },
+            "2022-08-05": {
+                "url": "https://consolo.is.cc/emulationking/desmume/DeSmuME-VS2019-x64-Release_05_08_2022.exe",
+                "os": "Windows",
+                "date": "2022/08/05"
+            },
+            "2022-07-30": {
+                "url": "https://consolo.is.cc/emulationking/desmume/DeSmuME-VS2019-x64-Release_30_07_2022.exe",
+                "os": "Windows",
+                "date": "2022/07/30"
+            },
+            "2022-07-21": {
+                "url": "https://consolo.is.cc/emulationking/desmume/DeSmuME-VS2019-x64-Release_21_07_2022.exe",
+                "os": "Windows",
+                "date": "2022/07/21"
+            },
+            "2022-06-28": {
+                "url": "https://consolo.is.cc/emulationking/desmume/DeSmuME-VS2019-x64-Release_28_06_2022.exe",
+                "os": "Windows",
+                "date": "2022/06/28"
+            },
+            "2022-06-20": {
+                "url": "https://consolo.is.cc/emulationking/desmume/DeSmuME-VS2019-x64-Release_20_06_2022.exe",
+                "os": "Windows",
+                "date": "2022/06/20"
+            },
+            "2022-06-05": {
+                "url": "https://consolo.is.cc/emulationking/desmume/DeSmuME-VS2019-x64-Release_05_06_2022.exe",
+                "os": "Windows",
+                "date": "2022/06/05"
+            },
+            "0.9.11": {
+                "url": "https://consolo.is.cc/emulationking/desmume/desmume-0.9.11-win64.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DeSmuME-Nintendo-DS-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DeSmuME-Nintendo-DS-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DeSmuME-Nintendo-DS-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DeSmuME-Nintendo-DS-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DeSmuME-Nintendo-DS-Emulator-Pic-05.png"
+        ],
+        "runs": [
+            "windows",
+            "apple"
+        ],
+        "shortDesc": "DeSmuME is one of the best NDS emulators around, managing to play the vast majority of games easily and without sacrificing performance, it is also the most portable Nintendo DS Emulators.",
+        "url": "https://emulationking.com/desmume/"
     },
     "dgen": {
         "id": "dgen",
@@ -8151,8 +8630,127 @@
                 "bits": 32,
                 "date": "2010-04-09",
                 "changes": "https://consolo.is.cc/emu/dolphin/2.0-win32_changelog.txt"
+            },
+            "5.0": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-x64-5.0_stable.exe",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "5.0-17210 2022-08-18": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-17210-x64_development.7z",
+                "os": "Windows",
+                "date": "2022/08/18",
+                "branch": "Development"
+            },
+            "5.0-17199 2022-08-17": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-17199-x64_development.7z",
+                "os": "Windows",
+                "date": "2022/08/17",
+                "branch": "Development"
+            },
+            "5.0-17197 2022-08-14": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-17197-x64_development.7z",
+                "os": "Windows",
+                "date": "2022/08/14",
+                "branch": "Development"
+            },
+            "5.0-17195 2022-08-12": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-17195-x64_development.7z",
+                "os": "Windows",
+                "date": "2022/08/12",
+                "branch": "Development"
+            },
+            "5.0-17193 2022-08-11": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-17193-x64_development.7z",
+                "os": "Windows",
+                "date": "2022/08/11",
+                "branch": "Development"
+            },
+            "5.0-17186 2022-08-10": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-17186-x64_development.7z",
+                "os": "Windows",
+                "date": "2022/08/10",
+                "branch": "Development"
+            },
+            "5.0-17178 2022-08-10": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-17178-x64_development.7z",
+                "os": "Windows",
+                "date": "2022/08/10",
+                "branch": "Development"
+            },
+            "5.0-16793 2022-07-06": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-16793-x64_beta.7z",
+                "os": "Windows",
+                "date": "2022/07/06",
+                "branch": "Beta"
+            },
+            "5.0-16380 2022-05-06": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-16380-x64_beta.7z",
+                "os": "Windows",
+                "date": "2022/05/06",
+                "branch": "Beta"
+            },
+            "5.0-16101 2022-03-02": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-16101-x64_beta.7z",
+                "os": "Windows",
+                "date": "2022/03/02",
+                "branch": "Beta"
+            },
+            "5.0-15993 2022-02-01": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-15993-x64_beta.7z",
+                "os": "Windows",
+                "date": "2022/02/01",
+                "branch": "Beta"
+            },
+            "5.0-15445 2021-11-01": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-15445-x64_beta.7z",
+                "os": "Windows",
+                "date": "2021/11/01",
+                "branch": "Beta"
+            },
+            "5.0-15260 2021-10-03": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-15260-x64_beta.7z",
+                "os": "Windows",
+                "date": "2021/10/03",
+                "branch": "Beta"
+            },
+            "5.0-15105 2021-09-03": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-15105-x64_beta.7z",
+                "os": "Windows",
+                "date": "2021/09/03",
+                "branch": "Beta"
+            },
+            "2020-01-21": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-11526.dmg",
+                "os": "Apple",
+                "date": "2020/01/21"
+            },
+            "5.0 Stable": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-5.0.dmg",
+                "os": "Apple"
+            },
+            "2019-06-20": {
+                "url": "https://consolo.is.cc/emulationking/dolphin/dolphin-master-5.0-10549-x64.zip",
+                "os": "Windows",
+                "date": "2019/06/20"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Dolphin-Emulator-Nintendo-Wii-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Dolphin-Emulator-Nintendo-Wii-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Dolphin-Emulator-Nintendo-Wii-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Dolphin-Emulator-Nintendo-Wii-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Dolphin-Emulator-Nintendo-Wii-Emulator-Pic-06.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Dolphin-Emulator-Nintendo-Wii-Emulator-Pic-07.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple",
+            "android"
+        ],
+        "shortDesc": "Dolphin successfully emulates almost every single game available on both the Nintendo Game Cube and the Nintendo Wii. It is the only Nintendo Wii emulator available and the best GameCube emulator one will be able to find, proving successful where many others fell flat.",
+        "url": "https://emulationking.com/dolphin/"
     },
     "dolwin": {
         "id": "dolwin",
@@ -8196,8 +8794,20 @@
                 "bits": 32,
                 "date": "2005-01-11",
                 "changes": "https://consolo.is.cc/emu/dolwin/0.10_changelog.txt"
+            },
+            "0.1.0": {
+                "url": "https://consolo.is.cc/emulationking/dolwin/Dolwin010bin.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Dolwin-Nintendo-GameCube-Emulator-Pic-01.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Dolwin is the first ever GameCube emulator to be publicly released. it is open source and written in C. However sadly development stalled in 2005 and not a single new release has been seen since.",
+        "url": "https://emulationking.com/dolwin/"
     },
     "dosbox": {
         "id": "dosbox",
@@ -8716,7 +9326,18 @@
                 "changes": "https://consolo.is.cc/emu/dreamgba/2.5_changelog.txt",
                 "notes": "Must use the 'loader' to load ROMs."
             }
-        }
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/08/dreamgba-transparent-logo.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DreamGBA-GBA-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DreamGBA-GBA-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DreamGBA-GBA-Emulator-Pic-03.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "DreamGBA is a now dated GBA Emulator that required the GBA Bios to be able to run, it was at the time a promising emulator that was successfully able to emulate several GBA games.",
+        "url": "https://emulationking.com/dreamgba/"
     },
     "dreamgbatng": {
         "id": "dreamgbatng",
@@ -8764,6 +9385,22 @@
             "emulationking": [
                 "dreamgbc"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2018/12/dreamGBC-Logo-GBC-Emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/DreamGBC-GBC-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "DreamGBC is a fast and highly compatible GBC emulator. The DreamGBC project aimed to emulate as much of the Game Boy Color as possible while offering various game enhancing features.",
+        "url": "https://emulationking.com/dreamgbc/",
+        "description": "DreamGBC is yet another Game Boy Color emulator. There isn’t an awful lot to say about this emulator. It does appear to be discontinued with no development been seen since 2005.\nThe objective of DreamGBC was to emulate as many GameBoy carts along with various features that improve games but weren’t on a real Game Boy Color.\nThe two upsides to DreamGBC is that it does seem fairly compatible and is easily configurable.",
+        "versions": {
+            "Final Beta 5": {
+                "url": "https://consolo.is.cc/emulationking/dreamgbc/dreamgbc2000finalbeta5.zip",
+                "os": "Windows"
+            }
         }
     },
     "dreamvmu": {
@@ -8965,7 +9602,19 @@
                 "date": "2007-05-27",
                 "changes": "https://consolo.is.cc/emu/dualis/20.4_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/dualis-Nintendo-DS-Screenshot-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/dualis-Nintendo-DS-Screenshot-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/dualis-Nintendo-DS-Screenshot-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/dualis-Nintendo-DS-Screenshot-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/dualis-Nintendo-DS-Screenshot-Pic-05.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Dualis is a NDS emulator that never really got far, its primary purpose ended up being able to run some homebrew and demo software that’s made to test functionality. It fails to run any commercial ROMs.",
+        "url": "https://emulationking.com/dualis-emulator/"
     },
     "duckstation": {
         "id": "duckstation",
@@ -9017,6 +9666,25 @@
             "emulationking": [
                 "duos-emulator"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/08/DuoS-Logo-Nintendo-DS-EMulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DuoS-Nintendo-DS-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DuoS-Nintendo-DS-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DuoS-Nintendo-DS-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DuoS-Nintendo-DS-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "DuoS was an extremely promising NDS Emulator, showcasing strong performance, allowing the NDS to be emulated on low end systems. This was all while managing to provide decent compatibility.",
+        "url": "https://emulationking.com/duos-emulator/",
+        "description": "DuoS Emulator is a NDS emulator for Windows. DuoS started its routes in 2012 and was showing to be a very promising new emulator. It features both a dynamic recompiler and hardware GPU acceleration alongside a software renderer.\nThe developer had explored the very thorough documentation from No$GBA and the excellent GPU core in DeSuME as he developed his own emulator, giving him a good insight into how the NDS works and the best way to emulate certain features of the device.\nThis allowed DuoS Emulator to successfully emulate a large part of the Nintendo DS in a very short time and do it with significant speed.\nIt was a very promising emulator but sadly development appeared to of completely ceased a year after it started. If development was continued DuoS would of surely become one of the best NDS Emulators around.",
+        "versions": {
+            "DuoS Emulator": {
+                "url": "https://consolo.is.cc/emulationking/duos-emulator/DuoS.zip",
+                "os": "Windows"
+            }
         }
     },
     "dve": {
@@ -9095,6 +9763,27 @@
             "emutopia": [
                 318
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/10/dxbx-logo-thumbnail.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DXBX-Microsoft-Xbox-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DXBX-Microsoft-Xbox-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DXBX-Microsoft-Xbox-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DXBX-Microsoft-Xbox-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DXBX-Microsoft-Xbox-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/DXBX-Microsoft-Xbox-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "DXBX is a Delphi based Xbox emulator. For a time, DXBX was one of the most promising Xbox emulators. Development has sadly stopped on DXBX leaving, it only capable of running a few games.",
+        "url": "https://emulationking.com/dxbx/",
+        "description": "DXBX is a Xbox emulator that is written in the Delphi programming language. Not a huge amount is known about this emulator. It attempted to tackle the mammoth task of successfully emulating the Xbox.\nThe team managed to make some significant inroads into emulating the Xbox with a few games showing signs of being playable, and it successfully managed to emulate an assortment of different demo’s.\nHowever ultimately development ceased, the two core Delphi programmers that the DXBX project relied on eventually ran out of time to be able to work on the project. \nThe many hours required to work on and develop the project simply became way to much time and effort for the two core programmers, with them leaving the project was left dead in the water. \nWhile there was some very promising work done in DXBX, it was sadly never completed as the project failed to find any other .\nSo far the only project left that is showing signs of improving and possibly eventually managing to emulate the Xbox system is the XQEMU project. With any luck developers will stick to the project, and hopefully bring in some new developers into the scene.",
+        "versions": {
+            "0.5": {
+                "url": "https://consolo.is.cc/emulationking/dxbx/Dxbx_0.5_Release_setup.exe",
+                "os": "Windows"
+            }
         }
     },
     "easyrpg-player": {
@@ -10082,7 +10771,24 @@
                 "date": "2003-11-30",
                 "changes": "https://consolo.is.cc/emu/emu7800/0.31_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-06.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-07.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-08.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/EMU7800-Atari-7800-Emulator-Pic-09.jpg"
+        ],
+        "runs": [
+            "windows",
+            "android"
+        ],
+        "shortDesc": "emu7800 is an extremely capable and fast Atari 7800 emulator. It is able to run the vast majority of Atari 7800 games without any issues and is even available for Android.",
+        "url": "https://emulationking.com/emu7800/"
     },
     "emukon": {
         "id": "emukon",
@@ -11103,7 +11809,22 @@
                 "changes": "https://consolo.is.cc/emu/epsxe/1.0.0_changelog.txt",
                 "notes": "Not Tested"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ePSXe-Emulator-PSX-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ePSXe-Emulator-PSX-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ePSXe-Emulator-PSX-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ePSXe-Emulator-PSX-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ePSXe-Emulator-PSX-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ePSXe-Emulator-PSX-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "ePSXe is regarded as one of the best PS1 Emulators around thanks to its high compatibility and fast emulation speed. ePSXe manages to emulate almost every PSX Game available successfully.",
+        "url": "https://emulationking.com/epsxe/"
     },
     "euphoric": {
         "id": "euphoric",
@@ -11240,8 +11961,26 @@
                 "bits": 32,
                 "date": "2015-05-01",
                 "changes": "https://consolo.is.cc/emu/exodus/2.0.1_changelog.txt"
+            },
+            "2.1": {
+                "url": "https://consolo.is.cc/emulationking/exodus/Exodus_2.1.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Exodus-SEGA-Genesis-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Exodus-SEGA-Genesis-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Exodus-SEGA-Genesis-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Exodus-SEGA-Genesis-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Exodus-SEGA-Genesis-Emulator-Pic-05.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Exodus is a highly accurate SEGA Genesis emulator that was primarily designed as a debugger. While not great for game emulation, it is useful as a development tool for the SEGA Genesis.",
+        "url": "https://emulationking.com/exodus/"
     },
     "fakenes": {
         "id": "fakenes",
@@ -11822,7 +12561,20 @@
                 "date": "2001-05-05",
                 "changes": "https://consolo.is.cc/emu/fceux/0.54_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/fceux-NES-Emulator-Screenshot-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/fceux-NES-Emulator-Screenshot-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/fceux-NES-Emulator-Screenshot-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/fceux-NES-Emulator-Screenshot-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/fceux-NES-Emulator-Screenshot-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/fceux-NES-Emulator-Screenshot-06.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "FCEUX aims to be a bit of a jack of all trades. Offering accurate emulation alongside a set of useful debugging, rom-hacking tools and more .",
+        "url": "https://emulationking.com/fceux/"
     },
     "firegb": {
         "id": "firegb",
@@ -12480,6 +13232,26 @@
             "emutopia": [
                 438
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2018/12/gambatte-logo-GBC-Emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gambatte-GBC-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gambatte-GBC-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gambatte-GBC-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gambatte-GBC-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows",
+            "apple"
+        ],
+        "shortDesc": "Gambatte is a highly portable and highly accurate GBC Emulator with its core code being designed so that it can be used independently of its UI. Gambattee is used as the Game Boy Color emulator for the OpenEmu project.",
+        "url": "https://emulationking.com/gambatte/",
+        "description": "Gambatte is an open-source GBC (Game Boy Color) emulator that is designed to be portable. The core emulation is kept separate from the UI. This was done to ensure the emulation can be platform-dependent and easily ported to separate operating systems.\nBesides Gambatte’s platform-independent design, it is also designed to be accurate. Being based on many corner-case hardware tests and reverse engineering. Thanks to the emulator’s accuracy focus, it does mean that it is also highly compatible with a multitude of games.\nThe QT GUI frontend of Gambatte is designed to also provide more platform-specific functions such as handling of the video, sound, and timers. The GUI frontend is meant to be able to run on all systems as well. However, the Gambatte team has only provided builds for both Windows and Mac OS X.\nGambatte is available as a core for RetroArch and as a standalone emulator.",
+        "versions": {
+            "r571": {
+                "url": "https://consolo.is.cc/emulationking/gambatte/gambatte_qt_macx_intel-r571.dmg",
+                "os": "Apple"
+            }
         }
     },
     "gamecomemu": {
@@ -12600,8 +13372,33 @@
                 "date": "2016-06-20",
                 "changes": "https://consolo.is.cc/emu/gbeplus/1.0_changelog.txt",
                 "notes": "There is also a Command-Line Version that can be run using gbe_plus.exe."
+            },
+            "1.6": {
+                "url": "https://consolo.is.cc/emulationking/gbeplus/gbe_plus_1.6.7z",
+                "os": "Windows"
+            },
+            "1.5": {
+                "url": "https://consolo.is.cc/emulationking/gbeplus/gbe_plus_1.5.7z",
+                "os": "Windows"
+            },
+            "1.3": {
+                "url": "https://consolo.is.cc/emulationking/gbeplus/gbe_plus_1.3.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/GBE-GBC-Emulator-GBA-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/GBE-GBC-Emulator-GBA-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/GBE-GBC-Emulator-GBA-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/GBE-GBC-Emulator-GBA-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/GBE-GBC-Emulator-GBA-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/GBE-GBC-Emulator-GBA-Emulator-Pic-06.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "GBE+ is one of the newer emulators to the GBA and GBC emulation scene, however is offering fantastic potential as a GBA emulator, sporting some features that arent traditionally found in GBA emulators such as the ability to import custom graphics.",
+        "url": "https://emulationking.com/gbeplus/"
     },
     "gcemu": {
         "id": "gcemu",
@@ -12640,8 +13437,24 @@
                 "bits": 32,
                 "date": "2005-12-11",
                 "changes": "https://consolo.is.cc/emu/gcemu/2005.12.11_changelog.txt"
+            },
+            "2005-12-11": {
+                "url": "https://consolo.is.cc/emulationking/gcemu/gcemu-release_20051211.zip",
+                "os": "Windows",
+                "date": "2005/12/11"
             }
-        }
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2018/12/gcemu_placeholder_logo.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GCemu-Nintendo-GameCube-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GCemu-Nintendo-GameCube-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GCemu-Nintendo-GameCube-Emulator-Pic-03.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "GCEmu is a extremely incomplete emulator that was more designed as a proof of concept to show what is actually achievable. Its aim was to show that emulation of the GameCube.",
+        "url": "https://emulationking.com/gcemu/"
     },
     "gcube": {
         "id": "gcube",
@@ -12682,7 +13495,17 @@
                 "date": "2004-12-03",
                 "changes": "https://consolo.is.cc/emu/gcube/0.3_changelog.txt"
             }
-        }
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2018/12/gcubelogo.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/gcube-Nintendo-Wii-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux"
+        ],
+        "shortDesc": "GCube is an open source emulator for the GameCube, unlike most emulators it didn’t strive to be compatible with all games. But instead it was developed with the main purpose of running at least one commercial game fully emulated.",
+        "url": "https://emulationking.com/gcube/"
     },
     "gearboy": {
         "id": "gearboy",
@@ -12704,6 +13527,29 @@
             "emutopia": [
                 1043
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gearboy-Logo-GBC-Emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gearboy-GBC-Emulator-Pic01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gearboy-GBC-Emulator-Pic02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gearboy-GBC-Emulator-Pic03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gearboy-GBC-Emulator-Pic04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gearboy-GBC-Emulator-Pic05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gearboy-GBC-Emulator-Pic06.png"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "GearBoy is an open source GBC Emulator that strives to achieve accurate emulation of the Game Boy Color while also keeping its code base highly portable. GearBoy is also being used as RetroArch’s core for GBC and GB emulation.",
+        "url": "https://emulationking.com/gearboy/",
+        "description": "Gearboy is an open source emulator for the Game Boy Color written in C++. Gearyboy has a highly accurate CPU emulation, including accurate instruction timing.\nTo prove its accuracy the Gearboy team have tested it against blaargs “cpu_instrs.gb” test and “instr_timing.gb” test. The emulator even goes as far to also emulate the LCD controller, so everything is drawn to the screen as it would of been on the Game Boy Color.\nGearboy maintains support for all common memory bank controllers and their associated RAM cartridges.\nWhile this emulator is highly compatible with original Game Boy games, to a point its Game Boy Color side is not as accurately produced and not as compatible or emulated.",
+        "versions": {
+            "2.7.0": {
+                "url": "https://consolo.is.cc/emulationking/gearboy/Gearboy-2.7.0-Linux.tar.xz",
+                "os": "Linux"
+            }
         }
     },
     "gearsystem": {
@@ -12760,8 +13606,22 @@
                 "bits": 32,
                 "date": "2013-11-01",
                 "changes": "https://consolo.is.cc/emu/gearsystem/1.0_changelog.txt"
+            },
+            "2.5.1": {
+                "url": "https://consolo.is.cc/emulationking/gearsystem/Gearsystem-2.5.1-Linux.tar.xz",
+                "os": "Linux"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/GearSystem-SEGA-Master-System-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "GearSystem is a highly accurate SEGA Master System Emulator. GearSystem manages to emulate even undocumented features of the Master System, making it highly compatible.",
+        "url": "https://emulationking.com/gearsystem/"
     },
     "geepee32": {
         "id": "geepee32",
@@ -12839,8 +13699,20 @@
                 "bits": 32,
                 "date": "2012-07-26",
                 "changes": "https://consolo.is.cc/emu/gekko/2012.07.26_changelog.txt"
+            },
+            "0.3": {
+                "url": "https://consolo.is.cc/emulationking/gekko/Gekko%20Public%20Release.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gekko-Nintendo-GameCube-Emulator-Pic-01.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Gekko is an experimental emulator written purely in C/C++ to try and achieve the best portability possible. The original core was originally written for x86 Windows systems and managed to boot many commercial games .",
+        "url": "https://emulationking.com/gekko/"
     },
     "gemulator": {
         "id": "gemulator",
@@ -12928,8 +13800,21 @@
                 "date": "2003-06-22",
                 "changes": "https://consolo.is.cc/emu/genesisplus/1.2a_changelog.txt",
                 "notes": "This is a 32bit application and will not run on 64bit systems."
+            },
+            "1.3.2": {
+                "url": "https://consolo.is.cc/emulationking/genesis-plus/gplus-macos-132.zip",
+                "os": "Apple"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/GenesisPlus-SEGA-Genesis-Emulator-Pic-01.png"
+        ],
+        "runs": [
+            "windows",
+            "apple"
+        ],
+        "shortDesc": "Genesis Plus is a popular accurate SEGA Genesis emulator. It makes use of the MAME projects CPU and SOUND cores to help its emulation. It is regarded as one of the most accurate Genesis emulators.",
+        "url": "https://emulationking.com/genesis-plus/"
     },
     "genieous": {
         "id": "genieous",
@@ -13639,8 +14524,20 @@
                 "bits": 32,
                 "date": "2008-10-01",
                 "changes": "https://consolo.is.cc/emu/gens32/1.79-badboy_changelog.txt"
+            },
+            "1.86": {
+                "url": "https://consolo.is.cc/emulationking/gens32/Gens32_Surreal_v1_86_HD.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Gens32-Surreal-SEGA-Genesis-Emulator-Pic-01.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Gens32 Surreal is a highly capable Sega Genesis emulator. It is regarded as one of the most well rounded Genesis emulators available and even has netplay capabilities.",
+        "url": "https://emulationking.com/gens32/"
     },
     "gensgs": {
         "id": "gensgs",
@@ -13860,7 +14757,20 @@
                 "date": "2011-01-07",
                 "changes": "https://consolo.is.cc/emu/gest/1.1.1_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GEST-GBC-Emulator-Pic-01.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GEST-GBC-Emulator-Pic-02.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GEST-GBC-Emulator-Pic-03.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GEST-GBC-Emulator-Pic-04.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GEST-GBC-Emulator-Pic-05.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/GEST-GBC-Emulator-Pic-06.gif"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "GEST is a highly compatible and somewhat accurate Game Boy Color emulator that was built upon the Visual Boy Advance codebase. GEST improved upon the original VBA code by increasing the amount of features it emulated.",
+        "url": "https://emulationking.com/gest/"
     },
     "gm2001": {
         "id": "gm2001",
@@ -13924,6 +14834,22 @@
             "emulationking": [
                 "gnuboy"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2018/12/gnuboy-logo-banner-GBC-Emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/gnuboy-GBC-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "gnuboy is a highly portable but now dated GBC emulator. While gnuboy managed to emulate the vast majority of the GBC hardware, it does lack the accuracy and compatibility of more modern Game boy Color emulators.",
+        "url": "https://emulationking.com/gnuboy/",
+        "description": "Gnuboy is a highly portable open source emulator for the Game Boy Color. While not being the most advanced emulator it did prove extremely portable, being ported to an abundance of different hand held and obscure systems.\nSadly though we are currently only able to provide a build for Windows, we are looking into providing builds for other systems as soon as we setup our buildbot.",
+        "versions": {
+            "r136": {
+                "url": "https://consolo.is.cc/emulationking/gnuboy/win32_svn_gnuboy_rr136m.zip",
+                "os": "Windows"
+            }
         }
     },
     "gpsp": {
@@ -14092,8 +15018,29 @@
                 "bits": 32,
                 "date": "2002-06-14",
                 "changes": "https://consolo.is.cc/emu/handy/0.90_changelog.txt"
+            },
+            "0.97": {
+                "url": "https://consolo.is.cc/emulationking/handy/handy-097.dmg",
+                "os": "Apple"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-01.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-02.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-03.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-04.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-05.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-06.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-07.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-08.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Handy-Atari-LYNX-Emulator-Pic-09.gif"
+        ],
+        "runs": [
+            "windows",
+            "apple"
+        ],
+        "shortDesc": "Handy is basically the only Atari LYNX Emulator. It achieves fairly good emulation of the Atari LYNX and comes with debugging tools to help with the development of homebrew.",
+        "url": "https://emulationking.com/handy/"
     },
     "hatari": {
         "id": "hatari",
@@ -14500,8 +15447,79 @@
                 "bits": 64,
                 "date": "2013-07-29",
                 "changes": "https://consolo.is.cc/emu/higan/092.10-win64_changelog.txt"
+            },
+            "v107": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_v107-windows.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "2021-08-18": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_windows_18_08_2021_nightly.zip",
+                "os": "Windows",
+                "date": "2021/08/18",
+                "branch": "Nightly"
+            },
+            "2021-07-12": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_windows_12_07_2021_nightly.zip",
+                "os": "Windows",
+                "date": "2021/07/12",
+                "branch": "Nightly"
+            },
+            "2021-07-05": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_macosx_05_07_2021_nightly.zip",
+                "os": "Apple",
+                "date": "2021/07/05",
+                "branch": "Nightly"
+            },
+            "2021-05-11": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_windows_11_05_2021_nightly.zip",
+                "os": "Windows",
+                "date": "2021/05/11",
+                "branch": "Nightly"
+            },
+            "2021-05-04": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_windows_04_05_2021_nightly.zip",
+                "os": "Windows",
+                "date": "2021/05/04",
+                "branch": "Nightly"
+            },
+            "2021-05-02": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_windows_02_05_2021_nightly.zip",
+                "os": "Windows",
+                "date": "2021/05/02",
+                "branch": "Nightly"
+            },
+            "2021-04-14": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_windows_14_04_2021_nightly.zip",
+                "os": "Windows",
+                "date": "2021/04/14",
+                "branch": "Nightly"
+            },
+            "2021-04-08": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_windows_08_04_2021_nightly.zip",
+                "os": "Windows",
+                "date": "2021/04/08",
+                "branch": "Nightly"
+            },
+            "v106": {
+                "url": "https://consolo.is.cc/emulationking/higan/higan_v106-windows.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/higan-NES-Emulator-SNES-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/higan-NES-Emulator-SNES-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/higan-NES-Emulator-SNES-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/higan-NES-Emulator-SNES-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/higan-NES-Emulator-SNES-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/higan-NES-Emulator-SNES-Emulator-Pic-06.png"
+        ],
+        "runs": [
+            "windows",
+            "apple"
+        ],
+        "shortDesc": "higan is a relatively new emulator on the GBA scene, but like all projects run by Byuu the emulator aims to be as accurate as possible in its emulation of the GBA system.",
+        "url": "https://emulationking.com/higan/"
     },
     "hola": {
         "id": "hola",
@@ -15344,8 +16362,52 @@
                 "bits": 32,
                 "date": "2011-10-02",
                 "changes": "https://consolo.is.cc/emu/ideas/1.0.4.0_changelog.txt"
+            },
+            "1.0.3.9": {
+                "url": "https://consolo.is.cc/emulationking/ideas-emulator/ideas1040.7z",
+                "os": "Windows"
+            },
+            "Audio": {
+                "url": "https://consolo.is.cc/emulationking/ideas-emulator/syncro%20audio%20plugin%20win-linux.zip",
+                "os": "Download"
+            },
+            "Mic": {
+                "url": "https://consolo.is.cc/emulationking/ideas-emulator/mic%20plugin%20win.zip",
+                "os": "Download"
+            },
+            "WiFi": {
+                "url": "https://consolo.is.cc/emulationking/ideas-emulator/wifiplugin%20win-linux.zip",
+                "os": "Download"
+            },
+            "DsPad": {
+                "url": "https://consolo.is.cc/emulationking/ideas-emulator/DsPad1.6.1%20win-linux.zip",
+                "os": "Download"
+            },
+            "Direct Input": {
+                "url": "https://consolo.is.cc/emulationking/ideas-emulator/dinputplugin%20win.zip",
+                "os": "Download"
+            },
+            "AVI Capture": {
+                "url": "https://consolo.is.cc/emulationking/ideas-emulator/avicapplugin%20win.zip",
+                "os": "Download"
+            },
+            "AceKard": {
+                "url": "https://consolo.is.cc/emulationking/ideas-emulator/acekardplugin%20win-linux.zip",
+                "os": "Download"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ideas-Nintendo-DS-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ideas-Nintendo-DS-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ideas-Nintendo-DS-Emulator-Pic-03.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/ideas-Nintendo-DS-Emulator-Pic-04.gif"
+        ],
+        "runs": [
+            "windows",
+            "linux"
+        ],
+        "shortDesc": "iDeaS was a popular and promising emulator, managing to achieve almost complete support for the Nintendo DS’s multiple processors. Boasting a high compatibility the only downside was the emulation speed and the incomplete GPU renderer.",
+        "url": "https://emulationking.com/ideas-emulator/"
     },
     "ines": {
         "id": "ines",
@@ -15672,7 +16734,20 @@
                 "changes": "https://consolo.is.cc/emu/jagulator/2.0.2_changelog.txt",
                 "notes": "You MUST ensure that the FULL path to the 'boot' & 'roms' folders is entered in the 'jagulator.ini' file."
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Jagulator-Atari-Jaguar-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Jagulator-Atari-Jaguar-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Jagulator-Atari-Jaguar-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Jagulator-Atari-Jaguar-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Jagulator-Atari-Jaguar-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Jagulator-Atari-Jaguar-Emulator-Pic-06.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Jagulator was the very first publicly available Atari Jaguar emulator. Jagulator is capable of running most commercial Atari Jaguar games without any significant issues.",
+        "url": "https://emulationking.com/jagulator/"
     },
     "javacpc": {
         "id": "javacpc",
@@ -15786,8 +16861,26 @@
                 "bits": 32,
                 "date": "2013-06-08",
                 "changes": "https://consolo.is.cc/emu/jnes/1.1.1_changelog.txt"
+            },
+            "1.2.1": {
+                "url": "https://consolo.is.cc/emulationking/jnes/jnes_1_2_1.exe",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/jnes-nes-emulator-screenshot-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/jnes-nes-emulator-screenshot-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/jnes-nes-emulator-screenshot-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/jnes-nes-emulator-screenshot-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/jnes-nes-emulator-screenshot-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/jnes-nes-emulator-screenshot-06.png"
+        ],
+        "runs": [
+            "windows",
+            "android"
+        ],
+        "shortDesc": "Jnes is a Windows and Android NES emulator developed by Jabo, one of the developers of Project 64.",
+        "url": "https://emulationking.com/jnes/"
     },
     "joyce": {
         "id": "joyce",
@@ -15901,8 +16994,25 @@
                 "bits": 32,
                 "date": "2010-09-19",
                 "changes": "https://consolo.is.cc/emu/jpcsp/0.6-win32_changelog.txt"
+            },
+            "2019-11-07": {
+                "url": "https://consolo.is.cc/emulationking/jpcsp/jpcsp-ra6266b67-27-01-2020-macosx.7z",
+                "os": "Apple",
+                "date": "2019/11/07"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/JPCSP-PSP-Emulator-Screenshot-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/JPCSP-PSP-Emulator-Screenshot-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/JPCSP-PSP-Emulator-Screenshot-04.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "JPCSP is another great PSP emulator. Despite being written in Java the emulator still manages to run numerous games at 100% speed.",
+        "url": "https://emulationking.com/jpcsp/"
     },
     "jpemu": {
         "id": "jpemu",
@@ -16046,8 +17156,21 @@
                 "date": "1999-12-05",
                 "changes": "https://consolo.is.cc/emu/jum52/0.5a_changelog.txt",
                 "notes": "Not Tested"
+            },
+            "1.1.0": {
+                "url": "https://consolo.is.cc/emulationking/jum52/jum52_11_PSP.zip",
+                "os": "Download"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/jum52-Atari-5200-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux"
+        ],
+        "shortDesc": "Jum52 is a reliable emulator for the Atari 5200 that is available on Windows and Linux. This emulator can run into issues with its collision detection, so its best to try other emulators first.",
+        "url": "https://emulationking.com/jum52/"
     },
     "jvz200": {
         "id": "jvz200",
@@ -16377,8 +17500,23 @@
                 "bits": 32,
                 "date": "2006-08-23",
                 "changes": "https://consolo.is.cc/emu/kat5200/0.4.1-linux-rpm_changelog.txt"
+            },
+            "0.8.1": {
+                "url": "https://consolo.is.cc/emulationking/kat5200/kat5200-linux-0.8.1.tar.gz",
+                "os": "Linux"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Kat5200-Atari-5200-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Kat5200-Atari-5200-Emulator-Pic-03.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Kat5200 is an advanced open-source Atari 5200 emulator. Unlike most Atari 5200 emulators, Kat5200 requires the Atari 5200’s BIOS to be able to function.",
+        "url": "https://emulationking.com/kat5200/"
     },
     "kc85emu": {
         "id": "kc85emu",
@@ -16875,8 +18013,31 @@
                 "bits": 32,
                 "date": "2004-07-16",
                 "changes": "https://consolo.is.cc/emu/kegafusion/0.1_changelog.txt"
+            },
+            "3.6.4": {
+                "url": "https://consolo.is.cc/emulationking/kega-fusion/Fusion364.zip",
+                "os": "Windows"
+            },
+            "KEGA Fusion": {
+                "url": "https://consolo.is.cc/emulationking/kega-fusion/KEGA_Fusion_PluginsLinux.tar.gz",
+                "os": "Linux"
+            },
+            "3.6.3": {
+                "url": "https://consolo.is.cc/emulationking/kega-fusion/Fusion363x.tar.gz",
+                "os": "Linux"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Kega-fusion-SG-1000-Emulator-SEGA-Master-Sytstem-Emulator-SEGA-Genesis-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Kega-fusion-SG-1000-Emulator-SEGA-Master-Sytstem-Emulator-SEGA-Genesis-Emulator-Pic-03.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "KEGA Fusion is fantastic multi system emulator that has support for the SEGA Genesis. It is regarded as one of the best SEGA Genesis emulators available and has a wealth of extra functionality.",
+        "url": "https://emulationking.com/kega-fusion/"
     },
     "kegs": {
         "id": "kegs",
@@ -17107,8 +18268,27 @@
                 "bits": 32,
                 "date": "2005-10-12",
                 "changes": "https://consolo.is.cc/emu/kigb/2.0.2-linux_changelog.txt"
+            },
+            "2.05": {
+                "url": "https://consolo.is.cc/emulationking/kigb/kigb_lin.tar.gz",
+                "os": "Linux"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/KiGB-GBC-Emulator-Pic-01.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/KiGB-GBC-Emulator-Pic-02.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/KiGB-GBC-Emulator-Pic-03.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/KiGB-GBC-Emulator-Pic-04.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/KiGB-GBC-Emulator-Pic-05.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/KiGB-GBC-Emulator-Pic-06.gif"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "KiGB is a cross-platform GBC Emulator. KiGB is designed to emulate the Game Boy Color as accurate as possible, managing to emulate features of the GBC that were difficult to replicate without precise emulation of the hardware.",
+        "url": "https://emulationking.com/kigb/"
     },
     "kindred": {
         "id": "kindred",
@@ -19524,8 +20704,46 @@
                 "bits": 32,
                 "date": "2014-12-14",
                 "changes": "https://consolo.is.cc/emu/mgba/0.1.0_changelog.txt"
+            },
+            "0.9.3": {
+                "url": "https://consolo.is.cc/emulationking/mgba/mGBA-0.9.3-win32.7z",
+                "os": "Windows"
+            },
+            "0.9.2": {
+                "url": "https://consolo.is.cc/emulationking/mgba/mGBA-0.9.2-win32.7z",
+                "os": "Windows"
+            },
+            "0.9.1": {
+                "url": "https://consolo.is.cc/emulationking/mgba/mGBA-0.9.1-win32.7z",
+                "os": "Windows"
+            },
+            "0.9.0": {
+                "url": "https://consolo.is.cc/emulationking/mgba/mGBA-0.9.0-win32.7z",
+                "os": "Windows"
+            },
+            "0.8.0": {
+                "url": "https://consolo.is.cc/emulationking/mgba/mGBA-0.8.0-win32.7z",
+                "os": "Windows"
+            },
+            "0.7.2": {
+                "url": "https://consolo.is.cc/emulationking/mgba/mGBA-0.7.2-win64.7z",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/mgba-Nintendo-GBA-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/mgba-Nintendo-GBA-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/mgba-Nintendo-GBA-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/mgba-Nintendo-GBA-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/mgba-Nintendo-GBA-Emulator-Pic-05.png"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "mGBA while being a new GBA emulator to hit the web is one of the best, built with portability, speed and accuracy in mind its quickly propped itself up as a GBA emulator to look out for.",
+        "url": "https://emulationking.com/mgba/"
     },
     "micro64": {
         "id": "micro64",
@@ -19879,7 +21097,28 @@
             "jap",
             "pal",
             "usa"
-        ]
+        ],
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2013/01/mupen64plus-logo.jpg",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/Mupen64plus-Nintendo-64-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/mupen64plus-Nintendo-64-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/mupen64plus-Nintendo-64-Emulator-Pic-03.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple",
+            "android"
+        ],
+        "shortDesc": "Mupen64 Plus is another extremely capable Nintendo 64 emulator that has been around for a long time, it has been ported to numerous systems and is regarded as one of the best Nintendo 64 Emulators.",
+        "url": "https://emulationking.com/mupen64/",
+        "description": "Mupen64 Plus (previously known as Mupen64) is a cross-platform Nintendo 64 emulator originally developed by Hacktarux but is now actively developed by richard42g.\nIt is the only emulator that has been developed for use on OSX, Linux, FreeBSD, Windows, and even lately has been ported to work on the Android based phones and tablets, this making its use rather prominent for non windows users.\nIt is the only emulator currently released that has support for a 64-bit dynamic recompiler as well as a 32 bit dynamic recompiler.\nWhile Mupen64 was originally designed to follow Zilmar’s plugin specs, in recent years Richard42g has started to re-write it as his own, this creates problems for getting any plugin that conforms to Zilmars specs to work out of the box with Mupen64 plus.\nHowever thankfully Richard42g does keep a nice group of plugins up to date that follow his specs and as of late has been trying to get the latest Glide64 to work properly with the emulator.",
+        "versions": {
+            "2.5.9": {
+                "url": "https://consolo.is.cc/emulationking/mupen64/mupen64plus-bundle-osx-2.5.9.zip",
+                "os": "Apple"
+            }
+        }
     },
     "mupen64plus": {
         "id": "mupen64plus",
@@ -20786,8 +22025,29 @@
                 "bits": 32,
                 "date": "2010-01-05",
                 "changes": "https://consolo.is.cc/emu/nemulator/2.1_changelog.txt"
+            },
+            "4.4": {
+                "url": "https://consolo.is.cc/emulationking/nemulator/nemulator4.4.zip",
+                "os": "Windows"
+            },
+            "4.3.1": {
+                "url": "https://consolo.is.cc/emulationking/nemulator/nemulator4.3.1.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Nemulator-SEGA-Master-System-Emulator-NES-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Nemulator-SEGA-Master-System-Emulator-NES-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Nemulator-SEGA-Master-System-Emulator-NES-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Nemulator-SEGA-Master-System-Emulator-NES-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Nemulator-SEGA-Master-System-Emulator-NES-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Nemulator-SEGA-Master-System-Emulator-NES-Emulator-Pic-06.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Nemulator is regarded as one of the best NES emulators around. Nemulator offers support for almost all of the NES’s features including undocumented and unofficial features.",
+        "url": "https://emulationking.com/nemulator/"
     },
     "neocdsdl": {
         "id": "neocdsdl",
@@ -21251,8 +22511,39 @@
                 "bits": 32,
                 "date": "2006-06-05",
                 "changes": "https://consolo.is.cc/emu/nestopia/1.31_changelog.txt"
+            },
+            "1.49": {
+                "url": "https://consolo.is.cc/emulationking/nestopia/nestopia_1.49-win32.zip",
+                "os": "Windows"
+            },
+            "1.41": {
+                "url": "https://consolo.is.cc/emulationking/nestopia/nestopia-141%20MAC.dmg",
+                "os": "Apple"
+            },
+            "1.50": {
+                "url": "https://consolo.is.cc/emulationking/nestopia/nestopia-1.50-source.tar.gz",
+                "os": "File-code"
+            },
+            "1.45": {
+                "url": "https://consolo.is.cc/emulationking/nestopia/nestopia-1.45source.tgz",
+                "os": "File-code"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/Nestopia-NES-Emulator-Pic-01-1.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/Nestopia-NES-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/Nestopia-NES-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/Nestopia-NES-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/Nestopia-NES-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/Nestopia-NES-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Nestopia is a highly optemized, cycle accurate emulator for the NES. Thanks to Nestopia’s cycle based emulation it offers near 100% compatiblity with every NES game.",
+        "url": "https://emulationking.com/nestopia/"
     },
     "neusnem": {
         "id": "neusnem",
@@ -21328,7 +22619,20 @@
                 "date": "2003-06-28",
                 "changes": "https://consolo.is.cc/emu/neutrinosx2/0.08.1_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/NeutrinoSX2-PS2-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/NeutrinoSX2-PS2-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/NeutrinoSX2-PS2-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/NeutrinoSX2-PS2-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "NeutrinoSX2 was one of the earliest open-source attempts to emulate the PlayStation 2 system. While unable to emulate commercial games, it helped create an understanding of how the PS2 could be emulated.",
+        "url": "https://emulationking.com/neutrinosx2/"
     },
     "ngae": {
         "id": "ngae",
@@ -21460,8 +22764,20 @@
                 "date": "2016-10-09",
                 "changes": "https://consolo.is.cc/emu/nintendulator/0.975-unicode_changelog.txt",
                 "notes": "Unicode version."
+            },
+            "0.985 Beta": {
+                "url": "https://consolo.is.cc/emulationking/nintendulator/nintendulator0985bin_amd64.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/Nintendulator-NES-Emulator-Pic-01.gif"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Nintendulator aims to be a hardware accurate NES emulator. Nintendulator manages to even emulate odd quirks of the NES hardware that others often neglect to handle properly.",
+        "url": "https://emulationking.com/nintendulator/"
     },
     "nlmsx": {
         "id": "nlmsx",
@@ -21892,8 +23208,32 @@
                 "date": "2017-12-18",
                 "changes": "https://consolo.is.cc/emu/nogba/2.6-dos_changelog.txt",
                 "notes": "Use original BIOS for greater accuracy in emulation."
+            },
+            "3.05": {
+                "url": "https://consolo.is.cc/emulationking/nogba/no$gba-w_3_05.zip",
+                "os": "Windows"
+            },
+            "3.04": {
+                "url": "https://consolo.is.cc/emulationking/nogba/no$gba-w_3_04.zip",
+                "os": "Windows"
+            },
+            "3.0": {
+                "url": "https://consolo.is.cc/emulationking/nogba/no$gba-3-00-gaming.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nosgba-NDS-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nosgba-NDS-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nosgba-NDS-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nosgba-NDS-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nosgba-NDS-Emulator-Pic-05.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "no$gba is one of if not the best Nintendo DS Emulator available, is sadly Windows only but offers some of the best compatibility and performance available for NDS Emulators.",
+        "url": "https://emulationking.com/nogba/"
     },
     "nogmb": {
         "id": "nogmb",
@@ -22088,8 +23428,28 @@
                 "bits": 32,
                 "date": "2014-05-28",
                 "changes": "https://consolo.is.cc/emu/nopsx/1.9_changelog.txt"
+            },
+            "2.0 Debug Build": {
+                "url": "https://consolo.is.cc/emulationking/nopsx/no$psx_2_0.zip",
+                "os": "Windows"
+            },
+            "2.0 Gaming Build": {
+                "url": "https://consolo.is.cc/emulationking/nopsx/no$psx_2_0_gaming.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nopsx-PSX-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nopsx-PSX-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nopsx-PSX-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nopsx-PSX-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nopsx-PSX-Emulator-Pic-05.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "No$PSX is a no thrills PSX emulator that doesn’t require a copy of the bios. It can run almost every PS1 game. The only downside to No$PSX is that if offers no enhancement features.",
+        "url": "https://emulationking.com/nopsx/"
     },
     "nosns": {
         "id": "nosns",
@@ -22382,8 +23742,25 @@
                 "bits": 32,
                 "date": "2010-06-20",
                 "changes": "https://consolo.is.cc/emu/nulldc/1.04_r50_changelog.txt"
+            },
+            "1.04 r136": {
+                "url": "https://consolo.is.cc/emulationking/nulldc/nullDC_Linux_104_r136.7z",
+                "os": "Linux"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/NullDC-SEGA-Dreamcast-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nulldc-SEGA-Dreamcast-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nulldc-SEGA-Dreamcast-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nulldc-SEGA-Dreamcast-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/nulldc-SEGA-Dreamcast-Emulator-Pic-05.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux"
+        ],
+        "shortDesc": "NullDC is a Dreamcast emulator that boasts a high compatibility rate and stable performance. It is a great Dreamcast emulator for those on Windows and Linux based systems.",
+        "url": "https://emulationking.com/nulldc/"
     },
     "nulldcn": {
         "id": "nulldcn",
@@ -23352,8 +24729,25 @@
                 "bits": 32,
                 "date": "2000-09-27",
                 "changes": "https://consolo.is.cc/emu/pcae/2.5-dos_changelog.txt"
+            },
+            "2.6": {
+                "url": "https://consolo.is.cc/emulationking/pc-atari-emulator/pcaewin.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/PC-Atari-Emulator-Atari-2600-Emulator-Pic-01.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/PC-Atari-Emulator-Atari-2600-Emulator-Pic-02.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/PC-Atari-Emulator-Atari-2600-Emulator-Pic-03.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/PC-Atari-Emulator-Atari-2600-Emulator-Pic-04.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/PC-Atari-Emulator-Atari-2600-Emulator-Pic-05.gif",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/PC-Atari-Emulator-Atari-2600-Emulator-Pic-06.gif"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "PC Atari Emulator was one of the very first Atari 2600 emulators. It is a highly optimized emulator with a very easy to use interface.",
+        "url": "https://emulationking.com/pc-atari-emulator/"
     },
     "pcejin": {
         "id": "pcejin",
@@ -23473,8 +24867,20 @@
                 "bits": 32,
                 "date": "2011-10-04",
                 "changes": "https://consolo.is.cc/emu/pcsp/0.5.4_changelog.txt"
+            },
+            "0.5.5": {
+                "url": "https://consolo.is.cc/emulationking/pcsp/pcsp_v0.5.5.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSP-PSP-Emulator.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "PCSP is a PSP emulator that is only really able to run homebrew applications. PCSP does not have enough development to be able to run commercial roms.",
+        "url": "https://emulationking.com/pcsp/"
     },
     "pcsx": {
         "id": "pcsx",
@@ -23625,8 +25031,61 @@
                 "bits": 32,
                 "date": "2016-01-05",
                 "changes": "https://consolo.is.cc/emu/pcsx2/1.4.0_changelog.txt"
+            },
+            "2022-08-16": {
+                "url": "https://consolo.is.cc/emulationking/pcsx2/pcsx2-v1.7.3224-windows-x86_16_08_2022_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/16",
+                "branch": "Nightly"
+            },
+            "2022-08-17": {
+                "url": "https://consolo.is.cc/emulationking/pcsx2/pcsx2-v1.7.3218-windows-x86_17_08_2022_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/17",
+                "branch": "Nightly"
+            },
+            "2022-08-15": {
+                "url": "https://consolo.is.cc/emulationking/pcsx2/pcsx2-v1.7.3212-windows-x86_15_08_2022_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/15",
+                "branch": "Nightly"
+            },
+            "2022-08-14": {
+                "url": "https://consolo.is.cc/emulationking/pcsx2/pcsx2-v1.7.3208-windows-x86_14_08_2022_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/14",
+                "branch": "Nightly"
+            },
+            "2022-08-13": {
+                "url": "https://consolo.is.cc/emulationking/pcsx2/pcsx2-v1.7.3205-windows-x86_13_08_2022_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/13",
+                "branch": "Nightly"
+            },
+            "2022-08-09": {
+                "url": "https://consolo.is.cc/emulationking/pcsx2/pcsx2-v1.7.3198-windows-x86_09_08_2022_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/09",
+                "branch": "Nightly"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX2-PS2-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX2-PS2-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX2-PS2-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX2-PS2-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX2-PS2-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX2-PS2-Emulator-Pic-06.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX2-PS2-Emulator-Pic-07.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX2-PS2-Emulator-Pic-09.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "PCSX2 is the best available PlayStation 2 emulator. It boasts a high level of compatibility and features support for many of the more unique features of the PS2.",
+        "url": "https://emulationking.com/pcsx2/"
     },
     "pcsx2 legacy": {
         "id": "pcsx2 legacy",
@@ -23717,7 +25176,21 @@
                 "date": "2010-08-05",
                 "changes": "https://consolo.is.cc/emu/pcsxr/1.9.92_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX-Reloaded-PSX-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX-Reloaded-PSX-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX-Reloaded-PSX-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX-Reloaded-PSX-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX-Reloaded-PSX-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PCSX-Reloaded-PSX-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux"
+        ],
+        "shortDesc": "PCXS Reloaded is a popular open-source PSX emulator. PCSX Reloaded’s compatibility is on par with that of ePSXe and offers similar performance.",
+        "url": "https://emulationking.com/pcsx-reloaded/"
     },
     "pcsxrr": {
         "id": "pcsxrr",
@@ -24207,7 +25680,73 @@
         ],
         "ext": [
             "iso"
-        ]
+        ],
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/10/play-logo-emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Play-PS2-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Play-PS2-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Play-PS2-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Play-PS2-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Play-PS2-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Play-PS2-Emulator-Pic-06.png"
+        ],
+        "runs": [
+            "windows",
+            "apple",
+            "android"
+        ],
+        "shortDesc": "Play! is a PS2 emulator that aims to emulate the PlayStation 2 to a high enough level that it would not need to rely on the PS2 BIOS to operate as other PlayStation 2 emulators do.",
+        "url": "https://emulationking.com/play-ps2/",
+        "description": "Play! is a relatively new PS2 emulator that has the goal of being portable across Windows, OSX, iOS, and Android platforms. It is primarily developed by a single developer, that developer being Jean-Philip Desjardins.\nPlay! is written in C/C++ and is designed to make use of instruction caching and a dynamic recompiler scheme to try and achieve better performance while emulating the PS2’s complicated CPU.\nThe project is designed as a way for Jean-Philip Desjardins to sharpen his own programming skills and for him to gain more experience in the computer engineering and software engineering fields. Which so far, is an excellent showcase as the emulator is slowly but surely showing some good progress. It currently can run a few games, which is a great achievement in itself, but it runs them with a lot of issues.\nIf the development is kept up, Play! should become a fantastic emulator with a few years of active development put into it.",
+        "versions": {
+            "2022-08-10": {
+                "url": "https://consolo.is.cc/emulationking/play-ps2/Play-x86-32_10_08_2022_nightly.exe",
+                "os": "Windows",
+                "date": "2022/08/10",
+                "branch": "Nightly"
+            },
+            "2022-08-02": {
+                "url": "https://consolo.is.cc/emulationking/play-ps2/Play-x86-32_02_08_2022_nightly.exe",
+                "os": "Windows",
+                "date": "2022/08/02",
+                "branch": "Nightly"
+            },
+            "2022-07-30": {
+                "url": "https://consolo.is.cc/emulationking/play-ps2/Play-x86-32_30_07_2022_nightly.exe",
+                "os": "Windows",
+                "date": "2022/07/30",
+                "branch": "Nightly"
+            },
+            "2022-07-29": {
+                "url": "https://consolo.is.cc/emulationking/play-ps2/Play-x86-32_29_07_2022_nightly.exe",
+                "os": "Windows",
+                "date": "2022/07/29",
+                "branch": "Nightly"
+            },
+            "2022-07-28": {
+                "url": "https://consolo.is.cc/emulationking/play-ps2/Play-x86-32_28_07_2022_nightly.exe",
+                "os": "Windows",
+                "date": "2022/07/28",
+                "branch": "Nightly"
+            },
+            "2022-07-26": {
+                "url": "https://consolo.is.cc/emulationking/play-ps2/Play-x86-32_26_07_2022_nightly.exe",
+                "os": "Windows",
+                "date": "2022/07/26",
+                "branch": "Nightly"
+            },
+            "2022-07-21": {
+                "url": "https://consolo.is.cc/emulationking/play-ps2/Play-x86-32_21_07_2022_nightly.exe",
+                "os": "Windows",
+                "date": "2022/07/21",
+                "branch": "Nightly"
+            },
+            "2020-01-27": {
+                "url": "https://consolo.is.cc/emulationking/play-ps2/Play-26-01-2020-windows-64.exe",
+                "os": "Windows",
+                "date": "2020/01/27"
+            }
+        }
     },
     "playguy": {
         "id": "playguy",
@@ -24220,6 +25759,22 @@
             "emulationking": [
                 "playguy"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2015/03/playguy-logo-thumbnail-transparent.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/PlayGuy-GBC-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "PlayGuy is a highly capable Game Boy Colour emulator that features 100% emulation of the GBC’s processor as well as having accurate timing emulation. PlayGuy was for its time one of the best GBC emulators around.",
+        "url": "https://emulationking.com/playguy/",
+        "description": "PlayGuy is an emulator for the Game Boy Color that offers Full CPU core emulation. It offers a vast majority of the support for Game Boy carts.\nFull emulation of the audio among other features that have become standard for emulators such as filters. With the also added benefit of real-time clock support.\nThe development of PlayGuy has sadly ceased despite making fairly good process, with the website now offline and no new versions been seen since 2007.",
+        "versions": {
+            "1.03b": {
+                "url": "https://consolo.is.cc/emulationking/playguy/PlayGuy_1_03b.zip",
+                "os": "Windows"
+            }
         }
     },
     "plus4emu": {
@@ -24684,8 +26239,109 @@
                 "date": "2016-03-19",
                 "changes": "https://consolo.is.cc/emu/ppsspp/1.2.2_changelog.txt",
                 "notes": "There is also a 32-bit version: 'PPSSPPWindows.exe'."
+            },
+            "1.13.1": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_win_1_13_1_stable.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.13": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_win_1_13_stable.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.12.3": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_win_1_12_3_stable.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.12.2": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_win_1_12_2_stable.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.12.1": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_win_1_12_1_stable.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.12": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_win_1_12_stable.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.11.3": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_win_1_11_3_stable.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.6.3": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_1.9.4_MacOS.zip",
+                "os": "Apple",
+                "branch": "Stable"
+            },
+            "1.7.5": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_1.9.4_Linux.zip",
+                "os": "Linux",
+                "branch": "Stable"
+            },
+            "2022-08-18": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp-v1.13.1-355-g0749f1465-windows-amd64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/18",
+                "branch": "Nightly"
+            },
+            "2022-08-17": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp-v1.13.1-335-g2eed8c9f1-windows-amd64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/17",
+                "branch": "Nightly"
+            },
+            "2022-08-16": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp-v1.13.1-296-g5f9718ef9-windows-amd64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/16",
+                "branch": "Nightly"
+            },
+            "2022-08-14": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp-v1.13.1-289-ga35d26190-windows-amd64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/14",
+                "branch": "Nightly"
+            },
+            "2022-08-13": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp-v1.13.1-270-g4d096925f-windows-amd64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/13",
+                "branch": "Nightly"
+            },
+            "2022-08-12": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp-v1.13.1-259-gade8b8876-windows-amd64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/08/12",
+                "branch": "Nightly"
+            },
+            "1.9.4": {
+                "url": "https://consolo.is.cc/emulationking/ppsspp/ppsspp_1.9.4_Android.apk",
+                "os": "Android"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PPSSPP-PSP-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PPSSPP-PSP-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PPSSPP-PSP-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PPSSPP-PSP-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PPSSPP-PSP-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PPSSPP-PSP-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple",
+            "android"
+        ],
+        "shortDesc": "PPSSPP is one of the best PSP emulators around. It boasts a speedy core while retaining a tremendous compatibility rate, making PPSSPP the go-to emulator for PSP emulation.",
+        "url": "https://emulationking.com/ppsspp/"
     },
     "primehack": {
         "id": "primehack",
@@ -24889,8 +26545,29 @@
                 "bits": 32,
                 "date": "2001-05-25",
                 "changes": "https://consolo.is.cc/emu/project64/1.0_changelog.txt"
+            },
+            "2.4.0": {
+                "url": "https://consolo.is.cc/emulationking/project-64/Project64-2.4-windows.zip",
+                "os": "Windows"
+            },
+            "2.3.2": {
+                "url": "https://consolo.is.cc/emulationking/project-64/pj64-v2.3.2-setup.exe",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/project-64-n64-emulator-pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/project-64-n64-emulator-pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/project-64-n64-emulator-pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/project-64-n64-emulator-pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/project-64-n64-emulator-pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/project-64-n64-emulator-pic-06.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Project 64 is probably the most famous of the Nintendo 64 Emulators, it has been around for an extremely long time and has done an amazing job at successfully emulating the Nintendo 64, while still being performance friendly.",
+        "url": "https://emulationking.com/project-64/"
     },
     "project64k": {
         "id": "project64k",
@@ -25275,7 +26952,20 @@
                 "date": "2002-10-06",
                 "changes": "https://consolo.is.cc/emu/projecttempest/0.10_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Project-Tempest-Atari-Jaguar-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Project-Tempest-Atari-Jaguar-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Project-Tempest-Atari-Jaguar-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Project-Tempest-Atari-Jaguar-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Project-Tempest-Atari-Jaguar-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Project-Tempest-Atari-Jaguar-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Project Tempest was one of the very first Atari Jaguar emulators. It managed even successfully to emulate several commercial games completely.",
+        "url": "https://emulationking.com/project-tempest/"
     },
     "prosystem": {
         "id": "prosystem",
@@ -25359,7 +27049,16 @@
                 "date": "2005-02-26",
                 "changes": "https://consolo.is.cc/emu/prosystem/1.0_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/ProSystem-Atari-7800-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/ProSystem-Atari-7800-Emulator-Pic-02.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "ProSystem Emulator is an open-source and highly capable Atari 7800 emulator. ProSystem Emulator manages to emulate all known features of the Atari 7800.",
+        "url": "https://emulationking.com/prosystem-emulator/"
     },
     "ps2emu": {
         "id": "ps2emu",
@@ -25397,8 +27096,23 @@
                 "bits": 32,
                 "date": "2004-05-06",
                 "changes": "https://consolo.is.cc/emu/ps2emu/alpha01_changelog.txt"
+            },
+            "0.1 Alpha": {
+                "url": "https://consolo.is.cc/emulationking/ps2emu/PS2EMU_-_Alpha_01.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PS2emu-PS2-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PS2emu-PS2-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PS2emu-PS2-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PS2emu-PS2-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "PS2emu is an experimental PlayStation 2 emulator that was used as a testbed for techniques to speed up PS2 emulation. This emulator cannot run any PS2 games and is no longer in development.",
+        "url": "https://emulationking.com/ps2emu/"
     },
     "psinex": {
         "id": "psinex",
@@ -25647,7 +27361,22 @@
                 "date": "2006-01-22",
                 "changes": "https://consolo.is.cc/emu/psx/1.0_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-06.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-07.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/pSX-PlayStation-1-emulator-pic-08.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "pSX is a PlayStation 1 emulator that claims to emulate the PSX hardware fully. While not as developed as ePSXe or PCSX reloaded, it should offer decent compatibility.",
+        "url": "https://emulationking.com/psx-emu/"
     },
     "psxeven": {
         "id": "psxeven",
@@ -25689,7 +27418,15 @@
                 "date": "2005-04-29",
                 "changes": "https://consolo.is.cc/emu/psxeven/0.19_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/PSXeven-PSX-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "PSXeven is a speedy emulator for the PlayStation 1. It features a simple user interface and a decent set of features such as a memory card manager.",
+        "url": "https://emulationking.com/psxeven/"
     },
     "psxjin": {
         "id": "psxjin",
@@ -26267,8 +28004,30 @@
                 "date": "2012-08-25",
                 "changes": "https://consolo.is.cc/emu/rainbow/2.20_changelog.txt",
                 "notes": "You also need to install Microsoft Visual C++ 2010 Redistributable Package."
+            },
+            "2.1": {
+                "url": "https://consolo.is.cc/emulationking/rainbow/rainbow220.zip",
+                "os": "Windows"
+            },
+            "1.57": {
+                "url": "https://consolo.is.cc/emulationking/rainbow/rainbow-157.dmg",
+                "os": "Apple"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Rainbow-Atari-5200-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Rainbow-Atari-5200-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Rainbow-Atari-5200-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Rainbow-Atari-5200-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Rainbow-Atari-5200-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Rainbow-Atari-5200-Emulator-Pic-06.png"
+        ],
+        "runs": [
+            "windows",
+            "apple"
+        ],
+        "shortDesc": "Rainbow was one of the first Atari 5200 emulators to be ported to macOS. It achieves compatiblity with the vast majority of Atari 5200 games.",
+        "url": "https://emulationking.com/rainbow/"
     },
     "rascalboyadv": {
         "id": "rascalboyadv",
@@ -26309,8 +28068,22 @@
                 "bits": 32,
                 "date": "2006-02-10",
                 "changes": "https://consolo.is.cc/emu/rascalboyadv/1.3.0.0_changelog.txt"
+            },
+            "1.0.0.0": {
+                "url": "https://consolo.is.cc/emulationking/rascalboy-advance/rbamulti_1000.zip",
+                "os": "Download"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/RascalBoy-Advance-GBA-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/RascalBoy-Advance-GBA-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/RascalBoy-Advance-GBA-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "RascalBoy Advance was one of the more promising emulators for the GBA, it challenged Visual Boy advance a time for the top spot but development sadly ceased.",
+        "url": "https://emulationking.com/rascalboy-advance/"
     },
     "real80pro": {
         "id": "real80pro",
@@ -26775,6 +28548,31 @@
             "scoop-emulators": [
                 "reicast"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/08/reicast-logo-SEGA-Dreamcast-Emulator.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/reicast-SEGA-Dreamcast-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/reicast-SEGA-Dreamcast-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/reicast-SEGA-Dreamcast-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/reicast-SEGA-Dreamcast-Emulator-Pic-05.png"
+        ],
+        "runs": [
+            "windows",
+            "android"
+        ],
+        "shortDesc": "Reicast is a fast and highly compatible Dreamcast emulator by the same team that developed NullDC. Reicast primarily focuses on Android, but builds are available for Windows as well.",
+        "url": "https://emulationking.com/reicast/",
+        "description": "Reicast is a Dreamcast emulator developed in part by some of the developers of NullDC. The idea behind the project is to make a Dreamcast emulator that is both highly portable while also being fast and retain a great compatibility rate.\nWhile being extremely tough goals to actually meet, the team is knowledgeable enough to be able to pull it off. Reicast is one of the few remaining Dreamcast emulators that are still continually being developed.\nReicast is capable of rendering Dreamcast games at a higher internal resolution, allowing them to look much nicer on a HD screen then just stretching the original image will.\nHowever Reicast, much like the emulator it is based off NullDC requires the Dreamcast BIOS to be able to run, while we cannot provide BIOS files here due to there copyright nature there not the hardest things to come by.\nThe Windows builds of Reicast have not really been tested, we instead recommend those who are running on a Windows PC to check out NullDC or DEmul.",
+        "versions": {
+            "r20.04": {
+                "url": "https://consolo.is.cc/emulationking/reicast/Reicast.r20.04.apk",
+                "os": "Android"
+            },
+            "2020-01-27": {
+                "url": "https://consolo.is.cc/emulationking/reicast/reicast-android-27-01-2020.apk",
+                "os": "Android",
+                "date": "2020/01/27"
+            }
         }
     },
     "residualvm": {
@@ -31492,8 +33290,70 @@
                 "bits": 64,
                 "date": "2016-10-20",
                 "changes": "https://consolo.is.cc/emu/rpcs3/0.0.1-3-973bf5a-Pre-Alpha_changelog.txt"
+            },
+            "0.0.21-13331 2022-03-03": {
+                "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.21-13331-e33b1306_win64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/03/03",
+                "branch": "Nightly"
+            },
+            "0.0.21-13329 2022-03-01": {
+                "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.21-13329-0dbfe314_win64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/03/01",
+                "branch": "Nightly"
+            },
+            "0.0.21-13326 2022-02-28": {
+                "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.21-13326-a8e62e1b_linux64_nightly.AppImage",
+                "os": "Linux",
+                "date": "2022/02/28",
+                "branch": "Nightly"
+            },
+            "0.0.20-13325 2022-02-28": {
+                "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.20-13325-42aa8f26_win64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/02/28",
+                "branch": "Nightly"
+            },
+            "0.0.20-13324 2022-02-27": {
+                "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.20-13324-af95ff5f_win64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/02/27",
+                "branch": "Nightly"
+            },
+            "0.0.20-13322 2022-02-26": {
+                "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.20-13322-7d26e61d_win64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/02/26",
+                "branch": "Nightly"
+            },
+            "0.0.20-13320 2022-02-25": {
+                "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.20-13320-6db5d836_win64_nightly.7z",
+                "os": "Windows",
+                "date": "2022/02/25",
+                "branch": "Nightly"
+            },
+            "0.0.8 2020-01-27": {
+                "url": "https://consolo.is.cc/emulationking/rpcs3/rpcs3-v0.0.8-9451-7f07b79c_win64.7z",
+                "os": "Windows",
+                "date": "2020/01/27",
+                "branch": "Nightly"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/RPCS3-PS3-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/RPCS3-PS3-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/RPCS3-PS3-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/RPCS3-PS3-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/RPCS3-PS3-Emulator-Pic-05.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "RCPS3 is the premiere PS3 emulator. It has managed to make considerable strides in emulating the complicated PS3 architecture and can now run several games without any significant hitches.",
+        "url": "https://emulationking.com/rpcs3/"
     },
     "rpix86": {
         "id": "rpix86",
@@ -31742,8 +33602,22 @@
                 "bits": 32,
                 "date": "2003-05-25",
                 "changes": "https://consolo.is.cc/emu/satourne/1.0p_changelog.txt"
+            },
+            "2.0 BETA 3": {
+                "url": "https://consolo.is.cc/emulationking/satourne/satourne_beta_3_update.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Satourne-SEGA-Saturn-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Satourne-SEGA-Saturn-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Satourne-SEGA-Saturn-Emulator-Pic-03.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Satourne is a now-defunct SEGA Saturn emulator. It was the first SEGA Saturn emulator that was able to emulate commercial SEGA Saturn games successfully.",
+        "url": "https://emulationking.com/satourne/"
     },
     "saturnin": {
         "id": "saturnin",
@@ -32599,8 +34473,124 @@
                 "bits": 32,
                 "date": "2003-07-25",
                 "changes": "https://consolo.is.cc/emu/snes9x/1.40_changelog.txt"
+            },
+            "1.61": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-win32_stable.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.60": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.60-win32.zip",
+                "os": "Windows",
+                "branch": "Stable"
+            },
+            "1.53": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.53-gtk-81-x86_64.tar.bz2",
+                "os": "Linux",
+                "branch": "Stable"
+            },
+            "1.5.38": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/Snes9xEXPlus-9-1.5.38.apk",
+                "os": "Android",
+                "branch": "Stable"
+            },
+            "1.61-1073": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-1073-8c0a4a4-win32_30_04_2022_nightly.zip",
+                "os": "Windows",
+                "branch": "Nightly"
+            },
+            "1.61-1072": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-1072-f3fafab-win32_25_04_2022_nightly.zip",
+                "os": "Windows",
+                "branch": "Nightly"
+            },
+            "3c729a9763263bc3a69f48370e43ae05e672970a": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x_macos_19_04_2022_nightly.zip",
+                "os": "Apple",
+                "branch": "Nightly"
+            },
+            "1.61-1071": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-1071-3c729a9-win32_19_04_2022_nightly.zip",
+                "os": "Windows",
+                "branch": "Nightly"
+            },
+            "1085ed6fad46eee3335db6f8e732399e513a95d8": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x_macos_13_04_2022_nightly.zip",
+                "os": "Apple",
+                "branch": "Nightly"
+            },
+            "1.61-1070": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-1070-1085ed6-win32_13_04_2022_nightly.zip",
+                "os": "Windows",
+                "branch": "Nightly"
+            },
+            "7cbe92afa0aec329116af42ea296532a3ed44faa": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x_macos_12_04_2022_nightly.zip",
+                "os": "Apple",
+                "branch": "Nightly"
+            },
+            "1.61-1069": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-1069-7cbe92a-win32_12_04_2022_nightly.zip",
+                "os": "Windows",
+                "branch": "Nightly"
+            },
+            "6628042fe386197648334063f70e6a94350b9bf7": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x_macos_11_04_2022_nightly.zip",
+                "os": "Apple",
+                "branch": "Nightly"
+            },
+            "1.61-1066": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-1066-6628042-win32_11_04_2022_nightly.zip",
+                "os": "Windows",
+                "branch": "Nightly"
+            },
+            "ba472fe3ef236028ab898a8c4059306faad8206b": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x_macos_11_04_2022_nightly.zip",
+                "os": "Apple",
+                "branch": "Nightly"
+            },
+            "1.61-1065": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-1065-ba472fe-win32_11_04_2022_nightly.zip",
+                "os": "Windows",
+                "branch": "Nightly"
+            },
+            "78d006ffdbb5cb6944177db52c3640152948d928": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x_macos_24_03_2022_nightly.zip",
+                "os": "Apple",
+                "branch": "Nightly"
+            },
+            "1.61-1059": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x-1.61-1059-78d006f-win32-x64_24_03_2022_nightly.zip",
+                "os": "Windows",
+                "branch": "Nightly"
+            },
+            "0a20681778aa7f5b12b61810917fc31855808181": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x_macos_21_03_2022_nightly.zip",
+                "os": "Apple",
+                "branch": "Nightly"
+            },
+            "93d538dfafbe88976ccdbc7a09c4f71a4d34ad1a": {
+                "url": "https://consolo.is.cc/emulationking/snes9x/snes9x_linux64_18_03_2022_nightly.zip",
+                "os": "Linux",
+                "branch": "Nightly"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/snes9x-SNES-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/snes9x-SNES-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/snes9x-SNES-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/snes9x-SNES-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/snes9x-SNES-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/snes9x-SNES-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple",
+            "android"
+        ],
+        "shortDesc": "snes9x is one of the most popular and portable SNES emulators. Unlike higan, snes9x has a focus on achieving the best speeds possible making it a great alternative to higan if your computer can not handle the cycle-accurate emulation.",
+        "url": "https://emulationking.com/snes9x/"
     },
     "snes9xrr": {
         "id": "snes9xrr",
@@ -32827,6 +34817,26 @@
             "emulationking": [
                 "soywiz-psp-emu"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/07/soywiz-psp-emulator-logo-thumb.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Soywiz-PSP-emu-PSP-Emulator-Pic-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Soywiz-PSP-emu-PSP-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Soywiz-PSP-emu-PSP-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Soywiz-PSP-emu-PSP-Emulator-Pic-04.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux"
+        ],
+        "shortDesc": "Soywiz PSP Emu is a PSP emulator written in C# for both Windows and Linux. While not in active development, it is a capable PSP emulator.",
+        "url": "https://emulationking.com/soywiz-psp-emu/",
+        "description": "Soywiz PSP Emu was a Sony PSP emulator written in C# for Windows and LInux. It was a capable emulator that was able to run several commercial PSP games at a decent speed, development was going quite speedily till the developer decided to move onto a new project, namely jspspemu.\nSoywize PSP emu had implemented an assortment of extra features alongside a strong dynamic recompiler core, this included the ability to increase the size of the render target to improve there rendering when scaled to larger screen sizes.\nUltimately like many emulators, this showed a tremendous amount of improvements and progress on emulating the PSP until development ultimately was abandoned.",
+        "versions": {
+            "r525": {
+                "url": "https://consolo.is.cc/emulationking/soywiz-psp-emu/cspspemu%20r525.zip",
+                "os": "File-code"
+            }
         }
     },
     "speccy": {
@@ -33287,8 +35297,28 @@
                 "bits": 32,
                 "date": "2011-12-25",
                 "changes": "https://consolo.is.cc/emu/ssf/0.12b-r3_changelog.txt"
+            },
+            "0.9.14": {
+                "url": "https://consolo.is.cc/emulationking/ssf/SSF_012_beta_R4.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/10/ssf-logo-thumbnail.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-06.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-07.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSF-SEGA-Saturn-Emulator-Pic-08.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "SSF is regarded as one of the best available SEGA Saturn emulators for Windows. The emulator manages to emulate the vast majority of SEGA Saturn successfully.",
+        "url": "https://emulationking.com/ssf/"
     },
     "ssspsx": {
         "id": "ssspsx",
@@ -33304,6 +35334,22 @@
             "emulationking": [
                 "ssspsx"
             ]
+        },
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/10/ssspsx-logo-thumbnail.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/SSSPSX-PSX-Emulator-Pic-01.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "SSSPSX is a PlayStation 1 emulator that features a fast and highly compatible recompiler core. What SSSPSX has in speed and compatibility it lacks in extra functionality.",
+        "url": "https://emulationking.com/ssspsx/",
+        "description": "SSSPSX is a Japanese PSX Emulator for Windows. Developed by a contributor to the PCSX2 project, SSSPSX had a very promising start. Most of the work done on the emulator was to make a fast and highly compatible Recompiler core.\nWhile the recompiler core worked out extremely well, other hardware elements of the PlayStation did not get the same level of work leaving SSSPSX a fast and capable emulator but just one that hasn’t had the time and polish it really needed to become a fantastic emulator. \nDevelopment on this emulator appears to have been stopped.\nPlease note to use this emulator you will require the PlayStation 1 BIOS files.",
+        "versions": {
+            "0.0.34e": {
+                "url": "https://consolo.is.cc/emulationking/ssspsx/SSSPSX-0.0.34e.ZIP",
+                "os": "Windows"
+            }
         }
     },
     "steem": {
@@ -34340,8 +36386,41 @@
                 "bits": 32,
                 "date": "2002-04-21",
                 "changes": "https://consolo.is.cc/emu/stella/1.2.1_changelog.txt"
+            },
+            "6.7": {
+                "url": "https://consolo.is.cc/emulationking/stella/Stella-6.7-win32.exe",
+                "os": "Windows"
+            },
+            "6.6": {
+                "url": "https://consolo.is.cc/emulationking/stella/Stella-6.6-win32.exe",
+                "os": "Windows"
+            },
+            "6.5.3": {
+                "url": "https://consolo.is.cc/emulationking/stella/Stella-6.5.3-win32.exe",
+                "os": "Windows"
+            },
+            "6.5.2": {
+                "url": "https://consolo.is.cc/emulationking/stella/Stella-6.5.2-win32.exe",
+                "os": "Windows"
+            },
+            "6.0.2": {
+                "url": "https://consolo.is.cc/emulationking/stella/Stella-6.0.2-x64.exe",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Stella-Atari-2600-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Stella-Atari-2600-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Stella-Atari-2600-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Stella-Atari-2600-Emulator-Pic-04.png"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Stella is an open-source Atari 2600 emulator. It is one of the only Atari 2600 emulators that have remained in active development and is the best emulator for the Atari 2600 available.",
+        "url": "https://emulationking.com/stella/"
     },
     "stem": {
         "id": "stem",
@@ -34584,8 +36663,20 @@
                 "date": "2009-02-28",
                 "changes": "https://consolo.is.cc/emu/supergcube/0.4a_changelog.txt",
                 "notes": "'gcube.exe' is Command-Line. There is also a Front-End 'gCubeFront.exe'. NB: Requires '.iso' files to be renamed to '.gcm'."
+            },
+            "0.4a rev0110": {
+                "url": "https://consolo.is.cc/emulationking/supergcube/SuperGCube_0.4a_rev_0110_win32.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/SuperGCube-Nintendo-GameCube-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "SuperGCube is the continuation of the open source emulator GCube. However it made a decision to make it solely a windows project. The decision to continue the source code of GCube was made due to the original code base.",
+        "url": "https://emulationking.com/supergcube/"
     },
     "supermodel": {
         "id": "supermodel",
@@ -34937,8 +37028,21 @@
                 "bits": 32,
                 "date": "2001-09-26",
                 "changes": "https://consolo.is.cc/emu/tgbdual/7.2053-0.96_changelog.txt"
+            },
+            "0.96": {
+                "url": "https://consolo.is.cc/emulationking/tgb-dual/tgb_dual_8_3-1023.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/TGB-Dual-GBC-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/TGB-Dual-GBC-Emulator-Pic-02.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "TGB Dual was one of the first GBC emulators to implement the  Game Boy link functionality. TGB Dual uses TCP networking to allow users to connect over the internet or to another instance running on the same computer. ",
+        "url": "https://emulationking.com/tgb-dual/"
     },
     "ti994w": {
         "id": "ti994w",
@@ -35147,7 +37251,17 @@
                 "date": "2014-05-11",
                 "changes": "https://consolo.is.cc/emu/tronds/1.0.0.1_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/TronDS-3DS-Emulator-Screen-1.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/TronDS-3DS-Emulator-Screen-2.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/TronDS-3DS-Emulator-Screen-3.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "TronDS was one of 3 promising Nintendo 3DS Emulators, while it made some decent inroads and was capable of emulating some homebrew development ultimately ended. It was not capable of emulating commercial 3DS games.",
+        "url": "https://emulationking.com/tronds/"
     },
     "trs80gp": {
         "id": "trs80gp",
@@ -36126,8 +38240,21 @@
                 "bits": 32,
                 "date": "2010-04-30",
                 "changes": "https://consolo.is.cc/emu/vbjin/svn44_changelog.txt"
+            },
+            "r61": {
+                "url": "https://consolo.is.cc/emulationking/vbjin/VBjin-svn61.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/vbjin-Virtual-Boy-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/vbjin-Virtual-Boy-Emulator-Pic-02.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "vbjin is one of the only emulators that offer support for the Virtual Boy. vbjin successfully manages to emulate the minuscule library that is available for the Virtual Boy and is the only real option if you want to check out the system.",
+        "url": "https://emulationking.com/vbjin/"
     },
     "vbjin-ovr": {
         "id": "vbjin-ovr",
@@ -37048,8 +39175,30 @@
                 "date": "2003-08-27",
                 "changes": "https://consolo.is.cc/emu/virtualjaguar/1.0.5_changelog.txt",
                 "notes": "Not Working"
+            },
+            "2.1.2": {
+                "url": "https://consolo.is.cc/emulationking/virtualjaguar/virtualjaguar-2.1.2.tar.bz2",
+                "os": "Linux"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-04.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-05.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-06.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-07.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-08.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/Virtual-Jaguar-Atari-Jaguar-Emulator-Pic-09.png"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Virtual Jaguar is the best Atari Jaguar emulator that is available. It offers the highest compatibility for the Atari Jaguar and can play numerous games without any issues.",
+        "url": "https://emulationking.com/virtualjaguar/"
     },
     "virtualmc10": {
         "id": "virtualmc10",
@@ -37712,8 +39861,32 @@
                 "bits": 32,
                 "date": "2002-11-09",
                 "changes": "https://consolo.is.cc/emu/visualboyadvance/1.2_changelog.txt"
+            },
+            "v2.1.4": {
+                "url": "https://consolo.is.cc/emulationking/visual-boy-advance/visualboyadvance-m-Win-32bit_v2_1_4.zip",
+                "os": "Windows"
+            },
+            "2.1.4": {
+                "url": "https://consolo.is.cc/emulationking/visual-boy-advance/visualboyadvance-m-2.1.4-Mac-32bit.zip",
+                "os": "Apple"
+            },
+            "2.1.3": {
+                "url": "https://consolo.is.cc/emulationking/visual-boy-advance/visualboyadvance-m-2.1.3-Mac-32bit.zip",
+                "os": "Apple"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/visual-boy-advance-VBA-M-GBA-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/visual-boy-advance-VBA-M-GBA-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/visual-boy-advance-VBA-M-GBA-Emulator-Pic-03.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Visual Boy Advance is an open source emulator for the Game Boy, Game Boy Color and the Game Boy Advance. The emulator even goes as far to also offer emulation for the Super Game Boy and the Super Game Boy 2.",
+        "url": "https://emulationking.com/visual-boy-advance/"
     },
     "visualboyadvance-rr": {
         "id": "visualboyadvance-rr",
@@ -38307,8 +40480,26 @@
                 "bits": 32,
                 "date": "2004-06-12",
                 "changes": "https://consolo.is.cc/emu/whinecube/Release1_changelog.txt"
+            },
+            "r7": {
+                "url": "https://consolo.is.cc/emulationking/whinecube/whinecube_r7.zip",
+                "os": "Windows"
+            },
+            "r8": {
+                "url": "https://consolo.is.cc/emulationking/whinecube/whinecube_r8_src.zip",
+                "os": "File-code"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/WhineCube-Nintendo-GameCube-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/WhineCube-Nintendo-GameCube-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2015/03/WhineCube-Nintendo-GameCube-Emulator-Pic-03.png"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "WhineCube was part of a string of GameCube emulators for Windows written in C++. Though in comparison to its competitors, the emulator was never able to run any commercial games. However it could still run some.",
+        "url": "https://emulationking.com/whinecube/"
     },
     "win64": {
         "id": "win64",
@@ -40354,8 +42545,51 @@
                 "date": "2014-06-03",
                 "changes": "https://consolo.is.cc/emu/xenia/2014.06.03_changelog.txt",
                 "notes": "This emulator is 64bit ONLY."
+            },
+            "2022-07-25": {
+                "url": "https://consolo.is.cc/emulationking/xenia/xenia_master_25_07_2022.zip",
+                "os": "Windows",
+                "date": "2022/07/25"
+            },
+            "2022-07-24": {
+                "url": "https://consolo.is.cc/emulationking/xenia/xenia_master_24_07_2022.zip",
+                "os": "Windows",
+                "date": "2022/07/24"
+            },
+            "2022-07-22": {
+                "url": "https://consolo.is.cc/emulationking/xenia/xenia_master_22_07_2022.zip",
+                "os": "Windows",
+                "date": "2022/07/22"
+            },
+            "2022-07-18": {
+                "url": "https://consolo.is.cc/emulationking/xenia/xenia_master_18_07_2022.zip",
+                "os": "Windows",
+                "date": "2022/07/18"
+            },
+            "2022-07-16": {
+                "url": "https://consolo.is.cc/emulationking/xenia/xenia_master_16_07_2022.zip",
+                "os": "Windows",
+                "date": "2022/07/16"
+            },
+            "2022-07-14": {
+                "url": "https://consolo.is.cc/emulationking/xenia/xenia_master_14_07_2022.zip",
+                "os": "Windows",
+                "date": "2022/07/14"
+            },
+            "2022-07-09": {
+                "url": "https://consolo.is.cc/emulationking/xenia/xenia_master_09_07_2022.zip",
+                "os": "Windows",
+                "date": "2022/07/09"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Xenia-Xbox-360-Emulator-Pic-01.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Xenia is the breakthrough Xbox 360 Emulator. It is the only publicly available and open-source emulator available for the system. It manages to emulate several commercial Xbox 360 games successfully.",
+        "url": "https://emulationking.com/xenia/"
     },
     "xeon": {
         "id": "xeon",
@@ -40395,8 +42629,20 @@
                 "bits": 32,
                 "date": "2003-08-09",
                 "changes": "https://consolo.is.cc/emu/xeon/1.0_changelog.txt"
+            },
+            "0.10": {
+                "url": "https://consolo.is.cc/emulationking/xeon/Xeon_10.rar",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/Xeon-Microsoft-Xbox-Emulator-Pic01.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "Xeon was an Xbox emulator that had the sole purpose of trying to emulate Halo on the PC successfully. While being able to get in-game, Xeon was never fast enough to be playable.",
+        "url": "https://emulationking.com/xeon/"
     },
     "xgs32": {
         "id": "xgs32",
@@ -41443,8 +43689,29 @@
                 "bits": 32,
                 "date": "2009-05-31",
                 "changes": "https://consolo.is.cc/emu/yabause/0.9.10_changelog.txt"
+            },
+            "0.9.14": {
+                "url": "https://consolo.is.cc/emulationking/yabause/yabause-0.9.14-dc.tar.bz2",
+                "os": "Download"
+            },
+            "0.9.15": {
+                "url": "https://consolo.is.cc/emulationking/yabause/yabause-0.9.15-win64.zip",
+                "os": "Windows"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/yabause-SEGA-Saturn-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/yabause-SEGA-Saturn-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/yabause-SEGA-Saturn-Emulator-Pic-03.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2016/08/yabause-SEGA-Saturn-Emulator-Pic-04.png"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "Yabause is a popular SEGA Saturn emulator that is available on numerous different systems. While not as capable as the closed source SSF emulator, it is one of the easiest to use.",
+        "url": "https://emulationking.com/yabause/"
     },
     "yabaused": {
         "id": "yabaused",
@@ -41896,7 +44163,73 @@
         ],
         "cmd": [
             "%BIN% -f -g %ROM%"
-        ]
+        ],
+        "logo": "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-logo.png",
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-01.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-06.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-07.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-08.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-09.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-10.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-11.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2020/01/yuzu-nintendo-switch-emulator-screenshot-12.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux"
+        ],
+        "shortDesc": "Yuzu is a fantastic emulator for the Nintendo Switch. It successfully manages to emulate numerous commercially available games. In a short time, Yuzu has managed to emulate various aspects of the Nintendo Switch.",
+        "url": "https://emulationking.com/yuzu-emulator/",
+        "description": "Yuzu is a popular open-source emulator for the Nintendo Switch and is the first to manage to emulate the video game console successfully. This Switch emulator is primarily written by the same team that created the popular 3DS Emulator, Citra.\nWhile still a relatively new emulator, Yuzu has managed to already successfully emulate numerous elements of the Nintendo Switch at speed comparable to the original hardware.\nThe team has even emulated the BCAT Switch service that is used to add content to games dynamically. Using the emulated service, the Yuzu team can replicate and create their own in-game events.\nAn example of the things this enables is giving you extra items when starting the game in Breath of the Wild or more ability chunks in Splatoon 2.\nIn addition to this, the emulator can even render Switch games at higher resolutions than the original hardware intended, meaning you can play games at resolutions higher than 1080p.\nWhile Yuzu can not currently run most commercial games, the team is making a tremendous amount of progress every day. The Yuzu team provides a list of all Switch games and how well they work with the emulator. You can view this list by checking out the compatibility list.\nRecent versions of Yuzu have added support for Vulkan. Vulkan allows faster rendering thanks to less CPU overhead and also giving a speed boost to those using AMD GPUs.\nYuzu has builds available for Windows and Linux. Builds for macOS are no longer available due to Apple removing OpenGL support from macOS in favor of their own graphics API.\nIf you want to check out the development process of this Switch emulator, you can check out the official Yuzu GitHub repository. The repository also contains steps on how you can compile this Switch emulator on your system.\nBelow you will find download links for Yuzu for both the Windows and Linux operating systems.",
+        "versions": {
+            "2022-08-18": {
+                "url": "https://consolo.is.cc/emulationking/yuzu-emulator/yuzu-windows-msvc-20220818-5fcb5e4c3_mainline.zip",
+                "os": "Windows",
+                "date": "2022/08/18",
+                "branch": "Mainline"
+            },
+            "2022-08-17": {
+                "url": "https://consolo.is.cc/emulationking/yuzu-emulator/yuzu-windows-msvc-20220817-90366a461_mainline.zip",
+                "os": "Windows",
+                "date": "2022/08/17",
+                "branch": "Mainline"
+            },
+            "2022-08-16": {
+                "url": "https://consolo.is.cc/emulationking/yuzu-emulator/yuzu-windows-msvc-20220816-248f82ac6_mainline.zip",
+                "os": "Windows",
+                "date": "2022/08/16",
+                "branch": "Mainline"
+            },
+            "2022-08-15": {
+                "url": "https://consolo.is.cc/emulationking/yuzu-emulator/yuzu-windows-msvc-20220815-0d3ccfbd2_mainline.zip",
+                "os": "Windows",
+                "date": "2022/08/15",
+                "branch": "Mainline"
+            },
+            "2022-08-14": {
+                "url": "https://consolo.is.cc/emulationking/yuzu-emulator/yuzu-windows-msvc-20220814-60db504e7_mainline.zip",
+                "os": "Windows",
+                "date": "2022/08/14",
+                "branch": "Mainline"
+            },
+            "2022-08-13": {
+                "url": "https://consolo.is.cc/emulationking/yuzu-emulator/yuzu-windows-msvc-20220813-9f7e98c05_mainline.zip",
+                "os": "Windows",
+                "date": "2022/08/13",
+                "branch": "Mainline"
+            },
+            "2022-08-12": {
+                "url": "https://consolo.is.cc/emulationking/yuzu-emulator/yuzu-windows-msvc-20220812-91c58b56a_mainline.zip",
+                "os": "Windows",
+                "date": "2022/08/12",
+                "branch": "Mainline"
+            }
+        }
     },
     "z26": {
         "id": "z26",
@@ -42061,8 +44394,22 @@
                 "date": "2003-06-16",
                 "changes": "https://consolo.is.cc/emu/z26/1.58_changelog.txt",
                 "notes": "Runs only on 32-bit systems!"
+            },
+            "4.07": {
+                "url": "https://consolo.is.cc/emulationking/z26/z26_407_src.zip",
+                "os": "File-code"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2016/09/z26-Atari-2600-Emulator-Pic-01.gif"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "z26 is a capable emulator for the Atari 2600 system. z26 makes use of an OpenGL rendering engine and supports and offers high compatibility for the system.",
+        "url": "https://emulationking.com/z26/"
     },
     "z80stealth": {
         "id": "z80stealth",
@@ -42599,7 +44946,22 @@
                 "date": "2001-04-30",
                 "changes": "https://consolo.is.cc/emu/zsnes/1.20-linux_changelog.txt"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/zsnes-SNES-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/zsnes-SNES-Emulator-Pic-02.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/zsnes-SNES-Emulator-Pic-03.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/zsnes-SNES-Emulator-Pic-04.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/zsnes-SNES-Emulator-Pic-05.jpg",
+            "https://cdn.emulationking.com/wp-content/uploads/2014/05/zsnes-SNES-Emulator-Pic-06.jpg"
+        ],
+        "runs": [
+            "windows",
+            "linux",
+            "apple"
+        ],
+        "shortDesc": "zsnes is a SNES emulator that suffers from low accuracy when compared to higan and snes9x. Most of znes’s development focused on achieving portability and performance, with the bulk of the emulator being written in x86 assembly.",
+        "url": "https://emulationking.com/zsnes/"
     },
     "zxspin": {
         "id": "zxspin",
@@ -42813,7 +45175,21 @@
                 "bits": 32,
                 "date": "2000-05-15",
                 "changes": "https://consolo.is.cc/emu/1964/0.4.5b_changelog.txt"
+            },
+            "1.01": {
+                "url": "https://consolo.is.cc/emulationking/1964-emulator/1964_101-source.zip",
+                "os": "File-code"
             }
-        }
+        },
+        "screenshots": [
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/1964-Nintendo-64-Emulator-Pic-01.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/1964-Nintendo-64-Emulator-Pic-02.png",
+            "https://cdn.emulationking.com/wp-content/uploads/2013/01/1964-Nintendo-64-Emulator-Pic-03.jpg"
+        ],
+        "runs": [
+            "windows"
+        ],
+        "shortDesc": "1964 Emulator has now ceased active development, but was at one point regarded as one of the best Nintendo 64 Emulators around, making use of an extremely fast recompiler core that gave it an edge in performance.",
+        "url": "https://emulationking.com/1964-emulator/"
     }
 }
