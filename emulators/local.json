@@ -996,7 +996,7 @@
         "web": {
             "http://www.virtualdub.org/altirra.html": "home"
         },
-        "description": "Altirra is an emulator that simulates the hardware of the Atari 8-bit computer systems, including the Atari 800, 800XL, and 130XE computers.",
+        "description": "Altirra is an open source cycle accurate Atari 5200 emulator for the Windows Operating System. Developed by the creator of virtualdub.org. Altirra like many Atari 5200 emulators, also emulates Atari’s long list of 8-bit computers that they released around the same time as the Atari 5200.\nOriginally released in 2009, Altirra is one of the newer Atari 5200 emulators, and has quickly become regarded as one of the best thanks to its cycle-accurate\nAltirra is one of the best emulators for the Atari 5200, and is regarded as having the best in class emulation of the Atari 400/800, 1200XL, 600/800XL, 130XE, XEGS, and 5200 systems. Altirra even goes as far as to successfully and accurately emulate undocumented functions of the systems.\nIf your after an extremely accurate, fast and all round fantastic emulator for the Atari 5200 and Atari 8-bit systems you cannot go past Altirra.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/altirra/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/altirra/emulator_screen_01.jpg",
         "versions": {
@@ -2403,7 +2403,7 @@
         "web": {
             "http://atari800.sourceforge.net": "home"
         },
-        "description": "Atari800 is an Atari 800, 800XL, 130XE and 5200 emulator for Unix, Linux, Amiga, MS-DOS, Atari TT/Falcon, MS Windows, MS WinCE and systems running the SDL library.",
+        "description": "Atari800 is a multi-platform, multi-system and open source Atari 5200 Emulator. Atari800 also offers for Atari’s 8-bit computer systems that they released arround the same time as the Atari5200. Atari800 has been ported to a variety of different operating system, this ranges from Windows, Linux, Unix and even Dreamcast.\nDeveloped originally back in 1995 by programmer David Firth and then released under the GPL, Atari800 proved to be a fantastic for being highly portable with the emulator written in C with portability in mind from the beginning. Thanks to the portable nature of the code, ports for various different operating systems and video game consoles became common.\nAfter David Firth stopped his own personal work on Atari800 in 1997 a group of talented programmers moved to take over development of the emulator themselves, Building off of the core 0.8.0 source code that David Firth had released, it quickly became one of the best Atari 5200 emulators available. Spurred even more so after numerous developers began working on the emulator alongside the new core development team.",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/atari800/emulator_screen_01.jpg",
         "versions": {
             "3.1.0-winsdl": {
@@ -2694,7 +2694,7 @@
         "web": {
             "http://www.xl-project.com/": "home"
         },
-        "description": "atari++ is an emulator for (now rather aged) Atari 8 bit computers. It emulates the Atari800, Atari400, the 800XL and 600XL, the 65XE and 130XE and the Atari 5200 Game Console. The emulation is cycle-precise, that is 'on the fly' modifications of chip registers will be visible on the screen immediately, emulating even programs using horizontal kernel tricks correctly.",
+        "description": "The Atari++ is a free, open source portable cycle accurate Atari 5200 Emulator. Like many other Atari 5200 emulators, this supports Atari’s whole assortment of 8-bit computers.\nThese 8-bit computers being the Atari 400 and 800, the Atari 400XL, 800XL and 130XE. The emulator is auto-configurable meaning the user will not have to play around with settings to get the emulator running correctly.\nAtari++ features many advanced features, such as being cycle accurate which allows the software to successfully replicate the Atari 5200 and other systems as if it was running on the system itself.\nThis means the program also successfully emulates even the bugs found in the original system, which can be a key to emulating certain games and applications that use advanced techniques.\nAtari++ has a particular focus on achieving emulation that is as close to the original system as possible, and for that it does it extremely well.\nIt manages to successfully emulate both the sound chip of the systems and the processors. Like most Atari 5200 emulators, it is extremely capable of emulating the system, and you cant go wrong with using Atari++ as your core emulator for those systems.",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/atariplusplus/emulator_screen_01.jpg",
         "versions": {
             "1.58": {
@@ -3171,7 +3171,7 @@
         "web": {
             "http://bgb.bircd.org/": "home"
         },
-        "description": "BGB is a Gameboy emulator, a program that lets you play Gameboy and Gameboy Color games on a pc. It does this with many features that give a good gameplay experience, such as gamepad support, high quality sound and graphics, smooth Vsync animation, and low latency. In addition, it contains a debugger that lets you analyze/look into the emulation, create cheat codes, and assist in creating and modifying roms. Because of BGB's high emulation accuracy, if your rom works in BGB, it will most likely work on hardware too.",
+        "description": "BGB is an emulator/debugger for the Game Boy, Game Boy Color and Super Game Boy systems. The goal of BGB is to try and provide an accurate emulation of the hardware.\nThis is to try and be an emulator that is not only good at running a multitude of games as how they would of on the original system, but also makes the emulator a powerful debugging tool.\nThanks to its attempt at accurate emulation, it also means the emulator has an exceptional compatibility with games.\nThe emulator also has the added ability of being able to use the game link functionality over the Internet. Allowing two users to link their consoles no matter where their located.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/bgb/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/bgb/emulator_screen_01.jpg",
         "versions": {
@@ -3614,7 +3614,7 @@
         "web": {
             "http://rhope.retrodev.com/files/blastem.html": "home"
         },
-        "description": "BlastEm is a Sega Genesis emulator.",
+        "description": "BlastEm is a relatively new SEGA Genesis Emulator for Windows, Linux and Mac OS X. The goal of BlastEm is to be extremely accurate but yet be able to run on incredibly weak hardware successfully using advanced optimization techniques.\nWhile the performance and accuracy of the emulator still isn’t as great as the author would personally like it, it is more then satisfactory for the average user. It successfully manages to run many system tests and difficult games that many others will simply fail to do.\nBlastEm manages to run on hardware at full speed, even managing to run successfully on a first generation Intel ATOM processor. \nIf development is kept up, BlastEm could eventually become the best SEGA Genesis emulator available, with it already managing to emulate the vast majority of the SEGA Genesis it is still missing some functionality and implementation of some hardware features. It however is still a great emulator, and definitely one to keep an eye on.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/blastem/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/blastem/emulator_screen_01.jpg",
         "versions": {
@@ -3940,7 +3940,7 @@
         "web": {
             "http://boycottadvance.emuunlim.com": "home"
         },
-        "description": "BoycottAdvance is a Game Boy Advance emulator.",
+        "description": "Boycott Advance is a capable free and portable GBA Emulator that has been ported across several systems, ranging from Windows to Linux.\nIt is able to emulate commercial ROM’s along with homebrew successfully. However, don’t expect the best emulation, performance should be fine as it was developed for much older Pentium systems.\nFor some time Boycott Advance failed to emulate sound, it was until after the release of version 0.2.1 did the GBA emulator start to actually to be able to support sound.\nDevelopment of Boycott Advance has sadly come to a stop and hasn’t seen in progress for over 13 years. However, it still remains a capable emulator and worth checking out, even if it has now been surpassed by many other emulators such as VBA-M and higan. It is certainly still worth a download.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/boycottadv/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/boycottadv/emulator_screen_01.jpg",
         "versions": {
@@ -4743,7 +4743,7 @@
         "web": {
             "http://cemu.info": "home"
         },
-        "description": "Cemu is a highly experimental WiiU emulator. NOTE: Cemu is 64bit ONLY.",
+        "description": "Cemu is a Nintendo Wii U emulator for Windows. it was the biggest breakthrough in emulation for the Wii U. While there had been a couple of attempts prior to the release of Cemu to emulate the Wii U, none had managed to boot up a Wii U game or get near being able to get in game.\nCemu had popped seemingly out of nowhere, with version 1.0.0.0 being released in October 2015. Before this emulation of the Wii U was seemingly out of reach but Cemu proved that it could be done when it could successfully boot titles to the loading screens.\nShortly after the first release, games started being able to get in game with varying degrees of speed and graphical issues. As of the latest version, many games are in fact now playable. Games such as Super Mario World and Mario Kart 8 can now be played through from start to finish with little to no issue and startlingly accurate graphics, though there will be issues here and there.\nCemu has come an extremely long way in an incredibly short time, in little over a year it has gone from just being able to boot games to being able to successfully emulate a few games completely at high speeds. It is definitely an emulator to keep an eye on as so far it has been extremely promising.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/cemu/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/cemu/emulator_screen_01.jpg",
         "versions": {
@@ -5054,7 +5054,7 @@
         "web": {
             "http://chanka.emulatronia.com/FrameSetDC_DC.htm": "home"
         },
-        "description": "Chankast is a Sega Dreamcast emulator.",
+        "description": "Chankast was one of the first SEGA Dreamcast emulators to actually successfully emulate a commercial Dreamcast game. it was built for x86 platforms, and for its time utilized advanced techniques to achieve not only high compatibility emulation but also have the ability to get a decent speed in Dreamcast games, something that was a massive thing to achieve back in 2004.\nIt even managed to run games at a decent speed thanks to the early adoption of processor optimizations such as the SSE Instruction set. Considering what Chankast managed to achieve during its short lifespan its nothing short of a miracle as it for a short while beat out a few other emulators.\nSadly development only lasted 3 months before all signs of development vanished, leaving Chankast woefully outdated and buggy.  its a shame development never lasted long enough to really flesh out the emulation, make it more accurate and deal with the various bugs. It’s unknown while development suddenly ceased, but due to it being a closed source project all the work was lost.\nWe recommend using an emulator such as Demul or NullDC instead as they have been kept in development much longer, becoming more superior in speed, emulation accuracy and more robust emulation.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/chankast/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/chankast/emulator_screen_01.jpg",
         "versions": {
@@ -5184,7 +5184,7 @@
         "web": {
             "https://citra-emu.org/": "home"
         },
-        "description": "Citra is an experimental open-source Nintendo 3DS emulator/debugger written in C++. Although it is slow at this time, it is constantly being improved. Citra's features include better visual output, debugging homebrew, with planned controller support.",
+        "description": "Citra is an up and coming experimental Nintendo 3DS Emulator and 3DS debugger that is already capable of running several commercial 3DS games along a plethora of homebrew.\nCitra has come a long way in an incredibly short time, going from being a basic emulator that could struggle to boot anything to being able to run several games with varying degrees of success in just over 2 years. Citra has quickly become THE Nintendo 3DS Emulator, thanks to a large development community that has worked tirelessly to reverse engineer the functions of the 3DS and the coming together of the various other 3DS emulator attempts has allowed Citra to become the most promising attempt yet to fully emulate the Nintendo 3DS.\nWhile Citra is coming along to be the best Nintendo 3DS Emulator, and is in fact the only one being actively developed now, don’t expect it to be able to run most games you throw at it, and don’t expect to achieve great speeds with the games that do run, at this time, Citra is still highly experimental. While it has in recent months shown a great amount of improvement if your not prepared to battle through bugs to play a game, please wait a few more months and allow the developers to further develop Citra.",
         "ext": [
             "3ds",
             "3dsx",
@@ -6659,7 +6659,7 @@
         "web": {
             "https://github.com/Echelon9/cxbx-shogun": "repo"
         },
-        "description": "Cxbx is a Microsoft XBox emulator. This version is a fork of the original Cxbx.",
+        "description": "CXBX is not your typical emulator, while many would classify it as an Xbox Emulator the actual goal of CXBX is a bit more complex. The program intends to actually convert the Xbox file, into a fully working Windows executable, while it seems like a far fetched idea it is fully plausible considering how close the Xbox’s architecture is to Windows.\nUnlike other emulators that are fully custom solutions, Microsoft used a lot of there experience developing Windows to help develop the Xbox and its architecture.\nOverall compatibility from CXBX is pretty bad, most games will refuse to work, and those that do will either be extremely slow or riddled with all sorts of bugs. Despite this though CXBX is one of the more promising attempts at getting the Xbox games to run on other platforms. But sadly, development seems to be all but ceased, and now there is only one real promising emulator that is left in development. That being XQEMU.\nPlease note for those who are on 64-bit systems, CXBX may not run at all due to the way it converts the executable, it was designed before 64-bit became mainstream.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/cxbx/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/cxbx/emulator_screen_01.jpg",
         "versions": {
@@ -7836,7 +7836,7 @@
         "web": {
             "http://demul.emulation64.com": "home"
         },
-        "description": "Demul is a Sega Dreamcast emulator which also emulates the arcade boards of Naomi 1, Naomi 2, Hikaru, and Atomiswave.",
+        "description": "DEmul is one of the longest running Dreamcast Emulators. It has been in active development since its first release all the way back in 2006, and is now regarded as one of the best Dreamcast Emulators you can get on PC.\nDevelopment of DEmul began after it became obvious that the development of Chankast has ceased and would not continue. Inspired by the fact an emulator could actually run commercial Dreamcast games, the DEmul team focused on getting there emulator to run thew vast majority of Dreamcast games while adding extra functionality that enhances the overall feel of the Dreamcast games.\nRecent version of Demul have now gone as far as now making use of a DX11 rendering engine, giving it the speed boost that DX11 can bring but also sadly making it useless to older generation hardware.\nDEmul is probably one of the best emulators available for the Dreamcast, and is definitely one of the more feature packed, the only emulator that can currently challenge it on performance and compatibility would be NullDC but Demul is the only one that is now actively in development besides Reicast.\nSeeing as Reicast is primarily designed so far for mobile devices, DEmul is the go to emulator for those who run on the Windows operating system.",
         "dir": [
             "Demul_0582"
         ],
@@ -8055,7 +8055,7 @@
         "web": {
             "http://desmume.org/": "home"
         },
-        "description": "DeSmuME is a freeware emulator for the NDS roms & Nintendo DS Lite and DSi games created by YopYop156. DeSmuME is also known as YopYop DS is written in C++ for Microsoft Windows and can play Nintendo DS homebrew and commercial nds roms. The emulator its self is in French (with full user translations to English and other languages). But even French version of DeSmuME is easy to navigate through menus as it has a similar users interface to DSemu. It supports many homebrew nds rom demoes as well as a handful of Wireless Multiboot demo nds roms. DeSmuME is also able to emulate nearly all of the commercial nds rom titles which other DS Emulators like iDeaS and Dualis aren't capable of running.",
+        "description": "DeSmuME is one of the best Nintendo DS Emulators around, over the years it has managed to achieve fast emulation while managing to retain a relatively high compatibility rate. DeSmuMe was the first NDS emulator that was capable of successfully running several NDS roms.\nThanks to DeSmuME’s OpenGL render and dynamic recompiler it is one of the best performing emulators for the DS that you can find.\nDeSmuME came about after several developers who had forked YopYop156’s code decided to unite together which ended up with the release of DeSmuME 0.5.0. The merging of resources has allowed DeSmuME to become one of the best NDS emulators around, its only real competitor being NO$GBA.\nDevelopment has slowed down significantly, as work has been done to port DeSmuME to other systems such as Mac OS X, with a lot of development time being spent on the Coaca port. However there still is a significant amount of changes to the core system that has been fixing issues in a variety of games.\nDeSmuME was originally capable of connecting to the Nintendo DS’s WiFI service, but that functionality was eventually terminated after Nintendo detected the connections, users have lobbied for the WiFi functionality to be introduced back into DeSmuME but Nintendo eventually shut down the online play of NDS Games completely rendering the effort pointless.",
         "dir": [
             "DeSmuME_x432R"
         ],
@@ -8461,7 +8461,7 @@
         "web": {
             "https://dolphin-emu.org/": "home"
         },
-        "description": "Dolphin is a GameCube and Wii emulator with high compatibility across the majority of titles for both platforms. It was first developed as closed source in 2003, and as open source since 2008.",
+        "description": "Dolphin Emulator is a GameCube emulator and Nintendo Wii emulator that started off its routes as just being a pure GameCube emulator. However once the release of the Nintendo Wii came round, the team realized that the hardware was so similar that increasing Dolphin’s support to also cover the Nintendo Wii was not a huge technical challenge. They found that it did not require significant rewrites of Dolphin Emulator to be able to also be a Wii Emulator.\nDolphin Emulator made its mark by being the first GameCube emulator that was actually able to successfully emulate a commercially released game. However despite achieving this, Dolphin was nearly gone completely when it was discontinued in 2004. Luckily a year later in 2005, the developers revived the Dolphin Emulator project adding minor improvements and beginning the first basic audio support.\nThen in 2008 is when Dolphin Emulator really started making its breakthroughs after being moved into the public domain and being open sourced. Leading to its development as the best emulator for both the GameCube and the Wii. Dolphin emulator now successfully emulates almost every single game available on both systems. Its development has seemed to of never slowed down as the now large amount of developers have managed to successfully emulate even some of the most complicated functions of the GameCube and Wii.\nThanks to its large pool of developers, Dolphin Emulator is the best GameCube emulator about, and the best and only Nintendo Wii emulator. However expect with some games, to emulate them perfectly you will require a computer with decent hardware, as some functions are quite resource intensive to emulate.",
         "ext": [
             "iso",
             "iso"
@@ -8782,7 +8782,7 @@
         "web": {
             "http://www.emulation64.com/files/info/86/dolwin.html/": "home"
         },
-        "description": "Dolwin is an open source Game Cube emulator fully written with dolwinC. Even though it's still under development you can still be able to boot and run some commercial games and a few demos. The zip file comes with a demo that you can play to test the emulator. This emulator has not been updated in roughly 5 years. Check it out though if you will.",
+        "description": "Dolwin is the first ever GameCube emulator to be publicly released. it is open source and written in C. However sadly development stalled in 2005 and not a single new release has been seen since. This could be partly due to the success of the Game Cube and Wii emulator, Dolphin.\nBefore development ceasing, the emulator did manage to boot and even run some commercial games and a few demos. However for the most part the emulator is fairly incomplete and should not be expected to run any games perfectly or even be able to boot them.\nIf you are are after the best emulator for the GameCube, see Dolphin.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/dolwin/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/dolwin/emulator_screen_01.jpg",
         "versions": {
@@ -9313,7 +9313,7 @@
         "cmd": [
             "%BIN% %ROM%"
         ],
-        "description": "DreamGBA is a Nintendo Game Boy Advance emulator.",
+        "description": "DreamGBA is a GBA emulator that was created by the same team that wrote the GBC Emulator DreamGBC. The emulator has sadly been out of development for a long time now, but it did suffer from some big down sides. It was originally somewhat promising, being able to successfully run several different games such as Castlevania and Tactics Ogre. This was alongside also being able to successfully emulate there sound, a bit of a feat at the time of DreamGBA’s creation.\nHowever though, as said earlier, DreamGBA suffered from a rather large issue, and this is that it required the GBA Bios to be able to run It is a feature that ended up damaging DreamGBA’s prospects in the long run as obtaining the GBA bios from a console back then was not a simple task.\nEven now most legal sites won’t distribute the GBA bios as it is copyrighted material by Nintendo, however a quick google search will quickly find you the GBA bios. However there are now much better emulators available, all that don’t require the usage of the GBA bios.",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/dreamgba/emulator_screen_01.jpg",
         "versions": {
             "2.5": {
@@ -9589,7 +9589,7 @@
         "cmd": [
             "%BIN% %ROM%"
         ],
-        "description": "Dualis is a Nintendo DS emulator.",
+        "description": "Dualis is a NDS emulator for Windows. it is primarily written in C++ and x86 assembly. it is a fairly rudimentary emulator and lacks an awful lot of functionality and has no compatibility with any commercially available game.\nAlongside this it also does not offer any real extensive emulation of the NDS’s features, lacking any support for the ARM7 processor at all.\nDualis is primarily for homebrew only, as it is unable to successfully run any NDS game dump.\nWe recommend using other emulators such as DeSumME or NO$GBA, they are much more complete emulators for both homebrew purposes and ROM development purposes.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/dualis/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/dualis/emulator_screen_01.jpg",
         "versions": {
@@ -10605,7 +10605,7 @@
         "web": {
             "https://sourceforge.net/projects/emu7800/files/": "home"
         },
-        "description": "EMU7800 is an Atari 7800 emulator implemented using Microsoft's .NET platform. Most ProSystem (7800) and VCS (2600) titles run well. EMU7800 runs on Windows Vista SP2 and higher systems. Comes with several ROMs and required BIOSes.",
+        "description": "EMU7800 is a Atari 7800 ProSystem emulator developed by Mike Murphy. EMU7800 is able to run on the Windows Operating System, Windows Phone and even Android. The emulator was written to make use of Microsoft’s .NET  platform, hence why it has been easily ported to the majority of Microsoft products.\nPerformance of EMU7800 emulator the Atari 7800 should be more then adequate on most hardware. It is also capable of running the vast majority of the Atari 7800 games that are available.\nIn fact the most recent versions of the EMU7800 emulator appear to only be working on porting the emulator to more systems with no real changes being made to the core emulation. This can be a sign that the emulation core is as solid as it really needs to be.\nIn addition to primarily being an Atari 7800 Emulator, EMU7800 does also include support for the Atari 2600.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/emu7800/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/emu7800/emulator_screen_01.jpg",
         "versions": {
@@ -11593,7 +11593,7 @@
         "web": {
             "http://www.epsxe.com/": "home"
         },
-        "description": "ePSXe (enhanced PSX emulator) is a PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux, as well as devices running Android. It was written by three authors, using the aliases calb, -Demo- and Galtor. ePSXe is closed source with the exception of the application programming interface (API) for its plug-ins.",
+        "description": "ePSXe is a PlayStation (PSX) Emulator for Windows, Linux, Mac OS X and even Android. It is one of the most popular emulators available for the PSX and one of the most successful at emulating the system.  \nePSXe is considered to be one of the very best PSX Emulators that you can find.\nIt has been one of the most successful PSX Emulators, successfully emulating various parts of the PSX with little to no issues, like many N64 emulators however, ePSXe uses a plugin to extend certain functionality, allowing 3rd party devs to improve the graphics, sound and various other features without needing to modify the core.\nDon’t worry though, PSX does include a few excellent defaults so you don’t have to go hunting for the right plugin.\nRecent versions of ePSXe have moved to try and improve the accuracy of the emulator and introduce support for a HLE version of the bios, this means  you wont have to go hunting for the PlayStation bios files anymore. \nWhile its still a work in progress, the OS HLE is showing that it can be done, although compatibility is not the same as the actual bios at the moment.",
         "dir": [
             "ePSXe_190"
         ],
@@ -11949,7 +11949,7 @@
         "web": {
             "http://exodusemulator.com": "home"
         },
-        "description": "Exodus is a platform for emulating various devices. Currently it emulates the Sega Mega Drive.",
+        "description": "Exodus is a highly accurate SEGA Genesis emulator, Its entire goal being to have perfectly accurate timing synchronization. Meaning every quirk of the emulator should be emulated, including intended and unintended features of the hardware.\nThe goal of exodus overall however is not to be an emulator for any single system, its designed to try and offer a platform for highly accurate emulation of all systems. While also managing to offer a very solid performance base.\nThe developer claims that Exodus’s core goal is not to be a emulator that can play commercial games, although that is a side effect of the emulation. Ultimately it is designed to act as a very thorough and useful debugger for game development purposes.\nThe author recommends using other emulators instead of this if your intention is to play games on a day to day basis. For those purposes we recommend an emulator like KEGA Fusion.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/exodus/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/exodus/emulator_screen_01.jpg",
         "versions": {
@@ -12359,7 +12359,7 @@
         "web": {
             "http://www.fceux.com/web/home.html": "home"
         },
-        "description": "FCEUX is a cross platform, NTSC and PAL Famicom/NES emulator that is an evolution of the original FCE Ultra emulator. It is the favorite emu for recording/playing game movies.",
+        "description": "FCEUX is the continuation of NES emulator FCE and its forks under the name FCEU.\nFCEUX aims to be an “all in one” emulator for the NES, offering accurate emulation with both more casual player options and more advanced options for the more experienced emulator users.\nFor the more experienced users the emulator provides access  to tools for debugging, rom-hacking, map making, Tool-assisted movies and lastly but not least lua scripting.\nWhile the emulator used to have a functional netplay recent versions have broken all support for it and it has yes to be patched back in.",
         "dir": [
             "FCEUX"
         ],
@@ -13359,7 +13359,7 @@
         "web": {
             "http://github.com/shonumi/gbe-plus": "repo"
         },
-        "description": "GB Enhanced+ is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator.",
+        "description": "GBE + is a GBA Emulator and GBC emulator written by Shonumi. It is the continuation of his original GBA Emulator, GB Enhanced. The goal of the project is to create an emulator written in C++ utilizing the SDL library that proves to be highly portable while sporting functionality that is not traditionally found in GBA and GBC emulators. The plan is to attempt to document the GBC’s and GBA’s functions through clean easy to understand code while still allowing an assortment of enhancements.\nWhile the GBA Emulation is still rather experimental it should be able to run most games with a varying amount of playability or visible glitches. The GBC side of the emulation however is much more complete and is considered more ready for prime time use.\n\nA feature that is a big star of the GBE+ project and is something new to the GBA and GBC emulation scene is the ability to use custom graphics.\nThis custom graphics is the ability for GBE + to dump or extract sprites and backgrounds directly out of the game, let the user then edit them, and then have the ability to re-inject those sprites and backgrounds directly back into the game dynamically. This feature is a big plus for the emulator as it allows users to modify the look and feel of a game without needing to utilize rom hacking. Anything that you can see in a game can be edited, with a few exceptions. However this does mean you can bring colour into what used to be a monochrome game.\nGBE+ is still very much a work in progress emulator, but is proving to be incredibly promising, introducing features into the GBA and GBC emulation scene that have been sadly lacking. With any like Shonumi will continue work on this emulator as so far the project is showing an incredible amount of promise.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gbeplus/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gbeplus/emulator_screen_01.jpg",
         "versions": {
@@ -13426,7 +13426,7 @@
         "web": {
             "https://sourceforge.net/projects/gcemu-project/": "home"
         },
-        "description": "GCEmu is a very incomplete emulator for the Nintendo Gamecube. It uses recompilation techniques and other tricks to achieve a reasonable speed. Although emulation is very incomplete, it shows that 'it can be done' and can be done at a decent speed.",
+        "description": "GCEmu is a extremely incomplete emulator that was more designed as a proof of concept to show what is actually achievable.\nIts aim was to show that emulation of the GameCube can be done at a reasonable speed with the right recompilation techniques and other tricks.\nDevelopment of GCEmu appeared to end sometime after its release in 2005.\nWe recommend a much more complete emulator for general usage, that emulator being Dolphin. This is more here for those who are interested in trying out some of the older generation of emulators and seeing how emulation of the GameCube improved over time.",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gcemu/emulator_screen_01.jpg",
         "versions": {
             "2005.12.11": {
@@ -13483,7 +13483,7 @@
         "web": {
             "http://gcube.exemu.net/": "home"
         },
-        "description": "Gcube is a very impressive GameCube emulator, available for Windows as well as Mac and Linux. Unfortunately Gcube does not have a graphical interface, and as such, is command-line driven, so reading the documentation would be advisable. Gcube is able to play into many games, but was unfortunately discontinued. However, Monk has released the source code to the emulator so any other developer is free to pick up the project and continue development.",
+        "description": "GCube is an open source emulator for the Nintendo GameCube, unlike most emulators it the team didn’t strive for it to be compatible with all available games. But instead it was developed with the hopes of fully emulating at least one commercial game.\nHowever development on this emulator was stopped with the release of 0.3. This final release was never able to run any commercial games, but was successful at running some minor homebrew apps.\nThere was an attempt to continue development of the GCube emulator under a fork called SuperGCube, however that emulator has since been discontinued.",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gcube/emulator_screen_01.jpg",
         "versions": {
             "0.3": {
@@ -13585,7 +13585,7 @@
         "web": {
             "http://github.com/drhelius/Gearsystem": "repo"
         },
-        "description": "GearSystem is a Sega Master System and Game Gear emulator",
+        "description": "Gearsystem is a highly accurate, and cross platform SEGA Master System emulator. Written in C++, the developer has managed to make the emulator highly portable, allowing it to be ran on Windows, Linux, Mac OS X, Raspberry Pi and iOS.\nIt features a highly accurate Z80 core that even implements functionality that was never properly documented for the core, allowing it to emulate games perfectly, even down to there little quirks. GearSystem also has support for multiple mappers, so its able to support the plain SEGA cartridges, Codemasters Cartridges and just ROM only cartridges.\nGearsystem also features highly accurate VDP emulation, including accurate timing.\nGearsystem is one of the most formidable emulators you can get for the SEGA Master System, and also one of the most portable emulators you can get for the system.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gearsystem/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gearsystem/emulator_screen_01.jpg",
         "versions": {
@@ -13687,7 +13687,7 @@
         "web": {
             "http://github.com/shonumi/gekko-gc-emu": "repo"
         },
-        "description": "Gekko is a Nintendo GameCube emulator. NOTE: Screenshot from https://emulationking.com/gekko/.",
+        "description": "Gekko is an experimental emulator written purely in C/C++ to try and achieve the best portability possible. The original core was originally written for x86 Windows systems and managed to boot many commercial games.\nWhile originally started back in 2006, the emulator was revived again in 2012. The new intent was to continue work on the code and introduce the ability to run natively on x64 systems and also run on other platforms such as Linux.\nWhile development seemed to start progressing well again, development seems to of ceased yet again in 2013. With no signs of development coming from the team.\nThe team before development ended again had managed to write a new video core that was capable of getting games running in interpreter to run nearly full speed. The new Video Core also introduced dual-core support to the video emulation. However like many other emulation project’s for the GameCube, the Gekko couldn’t seem to catch up to the development of Dolphin.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gekko/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gekko/emulator_screen_01.jpg",
         "versions": {
@@ -13787,7 +13787,7 @@
         "web": {
             "http://www.techno-junk.org/": "home"
         },
-        "description": "Genesis Plus is a Sega Genesis and MegaDrive emulator.",
+        "description": "Genesis Plus! is a highly accurate SEGA Genesis Emulator. It successfully emulates all sound channels, has full support for six button Genesis pads and support for various different SEGA Genesis ROM dumps.\nGenesis Plus’s main focus is on achieving accurate emulation over the addition of other features, unlike the other Gens based project, Gens32. It helped achieve its accurate emulation by borrowing its CPU and sound chip emulation code directly from MAME.\nThis allowed Genesis Plus to be one of, if not the most accurate SEGA Genesis emulators around. With it maintaining a level of accuracy down to being able to properly exhibit issues that were present in games on the original system.\nGenesis Plus is regarded as one of the best available emulators for the SEGA Genesis, and is regarded as one of the most accurate Genesis emulators to ever be developed. \nHowever newcomer, BlastEm likely will eventually overcome the accuracy of Genesis Plus as long as development continues on that emulator.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/genesisplus/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/genesisplus/emulator_screen_01.jpg",
         "versions": {
@@ -14422,7 +14422,7 @@
         "web": {
             "http://gens.consolemul.com": "home"
         },
-        "description": "Gens32 is a Sega Mega Drive, Sega Mega-CD, Sega 32X, Sega Master System and Sega Game Gear emulator for Windows by the Gens32 team, which is based on Gens and adds lots of features.",
+        "description": "Gens32 Surreal is a SEGA Genesis Emulator based on the source code of the once popular Gens Emulator. For the majority of its development it was considered as one of the best SEGA Genesis Emulators available. It has superseded other forks of the Gens Emulator, including Gens Plus!\nWhile being built off Gens, Gens32 Surreal adds an assortment of extra functionality to the emulator. The extra technical features the Gens32 Surreal team implemented is namely. The LDU System, a system designed so games can be translated extremely easy, a caption systems to captions can be easily added into games, much like you see in DVD’s. Along these various features it also has the ability to replace the background music in any game and features an inbuilt Kailleria client for netplay.\nAlongside all these extra features, Gens32 Surreal is a highly capable and compatible emulator in its own right, offering emulation for the vast majority of the SEGA Genesis games.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gens32/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gens32/emulator_screen_01.jpg",
         "versions": {
@@ -14744,7 +14744,7 @@
         "web": {
             "http://koti.mbnet.fi/gest_emu/": "home"
         },
-        "description": "GEST is an emulator for the Nintendo Game Boy, Game Boy Color and Super Game Boy.",
+        "description": "Game Boy Emulation SysTem (GEST) is an open source Game Boy Color emulator for Windows written in C++. The graphics, sound and SGB emulation is heavily based on the work by the VisualBoyAdvance team.\nThanks to it being based off Visual Boy Advance, the emulator is very highly compatible. Also thanks to its base it is also a very accurate emulator.\nThe emulator provides a wide support for memory bank controller, also including support for the Game Boy Camera. Included along with the Game Boy link emulation, the emulator also provides support for IR link, but is rather imperfect.\nGEST like many emulators has not seen any signs of development for some years, the final release was in 2011.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gest/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/gest/emulator_screen_01.jpg",
         "versions": {
@@ -14991,7 +14991,7 @@
         "web": {
             "http://handy.sourceforge.net": "home"
         },
-        "description": "Handy is an Atari Lynx emulator. the Lynx BIOS is not required, unless you wish to run Cartridges.",
+        "description": "Handy is one of the only Atari LYNX Emulators that can be found, and is sadly no longer in active development, with the last release of the emulator being back in 2007.\nHowever despite development all but ceasing, Handy has more then proven itself to be an extremely capable emulator. Its able to emulate the vast majority of the Atari Lynx functions.\nThe last few versions of the Atari LYNX seems to focus primarily on fixing bugs with the Atari LYNX emulation and improving its overall compatibility.\nThough there has been no new releases since 2007 there doesn’t appear to be very many complaints about the emulation capabilities of Handy.\nHandy also has the added bonus of coming with fairly capable debugging tools, making it incredibly useful for homebrew development.\nPlease note Handy does require the Atari LYNX Bios files to successfully be able to run commercial games.",
         "dir": [
             "Handy_095"
         ],
@@ -15372,7 +15372,7 @@
         "web": {
             "http://byuu.org/emulation/higan/": "home"
         },
-        "description": "higan is a multi-system emulator for the following systems: Nintendo Entertainment Systems, Famicom, SNES, Super Famicom, Super Game Boy, BS-X Stellaview, Sufami Turbo, Game Boy, Game Boy Color, Game Boy Advance and the Wonderswan and Wonderswan Color.",
+        "description": "Higan is the most advanced emulator available for the Super Nintendo Entertainment System. Unlike most emulators, higan’s primary goal is accuracy at the cost of performance.\nThe higan emulator was previously known as bsnes, and is still actively developed. The code is available to view over on GitHub.\nThe aim is to emulate the SNES original hardware as accurately as possible through the use of low-level emulation. It has the added ability of also using cycle-accurate emulation.\nHigan touts the ability to run every commercially SNES title that has been released without any bugs that were not originally in the game itself.\nThe higan emulator has grown to now experimentally emulate the NES, Game Boy, Game Boy Color, and the Game Boy Advance. This wide range of consoles makes it one of the more versatile emulators around. However, the emulation outside of the SNES still needs more work to get to the same accuracy and capabilities.\nThe emulator also offers support for Windows, Mac OS X, and Linux (Available from Debian packages).",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/higan/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/higan/emulator_screen_01.jpg",
         "versions": {
@@ -16350,7 +16350,7 @@
         "cmd": [
             "%BIN% %ROM%"
         ],
-        "description": "iDeaS is a Nintendo DS emulator that can also play Game Boy Advance games.",
+        "description": "iDeaS Emulator is a once popular Nintendo DS Emulator. It was capable of running a lot of commercial NDS games. To achieve decent graphical speed iDeaS Emulator makes use of an OpenGL renderer. iDeaS had successfully managed to emulate the ARM7 CPU completely, which also gives it the ability to emulate GBA games.\nThe iDeaS team had also managed to make significant inroads on emulating the ARM9 Dual Screen processor with estimated completion of the emulation of the processor being at about 99%. This allows it to successfully run many commercial games such as Super Mario 64 DS and Pokemon Black and White. However while these games should all run fine, the GPU emulation was never fully completed as development ended.\niDeaS comes with a plugin system as well, this is something that is not found in any other Nintendo DS emulator, allowing developers to add extra support into the emulator without needing access to the core code. We have provided the available plugins below, however we cant say that they all still function correctly.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/ideas/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/ideas/emulator_screen_01.jpg",
         "versions": {
@@ -16720,7 +16720,7 @@
         "cmd": [
             "%BIN% %ROM%"
         ],
-        "description": "Jagulator is an Atari Jaguar emulator. It runs way to fast to be playable on my Laptop.",
+        "description": "Jagulator was an extremely promising up and coming, closed source Atari Jaguar Emulator for the Microsoft Windows Operating System. It was one of the very first Atari Jaguar Emulators, but was beaten by Project Tempest to being able to be the first emulator to successfully run a commercial game.\nJagulator made use of the Motorola 68000 command processor to achieve its emulation of the Atari Jaguar. However please note that for Jagulator to be able to run any commercial games at all, you do need the Atari Jaguar boot ROM. Though with the Boot ROM, Jagulator was a rather capable Atari Jaguar Emulator.\nDevelopment of Jagulator appears to of now ceased, with the emulators website now completely offline, any hopes of development continuing seems to be slim. The last post on the website indicated that the author was getting married which would explain the end in development.\nPlease note that we recommend that if you want to run games without issues, that you utilize Virtual Jaguar.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/jagulator/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/jagulator/emulator_screen_01.jpg",
         "versions": {
@@ -16831,7 +16831,7 @@
         "web": {
             "http://www.jabosoft.com/jnes/": "home"
         },
-        "description": "Jnes is a NES emulator for Windows platforms. Its emulation capabilities include graphics, sound, controllers, zapper, and many memory mapping boards found in most USA games and a few popular Japanese boards adding international delight. Jnes boasts an intuitive user interface with instant saves and movie recording to making playing NES games more enjoyable. One of the coolest features is the included database of Pro-Action-Replay and Game Genie cheats, courtesy of Gent.",
+        "description": "Jnes is a NES emulator designed and programmed by Jabo (More known for his work on Project64 and his audio and video plugins for it).\nJnes boasts a high compatibility, managing to successfully emulate the graphics, sound, controllers, zapper and many memory mapping boards that are found in most USA games and even going as far as to offer support for memory mapping boards in some popular Japanese boards.\nAlongside this it also features Kaillera for online gaming alongside other features such as instant saves and cheats. Jnes offer support for both the Microsoft Windows operating system and Android",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/jnes/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/jnes/emulator_screen_01.jpg",
         "versions": {
@@ -16973,7 +16973,7 @@
         "web": {
             "http://www.jpcsp.org": "home"
         },
-        "description": "JPCSP is a Sony Playstation Portable emulator. NOTE: You may have to amend the '.bat' file to point to the correct location of your Java installation.",
+        "description": "JPCSP is one of the most advanced PSP Emulators available. JCPSP has shown an incredible amount of progress and impressive speed despite being built in a slower language then most other emulators. There is one big advantage to using Java for an emulator, and that is that the code tends to be multiplatform friendly from the get go, meaning you don’t have to waste a lot of development time tweaking code to work on specific platforms.\nDespite JPCSP being written mainly in java, it manages to achieve 100% emulation speed in some commercial games, this is quite an impressive feat for any PSP Emulators. It achieves this by taking the full advantage of dual-core CPU’s, allowing it to match the same dual-core architecture that is featured in the PSP itself. The more cores you have should also improve emulation even more, as it allows the free cores to work just on Java’s JIT compiler and the graphics cache.\nDespite this project still just being a beta, it already offers compatibility for over 600 games. While not as vast as PPSSPP’s 919 odd games that are marked as playable, it is still impressive none the less.\nThanks to continued active development, JPCSP has taken the place as probably the second best PSP emulator, and challenges PPSSPP extremely well.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/jpcsp/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/jpcsp/emulator_screen_01.jpg",
         "versions": {
@@ -17077,7 +17077,7 @@
         "web": {
             "http://jum.pdroms.de/emulators/emu5200.html": "home"
         },
-        "description": "Jum52 is a cross-platform Atari 5200 emulator. It is available in MSDOS, Windows, Playstation 2, PSP, Mac, BeOS and QNX versions.",
+        "description": "Jum52 is a cross-platform Atari 5200 emulator that has been ported to an assortment of operating systems, ranging from Windows to Linux and even the PlayStation 2.\nJum52 also has a Mac OS X port thanks to the efforts of Richard Bannister, a programmer who has ported numerous other emulators to the Mac OS X operating system as well.\nJum52, while being a capable emulator isn’t quite as good as some of the alternatives, mainly due to its collision detection being rather hit and miss. Besides the poor collision, the emulator does handle other emulations of the Atari 5200 a lot better, its sound emulation for example is superb.\nWhile Jum52 is still a very efficient emulator, if you want to run games without issues however, we do recommend the other available Atari 5200 emulators such as Atari800 or Altirra.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/jum52/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/jum52/emulator_screen_01.jpg",
         "versions": {
@@ -17416,7 +17416,7 @@
         "web": {
             "http://kat5200.jillybunch.com/": "home"
         },
-        "description": "kat5200 is an emulator for the Atari 5200 and 8-bit computers.",
+        "description": "Kat5200 is an open source Atari 5200 Emulator and also an Atari 8-bit computer emulator (800/XL/XE). The emulator relies on the Atari 5200 BIOS files to be able to actually successfully run games as it does not emulate the BIOS itself within the emulator.\nKat5200 is regarded as an Atari 5200 emulator with advanced features, NTSC/PAL support, a GUI and good compatibility. It proved to be a very promising emulator up until it ceased development in 2009.\nThe last few versions of Kat5200 before it ceased in development appeared to focus on trying to increase the level of compatibility of the emulator, with version 0.6.0 adding support for the Atari 8-bit computers and adding support for PAL.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/kat5200/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/kat5200/emulator_screen_01.jpg",
         "versions": {
@@ -17819,7 +17819,7 @@
         "web": {
             "http://www.carpeludum.com/kega-fusion/": "home"
         },
-        "description": "Fusion is a Sega SG1000, SC3000, Master System, Game Gear, Genesis/Megadrive, SVP, Pico, SegaCD/MegaCD and 32X emulator for Win9x/ME/2000/XP/Vista and Mac OSX/Intel",
+        "description": "KEGA Fusion is a multi system emulator for various SEGA systems. Its a  SG-1000 Emulator, SEGA Master System Emulator and a SEGA Genesis Emulator all in one package. KEGA Fusion was developed primarily by a single talented developer, Steve Snake.\nKEGA Fusion is one of the best emulators available for the SG-1000, Master System and the Genesis, an impressive feat considering it has to emulate three completely different consoles within the same package which is not easy task. it manages to emulate all three systems flawlessly. This is in part thanks to Steve Snake’s utter focus on ensuring the emulator was highly accurate.\nSteve Snake managed to eventually optemize KEGA Fusion enough that the accuracy did not come at a cost of performance. KEGA Fusion has gone on to support an assortment of different features as well, such as netplay and screen scaling enhancements.\nIf your after the best SG-1000 Emulator, SEGA Master System Emulator and Sega Genesis Emulator you really cannot go past KEGA Fusion, it offers the best of both performance and compatibility thanks to its incredibly well optimized accuracy.",
         "dir": [
             "Kega_Fusion_364"
         ],
@@ -18238,7 +18238,7 @@
         "web": {
             "http://kigb.emuunlim.com": "home"
         },
-        "description": "KiGB is a Nintendo Game Boy and Game Boy Color emulator.",
+        "description": "KiGB is a cross-platform emulator for the Game Boy Color. The emulator claims to be the most accurate for the system, like many other emulators it provides support for both the Game Boy, Game Boy Color and Super Game Boy.\nIt also has the added bonus that it works on Windows, Linux and Mac OS X. Making it one of the most portable Game Boy emulators around.\nThe emulator has not been developed since 2008, but the developers ensure that the emulator provides the best possible compatibility. They even went as far to test the emulator on all games and demo’s in the GoodGBX V2.02 ROM set.\nThis means that it has compatibility with over 6,000 roms. The emulator also has support for link play for the vast majority of games, again this is done over the TCP protocol meaning this can be done both locally and over the Internet.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/kigb/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/kigb/emulator_screen_01.jpg",
         "versions": {
@@ -20579,7 +20579,7 @@
         "web": {
             "http://mgba.io": "home"
         },
-        "description": "mGBA is a Nintendo Game Boy, Game Boy Color and Game Boy Advance emulator.",
+        "description": "mGBA is a fairly new Game Boy Advance (GBA) emulator. With the project only just starting in 2013 it is one of the newest emulator for the Game Boy Advance around, and also one of the most promising to appear in recent years.\nIt is loosely based on Web Browser based GBA emulator GBA.js project, however the developers claim very little of the emulators code can be found in mGBA now.\nThe aim of mGBA is to be fast enough to run on low end hardware without sacrificing both portability and accuracy, and so far early versions of the emulator have proven it can provide all three things, so far proving accurate, portable and very fast allowing it to run smoothly on weaker systems such as the PS Vita, Nintendo Wii and 3DS smoothly.",
         "ext": [
             "agb",
             "bin",
@@ -21851,7 +21851,7 @@
         "web": {
             "http://nemulator.com/": "home"
         },
-        "description": "nemulator is a Nintendo Entertainment Systems and Sega Master System emulator.",
+        "description": "Nemulator is a multiple system emulator, being both a SEGA Master System Emulator and a NES Emulator. Developed by James Slepicka, Nemulator has managed to successfully achieve a substantial level of compatibility for both the SEGA Master System and the NES. Despite starting off as a NES Emulator, the developer decided to focus on another emulator after managing to emulate the NES extremely successfully with little to not problems.\nNemulator’s NES Emulation is now fully developed with support for the vast majority of the NES’s abundant function mappers, Nemulator even goes as far as to add support for even unofficial and undocumented opcodes allowing it to run the vast majority of NES games without any issues. The NES Emulator also features support for cycle-accurate timing.\nIn Version 4.0, the developer decided to introduce additional support to the emulator, adding in support for the SEGA Master System. While this emulation is relatively new to Nemulator, it so far appears to be functioning quite well and is definitely an emulator worth checking out for both the SEGA Master System and the NES.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/nemulator/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/nemulator/emulator_screen_01.jpg",
         "versions": {
@@ -22409,7 +22409,7 @@
         "web": {
             "http://nestopia.sourceforge.net/": "home"
         },
-        "description": "Nestopia is an open source NES/Famicom emulator written in standard C++, focused on delivering as accurate emulation as possible. It is released under the GNU General Public License (GPL)",
+        "description": "Nestopia is the one of the only cycle accurate emulators for the Nintendo Entertainment System (NES). Thanks to its highly optimized cycle accurate nature it allows the emulator to have an almost 100% compatibility.\nThanks to the emulator being heavily optimized and the NES system not being overly complicated, the cycle accurate coding does not come at a significant performance requirement like newer systems such as the Nintendo 64 or even the SNES.\nNestopia also has support for all major operating system, Windows, Macintosh and Linux making it one of the more versatile of emulators. If your not bound by a very low powered CPU, one with less than 600MHz this emulator is your best option for playing NES games.\nSadly Nestopia is no longer in active development with the original programming team officially ending its development in 2008, however their have been multiple forks off the base code.",
         "dir": [
             "Nestopia"
         ],
@@ -22606,7 +22606,7 @@
         "web": {
             "http://nsx2.emulation64.com/about.html": "home"
         },
-        "description": "neutrinoSX2 is a Sony Playstation 2 emulator.",
+        "description": "NeutrinoSX2 was one of the first open source PS2 emulators. The project ultimately never ended up getting further then being able to emulate some purpose built functionality test demos for the PS2.\nThe projects primary developer was Maud, who got into developing the emulator after writing code that interpreted a file that he found in Ico that had source of part of the game in assembly.\nIts unknown why development ended, but NeutrinoSX2 left a wealth of information for those who were interested in developing an emulator for the PS2, it featured clean and well documented code as long as documentation of some of the inner working of the PS2. \nIf you are after an emulator that can actually successfully run commercial PS2 games, then we highly recommend you use PCSX2.\n<strong>Note</strong>: NeutrinoSX2 requires the PS2 Bios files to be able to run.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/neutrinosx2/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/neutrinosx2/emulator_screen_01.jpg",
         "versions": {
@@ -22741,7 +22741,7 @@
         "web": {
             "http://www.qmtpro.com/~nes/nintendulator/": "home"
         },
-        "description": "Nintendulator is a Nintendo Entertainment System emulator.",
+        "description": "Nintendulator is an open source WIN32 NES emulator written in C++. The goal of Nintendulator was to emulate the console right down to all of its hardware quirks allowing the emulator to successfully emulate certain game behaviors that some emulators simply aren’t able to.\nThough due to its hardware accurate nature Nintendulator requires a much higher processor requirement than other available emulators, with the system requiring clocking in at about 1.5GHz, though for modern computers this requirement is basically nothing.\nUnlike other emulators that has the individual mappers programmed directly into the emulator, Nintendulator loads them in via DLL’s. While Nintendulator’s main aim is to be an hardware accurate emulator it does have support for other aspects such as: Game Genie cheat support,input movie recording and playback, AVI capturing and also a debugger with moderate breakpoint support.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/nintendulator/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/nintendulator/emulator_screen_01.jpg",
         "versions": {
@@ -23061,7 +23061,7 @@
         "web": {
             "http://problemkaputt.de/index.htm": "home"
         },
-        "description": "nocash Gameboy Advance / Nintendo DS / DSi emulator/debugger for windows. Note that this version also includes an emulator for the Sony PocketStation.",
+        "description": "No$GBA is a closed source GBA Emulator and Nintendo DS emulator. While the emulator originally started off as a Game Boy Advance emulator. It has now branched out to also offer emulation for the Nintendo DS.\nNo$GBA was the first Game Boy Advance emulator to successfully support the ability to play multiplayer  games on the same PC. No$GBA was also the first emulator to successfully emulate commercial Nintendo DS roms.\nNo$GBA has successfully managed to provide highly compatible emulation for the Nintendo DS. Making it one of the best Nintendo DS emulators about as it also manages to emulate the Nintendo DS without sacrificing performance. Recent versions of No$GBA have gone as far to also offer emulation of the Nintendo DSi.\nDespite a somewhat on and off development, No$GBA is still one of, if not the best Nintendo DS Emulator. It offers a high amount of capability, good performance while also being able to emulate the GBA successfully.",
         "dir": [
             "no$gba"
         ],
@@ -23409,7 +23409,7 @@
         "web": {
             "http://problemkaputt.de/index.htm": "home"
         },
-        "description": "nocash PS1 emulator/debugger for windows.",
+        "description": "No$PSX is a extremely capable no thrills PSX Emulator made by the talented developer behind several other emulators such as No$GBA. \nThe core goal of No$PSX was to be able to work out of the box. This means there is no specific needs for a very particular version of Windows, no specially modified Video driver, no obscure and hard to find plugins, no requirement for virtual cd-roms, no requirement to have the PSX Bios to operate or require specific game setting tweaks to get games to run without any issues.\nEmulation of the PSX Hardware is basically fully complete, with all features completed and working in some form, however there is always some edge cases that can be ran into so there may be some games that suffer from various issues still. A lot of work however has been done to try and ensure the core is as stable as possible.\nNo$PSX like some of the other top PSX emulators, emulates the BIOS via what is called a BIOS-clone. \nThis has a few advantages, first of those is that it is free and legal, the PSX Bios itself is covered under copyright so your technically not allowed to download it. Secondly the cloned bios has the ability to be much faster then the original PSX bios, meaning No$PSX can run some games faster just thanks to an optimized clone.\nHowever there is one down side, there is a chance that compatibility may not be as good, this is mainly due to games that need to apply unknown patches to the clone bios. No$PSX tries to replicate them patches where possible but it can’t cover all of them.",
         "dir": [
             "no$psx_18"
         ],
@@ -23715,7 +23715,7 @@
         "web": {
             "http://github.com/skmp/nulldc": "repo"
         },
-        "description": "nullDC is a Sega Dreamcast emulator.",
+        "description": "NullDC is an open source freeware Dreamcast Emulator, developed by drkIIRaziel and ZeZu. While development of NullDC has now ceased, as the developers moved onto newer projects, and also started up a newer multi-platform Dreamcast Emulator Reicast.\nNullDC is still one of the best Dreamcast emulators available, partially in thanks to its development style where the focus was to ensure the highest possible compatibility over performance. \nIn the end this paid off well, with NullDC spouting some of the best compatibility among Dreamcast emulators.\nNullDC also make use of a plugin system, so its functionality can be increased without having to actually rewrite parts of the core code, this was more useful back when NullDC was closed source.\nLike an awful lot of emulators, NullDC does require the original Dreamcast Bios to actually be able to run anything at all, this is due to certain games relying on utilizing certain features found in the BIOS that can be difficult to replicate in code, especially if the games make there own temporary modifications to the BIOS.",
         "dir": [
             "nullDC_150"
         ],
@@ -24717,7 +24717,7 @@
         "web": {
             "http://pcae.vg-network.com/": "home"
         },
-        "description": "PC Atari Emulator bridges the gap between the technology of today and the memories of yesteryear.",
+        "description": "PC Atari Emulator is now a rather outdated Atari 2600 Emulator for the Windows operating system. It was highly regarded for being incredibly well optimized, and easy to use.\nIts speed was thanks to the sheer amount of effort that was put into hand crafting assembly code. The assembly code was heavily optimized for the Pentium processors of the day.\nWhile it locked the emulator to a single operating system, it did prove to be a significant enough speed improvement.\nAtari PC Emulator boosted server other features such as full collision checking, the support for every single bank switching scheme.\nThe ability to emulate the Atari’s vast amount of controls, among a vast amount of other features helped set Atari PC Emulator apart from all the others early on.\nSadly though, development of  the emulator ceased in 2002.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/pcae/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/pcae/emulator_screen_01.jpg",
         "versions": {
@@ -24855,7 +24855,7 @@
         "cmd": [
             "%BIN% %ROM%"
         ],
-        "description": "PCSP is a Sony Playstation Portable emulator.",
+        "description": "PCSP is a PSP emulator written in C++ for Windows. PCSP was never able to emulate any commercial games, however it could run some homebrew, ultimately development never got far enough for PCSP to emulate enough of the PSP to run any games.\nDevelopment of the emulator has also sadly ceased. There was an attempt to rewrite the emulator under a new project PSPE4All but that project ultimately never got off the ground, and no release was ever made.\nDon’t expect to be able to run any commercial game with this emulator, for that purpose we recommend an emulator such as PPSSPP instead.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/pcsp/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/pcsp/emulator_screen_01.jpg",
         "versions": {
@@ -25007,7 +25007,7 @@
         "web": {
             "https://github.com/PCSX2/pcsx2/": "repo"
         },
-        "description": "PCSX2 is an open-source PlayStation 2 (AKA PS2) emulator. Its purpose is to emulate the PS2 hardware, using a combination of MIPS CPU Interpreters, Recompilers and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.",
+        "description": "PCSX2 is a extremely successful PS2 Emulator that is available on Windows, Linux and even Mac OS X. Made by part of the team that brought about PCSX-Reloaded for the PlayStation one. It manages to emulate the PS2 extremely well, being both fast, accurate and highly compatible. Boasting that over 94.94% of the PS2’s massive 2568 games are playable.\nThis is an amazing progress for any emulator, let alone one that tries to tackle one of the more complicated systems in the 6th generation of video game consoles. PCSX2’s success is in part thanks to it being the only real actively developed PS2 Emulator. Focused development, and over 14 years of active development time has allowed the emulator to mature extremely well. The team over the years has tackled a variety of different complicated issues with emulating the PS2. The early versions of PCSX2 focused on just getting into the PS2 loading screen and being able to actually emulate the complicated PlayStation 2 bios,\nRecent versions have begun focusing on trying to bring highly accurate emulation without sacrificing the speed of the emulator, this is alongside trying to fix a lot of the edge cases that have cropped up while trying to emulate some games. While emulation might work perfectly for one, some games use certain tricks that require special coding to be able to emulate.\nIts worth noting that PCSX2 makes use of the same plugin specification that was set out by the now long abandoned PSEmu Pro emulator for the PlayStation 1. This allows some features of the PS2 such as the graphics and audio to be handled externally, this does mean that compatibility can differ depending on what plugins you use.\n<strong>Note</strong>: PCSX2 requires the PS2 Bios files to be able to run.",
         "ext": [
             "iso"
         ],
@@ -25154,7 +25154,7 @@
         "web": {
             "http://pcsxr.codeplex.com/": "home"
         },
-        "description": "PCSX-Reloaded is a Sony Playstation 1 emulator based on Pcsx. A BIOS is NOT required but may make some games run better! Also, this emulator requires Plugins.",
+        "description": "PCSX-Reloaded is a PSX Emulator for Windows, Mac OS X and Linux. It is a continuation of the two previous PSX Emulation project, PCSX and PCSX-DF. \nPCSX-Reloaded has jumped over several different development teams over the years with PCSX-Reloaded being the current main version of the emulator.\n Recent version’s of PSX-Reloaded have appeared to of abandoned the PC builds of the emulator with primary focus now seemingly to be on the Mac OS X and Linux versions of the emulator.\nIt is considered one of the biggest competitors to ePSXe, however unlike ePSXe, PCSX-Reloaded is open source, allowing anyone to pick up the code and improve on it.\nPCSX-Reloaded’s emulation is regarded as about on-par with that of ePSXe. While being a somewhat accurate the main focus of PCSX-Reloaded is to maintain a great compatibility while providing fast emulation speeds. PCSX also attempts to emulate the functionality of the PSX Bios, however it is very much a work in progress and doesn’t provide the same level of compatibility as the actual bios files yet.\nPCXS-Reloaded also uses the same plugin specifications of ePSXe, allowing it to make use of the exact same plugins that ePSXe uses. This is a good thing as it ensures that certain features like the graphic plugins will have a continue focus on developing them further.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/pcsxr/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/pcsxr/emulator_screen_01.jpg",
         "versions": {
@@ -26195,7 +26195,7 @@
         "web": {
             "http://www.ppsspp.org/": "home"
         },
-        "description": "PPSSPP is a Sony Playstation Portable emulator.",
+        "description": "PPSSPP is one of the highest regarded PSP emulators, and probably one of the most successful emulators for the PSP. It boasts an impressive multi platform lineup, being able to be run an assortment of systems such as Windows, Linux, Mac OS X, iOS, Android and even more obscure systems like Blackberry.\nThe original author, Henrik Rydgård, planned the emulator to be not only extremely fast, but also very highly portable, and he managed to pull that off incredibly successfully. For those who don’t know Henrik Rydgård was one of the co-founders of the superb Dolphin Emulator.\nIn just 3 years PPSSPP managed to become the best PSP emulator around, boasting a high compatibility rate while still being able to render the games faithfully and fast.\nThe developers even managed to end up adding support for Sony’s Proprietary audio codec, ATRAC3plus. Along with this there is a variety of different enhancements you can use to make the PSP games look much nicer at higher resolutions, including being able to increase the internal rendering resolution that the PSP would of rendered at, rather then just stretching the image to the screen size.\n<strong>Note</strong>: Linux and Mac OS X builds rely on SDL, instructions are below on how to install the correct version of SDL for PPSPP to run on those systems.\n<h2 class=\"h5\">Linux PPSSPP Instructions</h2>\n<ul>\n<li>Open a Terminal instance</li>\n<li><b>For Debian/Ubuntu and their derivatives:</b> Install the “libsdl2-dev” package.</li>\n<li><b>For Fedora/RHEL and their derivatives:</b> Install the “SDL2-devel” package.</li>\n<li><b>For BSD-based distros:</b> Install the “sdl2” package.</li>\n</ul>\n<h2 class=\"h5\">Mac OS X Instructions</h2>\n<ul>\n<li>Open the Terminal app.</li>\n<li>Paste this into a Terminal:\n <code class=\"small\">ruby -e \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)\"</code></li>\n<li>Follow the instructions, and wait for installation to finish.</li>\n<li>Paste this into a Terminal: <code>brew install sdl2</code></li>\n</ul>",
         "ext": [
             "iso"
         ],
@@ -26416,7 +26416,7 @@
         "web": {
             "http://www.pj64-emu.com/": "home"
         },
-        "description": "Project64 is a Nintendo 64 emulator which at first seemed to have popped up out of nowhere, offering excelent game support with little bugs. Future versions only improved things more!",
+        "description": "Project 64 or PJ64 is a windows only Nintendo 64 emulator developed primarily by Zilmar, it originally popped seemingly out of nowhere, and has been in on and off development since its first public release Project 64 1.0 on May 26th, 2001. \nProject 64 is also renowned for having the highest compatibility rate, best performance along with the lowest amount of bugs, and is touted by many as being the best N64 Emulator out there and if not that, it is definitely the most widely used.\nIt is currently been highly criticized for its seemingly lack of development since version 1.6 was released, though Zilmar has since renamed the latest version 1.7 to 2.0 designating that there has been some major developments in Project 64 since its 1.6 release.\nHowever, though the emulator and the RSP is almost solely developed by Zilmar, the plugins that are packaged alongside Project 64, are solely developed by Jabo, and as of today is the only known person to actually of seen the source code of them, not even Zilmar who he closely worked alongside with has seen the source code of his plugins and are yet to be the fastest plugins and at times as the highest compatibly with drawing some things that other plugins still struggle with or don’t draw at all, but suffers from a severe lack of support for hires-textures, while in later versions it does add support, it does not follow the normal naming conventions making all texture packs made for other plugins completely unusable.",
         "ext": [
             "n64",
             "v64",
@@ -26840,7 +26840,7 @@
         "web": {
             "http://pt.emuunlim.com/": "home"
         },
-        "description": "It runs in Windows 9x/2000/XP and currently emulates many commercial games, some even with sound. However, you need a quite fast computer to run it at full speed.",
+        "description": "Project Tempest is one of the oldest Atari Jaguar Emulators, it runs only on the Windows Operating System.  Project Tempest made its mark in history by becoming the first ever working Atari Jaguar Emulator. For its time, this was a remarkable achievement as the Atari Jaguar had proven to be one of the more complicated systems to successfully emulate.\nProject Tempest managed to achieve a remarkable amount of progress during its development, managing to emulate a large amount of the commercial games available for the Jaguar. Even managing to emulate some commercial games sound successfully. However for its time, it required what was classified as “high end” specs for that era. That being it required a processor that had a clock speed of over 2 GHz for it to be able to run games at full speed, and also actually achieve sound emulation.\nPlease note: Project Tempest has gone without development for some time now, while a capable emulator we do recommend using Virtual Jaguar Instead.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/projecttempest/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/projecttempest/emulator_screen_01.jpg",
         "versions": {
@@ -27003,7 +27003,7 @@
         "web": {
             "http://home.comcast.net/~gscottstanton/": "home"
         },
-        "description": "ProSystem is an emulator for the Windows operating system that will allow you to play Atari 7800 video games on your PC. An emulator is a program that has the ability to imitate another program, device, or computer. The ProSystem emulator imitates the Atari 7800's CPU, video, audio, joystick controls, etc. Before you can use the emulator, you will need to obtain rom images that are compatible with the Atari 7800.",
+        "description": "ProSystem Emulator is an advanced open source Atari 7800 Emulator for the Microsoft Windows Operating System that was developed by Greg Stanton.\nThe ProSystem Emulator successfully manages to emulate the Atari 7800’s CPU, Video programming, audio core and the joystick controls of the Atari 7800.\nThe emulator managed to successfully emulate both the NTSC and PAL video modes of the Atari 7800, something that is rare as the Atari 7800 didn’t see a large release in the PAL region.\nProSystem Emulator ceased development in 2008, despite its source code being released it sadly doesn’t appear as if there has been any interest at all in continuing development of the emulator.",
         "dir": [
             "ProSystem_13"
         ],
@@ -27084,7 +27084,7 @@
         "cmd": [
             "%BIN% %ROM%"
         ],
-        "description": "PS2EMU is a Sony Playstation 2 emulator.",
+        "description": "PS2emu is an extremely basic PS2 Emulator. It was in development by a trio of talented emulator devs, namely Roor who made AndriPSX, and also shunt and scar_T. PS2emu never really gained enough development time to actually become anything to great.\nIt ended up as an attempt to trial at several new techniques that would enable the PS2 to be emulated much faster then other emulators at the time, however the Dynamic Recompiler featured in the only alpha they released was only about 10% complete. It was a good proof of concept, but sadly as said before, development never really gained much momentum and it never saw another release.\nThere was signs of Roor coming back to finish off his development on the emulator, but he seems to of disappeared again as well.\n<strong>Note</strong>: PS2emu requires the PS2 Bios files to be able to run.\nAlso note that this emulator requires plugins and does not come with any in the download.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/ps2emu/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/ps2emu/emulator_screen_01.jpg",
         "versions": {
@@ -27224,7 +27224,7 @@
         "web": {
             "http://psxemulator.gazaxian.com/": "home"
         },
-        "description": "This emulator fully emulates the Sony Playstation. Compatibility is fairly high, most games I've tried work well.",
+        "description": "pSX is one of the lessor known emulators for the PlayStation 1. It claims that it manages to fully emulate the PlayStation 1, however its actual accuracy and ability to emulate games without large issues is questionable.\nThe original website for pSX is sadly now offline so its hard to find to much information on this emulator.\nThe emulator also includes an R3000 debugger for those who are interested in the inner working of the PlayStation and those who are also interested in doing translations of games.\nCompatibility of the emulator however is still decent, and well worth trying, its not as developed as ePSXe or PCSX Reloaded but is well worth checking out still if you have issues with the other emulators.\n<strong>Note:</strong> you will need a PS1 BIOS image (not supplied) – it should be called <strong>SCPH1001.bin</strong> and placed in the bios folder of the emulator.",
         "dir": [
             "pSX_1_13"
         ],
@@ -27405,7 +27405,7 @@
         "web": {
             "http://batard.psxfanatics.com": "home"
         },
-        "description": "PSXeven is a Sony Playstation 1 emulator. This emulator is released with default Plugins, but can be extended further with other PSX Plugins.",
+        "description": "PSXeven is a freeware PSX emulator for Windows by developer Xeven. Although short lived, in the short development time, development was regarded as being quite fast. With releases put out very rapidly in a short amount of time it became regarded as a very promising emulator.\nThe last few versions before development ended on PSXeven focused on trying to improve the accuracy and stability of the emulator while also trying to ensure that the interpreter core will be fast enough on most computers.\nPSXeven become renowned for its fantastic simple user interface that is very easy for people to understand. It also features a few inbuilt functions you usually find separate from other PSX emulators.\nThese features are an in-built memory card manager and a very useful and great game image compression tool. Like most PSX Emulators PSXeven makes use of a plugin based system, this allows it to make use of the same plugins that both ePSXe and PCSX-Reloaded can run making it a more versatile plugin and still makes it a viable plugin even in the modern days.\nPSXeven showed a fair amount of promise that it would be able to emulate the PlayStation 1 well but development never lived long enough for the emulator to full mature unlike its competitors ePSXe and PCSX-Reloaded. \nPSXeven joins a long line of short lived PlayStation emulators that could of been great if they had just been continued or the source code released.\nPlease note that this emulator requires the PSX Bios to be able to run.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/psxeven/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/psxeven/emulator_screen_01.jpg",
         "versions": {
@@ -27991,7 +27991,7 @@
         "cmd": [
             "%BIN% %ROM%"
         ],
-        "description": "Rainbow emulates the Atari 8-bit series of home computers including the 400/800, 800XL,130XE and the 5200 games console.",
+        "description": "Rainbow is a closed source Atari 5200 emulator and an Atari 8-bit computer systems emulator developed by Chris Lam. While development has now ceased and the developers website is now gone, Rainbow left behind a strong legacy.\nFor starters Rainbow was the first Atari 5200 Emulator to be ported across to the Mac OS X operating system, a porting job that was done by Richard Bannister.\nRainbow managed to retain a fairly strong compatibility rate, managing to emulate the vast majority of the official material for the Atari 5200, it usually only really came undone when software and games made use of functions that were completely undocumented. it is not cycle accuracy based like a lot of more modern Atari 5200 emulators are now that emulate even the most obscure functionality in a chipset.\nRainbow also featured interesting debugging tools for anyone who is interested in the inner workings of an emulator and the Atari 5200, as it includes Trace tools for viewing internal chip states and tracing 6502 execution.\nThe Mac OS X version is running an outdated version of the emulator due to 2.1 being a significant rewrite of the whole entire emulator, it should still be able to achieve reasonable compatibility and speed.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/rainbow/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/rainbow/emulator_screen_01.jpg",
         "versions": {
@@ -28056,7 +28056,7 @@
         "web": {
             "http://spazioinwind.libero.it/linoma/rascalboy.html": "home"
         },
-        "description": "RascalBoy Advance is a Nintendo Game Boy Advance emulator.",
+        "description": "RascalBoy Advance was yet another very promising GBA Emulator. It had successfully managed to emulate a vast majority of the features of the GBA. It was seen as one of the biggest competitors to Visual Boy Advance, and the only one that had managed to get near its emulation capabilities and feature set. This made it one of the best  GBA emulators that you could find around, and development up until its sudden end was extremely promising.\nRascalBoy Advance also has support for local multiplayer utilizing a special plugin they released allows users to connect up to 4 copies of the emulator together for multiplayer. It was one of the first emulators to be able to achieve this.\n\nHowever like many other GBA emulators, development sadly appears to of completely ceased.\nWhile development has ceased, RascalBoy Advance still proves to be an incredibly capable emulator, and is still more then good enough to be the everyday emulator for any user.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/rascalboyadv/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/rascalboyadv/emulator_screen_01.jpg",
         "versions": {
@@ -33263,7 +33263,7 @@
         "web": {
             "http://rpcs3.net/": "home"
         },
-        "description": "RPCS3 is a Sony Playstation 3 emulator. Screenshot from Author's Website.",
+        "description": "RPCS3 is one of the most surprising emulators of all, in that it is a PS3 Emulator. Many originally thought that PS3 Emulation would be completely impossible due to the highly complicated nature of the PS3’s architecture and its highly complicated Cell Processor that was difficult to develop for let alone developing.\nBut the RPCS3 team managed to pull off the impossible, proving that emulation of the PS3’s complicated architecture could actually be done successfully. Originally developed by programmers DH and Hykem back in 2011, they managed to show that making a PS3 emulator could be done by emulating simple homebrew.\n3 years later, and the PS3 emulator started showing success in being able to emulate actual commercial PS3 games with numerous games now able be playable in some form. However emulation is currently quite slow, as is to be expected with such a complicated project. As long as development continues of this project though, and more developers come on board theres a massive chance full emulation of the PS3 could be achieved now that the ground work has been laid.\n<strong>Note: </strong>We currently do not have access to Mac OS X builds of this emulator.",
         "dir": [
             "rpcs3"
         ],
@@ -33554,7 +33554,7 @@
         "web": {
             "http://www.satourne.consollection.com/": "home"
         },
-        "description": "Satourne is a Sega Saturn emulator that can play commercial games.",
+        "description": "Satourne was a very promising SEGA Saturn emulator. it showed a remarkable amount of progress very early on in its development. Being one of the first few emulators to actually successfully emulate SEGA Saturn commercial games.\nWhile development has sadly now ceased, it left behind a legacy of what was an absolutely superb emulator. While it was ultimately beaten out by SSF in terms of compatibility, what the author of the emulator managed to achieve in such a short development time was nothing short of a miracle.\nDevelopment sadly seemed to of ended around 2003, with the 2006 release of Satourne actually being a re-release of an old development version of the emulator. Luckily for those who are interested in the SEGA Saturn there have been two emulators that have really picked up the slack in development surround\nWhile the years have gone on now, we sadly can no longer recommend Satourne. Both SSF and Yabause are much more capable emulators now. If your on a Windows System be sure to check out SSF and for those on other systems check out Yabause.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/satourne/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/satourne/emulator_screen_01.jpg",
         "versions": {
@@ -34346,7 +34346,7 @@
         "web": {
             "http://www.snes9x.com": "home"
         },
-        "description": "Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems.",
+        "description": "Snes9x is an open source emulator for the Super Nintendo written in C++. The emulator is  designed to be highly portable, compatible and offer good emulation speed. This allows it to be easily compiled across multiple systems easily.\n\nThe team behind Snes9x provides official builds for several systems.\nThese systems being Windows, Linux, Mac OS X and Android. ZSNES was one of the first emulators to offer support for the advanced features of the SNES. Recent versions of the emulator have heavily improved its accuracy while trying not to sacrifice its speed.\nThe emulator is a perfect replacement of bsnes (higan) if your computer is unable to handle the accuracy that higan uses at the sacrifice of speed. Despite the original Snes9x team abandoning the project, a new team has come together to continue work on it.\nHowever work has not progressed hugely. Despite this it remains one of the best emulators for the SNES, with a very high compatibility rate and extra enhancement features. Of course it doesn’t emulate games as accurately as an emulator like higan would, however it doesn’t have the associated higher-end hardware requirements.",
         "ext": [
             "bin",
             "smc",
@@ -35274,7 +35274,7 @@
         "web": {
             "http://www.geocities.jp/mj3kj8o5/ssf/index.html": "home"
         },
-        "description": "SSF is a Windows-based emulator of the Sega Saturn and Sega Titan Video (ST-V, an arcade board very similar to the Saturn). Despite the historical difficulty of emulating the Saturn's rather idiosyncratic and complex architecture, and the fact that SSF is developed by a sole developer (Shima), it has overtaken other Saturn emulators to the point of being able to run the majority of games with few to no issues. It is designed to run game CDs directly, so images must be mounted with a virtual drive program (e.g. Daemon Tools) in order to be played.",
+        "description": "SSF is probably the best SEGA Saturn emulator available. While only being available for the Windows Operating System, SSF has manage to overtake every other SEGA Saturn emulator despite being developed by one single Japanese developer who guy by the name of Shima.\nNo other emulator has managed to come near the level of compatibility that SSF has managed to provide, considering the highly complex nature of the SEGA Saturn this came at a massive surprise, especially when it was all done by one programmer, succeeding where other teams had failed.\nSSF does not require the SEGA Saturn BIOS files, as it attempts to emulate this within the program itself, however if your having trouble running some games, you can still choose to load in the SEGA Saturn’s BIOS. \nHowever we cannot provide the SEGA Saturn bios as a download on this website due to copyright issues.\nSSF is capable of running the vast majority of the games available for the SEGA Saturn with little to no issues. \nHowever one big difference between SSF and other emulators, since it was designed to read the CD Images directly, you are required to make use of virtual drive program to mount the SEGA Saturn roms. One of the most popular of these tools being DAEMON Tools.\nBasically the only downside to SSF is that it is Windows only, but for Windows users it is the best available SEGA Saturn Emulator.",
         "ext": [
             "iso"
         ],
@@ -35672,7 +35672,7 @@
         "web": {
             "http://stella.sourceforge.net/": "home"
         },
-        "description": "Stella is a multi-platform Atari 2600 VCS emulator released under the GNU General Public License (GPL). Stella was originally developed for Linux by Bradford W. Mott, and is currently maintained by Stephen Anthony. Since its original release several people have joined the development team to port Stella to other operating systems such as AcornOS, AmigaOS, DOS, FreeBSD, IRIX, Linux, OS/2, MacOS, Unix, and Windows. The development team is working hard to perfect the emulator and we hope you enjoy our effort.",
+        "description": "Stella is an open source multi-platform Atari 2600 emulator, and one of the only Atari 2600 emulators that is in active development. Stella was originally developed by Bradford W. Mott for Linux, before the emulator was ported to numerous other systems including Windows and Mac OS X.\nWhile Bradford has now ceased his own personal involvement with the Atari 2600 emulator, another talented developer took the reigns as being the primary maintainer of the Stella project. That developer being Stephen Anthony.\nThere has been numerous people who have worked on Stella over the years which has helped it become regarded as the best Atari 2600 Emulator available. The current plans for Stella is to continually improve and increase its ability to be ported to other platforms, as well as replicating and fixing some of the more complicated bugs in the emulation of the TIA.\nPlease note, that if you appreciate these developers work. They are openly accepting donations to help spur development. You can find the information at there official website here.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/stella/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/stella/emulator_screen_01.jpg",
         "versions": {
@@ -36650,7 +36650,7 @@
         "web": {
             "http://supergcube.sourceforge.net": "home"
         },
-        "description": "SuperGCube is a Nintendo Gamecube emulator.",
+        "description": "SuperGCube is the continuation of the open source emulator GCube. However the new developer team made a decision to make it solely a Microsoft Windows Operating System only project. This is to try and reduce the amount of work needed to get the emulator to successfully emulate games..\nThe decision to continue the source code of GCube was made due to the original code base having a very efficient and highly-optimized  emulation core.\nThe core is able to achieve a reasonable speed, however currently only has an interpreter implemented. There was plans to implement a recompiler, however the project was put on indefinite hiatus by its developers.\n<strong>Note</strong>: Please note if your only intent is to run commercial games you have dumped yourself, then the best emulator for you to utilize is Dolphin Emulator.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/supergcube/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/supergcube/emulator_screen_01.jpg",
         "versions": {
@@ -37007,7 +37007,7 @@
         "web": {
             "http://gigo.retrogames.com/": "home"
         },
-        "description": "TGB Dual is a Game Boy / Game Boy Color emulator that supports loading two different roms at the same time. When you have have two roms loaded they are linked with an emulated link cable. This means you can trade Pokemon between two different games, for example between Red and Blue. Two people can play two different GameBoy games on one PC at the same time, using a keyboard. IT's also possible to link TGB Dual running on two different PC's on the same network, or over the internet if using a VPN.",
+        "description": "TGB Dual is one of the first Game Boy Color emulators to add support for the Game Boy Link function. Like the other emulators that have now implemented, the linking function works over the Internet.\nWhile not a integral function for the Game Boy to operate it does allow some of the finer features of games such as Pokemon to work.\nThe emulator also has support for a vast variety of games, however the emulator has been known to be prone to crashing.\nWhile the latest version of the emulator is only in Japanese, someone has gone and translated an earlier version that we have been able to also provide here.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/tgbdual/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/tgbdual/emulator_screen_01.jpg",
         "versions": {
@@ -37202,7 +37202,7 @@
         "web": {
             "http://trondsemu.byethost15.com/": "home"
         },
-        "description": "TronDS is a Nintendo 3DS emulator released on May 11, 2014 for Windows.",
+        "description": "TronDS is a Nintendo 3DS Emulator for Windows that has now ended in development. TronDS was one of three promising 3DS Emulators that all started up around the same time, each making significant inroads into 3DS emulation. Tron3DS made the least inroads into being able to run commercial games out of the 3, but it was good at emulating homebrew.\nTronDS did manage to achieve a certain level of emulation, with an ARM9/ARM11 interpreter for the Nintendo 3DS appcore, the core that is dedicated to running user applications. HLE support of the base 3DS operating system to help support userland applications. Basic framebuffer rendering and also featured a  ARM11 debugger.\nTronDS appears to have now completely ceased development, with the majority of developers and users now focusing on the effortos of the Nintendo 3DS Emulator Citra.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/tronds/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/tronds/emulator_screen_01.jpg",
         "versions": {
@@ -38212,7 +38212,7 @@
         "web": {
             "https://code.google.com/archive/p/vbjin/": "home"
         },
-        "description": "VBjin is a Nintendo Virtual Boy emulator.",
+        "description": "Vbjin is a Virtual Boy emulator for the Windows operating system, it is one of the few working ones seeing as Virtual Boy has a severe lack of emulation due to its lack of popularity and its commercial failure.\nvbjin offers support for a plethora of different features offering compatibility for must virtual boy games.\nvbjin is from the merger of the PCEjin emulator and mednafen’s Virtual boy core.",
         "dir": [
             "VBjin_r61"
         ],
@@ -39028,7 +39028,7 @@
         "web": {
             "http://icculus.org/virtualjaguar/": "home"
         },
-        "description": "Virtual Jaguar GCC/SDL portable Jaguar emulator which is based on the source code released by David Raingeard (Cal2) of what used to be Potato Emulation",
+        "description": "Virtual Jaguar is a highly portable and a extremely capable Atari Jaguar emulator, it is regarded as one of the best Atari Jaguar emulators around and is currently the only Jaguar emulator that is in somewhat active development. The only other real emulator for the system appears to of ceased in development.\nVirtual Jaguar is based on the source code that was released David Raingeard from his work on his own Jaguar Emulator, Potato Emulation. It also made use of Aaron Giles work on M.A.M.E. \nIn particular it was the CoJag driver that was part of M.A.M.E, it also combined this with the Starscream 68000 emulator core.\nOver the years though the core has been replaced with several different iterations and has been rewritten by various developers. The current core is a heavily customized version of UAE’s 68000 core.\nThe Virtual Jaguar emulator manages to emulate all the major subsystems of the Atari Jaguar to varying degrees. So far they should be highly compatible, but like all things, it needs continuous work to eventually emulate the cores exactly and be able to successfully replicate the Atari Jaguar without any issues.",
         "dir": [
             "Virtual_Jaguar_210"
         ],
@@ -39732,7 +39732,7 @@
         "web": {
             "http://sourceforge.net/projects/vba": "home"
         },
-        "description": "VisualBoyAdvance - a Gameboy and GameboyAdvance emulator",
+        "description": "Visual Boy Advance (VBA) is an open-source emulator for the Game Boy, Game Boy Color and the Game Boy Advance. The emulator even goes as far as to also offer emulation for the Super Game Boy and the Super Game Boy 2.\nWhile, for the most part, the code is built to be cross-platform for a variety of systems, the code for non-windows systems has been left neglected in the latest forks.\nVisual Boy Advance is the best choice for emulation of the Game Boy Color and the Game Boy Advance as it offers the best compatibility without sacrificing speed.\nWhile the original branch of Visual Boy Advance has ceased development, there were a few forks that popped up. These forks introduced certain features, such as the ability to link two Game Boys together through the emulator.\nThese forks were ultimately combined together in a single package that went by the name Visual Boy Advance – Merge (VBA-M). This fork adds several features while also ensuring the codebase was probably maintained and bugs were quenched as they popped up.\nThis has helped ensure the VBA emulator is one of the best choices for the Game Boy systems.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/visualboyadvance/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/visualboyadvance/emulator_screen_01.jpg",
         "versions": {
@@ -40413,7 +40413,7 @@
         "web": {
             "http://whinecube.emulation64.com/": "home"
         },
-        "description": "WhineCube is a GameCube emulator. It loads and executes DOL-, ELF- or GCM-format executables with graphics, pad, DVD and sound emulation, and can also provide massive debug logs. It can run at least one commercial game.",
+        "description": "WhineCube was part of a string of GameCube emulators for Windows written in C++.  Though in comparison to its competitors, the emulator was never able to run any commercial games. However it could still run some homebrew.\nWhile the emulator never was able to achieve much compatibility, it did succeed in making progress in other areas of emulation that was extremely beneficial to emulators such as Dolphin.\n\nIn particular, a lot of work was put into documenting how the BBA network works and on working out how to generally emulate the BBA, this was alongside working out various other low level functionality of the Nintendo GameCube.\nAgain like many other GameCube emulators, the development stunted and was eventually discontinued in the wake of Dolphin that was rapidly improving at the time. A lot of development focus from separate emulators was moved to focus on improving Dolphin.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/whinecube/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/whinecube/emulator_screen_01.jpg",
         "versions": {
@@ -42522,7 +42522,7 @@
         "web": {
             "http://xenia.jp": "home"
         },
-        "description": "xenia is a Microsoft XBOX360 emulator. Screenshot from https://www.youtube.com/watch?v=1MearvJgvNw.",
+        "description": "Xenia is the one, and only Xbox 360 Emulator. Developed originally by Ben Vanik while he was between jobs and needed something to bide his time in the meantime. He noticed that there was a sheer lack of any progress or any interest in developing an emulator for the Xbox 360, so then the Xenia Xbox 360 emulator project was born.\nXenia has so far proven to be a very fruitful project, starting back in 2013, actually successfully managing to run a Xbox 360 game on PC seemed just like a pipe dream. After the sheer lack of any successful original Xbox emulators, many thought that the Xbox 360 would end up facing the same fate. However Xenia has now proven otherwise, while 3 years might seem like a lot of time, for a complicated system like the Xbox 360 its amazing what the team have managed to achieve.\nAs of August 2016, there is just over 50 titles that can now be successfully ran on the emulator while managing to achieve full speed. This is an incredibly impressive feat and shows that the emulator is well on its way to being able to successfully emulate the whole system. With any luck more developers will come to the project and help speed up work and help find improvements in the pre-existing code.\nWhile Xenia is making a lot of progress, there is a couple of things that are worth noting. One you <strong>require</strong> a 64bit operating system, so don’t bother trying this if you have a 32bit operating system. The emulator relies on Advanced Vector Extensions 2 (AVX2) meaning you will have to ensure that your processor actually supports this feature set, there is no way around this due to the way certain things work on the Xbox 360. It is also recommended by the developers to use a NVIDIA GPU and an Intel processor.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/xenia/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/xenia/emulator_screen_01.jpg",
         "versions": {
@@ -42617,7 +42617,7 @@
         "cmd": [
             "%BIN% %ROM%"
         ],
-        "description": "Xeon is a Microsoft XBox emulator. NOTE: You will need a tool such as xISO to extract the contents of the ISO, making sure that the directory structure of the ISO is preserved. Also, this emulator supposedly ONLY runs Halo (NTSC version).",
+        "description": "Xeon was a surprising Xbox emulator, and the first to actually successfully be able to get in game. Xeon was only ever capable of being able to run one single Xbox game, and that game is Halo: Combat Evolved.\nEven though it could get in game, it was simply way to slow to be able to ever run the game at any playable speed.\nHowever what Xeon did show, despite its short life span, is that emulation of the original Xbox can be achieved and wasn’t an impossible task, sadly development of all Xbox emulators has not managed to progress much further.\nWhile emulation of the Xbox has been fairly stagnant there is one project left in development, that being XQEMU. There is still some hope in that the XQEMU project will manage to achieve a higher level of emulation\nDespite such an early promise of being able to emulate Xbox games, Xeon never had another release and was left as yet another abandoned Xbox emulator.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/xeon/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/xeon/emulator_screen_01.jpg",
         "versions": {
@@ -43650,7 +43650,7 @@
         "web": {
             "http://yabause.org": "home"
         },
-        "description": "SSF is a Windows-based emulator of the Sega Saturn and Sega Titan Video (ST-V, an arcade board very similar to the Saturn). Despite the historical difficulty of emulating the Saturn's rather idiosyncratic and complex architecture, and the fact that SSF is developed by a sole developer (Shima), it has overtaken other Saturn emulators to the point of being able to run the majority of games with few to no issues. It is designed to run game CDs directly, so images must be mounted with a virtual drive program (e.g. Daemon Tools) in order to be played.",
+        "description": "Yabause is a highly regarded open source emulator for the SEGA Saturn, and is currently the only actively developed and worked on emulator for the SEGA Saturn. It is built to be able to run across a variety of operating systems, namely Windows, FreeBSD, Linux, Mac OS X and even the Dreamcast. \nThe SEGA Saturn features a very complicated set of hardware making it notoriously difficult to emulate, however Yabause has slowly been able to increase its compatability over the years, fighting the odds against it.\nWhile not having the same level of compatibility as closed source SEGA Saturn Emulator, SSF, recent versions have made great strands to try and remedy this. \nAlongside Yabause features many things SSF doesn’t such as an OpenGL and Software render that’s capable of producing HD graphics from the system, allowing the graphics to look much cleaner and nicer then just being stretched to modern resolutions which can often deteriorate the overall image quality quite badly.\nAt the moment if you are running the Windows operating system and are looking for optimal compatibility then we do recommend SSF, otherwise Yabause is your best option.\n<strong>Please note</strong>: Yabause is available as a system package on Linux based systems.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/yabause/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/yabause/emulator_screen_01.jpg",
         "versions": {
@@ -44271,7 +44271,7 @@
             "https://github.com/yuzu-emu/yuzu-mainline/": "repo",
             "https://github.com/pineappleEA/pineapple-src": "repo"
         },
-        "description": "This version of z26 is designed to run natively on 32-bit x86 Windows platforms. It provides excellent sound quality, and correct frame synchronization on Windows-XP platforms.",
+        "description": "z26 is an open source Atari 2600 Emulator developed primarily by John Saeger, over the course of its development various other contributors helped out in improving the overall emulation. During its time it was regarded as an extremely high quality emulator. It had a few releases before its eventual cease in development in 2011.\nThe final versions of z26 added support for Mac OS X as the developer had implemented an OpenGL rendering engine, with this release however it did remove support for Linux.\nFor the older version z26 made use of the SDL Video library to render graphics. While z26 is one of the best ones at emulating the Atari 2600 it is however one of the more complex ones to setup. So prepare to have to do a bit of fiddling around with settings before you get started.\nAs z26 has now ceased in development, we recommend supporting and using the current only actively developed Atari 2600 emulator, Stella.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/z26/emulator_logo.jpg",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/z26/emulator_screen_01.jpg",
         "versions": {
@@ -44716,7 +44716,7 @@
         "web": {
             "http://www.zsnes.com/": "home"
         },
-        "description": "ZSNES is a Super Nintendo emulator programmed by zsKnight and -Demo-. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public.",
+        "description": "ZSNES is one of the first SNES emulators to support a wide variety of games and also one of the most popular SNES emulators.\nZSNES unlike bsnes focuses more on performance. This helps give it a small memory footprint comparatively. Despite this it does still manage to successfully emulate the SNES’s more complicated features. Such as the SuperFX chip. It also includes some extra non-essential features such as 44.1khz audio, movie creation, and a plethora of different video filters.\nSadly ZSNES is no longer in active development with its last stable release being back in 2007, however despite this its still one of the best SNES emulators around especially when confronted with a more performance restricted system. ZSNES offers support for Microsoft Windows and Linux with a port available for Mac OSX.\nPlease note Linux builds require you to build it yourself, instructions are included in the downloads.",
         "dir": [
             "ZSNES_151"
         ],
@@ -45028,7 +45028,7 @@
         "web": {
             "http://www.1964emu.com": "home"
         },
-        "description": "1964 as the name dictates is a Nintendo64 emulator with high compatibility. Best used for optimum performance with Pentium 4 based PC's or better, written in C/C++ and released as free software. It is one of the oldest and most popular N64 emulators, supporting many commercial N64 games.",
+        "description": "1964 is a Nintendo 64 emulator written primarily in C for Microsoft Windows by Schibo and Rice, and is one of the oldest emulators and one of the most popular emulators second to only Project 64. It support the vast majority of commercially available N64 games. 1964 had the advantage of having full support for net-play using the now defunct Kaillera networking library.\nThough 1964’s netplay suffers from a lot of desync problems due to the way the games tend to be emulated at different rates to each other. 1964 is also the only currently available emulator that uses a dynamically recompiling CPU emulator, allowing for much faster speeds then the default interpreter and non dynamic recompiling core like that is present in Project 64.\nAs of June 7, 2009, official development of 1964 ended with their release of version 1.1, that fixed certain bugs that were left hanging over from the development. However in recent years some developers have tried modding the released source code to help improve game play, like modifications to the frequency at which emulated N64 core is processed to increase FPS in certain games like Goldeneye 64 to its originally intended max rate of 60fps, and also allowing it decreased for games that normally run at a lower rate already like Mario Kart 64.",
         "logo": "https://consolo.is.cc/images/emuDownloadCenter/hooks/1964/emulator_logo.png",
         "screenshot": "https://consolo.is.cc/images/emuDownloadCenter/hooks/1964/emulator_screen_01.jpg",
         "versions": {
