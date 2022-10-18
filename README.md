@@ -61,7 +61,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [RetroPie](emulators/retropie.json) | Frontend | 152 | 1 | 153 | 99.3% |
 | [WinDSPro](emulators/windspro.json) | Frontend | 82 | 9 | 91 | 90.1% |
 | [emuControlCenter](emulators/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
-| [scoop-emulators](emulators/scoop-emulators.json) | Tools | 95 | 37 | 132 | 72% |
+| [scoop-emulators](emulators/scoop-emulators.json) | Tools | 528 | 37 | 565 | 93.5% |
 
 ### 🏭 Companies
 
