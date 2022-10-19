@@ -12,6 +12,9 @@
             ],
             "scoop-emulators": [
                 "3dmoo"
+            ],
+            "emucr": [
+                "3dmoo"
             ]
         },
         "author": "normmatt and ichfly",
@@ -53,6 +56,9 @@
                 "3dnes"
             ],
             "scoop-emulators": [
+                "3dnes"
+            ],
+            "emucr": [
                 "3dnes"
             ]
         },
@@ -142,6 +148,9 @@
                 172
             ],
             "scoop-emulators": [
+                "3doplay"
+            ],
+            "emucr": [
                 "3doplay"
             ]
         },
@@ -617,6 +626,9 @@
                 "advmame",
                 "advmame-1.4",
                 "advmame-0.94"
+            ],
+            "emucr": [
+                "advancemame"
             ]
         }
     },
@@ -672,6 +684,9 @@
                 "aes4all"
             ],
             "scoop-emulators": [
+                "aes4all"
+            ],
+            "emucr": [
                 "aes4all"
             ]
         },
@@ -887,6 +902,9 @@
             ],
             "scoop-emulators": [
                 "aipc"
+            ],
+            "emucr": [
+                "aipc"
             ]
         },
         "author": "Keonwoo Kim aka sosaria7",
@@ -1036,6 +1054,9 @@
             ],
             "emutopia": [
                 1705
+            ],
+            "emucr": [
+                "altirra"
             ]
         },
         "author": "Phaeron",
@@ -1273,6 +1294,9 @@
                 "amiberry"
             ],
             "retropie": [
+                "amiberry"
+            ],
+            "emucr": [
                 "amiberry"
             ]
         }
@@ -1603,6 +1627,9 @@
             ],
             "emutopia": [
                 481
+            ],
+            "emucr": [
+                "applewin"
             ]
         },
         "bin": [
@@ -1755,6 +1782,9 @@
             ],
             "scoop-emulators": [
                 "aprnes"
+            ],
+            "emucr": [
+                "aprnes"
             ]
         },
         "author": "erspicu_brox",
@@ -1834,6 +1864,9 @@
             ],
             "scoop-emulators": [
                 "aqemu"
+            ],
+            "emucr": [
+                "aqemu"
             ]
         },
         "author": "Kenny Millar",
@@ -1882,6 +1915,9 @@
             ],
             "emutopia": [
                 538
+            ],
+            "emucr": [
+                "aranym"
             ]
         },
         "author": "The ARAnyM  Team",
@@ -1950,6 +1986,9 @@
                 86
             ],
             "scoop-emulators": [
+                "arcem"
+            ],
+            "emucr": [
                 "arcem"
             ]
         },
@@ -2055,6 +2094,9 @@
                 91
             ],
             "scoop-emulators": [
+                "arculator"
+            ],
+            "emucr": [
                 "arculator"
             ]
         },
@@ -2228,6 +2270,9 @@
             ],
             "scoop-emulators": [
                 "ares"
+            ],
+            "emucr": [
+                "ares"
             ]
         },
         "web": {
@@ -2281,6 +2326,9 @@
                 135
             ],
             "scoop-emulators": [
+                "arnimedes"
+            ],
+            "emucr": [
                 "arnimedes"
             ]
         },
@@ -2385,6 +2433,9 @@
             ],
             "scoop-emulators": [
                 "ascd"
+            ],
+            "emucr": [
+                "ascd"
             ]
         },
         "author": "Aley Keprt",
@@ -2486,6 +2537,9 @@
             ],
             "emutopia": [
                 208
+            ],
+            "emucr": [
+                "atari800"
             ]
         },
         "bin": [
@@ -2782,6 +2836,9 @@
             ],
             "emutopia": [
                 206
+            ],
+            "emucr": [
+                "atari++"
             ]
         },
         "author": "Thomas Richter",
@@ -2916,6 +2973,9 @@
             ],
             "scoop-emulators": [
                 "atomulator"
+            ],
+            "emucr": [
+                "atomulator"
             ]
         },
         "author": "Tom Walker",
@@ -3044,6 +3104,9 @@
             ],
             "scoop-emulators": [
                 "basiliskii"
+            ],
+            "emucr": [
+                "basiliskii"
             ]
         },
         "bin": [
@@ -3133,6 +3196,9 @@
             ],
             "emutopia": [
                 107
+            ],
+            "emucr": [
+                "beebem"
             ]
         },
         "author": "Mike Wyatt, David Adam Gilbert and Others",
@@ -3177,6 +3243,9 @@
             ],
             "emutopia": [
                 102
+            ],
+            "emucr": [
+                "b-em"
             ]
         },
         "author": "Tom Walker",
@@ -3274,6 +3343,9 @@
             ],
             "emutopia": [
                 430
+            ],
+            "emucr": [
+                "bgb"
             ]
         },
         "author": "Bas Steendijk",
@@ -3428,6 +3500,9 @@
             ],
             "emutopia": [
                 180
+            ],
+            "emucr": [
+                "bizhawk"
             ]
         },
         "author": "BizHawk Team",
@@ -3720,6 +3795,9 @@
             ],
             "scoop-emulators": [
                 "blastem"
+            ],
+            "emucr": [
+                "blastem"
             ]
         },
         "author": "Mike Pavone",
@@ -3994,6 +4072,9 @@
             ],
             "scoop-emulators": [
                 "bluemsx"
+            ],
+            "emucr": [
+                "bluemsx"
             ]
         },
         "author": "Daniel Vik",
@@ -4129,6 +4210,9 @@
             ],
             "emutopia": [
                 352
+            ],
+            "emucr": [
+                "bsnes"
             ]
         },
         "bin": [
@@ -4291,6 +4375,9 @@
             ],
             "scoop-emulators": [
                 "bsnessx2"
+            ],
+            "emucr": [
+                "bsnes-sx2"
             ]
         },
         "author": "LuigiBlood and Seu-kun",
@@ -4342,6 +4429,9 @@
             ],
             "scoop-emulators": [
                 "bws"
+            ],
+            "emucr": [
+                "bws"
             ]
         },
         "author": "byuu",
@@ -4385,6 +4475,9 @@
                 380
             ],
             "scoop-emulators": [
+                "bzsnes"
+            ],
+            "emucr": [
                 "bzsnes"
             ]
         },
@@ -4610,6 +4703,9 @@
             ],
             "scoop-emulators": [
                 "caprice32"
+            ],
+            "emucr": [
+                "caprice32"
             ]
         },
         "author": "Ulrich Doewich",
@@ -4695,6 +4791,9 @@
                 488
             ],
             "scoop-emulators": [
+                "ccs64"
+            ],
+            "emucr": [
                 "ccs64"
             ]
         },
@@ -4892,6 +4991,9 @@
             ],
             "emutopia": [
                 1287
+            ],
+            "emucr": [
+                "cemu"
             ]
         },
         "bin": [
@@ -5336,6 +5438,9 @@
             ],
             "emutopia": [
                 1169
+            ],
+            "emucr": [
+                "citra"
             ]
         },
         "bin": [
@@ -5514,6 +5619,9 @@
                 697
             ],
             "scoop-emulators": [
+                "classic99"
+            ],
+            "emucr": [
                 "classic99"
             ]
         },
@@ -5724,6 +5832,9 @@
             ],
             "scoop-emulators": [
                 "cogwheel"
+            ],
+            "emucr": [
+                "cogwheel"
             ]
         },
         "author": "Ben Ryves",
@@ -5870,6 +5981,9 @@
                 229
             ],
             "scoop-emulators": [
+                "colem"
+            ],
+            "emucr": [
                 "colem"
             ]
         },
@@ -6072,6 +6186,9 @@
             ],
             "scoop-emulators": [
                 "coolcv"
+            ],
+            "emucr": [
+                "coolcv"
             ]
         },
         "author": "Oscar Toledo G.",
@@ -6156,6 +6273,9 @@
             ],
             "scoop-emulators": [
                 "cpcalive"
+            ],
+            "emucr": [
+                "cpcalive"
             ]
         },
         "author": "Unknown",
@@ -6223,6 +6343,9 @@
                 321
             ],
             "scoop-emulators": [
+                "cpce"
+            ],
+            "emucr": [
                 "cpce"
             ]
         },
@@ -6342,6 +6465,9 @@
                 "CPCemu"
             ],
             "scoop-emulators": [
+                "cpcemu"
+            ],
+            "emucr": [
                 "cpcemu"
             ]
         },
@@ -6465,6 +6591,9 @@
             ],
             "scoop-emulators": [
                 "cpmbox"
+            ],
+            "emucr": [
+                "cp/m_box"
             ]
         },
         "author": "habi",
@@ -6612,6 +6741,9 @@
             ],
             "emutopia": [
                 399
+            ],
+            "emucr": [
+                "crabemu"
             ]
         },
         "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/08/CrabEmu-Logo-SG-100-Emulator-SEGA-Master-System-Emulator.png",
@@ -6865,6 +6997,9 @@
             ],
             "scoop-emulators": [
                 "cxbx"
+            ],
+            "emucr": [
+                "cxbx"
             ]
         },
         "author": "Echelon9",
@@ -6931,6 +7066,9 @@
             ],
             "windspro": [
                 "Cxbx Reloaded"
+            ],
+            "emucr": [
+                "cxbx_reloaded"
             ]
         },
         "bin": [
@@ -7030,6 +7168,9 @@
             ],
             "scoop-emulators": [
                 "daedalus"
+            ],
+            "emucr": [
+                "daedalus"
             ]
         },
         "author": "StrmnNrmn",
@@ -7074,6 +7215,9 @@
                 "daphne"
             ],
             "scoop-emulators": [
+                "daphne"
+            ],
+            "emucr": [
                 "daphne"
             ]
         },
@@ -7642,6 +7786,9 @@
             ],
             "scoop-emulators": [
                 "dcalice"
+            ],
+            "emucr": [
+                "dcalice"
             ]
         },
         "author": "Daniel Coulom",
@@ -7685,6 +7832,9 @@
                 516
             ],
             "scoop-emulators": [
+                "dcexel"
+            ],
+            "emucr": [
                 "dcexel"
             ]
         },
@@ -7881,6 +8031,9 @@
             ],
             "scoop-emulators": [
                 "dcmoto"
+            ],
+            "emucr": [
+                "dcmoto"
             ]
         },
         "author": "Daniel Coulom",
@@ -7930,6 +8083,9 @@
             ],
             "scoop-emulators": [
                 "dcvg5k"
+            ],
+            "emucr": [
+                "dcvg5k"
             ]
         },
         "author": "Daniel Coulom",
@@ -7974,6 +8130,9 @@
                 "decaf-emulator"
             ],
             "scoop-emulators": [
+                "decaf"
+            ],
+            "emucr": [
                 "decaf"
             ]
         },
@@ -8028,6 +8187,9 @@
                 400
             ],
             "scoop-emulators": [
+                "dega"
+            ],
+            "emucr": [
                 "dega"
             ]
         },
@@ -8084,6 +8246,9 @@
             ],
             "emutopia": [
                 272
+            ],
+            "emucr": [
+                "demul"
             ]
         },
         "author": "Demul Team",
@@ -8303,6 +8468,9 @@
             ],
             "emutopia": [
                 425
+            ],
+            "emucr": [
+                "desmume"
             ]
         },
         "author": "yopyop, DeSmuME team",
@@ -8459,6 +8627,9 @@
             ],
             "scoop-emulators": [
                 "dgen"
+            ],
+            "emucr": [
+                "dgen"
             ]
         },
         "author": "DGen was originally written by Dave. It was ported to SDL by Joe Groff and Phil K. Hornung. It was resurrected by tamentis in 2008 and is maintained by zamaz since september 2011.",
@@ -8534,6 +8705,9 @@
                 432
             ],
             "scoop-emulators": [
+                "dinoboy"
+            ],
+            "emucr": [
                 "dinoboy"
             ]
         },
@@ -8621,6 +8795,9 @@
                 560
             ],
             "scoop-emulators": [
+                "dmgboy"
+            ],
+            "emucr": [
                 "dmgboy"
             ]
         },
@@ -8718,6 +8895,9 @@
             ],
             "emutopia": [
                 346
+            ],
+            "emucr": [
+                "dolphin"
             ]
         },
         "bin": [
@@ -9044,6 +9224,9 @@
             ],
             "scoop-emulators": [
                 "dolwin"
+            ],
+            "emucr": [
+                "dolwin"
             ]
         },
         "author": "Dolwin Team",
@@ -9109,6 +9292,9 @@
                 531
             ],
             "scoop-emulators": [
+                "dosbox"
+            ],
+            "emucr": [
                 "dosbox"
             ]
         },
@@ -9384,6 +9570,9 @@
             ],
             "emulationstation-de": [
                 "DOSBox Staging"
+            ],
+            "emucr": [
+                "dosbox-staging"
             ]
         },
         "bin": [
@@ -9410,6 +9599,9 @@
             ],
             "emutopia": [
                 2025
+            ],
+            "emucr": [
+                "dosbox-x"
             ]
         },
         "web": {
@@ -9479,6 +9671,9 @@
                 "dream64"
             ],
             "scoop-emulators": [
+                "dream64"
+            ],
+            "emucr": [
                 "dream64"
             ]
         },
@@ -9835,6 +10030,9 @@
             ],
             "scoop-emulators": [
                 "dsvz200"
+            ],
+            "emucr": [
+                "dsvz200"
             ]
         },
         "author": "The_Author and DynaChicken",
@@ -9937,6 +10135,9 @@
                 "duckstation"
             ],
             "scoop-emulators": [
+                "duckstation"
+            ],
+            "emucr": [
                 "duckstation"
             ]
         },
@@ -10068,6 +10269,9 @@
             ],
             "emutopia": [
                 318
+            ],
+            "emucr": [
+                "dxbx"
             ]
         },
         "logo": "https://cdn.emulationking.com/wp-content/uploads/2019/10/dxbx-logo-thumbnail.png",
@@ -10135,6 +10339,9 @@
                 "EightyOne"
             ],
             "scoop-emulators": [
+                "eightyone"
+            ],
+            "emucr": [
                 "eightyone"
             ]
         },
@@ -10347,6 +10554,9 @@
                 132
             ],
             "scoop-emulators": [
+                "elkulator"
+            ],
+            "emucr": [
                 "elkulator"
             ]
         },
@@ -10720,6 +10930,9 @@
             ],
             "scoop-emulators": [
                 "emu"
+            ],
+            "emucr": [
+                "emu"
             ]
         },
         "author": "Tselikov",
@@ -10809,6 +11022,9 @@
                 489
             ],
             "scoop-emulators": [
+                "emu64"
+            ],
+            "emucr": [
                 "emu64"
             ]
         },
@@ -10920,6 +11136,9 @@
                 191
             ],
             "scoop-emulators": [
+                "emu7800"
+            ],
+            "emucr": [
                 "emu7800"
             ]
         },
@@ -11460,6 +11679,9 @@
             ],
             "scoop-emulators": [
                 "ep128emu"
+            ],
+            "emucr": [
+                "ep128emu"
             ]
         },
         "author": "Istvan Varga",
@@ -11930,6 +12152,9 @@
             ],
             "emutopia": [
                 419
+            ],
+            "emucr": [
+                "epsxe"
             ]
         },
         "author": "Calb, Galtor, -Demo-",
@@ -12296,6 +12521,9 @@
             ],
             "scoop-emulators": [
                 "exodus"
+            ],
+            "emucr": [
+                "exodus"
             ]
         },
         "author": "The Exodus Team",
@@ -12445,6 +12673,9 @@
             ],
             "scoop-emulators": [
                 "faux1"
+            ],
+            "emucr": [
+                "faux1"
             ]
         },
         "author": "Edward Patel",
@@ -12528,6 +12759,9 @@
             ],
             "scoop-emulators": [
                 "fbalpha"
+            ],
+            "emucr": [
+                "finalburn_alpha"
             ]
         },
         "author": "The FinalBurn Alpha Team",
@@ -12685,6 +12919,9 @@
         "matches": {
             "retropie": [
                 "fbzx"
+            ],
+            "emucr": [
+                "fbzx"
             ]
         },
         "web": {
@@ -12721,6 +12958,9 @@
             ],
             "emutopia": [
                 354
+            ],
+            "emucr": [
+                "fceux"
             ]
         },
         "author": "FCEUX team",
@@ -12964,6 +13204,9 @@
             ],
             "scoop-emulators": [
                 "firegb"
+            ],
+            "emucr": [
+                "firegb"
             ]
         },
         "author": "Frankablu",
@@ -13014,6 +13257,9 @@
             "scoop-emulators": [
                 "flycast",
                 "flycast-dev"
+            ],
+            "emucr": [
+                "flycast"
             ]
         },
         "bin": [
@@ -13045,6 +13291,9 @@
                 1220
             ],
             "scoop-emulators": [
+                "fmsx"
+            ],
+            "emucr": [
                 "fmsx"
             ]
         },
@@ -13179,6 +13428,9 @@
             ],
             "scoop-emulators": [
                 "freedo"
+            ],
+            "emucr": [
+                "freedo"
             ]
         },
         "author": "awright69, felix_laz, troosh & jsammons",
@@ -13238,6 +13490,9 @@
                 "frodo"
             ],
             "scoop-emulators": [
+                "frodo"
+            ],
+            "emucr": [
                 "frodo"
             ]
         },
@@ -13303,6 +13558,9 @@
                 498
             ],
             "scoop-emulators": [
+                "fs-uae"
+            ],
+            "emucr": [
                 "fs-uae"
             ]
         },
@@ -13453,6 +13711,9 @@
             ],
             "scoop-emulators": [
                 "fuse"
+            ],
+            "emucr": [
+                "fuse"
             ]
         },
         "author": "Philip Kendall and the Fuse Team",
@@ -13540,6 +13801,9 @@
             ],
             "scoop-emulators": [
                 "futurepinball"
+            ],
+            "emucr": [
+                "future_pinball"
             ]
         },
         "author": "Christopher Leathley",
@@ -13639,6 +13903,9 @@
             ],
             "emutopia": [
                 438
+            ],
+            "emucr": [
+                "gambatte"
             ]
         },
         "logo": "https://cdn.emulationking.com/wp-content/uploads/2018/12/gambatte-logo-GBC-Emulator.png",
@@ -13760,6 +14027,9 @@
             ],
             "scoop-emulators": [
                 "gbeplus"
+            ],
+            "emucr": [
+                "gb_enhanced+"
             ]
         },
         "author": "D S Baxter aka Shonumi",
@@ -13946,6 +14216,9 @@
             ],
             "emutopia": [
                 1043
+            ],
+            "emucr": [
+                "gearboy"
             ]
         },
         "logo": "https://cdn.emulationking.com/wp-content/uploads/2015/03/Gearboy-Logo-GBC-Emulator.png",
@@ -13992,6 +14265,9 @@
             ],
             "emutopia": [
                 2114
+            ],
+            "emucr": [
+                "gearsystem"
             ]
         },
         "author": "Ignacio Sanchez",
@@ -14056,6 +14332,9 @@
             ],
             "scoop-emulators": [
                 "geepee32"
+            ],
+            "emucr": [
+                "geepee32"
             ]
         },
         "author": "Tim Schuerewegen",
@@ -14099,6 +14378,9 @@
                 "gekko"
             ],
             "scoop-emulators": [
+                "gekko"
+            ],
+            "emucr": [
                 "gekko"
             ]
         },
@@ -14206,6 +14488,9 @@
             ],
             "scoop-emulators": [
                 "genesisplus"
+            ],
+            "emucr": [
+                "genesis_plus"
             ]
         },
         "author": "Charles MacDonald",
@@ -14263,6 +14548,9 @@
                 511
             ],
             "scoop-emulators": [
+                "genieous"
+            ],
+            "emucr": [
                 "genieous"
             ]
         },
@@ -14849,6 +15137,9 @@
             ],
             "scoop-emulators": [
                 "gens32"
+            ],
+            "emucr": [
+                "gens32_surreal"
             ]
         },
         "author": "Stéphane Dallongeville",
@@ -14999,6 +15290,9 @@
             ],
             "scoop-emulators": [
                 "gensgs"
+            ],
+            "emucr": [
+                "gens/gs"
             ]
         },
         "author": "David Korth",
@@ -15180,6 +15474,9 @@
             ],
             "scoop-emulators": [
                 "gest"
+            ],
+            "emucr": [
+                "gest"
             ]
         },
         "author": "TM",
@@ -15286,6 +15583,9 @@
         "matches": {
             "emulationking": [
                 "gnuboy"
+            ],
+            "emucr": [
+                "gnuboy"
             ]
         },
         "logo": "https://cdn.emulationking.com/wp-content/uploads/2018/12/gnuboy-logo-banner-GBC-Emulator.png",
@@ -15318,6 +15618,9 @@
         },
         "matches": {
             "retropie": [
+                "gpsp"
+            ],
+            "emucr": [
                 "gpsp"
             ]
         }
@@ -15356,6 +15659,9 @@
                 285
             ],
             "scoop-emulators": [
+                "gsport"
+            ],
+            "emucr": [
                 "gsport"
             ]
         },
@@ -15523,6 +15829,9 @@
             ],
             "emutopia": [
                 186
+            ],
+            "emucr": [
+                "hatari"
             ]
         },
         "author": "The Hatari Team",
@@ -15618,6 +15927,9 @@
             ],
             "scoop-emulators": [
                 "hdnes"
+            ],
+            "emucr": [
+                "hdnes"
             ]
         },
         "author": "mkwong98",
@@ -15658,6 +15970,9 @@
                 "hhugboy"
             ],
             "scoop-emulators": [
+                "hhugboy"
+            ],
+            "emucr": [
                 "hhugboy"
             ]
         },
@@ -15820,6 +16135,9 @@
             ],
             "emutopia": [
                 1892
+            ],
+            "emucr": [
+                "higan"
             ]
         },
         "author": "byuu",
@@ -16131,6 +16449,9 @@
             ],
             "scoop-emulators": [
                 "horizon"
+            ],
+            "emucr": [
+                "horizon"
             ]
         },
         "author": "Chris Lam",
@@ -16194,6 +16515,9 @@
                 490
             ],
             "scoop-emulators": [
+                "hoxs64"
+            ],
+            "emucr": [
                 "hoxs64"
             ]
         },
@@ -16385,6 +16709,9 @@
             ],
             "scoop-emulators": [
                 "hpsx64"
+            ],
+            "emucr": [
+                "hpsx64"
             ]
         },
         "author": "TheGangster",
@@ -16428,6 +16755,9 @@
                 512
             ],
             "scoop-emulators": [
+                "ht1080z"
+            ],
+            "emucr": [
                 "ht1080z"
             ]
         },
@@ -16792,6 +17122,9 @@
             ],
             "scoop-emulators": [
                 "ice64"
+            ],
+            "emucr": [
+                "ice64"
             ]
         },
         "author": "Pokefan",
@@ -16834,6 +17167,9 @@
                 "ideas-emulator"
             ],
             "scoop-emulators": [
+                "ideas"
+            ],
+            "emucr": [
                 "ideas"
             ]
         },
@@ -16919,6 +17255,9 @@
                 1421
             ],
             "scoop-emulators": [
+                "ines"
+            ],
+            "emucr": [
                 "ines"
             ]
         },
@@ -17226,6 +17565,9 @@
             ],
             "scoop-emulators": [
                 "jagulator"
+            ],
+            "emucr": [
+                "jagulator"
             ]
         },
         "author": "SubQMod",
@@ -17340,6 +17682,9 @@
             ],
             "scoop-emulators": [
                 "jnes"
+            ],
+            "emucr": [
+                "jnes"
             ]
         },
         "author": "Jabo",
@@ -17423,6 +17768,9 @@
             ],
             "scoop-emulators": [
                 "joyce"
+            ],
+            "emucr": [
+                "joyce"
             ]
         },
         "author": "John Elliott",
@@ -17484,6 +17832,9 @@
                 "jpcsp"
             ],
             "scoop-emulators": [
+                "jpcsp"
+            ],
+            "emucr": [
                 "jpcsp"
             ]
         },
@@ -17593,6 +17944,9 @@
                 210
             ],
             "scoop-emulators": [
+                "jum52"
+            ],
+            "emucr": [
                 "jum52"
             ]
         },
@@ -17878,6 +18232,9 @@
             ],
             "scoop-emulators": [
                 "jzintv"
+            ],
+            "emucr": [
+                "jzintv"
             ]
         },
         "author": "Joseph Zbiciak",
@@ -17945,6 +18302,9 @@
                 213
             ],
             "scoop-emulators": [
+                "kat5200"
+            ],
+            "emucr": [
                 "kat5200"
             ]
         },
@@ -18075,6 +18435,9 @@
             ],
             "scoop-emulators": [
                 "kc85emu"
+            ],
+            "emucr": [
+                "kc85emu"
             ]
         },
         "author": "Frank Ludwig",
@@ -18114,6 +18477,9 @@
                 "kcemu"
             ],
             "scoop-emulators": [
+                "kcemu"
+            ],
+            "emucr": [
                 "kcemu"
             ]
         },
@@ -18357,6 +18723,9 @@
             ],
             "scoop-emulators": [
                 "kegafusion"
+            ],
+            "emucr": [
+                "kega_fusion"
             ]
         },
         "author": "Steve Snake",
@@ -18607,6 +18976,9 @@
                 478
             ],
             "scoop-emulators": [
+                "kegs"
+            ],
+            "emucr": [
                 "kegs"
             ]
         },
@@ -18869,6 +19241,9 @@
                 1151
             ],
             "scoop-emulators": [
+                "kindred"
+            ],
+            "emucr": [
                 "kindred"
             ]
         },
@@ -19163,6 +19538,9 @@
         "matches": {
             "screenscraper": [
                 "launchbox"
+            ],
+            "emucr": [
+                "launchbox"
             ]
         }
     },
@@ -19181,6 +19559,9 @@
                 "linapple"
             ],
             "retropie": [
+                "linapple"
+            ],
+            "emucr": [
                 "linapple"
             ]
         }
@@ -19290,6 +19671,9 @@
             ],
             "scoop-emulators": [
                 "luagb"
+            ],
+            "emucr": [
+                "luagb"
             ]
         },
         "author": "Nicholas Flynt",
@@ -19349,6 +19733,9 @@
         "matches": {
             "emulationstation-de": [
                 "M.U.G.E.N"
+            ],
+            "emucr": [
+                "m.u.g.e.n"
             ]
         },
         "bin": [
@@ -19576,6 +19963,9 @@
             ],
             "scoop-emulators": [
                 "mahnes"
+            ],
+            "emucr": [
+                "mahnes"
             ]
         },
         "author": "H Lorenzi",
@@ -19656,6 +20046,9 @@
                 "makaronex"
             ],
             "scoop-emulators": [
+                "makaronex"
+            ],
+            "emucr": [
                 "makaronex"
             ]
         },
@@ -19852,6 +20245,9 @@
             "emutopia": [
                 1246,
                 266
+            ],
+            "emucr": [
+                "mame"
             ]
         },
         "bin": [
@@ -19946,6 +20342,9 @@
         ],
         "matches": {
             "retropie": [
+                "mame4all"
+            ],
+            "emucr": [
                 "mame4all"
             ]
         }
@@ -20127,6 +20526,9 @@
             ],
             "emutopia": [
                 328
+            ],
+            "emucr": [
+                "mednafen"
             ]
         },
         "bin": [
@@ -20288,6 +20690,9 @@
             ],
             "scoop-emulators": [
                 "medusa"
+            ],
+            "emucr": [
+                "medusa"
             ]
         },
         "author": "Jeffrey Pfau",
@@ -20389,6 +20794,9 @@
             ],
             "scoop-emulators": [
                 "meisei"
+            ],
+            "emucr": [
+                "meisei"
             ]
         },
         "author": "hap",
@@ -20437,6 +20845,9 @@
                 239
             ],
             "scoop-emulators": [
+                "meka"
+            ],
+            "emucr": [
                 "meka"
             ]
         },
@@ -20551,6 +20962,9 @@
             ],
             "emutopia": [
                 1477
+            ],
+            "emucr": [
+                "melonds"
             ]
         },
         "bin": [
@@ -20694,6 +21108,9 @@
             ],
             "emutopia": [
                 1334
+            ],
+            "emucr": [
+                "mesen"
             ]
         },
         "author": "M Bibaud aka Sour",
@@ -21000,6 +21417,9 @@
             ],
             "scoop-emulators": [
                 "mess"
+            ],
+            "emucr": [
+                "mess"
             ]
         },
         "author": "M.E.S.S. Team",
@@ -21186,6 +21606,9 @@
             ],
             "emutopia": [
                 1632
+            ],
+            "emucr": [
+                "mgba"
             ]
         },
         "bin": [
@@ -21385,6 +21808,9 @@
             ],
             "scoop-emulators": [
                 "micro64"
+            ],
+            "emucr": [
+                "micro64"
             ]
         },
         "author": "Benjamin 'BeRo' Rosseaux",
@@ -21488,6 +21914,9 @@
             ],
             "scoop-emulators": [
                 "minivmac"
+            ],
+            "emucr": [
+                "mini_vmac"
             ]
         },
         "author": "Paul C Pratt and Others",
@@ -21796,6 +22225,9 @@
             ],
             "scoop-emulators": [
                 "mupen64plus"
+            ],
+            "emucr": [
+                "mupen64plus"
             ]
         },
         "bin": [
@@ -21864,6 +22296,10 @@
             ],
             "scoop-emulators": [
                 "mupen64plusplus"
+            ],
+            "emucr": [
+                "mupen64++",
+                "mupen64k"
             ]
         },
         "author": "Okaygo",
@@ -21917,6 +22353,9 @@
             ],
             "scoop-emulators": [
                 "mynes"
+            ],
+            "emucr": [
+                "my_nes"
             ]
         },
         "author": "Ala Ibrahim Hadid",
@@ -22122,6 +22561,9 @@
                 "mz800emu"
             ],
             "scoop-emulators": [
+                "mz800emu"
+            ],
+            "emucr": [
                 "mz800emu"
             ]
         },
@@ -22345,6 +22787,9 @@
             ],
             "scoop-emulators": [
                 "nekoprojectii"
+            ],
+            "emucr": [
+                "neko_project_ii"
             ]
         },
         "author": "NP Team",
@@ -22467,6 +22912,9 @@
             ],
             "scoop-emulators": [
                 "nemu64"
+            ],
+            "emucr": [
+                "nemu64"
             ]
         },
         "author": "Lemmy, LaC, hWnd",
@@ -22515,6 +22963,9 @@
                 1423
             ],
             "scoop-emulators": [
+                "nemulator"
+            ],
+            "emucr": [
                 "nemulator"
             ]
         },
@@ -22740,6 +23191,9 @@
             ],
             "scoop-emulators": [
                 "neocdsdl"
+            ],
+            "emucr": [
+                "neocd/sdl"
             ]
         },
         "author": "Fosters",
@@ -22952,6 +23406,9 @@
             ],
             "scoop-emulators": [
                 "nesemu"
+            ],
+            "emucr": [
+                "nes-emu"
             ]
         },
         "author": "Antonio Maiorano",
@@ -22996,6 +23453,9 @@
                 366
             ],
             "scoop-emulators": [
+                "nesterj"
+            ],
+            "emucr": [
                 "nesterj"
             ]
         },
@@ -23097,6 +23557,9 @@
             ],
             "emutopia": [
                 368
+            ],
+            "emucr": [
+                "nestopia"
             ]
         },
         "author": "Martin Freij",
@@ -23397,6 +23860,9 @@
             ],
             "scoop-emulators": [
                 "nice64"
+            ],
+            "emucr": [
+                "nice64"
             ]
         },
         "author": "Rice and Pokefan",
@@ -23441,6 +23907,9 @@
             ],
             "emutopia": [
                 369
+            ],
+            "emucr": [
+                "nintendulator"
             ]
         },
         "author": "Quietust",
@@ -23603,6 +24072,9 @@
             ],
             "scoop-emulators": [
                 "no2k6"
+            ],
+            "emucr": [
+                "no$2k6"
             ]
         },
         "author": "Martin Korth",
@@ -23780,6 +24252,9 @@
             ],
             "scoop-emulators": [
                 "nogba"
+            ],
+            "emucr": [
+                "no$gba"
             ]
         },
         "author": "Martin Korth",
@@ -24081,6 +24556,9 @@
             ],
             "scoop-emulators": [
                 "nones"
+            ],
+            "emucr": [
+                "no$nes"
             ]
         },
         "author": "Martin Korth",
@@ -24140,6 +24618,9 @@
             ],
             "scoop-emulators": [
                 "nopsx"
+            ],
+            "emucr": [
+                "no$psx"
             ]
         },
         "author": "Martin Korth",
@@ -24214,6 +24695,9 @@
             ],
             "scoop-emulators": [
                 "nosns"
+            ],
+            "emucr": [
+                "no$sns"
             ]
         },
         "author": "Martin Korth",
@@ -24331,6 +24815,9 @@
             ],
             "scoop-emulators": [
                 "nozx"
+            ],
+            "emucr": [
+                "no$zx"
             ]
         },
         "author": "Martin Korth",
@@ -24384,6 +24871,9 @@
                 "nucleus"
             ],
             "scoop-emulators": [
+                "nucleus"
+            ],
+            "emucr": [
                 "nucleus"
             ]
         },
@@ -24459,6 +24949,9 @@
                 396
             ],
             "scoop-emulators": [
+                "nulldc"
+            ],
+            "emucr": [
                 "nulldc"
             ]
         },
@@ -24582,6 +25075,9 @@
             ],
             "scoop-emulators": [
                 "o2em"
+            ],
+            "emucr": [
+                "o2em"
             ]
         },
         "author": "Daniel Boris",
@@ -24633,6 +25129,9 @@
                 234
             ],
             "scoop-emulators": [
+                "ootake"
+            ],
+            "emucr": [
                 "ootake"
             ]
         },
@@ -24688,6 +25187,9 @@
         "matches": {
             "recalbox": [
                 "openbor"
+            ],
+            "emucr": [
+                "openbor"
             ]
         }
     },
@@ -24718,6 +25220,9 @@
             ],
             "emutopia": [
                 435
+            ],
+            "emucr": [
+                "openmsx"
             ]
         },
         "bin": [
@@ -24756,6 +25261,9 @@
                 "oricutron"
             ],
             "scoop-emulators": [
+                "oricutron"
+            ],
+            "emucr": [
                 "oricutron"
             ]
         },
@@ -24804,6 +25312,9 @@
                 407
             ],
             "scoop-emulators": [
+                "osmose"
+            ],
+            "emucr": [
                 "osmose"
             ]
         },
@@ -25026,6 +25537,9 @@
             ],
             "scoop-emulators": [
                 "parajve"
+            ],
+            "emucr": [
+                "parajve"
             ]
         },
         "author": "Franck Chevassu",
@@ -25070,6 +25584,9 @@
                 1160
             ],
             "scoop-emulators": [
+                "pasofami"
+            ],
+            "emucr": [
                 "pasofami"
             ]
         },
@@ -25137,6 +25654,9 @@
             ],
             "scoop-emulators": [
                 "pc6001v"
+            ],
+            "emucr": [
+                "pc6001v"
             ]
         },
         "author": "Yumitaro",
@@ -25187,6 +25707,9 @@
                 "pc6001vw"
             ],
             "scoop-emulators": [
+                "pc6001vw"
+            ],
+            "emucr": [
                 "pc6001vw"
             ]
         },
@@ -25268,6 +25791,9 @@
                 1178
             ],
             "scoop-emulators": [
+                "pc6001vx"
+            ],
+            "emucr": [
                 "pc6001vx"
             ]
         },
@@ -25569,6 +26095,9 @@
             ],
             "scoop-emulators": [
                 "pcejin"
+            ],
+            "emucr": [
+                "pcejin"
             ]
         },
         "author": "Paul_t",
@@ -25660,6 +26189,9 @@
                 153
             ],
             "scoop-emulators": [
+                "pcsp"
+            ],
+            "emucr": [
                 "pcsp"
             ]
         },
@@ -25759,6 +26291,9 @@
             ],
             "retropie": [
                 "pcsx-rearmed"
+            ],
+            "emucr": [
+                "pcsx-rearmed"
             ]
         },
         "bin": [
@@ -25810,6 +26345,9 @@
             ],
             "emutopia": [
                 395
+            ],
+            "emucr": [
+                "pcsx2"
             ]
         },
         "bin": [
@@ -25963,6 +26501,9 @@
             ],
             "scoop-emulators": [
                 "pcsxr"
+            ],
+            "emucr": [
+                "pcsxr"
             ]
         },
         "author": "PCSX-Reloaded Team",
@@ -26074,6 +26615,9 @@
             ],
             "scoop-emulators": [
                 "pearpc"
+            ],
+            "emucr": [
+                "pearpc"
             ]
         },
         "author": "Sebastian Biallas and Others",
@@ -26124,6 +26668,9 @@
                 1249
             ],
             "scoop-emulators": [
+                "phoenix"
+            ],
+            "emucr": [
                 "phoenix"
             ]
         },
@@ -26350,6 +26897,9 @@
             ],
             "scoop-emulators": [
                 "picodrive"
+            ],
+            "emucr": [
+                "picodrive"
             ]
         },
         "author": "notaz",
@@ -26421,6 +26971,9 @@
                 "pk201"
             ],
             "scoop-emulators": [
+                "pk201"
+            ],
+            "emucr": [
                 "pk201"
             ]
         },
@@ -26509,6 +27062,9 @@
                 1203
             ],
             "scoop-emulators": [
+                "play!"
+            ],
+            "emucr": [
                 "play!"
             ]
         },
@@ -26635,6 +27191,9 @@
                 503
             ],
             "scoop-emulators": [
+                "plus4emu"
+            ],
+            "emucr": [
                 "plus4emu"
             ]
         },
@@ -26876,6 +27435,9 @@
             ],
             "scoop-emulators": [
                 "pom1"
+            ],
+            "emucr": [
+                "pom1"
             ]
         },
         "author": "John D Corrado and Verhille Arnaud",
@@ -27040,6 +27602,9 @@
             ],
             "emutopia": [
                 704
+            ],
+            "emucr": [
+                "ppsspp"
             ]
         },
         "bin": [
@@ -27260,6 +27825,9 @@
             ],
             "emutopia": [
                 343
+            ],
+            "emucr": [
+                "project64"
             ]
         },
         "bin": [
@@ -27445,6 +28013,9 @@
                 260
             ],
             "scoop-emulators": [
+                "project64k"
+            ],
+            "emucr": [
                 "project64k"
             ]
         },
@@ -27633,6 +28204,9 @@
                 344
             ],
             "scoop-emulators": [
+                "project64k7e"
+            ],
+            "emucr": [
                 "project64k7e"
             ]
         },
@@ -27859,6 +28433,9 @@
             ],
             "emutopia": [
                 220
+            ],
+            "emucr": [
+                "prosystem"
             ]
         },
         "author": "Greg Stanton",
@@ -28332,6 +28909,9 @@
             ],
             "scoop-emulators": [
                 "psxjin"
+            ],
+            "emucr": [
+                "psxjin"
             ]
         },
         "author": "The PSXjin Team",
@@ -28422,6 +29002,9 @@
             ],
             "emutopia": [
                 417
+            ],
+            "emucr": [
+                "punes"
             ]
         },
         "author": "FHorse",
@@ -28754,6 +29337,9 @@
             ],
             "scoop-emulators": [
                 "quasi88"
+            ],
+            "emucr": [
+                "quasi88"
             ]
         },
         "author": "S. Fukunaga",
@@ -28845,6 +29431,9 @@
             ],
             "scoop-emulators": [
                 "radio86"
+            ],
+            "emucr": [
+                "radio86"
             ]
         },
         "author": "Alexander Demin",
@@ -28892,6 +29481,9 @@
                 296
             ],
             "scoop-emulators": [
+                "rainbow"
+            ],
+            "emucr": [
                 "rainbow"
             ]
         },
@@ -29319,6 +29911,9 @@
             ],
             "emutopia": [
                 2004
+            ],
+            "emucr": [
+                "redream"
             ]
         },
         "web": {
@@ -29411,6 +30006,9 @@
             ],
             "scoop-emulators": [
                 "regen"
+            ],
+            "emucr": [
+                "regen"
             ]
         },
         "author": "AamirM",
@@ -29480,6 +30078,9 @@
             ],
             "scoop-emulators": [
                 "reicast"
+            ],
+            "emucr": [
+                "reicast"
             ]
         },
         "logo": "https://cdn.emulationking.com/wp-content/uploads/2016/08/reicast-logo-SEGA-Dreamcast-Emulator.png",
@@ -29518,6 +30119,9 @@
         },
         "matches": {
             "retropie": [
+                "residualvm"
+            ],
+            "emucr": [
                 "residualvm"
             ]
         }
@@ -29612,6 +30216,9 @@
             ],
             "emutopia": [
                 615
+            ],
+            "emucr": [
+                "retroarch"
             ]
         },
         "bin": [
@@ -33605,6 +34212,9 @@
             ],
             "scoop-emulators": [
                 "retrocopy"
+            ],
+            "emucr": [
+                "retrocopy"
             ]
         },
         "author": "Unknown",
@@ -33836,6 +34446,9 @@
             ],
             "scoop-emulators": [
                 "rocknes"
+            ],
+            "emucr": [
+                "rocknes"
             ]
         },
         "author": "Zepper",
@@ -33955,6 +34568,9 @@
             ],
             "scoop-emulators": [
                 "roland"
+            ],
+            "emucr": [
+                "roland"
             ]
         },
         "author": "Raldus",
@@ -34019,6 +34635,9 @@
                 133
             ],
             "scoop-emulators": [
+                "rpcemu"
+            ],
+            "emucr": [
                 "rpcemu"
             ]
         },
@@ -34201,6 +34820,9 @@
             ],
             "emutopia": [
                 164
+            ],
+            "emucr": [
+                "rpcs3"
             ]
         },
         "author": "The RPCS3 Team",
@@ -34360,6 +34982,9 @@
             ],
             "scoop-emulators": [
                 "rxnes"
+            ],
+            "emucr": [
+                "rxnes"
             ]
         },
         "author": "Myles Johnston",
@@ -34400,6 +35025,9 @@
             ],
             "scoop-emulators": [
                 "ryujinx"
+            ],
+            "emucr": [
+                "ryujinx"
             ]
         },
         "web": {
@@ -34431,6 +35059,9 @@
                 "SainT"
             ],
             "scoop-emulators": [
+                "saint"
+            ],
+            "emucr": [
                 "saint"
             ]
         },
@@ -34671,6 +35302,9 @@
             "scoop-emulators": [
                 "scummvm",
                 "scummvm-nightly"
+            ],
+            "emucr": [
+                "scummvm"
             ]
         },
         "bin": [
@@ -34737,6 +35371,9 @@
                 "sdltrs"
             ],
             "scoop-emulators": [
+                "sdltrs"
+            ],
+            "emucr": [
                 "sdltrs"
             ]
         },
@@ -34920,6 +35557,9 @@
             ],
             "scoop-emulators": [
                 "sharp80"
+            ],
+            "emucr": [
+                "sharp80"
             ]
         },
         "author": "Matthew Hamilton",
@@ -34982,6 +35622,9 @@
             ],
             "scoop-emulators": [
                 "sharpchip8"
+            ],
+            "emucr": [
+                "sharpchip-8"
             ]
         },
         "author": "Yannick Comte aka Demonixis",
@@ -35029,6 +35672,9 @@
             ],
             "scoop-emulators": [
                 "sheepshaver"
+            ],
+            "emucr": [
+                "sheepshaver"
             ]
         },
         "bin": [
@@ -35073,6 +35719,9 @@
             ],
             "scoop-emulators": [
                 "shortwaves"
+            ],
+            "emucr": [
+                "short_waves"
             ]
         },
         "author": "InoriRus",
@@ -35119,6 +35768,9 @@
                 537
             ],
             "scoop-emulators": [
+                "simcoupe"
+            ],
+            "emucr": [
                 "simcoupe"
             ]
         },
@@ -35316,6 +35968,9 @@
             ],
             "emutopia": [
                 386
+            ],
+            "emucr": [
+                "snes9x"
             ]
         },
         "bin": [
@@ -35592,6 +36247,9 @@
             ],
             "scoop-emulators": [
                 "snes9xrr"
+            ],
+            "emucr": [
+                "snes9x_rerecording"
             ]
         },
         "author": "UNKNOWN",
@@ -35642,6 +36300,9 @@
             ],
             "scoop-emulators": [
                 "snes9xsx2"
+            ],
+            "emucr": [
+                "snes9x-sx2"
             ]
         },
         "author": "LuigiBlood",
@@ -35683,6 +36344,9 @@
                 389
             ],
             "scoop-emulators": [
+                "snesgt"
+            ],
+            "emucr": [
                 "snesgt"
             ]
         },
@@ -35858,6 +36522,9 @@
             ],
             "scoop-emulators": [
                 "speccy"
+            ],
+            "emucr": [
+                "speccy"
             ]
         },
         "author": "Marat Fayzullin",
@@ -36017,6 +36684,9 @@
             ],
             "scoop-emulators": [
                 "spud"
+            ],
+            "emucr": [
+                "spud"
             ]
         },
         "author": "Richard Chandler",
@@ -36087,6 +36757,9 @@
                 "spudace"
             ],
             "scoop-emulators": [
+                "spudace"
+            ],
+            "emucr": [
                 "spudace"
             ]
         },
@@ -36269,6 +36942,9 @@
             ],
             "emutopia": [
                 416
+            ],
+            "emucr": [
+                "ssf"
             ]
         },
         "bin": [
@@ -36672,6 +37348,9 @@
             ],
             "emutopia": [
                 199
+            ],
+            "emucr": [
+                "stella"
             ]
         },
         "author": "Bradford Mott & Stephen Anthony",
@@ -37525,6 +38204,9 @@
             ],
             "scoop-emulators": [
                 "sugarbox"
+            ],
+            "emucr": [
+                "sugarbox"
             ]
         },
         "author": "Thomas Guillemin",
@@ -37659,6 +38341,9 @@
             ],
             "scoop-emulators": [
                 "supergcube"
+            ],
+            "emucr": [
+                "supergcube"
             ]
         },
         "author": "spartan11-7",
@@ -37723,6 +38408,9 @@
                 "supermodel"
             ],
             "scoop-emulators": [
+                "supermodel"
+            ],
+            "emucr": [
                 "supermodel"
             ]
         },
@@ -38168,6 +38856,9 @@
             ],
             "scoop-emulators": [
                 "tilem"
+            ],
+            "emucr": [
+                "tilem"
             ]
         },
         "author": "Benjamin Moody and Thibault Duponchelle",
@@ -38234,6 +38925,9 @@
                 "tronds"
             ],
             "scoop-emulators": [
+                "tronds"
+            ],
+            "emucr": [
                 "tronds"
             ]
         },
@@ -38362,6 +39056,9 @@
         "matches": {
             "emulationstation-de": [
                 "Tsugaru"
+            ],
+            "emucr": [
+                "tsugaru"
             ]
         },
         "web": {
@@ -38482,6 +39179,9 @@
             ],
             "scoop-emulators": [
                 "twombit"
+            ],
+            "emucr": [
+                "twombit"
             ]
         },
         "author": "piciji",
@@ -38527,6 +39227,9 @@
             ],
             "emutopia": [
                 501
+            ],
+            "emucr": [
+                "uae4all"
             ]
         }
     },
@@ -38564,6 +39267,9 @@
                 485
             ],
             "scoop-emulators": [
+                "ubee512"
+            ],
+            "emucr": [
                 "ubee512"
             ]
         },
@@ -38656,6 +39362,9 @@
             ],
             "scoop-emulators": [
                 "ubernes"
+            ],
+            "emucr": [
+                "ubernes"
             ]
         },
         "author": "M \\ K Productions",
@@ -38719,6 +39428,9 @@
             ],
             "scoop-emulators": [
                 "ultimo"
+            ],
+            "emucr": [
+                "ultimo"
             ]
         },
         "author": "Attila Grosz",
@@ -38771,6 +39483,9 @@
                 "ultrahle"
             ],
             "scoop-emulators": [
+                "ultrahle"
+            ],
+            "emucr": [
                 "ultrahle"
             ]
         },
@@ -38866,6 +39581,9 @@
             ],
             "scoop-emulators": [
                 "unrealspeccy"
+            ],
+            "emucr": [
+                "unrealspeccy"
             ]
         },
         "author": "deathsoft",
@@ -38907,6 +39625,9 @@
                 "unz"
             ],
             "scoop-emulators": [
+                "unz"
+            ],
+            "emucr": [
                 "unz"
             ]
         },
@@ -38997,6 +39718,9 @@
                 1239
             ],
             "scoop-emulators": [
+                "uoyabause"
+            ],
+            "emucr": [
                 "uoyabause"
             ]
         },
@@ -39300,6 +40024,9 @@
             ],
             "scoop-emulators": [
                 "vbjin"
+            ],
+            "emucr": [
+                "vbjin"
             ]
         },
         "author": "Paul_t",
@@ -39370,6 +40097,9 @@
             ],
             "scoop-emulators": [
                 "vbjin-ovr"
+            ],
+            "emucr": [
+                "vbjin-ovr"
             ]
         },
         "author": "Jay Mattis",
@@ -39439,6 +40169,9 @@
                 1505
             ],
             "scoop-emulators": [
+                "vdmgr"
+            ],
+            "emucr": [
                 "vdmgr"
             ]
         },
@@ -39582,6 +40315,9 @@
             ],
             "scoop-emulators": [
                 "vgb"
+            ],
+            "emucr": [
+                "virtual_gameboy"
             ]
         },
         "author": "Marat Fayzullin",
@@ -39645,6 +40381,9 @@
             ],
             "scoop-emulators": [
                 "vgba"
+            ],
+            "emucr": [
+                "virtual_gameboy_advance"
             ]
         },
         "author": "Marat Fayzullin",
@@ -39700,6 +40439,9 @@
             ],
             "scoop-emulators": [
                 "vic20emu"
+            ],
+            "emucr": [
+                "vic20emu"
             ]
         },
         "author": "muehlenf",
@@ -39754,6 +40496,9 @@
             ],
             "emutopia": [
                 495
+            ],
+            "emucr": [
+                "vice"
             ]
         }
     },
@@ -39907,6 +40652,9 @@
                 301
             ],
             "scoop-emulators": [
+                "virtu"
+            ],
+            "emucr": [
                 "virtu"
             ]
         },
@@ -40151,6 +40899,9 @@
             ],
             "emutopia": [
                 178
+            ],
+            "emucr": [
+                "virtual_jaguar"
             ]
         },
         "author": "Niels Wagenaar & Carwin Jones",
@@ -40439,6 +41190,9 @@
             ],
             "scoop-emulators": [
                 "virtualt"
+            ],
+            "emucr": [
+                "virtual_t"
             ]
         },
         "author": "Ken Pettit",
@@ -40649,6 +41403,9 @@
             ],
             "scoop-emulators": [
                 "virtuanes"
+            ],
+            "emucr": [
+                "virtuanes"
             ]
         },
         "author": "Norix",
@@ -40704,6 +41461,9 @@
             ],
             "scoop-emulators": [
                 "virtuanesplus"
+            ],
+            "emucr": [
+                "virtuanes_plus"
             ]
         },
         "author": "Tensai Wang",
@@ -40800,6 +41560,9 @@
             ],
             "emulationstation-de": [
                 "VBA-M"
+            ],
+            "emucr": [
+                "visualboyadvance-m"
             ]
         },
         "bin": [
@@ -40873,6 +41636,9 @@
             ],
             "emutopia": [
                 445
+            ],
+            "emucr": [
+                "visualboyadvance"
             ]
         },
         "author": "Forgotten & kxu",
@@ -41154,6 +41920,9 @@
             ],
             "scoop-emulators": [
                 "visualpinball"
+            ],
+            "emucr": [
+                "visual_pinball"
             ]
         },
         "author": "Randy Davis",
@@ -41275,6 +42044,9 @@
                 "Vita3K"
             ],
             "scoop-emulators": [
+                "vita3k"
+            ],
+            "emucr": [
                 "vita3k"
             ]
         },
@@ -41525,6 +42297,9 @@
             ],
             "scoop-emulators": [
                 "wataroo"
+            ],
+            "emucr": [
+                "wataroo"
             ]
         },
         "author": "Osman Celimli",
@@ -41577,6 +42352,9 @@
                 "whinecube"
             ],
             "scoop-emulators": [
+                "whinecube"
+            ],
+            "emucr": [
                 "whinecube"
             ]
         },
@@ -41838,6 +42616,9 @@
             ],
             "scoop-emulators": [
                 "winape"
+            ],
+            "emucr": [
+                "winape"
             ]
         },
         "author": "Richard Wilson",
@@ -41932,6 +42713,9 @@
                 117
             ],
             "scoop-emulators": [
+                "winarcadia"
+            ],
+            "emucr": [
                 "winarcadia"
             ]
         },
@@ -42466,6 +43250,9 @@
             ],
             "emutopia": [
                 500
+            ],
+            "emucr": [
+                "winfellow"
             ]
         },
         "author": "Peter Schau, Torsten Enderling and Worfje",
@@ -42546,6 +43333,9 @@
             ],
             "scoop-emulators": [
                 "winkawaks"
+            ],
+            "emucr": [
+                "winkawaks"
             ]
         },
         "author": "The WinKawaks Team",
@@ -42620,6 +43410,9 @@
                 "WinTVC"
             ],
             "scoop-emulators": [
+                "wintvc"
+            ],
+            "emucr": [
                 "wintvc"
             ]
         },
@@ -42730,6 +43523,9 @@
             ],
             "emutopia": [
                 497
+            ],
+            "emucr": [
+                "winuae"
             ]
         },
         "author": "Toni Wilen & WinUAE Team",
@@ -43011,6 +43807,9 @@
             ],
             "scoop-emulators": [
                 "winvice"
+            ],
+            "emucr": [
+                "winvice"
             ]
         },
         "author": "The WinVice Team",
@@ -43192,6 +43991,9 @@
             ],
             "scoop-emulators": [
                 "winvz"
+            ],
+            "emucr": [
+                "winvz"
             ]
         },
         "author": "xip",
@@ -43227,6 +44029,9 @@
                 "winvz300"
             ],
             "scoop-emulators": [
+                "winvz300"
+            ],
+            "emucr": [
                 "winvz300"
             ]
         },
@@ -43449,6 +44254,9 @@
             ],
             "scoop-emulators": [
                 "x88000"
+            ],
+            "emucr": [
+                "x88000"
             ]
         },
         "author": "Manuke",
@@ -43509,6 +44317,9 @@
                 245
             ],
             "scoop-emulators": [
+                "xe"
+            ],
+            "emucr": [
                 "xe"
             ]
         },
@@ -43607,6 +44418,9 @@
             ],
             "emutopia": [
                 1221
+            ],
+            "emucr": [
+                "xebra"
             ]
         },
         "author": "Dr. Hell",
@@ -43687,6 +44501,9 @@
             ],
             "scoop-emulators": [
                 "xemu"
+            ],
+            "emucr": [
+                "xemu"
             ]
         },
         "web": {
@@ -43730,6 +44547,9 @@
             "scoop-emulators": [
                 "xenia",
                 "xenia-canary"
+            ],
+            "emucr": [
+                "xenia"
             ]
         },
         "bin": [
@@ -43934,6 +44754,9 @@
             ],
             "scoop-emulators": [
                 "xm6"
+            ],
+            "emucr": [
+                "xm6"
             ]
         },
         "author": "GIMONS",
@@ -44009,6 +44832,9 @@
             ],
             "scoop-emulators": [
                 "xm7"
+            ],
+            "emucr": [
+                "xm7"
             ]
         },
         "author": "PI. and Ryu Takegami",
@@ -44076,6 +44902,9 @@
                 "xm7dash"
             ],
             "scoop-emulators": [
+                "xm7dash"
+            ],
+            "emucr": [
                 "xm7dash"
             ]
         },
@@ -44291,6 +45120,9 @@
             ],
             "scoop-emulators": [
                 "xpeccy"
+            ],
+            "emucr": [
+                "xpeccy"
             ]
         },
         "author": "SAM style",
@@ -44440,6 +45272,9 @@
             ],
             "scoop-emulators": [
                 "xqemu"
+            ],
+            "emucr": [
+                "xqemu"
             ]
         },
         "author": "espes",
@@ -44493,6 +45328,9 @@
                 166
             ],
             "scoop-emulators": [
+                "xroar"
+            ],
+            "emucr": [
                 "xroar"
             ]
         },
@@ -44828,6 +45666,9 @@
             ],
             "scoop-emulators": [
                 "xsnes"
+            ],
+            "emucr": [
+                "xsnes"
             ]
         },
         "author": "Julian Goracke",
@@ -44893,6 +45734,9 @@
             ],
             "emutopia": [
                 415
+            ],
+            "emucr": [
+                "yabause"
             ]
         },
         "author": "Yabouse Team",
@@ -45073,6 +45917,9 @@
             ],
             "scoop-emulators": [
                 "yanese"
+            ],
+            "emucr": [
+                "yanese"
             ]
         },
         "author": "Anes",
@@ -45128,6 +45975,9 @@
                 504
             ],
             "scoop-emulators": [
+                "yape"
+            ],
+            "emucr": [
                 "yape"
             ]
         },
@@ -45379,6 +46229,9 @@
             ],
             "scoop-emulators": [
                 "yoshines"
+            ],
+            "emucr": [
+                "yoshines"
             ]
         },
         "author": "omundodogabriel",
@@ -45428,6 +46281,9 @@
                 "yuzu",
                 "yuzu-dev",
                 "yuzu-pineapple"
+            ],
+            "emucr": [
+                "yuzu"
             ]
         },
         "bin": [
@@ -45529,6 +46385,9 @@
             "emutopia": [
                 1699,
                 204
+            ],
+            "emucr": [
+                "z26"
             ]
         },
         "author": "John Saeger",
@@ -45702,6 +46561,9 @@
             ],
             "scoop-emulators": [
                 "z80stealth"
+            ],
+            "emucr": [
+                "z80stealth"
             ]
         },
         "author": "Kirill Kolpakov",
@@ -45755,6 +46617,9 @@
             ],
             "scoop-emulators": [
                 "zboy"
+            ],
+            "emucr": [
+                "zboy"
             ]
         },
         "author": "Mateusz Viste",
@@ -45796,6 +46661,9 @@
                 "zero"
             ],
             "scoop-emulators": [
+                "zero"
+            ],
+            "emucr": [
                 "zero"
             ]
         },
@@ -45874,6 +46742,9 @@
                 1278
             ],
             "scoop-emulators": [
+                "zesarux"
+            ],
+            "emucr": [
                 "zesarux"
             ]
         },
@@ -45994,6 +46865,9 @@
                 392
             ],
             "scoop-emulators": [
+                "zsnes"
+            ],
+            "emucr": [
                 "zsnes"
             ]
         },
@@ -46269,6 +47143,9 @@
             ],
             "scoop-emulators": [
                 "zxspin"
+            ],
+            "emucr": [
+                "zxspin"
             ]
         },
         "author": "Paul Dunn and Mark Woodmass",
@@ -46312,6 +47189,9 @@
                 98
             ],
             "scoop-emulators": [
+                1964
+            ],
+            "emucr": [
                 1964
             ]
         },
