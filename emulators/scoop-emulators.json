@@ -1035,6 +1035,10 @@
         "id": "mameui",
         "name": "mameui"
     },
+    "mastergear": {
+        "id": "mastergear",
+        "name": "mastergear"
+    },
     "medgui-reborn": {
         "id": "medgui-reborn",
         "name": "medgui-reborn"
@@ -1451,9 +1455,9 @@
         "id": "pkemu",
         "name": "pkemu"
     },
-    "play!": {
-        "id": "play!",
-        "name": "play!"
+    "play-dev": {
+        "id": "play-dev",
+        "name": "play-dev"
     },
     "play": {
         "id": "play",
