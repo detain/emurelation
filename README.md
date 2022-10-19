@@ -114,7 +114,6 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - skeletonKey
   - Websites
     - GamesDatabase
-    - EmuCR
     - EmuParadise
     - SegaRetro.org
     - Emulator.Games

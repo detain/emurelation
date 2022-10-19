@@ -27048,6 +27048,9 @@
         "platforms": [
             "Sony Playstation 2"
         ],
+        "altNames": [
+            "Play"
+        ],
         "matches": {
             "emulationking": [
                 "play-ps2"
@@ -27062,7 +27065,8 @@
                 1203
             ],
             "scoop-emulators": [
-                "play!"
+                "play",
+                "play-dev"
             ],
             "emucr": [
                 "play!"
