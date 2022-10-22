@@ -25,7 +25,7 @@
         "description": "Redump is a disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system. The goal is to make blueprints of the data on console and computer game discs. Redump.org also provides guides to ensure the dumps are correctly done. Users of the website who follow the guides correctly are encouraged to share their results to help build the database. Multiple dumps of games with the same serial number by different people are collected to ensure the same results are gathered, which help correct any incorrect dumps in the database as well as to help recognize alternate versions of the same game. ",
         "updatedLast": 1665187724,
         "updateTrigger": "commit",
-        "logo": "https://ia601802.us.archive.org/14/items/redump.psx.p2/zzzRedump.png",
+        "logo": "https://consolo.is.cc/images/sources/redump.png",
         "web": {
             "http://redump.org/": "home"
         }
@@ -41,7 +41,7 @@
         "description": "What No-Intro does is fill some DAT files, to be used with ROM managers, with information about the known ROMS released. Often there are more versions of the same ROM dump, but most of them are garbage, some examples may include: bad dumps, hacks, fakes, overdumps, underdumps, and so on. No-Intro lists only the best available ROM; it must be a full dump with no faults and no changes to the file, basically just the ROMS that are the closest as possible to the original licensed cartridges.",
         "updatedLast": 1665187596,
         "updateTrigger": "commit",
-        "logo": "https://no-intro.org/gbadat/gui/banner3.5.svg",
+        "logo": "https://consolo.is.cc/images/sources/nointro.svg",
         "web": {
             "https://no-intro.org/": "home"
         }
@@ -57,7 +57,7 @@
         "description": "The Old School Emulation Center (TOSEC) is a retrocomputing initiative dedicated to the cataloging and preservation of software, firmware and resources for arcade machines, microcomputers, minicomputers and video game consoles. The main goal of the project is to catalog and audit various kinds of software and firmware images for these systems.  TOSEC, or sometimes for clarity referred to as 'TOSEC (main)', is the original main branch of the project. It catalogs all the non-optical disc based systems and remains the bulk of the TOSEC database.",
         "updatedLast": 1665187861,
         "updateTrigger": "commit",
-        "logo": "https://www.tosecdev.org/templates/ja_purity_ii/images/logo.gif",
+        "logo": "https://consolo.is.cc/images/sources/tosec.gif",
         "web": {
             "https://www.tosecdev.org/": "home"
         }
@@ -73,7 +73,7 @@
         "description": "TOSEC-ISO is a separate ancillary branch and includes optical disc based systems. This branch contains both optical disc based images (such as DVD, CD and GD based images) as well as the firmware for these disc based systems.",
         "updatedLast": 1665187862,
         "updateTrigger": "commit",
-        "logo": "https://www.tosecdev.org/templates/ja_purity_ii/images/logo.gif",
+        "logo": "https://consolo.is.cc/images/sources/tosec.gif",
         "web": {
             "https://www.tosecdev.org/": "home"
         }
@@ -89,7 +89,7 @@
         "description": "TOSEC-PIX is the second separate ancillary branch and includes computing and gaming resources such as scans of software and hardware manuals, magazine scans, computing catalogs, and videos.",
         "updatedLast": 1665187863,
         "updateTrigger": "commit",
-        "logo": "https://www.tosecdev.org/templates/ja_purity_ii/images/logo.gif",
+        "logo": "https://consolo.is.cc/images/sources/tosec.gif",
         "web": {
             "https://www.tosecdev.org/": "home"
         }
@@ -105,6 +105,7 @@
         "description": "Gaming database",
         "updatedLast": 1661483278,
         "updateTrigger": "commit",
+        "logo": "https://consolo.is.cc/images/sources/tgdb.png",
         "web": {
             "https://thegamesdb.net/": "home"
         }
@@ -122,7 +123,7 @@
         "description": "Retro Gaming Online DB and API",
         "updatedLast": 1662527942,
         "updateTrigger": "commit",
-        "logo": "https://www.screenscraper.fr/images/logo-512x512.png",
+        "logo": "https://consolo.is.cc/images/sources/screenscraper.png",
         "web": {
             "https://www.screenscraper.fr/": "home"
         }
@@ -137,7 +138,7 @@
         "description": "Retro Gaming Online DB and API",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/IGDB_logo.svg",
+        "logo": "https://consolo.is.cc/images/sources/igdb.svg",
         "web": {
             "https://www.igdb.com/": "home"
         }
@@ -154,7 +155,7 @@
         "description": "Retro gaming database",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "logo": "http://jujuvincebros.fr/wiki/arrm/lib/exe/fetch.php?media=arrm:hfsdb:hfsdb_button_small.png",
+        "logo": "https://consolo.is.cc/images/sources/hfsdb.png",
         "web": {
             "https://db.hfsplay.fr/": "home"
         }
@@ -169,7 +170,7 @@
         "description": "Retro Gaming Online DB and API",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "logo": "https://www.mobygames.com/images/mobygames-logo.png",
+        "logo": "https://consolo.is.cc/images/sources/mobygames.png",
         "web": {
             "https://www.mobygames.com/": "home"
         }
@@ -186,6 +187,7 @@
         "description": "the most popular website for old computers.",
         "updatedLast": 1665587780,
         "updateTrigger": "commit",
+        "logo": "https://consolo.is.cc/images/sources/oldcomputers.jpg",
         "web": {
             "https://www.old-computers.com/": "home"
         }
@@ -203,7 +205,7 @@
         "description": "Online Games System Repository. The biggest source for manuals, videos, music and artwork/",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "logo": "https://www.gamesdatabase.org/Images/Logo1.gif",
+        "logo": "https://consolo.is.cc/images/sources/gamesdatabase.gif",
         "web": {
             "https://www.gamesdatabase.org/": "home"
         }
@@ -219,7 +221,7 @@
         "description": "Huge list of emulators and stays up to date with version posts.",
         "updatedLast": 1666155287,
         "updateTrigger": "commit",
-        "logo": "https://3.bp.blogspot.com/_Y6S_jlqe0OQ/TJv0025CbfI/AAAAAAAAAy0/orKSymTi284/s400/emucrlogo.gif",
+        "logo": "https://consolo.is.cc/images/sources/emucr.gif",
         "web": {
             "https://www.emucr.com/": "home"
         }
@@ -235,7 +237,7 @@
         "description": "a collaborative database of games for anyone to contribute and anyone to use in any game-related project.",
         "updatedLast": 1663052157,
         "updateTrigger": "commit",
-        "logo": "https://www.gametdb.com/pub/skins/GameTDB-400.png",
+        "logo": "https://consolo.is.cc/images/sources/gametdb.png",
         "web": {
             "https://www.gametdb.com/": "home"
         }
@@ -251,7 +253,7 @@
         "description": "Site with a moderate selection of platforms and emulators for them.",
         "updatedLast": 1665732614,
         "updateTrigger": "commit",
-        "logo": "https://cdn.emulationking.com/wp-content/uploads/2021/03/emulationkinglogo.png",
+        "logo": "https://consolo.is.cc/images/sources/emulationking.png",
         "web": {
             "https://emulationking.com/": "home"
         }
@@ -267,7 +269,7 @@
         "description": "Large retro gaming website",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "logo": "https://b64459531885200b3efb-5206a7b3a50a3f5974248375cd863061.ssl.cf1.rackcdn.com/graphics/eplogo-tag.jpg",
+        "logo": "https://consolo.is.cc/images/sources/emuparadise.jpg",
         "web": {
             "https://www.emuparadise.me/": "home"
         }
@@ -283,7 +285,7 @@
         "description": "Website with a large list of emulators",
         "updatedLast": 1666127755,
         "updateTrigger": "commit",
-        "logo": "https://emutopia.com/images/emulogo.png.pagespeed.ce.BPXYwR6LZu.png",
+        "logo": "https://consolo.is.cc/images/sources/emutopia.png",
         "web": {
             "https://emutopia.com/": "home"
         }
@@ -300,7 +302,7 @@
         "description": "MAME is a multi-purpose emulation framework.  MAME’s purpose is to preserve decades of software history. As electronic technology continues to rush forward, MAME prevents this important vintage software from being lost and forgotten. This is achieved by documenting the hardware and how it functions. The source code to MAME serves as this documentation. The fact that the software is usable serves primarily to validate the accuracy of the documentation (how else can you prove that you have recreated the hardware faithfully?). Over time, MAME (originally stood for Multiple Arcade Machine Emulator) absorbed the sister-project MESS (Multi Emulator Super System), so MAME now documents a wide variety of (mostly vintage) computers, video game consoles and calculators, in addition to the arcade video games that were its initial focus.",
         "updatedLast": 1665185885,
         "updateTrigger": "commit",
-        "logo": "https://forum.mamedev.org/styles/hawiki/theme/images/mame-forum.png",
+        "logo": "https://consolo.is.cc/images/sources/mame.png",
         "web": {
             "https://www.mamedev.org/": "home",
             "https://github.com/mamedev/mame/": "repo"
@@ -319,7 +321,7 @@
         "description": "LaunchBox was originally built as an attractive frontend for DOSBox, but has long since expanded to support both modern PC games and emulated console platforms. LaunchBox aims to be the one-stop shop for gaming on your computer, for both modern and historical games.",
         "updatedLast": 1665181687,
         "updateTrigger": "commit",
-        "logo": "https://www.launchbox-app.com/Resources/Images/logo.png",
+        "logo": "https://consolo.is.cc/images/sources/launchbox.png",
         "web": {
             "https://www.launchbox-app.com/": "home"
         }
@@ -335,7 +337,7 @@
         "description": "RetroBat is designed to configure automatically EmulationStation frontend with RetroArch and standalone emulators.",
         "updatedLast": 1663059972,
         "updateTrigger": "commit",
-        "logo": "https://www.retrobat.ovh/img/baniere2.png",
+        "logo": "https://consolo.is.cc/images/sources/retrobat.png",
         "web": {
             "https://github.com/kaylh/RetroBat": "repo",
             "https://www.retrobat.ovh/": "home"
@@ -352,7 +354,7 @@
         "description": "EmulationStation Desktop Edition is a frontend for browsing and launching games from your multi-platform game collection.",
         "updatedLast": 1663218361,
         "updateTrigger": "commit",
-        "logo": "https://es-de.org/____impro/1/onewebmedia/ES-DE_logo.png?etag=%226071-6041244a%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=240%2B168",
+        "logo": "https://consolo.is.cc/images/sources/emulationstation-de.png",
         "web": {
             "https://es-de.org/": "home",
             "https://gitlab.com/es-de/emulationstation-de/": "repo"
@@ -369,7 +371,7 @@
         "description": "A multi-emulator frontend with a wheel type design",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "logo": "https://hyperspin-fe.com/uploads/monthly_2021_07/ebd74b9b3bfd11deb539e4242d95078b.png.5be05f4f01167f0fa912a6d47322bf6c.png",
+        "logo": "https://consolo.is.cc/images/sources/hyperspin.png",
         "web": {
             "https://hyperspin-fe.com/": "home"
         }
@@ -385,7 +387,7 @@
         "description": "Retrogaming open source operating system for Raspberry Pi, Odroid and PC.",
         "updatedLast": 1665587385,
         "updateTrigger": "commit",
-        "logo": "https://user-content.gitlab-static.net/eaf79c85113f3e5b19267e83eb7125a0fd31fbd0/68747470733a2f2f73332d65752d776573742d312e616d617a6f6e6177732e636f6d2f666f72756d732e726563616c626f782e636f6d2f38643831653535362d616566622d343732392d616432662d3964373338366566663463642e706e67",
+        "logo": "https://consolo.is.cc/images/sources/recalbox.svg",
         "web": {
             "https://www.recalbox.com/": "home",
             "https://gitlab.com/recalbox/recalbox": "repo"
@@ -402,7 +404,7 @@
         "description": "RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, EmulationStation, RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up. For power users it also provides a large variety of configuration tools to customise the system as you want.",
         "updatedLast": 1662715983,
         "updateTrigger": "commit",
-        "logo": "https://retropie.org.uk/wp-content/uploads/2016/04/RetroPieWebsiteLogo.png",
+        "logo": "https://consolo.is.cc/images/sources/retropie.png",
         "web": {
             "https://retropie.org.uk/": "home",
             "https://github.com/RetroPie/RetroPie-Setup": "repo"
@@ -419,7 +421,7 @@
         "description": "Cross-platform, sophisticated frontend for the libretro API.",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "logo": "https://www.retroarch.com/images/logo.png",
+        "logo": "https://consolo.is.cc/images/sources/retroarch.png",
         "web": {
             "https://www.libretro.com/": "home",
             "https://github.com/libretro/RetroArch": "repo"
@@ -436,7 +438,7 @@
         "description": "A flexible emulator front-end supporting keyboardless navigation and custom system themes.",
         "updatedLast": false,
         "updateTrigger": "commit",
-        "logo": "https://emulationstation.org/assets/logo_es.png",
+        "logo": "https://consolo.is.cc/images/sources/emulationstation.png",
         "web": {
             "https://emulationstation.org/": "home",
             "https://github.com/Aloshi/EmulationStation": "repo"
@@ -453,7 +455,7 @@
         "description": "A frontend for launching emulators.",
         "updatedLast": 1663660786,
         "updateTrigger": "commit",
-        "logo": "https://movilforum.com/wp-content/uploads/2021/07/WinDS-Pro-1024x640.jpg.webp",
+        "logo": "https://consolo.is.cc/images/sources/windspro.jpg",
         "web": {
             "https://windsprocentral.blogspot.com/": "home",
             "https://github.com/lainz/windspro": "repo"
@@ -470,7 +472,7 @@
         "description": "Another Gamelist, Roms manager, and Scraper for Recalbox, Batocera, Retropie, Retrobat & Emulationstation",
         "updatedLast": 1663222440,
         "updateTrigger": "commit",
-        "logo": "http://jujuvincebros.fr/images/phocadownload/arrm/arrm.png",
+        "logo": "https://consolo.is.cc/images/sources/arrm.png",
         "web": {
             "http://jujuvincebros.fr/hard-soft/arrm-gamelist-roms-manager-scraper": "home"
         }
@@ -487,7 +489,7 @@
         "description": "emuControlCenter is a Console/Computer Rom-Manager & Frontend for various older and newer consoles/handheld/computer games and is build for people who want to play games quick 'n' easy without searching to much. ECC uses rom-releated meta and has extended search functions built-in, it supports bookmarks, ratings and a history for roms. You can also add images and preview them directy in the 'Resultview'. There is also a 'ImageCenter' build-in for a fullsize preview of screens and covers.",
         "updatedLast": 1664616850,
         "updateTrigger": "commit",
-        "logo": "https://raw.githubusercontent.com/wiki/PhoenixInteractiveNL/emuControlCenter/images/ecc_splashscreen_123.png",
+        "logo": "https://consolo.is.cc/images/sources/emucontrolcenter.png",
         "web": {
             "https://github.com/PhoenixInteractiveNL/emuControlCenter": "repo",
             "https://github.com/PhoenixInteractiveNL/emuControlCenter.wiki": "repo",
@@ -517,7 +519,7 @@
         "description": "A Scoop bucket for quick installing and upgrading of emulators",
         "updatedLast": 1666182375,
         "updateTrigger": "commit",
-        "logo": "https://avatars.githubusercontent.com/u/16618068?s=200&v=4",
+        "logo": "https://consolo.is.cc/images/sources/scoop-emulators.jpg",
         "web": {
             "https://github.com/detain/scoop-emulators": "repo"
         }
