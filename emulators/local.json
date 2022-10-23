@@ -1272,8 +1272,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Altirra is a cycle accurate Atari 5200 emulator for Windows. Being cycle accurate means Altirra emulates the Atari5200 more accurately then traditional emulators.",
-        "url": "https://emulationking.com/altirra/"
+        "shortDesc": "Altirra is a cycle accurate Atari 5200 emulator for Windows. Being cycle accurate means Altirra emulates the Atari5200 more accurately then traditional emulators."
     },
     "amiberry": {
         "id": "amiberry",
@@ -1326,7 +1325,6 @@
             "windows"
         ],
         "shortDesc": "AndriPSX is an early PlayStation emulator for Windows that can play only a few commercial games. AndriPSX was one of the first emulators to prove that PlayStation emulation was possible.",
-        "url": "https://emulationking.com/andripsx/",
         "description": "AndriPSX was one of the original emulators for the PSX, it was incredibly promising at its time despite being behind completing emulators at the time such as PSEmu Pro.\nSadly despite such a good promising start, AndriPSX’s development was stopped and the emulator never got to meet its full potential. \nIt managed to run a few games, however never managed to get to the same level of compatibility as similar emulators around its time.",
         "versions": {
             "1.0.5": {
@@ -2702,8 +2700,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Atari800 is one of the best Atari 5200 emulators available. Developed originally back in 1995, Atari800 offers support for all features of the Atari800.",
-        "url": "https://emulationking.com/atari800/"
+        "shortDesc": "Atari800 is one of the best Atari 5200 emulators available. Developed originally back in 1995, Atari800 offers support for all features of the Atari800."
     },
     "atari800winplus": {
         "id": "atari800winplus",
@@ -2877,8 +2874,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Atari++ is another cycle accurate Atari 5200 emulator. It was developed with the goal of emulating the Atari 5200 right down to its hardware bugs.",
-        "url": "https://emulationking.com/atariplusplus/"
+        "shortDesc": "Atari++ is another cycle accurate Atari 5200 emulator. It was developed with the goal of emulating the Atari 5200 right down to its hardware bugs."
     },
     "atom": {
         "id": "atom",
@@ -3070,7 +3066,6 @@
             "windows"
         ],
         "shortDesc": "BasicBoy is a GBC emulator that was written entirely in the Visual Basic programming language. While now dated, the Game Boy Color emulator offered decent compatibility and accuracy despite been written in Visual Basic.",
-        "url": "https://emulationking.com/basicboy/",
         "description": "BasicBoy is a Game Boy Color emulator written purely in Microsoft Visual Basic.\nThere is not much to say about this emulator as it doesn’t sport any big feature or even that great compatibility.\nThe biggest achievement is the fact that the emulator is written purely using Visual Basic.",
         "versions": {
             "2.0.3": {
@@ -3164,7 +3159,6 @@
             "windows"
         ],
         "shortDesc": "BatGBA is a once promising emulator that has sadly been long put to rest, it required the GBA Bios to be able to emulate some games but had begun work on trying to emulate all required functions within BatGBA itself.",
-        "url": "https://emulationking.com/batgba/",
         "description": "BatGBA is a now out dated GBA Emulator. It was once promising but was eventually surpassed by the many other GBA emulators. it was one of the first emulators to start really tackling the GBA, however like a few other emulators of its time requires the GBA Bios.\nThe emulation abilities of BatGBA was never fully fleshed out, as newer versions of the emulator was moving to eventually remove the requirement to need a GBA bios alongside the emulator, with work being done to emulate the BIOS within BatGBA itself.\nSadly this is another promising emulator that never survived long enough to become fully fleshed out, and was surpassed by emulators such as Visual Boy Advance. If your after a stable and fast GBA emulator your better off looking at newer emulators such as mGBA or Visual Boy Advance.",
         "versions": {
             "2.25b": {
@@ -3455,8 +3449,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "BGB is a Game Boy Color emulator that was designed to be used as a debugging tool as well as an emulator. BGB accurately emulates the GBC hardware alongside providing a powerful debugger making this emulator a solid choice.",
-        "url": "https://emulationking.com/bgb/"
+        "shortDesc": "BGB is a Game Boy Color emulator that was designed to be used as a debugging tool as well as an emulator. BGB accurately emulates the GBC hardware alongside providing a powerful debugger making this emulator a solid choice."
     },
     "bizhawk": {
         "id": "bizhawk",
@@ -3851,8 +3844,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "BlastEM is an extremely accurate SEGA Genesis emulator. Thanks to its accuracy, it has support for almost every Genesis game. BlastEM is heavily optimized and can run on weaker systems.",
-        "url": "https://emulationking.com/blastem/"
+        "shortDesc": "BlastEM is an extremely accurate SEGA Genesis emulator. Thanks to its accuracy, it has support for almost every Genesis game. BlastEM is heavily optimized and can run on weaker systems."
     },
     "bleem": {
         "id": "bleem",
@@ -3874,7 +3866,6 @@
             "windows"
         ],
         "shortDesc": "Bleem! was one of the first commercial emulators for the PlayStation 1. While a promising PSX emulator, the Bleem! team eventually went bankrupt after a prolonged lawsuit with Sony.",
-        "url": "https://emulationking.com/bleem/",
         "description": "Bleem! was one of the very first commercial PSX Emulators. Bleem! Was a promising start of an emulator, however unlike most other emulators you had to actually buy it, which was an unusual thing at the time and something that did not sit well with big companies like Sony. \nUltimately it was their legal battles with Sony that ultimately killed the company developing Bleem!.\nBleem! was a somewhat promising PSX Emulator, it managed to emulate a variety of games to varying degrees and was surprisingly fast. It achieved this by being written primarily in assembly, this allowed the developers to create very precise optimizations in there code, however it also made it an awful lot more complicated.\nThe Bleem! PSX Emulator also managed to make use of the PC’s graphics hardware to increase the speed of 3D rendering. For its time Bleem! had showed massive promise, helped in part by its commercial nature. Ultimately Bleem! went bankrupt, they may of won the court cases with Sony, but they couldn’t afford the legal fees and had to shut down.\nHowever thanks to them fighting the court case and winning it helped pave the wave for a huge increase in freeware PSX Emulators as it proved in law that an emulator can’t be sued for copyright.\nPlease note Bleem! may not run on any operating system newer then Windows 98. Our team hasn’t personally tested this yet, so drop us a line below if it manages to run.",
         "versions": {
             "1.4": {
@@ -4182,8 +4173,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "BoycottAdvance has now ceased active development, but was at one point regarded as one of the best Nintendo 64 Emulators around, making use of an extremely fast recompiler core that gave it an edge in performance.",
-        "url": "https://emulationking.com/boycottadvance/"
+        "shortDesc": "BoycottAdvance has now ceased active development, but was at one point regarded as one of the best Nintendo 64 Emulators around, making use of an extremely fast recompiler core that gave it an edge in performance."
     },
     "bsnes": {
         "id": "bsnes",
@@ -5288,8 +5278,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Cemu was a surprise Nintendo Wii U Emulator, and so far has been the most successful one, in just over a year it has gone form just being able to boot games to being able to run several games without any game breaking hitches.",
-        "url": "https://emulationking.com/cemu/"
+        "shortDesc": "Cemu was a surprise Nintendo Wii U Emulator, and so far has been the most successful one, in just over a year it has gone form just being able to boot games to being able to run several games without any game breaking hitches."
     },
     "chankast": {
         "id": "chankast",
@@ -5406,8 +5395,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Chankast was one of the first Dreamcast emulators that were able to emulate commercial Dreamcast games successfully. Due to development ending abruptly, Chankast was left buggy and unstable.",
-        "url": "https://emulationking.com/chankast/"
+        "shortDesc": "Chankast was one of the first Dreamcast emulators that were able to emulate commercial Dreamcast games successfully. Due to development ending abruptly, Chankast was left buggy and unstable."
     },
     "citra": {
         "id": "citra",
@@ -5598,8 +5586,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Citra is a superb Nintendo 3DS Emulator that is already managing to emulate several Nintendo 3DS games. Development of Citra is moving quickly, with large increases in both speed and compatibility coming often.",
-        "url": "https://emulationking.com/citra/"
+        "shortDesc": "Citra is a superb Nintendo 3DS Emulator that is already managing to emulate several Nintendo 3DS games. Development of Citra is moving quickly, with large increases in both speed and compatibility coming often."
     },
     "classic99": {
         "id": "classic99",
@@ -6758,7 +6745,6 @@
             "apple"
         ],
         "shortDesc": "CrabEmu is one of the best SEGA Master System emulators available for Linux and macOS. It is used as the Master System emulator for the OpenEmu project.",
-        "url": "https://emulationking.com/crabemu/",
         "description": "CrabEmu is a SG-1000 Emulator and a SEGA Mega System Emulator for Linux,  Mac OS X and even the Dreamcast for those whole still have a Dreamcast lying around.\nThe main focus of CrabEmu was to develop a fast and effective emulator for SEGA’s two 8-bit consoles, the SG-1000 and the SEGA Master System.\nUnlike most emulators though, this emulator is not available on Windows Operating systems.\nCrabEmu boasts quite a high compatibility rate while also managing to retain performance, and also include the ability to be able to render the SG-1000 and SEGA Master System’s graphics at a much higher resolution then they were ever intended to be rendered at.\nWhile development of Crab Emu has ceased, its core has now been implemented into the Mac OS X OpenEmu project to handle support for the SEGA Master system.",
         "versions": {
             "0.2.0": {
@@ -7041,8 +7027,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "CXBX is one of the few Xbox emulators that have managed to succesfully run commercial Xbox games. It is currently one of the few remaining hopes of seeing the original Xbox fully emulated.",
-        "url": "https://emulationking.com/cxbx/"
+        "shortDesc": "CXBX is one of the few Xbox emulators that have managed to succesfully run commercial Xbox games. It is currently one of the few remaining hopes of seeing the original Xbox fully emulated."
     },
     "cxbxreloaded": {
         "id": "cxbxreloaded",
@@ -8157,7 +8142,6 @@
             "linux"
         ],
         "shortDesc": "Decaf Emulator is the only open sourced Wii U emulator around, so far it isn’t as advanced in its emulation of the Wii U as Cemu is, but it is making remarkable progress.",
-        "url": "https://emulationking.com/decaf-emulator/",
         "description": "Decaf Emulator is the only currently actively developed, open source Nintendo Wii U Emulator. It is the open source alternative to the excellent proprietary Wii U emulator, CEMU.\nWhile Decaf doesn’t emulate the Wii U as good as CEMU at the moment, it is an extremely promising start and is already making big strides to catch up to CEMU in emulation capabilities.\nInitially, Decaf emulator was a Windows 10 only Wii U emulator, and this was due to its initial use of DirectX 12. However, the primary developer of Decaf, Exjam, made the decision to drop DirectX 12 in favor of OpenGL 4.5. This change allows Decaf emulator to be multi-platform.\nDecaf is already able to run some commercial Wii U games, so it’s great if you’re looking to play Wii u games. However, at this moment, you are likely to run into an assortment of graphical issues and severe bugs. Decaf is very much in the experimental stage, but Decaf has made quick progress in just a few short months.",
         "versions": {
             "2019-06-18": {
@@ -8440,8 +8424,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Demul is regarded as one of the best Dreamcast emulators available. Demul focusses on compatibility while making use of more modern rendering techniques such as using DirectX 11.",
-        "url": "https://emulationking.com/demul/"
+        "shortDesc": "Demul is regarded as one of the best Dreamcast emulators available. Demul focusses on compatibility while making use of more modern rendering techniques such as using DirectX 11."
     },
     "desmume": {
         "id": "desmume",
@@ -8606,8 +8589,7 @@
             "windows",
             "apple"
         ],
-        "shortDesc": "DeSmuME is one of the best NDS emulators around, managing to play the vast majority of games easily and without sacrificing performance, it is also the most portable Nintendo DS Emulators.",
-        "url": "https://emulationking.com/desmume/"
+        "shortDesc": "DeSmuME is one of the best NDS emulators around, managing to play the vast majority of games easily and without sacrificing performance, it is also the most portable Nintendo DS Emulators."
     },
     "dgen": {
         "id": "dgen",
@@ -9202,8 +9184,7 @@
             "apple",
             "android"
         ],
-        "shortDesc": "Dolphin successfully emulates almost every single game available on both the Nintendo Game Cube and the Nintendo Wii. It is the only Nintendo Wii emulator available and the best GameCube emulator one will be able to find, proving successful where many others fell flat.",
-        "url": "https://emulationking.com/dolphin/"
+        "shortDesc": "Dolphin successfully emulates almost every single game available on both the Nintendo Game Cube and the Nintendo Wii. It is the only Nintendo Wii emulator available and the best GameCube emulator one will be able to find, proving successful where many others fell flat."
     },
     "dolwin": {
         "id": "dolwin",
@@ -9265,8 +9246,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Dolwin is the first ever GameCube emulator to be publicly released. it is open source and written in C. However sadly development stalled in 2005 and not a single new release has been seen since.",
-        "url": "https://emulationking.com/dolwin/"
+        "shortDesc": "Dolwin is the first ever GameCube emulator to be publicly released. it is open source and written in C. However sadly development stalled in 2005 and not a single new release has been seen since."
     },
     "dosbox": {
         "id": "dosbox",
@@ -9822,8 +9802,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "DreamGBA is a now dated GBA Emulator that required the GBA Bios to be able to run, it was at the time a promising emulator that was successfully able to emulate several GBA games.",
-        "url": "https://emulationking.com/dreamgba/"
+        "shortDesc": "DreamGBA is a now dated GBA Emulator that required the GBA Bios to be able to run, it was at the time a promising emulator that was successfully able to emulate several GBA games."
     },
     "dreamgbatng": {
         "id": "dreamgbatng",
@@ -9883,7 +9862,6 @@
             "windows"
         ],
         "shortDesc": "DreamGBC is a fast and highly compatible GBC emulator. The DreamGBC project aimed to emulate as much of the Game Boy Color as possible while offering various game enhancing features.",
-        "url": "https://emulationking.com/dreamgbc/",
         "description": "DreamGBC is yet another Game Boy Color emulator. There isn’t an awful lot to say about this emulator. It does appear to be discontinued with no development been seen since 2005.\nThe objective of DreamGBC was to emulate as many GameBoy carts along with various features that improve games but weren’t on a real Game Boy Color.\nThe two upsides to DreamGBC is that it does seem fairly compatible and is easily configurable.",
         "versions": {
             "Final Beta 5": {
@@ -10114,8 +10092,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Dualis is a NDS emulator that never really got far, its primary purpose ended up being able to run some homebrew and demo software that’s made to test functionality. It fails to run any commercial ROMs.",
-        "url": "https://emulationking.com/dualis-emulator/"
+        "shortDesc": "Dualis is a NDS emulator that never really got far, its primary purpose ended up being able to run some homebrew and demo software that’s made to test functionality. It fails to run any commercial ROMs."
     },
     "duckstation": {
         "id": "duckstation",
@@ -10182,7 +10159,6 @@
             "windows"
         ],
         "shortDesc": "DuoS was an extremely promising NDS Emulator, showcasing strong performance, allowing the NDS to be emulated on low end systems. This was all while managing to provide decent compatibility.",
-        "url": "https://emulationking.com/duos-emulator/",
         "description": "DuoS Emulator is a NDS emulator for Windows. DuoS started its routes in 2012 and was showing to be a very promising new emulator. It features both a dynamic recompiler and hardware GPU acceleration alongside a software renderer.\nThe developer had explored the very thorough documentation from No$GBA and the excellent GPU core in DeSuME as he developed his own emulator, giving him a good insight into how the NDS works and the best way to emulate certain features of the device.\nThis allowed DuoS Emulator to successfully emulate a large part of the Nintendo DS in a very short time and do it with significant speed.\nIt was a very promising emulator but sadly development appeared to of completely ceased a year after it started. If development was continued DuoS would of surely become one of the best NDS Emulators around.",
         "versions": {
             "DuoS Emulator": {
@@ -10287,7 +10263,6 @@
             "windows"
         ],
         "shortDesc": "DXBX is a Delphi based Xbox emulator. For a time, DXBX was one of the most promising Xbox emulators. Development has sadly stopped on DXBX leaving, it only capable of running a few games.",
-        "url": "https://emulationking.com/dxbx/",
         "description": "DXBX is a Xbox emulator that is written in the Delphi programming language. Not a huge amount is known about this emulator. It attempted to tackle the mammoth task of successfully emulating the Xbox.\nThe team managed to make some significant inroads into emulating the Xbox with a few games showing signs of being playable, and it successfully managed to emulate an assortment of different demo’s.\nHowever ultimately development ceased, the two core Delphi programmers that the DXBX project relied on eventually ran out of time to be able to work on the project. \nThe many hours required to work on and develop the project simply became way to much time and effort for the two core programmers, with them leaving the project was left dead in the water. \nWhile there was some very promising work done in DXBX, it was sadly never completed as the project failed to find any other .\nSo far the only project left that is showing signs of improving and possibly eventually managing to emulate the Xbox system is the XQEMU project. With any luck developers will stick to the project, and hopefully bring in some new developers into the scene.",
         "versions": {
             "0.5": {
@@ -11336,8 +11311,7 @@
             "windows",
             "android"
         ],
-        "shortDesc": "emu7800 is an extremely capable and fast Atari 7800 emulator. It is able to run the vast majority of Atari 7800 games without any issues and is even available for Android.",
-        "url": "https://emulationking.com/emu7800/"
+        "shortDesc": "emu7800 is an extremely capable and fast Atari 7800 emulator. It is able to run the vast majority of Atari 7800 games without any issues and is even available for Android."
     },
     "emukon": {
         "id": "emukon",
@@ -12399,8 +12373,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "ePSXe is regarded as one of the best PS1 Emulators around thanks to its high compatibility and fast emulation speed. ePSXe manages to emulate almost every PSX Game available successfully.",
-        "url": "https://emulationking.com/epsxe/"
+        "shortDesc": "ePSXe is regarded as one of the best PS1 Emulators around thanks to its high compatibility and fast emulation speed. ePSXe manages to emulate almost every PSX Game available successfully."
     },
     "euphoric": {
         "id": "euphoric",
@@ -12567,8 +12540,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Exodus is a highly accurate SEGA Genesis emulator that was primarily designed as a debugger. While not great for game emulation, it is useful as a development tool for the SEGA Genesis.",
-        "url": "https://emulationking.com/exodus/"
+        "shortDesc": "Exodus is a highly accurate SEGA Genesis emulator that was primarily designed as a debugger. While not great for game emulation, it is useful as a development tool for the SEGA Genesis."
     },
     "fakenes": {
         "id": "fakenes",
@@ -13188,8 +13160,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "FCEUX aims to be a bit of a jack of all trades. Offering accurate emulation alongside a set of useful debugging, rom-hacking tools and more .",
-        "url": "https://emulationking.com/fceux/"
+        "shortDesc": "FCEUX aims to be a bit of a jack of all trades. Offering accurate emulation alongside a set of useful debugging, rom-hacking tools and more ."
     },
     "firegb": {
         "id": "firegb",
@@ -13920,7 +13891,6 @@
             "apple"
         ],
         "shortDesc": "Gambatte is a highly portable and highly accurate GBC Emulator with its core code being designed so that it can be used independently of its UI. Gambattee is used as the Game Boy Color emulator for the OpenEmu project.",
-        "url": "https://emulationking.com/gambatte/",
         "description": "Gambatte is an open-source GBC (Game Boy Color) emulator that is designed to be portable. The core emulation is kept separate from the UI. This was done to ensure the emulation can be platform-dependent and easily ported to separate operating systems.\nBesides Gambatte’s platform-independent design, it is also designed to be accurate. Being based on many corner-case hardware tests and reverse engineering. Thanks to the emulator’s accuracy focus, it does mean that it is also highly compatible with a multitude of games.\nThe QT GUI frontend of Gambatte is designed to also provide more platform-specific functions such as handling of the video, sound, and timers. The GUI frontend is meant to be able to run on all systems as well. However, the Gambatte team has only provided builds for both Windows and Mac OS X.\nGambatte is available as a core for RetroArch and as a standalone emulator.",
         "versions": {
             "r571": {
@@ -14081,8 +14051,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "GBE+ is one of the newer emulators to the GBA and GBC emulation scene, however is offering fantastic potential as a GBA emulator, sporting some features that arent traditionally found in GBA emulators such as the ability to import custom graphics.",
-        "url": "https://emulationking.com/gbeplus/"
+        "shortDesc": "GBE+ is one of the newer emulators to the GBA and GBC emulation scene, however is offering fantastic potential as a GBA emulator, sporting some features that arent traditionally found in GBA emulators such as the ability to import custom graphics."
     },
     "gcemu": {
         "id": "gcemu",
@@ -14140,8 +14109,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "GCEmu is a extremely incomplete emulator that was more designed as a proof of concept to show what is actually achievable. Its aim was to show that emulation of the GameCube.",
-        "url": "https://emulationking.com/gcemu/"
+        "shortDesc": "GCEmu is a extremely incomplete emulator that was more designed as a proof of concept to show what is actually achievable. Its aim was to show that emulation of the GameCube."
     },
     "gcube": {
         "id": "gcube",
@@ -14194,8 +14162,7 @@
             "windows",
             "linux"
         ],
-        "shortDesc": "GCube is an open source emulator for the GameCube, unlike most emulators it didn’t strive to be compatible with all games. But instead it was developed with the main purpose of running at least one commercial game fully emulated.",
-        "url": "https://emulationking.com/gcube/"
+        "shortDesc": "GCube is an open source emulator for the GameCube, unlike most emulators it didn’t strive to be compatible with all games. But instead it was developed with the main purpose of running at least one commercial game fully emulated."
     },
     "gearboy": {
         "id": "gearboy",
@@ -14236,7 +14203,6 @@
             "apple"
         ],
         "shortDesc": "GearBoy is an open source GBC Emulator that strives to achieve accurate emulation of the Game Boy Color while also keeping its code base highly portable. GearBoy is also being used as RetroArch’s core for GBC and GB emulation.",
-        "url": "https://emulationking.com/gearboy/",
         "description": "Gearboy is an open source emulator for the Game Boy Color written in C++. Gearyboy has a highly accurate CPU emulation, including accurate instruction timing.\nTo prove its accuracy the Gearboy team have tested it against blaargs “cpu_instrs.gb” test and “instr_timing.gb” test. The emulator even goes as far to also emulate the LCD controller, so everything is drawn to the screen as it would of been on the Game Boy Color.\nGearboy maintains support for all common memory bank controllers and their associated RAM cartridges.\nWhile this emulator is highly compatible with original Game Boy games, to a point its Game Boy Color side is not as accurately produced and not as compatible or emulated.",
         "versions": {
             "2.7.0": {
@@ -14316,8 +14282,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "GearSystem is a highly accurate SEGA Master System Emulator. GearSystem manages to emulate even undocumented features of the Master System, making it highly compatible.",
-        "url": "https://emulationking.com/gearsystem/"
+        "shortDesc": "GearSystem is a highly accurate SEGA Master System Emulator. GearSystem manages to emulate even undocumented features of the Master System, making it highly compatible."
     },
     "geepee32": {
         "id": "geepee32",
@@ -14419,8 +14384,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Gekko is an experimental emulator written purely in C/C++ to try and achieve the best portability possible. The original core was originally written for x86 Windows systems and managed to boot many commercial games .",
-        "url": "https://emulationking.com/gekko/"
+        "shortDesc": "Gekko is an experimental emulator written purely in C/C++ to try and achieve the best portability possible. The original core was originally written for x86 Windows systems and managed to boot many commercial games ."
     },
     "gemulator": {
         "id": "gemulator",
@@ -14530,8 +14494,7 @@
             "windows",
             "apple"
         ],
-        "shortDesc": "Genesis Plus is a popular accurate SEGA Genesis emulator. It makes use of the MAME projects CPU and SOUND cores to help its emulation. It is regarded as one of the most accurate Genesis emulators.",
-        "url": "https://emulationking.com/genesis-plus/"
+        "shortDesc": "Genesis Plus is a popular accurate SEGA Genesis emulator. It makes use of the MAME projects CPU and SOUND cores to help its emulation. It is regarded as one of the most accurate Genesis emulators."
     },
     "genieous": {
         "id": "genieous",
@@ -15268,8 +15231,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Gens32 Surreal is a highly capable Sega Genesis emulator. It is regarded as one of the most well rounded Genesis emulators available and even has netplay capabilities.",
-        "url": "https://emulationking.com/gens32/"
+        "shortDesc": "Gens32 Surreal is a highly capable Sega Genesis emulator. It is regarded as one of the most well rounded Genesis emulators available and even has netplay capabilities."
     },
     "gensgs": {
         "id": "gensgs",
@@ -15516,8 +15478,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "GEST is a highly compatible and somewhat accurate Game Boy Color emulator that was built upon the Visual Boy Advance codebase. GEST improved upon the original VBA code by increasing the amount of features it emulated.",
-        "url": "https://emulationking.com/gest/"
+        "shortDesc": "GEST is a highly compatible and somewhat accurate Game Boy Color emulator that was built upon the Visual Boy Advance codebase. GEST improved upon the original VBA code by increasing the amount of features it emulated."
     },
     "gm2001": {
         "id": "gm2001",
@@ -15596,7 +15557,6 @@
             "windows"
         ],
         "shortDesc": "gnuboy is a highly portable but now dated GBC emulator. While gnuboy managed to emulate the vast majority of the GBC hardware, it does lack the accuracy and compatibility of more modern Game boy Color emulators.",
-        "url": "https://emulationking.com/gnuboy/",
         "description": "Gnuboy is a highly portable open source emulator for the Game Boy Color. While not being the most advanced emulator it did prove extremely portable, being ported to an abundance of different hand held and obscure systems.\nSadly though we are currently only able to provide a build for Windows, we are looking into providing builds for other systems as soon as we setup our buildbot.",
         "versions": {
             "r136": {
@@ -15801,8 +15761,7 @@
             "windows",
             "apple"
         ],
-        "shortDesc": "Handy is basically the only Atari LYNX Emulator. It achieves fairly good emulation of the Atari LYNX and comes with debugging tools to help with the development of homebrew.",
-        "url": "https://emulationking.com/handy/"
+        "shortDesc": "Handy is basically the only Atari LYNX Emulator. It achieves fairly good emulation of the Atari LYNX and comes with debugging tools to help with the development of homebrew."
     },
     "hatari": {
         "id": "hatari",
@@ -16298,8 +16257,7 @@
             "windows",
             "apple"
         ],
-        "shortDesc": "higan is a relatively new emulator on the GBA scene, but like all projects run by Byuu the emulator aims to be as accurate as possible in its emulation of the GBA system.",
-        "url": "https://emulationking.com/higan/"
+        "shortDesc": "higan is a relatively new emulator on the GBA scene, but like all projects run by Byuu the emulator aims to be as accurate as possible in its emulation of the GBA system."
     },
     "hola": {
         "id": "hola",
@@ -17237,8 +17195,7 @@
             "windows",
             "linux"
         ],
-        "shortDesc": "iDeaS was a popular and promising emulator, managing to achieve almost complete support for the Nintendo DS’s multiple processors. Boasting a high compatibility the only downside was the emulation speed and the incomplete GPU renderer.",
-        "url": "https://emulationking.com/ideas-emulator/"
+        "shortDesc": "iDeaS was a popular and promising emulator, managing to achieve almost complete support for the Nintendo DS’s multiple processors. Boasting a high compatibility the only downside was the emulation speed and the incomplete GPU renderer."
     },
     "ines": {
         "id": "ines",
@@ -17604,8 +17561,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Jagulator was the very first publicly available Atari Jaguar emulator. Jagulator is capable of running most commercial Atari Jaguar games without any significant issues.",
-        "url": "https://emulationking.com/jagulator/"
+        "shortDesc": "Jagulator was the very first publicly available Atari Jaguar emulator. Jagulator is capable of running most commercial Atari Jaguar games without any significant issues."
     },
     "javacpc": {
         "id": "javacpc",
@@ -17746,8 +17702,7 @@
             "windows",
             "android"
         ],
-        "shortDesc": "Jnes is a Windows and Android NES emulator developed by Jabo, one of the developers of Project 64.",
-        "url": "https://emulationking.com/jnes/"
+        "shortDesc": "Jnes is a Windows and Android NES emulator developed by Jabo, one of the developers of Project 64."
     },
     "joyce": {
         "id": "joyce",
@@ -17887,8 +17842,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "JPCSP is another great PSP emulator. Despite being written in Java the emulator still manages to run numerous games at 100% speed.",
-        "url": "https://emulationking.com/jpcsp/"
+        "shortDesc": "JPCSP is another great PSP emulator. Despite being written in Java the emulator still manages to run numerous games at 100% speed."
     },
     "jpemu": {
         "id": "jpemu",
@@ -18054,8 +18008,7 @@
             "windows",
             "linux"
         ],
-        "shortDesc": "Jum52 is a reliable emulator for the Atari 5200 that is available on Windows and Linux. This emulator can run into issues with its collision detection, so its best to try other emulators first.",
-        "url": "https://emulationking.com/jum52/"
+        "shortDesc": "Jum52 is a reliable emulator for the Atari 5200 that is available on Windows and Linux. This emulator can run into issues with its collision detection, so its best to try other emulators first."
     },
     "jvz200": {
         "id": "jvz200",
@@ -18418,8 +18371,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Kat5200 is an advanced open-source Atari 5200 emulator. Unlike most Atari 5200 emulators, Kat5200 requires the Atari 5200’s BIOS to be able to function.",
-        "url": "https://emulationking.com/kat5200/"
+        "shortDesc": "Kat5200 is an advanced open-source Atari 5200 emulator. Unlike most Atari 5200 emulators, Kat5200 requires the Atari 5200’s BIOS to be able to function."
     },
     "kc85emu": {
         "id": "kc85emu",
@@ -18957,8 +18909,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "KEGA Fusion is fantastic multi system emulator that has support for the SEGA Genesis. It is regarded as one of the best SEGA Genesis emulators available and has a wealth of extra functionality.",
-        "url": "https://emulationking.com/kega-fusion/"
+        "shortDesc": "KEGA Fusion is fantastic multi system emulator that has support for the SEGA Genesis. It is regarded as one of the best SEGA Genesis emulators available and has a wealth of extra functionality."
     },
     "kegs": {
         "id": "kegs",
@@ -19220,8 +19171,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "KiGB is a cross-platform GBC Emulator. KiGB is designed to emulate the Game Boy Color as accurate as possible, managing to emulate features of the GBC that were difficult to replicate without precise emulation of the hardware.",
-        "url": "https://emulationking.com/kigb/"
+        "shortDesc": "KiGB is a cross-platform GBC Emulator. KiGB is designed to emulate the Game Boy Color as accurate as possible, managing to emulate features of the GBC that were difficult to replicate without precise emulation of the hardware."
     },
     "kindred": {
         "id": "kindred",
@@ -21789,8 +21739,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "mGBA while being a new GBA emulator to hit the web is one of the best, built with portability, speed and accuracy in mind its quickly propped itself up as a GBA emulator to look out for.",
-        "url": "https://emulationking.com/mgba/"
+        "shortDesc": "mGBA while being a new GBA emulator to hit the web is one of the best, built with portability, speed and accuracy in mind its quickly propped itself up as a GBA emulator to look out for."
     },
     "micro64": {
         "id": "micro64",
@@ -22182,7 +22131,6 @@
             "android"
         ],
         "shortDesc": "Mupen64 Plus is another extremely capable Nintendo 64 emulator that has been around for a long time, it has been ported to numerous systems and is regarded as one of the best Nintendo 64 Emulators.",
-        "url": "https://emulationking.com/mupen64/",
         "description": "Mupen64 Plus (previously known as Mupen64) is a cross-platform Nintendo 64 emulator originally developed by Hacktarux but is now actively developed by richard42g.\nIt is the only emulator that has been developed for use on OSX, Linux, FreeBSD, Windows, and even lately has been ported to work on the Android based phones and tablets, this making its use rather prominent for non windows users.\nIt is the only emulator currently released that has support for a 64-bit dynamic recompiler as well as a 32 bit dynamic recompiler.\nWhile Mupen64 was originally designed to follow Zilmar’s plugin specs, in recent years Richard42g has started to re-write it as his own, this creates problems for getting any plugin that conforms to Zilmars specs to work out of the box with Mupen64 plus.\nHowever thankfully Richard42g does keep a nice group of plugins up to date that follow his specs and as of late has been trying to get the latest Glide64 to work properly with the emulator.",
         "versions": {
             "2.5.9": {
@@ -23175,8 +23123,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Nemulator is regarded as one of the best NES emulators around. Nemulator offers support for almost all of the NES’s features including undocumented and unofficial features.",
-        "url": "https://emulationking.com/nemulator/"
+        "shortDesc": "Nemulator is regarded as one of the best NES emulators around. Nemulator offers support for almost all of the NES’s features including undocumented and unofficial features."
     },
     "neocdsdl": {
         "id": "neocdsdl",
@@ -23707,8 +23654,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Nestopia is a highly optemized, cycle accurate emulator for the NES. Thanks to Nestopia’s cycle based emulation it offers near 100% compatiblity with every NES game.",
-        "url": "https://emulationking.com/nestopia/"
+        "shortDesc": "Nestopia is a highly optemized, cycle accurate emulator for the NES. Thanks to Nestopia’s cycle based emulation it offers near 100% compatiblity with every NES game."
     },
     "neusnem": {
         "id": "neusnem",
@@ -23802,8 +23748,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "NeutrinoSX2 was one of the earliest open-source attempts to emulate the PlayStation 2 system. While unable to emulate commercial games, it helped create an understanding of how the PS2 could be emulated.",
-        "url": "https://emulationking.com/neutrinosx2/"
+        "shortDesc": "NeutrinoSX2 was one of the earliest open-source attempts to emulate the PlayStation 2 system. While unable to emulate commercial games, it helped create an understanding of how the PS2 could be emulated."
     },
     "ngae": {
         "id": "ngae",
@@ -23959,8 +23904,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Nintendulator aims to be a hardware accurate NES emulator. Nintendulator manages to even emulate odd quirks of the NES hardware that others often neglect to handle properly.",
-        "url": "https://emulationking.com/nintendulator/"
+        "shortDesc": "Nintendulator aims to be a hardware accurate NES emulator. Nintendulator manages to even emulate odd quirks of the NES hardware that others often neglect to handle properly."
     },
     "nlmsx": {
         "id": "nlmsx",
@@ -24439,8 +24383,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "no$gba is one of if not the best Nintendo DS Emulator available, is sadly Windows only but offers some of the best compatibility and performance available for NDS Emulators.",
-        "url": "https://emulationking.com/nogba/"
+        "shortDesc": "no$gba is one of if not the best Nintendo DS Emulator available, is sadly Windows only but offers some of the best compatibility and performance available for NDS Emulators."
     },
     "nogmb": {
         "id": "nogmb",
@@ -24673,8 +24616,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "No$PSX is a no thrills PSX emulator that doesn’t require a copy of the bios. It can run almost every PS1 game. The only downside to No$PSX is that if offers no enhancement features.",
-        "url": "https://emulationking.com/nopsx/"
+        "shortDesc": "No$PSX is a no thrills PSX emulator that doesn’t require a copy of the bios. It can run almost every PS1 game. The only downside to No$PSX is that if offers no enhancement features."
     },
     "nosns": {
         "id": "nosns",
@@ -25011,8 +24953,7 @@
             "windows",
             "linux"
         ],
-        "shortDesc": "NullDC is a Dreamcast emulator that boasts a high compatibility rate and stable performance. It is a great Dreamcast emulator for those on Windows and Linux based systems.",
-        "url": "https://emulationking.com/nulldc/"
+        "shortDesc": "NullDC is a Dreamcast emulator that boasts a high compatibility rate and stable performance. It is a great Dreamcast emulator for those on Windows and Linux based systems."
     },
     "nulldcn": {
         "id": "nulldcn",
@@ -26079,8 +26020,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "PC Atari Emulator was one of the very first Atari 2600 emulators. It is a highly optimized emulator with a very easy to use interface.",
-        "url": "https://emulationking.com/pc-atari-emulator/"
+        "shortDesc": "PC Atari Emulator was one of the very first Atari 2600 emulators. It is a highly optimized emulator with a very easy to use interface."
     },
     "pcejin": {
         "id": "pcejin",
@@ -26227,8 +26167,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "PCSP is a PSP emulator that is only really able to run homebrew applications. PCSP does not have enough development to be able to run commercial roms.",
-        "url": "https://emulationking.com/pcsp/"
+        "shortDesc": "PCSP is a PSP emulator that is only really able to run homebrew applications. PCSP does not have enough development to be able to run commercial roms."
     },
     "pcsx": {
         "id": "pcsx",
@@ -26441,8 +26380,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "PCSX2 is the best available PlayStation 2 emulator. It boasts a high level of compatibility and features support for many of the more unique features of the PS2.",
-        "url": "https://emulationking.com/pcsx2/"
+        "shortDesc": "PCSX2 is the best available PlayStation 2 emulator. It boasts a high level of compatibility and features support for many of the more unique features of the PS2."
     },
     "pcsx2 legacy": {
         "id": "pcsx2 legacy",
@@ -26552,8 +26490,7 @@
             "windows",
             "linux"
         ],
-        "shortDesc": "PCXS Reloaded is a popular open-source PSX emulator. PCSX Reloaded’s compatibility is on par with that of ePSXe and offers similar performance.",
-        "url": "https://emulationking.com/pcsx-reloaded/"
+        "shortDesc": "PCXS Reloaded is a popular open-source PSX emulator. PCSX Reloaded’s compatibility is on par with that of ePSXe and offers similar performance."
     },
     "pcsxrr": {
         "id": "pcsxrr",
@@ -27099,7 +27036,6 @@
             "android"
         ],
         "shortDesc": "Play! is a PS2 emulator that aims to emulate the PlayStation 2 to a high enough level that it would not need to rely on the PS2 BIOS to operate as other PlayStation 2 emulators do.",
-        "url": "https://emulationking.com/play-ps2/",
         "description": "Play! is a relatively new PS2 emulator that has the goal of being portable across Windows, OSX, iOS, and Android platforms. It is primarily developed by a single developer, that developer being Jean-Philip Desjardins.\nPlay! is written in C/C++ and is designed to make use of instruction caching and a dynamic recompiler scheme to try and achieve better performance while emulating the PS2’s complicated CPU.\nThe project is designed as a way for Jean-Philip Desjardins to sharpen his own programming skills and for him to gain more experience in the computer engineering and software engineering fields. Which so far, is an excellent showcase as the emulator is slowly but surely showing some good progress. It currently can run a few games, which is a great achievement in itself, but it runs them with a lot of issues.\nIf the development is kept up, Play! should become a fantastic emulator with a few years of active development put into it.",
         "versions": {
             "2022-08-10": {
@@ -27171,7 +27107,6 @@
             "windows"
         ],
         "shortDesc": "PlayGuy is a highly capable Game Boy Colour emulator that features 100% emulation of the GBC’s processor as well as having accurate timing emulation. PlayGuy was for its time one of the best GBC emulators around.",
-        "url": "https://emulationking.com/playguy/",
         "description": "PlayGuy is an emulator for the Game Boy Color that offers Full CPU core emulation. It offers a vast majority of the support for Game Boy carts.\nFull emulation of the audio among other features that have become standard for emulators such as filters. With the also added benefit of real-time clock support.\nThe development of PlayGuy has sadly ceased despite making fairly good process, with the website now offline and no new versions been seen since 2007.",
         "versions": {
             "1.03b": {
@@ -27770,8 +27705,7 @@
             "apple",
             "android"
         ],
-        "shortDesc": "PPSSPP is one of the best PSP emulators around. It boasts a speedy core while retaining a tremendous compatibility rate, making PPSSPP the go-to emulator for PSP emulation.",
-        "url": "https://emulationking.com/ppsspp/"
+        "shortDesc": "PPSSPP is one of the best PSP emulators around. It boasts a speedy core while retaining a tremendous compatibility rate, making PPSSPP the go-to emulator for PSP emulation."
     },
     "primehack": {
         "id": "primehack",
@@ -27999,8 +27933,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Project 64 is probably the most famous of the Nintendo 64 Emulators, it has been around for an extremely long time and has done an amazing job at successfully emulating the Nintendo 64, while still being performance friendly.",
-        "url": "https://emulationking.com/project-64/"
+        "shortDesc": "Project 64 is probably the most famous of the Nintendo 64 Emulators, it has been around for an extremely long time and has done an amazing job at successfully emulating the Nintendo 64, while still being performance friendly."
     },
     "project64k": {
         "id": "project64k",
@@ -28412,8 +28345,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Project Tempest was one of the very first Atari Jaguar emulators. It managed even successfully to emulate several commercial games completely.",
-        "url": "https://emulationking.com/project-tempest/"
+        "shortDesc": "Project Tempest was one of the very first Atari Jaguar emulators. It managed even successfully to emulate several commercial games completely."
     },
     "prosystem": {
         "id": "prosystem",
@@ -28508,8 +28440,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "ProSystem Emulator is an open-source and highly capable Atari 7800 emulator. ProSystem Emulator manages to emulate all known features of the Atari 7800.",
-        "url": "https://emulationking.com/prosystem-emulator/"
+        "shortDesc": "ProSystem Emulator is an open-source and highly capable Atari 7800 emulator. ProSystem Emulator manages to emulate all known features of the Atari 7800."
     },
     "ps2emu": {
         "id": "ps2emu",
@@ -28565,8 +28496,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "PS2emu is an experimental PlayStation 2 emulator that was used as a testbed for techniques to speed up PS2 emulation. This emulator cannot run any PS2 games and is no longer in development.",
-        "url": "https://emulationking.com/ps2emu/"
+        "shortDesc": "PS2emu is an experimental PlayStation 2 emulator that was used as a testbed for techniques to speed up PS2 emulation. This emulator cannot run any PS2 games and is no longer in development."
     },
     "psinex": {
         "id": "psinex",
@@ -28838,8 +28768,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "pSX is a PlayStation 1 emulator that claims to emulate the PSX hardware fully. While not as developed as ePSXe or PCSX reloaded, it should offer decent compatibility.",
-        "url": "https://emulationking.com/psx-emu/"
+        "shortDesc": "pSX is a PlayStation 1 emulator that claims to emulate the PSX hardware fully. While not as developed as ePSXe or PCSX reloaded, it should offer decent compatibility."
     },
     "psxeven": {
         "id": "psxeven",
@@ -28891,8 +28820,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "PSXeven is a speedy emulator for the PlayStation 1. It features a simple user interface and a decent set of features such as a memory card manager.",
-        "url": "https://emulationking.com/psxeven/"
+        "shortDesc": "PSXeven is a speedy emulator for the PlayStation 1. It features a simple user interface and a decent set of features such as a memory card manager."
     },
     "psxjin": {
         "id": "psxjin",
@@ -29534,8 +29462,7 @@
             "windows",
             "apple"
         ],
-        "shortDesc": "Rainbow was one of the first Atari 5200 emulators to be ported to macOS. It achieves compatiblity with the vast majority of Atari 5200 games.",
-        "url": "https://emulationking.com/rainbow/"
+        "shortDesc": "Rainbow was one of the first Atari 5200 emulators to be ported to macOS. It achieves compatiblity with the vast majority of Atari 5200 games."
     },
     "rascalboyadv": {
         "id": "rascalboyadv",
@@ -29593,8 +29520,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "RascalBoy Advance was one of the more promising emulators for the GBA, it challenged Visual Boy advance a time for the top spot but development sadly ceased.",
-        "url": "https://emulationking.com/rascalboy-advance/"
+        "shortDesc": "RascalBoy Advance was one of the more promising emulators for the GBA, it challenged Visual Boy advance a time for the top spot but development sadly ceased."
     },
     "real80pro": {
         "id": "real80pro",
@@ -30099,7 +30025,6 @@
             "android"
         ],
         "shortDesc": "Reicast is a fast and highly compatible Dreamcast emulator by the same team that developed NullDC. Reicast primarily focuses on Android, but builds are available for Windows as well.",
-        "url": "https://emulationking.com/reicast/",
         "description": "Reicast is a Dreamcast emulator developed in part by some of the developers of NullDC. The idea behind the project is to make a Dreamcast emulator that is both highly portable while also being fast and retain a great compatibility rate.\nWhile being extremely tough goals to actually meet, the team is knowledgeable enough to be able to pull it off. Reicast is one of the few remaining Dreamcast emulators that are still continually being developed.\nReicast is capable of rendering Dreamcast games at a higher internal resolution, allowing them to look much nicer on a HD screen then just stretching the original image will.\nHowever Reicast, much like the emulator it is based off NullDC requires the Dreamcast BIOS to be able to run, while we cannot provide BIOS files here due to there copyright nature there not the hardest things to come by.\nThe Windows builds of Reicast have not really been tested, we instead recommend those who are running on a Windows PC to check out NullDC or DEmul.",
         "versions": {
             "r20.04": {
@@ -34929,8 +34854,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "RCPS3 is the premiere PS3 emulator. It has managed to make considerable strides in emulating the complicated PS3 architecture and can now run several games without any significant hitches.",
-        "url": "https://emulationking.com/rpcs3/"
+        "shortDesc": "RCPS3 is the premiere PS3 emulator. It has managed to make considerable strides in emulating the complicated PS3 architecture and can now run several games without any significant hitches."
     },
     "rpix86": {
         "id": "rpix86",
@@ -35208,8 +35132,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Satourne is a now-defunct SEGA Saturn emulator. It was the first SEGA Saturn emulator that was able to emulate commercial SEGA Saturn games successfully.",
-        "url": "https://emulationking.com/satourne/"
+        "shortDesc": "Satourne is a now-defunct SEGA Saturn emulator. It was the first SEGA Saturn emulator that was able to emulate commercial SEGA Saturn games successfully."
     },
     "saturnin": {
         "id": "saturnin",
@@ -36235,8 +36158,7 @@
             "apple",
             "android"
         ],
-        "shortDesc": "snes9x is one of the most popular and portable SNES emulators. Unlike higan, snes9x has a focus on achieving the best speeds possible making it a great alternative to higan if your computer can not handle the cycle-accurate emulation.",
-        "url": "https://emulationking.com/snes9x/"
+        "shortDesc": "snes9x is one of the most popular and portable SNES emulators. Unlike higan, snes9x has a focus on achieving the best speeds possible making it a great alternative to higan if your computer can not handle the cycle-accurate emulation."
     },
     "snes9xrr": {
         "id": "snes9xrr",
@@ -36500,7 +36422,6 @@
             "linux"
         ],
         "shortDesc": "Soywiz PSP Emu is a PSP emulator written in C# for both Windows and Linux. While not in active development, it is a capable PSP emulator.",
-        "url": "https://emulationking.com/soywiz-psp-emu/",
         "description": "Soywiz PSP Emu was a Sony PSP emulator written in C# for Windows and LInux. It was a capable emulator that was able to run several commercial PSP games at a decent speed, development was going quite speedily till the developer decided to move onto a new project, namely jspspemu.\nSoywize PSP emu had implemented an assortment of extra features alongside a strong dynamic recompiler core, this included the ability to increase the size of the render target to improve there rendering when scaled to larger screen sizes.\nUltimately like many emulators, this showed a tremendous amount of improvements and progress on emulating the PSP until development ultimately was abandoned.",
         "versions": {
             "r525": {
@@ -37008,8 +36929,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "SSF is regarded as one of the best available SEGA Saturn emulators for Windows. The emulator manages to emulate the vast majority of SEGA Saturn successfully.",
-        "url": "https://emulationking.com/ssf/"
+        "shortDesc": "SSF is regarded as one of the best available SEGA Saturn emulators for Windows. The emulator manages to emulate the vast majority of SEGA Saturn successfully."
     },
     "ssspsx": {
         "id": "ssspsx",
@@ -37034,7 +36954,6 @@
             "windows"
         ],
         "shortDesc": "SSSPSX is a PlayStation 1 emulator that features a fast and highly compatible recompiler core. What SSSPSX has in speed and compatibility it lacks in extra functionality.",
-        "url": "https://emulationking.com/ssspsx/",
         "description": "SSSPSX is a Japanese PSX Emulator for Windows. Developed by a contributor to the PCSX2 project, SSSPSX had a very promising start. Most of the work done on the emulator was to make a fast and highly compatible Recompiler core.\nWhile the recompiler core worked out extremely well, other hardware elements of the PlayStation did not get the same level of work leaving SSSPSX a fast and capable emulator but just one that hasn’t had the time and polish it really needed to become a fantastic emulator. \nDevelopment on this emulator appears to have been stopped.\nPlease note to use this emulator you will require the PlayStation 1 BIOS files.",
         "versions": {
             "0.0.34e": {
@@ -38116,8 +38035,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Stella is an open-source Atari 2600 emulator. It is one of the only Atari 2600 emulators that have remained in active development and is the best emulator for the Atari 2600 available.",
-        "url": "https://emulationking.com/stella/"
+        "shortDesc": "Stella is an open-source Atari 2600 emulator. It is one of the only Atari 2600 emulators that have remained in active development and is the best emulator for the Atari 2600 available."
     },
     "stem": {
         "id": "stem",
@@ -38387,8 +38305,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "SuperGCube is the continuation of the open source emulator GCube. However it made a decision to make it solely a windows project. The decision to continue the source code of GCube was made due to the original code base.",
-        "url": "https://emulationking.com/supergcube/"
+        "shortDesc": "SuperGCube is the continuation of the open source emulator GCube. However it made a decision to make it solely a windows project. The decision to continue the source code of GCube was made due to the original code base."
     },
     "supermodel": {
         "id": "supermodel",
@@ -38771,8 +38688,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "TGB Dual was one of the first GBC emulators to implement the  Game Boy link functionality. TGB Dual uses TCP networking to allow users to connect over the internet or to another instance running on the same computer. ",
-        "url": "https://emulationking.com/tgb-dual/"
+        "shortDesc": "TGB Dual was one of the first GBC emulators to implement the  Game Boy link functionality. TGB Dual uses TCP networking to allow users to connect over the internet or to another instance running on the same computer. "
     },
     "ti994w": {
         "id": "ti994w",
@@ -39005,8 +38921,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "TronDS was one of 3 promising Nintendo 3DS Emulators, while it made some decent inroads and was capable of emulating some homebrew development ultimately ended. It was not capable of emulating commercial 3DS games.",
-        "url": "https://emulationking.com/tronds/"
+        "shortDesc": "TronDS was one of 3 promising Nintendo 3DS Emulators, while it made some decent inroads and was capable of emulating some homebrew development ultimately ended. It was not capable of emulating commercial 3DS games."
     },
     "trs80gp": {
         "id": "trs80gp",
@@ -40085,8 +40000,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "vbjin is one of the only emulators that offer support for the Virtual Boy. vbjin successfully manages to emulate the minuscule library that is available for the Virtual Boy and is the only real option if you want to check out the system.",
-        "url": "https://emulationking.com/vbjin/"
+        "shortDesc": "vbjin is one of the only emulators that offer support for the Virtual Boy. vbjin successfully manages to emulate the minuscule library that is available for the Virtual Boy and is the only real option if you want to check out the system."
     },
     "vbjin-ovr": {
         "id": "vbjin-ovr",
@@ -41089,8 +41003,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Virtual Jaguar is the best Atari Jaguar emulator that is available. It offers the highest compatibility for the Atari Jaguar and can play numerous games without any issues.",
-        "url": "https://emulationking.com/virtualjaguar/"
+        "shortDesc": "Virtual Jaguar is the best Atari Jaguar emulator that is available. It offers the highest compatibility for the Atari Jaguar and can play numerous games without any issues."
     },
     "virtualmc10": {
         "id": "virtualmc10",
@@ -41810,8 +41723,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Visual Boy Advance is an open source emulator for the Game Boy, Game Boy Color and the Game Boy Advance. The emulator even goes as far to also offer emulation for the Super Game Boy and the Super Game Boy 2.",
-        "url": "https://emulationking.com/visual-boy-advance/"
+        "shortDesc": "Visual Boy Advance is an open source emulator for the Game Boy, Game Boy Color and the Game Boy Advance. The emulator even goes as far to also offer emulation for the Super Game Boy and the Super Game Boy 2."
     },
     "visualboyadvance-rr": {
         "id": "visualboyadvance-rr",
@@ -42459,8 +42371,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "WhineCube was part of a string of GameCube emulators for Windows written in C++. Though in comparison to its competitors, the emulator was never able to run any commercial games. However it could still run some.",
-        "url": "https://emulationking.com/whinecube/"
+        "shortDesc": "WhineCube was part of a string of GameCube emulators for Windows written in C++. Though in comparison to its competitors, the emulator was never able to run any commercial games. However it could still run some."
     },
     "win64": {
         "id": "win64",
@@ -44636,8 +44547,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Xenia is the breakthrough Xbox 360 Emulator. It is the only publicly available and open-source emulator available for the system. It manages to emulate several commercial Xbox 360 games successfully.",
-        "url": "https://emulationking.com/xenia/"
+        "shortDesc": "Xenia is the breakthrough Xbox 360 Emulator. It is the only publicly available and open-source emulator available for the system. It manages to emulate several commercial Xbox 360 games successfully."
     },
     "xeon": {
         "id": "xeon",
@@ -44692,8 +44602,7 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "Xeon was an Xbox emulator that had the sole purpose of trying to emulate Halo on the PC successfully. While being able to get in-game, Xeon was never fast enough to be playable.",
-        "url": "https://emulationking.com/xeon/"
+        "shortDesc": "Xeon was an Xbox emulator that had the sole purpose of trying to emulate Halo on the PC successfully. While being able to get in-game, Xeon was never fast enough to be playable."
     },
     "xgs32": {
         "id": "xgs32",
@@ -45815,8 +45724,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "Yabause is a popular SEGA Saturn emulator that is available on numerous different systems. While not as capable as the closed source SSF emulator, it is one of the easiest to use.",
-        "url": "https://emulationking.com/yabause/"
+        "shortDesc": "Yabause is a popular SEGA Saturn emulator that is available on numerous different systems. While not as capable as the closed source SSF emulator, it is one of the easiest to use."
     },
     "yabaused": {
         "id": "yabaused",
@@ -46319,7 +46227,6 @@
             "linux"
         ],
         "shortDesc": "Yuzu is a fantastic emulator for the Nintendo Switch. It successfully manages to emulate numerous commercially available games. In a short time, Yuzu has managed to emulate various aspects of the Nintendo Switch.",
-        "url": "https://emulationking.com/yuzu-emulator/",
         "description": "Yuzu is a popular open-source emulator for the Nintendo Switch and is the first to manage to emulate the video game console successfully. This Switch emulator is primarily written by the same team that created the popular 3DS Emulator, Citra.\nWhile still a relatively new emulator, Yuzu has managed to already successfully emulate numerous elements of the Nintendo Switch at speed comparable to the original hardware.\nThe team has even emulated the BCAT Switch service that is used to add content to games dynamically. Using the emulated service, the Yuzu team can replicate and create their own in-game events.\nAn example of the things this enables is giving you extra items when starting the game in Breath of the Wild or more ability chunks in Splatoon 2.\nIn addition to this, the emulator can even render Switch games at higher resolutions than the original hardware intended, meaning you can play games at resolutions higher than 1080p.\nWhile Yuzu can not currently run most commercial games, the team is making a tremendous amount of progress every day. The Yuzu team provides a list of all Switch games and how well they work with the emulator. You can view this list by checking out the compatibility list.\nRecent versions of Yuzu have added support for Vulkan. Vulkan allows faster rendering thanks to less CPU overhead and also giving a speed boost to those using AMD GPUs.\nYuzu has builds available for Windows and Linux. Builds for macOS are no longer available due to Apple removing OpenGL support from macOS in favor of their own graphics API.\nIf you want to check out the development process of this Switch emulator, you can check out the official Yuzu GitHub repository. The repository also contains steps on how you can compile this Switch emulator on your system.\nBelow you will find download links for Yuzu for both the Windows and Linux operating systems.",
         "versions": {
             "2022-08-18": {
@@ -46546,8 +46453,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "z26 is a capable emulator for the Atari 2600 system. z26 makes use of an OpenGL rendering engine and supports and offers high compatibility for the system.",
-        "url": "https://emulationking.com/z26/"
+        "shortDesc": "z26 is a capable emulator for the Atari 2600 system. z26 makes use of an OpenGL rendering engine and supports and offers high compatibility for the system."
     },
     "z80stealth": {
         "id": "z80stealth",
@@ -47131,8 +47037,7 @@
             "linux",
             "apple"
         ],
-        "shortDesc": "zsnes is a SNES emulator that suffers from low accuracy when compared to higan and snes9x. Most of znes’s development focused on achieving portability and performance, with the bulk of the emulator being written in x86 assembly.",
-        "url": "https://emulationking.com/zsnes/"
+        "shortDesc": "zsnes is a SNES emulator that suffers from low accuracy when compared to higan and snes9x. Most of znes’s development focused on achieving portability and performance, with the bulk of the emulator being written in x86 assembly."
     },
     "zxspin": {
         "id": "zxspin",
@@ -47372,7 +47277,6 @@
         "runs": [
             "windows"
         ],
-        "shortDesc": "1964 Emulator has now ceased active development, but was at one point regarded as one of the best Nintendo 64 Emulators around, making use of an extremely fast recompiler core that gave it an edge in performance.",
-        "url": "https://emulationking.com/1964-emulator/"
+        "shortDesc": "1964 Emulator has now ceased active development, but was at one point regarded as one of the best Nintendo 64 Emulators around, making use of an extremely fast recompiler core that gave it an edge in performance."
     }
 }
