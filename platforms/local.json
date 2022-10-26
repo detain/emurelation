@@ -11173,58 +11173,6 @@
             "MOS KIM-1"
         ]
     },
-    "MSX MSX": {
-        "id": "MSX MSX",
-        "name": "MSX",
-        "matches": {
-            "retropie": [
-                "msx"
-            ],
-            "retrobat": [
-                "msx1"
-            ],
-            "arrm": [
-                "msx"
-            ],
-            "windspro": [
-                "MSX"
-            ],
-            "tgdb": [
-                "4929"
-            ],
-            "screenscraper": [
-                "113"
-            ],
-            "mobygames": [
-                "msx"
-            ],
-            "launchbox": [
-                "Microsoft MSX"
-            ],
-            "hfsdb": [
-                "113089"
-            ],
-            "gamesdatabase": [
-                "msx"
-            ],
-            "bezels_project": [
-                "bezelproject-MSX"
-            ],
-            "attractmode": [
-                "Microsoft MSX"
-            ],
-            "recalbox": [
-                "msx1"
-            ],
-            "emutopia": [
-                345
-            ]
-        },
-        "company": "MSX",
-        "altNames": [
-            "MSX MSX"
-        ]
-    },
     "MSX MSX2": {
         "id": "MSX MSX2",
         "name": "MSX2",
@@ -12046,7 +11994,6 @@
                 113
             ],
             "emucontrolcenter": [
-                "msx2",
                 "msx"
             ],
             "emulationstation-de": [
@@ -12058,6 +12005,7 @@
                 "msx1"
             ],
             "arrm": [
+                "msx",
                 "msx1"
             ],
             "retropie": [
@@ -12080,6 +12028,15 @@
             ],
             "attractmode": [
                 "Microsoft MSX"
+            ],
+            "windspro": [
+                "MSX"
+            ],
+            "tgdb": [
+                "4929"
+            ],
+            "emutopia": [
+                345
             ]
         },
         "company": "Microsoft",
@@ -12175,6 +12132,9 @@
                 "MSX MSX2 - Games - [DSK]",
                 "MSX MSX2 - Games - [ROM]",
                 "MSX MSX2 - Magazines"
+            ],
+            "emucontrolcenter": [
+                "msx2"
             ],
             "mame": [
                 "msx2_cart",
