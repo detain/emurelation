@@ -20,7 +20,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](platforms/local.json) | Custom | 795 | 0 | 795 | 100% |
+| [Local](platforms/local.json) | Custom | 794 | 0 | 794 | 100% |
 | [Redump](platforms/redump.json) | DAT | 52 | 1 | 53 | 98.1% |
 | [No-Intro](platforms/nointro.json) | DAT | 271 | 19 | 290 | 93.4% |
 | [TOSEC](platforms/tosec.json) | DAT | 2427 | 1 | 2428 | 100% |
@@ -52,7 +52,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [Local](emulators/local.json) | Custom | 756 | 0 | 756 | 100% |
 | [ScreenScraper](emulators/screenscraper.json) | API | 3 | 0 | 3 | 100% |
 | [Old-Computers](emulators/oldcomputers.json) | Website | 116 | 350 | 466 | 24.9% |
-| [EmuCR](emulators/emucr.json) | Website | 294 | 2041 | 2335 | 12.6% |
+| [EmuCR](emulators/emucr.json) | Website | 294 | 2047 | 2341 | 12.6% |
 | [EmulationKing](emulators/emulationking.json) | Website | 96 | 0 | 96 | 100% |
 | [Emutopia](emulators/emutopia.json) | Website | 227 | 302 | 529 | 42.9% |
 | [LaunchBox](emulators/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |

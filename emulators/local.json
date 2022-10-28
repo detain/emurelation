@@ -43,7 +43,7 @@
                 "notes": "Drag rom onto exe."
             }
         },
-        "eol": false
+        "eol": true
     },
     "3dnes": {
         "id": "3dnes",
@@ -48028,6 +48028,6 @@
             "windows"
         ],
         "shortDesc": "1964 Emulator has now ceased active development, but was at one point regarded as one of the best Nintendo 64 Emulators around, making use of an extremely fast recompiler core that gave it an edge in performance.",
-        "eol": false
+        "eol": true
     }
 }
