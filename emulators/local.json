@@ -9674,6 +9674,9 @@
             ],
             "emucr": [
                 "dosbox-staging"
+            ],
+            "scoop-emulators": [
+                "dosbox-staging"
             ]
         },
         "bin": [
@@ -9703,6 +9706,9 @@
                 2025
             ],
             "emucr": [
+                "dosbox-x"
+            ],
+            "scoop-emulators": [
                 "dosbox-x"
             ]
         },
@@ -39623,6 +39629,9 @@
                 "Tsugaru"
             ],
             "emucr": [
+                "tsugaru"
+            ],
+            "scoop-emulators": [
                 "tsugaru"
             ]
         },
