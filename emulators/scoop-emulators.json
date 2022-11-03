@@ -95,6 +95,10 @@
         "id": "anex86",
         "name": "anex86"
     },
+    "antimicrox": {
+        "id": "antimicrox",
+        "name": "antimicrox"
+    },
     "apfemuw": {
         "id": "apfemuw",
         "name": "apfemuw"
@@ -147,6 +151,10 @@
         "id": "arculator",
         "name": "arculator"
     },
+    "ares-dev": {
+        "id": "ares-dev",
+        "name": "ares-dev"
+    },
     "ares": {
         "id": "ares",
         "name": "ares"
@@ -191,6 +199,10 @@
         "id": "atomulator",
         "name": "atomulator"
     },
+    "attractmode": {
+        "id": "attractmode",
+        "name": "attractmode"
+    },
     "aurex2": {
         "id": "aurex2",
         "name": "aurex2"
@@ -198,6 +210,10 @@
     "b-em": {
         "id": "b-em",
         "name": "b-em"
+    },
+    "b2": {
+        "id": "b2",
+        "name": "b2"
     },
     "basiliskii": {
         "id": "basiliskii",
@@ -219,13 +235,25 @@
         "id": "bgb",
         "name": "bgb"
     },
+    "bizhawk-dev": {
+        "id": "bizhawk-dev",
+        "name": "bizhawk-dev"
+    },
     "bizhawk": {
         "id": "bizhawk",
         "name": "bizhawk"
     },
+    "bk": {
+        "id": "bk",
+        "name": "bk"
+    },
     "blastem": {
         "id": "blastem",
         "name": "blastem"
+    },
+    "bletchmame": {
+        "id": "bletchmame",
+        "name": "bletchmame"
     },
     "bliss": {
         "id": "bliss",
@@ -246,6 +274,10 @@
     "bsnes-hd-beta": {
         "id": "bsnes-hd-beta",
         "name": "bsnes-hd-beta"
+    },
+    "bsnes-mt": {
+        "id": "bsnes-mt",
+        "name": "bsnes-mt"
     },
     "bsnes-plus": {
         "id": "bsnes-plus",
@@ -287,6 +319,10 @@
         "id": "callus",
         "name": "callus"
     },
+    "caprice-forever": {
+        "id": "caprice-forever",
+        "name": "caprice-forever"
+    },
     "caprice32": {
         "id": "caprice32",
         "name": "caprice32"
@@ -315,6 +351,10 @@
         "id": "cemuhook",
         "name": "cemuhook"
     },
+    "cen64": {
+        "id": "cen64",
+        "name": "cen64"
+    },
     "chankast": {
         "id": "chankast",
         "name": "chankast"
@@ -334,6 +374,10 @@
     "classic99": {
         "id": "classic99",
         "name": "classic99"
+    },
+    "clrmamepro": {
+        "id": "clrmamepro",
+        "name": "clrmamepro"
     },
     "cogwheel": {
         "id": "cogwheel",
@@ -394,6 +438,10 @@
     "creativision": {
         "id": "creativision",
         "name": "creativision"
+    },
+    "cscp": {
+        "id": "cscp",
+        "name": "cscp"
     },
     "cxbx-reloaded": {
         "id": "cxbx-reloaded",
@@ -507,6 +555,14 @@
         "id": "dolwin",
         "name": "dolwin"
     },
+    "dosbox-staging": {
+        "id": "dosbox-staging",
+        "name": "dosbox-staging"
+    },
+    "dosbox-x": {
+        "id": "dosbox-x",
+        "name": "dosbox-x"
+    },
     "dosbox": {
         "id": "dosbox",
         "name": "dosbox"
@@ -535,6 +591,10 @@
         "id": "dreamvmu",
         "name": "dreamvmu"
     },
+    "ds4windows": {
+        "id": "ds4windows",
+        "name": "ds4windows"
+    },
     "dsp-emulator": {
         "id": "dsp-emulator",
         "name": "dsp-emulator"
@@ -558,6 +618,10 @@
     "eightyone": {
         "id": "eightyone",
         "name": "eightyone"
+    },
+    "eka2l1": {
+        "id": "eka2l1",
+        "name": "eka2l1"
     },
     "electrem": {
         "id": "electrem",
@@ -587,9 +651,17 @@
         "id": "emu2001",
         "name": "emu2001"
     },
+    "emu42": {
+        "id": "emu42",
+        "name": "emu42"
+    },
     "emu64": {
         "id": "emu64",
         "name": "emu64"
+    },
+    "emu71": {
+        "id": "emu71",
+        "name": "emu71"
     },
     "emu7800": {
         "id": "emu7800",
@@ -627,6 +699,10 @@
         "id": "epsxe",
         "name": "epsxe"
     },
+    "es-de": {
+        "id": "es-de",
+        "name": "es-de"
+    },
     "euphoric": {
         "id": "euphoric",
         "name": "euphoric"
@@ -638,6 +714,10 @@
     "exodus": {
         "id": "exodus",
         "name": "exodus"
+    },
+    "extramame": {
+        "id": "extramame",
+        "name": "extramame"
     },
     "fakenes": {
         "id": "fakenes",
@@ -671,17 +751,13 @@
         "id": "fceux-dev",
         "name": "fceux-dev"
     },
-    "fceux-dev1": {
-        "id": "fceux-dev1",
-        "name": "fceux-dev1"
-    },
-    "fceux-dev2": {
-        "id": "fceux-dev2",
-        "name": "fceux-dev2"
-    },
     "fceux": {
         "id": "fceux",
         "name": "fceux"
+    },
+    "feel": {
+        "id": "feel",
+        "name": "feel"
     },
     "firegb": {
         "id": "firegb",
@@ -690,6 +766,10 @@
     "flycast-dev": {
         "id": "flycast-dev",
         "name": "flycast-dev"
+    },
+    "flycast-dojo": {
+        "id": "flycast-dojo",
+        "name": "flycast-dojo"
     },
     "flycast": {
         "id": "flycast",
@@ -702,6 +782,10 @@
     "fnc": {
         "id": "fnc",
         "name": "fnc"
+    },
+    "free42": {
+        "id": "free42",
+        "name": "free42"
     },
     "free64": {
         "id": "free64",
@@ -755,9 +839,17 @@
         "id": "gcube",
         "name": "gcube"
     },
+    "gearboy-dev": {
+        "id": "gearboy-dev",
+        "name": "gearboy-dev"
+    },
     "gearboy": {
         "id": "gearboy",
         "name": "gearboy"
+    },
+    "gearsystem-dev": {
+        "id": "gearsystem-dev",
+        "name": "gearsystem-dev"
     },
     "gearsystem": {
         "id": "gearsystem",
@@ -807,6 +899,14 @@
         "id": "gm2001",
         "name": "gm2001"
     },
+    "gopher2600": {
+        "id": "gopher2600",
+        "name": "gopher2600"
+    },
+    "groovymame": {
+        "id": "groovymame",
+        "name": "groovymame"
+    },
     "gsport": {
         "id": "gsport",
         "name": "gsport"
@@ -818,6 +918,14 @@
     "hatari": {
         "id": "hatari",
         "name": "hatari"
+    },
+    "hbmame": {
+        "id": "hbmame",
+        "name": "hbmame"
+    },
+    "hbmameui": {
+        "id": "hbmameui",
+        "name": "hbmameui"
     },
     "hdnes": {
         "id": "hdnes",
@@ -867,6 +975,10 @@
         "id": "hyper64",
         "name": "hyper64"
     },
+    "hypseus-singe": {
+        "id": "hypseus-singe",
+        "name": "hypseus-singe"
+    },
     "ice64": {
         "id": "ice64",
         "name": "ice64"
@@ -911,6 +1023,10 @@
         "id": "javacpc",
         "name": "javacpc"
     },
+    "jc64dis": {
+        "id": "jc64dis",
+        "name": "jc64dis"
+    },
     "jnes": {
         "id": "jnes",
         "name": "jnes"
@@ -918,6 +1034,14 @@
     "joyce": {
         "id": "joyce",
         "name": "joyce"
+    },
+    "joytokey": {
+        "id": "joytokey",
+        "name": "joytokey"
+    },
+    "jpcsp-dev": {
+        "id": "jpcsp-dev",
+        "name": "jpcsp-dev"
     },
     "jpcsp": {
         "id": "jpcsp",
@@ -1003,9 +1127,9 @@
         "id": "luagb",
         "name": "luagb"
     },
-    "m64p": {
-        "id": "m64p",
-        "name": "m64p"
+    "ludo": {
+        "id": "ludo",
+        "name": "ludo"
     },
     "m88": {
         "id": "m88",
@@ -1030,6 +1154,10 @@
     "mameclassic": {
         "id": "mameclassic",
         "name": "mameclassic"
+    },
+    "mameplus": {
+        "id": "mameplus",
+        "name": "mameplus"
     },
     "mameui": {
         "id": "mameui",
@@ -1071,6 +1199,10 @@
         "id": "meka",
         "name": "meka"
     },
+    "melonds-dev": {
+        "id": "melonds-dev",
+        "name": "melonds-dev"
+    },
     "melonds": {
         "id": "melonds",
         "name": "melonds"
@@ -1087,6 +1219,14 @@
         "id": "mesen-s",
         "name": "mesen-s"
     },
+    "mesen-sx": {
+        "id": "mesen-sx",
+        "name": "mesen-sx"
+    },
+    "mesen-x": {
+        "id": "mesen-x",
+        "name": "mesen-x"
+    },
     "mesen": {
         "id": "mesen",
         "name": "mesen"
@@ -1095,9 +1235,17 @@
         "id": "mess",
         "name": "mess"
     },
+    "messui": {
+        "id": "messui",
+        "name": "messui"
+    },
     "mfme": {
         "id": "mfme",
         "name": "mfme"
+    },
+    "mgalaxy": {
+        "id": "mgalaxy",
+        "name": "mgalaxy"
     },
     "mgba-dev": {
         "id": "mgba-dev",
@@ -1131,13 +1279,13 @@
         "id": "model2emu",
         "name": "model2emu"
     },
-    "model3": {
-        "id": "model3",
-        "name": "model3"
-    },
     "modeler": {
         "id": "modeler",
         "name": "modeler"
+    },
+    "msdos-player": {
+        "id": "msdos-player",
+        "name": "msdos-player"
     },
     "mtxemu": {
         "id": "mtxemu",
@@ -1167,6 +1315,10 @@
         "id": "mzxx",
         "name": "mzxx"
     },
+    "nanoboyadvance-dev": {
+        "id": "nanoboyadvance-dev",
+        "name": "nanoboyadvance-dev"
+    },
     "nanoboyadvance": {
         "id": "nanoboyadvance",
         "name": "nanoboyadvance"
@@ -1182,6 +1334,10 @@
     "nebula": {
         "id": "nebula",
         "name": "nebula"
+    },
+    "negamame": {
+        "id": "negamame",
+        "name": "negamame"
     },
     "nekoprojectii": {
         "id": "nekoprojectii",
@@ -1250,6 +1406,10 @@
     "nice64": {
         "id": "nice64",
         "name": "nice64"
+    },
+    "nintendulator-nrs": {
+        "id": "nintendulator-nrs",
+        "name": "nintendulator-nrs"
     },
     "nintendulator": {
         "id": "nintendulator",
@@ -1435,6 +1595,10 @@
         "id": "pegasus",
         "name": "pegasus"
     },
+    "pfemame": {
+        "id": "pfemame",
+        "name": "pfemame"
+    },
     "phoenix": {
         "id": "phoenix",
         "name": "phoenix"
@@ -1446,6 +1610,10 @@
     "picodrive": {
         "id": "picodrive",
         "name": "picodrive"
+    },
+    "pinmame": {
+        "id": "pinmame",
+        "name": "pinmame"
     },
     "pk201": {
         "id": "pk201",
@@ -1462,6 +1630,10 @@
     "play": {
         "id": "play",
         "name": "play"
+    },
+    "playnite": {
+        "id": "playnite",
+        "name": "playnite"
     },
     "plus4emu": {
         "id": "plus4emu",
@@ -1559,6 +1731,10 @@
         "id": "punes",
         "name": "punes"
     },
+    "qemu": {
+        "id": "qemu",
+        "name": "qemu"
+    },
     "ql2k": {
         "id": "ql2k",
         "name": "ql2k"
@@ -1570,6 +1746,10 @@
     "qlayw": {
         "id": "qlayw",
         "name": "qlayw"
+    },
+    "qmc2": {
+        "id": "qmc2",
+        "name": "qmc2"
     },
     "quasi88": {
         "id": "quasi88",
@@ -1602,6 +1782,10 @@
     "realityboy": {
         "id": "realityboy",
         "name": "realityboy"
+    },
+    "rebuilder": {
+        "id": "rebuilder",
+        "name": "rebuilder"
     },
     "reddragon": {
         "id": "reddragon",
@@ -1654,6 +1838,10 @@
     "rocknesx": {
         "id": "rocknesx",
         "name": "rocknesx"
+    },
+    "rokuyon": {
+        "id": "rokuyon",
+        "name": "rokuyon"
     },
     "roland": {
         "id": "roland",
@@ -1731,6 +1919,14 @@
         "id": "simh",
         "name": "simh"
     },
+    "simple64": {
+        "id": "simple64",
+        "name": "simple64"
+    },
+    "skyemu": {
+        "id": "skyemu",
+        "name": "skyemu"
+    },
     "sneese": {
         "id": "sneese",
         "name": "sneese"
@@ -1771,6 +1967,10 @@
         "id": "speccy",
         "name": "speccy"
     },
+    "specemu": {
+        "id": "specemu",
+        "name": "specemu"
+    },
     "spud": {
         "id": "spud",
         "name": "spud"
@@ -1802,6 +2002,10 @@
     "stem": {
         "id": "stem",
         "name": "stem"
+    },
+    "stoicgoose": {
+        "id": "stoicgoose",
+        "name": "stoicgoose"
     },
     "sugarbox": {
         "id": "sugarbox",
@@ -1854,6 +2058,10 @@
     "trs80gp": {
         "id": "trs80gp",
         "name": "trs80gp"
+    },
+    "tsugaru": {
+        "id": "tsugaru",
+        "name": "tsugaru"
     },
     "tunix2001": {
         "id": "tunix2001",
@@ -1927,9 +2135,17 @@
         "id": "vbjin",
         "name": "vbjin"
     },
+    "vcc": {
+        "id": "vcc",
+        "name": "vcc"
+    },
     "vdmgr": {
         "id": "vdmgr",
         "name": "vdmgr"
+    },
+    "vdos": {
+        "id": "vdos",
+        "name": "vdos"
     },
     "vecx": {
         "id": "vecx",
@@ -1978,6 +2194,10 @@
     "virtualapf": {
         "id": "virtualapf",
         "name": "virtualapf"
+    },
+    "virtualbox": {
+        "id": "virtualbox",
+        "name": "virtualbox"
     },
     "virtualjaguar": {
         "id": "virtualjaguar",
@@ -2115,6 +2335,10 @@
         "id": "winx1",
         "name": "winx1"
     },
+    "wolfmame": {
+        "id": "wolfmame",
+        "name": "wolfmame"
+    },
     "wscamp": {
         "id": "wscamp",
         "name": "wscamp"
@@ -2219,10 +2443,6 @@
         "id": "yoshines",
         "name": "yoshines"
     },
-    "yuzu-dev": {
-        "id": "yuzu-dev",
-        "name": "yuzu-dev"
-    },
     "yuzu-pineapple": {
         "id": "yuzu-pineapple",
         "name": "yuzu-pineapple"
@@ -2234,6 +2454,10 @@
     "z26": {
         "id": "z26",
         "name": "z26"
+    },
+    "z64k": {
+        "id": "z64k",
+        "name": "z64k"
     },
     "z80stealth": {
         "id": "z80stealth",
@@ -2258,6 +2482,14 @@
     "zsnes": {
         "id": "zsnes",
         "name": "zsnes"
+    },
+    "zxpoly": {
+        "id": "zxpoly",
+        "name": "zxpoly"
+    },
+    "zxspectrum4": {
+        "id": "zxspectrum4",
+        "name": "zxspectrum4"
     },
     "zxspin": {
         "id": "zxspin",
