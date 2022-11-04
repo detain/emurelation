@@ -327,10 +327,6 @@
         "id": "caprice32",
         "name": "caprice32"
     },
-    "cc65": {
-        "id": "cc65",
-        "name": "cc65"
-    },
     "ccs64": {
         "id": "ccs64",
         "name": "ccs64"
@@ -515,9 +511,9 @@
         "id": "demulshooter",
         "name": "demulshooter"
     },
-    "desmume-stable": {
-        "id": "desmume-stable",
-        "name": "desmume-stable"
+    "desmume-dev": {
+        "id": "desmume-dev",
+        "name": "desmume-dev"
     },
     "desmume": {
         "id": "desmume",
