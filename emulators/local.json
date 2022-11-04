@@ -2570,7 +2570,8 @@
                 "Atari800"
             ],
             "oldcomputers": [
-                "Atari800"
+                "Atari800",
+                "Atari800Win Plus"
             ],
             "retropie": [
                 "atari800"
@@ -12909,6 +12910,9 @@
             "scoop-emulators": [
                 "fbalpha"
             ],
+            "oldcomputers": [
+                "Final Burn Alpha"
+            ],
             "emucr": [
                 "finalburn_alpha"
             ]
@@ -16635,6 +16639,9 @@
             ],
             "emucr": [
                 "horizon"
+            ],
+            "oldcomputers": [
+                "Horizon emulator"
             ]
         },
         "author": "Chris Lam",
@@ -25526,6 +25533,9 @@
             ],
             "emulationstation-de": [
                 "openMSX"
+            ],
+            "oldcomputers": [
+                "openMSX - The MSX emulator that aims for perfection."
             ],
             "scoop-emulators": [
                 "openmsx",
@@ -39258,6 +39268,9 @@
             "emucontrolcenter": [
                 "takeda"
             ],
+            "oldcomputers": [
+                "Takeda Toshiya's homepage"
+            ],
             "scoop-emulators": [
                 "takeda"
             ]
@@ -43286,6 +43299,10 @@
             ],
             "emucr": [
                 "winape"
+            ],
+            "oldcomputers": [
+                "WINAPE32",
+                "WinAPE32"
             ]
         },
         "author": "Richard Wilson",
@@ -43375,7 +43392,8 @@
                 "winarcadia"
             ],
             "oldcomputers": [
-                "WinArcadia"
+                "WinArcadia",
+                "WinArcadia / AmiArcadia"
             ],
             "emutopia": [
                 117
