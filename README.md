@@ -51,7 +51,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 |-|-|-|-|-|-|
 | [Local](emulators/local.json) | Custom | 852 | 0 | 852 | 100% |
 | [ScreenScraper](emulators/screenscraper.json) | API | 3 | 0 | 3 | 100% |
-| [Old-Computers](emulators/oldcomputers.json) | Website | 118 | 348 | 466 | 25.3% |
+| [Old-Computers](emulators/oldcomputers.json) | Website | 140 | 326 | 466 | 30% |
 | [EmuCR](emulators/emucr.json) | Website | 346 | 1995 | 2341 | 14.8% |
 | [EmulationKing](emulators/emulationking.json) | Website | 96 | 0 | 96 | 100% |
 | [Emutopia](emulators/emutopia.json) | Website | 249 | 280 | 529 | 47.1% |

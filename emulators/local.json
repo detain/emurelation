@@ -497,6 +497,9 @@
             "emucontrolcenter": [
                 "activegs"
             ],
+            "oldcomputers": [
+                "Free Tools Association"
+            ],
             "scoop-emulators": [
                 "activegs"
             ]
@@ -8069,7 +8072,8 @@
                 "dcmo5"
             ],
             "oldcomputers": [
-                "DCMO5"
+                "DCMO5",
+                "DCMO5 Gamer Edition"
             ],
             "scoop-emulators": [
                 "dcmo5"
@@ -11102,6 +11106,7 @@
                 "emu2001"
             ],
             "oldcomputers": [
+                "Emulator2001 by Gavin Turner",
                 "Emulator2001"
             ],
             "scoop-emulators": [
@@ -12613,6 +12618,9 @@
         "matches": {
             "emucontrolcenter": [
                 "ex68"
+            ],
+            "oldcomputers": [
+                "X68000 emulator for Windows"
             ],
             "scoop-emulators": [
                 "ex68"
@@ -14595,7 +14603,8 @@
                 "gemulator"
             ],
             "oldcomputers": [
-                "Gemulator"
+                "Gemulator",
+                "Emulators Online"
             ],
             "scoop-emulators": [
                 "gemulator"
@@ -19179,6 +19188,9 @@
             "emutopia": [
                 478
             ],
+            "oldcomputers": [
+                "Original KEGS emulator"
+            ],
             "scoop-emulators": [
                 "kegs"
             ],
@@ -19792,6 +19804,9 @@
         "matches": {
             "emucontrolcenter": [
                 "lisa"
+            ],
+            "oldcomputers": [
+                "Apple Lisa Emulator"
             ],
             "scoop-emulators": [
                 "lisa"
@@ -21646,6 +21661,17 @@
                 "mess"
             ],
             "oldcomputers": [
+                "M.E.S.S. (Multi Emulator Super System)",
+                "M.E.S.S. (the Multi-Emulator Super System)",
+                "MESS (Multi Emulator Super System)",
+                "MESS (Multiple Emulator Super System)",
+                "MESS - Interact, Hector1, Victor, 2HR, 2HR+, HRX, MX40, MX80",
+                "MESS Emulator",
+                "MESS Project",
+                "MESS emulator",
+                "MESS universal emulator",
+                "Mess emulator",
+                "The MESS project",
                 "M.E.S.S.",
                 "MESS"
             ],
@@ -22206,6 +22232,9 @@
             ],
             "emutopia": [
                 505
+            ],
+            "oldcomputers": [
+                "Minus4 - Plus4 Emulator for DOS & Windows"
             ],
             "scoop-emulators": [
                 "minus4"
@@ -22854,6 +22883,9 @@
         "matches": {
             "emucontrolcenter": [
                 "mzxx"
+            ],
+            "oldcomputers": [
+                "Michael Franzen's multi emulator"
             ],
             "scoop-emulators": [
                 "mzxx"
@@ -36317,6 +36349,9 @@
             "scoop-emulators": [
                 "simcoupe"
             ],
+            "oldcomputers": [
+                "SimCoupé"
+            ],
             "emucr": [
                 "simcoupe"
             ]
@@ -36364,7 +36399,8 @@
                 "simh"
             ],
             "oldcomputers": [
-                "SIMH"
+                "SIMH",
+                "H-316 simulator"
             ],
             "scoop-emulators": [
                 "simh"
@@ -38687,6 +38723,9 @@
         "matches": {
             "emucontrolcenter": [
                 "stem"
+            ],
+            "oldcomputers": [
+                "Winstem"
             ],
             "scoop-emulators": [
                 "stem"
