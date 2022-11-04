@@ -48081,6 +48081,9 @@
         "matches": {
             "scoop-emulators": [
                 "a7800"
+            ],
+            "emucr": [
+                "a7800"
             ]
         },
         "bin": [
@@ -48136,6 +48139,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "antimicrox"
+            ],
+            "emucr": [
                 "antimicrox"
             ]
         },
@@ -48221,6 +48227,12 @@
         "matches": {
             "scoop-emulators": [
                 "asap"
+            ],
+            "emucr": [
+                "asap"
+            ],
+            "emutopia": [
+                189
             ]
         },
         "bin": [
@@ -48278,6 +48290,9 @@
         "matches": {
             "scoop-emulators": [
                 "b2"
+            ],
+            "emucr": [
+                "b2"
             ]
         },
         "bin": [
@@ -48305,6 +48320,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "betterjoy"
+            ],
+            "emucr": [
                 "betterjoy"
             ]
         },
@@ -48390,6 +48408,9 @@
         "matches": {
             "scoop-emulators": [
                 "bletchmame"
+            ],
+            "emucr": [
+                "bletchmame"
             ]
         },
         "bin": [
@@ -48446,6 +48467,9 @@
         "matches": {
             "scoop-emulators": [
                 "bsnes-mt"
+            ],
+            "emucr": [
+                "bsnes-mt"
             ]
         },
         "bin": [
@@ -48474,6 +48498,9 @@
         "matches": {
             "scoop-emulators": [
                 "caprice-forever"
+            ],
+            "emutopia": [
+                1762
             ]
         },
         "bin": [
@@ -48527,6 +48554,9 @@
         "matches": {
             "scoop-emulators": [
                 "cen64"
+            ],
+            "emucr": [
+                "cen64"
             ]
         },
         "bin": [
@@ -48555,6 +48585,12 @@
         "matches": {
             "scoop-emulators": [
                 "clrmamepro"
+            ],
+            "emucr": [
+                "clrmamepro"
+            ],
+            "emutopia": [
+                465
             ]
         },
         "bin": [
@@ -48783,6 +48819,12 @@
         "matches": {
             "scoop-emulators": [
                 "ds4windows"
+            ],
+            "emucr": [
+                "ds4windows"
+            ],
+            "emutopia": [
+                1696
             ]
         },
         "bin": [
@@ -48810,6 +48852,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "eka2l1"
+            ],
+            "emucr": [
                 "eka2l1"
             ]
         },
@@ -48839,6 +48884,12 @@
         "matches": {
             "scoop-emulators": [
                 "emu42"
+            ],
+            "emucr": [
+                "emu42"
+            ],
+            "emutopia": [
+                123
             ]
         },
         "bin": [
@@ -48866,6 +48917,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "emu71"
+            ],
+            "emucr": [
                 "emu71"
             ]
         },
@@ -48895,6 +48949,9 @@
         "matches": {
             "scoop-emulators": [
                 "es-de"
+            ],
+            "emucr": [
+                "es-de"
             ]
         },
         "bin": [
@@ -48922,6 +48979,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "extramame"
+            ],
+            "emucr": [
                 "extramame"
             ]
         },
@@ -49063,6 +49123,12 @@
         "matches": {
             "scoop-emulators": [
                 "free42"
+            ],
+            "emucr": [
+                "free42"
+            ],
+            "emutopia": [
+                1654
             ]
         },
         "bin": [
@@ -49148,6 +49214,9 @@
         "matches": {
             "scoop-emulators": [
                 "gopher2600"
+            ],
+            "emucr": [
+                "gopher2600"
             ]
         },
         "bin": [
@@ -49175,6 +49244,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "groovymame"
+            ],
+            "emucr": [
                 "groovymame"
             ]
         },
@@ -49204,6 +49276,12 @@
         "matches": {
             "scoop-emulators": [
                 "hbmame"
+            ],
+            "emucr": [
+                "hbmame"
+            ],
+            "emutopia": [
+                741
             ]
         },
         "bin": [
@@ -49288,6 +49366,9 @@
         "matches": {
             "scoop-emulators": [
                 "jc64dis"
+            ],
+            "emucr": [
+                "jc64dis"
             ]
         },
         "bin": [
@@ -49317,6 +49398,12 @@
         "matches": {
             "scoop-emulators": [
                 "joytokey"
+            ],
+            "emucr": [
+                "joytokey"
+            ],
+            "emutopia": [
+                470
             ]
         },
         "bin": [
@@ -49401,6 +49488,9 @@
         "matches": {
             "scoop-emulators": [
                 "ludo"
+            ],
+            "emucr": [
+                "ludo"
             ]
         },
         "bin": [
@@ -49458,6 +49548,12 @@
         "matches": {
             "scoop-emulators": [
                 "mameui"
+            ],
+            "emucr": [
+                "mameui"
+            ],
+            "emutopia": [
+                157
             ]
         },
         "web": {
@@ -49483,6 +49579,12 @@
         "matches": {
             "scoop-emulators": [
                 "mastergear"
+            ],
+            "emucr": [
+                "mastergear"
+            ],
+            "emutopia": [
+                1633
             ]
         },
         "bin": [
@@ -49511,6 +49613,9 @@
         "matches": {
             "scoop-emulators": [
                 "medgui-reborn"
+            ],
+            "emutopia": [
+                1232
             ]
         },
         "bin": [
@@ -49566,6 +49671,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "mednaffe"
+            ],
+            "emucr": [
                 "mednaffe"
             ]
         },
@@ -49623,6 +49731,12 @@
         "matches": {
             "scoop-emulators": [
                 "mesen-s"
+            ],
+            "emucr": [
+                "mesen-s"
+            ],
+            "emutopia": [
+                1795
             ]
         },
         "bin": [
@@ -49650,6 +49764,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "mesen-sx"
+            ],
+            "emucr": [
                 "mesen-sx"
             ]
         },
@@ -49679,6 +49796,9 @@
         "matches": {
             "scoop-emulators": [
                 "mesen-x"
+            ],
+            "emucr": [
+                "mesen-x"
             ]
         },
         "bin": [
@@ -49707,6 +49827,12 @@
         "matches": {
             "scoop-emulators": [
                 "messui"
+            ],
+            "emucr": [
+                "messui"
+            ],
+            "emutopia": [
+                118
             ]
         },
         "bin": [
@@ -49734,6 +49860,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "mgalaxy"
+            ],
+            "emucr": [
                 "mgalaxy"
             ]
         },
@@ -49791,6 +49920,12 @@
         "matches": {
             "scoop-emulators": [
                 "nanoboyadvance"
+            ],
+            "emucr": [
+                "nanoboyadvance"
+            ],
+            "emutopia": [
+                2225
             ]
         },
         "web": {
@@ -49843,6 +49978,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "negamame"
+            ],
+            "emucr": [
                 "negamame"
             ]
         },
@@ -49928,6 +50066,9 @@
         "matches": {
             "scoop-emulators": [
                 "noods"
+            ],
+            "emucr": [
+                "noods"
             ]
         },
         "bin": [
@@ -50006,6 +50147,9 @@
         "matches": {
             "scoop-emulators": [
                 "pfemame"
+            ],
+            "emucr": [
+                "pfemame"
             ]
         },
         "bin": [
@@ -50062,6 +50206,9 @@
         "matches": {
             "scoop-emulators": [
                 "pinmame"
+            ],
+            "emutopia": [
+                128
             ]
         },
         "bin": [
@@ -50089,6 +50236,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "playnite"
+            ],
+            "emucr": [
                 "playnite"
             ]
         },
@@ -50143,6 +50293,12 @@
         "matches": {
             "scoop-emulators": [
                 "qemu"
+            ],
+            "emucr": [
+                "qemu"
+            ],
+            "emutopia": [
+                527
             ]
         },
         "web": {
@@ -50167,6 +50323,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "qmc2"
+            ],
+            "emucr": [
                 "qmc2"
             ]
         },
@@ -50197,6 +50356,12 @@
         "matches": {
             "scoop-emulators": [
                 "raine"
+            ],
+            "emucr": [
+                "raine"
+            ],
+            "emutopia": [
+                1009
             ]
         },
         "bin": [
@@ -50228,6 +50393,9 @@
         "matches": {
             "scoop-emulators": [
                 "rebuilder"
+            ],
+            "emucr": [
+                "rebuilder"
             ]
         },
         "bin": [
@@ -50255,6 +50423,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "rokuyon"
+            ],
+            "emucr": [
                 "rokuyon"
             ]
         },
@@ -50284,6 +50455,9 @@
         "matches": {
             "scoop-emulators": [
                 "romsorter"
+            ],
+            "emucr": [
+                "romsorter"
             ]
         },
         "web": {
@@ -50309,6 +50483,13 @@
         "matches": {
             "scoop-emulators": [
                 "sameboy"
+            ],
+            "emucr": [
+                "sameboy"
+            ],
+            "emutopia": [
+                1732,
+                1585
             ]
         },
         "bin": [
@@ -50338,6 +50519,12 @@
         "matches": {
             "scoop-emulators": [
                 "simple64"
+            ],
+            "emucr": [
+                "simple64"
+            ],
+            "emulationstation-de": [
+                "simple64"
             ]
         },
         "bin": [
@@ -50366,6 +50553,9 @@
         "matches": {
             "scoop-emulators": [
                 "skyemu"
+            ],
+            "emucr": [
+                "skyemu"
             ]
         },
         "bin": [
@@ -50393,6 +50583,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "specemu"
+            ],
+            "emucr": [
                 "specemu"
             ]
         },
@@ -50446,6 +50639,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "stoicgoose"
+            ],
+            "emucr": [
                 "stoicgoose"
             ]
         },
@@ -50532,6 +50728,9 @@
         "matches": {
             "scoop-emulators": [
                 "vcc"
+            ],
+            "emucr": [
+                "vcc"
             ]
         },
         "bin": [
@@ -50560,6 +50759,9 @@
         "matches": {
             "scoop-emulators": [
                 "vdos"
+            ],
+            "emucr": [
+                "vdos"
             ]
         },
         "bin": [
@@ -50587,6 +50789,9 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
+                "virtualbox"
+            ],
+            "emucr": [
                 "virtualbox"
             ]
         },
@@ -50661,6 +50866,12 @@
         "matches": {
             "scoop-emulators": [
                 "wolfmame"
+            ],
+            "emucr": [
+                "wolfmame"
+            ],
+            "emutopia": [
+                1126
             ]
         },
         "bin": [
@@ -50689,6 +50900,9 @@
         "matches": {
             "scoop-emulators": [
                 "xformer"
+            ],
+            "oldcomputers": [
+                "XFormer"
             ]
         },
         "bin": [
@@ -50717,6 +50931,12 @@
         "matches": {
             "scoop-emulators": [
                 "z64k"
+            ],
+            "emucr": [
+                "z64k"
+            ],
+            "emutopia": [
+                1653
             ]
         },
         "bin": [
