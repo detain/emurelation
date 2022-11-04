@@ -51010,5 +51010,76 @@
             }
         },
         "eol": false
+    },
+    "bochs": {
+        "id": "bochs",
+        "shortName": "bochs",
+        "name": "bochs",
+        "description": "IA-32 (x86) PC emulator",
+        "license": "LGPL-2.1-only",
+        "platforms": [],
+        "matches": {
+            "scoop-emulators": [
+                "bochs"
+            ],
+            "emucr": [
+                "bochs"
+            ],
+            "emutopia": [
+                529
+            ]
+        },
+        "bin": [
+            "bochs.exe",
+            "bochsdbg.exe",
+            "bxhub.exe",
+            "bximage.exe",
+            "niclist.exe",
+            "sb16ctrl.exe"
+        ],
+        "web": {
+            "http://bochs.sourceforge.net/": "home"
+        },
+        "versions": {
+            "2.7": {
+                "url": "https://downloads.sourceforge.net/project/bochs/bochs/2.7/Bochs-win64-2.7.exe#/dl.7z",
+                "os": "Windows",
+                "bits": 64,
+                "date": "2022-11-04"
+            }
+        },
+        "eol": false
+    },
+    "softmac": {
+        "id": "softmac",
+        "shortName": "softmac",
+        "name": "softmac",
+        "description": "Macintosh Emulator for Microsoft Windows",
+        "license": "Unknown",
+        "platforms": [],
+        "matches": {
+            "scoop-emulators": [
+                "softmac"
+            ],
+            "oldcomputers": [
+                "SoftMac"
+            ]
+        },
+        "bin": [
+            "softmac.exe",
+            "softmac2.exe"
+        ],
+        "web": {
+            "http://emulators.com/": "home"
+        },
+        "versions": {
+            "8.20": {
+                "url": "http://emulators.com/freefile/softmac.zip",
+                "os": "Windows",
+                "bits": 64,
+                "date": "2022-11-04"
+            }
+        },
+        "eol": false
     }
 }
