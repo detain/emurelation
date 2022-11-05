@@ -6025,9 +6025,9 @@
             "Commodore VIC-10"
         ]
     },
-    "Commodore VIC-1001 - VIC-20": {
-        "id": "Commodore VIC-1001 - VIC-20",
-        "name": "VIC-1001 - VIC-20",
+    "Commodore VIC-1001": {
+        "id": "Commodore VIC-1001",
+        "name": "VIC-1001",
         "matches": {
             "mame": [
                 "vic1001_cart",
@@ -6042,7 +6042,7 @@
         },
         "company": "Commodore",
         "altNames": [
-            "Commodore VIC-1001 - VIC-20"
+            "Commodore VIC-1001"
         ]
     },
     "Commodore VIC-20": {
@@ -11105,12 +11105,6 @@
             ],
             "mobygames": [
                 "sam-coup"
-            ],
-            "gamesdatabase": [
-                "sinclair-zx-spectrum"
-            ],
-            "bezels_project": [
-                "bezelprojectSA-ZXSpectrum"
             ],
             "attractmode": [
                 "MGT Sam Coupe"
