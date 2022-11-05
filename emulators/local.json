@@ -41221,7 +41221,9 @@
         "id": "vinter",
         "shortName": "vinter",
         "name": "Virtual Interact",
-        "platforms": [],
+        "platforms": [
+            "Interact Family Computer"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "vinter"
@@ -44725,7 +44727,10 @@
         "id": "winvz300",
         "shortName": "winvz300",
         "name": "WinVZ300",
-        "platforms": [],
+        "platforms": [
+            "VTech Laser 310",
+            "Dick Smith VZ-200-300"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "winvz300"
