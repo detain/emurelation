@@ -16494,7 +16494,9 @@
         "id": "hola",
         "shortName": "hola",
         "name": "HoLa!",
-        "platforms": [],
+        "platforms": [
+            "HomeLab"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "hola"
@@ -16570,7 +16572,9 @@
         "id": "homelab",
         "shortName": "homelab",
         "name": "HomeLAB",
-        "platforms": [],
+        "platforms": [
+            "HomeLab"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "homelab"
@@ -17248,57 +17252,29 @@
         },
         "eol": false
     },
-    "hypseus": {
-        "id": "hypseus",
-        "shortName": "hypseus",
-        "name": "hypseus",
-        "platforms": [],
-        "web": {
-            "https://github.com/btolab/hypseus": "repo"
-        },
-        "matches": {
-            "retropie": [
-                "hypseus"
-            ]
-        },
-        "eol": false
-    },
-    "hypseus-daphne": {
-        "id": "hypseus-daphne",
-        "shortName": "Hypseus [Daphne]",
-        "name": "Hypseus [Daphne]",
-        "platforms": [],
-        "matches": {
-            "emulationstation-de": [
-                "Hypseus [Daphne]"
-            ]
-        },
-        "web": {
-            "https://github.com/DirtBagXon/hypseus-singe": "repo"
-        },
-        "bin": [
-            "hypseus.exe"
-        ],
-        "dir": [
-            "Hypseus Singe"
-        ],
-        "cmd": [
-            "%BIN% %BASENAME% vldp -framefile %GAMEDIR%\\%BASENAME%.txt %INJECT%=%BASENAME%.commands"
-        ],
-        "eol": false
-    },
     "hypseus-singe": {
         "id": "hypseus-singe",
         "shortName": "hypseus-singe",
         "name": "hypseus-singe",
         "description": "Hypseus is a fork of Matt Ownby's Daphne. A program to play laserdisc arcade games on a PC, Mac or Raspberry Pi. This version includes Singe support for Fan Made and American Laser Games.",
         "license": "GPL-3",
-        "platforms": [],
+        "platforms": [
+            "American Laser Games CD-ROM System"
+        ],
         "matches": {
             "scoop-emulators": [
                 "hypseus-singe"
+            ],
+            "emulationstation-de": [
+                "Hypseus [Daphne]"
+            ],
+            "retropie": [
+                "hypseus"
             ]
         },
+        "cmd": [
+            "%BIN% %BASENAME% vldp -framefile %GAMEDIR%\\%BASENAME%.txt %INJECT%=%BASENAME%.commands"
+        ],
         "bin": [
             "hypseus.exe"
         ],
@@ -18281,7 +18257,9 @@
         "id": "jvz200",
         "shortName": "jvz200",
         "name": "James VZ200",
-        "platforms": [],
+        "platforms": [
+            "Dick Smith VZ-200-300"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "jvz200"
@@ -22788,7 +22766,9 @@
         "id": "mz700win",
         "shortName": "mz700win",
         "name": "MZ700WIN",
-        "platforms": [],
+        "platforms": [
+            "Sharp MZ-700"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "mz700win"
@@ -22846,7 +22826,10 @@
         "id": "mz800emu",
         "shortName": "mz800emu",
         "name": "MZ-800",
-        "platforms": [],
+        "platforms": [
+            "Sharp MZ-700",
+            "Sharp MZ-800"
+        ],
         "matches": {
             "emucontrolcenter": [
                 "mz800emu"

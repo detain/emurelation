@@ -18093,23 +18093,13 @@
             "Sega Naomi 2"
         ]
     },
-    "Sega PICO": {
-        "id": "Sega PICO",
-        "name": "PICO",
-        "matches": {
-            "screenscraper": [
-                250
-            ]
-        },
-        "company": "Sega",
-        "altNames": [
-            "Sega PICO"
-        ]
-    },
     "Sega Pico": {
         "id": "Sega Pico",
         "name": "Pico",
         "matches": {
+            "screenscraper": [
+                250
+            ],
             "launchbox": [
                 "Sega Pico",
                 "pico"
@@ -18137,6 +18127,7 @@
         },
         "company": "Sega",
         "altNames": [
+            "Sega PICO",
             "Sega Pico"
         ]
     },
