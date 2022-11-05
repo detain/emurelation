@@ -3549,7 +3549,8 @@
                 "BizHawk"
             ],
             "scoop-emulators": [
-                "bizhawk"
+                "bizhawk",
+                "bizhawk-dev"
             ],
             "emutopia": [
                 180
@@ -8565,7 +8566,7 @@
             ],
             "scoop-emulators": [
                 "desmume",
-                "desmume-stable"
+                "desmume-dev"
             ],
             "emutopia": [
                 425
@@ -14383,7 +14384,8 @@
                 "gearboy"
             ],
             "scoop-emulators": [
-                "gearboy"
+                "gearboy",
+                "gearboy-dev"
             ],
             "emutopia": [
                 1043
@@ -14432,7 +14434,8 @@
                 "gearsystem"
             ],
             "scoop-emulators": [
-                "gearsystem"
+                "gearsystem",
+                "gearsystem-dev"
             ],
             "emutopia": [
                 2114
@@ -18047,7 +18050,8 @@
                 "jpcsp"
             ],
             "scoop-emulators": [
-                "jpcsp"
+                "jpcsp",
+                "jpcsp-dev"
             ],
             "emucr": [
                 "jpcsp"
@@ -20770,7 +20774,8 @@
                 "Mednafen"
             ],
             "scoop-emulators": [
-                "mednafen"
+                "mednafen",
+                "mednafen-dev"
             ],
             "emutopia": [
                 328
@@ -21211,7 +21216,8 @@
                 "melonDS"
             ],
             "scoop-emulators": [
-                "melonds"
+                "melonds",
+                "melonds-dev"
             ],
             "emutopia": [
                 1477
@@ -48198,7 +48204,9 @@
         "name": "asap",
         "description": "ASAP is a player of Atari 8-bit chiptunes for modern computers and mobile devices",
         "license": "GPL-2.0",
-        "platforms": [],
+        "platforms": [
+            "Atari 800"
+        ],
         "matches": {
             "scoop-emulators": [
                 "asap"
@@ -48261,7 +48269,9 @@
         "name": "b2",
         "description": "A cross-platform BBC Micro emulator. Use your Windows/Linux PC or macOS computer to play your old BBC games or develop new BBC software.",
         "license": "Unknown",
-        "platforms": [],
+        "platforms": [
+            "Acorn BBC Micro"
+        ],
         "matches": {
             "scoop-emulators": [
                 "b2"
@@ -48286,72 +48296,15 @@
         },
         "eol": false
     },
-    "betterjoy": {
-        "id": "betterjoy",
-        "shortName": "betterjoy",
-        "name": "betterjoy",
-        "description": "A remapping program for Nintendo Switch controllers",
-        "license": "MIT",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "betterjoy"
-            ],
-            "emucr": [
-                "betterjoy"
-            ]
-        },
-        "bin": [
-            "BetterJoyForCemu.exe"
-        ],
-        "web": {
-            "https://github.com/Davidobot/BetterJoy": "repo"
-        },
-        "versions": {
-            "v7.1": {
-                "url": "https://github.com/Davidobot/BetterJoy/releases/download/v7.1/BetterJoy_v7.1.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "bizhawk-dev": {
-        "id": "bizhawk-dev",
-        "shortName": "bizhawk-dev",
-        "name": "bizhawk-dev",
-        "description": "BizHawk is a multi-platform emulator with full rerecording support and Lua scripting. BizHawk focuses on core accuracy and power user tools while still being an easy-to-use emulator for casual gaming",
-        "license": "MIT",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "bizhawk-dev"
-            ]
-        },
-        "bin": [
-            "EmuHawk.exe"
-        ],
-        "web": {
-            "http://tasvideos.org/BizHawk.html": "home"
-        },
-        "versions": {
-            "3224-20221103-c891cc2c": {
-                "url": "https://gitlab.com/TASVideos/BizHawk/-/jobs/3266650118/artifacts/download?file_type=archive#dl.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "bk": {
         "id": "bk",
         "shortName": "bk",
         "name": "bk",
         "description": "BK Emulator is a Linux/SDL emulator for Soviet (russian) Electronica BK series:БК-0010,БК-0010.01 , БК-0011(М).",
         "license": "",
-        "platforms": [],
+        "platforms": [
+            "Elektronika BK"
+        ],
         "matches": {
             "scoop-emulators": [
                 "bk"
@@ -48410,7 +48363,9 @@
         "name": "bsnes-hd-beta",
         "description": "bsnes-hd is a fork of bsnes that adds video features like rendering Mode 7 in a higher resolution, widescreen, and true color",
         "license": "GPL-3.0-only",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Super Nintendo Entertainment System"
+        ],
         "matches": {
             "scoop-emulators": [
                 "bsnes-hd-beta"
@@ -48438,7 +48393,9 @@
         "name": "bsnes-mt",
         "description": "bsnes-mt is an improved version of bsnes — an accurate emulator of the 16-bit game console SNES (Super Nintendo). Pixel-perfect integer-ratio scaling, PNG screen­shots, precise aspect ratio, and more.",
         "license": "GPL-3.0-only",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Super Nintendo Entertainment System"
+        ],
         "matches": {
             "scoop-emulators": [
                 "bsnes-mt"
@@ -48469,7 +48426,9 @@
         "name": "caprice-forever",
         "description": "Caprice Forever is a Amstrad CPC emulator for Windows.",
         "license": "Unknown",
-        "platforms": [],
+        "platforms": [
+            "Amstrad CPC"
+        ],
         "matches": {
             "scoop-emulators": [
                 "caprice-forever"
@@ -48494,38 +48453,15 @@
         },
         "eol": false
     },
-    "cemuhook": {
-        "id": "cemuhook",
-        "shortName": "cemuhook",
-        "name": "cemuhook",
-        "description": "Plugin for the Cemu emulator enabling H.264 decoding, gamepad input source overrides and game code/data patching at load-time",
-        "license": "Freeware",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "cemuhook"
-            ]
-        },
-        "web": {
-            "https://cemuhook.sshnuke.net/": "home"
-        },
-        "versions": {
-            "0.5.7.7": {
-                "url": "https://files.sshnuke.net/cemuhook_1262d_0577.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "cen64": {
         "id": "cen64",
         "shortName": "cen64",
         "name": "cen64",
         "description": "Cen64 is a Cycle-Accurate Nintendo 64 Simulator.",
         "license": "BSD-3-Clause",
-        "platforms": [],
+        "platforms": [
+            "Nintendo 64"
+        ],
         "matches": {
             "scoop-emulators": [
                 "cen64"
@@ -48543,40 +48479,6 @@
         "versions": {
             "79-20221002-ee6db7d": {
                 "url": "https://nightly.link/n64dev/cen64/workflows/msys2-windows/master/windows-x86_64-Native.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "clrmamepro": {
-        "id": "clrmamepro",
-        "shortName": "clrmamepro",
-        "name": "clrmamepro",
-        "description": "ClrMamePro is a so-called ROM-manager. With every new release of MAME a lot has been changed. New gamesets have been added, some have been removed, etc.",
-        "license": "Unknown",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "clrmamepro"
-            ],
-            "emucr": [
-                "clrmamepro"
-            ],
-            "emutopia": [
-                465
-            ]
-        },
-        "bin": [
-            "cmpro64.exe"
-        ],
-        "web": {
-            "https://mamedev.emulab.it/clrmamepro/": "home"
-        },
-        "versions": {
-            "4.046b": {
-                "url": "https://mamedev.emulab.it/clrmamepro/binaries/cmp4046b_64.zip",
                 "os": "Windows",
                 "bits": 64,
                 "date": "2022-11-04"
@@ -48731,100 +48633,15 @@
         },
         "eol": false
     },
-    "demulshooter": {
-        "id": "demulshooter",
-        "shortName": "demulshooter",
-        "name": "demulshooter",
-        "description": "Hook into (mostly) emulators to allow playing rail shooter games with up to 4 lightguns or HID devices",
-        "license": "Unknown",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "demulshooter"
-            ]
-        },
-        "web": {
-            "https://github.com/argonlefou/DemulShooter": "repo"
-        },
-        "versions": {
-            "10.8.1": {
-                "url": "https://github.com/argonlefou/DemulShooter/releases/download/v10.8.1/DemulShooter_v10.8.1.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "desmume-dev": {
-        "id": "desmume-dev",
-        "shortName": "desmume-dev",
-        "name": "desmume-dev",
-        "description": "Nintendo DS emulator",
-        "license": "GPL-2.0",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "desmume-dev"
-            ]
-        },
-        "bin": [
-            "DeSmuME-VS2019-x64-Release.exe"
-        ],
-        "web": {
-            "https://desmume.org": "home"
-        },
-        "versions": {
-            "91efef9": {
-                "url": "https://nightly.link/TASEmulators/desmume/workflows/build_win/master/desmume-win-x64.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "ds4windows": {
-        "id": "ds4windows",
-        "shortName": "ds4windows",
-        "name": "ds4windows",
-        "description": "DS4Windows is a portable program that allows you to get the best experience while using a DualShock 4 on your PC. By emulating a Xbox 360 controller, many more games are accessible.",
-        "license": "MIT",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "ds4windows"
-            ],
-            "emucr": [
-                "ds4windows"
-            ],
-            "emutopia": [
-                1696
-            ]
-        },
-        "bin": [
-            "DS4Windows.exe"
-        ],
-        "web": {
-            "https://github.com/Ryochan7/DS4Windows": "repo"
-        },
-        "versions": {
-            "3.1.9": {
-                "url": "https://github.com/Ryochan7/DS4Windows/releases/download/v3.1.9/DS4Windows_3.1.9_x64.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "eka2l1": {
         "id": "eka2l1",
         "shortName": "eka2l1",
         "name": "eka2l1",
         "description": "EKA2L1 is a Experimental Symbian OS emulator, written in C++ 17. The emulator currently emulates Symbian OS's EKA2 behavior (with planned EKA1 support), and reimplement most of its critical app servers. It can already boot many EKA2's apps and games, with EKA1 being worked on at the moment.",
         "license": "GPL-3",
-        "platforms": [],
+        "platforms": [
+            "Mobile Symbian"
+        ],
         "matches": {
             "scoop-emulators": [
                 "eka2l1"
@@ -48985,7 +48802,8 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
-                "fbneo"
+                "fbneo",
+                "fbneo-nightly"
             ]
         },
         "bin": [
@@ -48997,34 +48815,6 @@
         "versions": {
             "1.0.0.2": {
                 "url": "https://github.com/finalburnneo/FBNeo/releases/download/v1.0.0.2/fbneo.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "fbneo-nightly": {
-        "id": "fbneo-nightly",
-        "shortName": "fbneo-nightly",
-        "name": "fbneo-nightly",
-        "description": "Emulator for arcade games and select consoles",
-        "license": "https://github.com/finalburnneo/FBNeo/blob/master/src/license.txt",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "fbneo-nightly"
-            ]
-        },
-        "bin": [
-            "fbneo64.exe"
-        ],
-        "web": {
-            "https://github.com/finalburnneo/FBNeo": "repo"
-        },
-        "versions": {
-            "nightly": {
-                "url": "https://github.com/finalburnneo/FBNeo/releases/download/latest/Windows.x64.zip",
                 "os": "Windows",
                 "bits": 64,
                 "date": "2022-11-04"
@@ -49066,7 +48856,11 @@
         "name": "flycast-dojo",
         "description": "Flycast Dojo is a fork of Flycast, a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from Reicast, with a focus on netplay features and replay. We intend to keep Flycast Dojo updated with the latest downstream changes made to the parent project. Flycast is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.",
         "license": "GPL-2.0",
-        "platforms": [],
+        "platforms": [
+            "Sega Dreamcast",
+            "Sega Naomi",
+            "Sammy Atomiswave"
+        ],
         "matches": {
             "scoop-emulators": [
                 "flycast-dojo"
@@ -49123,69 +48917,15 @@
         },
         "eol": false
     },
-    "gearboy-dev": {
-        "id": "gearboy-dev",
-        "shortName": "gearboy-dev",
-        "name": "gearboy-dev",
-        "description": "Gearboy is a Nintendo Game Boy emulator written in C++. The emulator is focused on readability of source code, but nevertheless it has good compatibility. A lot of effort has gone into this in order to follow OOP and keep it as simple as possible.",
-        "license": "GPL-3",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "gearboy-dev"
-            ]
-        },
-        "bin": [
-            "Gearboy.exe"
-        ],
-        "web": {
-            "https://github.com/drhelius/Gearboy": "repo"
-        },
-        "versions": {
-            "219-20221030-2c5b8b4": {
-                "url": "https://nightly.link/drhelius/Gearboy/workflows/gearboy/master/Windows%20binary.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "gearsystem-dev": {
-        "id": "gearsystem-dev",
-        "shortName": "gearsystem-dev",
-        "name": "gearsystem-dev",
-        "description": "Sega Master System / Game Gear / SG-1000 emulator for iOS, macOS, Raspberry Pi, Windows, Linux, BSD and RetroArch. ",
-        "license": "GPL-3.0",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "gearsystem-dev"
-            ]
-        },
-        "bin": [
-            "Gearsystem.exe"
-        ],
-        "web": {
-            "https://github.com/drhelius/Gearsystem": "repo"
-        },
-        "versions": {
-            "206-20221030-e3ab748": {
-                "url": "https://nightly.link/drhelius/Gearsystem/workflows/gearsystem/master/Windows%20binary.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "gopher2600": {
         "id": "gopher2600",
         "shortName": "gopher2600",
         "name": "gopher2600",
         "description": "Gopher2600 is an emulator for the Atari 2600. Whilst the performance is not as efficient as some other emulators it is none-the-less suitable for playing games, on a reasonably modern computer, at the required 60fps. (The development machine for Gopher2600 has been an i3-3225, dating from around 2012.)",
         "license": "GPL-3",
-        "platforms": [],
+        "platforms": [
+            "Atari 2600"
+        ],
         "matches": {
             "scoop-emulators": [
                 "gopher2600"
@@ -49337,7 +49077,9 @@
         "name": "jc64dis",
         "description": "The JC64 is an emulator that try to 100% emulate a C64 (with the actual knowledge about the various C64 chips) using the Java language. You must have a powerful system to run this program. Sorry, the real emulation is the priority goal, unlike the speed emulation is the secondary goal. The Java language is used due to his multiplatform and OOP characteristics. The emulator is Threads based (multi-cpu system can take advantage of this). The actual Vic code is very experimental: uses of dot clock for a 1 to 1 implementation of Vic II chip.",
         "license": "GPL-2.0",
-        "platforms": [],
+        "platforms": [
+            "Commodore 64"
+        ],
         "matches": {
             "scoop-emulators": [
                 "jc64dis"
@@ -49363,75 +49105,16 @@
         },
         "eol": false
     },
-    "joytokey": {
-        "id": "joytokey",
-        "shortName": "joytokey",
-        "name": "joytokey",
-        "description": "This software is a keyboard emulator for joysticks. It converts joystick input into keyboard input (and mouse input).Use it when you want to control an application with joysticks that doesn't support joystick input. If you wish, you can control even Word, Excel, etc. with joysticks! ",
-        "license": "Unknown",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "joytokey"
-            ],
-            "emucr": [
-                "joytokey"
-            ],
-            "emutopia": [
-                470
-            ]
-        },
-        "bin": [
-            "JoyToKey.exe"
-        ],
-        "web": {
-            "https://joytokey.net/ja/": "home"
-        },
-        "versions": {
-            "6.9.1": {
-                "url": "https://joytokey.net/download/JoyToKey.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "jpcsp-dev": {
-        "id": "jpcsp-dev",
-        "shortName": "jpcsp-dev",
-        "name": "jpcsp-dev",
-        "description": "PSP Emulator written in Java ",
-        "license": "GPL-2.0",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "jpcsp-dev"
-            ]
-        },
-        "bin": [
-            "start-windows-amd64.bat"
-        ],
-        "web": {
-            "https://github.com/jpcsp/jpcsp": "repo"
-        },
-        "versions": {
-            "101-20221024-8f89341": {
-                "url": "https://nightly.link/jpcsp/jpcsp/workflows/main/master/Windows%2064-bit%20build.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "kega-fusion": {
         "id": "kega-fusion",
         "shortName": "kega-fusion",
         "name": "kega-fusion",
         "description": "SEGA Genesis / Mega Drive emulator",
         "license": "Freeware",
-        "platforms": [],
+        "platforms": [
+            "Sega Genesis",
+            "Sega Mega Drive"
+        ],
         "matches": {
             "scoop-emulators": [
                 "kega-fusion"
@@ -49550,7 +49233,13 @@
         "name": "mastergear",
         "description": "MasterGear (MG) is a program that emulates 8bit SEGA videogames on your computer. It runs games made for SEGA MasterSystem (Mark3 in Japan) and GameGear, as well as their predecessors: SG1000, SC3000, SF7000, and Mark2. MG will also help hobbyists who still write software for these systems to debug their works without using rare and costly development hardware.",
         "license": "Freeware",
-        "platforms": [],
+        "platforms": [
+            "Sega Mark III & Master System",
+            "Sega GameGear",
+            "Sega SG-1000",
+            "Sega SC-3000",
+            "Sega SF7000"
+        ],
         "matches": {
             "scoop-emulators": [
                 "mastergear"
@@ -49609,34 +49298,6 @@
         },
         "eol": false
     },
-    "mednafen-dev": {
-        "id": "mednafen-dev",
-        "shortName": "mednafen-dev",
-        "name": "mednafen-dev",
-        "description": "Multi-system emulator",
-        "license": "GPL-2.0-only",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "mednafen-dev"
-            ]
-        },
-        "bin": [
-            "mednafen.exe"
-        ],
-        "web": {
-            "https://mednafen.github.io/": "home"
-        },
-        "versions": {
-            "1.31.0": {
-                "url": "https://mednafen.github.io/releases/files/mednafen-1.31.0-UNSTABLE-win64.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "mednaffe": {
         "id": "mednaffe",
         "shortName": "mednaffe",
@@ -49668,41 +49329,16 @@
         },
         "eol": false
     },
-    "melonds-dev": {
-        "id": "melonds-dev",
-        "shortName": "melonds-dev",
-        "name": "melonds-dev",
-        "description": "Nintendo DS emulator",
-        "license": "GPL-3.0",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "melonds-dev"
-            ]
-        },
-        "bin": [
-            "melonDS.exe"
-        ],
-        "web": {
-            "http://melonds.kuribo64.net/": "home"
-        },
-        "versions": {
-            "1513-20221103-430de6b": {
-                "url": "https://nightly.link/melonDS-emu/melonDS/workflows/build-windows/master/melonDS-windows-x86_64.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "mesen-s": {
         "id": "mesen-s",
         "shortName": "mesen-s",
         "name": "mesen-s",
         "description": "Nintendo SNES (Super Nintendo Entertainment System) and Super Game Boy emulator",
         "license": "GPL-3.0",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Super Nintendo Entertainment System",
+            "Nintendo Super Game Boy"
+        ],
         "matches": {
             "scoop-emulators": [
                 "mesen-s"
@@ -49736,7 +49372,9 @@
         "name": "mesen-sx",
         "description": "Homebrew development oriented fork of Mesen-S. Mesen-S is a cross-platform SNES emulator for Windows & Linux built in C++ and C#.",
         "license": "GPL-3",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Super Nintendo Entertainment System"
+        ],
         "matches": {
             "scoop-emulators": [
                 "mesen-sx"
@@ -49767,7 +49405,9 @@
         "name": "mesen-x",
         "description": "Mesen X is a cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#. This fork is meant to gather development efforts from different forks. Not under active development but pull requests are welcome.",
         "license": "GPL-3",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Entertainment System"
+        ],
         "matches": {
             "scoop-emulators": [
                 "mesen-x"
@@ -49863,7 +49503,9 @@
         "name": "msdos-player",
         "description": "MS-DOS Player is MS-DOS emulator running on Win32-x64 command prompt. 16bit MS-DOS compatible commands can be exexuted on Win32-x64 envrionment.",
         "license": "Unknown",
-        "platforms": [],
+        "platforms": [
+            "Generic PC"
+        ],
         "matches": {
             "scoop-emulators": [
                 "msdos-player"
@@ -49891,10 +49533,13 @@
         "name": "nanoboyadvance",
         "description": "NanoBoyAdvance is a Game Boy Advance emulator focused on accuracy.",
         "license": "GPL-3.0-only",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy Advance"
+        ],
         "matches": {
             "scoop-emulators": [
-                "nanoboyadvance"
+                "nanoboyadvance",
+                "nanoboyadvance-dev"
             ],
             "emucr": [
                 "nanoboyadvance"
@@ -49909,34 +49554,6 @@
         "versions": {
             "1.6": {
                 "url": "https://github.com/nba-emu/NanoBoyAdvance/releases/download/v1.6/NanoBoyAdvance-1.6-win64.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "nanoboyadvance-dev": {
-        "id": "nanoboyadvance-dev",
-        "shortName": "nanoboyadvance-dev",
-        "name": "nanoboyadvance-dev",
-        "description": "NanoboyAdvance is a Nintendo Game Boy Advance (TM) emulator written in C++17. The goal is to create a minimal, accurate and reasonably efficient Game Boy Advance emulator in modern C++. The emulator implements the core hardware completely and with high accuracy. Almost all games can be emulated without any known issues, even the 'Classic NES' titles which abuse a variety of edge-cases and undefined behaviour.",
-        "license": "GPL-3",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "nanoboyadvance-dev"
-            ]
-        },
-        "bin": [
-            "NanoBoyAdvance.exe"
-        ],
-        "web": {
-            "https://github.com/nba-emu/NanoBoyAdvance": "repo"
-        },
-        "versions": {
-            "947-20221103-efe224e": {
-                "url": "https://nightly.link/nba-emu/NanoBoyAdvance/workflows/build/master/NanoBoyAdvance-win64.zip",
                 "os": "Windows",
                 "bits": 64,
                 "date": "2022-11-04"
@@ -49981,7 +49598,9 @@
         "name": "nester",
         "description": "Nintendo Entertainment System emulator for Windows",
         "license": "GPLv2",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Entertainment System"
+        ],
         "matches": {
             "scoop-emulators": [
                 "nester"
@@ -50009,7 +49628,9 @@
         "name": "nintendulator-nrs",
         "description": "NintendulatorNRS is a Famicom/NES (and its derivate such as the VRT chipsets) emulator for Windows. It is a fork of Nintendulator (by Quietust) maintained by NewRisingSun which offers an extremly wide compatibility.",
         "license": "GPL-2",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Entertainment System"
+        ],
         "matches": {
             "scoop-emulators": [
                 "nintendulator-nrs"
@@ -50037,7 +49658,9 @@
         "name": "noods",
         "description": "A (hopefully!) speedy DS emulator ",
         "license": "GPL-2.0",
-        "platforms": [],
+        "platforms": [
+            "Nintendo DS"
+        ],
         "matches": {
             "scoop-emulators": [
                 "noods"
@@ -50071,7 +49694,8 @@
         "platforms": [],
         "matches": {
             "scoop-emulators": [
-                "pegasus"
+                "pegasus",
+                "pegasus-nightly"
             ]
         },
         "web": {
@@ -50080,31 +49704,6 @@
         "versions": {
             "alpha16-42-g996720eb": {
                 "url": "https://github.com/mmatyas/pegasus-frontend/releases/download/weekly_2022w30/pegasus-fe_alpha16-42-g996720eb_win-mingw-static.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
-    "pegasus-nightly": {
-        "id": "pegasus-nightly",
-        "shortName": "pegasus-nightly",
-        "name": "pegasus-nightly",
-        "description": "Pegasus is a graphical frontend for browsing your game library and launching all kinds of emulators from the same place",
-        "license": "GPLv3",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "pegasus-nightly"
-            ]
-        },
-        "web": {
-            "https://pegasus-frontend.org/": "home"
-        },
-        "versions": {
-            "alpha16-44-g8119fcec": {
-                "url": "https://github.com/mmatyas/pegasus-frontend/releases/download/continuous/pegasus-fe_alpha16-44-g8119fcec_win-mingw-static.zip",
                 "os": "Windows",
                 "bits": 64,
                 "date": "2022-11-04"
@@ -50149,7 +49748,10 @@
         "name": "phoenixemu",
         "description": "Phoenix is an emulator of 3DO Interactive Player and Atari Jaguar written by Maxim Grishin",
         "license": "Freeware,...",
-        "platforms": [],
+        "platforms": [
+            "Panasonic 3DO Interactive Multiplayer",
+            "Atari Jaguar"
+        ],
         "matches": {
             "scoop-emulators": [
                 "phoenixemu"
@@ -50233,38 +49835,15 @@
         },
         "eol": false
     },
-    "ps3-system-software": {
-        "id": "ps3-system-software",
-        "shortName": "ps3-system-software",
-        "name": "ps3-system-software",
-        "description": "Sony PlayStation 3 system software",
-        "license": "Proprietary",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "ps3-system-software"
-            ]
-        },
-        "web": {
-            "https://www.playstation.com/en-us/support/hardware/ps3/system-software/": "home"
-        },
-        "versions": {
-            "4.89": {
-                "url": "http://dus01.ps3.update.playstation.net/update/ps3/image/us/2022_0510_95307e1b51d3bcc33a274db91488d29f/PS3UPDAT.PUP",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "qemu": {
         "id": "qemu",
         "shortName": "qemu",
         "name": "qemu",
         "description": "A generic and open source machine emulator and virtualizer.",
         "license": "GPL-2.0-only",
-        "platforms": [],
+        "platforms": [
+            "Generic PC"
+        ],
         "matches": {
             "scoop-emulators": [
                 "qemu"
@@ -50358,44 +49937,15 @@
         },
         "eol": false
     },
-    "rebuilder": {
-        "id": "rebuilder",
-        "shortName": "rebuilder",
-        "name": "rebuilder",
-        "description": "Rebuilder is a small commandline tool which has some advantages over the rebuilder in clrmamepro. Faster, Standalone merge mode, CHD rebuild to name a few.",
-        "license": "Unknown",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "rebuilder"
-            ],
-            "emucr": [
-                "rebuilder"
-            ]
-        },
-        "bin": [
-            "rebuilder.exe"
-        ],
-        "web": {
-            "https://mamedev.emulab.it/clrmamepro/": "home"
-        },
-        "versions": {
-            "0.03": {
-                "url": "https://mamedev.emulab.it/clrmamepro/binaries/rebuilder_v003.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "rokuyon": {
         "id": "rokuyon",
         "shortName": "rokuyon",
         "name": "rokuyon",
         "description": "Rokuyon is An experimental N64 emulator",
         "license": "GPL-3",
-        "platforms": [],
+        "platforms": [
+            "Nintendo 64"
+        ],
         "matches": {
             "scoop-emulators": [
                 "rokuyon"
@@ -50420,41 +49970,16 @@
         },
         "eol": false
     },
-    "romsorter": {
-        "id": "romsorter",
-        "shortName": "romsorter",
-        "name": "romsorter",
-        "description": "Compress, or uncompress ROMs. Detect duplicates, catalog, manage CHD and DAT data, sort for Everdrive, or create 1G1R sets. All with one app.",
-        "license": "MIT",
-        "platforms": [],
-        "matches": {
-            "scoop-emulators": [
-                "romsorter"
-            ],
-            "emucr": [
-                "romsorter"
-            ]
-        },
-        "web": {
-            "https://github.com/drakewill-CRL/ROMSorter": "repo"
-        },
-        "versions": {
-            "release6": {
-                "url": "https://github.com/drakewill-CRL/ROMSorter/releases/download/release6/ROMSorter-Release6.zip",
-                "os": "Windows",
-                "bits": 64,
-                "date": "2022-11-04"
-            }
-        },
-        "eol": false
-    },
     "sameboy": {
         "id": "sameboy",
         "shortName": "sameboy",
         "name": "sameboy",
         "description": "A Game Boy and Game Boy Color emulator written in C",
         "license": "MIT",
-        "platforms": [],
+        "platforms": [
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Color"
+        ],
         "matches": {
             "scoop-emulators": [
                 "sameboy"
@@ -50490,7 +50015,9 @@
         "name": "simple64",
         "description": "simple64 is an emulator based on a heavily modified version of mupen64plus-core, and ParaLLEl RSP/RDP. It includes a GUI, netplay, automatic updater, controller configuration, and much more! It should give you the best out-of-the-box experience available for N64 gaming. There are no plugins to download.",
         "license": "GPL-3.0",
-        "platforms": [],
+        "platforms": [
+            "Nintendo 64"
+        ],
         "matches": {
             "scoop-emulators": [
                 "simple64"
