@@ -98,6 +98,9 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 ### ☑ TODO
 
+- Match up all the local Emulators with their respective Platforms
+- Check other buckets for matching emulators and compair to see if there are things ii can improve
+- Check other buckets for missing emulators and add any appropriate ones
 - Ensure utf8/foreign/etc characters are supported and getting through, such as " and '
 - Setup source exports for
   - Frontends
@@ -121,6 +124,29 @@ The mapping data will consist of IDs and names while intentionally avoiding data
     - emulation64.com
     - emulationrealm.net
     - zophar.net
+
+### Buckets to check out
+
+* [ACooper81/scoop-apps](ACooper81/scoop-apps)
+* [borger/scoop-emulators](borger/scoop-emulators)
+* [Calinou/scoop-games](Calinou/scoop-games)
+* [cc713/ownscoop](cc713/ownscoop)
+* [dschaefer/scoop-tools816](dschaefer/scoop-tools816)
+* [hermanjustnu/scoop-emulators](hermanjustnu/scoop-emulators)
+* [HUMORCE/nuke](HUMORCE/nuke)
+* [Inari-Whitebear/scoopBucket](Inari-Whitebear/scoopBucket)
+* [littleli/Scoop-AtariEmulators](littleli/Scoop-AtariEmulators)
+* [littleli/scoop-games](littleli/scoop-games)
+* [littleli/scoop-garage](littleli/scoop-garage)
+* [Notenoughusernames/bluemoon](Notenoughusernames/bluemoon)
+* [ProfElements/EmulatorBucket](ProfElements/EmulatorBucket)
+* [p8rdev/scoop-portableapps](p8rdev/scoop-portableapps)
+* [ScoopInstaller/Extras](ScoopInstaller/Extras)
+* [ScoopInstaller/Main](ScoopInstaller/Main)
+* [ScoopInstaller/Nonportable](ScoopInstaller/Nonportable)
+* [ScoopInstaller/PHP](ScoopInstaller/PHP)
+* [ScoopInstaller/Versions](ScoopInstaller/Versions)
+* [TheRandomLabs/scoop-nonportable](TheRandomLabs/scoop-nonportable)
 
 ## 🔃 Contributing
 
