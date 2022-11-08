@@ -1040,6 +1040,11 @@
             ],
             "emutopia": [
                 311
+            ],
+            "oldcomputers": [
+                84,
+                111,
+                112
             ]
         },
         "company": "Amstrad",
@@ -1449,7 +1454,9 @@
                 4942
             ],
             "oldcomputers": [
-                68
+                68,
+                69,
+                571
             ],
             "mame": [
                 "apple2_cass",
@@ -2203,7 +2210,9 @@
             ],
             "oldcomputers": [
                 460,
-                54
+                54,
+                76,
+                982
             ],
             "tosec": [
                 "Atari 8bit - Applications - [ATR]",
@@ -2579,11 +2588,13 @@
                 "ports"
             ],
             "retrobat": [
-                "ports"
+                "ports",
+                "prboom"
             ],
             "arrm": [
                 "pc",
-                "ports"
+                "ports",
+                "prboom"
             ],
             "tgdb": [
                 "1"
@@ -2614,6 +2625,12 @@
             ],
             "recalbox": [
                 "dos"
+            ],
+            "emutopia": [
+                215
+            ],
+            "emucontrolcenter": [
+                "dosbox"
             ]
         },
         "company": "Atari",
@@ -3669,7 +3686,8 @@
         "name": "Capcom Play System 1",
         "matches": {
             "emulationstation-de": [
-                "cps"
+                "cps",
+                "mess"
             ],
             "emucontrolcenter": [
                 "cps1"
@@ -3696,10 +3714,15 @@
             ],
             "emutopia": [
                 257,
-                217
+                217,
+                372,
+                230
             ],
             "launchbox": [
                 "mame"
+            ],
+            "arrm": [
+                "mess"
             ]
         },
         "company": "Capcom",
@@ -5155,6 +5178,9 @@
             ],
             "emutopia": [
                 324
+            ],
+            "oldcomputers": [
+                63
             ]
         },
         "company": "Commodore",
@@ -6038,6 +6064,9 @@
                 "vic1001_cart",
                 "vic1001_cass",
                 "vic1001_flop"
+            ],
+            "oldcomputers": [
+                1291
             ]
         },
         "company": "Commodore",
@@ -7276,7 +7305,9 @@
             ],
             "oldcomputers": [
                 835,
-                1307
+                1307,
+                1177,
+                1181
             ],
             "mame": [
                 "arcadia"
@@ -9109,7 +9140,8 @@
                 "scummvm"
             ],
             "arrm": [
-                "scummvm"
+                "scummvm",
+                "residualvm"
             ],
             "tgdb": [
                 "1"
@@ -11111,6 +11143,12 @@
             ],
             "emutopia": [
                 358
+            ],
+            "gamesdatabase": [
+                "sinclair-zx-spectrum"
+            ],
+            "bezels_project": [
+                "bezelprojectSA-ZXSpectrum"
             ]
         },
         "company": "MGT",
@@ -11297,10 +11335,14 @@
                 "Magnavox - Odyssey 2"
             ],
             "screenscraper": [
-                104
+                104,
+                261
             ],
             "oldcomputers": [
-                1080
+                1080,
+                1060,
+                1081,
+                1087
             ],
             "emucontrolcenter": [
                 "vg7000"
@@ -17086,7 +17128,9 @@
                 "32x"
             ],
             "emulationstation-de": [
-                "sega32x"
+                "sega32x",
+                "sega32xjp",
+                "sega32xna"
             ],
             "retropie": [
                 "sega32x"
@@ -17716,7 +17760,8 @@
                 35
             ],
             "oldcomputers": [
-                840
+                840,
+                806
             ],
             "mame": [
                 "sms"

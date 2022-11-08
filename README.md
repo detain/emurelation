@@ -20,41 +20,41 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](platforms/local.json) | Custom | 794 | 0 | 794 | 100% |
+| [Local](platforms/local.json) | Custom | 793 | 0 | 793 | 100% |
 | [Redump](platforms/redump.json) | DAT | 52 | 1 | 53 | 98.1% |
 | [No-Intro](platforms/nointro.json) | DAT | 271 | 19 | 290 | 93.4% |
 | [TOSEC](platforms/tosec.json) | DAT | 2427 | 1 | 2428 | 100% |
 | [TOSEC-ISO](platforms/toseciso.json) | DAT | 241 | 0 | 241 | 100% |
 | [TOSEC-PIX](platforms/tosecpix.json) | DAT | 634 | 227 | 861 | 73.6% |
 | [TheGamesDB](platforms/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
-| [ScreenScraper](platforms/screenscraper.json) | API | 160 | 65 | 225 | 71.1% |
+| [ScreenScraper](platforms/screenscraper.json) | API | 161 | 65 | 226 | 71.2% |
 | [IGDB](platforms/igdb.json) | API | 80 | 0 | 80 | 100% |
 | [HFS-DB](platforms/hfsdb.json) | API | 123 | 0 | 123 | 100% |
 | [MobyGames](platforms/mobygames.json) | API | 110 | 0 | 110 | 100% |
-| [Old-Computers](platforms/oldcomputers.json) | Website | 182 | 1104 | 1286 | 14.2% |
+| [Old-Computers](platforms/oldcomputers.json) | Website | 197 | 1089 | 1286 | 15.3% |
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [Emutopia](platforms/emutopia.json) | Website | 90 | 85 | 175 | 51.4% |
+| [Emutopia](platforms/emutopia.json) | Website | 93 | 82 | 175 | 53.1% |
 | [MAME](platforms/mame.json) | Emulator | 649 | 15 | 664 | 97.7% |
 | [LaunchBox](platforms/launchbox.json) | Frontend | 649 | 16 | 665 | 97.6% |
-| [RetroBat](platforms/retrobat.json) | Frontend | 130 | 22 | 152 | 85.5% |
-| [EmulationStation-DE](platforms/emulationstation-de.json) | Frontend | 135 | 21 | 156 | 86.5% |
+| [RetroBat](platforms/retrobat.json) | Frontend | 131 | 21 | 152 | 86.2% |
+| [EmulationStation-DE](platforms/emulationstation-de.json) | Frontend | 138 | 18 | 156 | 88.5% |
 | [RecalBox](platforms/recalbox.json) | Frontend | 98 | 28 | 126 | 77.8% |
 | [RetroPie](platforms/retropie.json) | Frontend | 76 | 6 | 82 | 92.7% |
 | [WinDSPro](platforms/windspro.json) | Frontend | 15 | 36 | 51 | 29.4% |
-| [ARRM](platforms/arrm.json) | Tools | 213 | 62 | 275 | 77.5% |
-| [emuControlCenter](platforms/emucontrolcenter.json) | Tools | 175 | 22 | 197 | 88.8% |
+| [ARRM](platforms/arrm.json) | Tools | 216 | 59 | 275 | 78.5% |
+| [emuControlCenter](platforms/emucontrolcenter.json) | Tools | 176 | 21 | 197 | 89.3% |
 
 ### 💾 Emulators
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](emulators/local.json) | Custom | 852 | 0 | 852 | 100% |
+| [Local](emulators/local.json) | Custom | 826 | 0 | 826 | 100% |
 | [ScreenScraper](emulators/screenscraper.json) | API | 3 | 0 | 3 | 100% |
 | [Old-Computers](emulators/oldcomputers.json) | Website | 149 | 317 | 466 | 32% |
-| [EmuCR](emulators/emucr.json) | Website | 346 | 1995 | 2341 | 14.8% |
+| [EmuCR](emulators/emucr.json) | Website | 339 | 2002 | 2341 | 14.5% |
 | [EmulationKing](emulators/emulationking.json) | Website | 96 | 0 | 96 | 100% |
-| [Emutopia](emulators/emutopia.json) | Website | 249 | 280 | 529 | 47.1% |
+| [Emutopia](emulators/emutopia.json) | Website | 246 | 283 | 529 | 46.5% |
 | [LaunchBox](emulators/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
 | [RetroBat](emulators/retrobat.json) | Frontend | 0 | 0 | 0 | 0% |
 | [EmulationStation-DE](emulators/emulationstation-de.json) | Frontend | 161 | 6 | 167 | 96.4% |
@@ -62,7 +62,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [RetroPie](emulators/retropie.json) | Frontend | 152 | 1 | 153 | 99.3% |
 | [WinDSPro](emulators/windspro.json) | Frontend | 82 | 9 | 91 | 90.1% |
 | [emuControlCenter](emulators/emucontrolcenter.json) | Tools | 490 | 0 | 490 | 100% |
-| [scoop-emulators](emulators/scoop-emulators.json) | Tools | 625 | 0 | 625 | 100% |
+| [scoop-emulators](emulators/scoop-emulators.json) | Tools | 612 | 12 | 624 | 98.1% |
 
 ### 🏭 Companies
 
