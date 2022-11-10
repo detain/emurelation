@@ -56,7 +56,11 @@
     "Acclaim": {
         "id": "Acclaim",
         "name": "Acclaim",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Acclaim"
+            ]
+        }
     },
     "Acetronic": {
         "id": "Acetronic",
@@ -122,7 +126,11 @@
     "Amcoe": {
         "id": "Amcoe",
         "name": "Amcoe",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Amcoe"
+            ]
+        }
     },
     "American Laser Games": {
         "id": "American Laser Games",
@@ -241,7 +249,11 @@
     "Atlus": {
         "id": "Atlus",
         "name": "Atlus",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Atlus"
+            ]
+        }
     },
     "Aussie": {
         "id": "Aussie",
@@ -313,7 +325,11 @@
     "Banpresto": {
         "id": "Banpresto",
         "name": "Banpresto",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Banpresto"
+            ]
+        }
     },
     "Benesse": {
         "id": "Benesse",
@@ -460,7 +476,11 @@
     "Century Electronics": {
         "id": "Century Electronics",
         "name": "Century Electronics",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Century Electronics"
+            ]
+        }
     },
     "Chafitz": {
         "id": "Chafitz",
@@ -475,7 +495,11 @@
     "Cinematronics": {
         "id": "Cinematronics",
         "name": "Cinematronics",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Cinematronics"
+            ]
+        }
     },
     "Coleco": {
         "id": "Coleco",
@@ -501,7 +525,11 @@
     "Comad": {
         "id": "Comad",
         "name": "Comad",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Comad"
+            ]
+        }
     },
     "Commodore": {
         "id": "Commodore",
@@ -603,7 +631,11 @@
     "Data East": {
         "id": "Data East",
         "name": "Data East",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Data East"
+            ]
+        }
     },
     "Dick Smith": {
         "id": "Dick Smith",
@@ -654,7 +686,11 @@
     "Dynax": {
         "id": "Dynax",
         "name": "Dynax",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Dynax"
+            ]
+        }
     },
     "EACA": {
         "id": "EACA",
@@ -986,7 +1022,11 @@
     "Gottlieb": {
         "id": "Gottlieb",
         "name": "Gottlieb",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Gottlieb"
+            ]
+        }
     },
     "Gould": {
         "id": "Gould",
@@ -1085,7 +1125,14 @@
     "IGS": {
         "id": "IGS",
         "name": "IGS",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "IGS"
+            ],
+            "emucontrolcenter": [
+                "IGS"
+            ]
+        }
     },
     "IMLAC Corporation": {
         "id": "IMLAC Corporation",
@@ -1159,7 +1206,11 @@
     "Irem": {
         "id": "Irem",
         "name": "Irem",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Irem"
+            ]
+        }
     },
     "Itautec": {
         "id": "Itautec",
@@ -1184,7 +1235,11 @@
     "Jaleco": {
         "id": "Jaleco",
         "name": "Jaleco",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Jaleco"
+            ]
+        }
     },
     "Juku": {
         "id": "Juku",
@@ -1215,7 +1270,11 @@
     "Kaneko": {
         "id": "Kaneko",
         "name": "Kaneko",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Kaneko"
+            ]
+        }
     },
     "Kaypro": {
         "id": "Kaypro",
@@ -1479,7 +1538,14 @@
     "Midway": {
         "id": "Midway",
         "name": "Midway",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Midway"
+            ],
+            "launchbox": [
+                "Midway"
+            ]
+        }
     },
     "MikroMikko": {
         "id": "MikroMikko",
@@ -1511,7 +1577,11 @@
     "Mitchell": {
         "id": "Mitchell",
         "name": "Mitchell",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Mitchell"
+            ]
+        }
     },
     "Mitsubishi": {
         "id": "Mitsubishi",
@@ -1581,7 +1651,11 @@
     "NMK": {
         "id": "NMK",
         "name": "NMK",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "NMK"
+            ]
+        }
     },
     "Namco": {
         "id": "Namco",
@@ -1834,7 +1908,11 @@
     "Psikyo": {
         "id": "Psikyo",
         "name": "Psikyo",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Psikyo"
+            ]
+        }
     },
     "Psion": {
         "id": "Psion",
@@ -2068,12 +2146,20 @@
     "Seibu Kaihatsu": {
         "id": "Seibu Kaihatsu",
         "name": "Seibu Kaihatsu",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Seibu Kaihatsu"
+            ]
+        }
     },
     "SemiCom": {
         "id": "SemiCom",
         "name": "SemiCom",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "SemiCom"
+            ]
+        }
     },
     "Seta": {
         "id": "Seta",
@@ -2297,7 +2383,11 @@
     "Tecmo": {
         "id": "Tecmo",
         "name": "Tecmo",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Tecmo"
+            ]
+        }
     },
     "Tektronix": {
         "id": "Tektronix",
@@ -2417,7 +2507,11 @@
     "Toaplan": {
         "id": "Toaplan",
         "name": "Toaplan",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Toaplan"
+            ]
+        }
     },
     "Tomy": {
         "id": "Tomy",
@@ -2571,7 +2665,11 @@
     "Visco": {
         "id": "Visco",
         "name": "Visco",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Visco"
+            ]
+        }
     },
     "Voltmace": {
         "id": "Voltmace",
@@ -2673,7 +2771,14 @@
     "Zen Studios": {
         "id": "Zen Studios",
         "name": "Zen Studios",
-        "matches": []
+        "matches": {
+            "screenscraper": [
+                "Zen Studios"
+            ],
+            "arrm": [
+                "Zen Studios"
+            ]
+        }
     },
     "Zilog": {
         "id": "Zilog",
