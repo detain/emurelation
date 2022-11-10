@@ -1,9 +1,17 @@
 {
-     "hyperspin": {
-		"id": "hyperspin",
-		"shortName": "hyperspin",
-		"name": "HyperSpin"
-	},
+    "hyperspin": {
+        "id": "hyperspin",
+        "shortName": "hyperspin",
+        "name": "HyperSpin",
+        "matches": {
+            "screenscraper": [
+                "hyperspin"
+            ],
+            "emucr": [
+                "hyperspin"
+            ]
+        }
+    },
     "3dmoo": {
         "id": "3dmoo",
         "shortName": "3dmoo",
