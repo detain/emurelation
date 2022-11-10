@@ -34,7 +34,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [Old-Computers](platforms/oldcomputers.json) | Website | 201 | 1085 | 1286 | 15.6% |
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [Emutopia](platforms/emutopia.json) | Website | 120 | 55 | 175 | 68.6% |
+| [Emutopia](platforms/emutopia.json) | Website | 132 | 43 | 175 | 75.4% |
 | [MAME](platforms/mame.json) | Emulator | 649 | 15 | 664 | 97.7% |
 | [LaunchBox](platforms/launchbox.json) | Frontend | 649 | 16 | 665 | 97.6% |
 | [RetroBat](platforms/retrobat.json) | Frontend | 139 | 13 | 152 | 91.4% |

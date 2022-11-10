@@ -10595,7 +10595,11 @@
         "id": "Hewlett-Packard HP-14B",
         "name": "HP-14B",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                373
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-14B"
         ]
@@ -10604,7 +10608,11 @@
         "id": "Hewlett-Packard HP-15C",
         "name": "HP-15C",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                241
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-15C"
         ]
@@ -10613,7 +10621,11 @@
         "id": "Hewlett-Packard HP-17B",
         "name": "HP-17B",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                374
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-17B"
         ]
@@ -10622,7 +10634,11 @@
         "id": "Hewlett-Packard HP-18C",
         "name": "HP-18C",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                242
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-18C"
         ]
@@ -10631,7 +10647,11 @@
         "id": "Hewlett-Packard HP-19B",
         "name": "HP-19B",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                377
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-19B"
         ]
@@ -10640,7 +10660,11 @@
         "id": "Hewlett-Packard HP-27S",
         "name": "HP-27S",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                375
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-27S"
         ]
@@ -10649,7 +10673,11 @@
         "id": "Hewlett-Packard HP-28C",
         "name": "HP-28C",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                243
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-28C"
         ]
@@ -10658,7 +10686,11 @@
         "id": "Hewlett-Packard HP-28S",
         "name": "HP-28S",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                378
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-28S"
         ]
@@ -10667,7 +10699,11 @@
         "id": "Hewlett-Packard HP-32S",
         "name": "HP-32S",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                376
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-32S"
         ]
@@ -10676,7 +10712,11 @@
         "id": "Hewlett-Packard HP-42S",
         "name": "HP-42S",
         "company": "Hewlett-Packard",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                244
+            ]
+        },
         "altNames": [
             "Hewlett-Packard HP-42S"
         ]
@@ -22698,7 +22738,11 @@
         "id": "Texas Instruments TI-59",
         "name": "TI-59",
         "company": "Texas Instruments",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                246
+            ]
+        },
         "altNames": [
             "Texas Instruments TI-59"
         ]
@@ -22829,7 +22873,11 @@
         "id": "Texas Instruments TI-84",
         "name": "TI-84",
         "company": "Texas Instruments",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                249
+            ]
+        },
         "altNames": [
             "Texas Instruments TI-84"
         ]
