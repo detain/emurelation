@@ -6062,6 +6062,9 @@
             "emucontrolcenter": [
                 "c16plus4"
             ],
+              "emutopia": [
+                  325
+              ],
             "mame": [
                 "plus4_cass",
                 "plus4_cart",
@@ -7136,7 +7139,7 @@
             ]
         }
     },
-    "EACA EG2000 Colour Genie": {
+    "EG2000 Colour Genie": {
         "id": "EACA EG2000 Colour Genie",
         "name": "EG2000 Colour Genie",
         "matches": {
@@ -7145,6 +7148,9 @@
                 "cgenie_cass",
                 "cgenie_flop_rom"
             ],
+              "emutopia": [
+                  332
+              ],
             "tosec": [
                 "EACA EG2000 Colour Genie - Applications",
                 "EACA EG2000 Colour Genie - Compilations - Applications - [CAS]",
@@ -10132,6 +10138,9 @@
         "name": "Basic Master Jr.",
         "company": "Hitachi",
         "matches": {
+            "emutopia": [
+                338
+            ],
             "tosec": [
                 "Hitachi Basic Master Jr. - Games - [BIN]",
                 "Hitachi Basic Master Jr. - Games - [WAV]"
@@ -13740,6 +13749,9 @@
                 "pce",
                 "pce_tourvision"
             ],
+              "emutopia": [
+                  285
+              ],
             "emucontrolcenter": [
                 "pce"
             ],
@@ -13792,6 +13804,9 @@
         "id": "NEC PC-Engine & TurboGrafx-16",
         "name": "PC-Engine & TurboGrafx-16",
         "matches": {
+              "emutopia": [
+                  285
+              ],
             "tosec": [
                 "NEC PC-Engine & TurboGrafx-16 - Applications",
                 "NEC PC-Engine & TurboGrafx-16 - Compilations",
@@ -14005,6 +14020,9 @@
         "id": "NEC Turbografx 16",
         "name": "Turbografx 16",
         "matches": {
+              "emutopia": [
+                  285
+              ],
             "mame": [
                 "tg16"
             ],
@@ -14802,8 +14820,11 @@
         "matches": {
             "launchbox": [
                 "Nintendo Game Boy",
-                "gameboy"
+                ""
             ],
+              "emutopia": [
+                  261
+              ],
             "nointro": [
                 "Nintendo - Game Boy"
             ],
@@ -14973,6 +14994,9 @@
                 "Nintendo Game Boy Color - Games",
                 "Nintendo Game Boy Color - Homebrew - Games"
             ],
+              "emutopia": [
+                  261
+              ],
             "tgdb": [
                 41
             ],
