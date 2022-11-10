@@ -20,7 +20,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](platforms/local.json) | Custom | 858 | 0 | 858 | 100% |
+| [Local](platforms/local.json) | Custom | 881 | 0 | 881 | 100% |
 | [Redump](platforms/redump.json) | DAT | 52 | 1 | 53 | 98.1% |
 | [No-Intro](platforms/nointro.json) | DAT | 271 | 19 | 290 | 93.4% |
 | [TOSEC](platforms/tosec.json) | DAT | 2427 | 1 | 2428 | 100% |
@@ -29,21 +29,21 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [TheGamesDB](platforms/tgdb.json) | API | 139 | 8 | 147 | 94.6% |
 | [ScreenScraper](platforms/screenscraper.json) | API | 226 | 0 | 226 | 100% |
 | [IGDB](platforms/igdb.json) | API | 80 | 0 | 80 | 100% |
-| [HFS-DB](platforms/hfsdb.json) | API | 123 | 0 | 123 | 100% |
-| [MobyGames](platforms/mobygames.json) | API | 110 | 0 | 110 | 100% |
-| [Old-Computers](platforms/oldcomputers.json) | Website | 199 | 1087 | 1286 | 15.5% |
+| [HFS-DB](platforms/hfsdb.json) | API | 124 | 0 | 124 | 100% |
+| [MobyGames](platforms/mobygames.json) | API | 111 | 0 | 111 | 100% |
+| [Old-Computers](platforms/oldcomputers.json) | Website | 201 | 1085 | 1286 | 15.6% |
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [Emutopia](platforms/emutopia.json) | Website | 93 | 82 | 175 | 53.1% |
+| [Emutopia](platforms/emutopia.json) | Website | 120 | 55 | 175 | 68.6% |
 | [MAME](platforms/mame.json) | Emulator | 649 | 15 | 664 | 97.7% |
 | [LaunchBox](platforms/launchbox.json) | Frontend | 649 | 16 | 665 | 97.6% |
 | [RetroBat](platforms/retrobat.json) | Frontend | 139 | 13 | 152 | 91.4% |
-| [EmulationStation-DE](platforms/emulationstation-de.json) | Frontend | 142 | 14 | 156 | 91% |
+| [EmulationStation-DE](platforms/emulationstation-de.json) | Frontend | 144 | 12 | 156 | 92.3% |
 | [RecalBox](platforms/recalbox.json) | Frontend | 105 | 21 | 126 | 83.3% |
 | [RetroPie](platforms/retropie.json) | Frontend | 80 | 2 | 82 | 97.6% |
 | [WinDSPro](platforms/windspro.json) | Frontend | 15 | 36 | 51 | 29.4% |
-| [ARRM](platforms/arrm.json) | Tools | 223 | 52 | 275 | 81.1% |
-| [emuControlCenter](platforms/emucontrolcenter.json) | Tools | 176 | 21 | 197 | 89.3% |
+| [ARRM](platforms/arrm.json) | Tools | 224 | 51 | 275 | 81.5% |
+| [emuControlCenter](platforms/emucontrolcenter.json) | Tools | 177 | 20 | 197 | 89.8% |
 
 ### 💾 Emulators
 

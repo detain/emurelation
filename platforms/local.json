@@ -267,6 +267,18 @@
         "matches": {
             "screenscraper": [
                 166
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -948,6 +960,18 @@
         "matches": {
             "screenscraper": [
                 178
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -958,6 +982,18 @@
         "matches": {
             "screenscraper": [
                 170
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -2366,6 +2402,18 @@
         "matches": {
             "screenscraper": [
                 160
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -2933,6 +2981,18 @@
         "matches": {
             "screenscraper": [
                 185
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -3423,6 +3483,18 @@
         "matches": {
             "screenscraper": [
                 186
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -3786,6 +3858,18 @@
         "matches": {
             "screenscraper": [
                 151
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -4125,6 +4209,18 @@
         "matches": {
             "screenscraper": [
                 179
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -4167,6 +4263,18 @@
         "matches": {
             "screenscraper": [
                 192
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -4404,6 +4512,18 @@
         "matches": {
             "screenscraper": [
                 177
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -6062,9 +6182,9 @@
             "emucontrolcenter": [
                 "c16plus4"
             ],
-              "emutopia": [
-                  325
-              ],
+            "emutopia": [
+                326
+            ],
             "mame": [
                 "plus4_cass",
                 "plus4_cart",
@@ -6141,9 +6261,6 @@
             ],
             "attractmode": [
                 "Commodore 16 & Plus4"
-            ],
-            "emutopia": [
-                326
             ]
         },
         "company": "Commodore",
@@ -6791,6 +6908,18 @@
         "matches": {
             "screenscraper": [
                 162
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -7136,8 +7265,36 @@
         "matches": {
             "screenscraper": [
                 173
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
+    },
+    "EC 1841": {
+        "id": "EC 1841",
+        "name": "1841",
+        "matches": {
+            "mame": [
+                "ec1841"
+            ],
+            "launchbox": [
+                "ec1841"
+            ]
+        },
+        "company": "EC",
+        "altNames": [
+            "EC 1841"
+        ]
     },
     "EG2000 Colour Genie": {
         "id": "EACA EG2000 Colour Genie",
@@ -7148,9 +7305,9 @@
                 "cgenie_cass",
                 "cgenie_flop_rom"
             ],
-              "emutopia": [
-                  332
-              ],
+            "emutopia": [
+                332
+            ],
             "tosec": [
                 "EACA EG2000 Colour Genie - Applications",
                 "EACA EG2000 Colour Genie - Compilations - Applications - [CAS]",
@@ -7190,22 +7347,6 @@
         "altNames": [
             "EACA EG2000 Colour Genie",
             "EACA Colour Genie EG2000"
-        ]
-    },
-    "EC 1841": {
-        "id": "EC 1841",
-        "name": "1841",
-        "matches": {
-            "mame": [
-                "ec1841"
-            ],
-            "launchbox": [
-                "ec1841"
-            ]
-        },
-        "company": "EC",
-        "altNames": [
-            "EC 1841"
         ]
     },
     "EPSON PX-4": {
@@ -7377,7 +7518,7 @@
                 "Elektronika BK-0010-0011M - Operating Systems"
             ],
             "emutopia": [
-              333
+                333
             ],
             "mame": [
                 "bk0010"
@@ -7398,9 +7539,9 @@
             "tosec": [
                 "Elektronika BK-0011-411 - Games"
             ],
-              "emutopia": [
-                  277
-              ],
+            "emutopia": [
+                277
+            ],
             "launchbox": [
                 "Elektronika BK"
             ]
@@ -7911,9 +8052,9 @@
                 "Exelvision EXL 100",
                 "exl100"
             ],
-              "emutopia": [
-                  335
-              ],
+            "emutopia": [
+                335
+            ],
             "oldcomputers": [
                 123
             ],
@@ -7963,9 +8104,9 @@
                 "Exelvision Exeltel - Games - [BKP]",
                 "Exelvision Exeltel - Games - [CRAM]"
             ],
-              "emutopia": [
-                  335
-              ],
+            "emutopia": [
+                335
+            ],
             "oldcomputers": [
                 521
             ]
@@ -8283,9 +8424,9 @@
                 "Fujitsu FM Towns - Operating Systems - [BIN]",
                 "Fujitsu FM Towns - Operating Systems - [HDM]"
             ],
-              "emutopia": [
-                  279
-              ],
+            "emutopia": [
+                279
+            ],
             "oldcomputers": [
                 968
             ],
@@ -8751,6 +8892,18 @@
         "matches": {
             "screenscraper": [
                 182
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -8896,6 +9049,31 @@
             ],
             "retrobat": [
                 "cave"
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
+            ]
+        }
+    },
+    "Generic Compukit UK-101": {
+        "id": "Generic Compukit UK-101",
+        "name": "Compukit UK-101",
+        "company": "Generic",
+        "matches": {
+            "oldcomputers": [
+                802
+            ],
+            "emutopia": [
+                328
             ]
         }
     },
@@ -8909,6 +9087,12 @@
             ],
             "oldcomputers": [
                 1244
+            ],
+            "retropie": [
+                "pcengine"
+            ],
+            "recalbox": [
+                "pcengine"
             ]
         }
     },
@@ -8927,13 +9111,39 @@
                 "daphne"
             ],
             "recalbox": [
-                "daphne"
+                "daphne",
+                "mame",
+                "fba"
             ],
             "retropie": [
-                "daphne"
+                "daphne",
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
             ],
             "arrm": [
                 "daphne"
+            ],
+            "tgdb": [
+                "23"
+            ],
+            "mobygames": [
+                "arcade"
+            ],
+            "igdb": [
+                "52"
+            ],
+            "gamesdatabase": [
+                "laserdisc"
+            ],
+            "bezels_project": [
+                "bezelproject-Daphne"
+            ],
+            "emucontrolcenter": [
+                "ld"
             ]
         }
     },
@@ -8956,6 +9166,12 @@
             ],
             "arrm": [
                 "easyrpg"
+            ],
+            "mobygames": [
+                "MS-DOS"
+            ],
+            "hfsdb": [
+                "82805"
             ]
         }
     },
@@ -8966,6 +9182,18 @@
         "matches": {
             "screenscraper": [
                 152
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9013,6 +9241,18 @@
         "matches": {
             "screenscraper": [
                 193
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9048,6 +9288,16 @@
             "Generic Jazz"
         ]
     },
+    "Generic Ju-Te-Computer": {
+        "id": "Generic Ju-Te-Computer",
+        "name": "Ju-Te-Computer",
+        "company": "Generic",
+        "matches": {
+            "emutopia": [
+                340
+            ]
+        }
+    },
     "Generic Korvet": {
         "id": "Generic Korvet",
         "name": "Korvet",
@@ -9063,6 +9313,19 @@
         "altNames": [
             "Generic Korvet"
         ]
+    },
+    "Generic LEMZ Agat": {
+        "id": "Generic LEMZ Agat",
+        "name": "LEMZ Agat",
+        "company": "Generic",
+        "matches": {
+            "oldcomputers": [
+                509
+            ],
+            "emutopia": [
+                342
+            ]
+        }
     },
     "Generic Linux": {
         "id": "Generic Linux",
@@ -9121,6 +9384,12 @@
             ],
             "arrm": [
                 "lutro"
+            ],
+            "tgdb": [
+                "1"
+            ],
+            "gamesdatabase": [
+                "1"
             ]
         }
     },
@@ -9290,6 +9559,48 @@
             "Generic PC"
         ]
     },
+    "Generic PC Intel 8008 - 8080": {
+        "id": "Generic PC Intel 8008 - 8080",
+        "name": "PC Intel 8008 - 8080",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic PC Motorola 68000": {
+        "id": "Generic PC Motorola 68000",
+        "name": "PC Motorola 68000",
+        "company": "Generic",
+        "matches": {
+            "emutopia": [
+                403
+            ]
+        }
+    },
+    "Generic PC PPC": {
+        "id": "Generic PC PPC",
+        "name": "PC PPC",
+        "company": "Generic",
+        "matches": {
+            "emutopia": [
+                351
+            ]
+        }
+    },
+    "Generic PC SPARC": {
+        "id": "Generic PC SPARC",
+        "name": "PC SPARC",
+        "company": "Generic",
+        "matches": {
+            "emutopia": [
+                352
+            ]
+        }
+    },
+    "Generic PC x86 - x86-64": {
+        "id": "Generic PC x86 - x86-64",
+        "name": "PC x86 - x86-64",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic PHC-25": {
         "id": "Generic PHC-25",
         "name": "PHC-25",
@@ -9384,6 +9695,12 @@
             ],
             "retropie": [
                 "pico8"
+            ],
+            "emulationstation-de": [
+                "pico8"
+            ],
+            "arrm": [
+                "pico8"
             ]
         }
     },
@@ -9416,6 +9733,18 @@
         "matches": {
             "screenscraper": [
                 184
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9490,6 +9819,18 @@
         "matches": {
             "screenscraper": [
                 164
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9553,6 +9894,18 @@
         "matches": {
             "screenscraper": [
                 149
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9578,6 +9931,9 @@
             ],
             "arrm": [
                 "solarus"
+            ],
+            "hfsdb": [
+                "82805"
             ]
         }
     },
@@ -9635,6 +9991,9 @@
             ],
             "arrm": [
                 "tic80"
+            ],
+            "emulationstation-de": [
+                "tic80"
             ]
         }
     },
@@ -9645,6 +10004,18 @@
         "matches": {
             "screenscraper": [
                 169
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9671,6 +10042,18 @@
         "matches": {
             "screenscraper": [
                 188
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9681,6 +10064,18 @@
         "matches": {
             "screenscraper": [
                 175
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9707,6 +10102,18 @@
         "matches": {
             "screenscraper": [
                 168
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -9746,6 +10153,18 @@
         "matches": {
             "screenscraper": [
                 209
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -10024,6 +10443,66 @@
         "altNames": [
             "Hewlett-Packard HP Integral PC"
         ]
+    },
+    "Hewlett-Packard HP-14B": {
+        "id": "Hewlett-Packard HP-14B",
+        "name": "HP-14B",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-15C": {
+        "id": "Hewlett-Packard HP-15C",
+        "name": "HP-15C",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-17B": {
+        "id": "Hewlett-Packard HP-17B",
+        "name": "HP-17B",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-18C": {
+        "id": "Hewlett-Packard HP-18C",
+        "name": "HP-18C",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-19B": {
+        "id": "Hewlett-Packard HP-19B",
+        "name": "HP-19B",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-27S": {
+        "id": "Hewlett-Packard HP-27S",
+        "name": "HP-27S",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-28C": {
+        "id": "Hewlett-Packard HP-28C",
+        "name": "HP-28C",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-28S": {
+        "id": "Hewlett-Packard HP-28S",
+        "name": "HP-28S",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-32S": {
+        "id": "Hewlett-Packard HP-32S",
+        "name": "HP-32S",
+        "company": "Hewlett-Packard",
+        "matches": []
+    },
+    "Hewlett-Packard HP-42S": {
+        "id": "Hewlett-Packard HP-42S",
+        "name": "HP-42S",
+        "company": "Hewlett-Packard",
+        "matches": []
     },
     "Hewlett-Packard HP-86/7": {
         "id": "Hewlett-Packard HP-86/7",
@@ -10563,6 +11042,18 @@
         "matches": {
             "screenscraper": [
                 176
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -10761,6 +11252,18 @@
         "matches": {
             "screenscraper": [
                 148
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -10934,6 +11437,18 @@
         "matches": {
             "screenscraper": [
                 159
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -11040,6 +11555,18 @@
         "matches": {
             "screenscraper": [
                 174
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -11140,6 +11667,18 @@
         "matches": {
             "screenscraper": [
                 158
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -13076,6 +13615,18 @@
         "matches": {
             "screenscraper": [
                 150
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -13179,6 +13730,18 @@
         "matches": {
             "screenscraper": [
                 189
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -13749,9 +14312,9 @@
                 "pce",
                 "pce_tourvision"
             ],
-              "emutopia": [
-                  285
-              ],
+            "emutopia": [
+                285
+            ],
             "emucontrolcenter": [
                 "pce"
             ],
@@ -13804,9 +14367,9 @@
         "id": "NEC PC-Engine & TurboGrafx-16",
         "name": "PC-Engine & TurboGrafx-16",
         "matches": {
-              "emutopia": [
-                  285
-              ],
+            "emutopia": [
+                285
+            ],
             "tosec": [
                 "NEC PC-Engine & TurboGrafx-16 - Applications",
                 "NEC PC-Engine & TurboGrafx-16 - Compilations",
@@ -13960,6 +14523,12 @@
             "NEC PC-FXGA"
         ]
     },
+    "NEC TK-80 - TK-85": {
+        "id": "NEC TK-80 - TK-85",
+        "name": "TK-80 - TK-85",
+        "company": "NEC",
+        "matches": []
+    },
     "NEC TurboGrafx-CD": {
         "id": "NEC TurboGrafx-CD",
         "name": "TurboGrafx-CD",
@@ -14020,9 +14589,9 @@
         "id": "NEC Turbografx 16",
         "name": "Turbografx 16",
         "matches": {
-              "emutopia": [
-                  285
-              ],
+            "emutopia": [
+                285
+            ],
             "mame": [
                 "tg16"
             ],
@@ -14071,6 +14640,18 @@
         "matches": {
             "screenscraper": [
                 163
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -14081,6 +14662,18 @@
         "matches": {
             "screenscraper": [
                 155
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -14216,6 +14809,18 @@
         "matches": {
             "screenscraper": [
                 180
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -14820,11 +15425,12 @@
         "matches": {
             "launchbox": [
                 "Nintendo Game Boy",
-                ""
+                "",
+                "gameboy"
             ],
-              "emutopia": [
-                  261
-              ],
+            "emutopia": [
+                261
+            ],
             "nointro": [
                 "Nintendo - Game Boy"
             ],
@@ -14994,9 +15600,9 @@
                 "Nintendo Game Boy Color - Games",
                 "Nintendo Game Boy Color - Homebrew - Games"
             ],
-              "emutopia": [
-                  261
-              ],
+            "emutopia": [
+                261
+            ],
             "tgdb": [
                 41
             ],
@@ -15166,6 +15772,18 @@
         "matches": {
             "screenscraper": [
                 161
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -15306,6 +15924,12 @@
         "matches": {
             "screenscraper": [
                 202
+            ],
+            "retropie": [
+                "snes"
+            ],
+            "recalbox": [
+                "snes"
             ]
         }
     },
@@ -15394,6 +16018,9 @@
         "matches": {
             "screenscraper": [
                 128
+            ],
+            "recalbox": [
+                "gb"
             ]
         }
     },
@@ -16586,6 +17213,18 @@
         "matches": {
             "screenscraper": [
                 167
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -17159,6 +17798,18 @@
         "matches": {
             "screenscraper": [
                 196
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -17169,6 +17820,18 @@
         "matches": {
             "screenscraper": [
                 195
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -17179,6 +17842,18 @@
         "matches": {
             "screenscraper": [
                 147
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -17556,6 +18231,18 @@
         "matches": {
             "screenscraper": [
                 154
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -18337,9 +19024,9 @@
             "emucontrolcenter": [
                 "gen"
             ],
-              "emutopia": [
-                  296
-              ],
+            "emutopia": [
+                296
+            ],
             "launchbox": [
                 "Sega Genesis",
                 "megadriv"
@@ -18585,9 +19272,9 @@
             "tgdb": [
                 36
             ],
-              "emutopia": [
-                  296
-              ],
+            "emutopia": [
+                296
+            ],
             "oldcomputers": [
                 1247
             ],
@@ -18959,9 +19646,9 @@
             "launchbox": [
                 "Sega SC-3000"
             ],
-              "emutopia": [
-                  298
-              ],
+            "emutopia": [
+                298
+            ],
             "emucontrolcenter": [
                 "sc3000"
             ]
@@ -18979,9 +19666,9 @@
                 "Sega SG-1000",
                 "sg1000"
             ],
-              "emutopia": [
-                  298
-              ],
+            "emutopia": [
+                298
+            ],
             "nointro": [
                 "Sega - SG-1000"
             ],
@@ -19304,6 +19991,18 @@
         "matches": {
             "screenscraper": [
                 190
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -19314,6 +20013,18 @@
         "matches": {
             "screenscraper": [
                 187
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -19413,9 +20124,9 @@
                 "Sharp MZ-700 - Games - [MZT]",
                 "Sharp MZ-700 - Games - [WAV]"
             ],
-              "emutopia": [
-                  414
-              ],
+            "emutopia": [
+                414
+            ],
             "mame": [
                 "mz700_cass"
             ],
@@ -19438,9 +20149,9 @@
             "mame": [
                 "mz800_cass"
             ],
-              "emutopia": [
-                  414
-              ],
+            "emutopia": [
+                414
+            ],
             "tosec": [
                 "Sharp MZ-800 & MZ-1500 - Applications",
                 "Sharp MZ-800 & MZ-1500 - Firmware",
@@ -20813,6 +21524,18 @@
         "matches": {
             "screenscraper": [
                 157
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -21392,6 +22115,18 @@
         "matches": {
             "screenscraper": [
                 153
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -21668,6 +22403,12 @@
             "Texas Instruments Speak & Spell"
         ]
     },
+    "Texas Instruments TI-59": {
+        "id": "Texas Instruments TI-59",
+        "name": "TI-59",
+        "company": "Texas Instruments",
+        "matches": []
+    },
     "Texas Instruments TI-73": {
         "id": "Texas Instruments TI-73",
         "name": "TI-73",
@@ -21789,6 +22530,12 @@
         "altNames": [
             "Texas Instruments TI-83"
         ]
+    },
+    "Texas Instruments TI-84": {
+        "id": "Texas Instruments TI-84",
+        "name": "TI-84",
+        "company": "Texas Instruments",
+        "matches": []
     },
     "Texas Instruments TI-85": {
         "id": "Texas Instruments TI-85",
@@ -21968,9 +22715,9 @@
             "recalbox": [
                 "thomson"
             ],
-              "emutopia": [
-                  366
-              ],
+            "emutopia": [
+                366
+            ],
             "tosec": [
                 "Thomson MO5 - Applications - [FD]",
                 "Thomson MO5 - Applications - [K7]",
@@ -22037,9 +22784,9 @@
             "tosec": [
                 "Thomson MO6 - Games"
             ],
-              "emutopia": [
-                  366
-              ],
+            "emutopia": [
+                366
+            ],
             "mame": [
                 "mo6_cass",
                 "mo6_flop"
@@ -22080,9 +22827,9 @@
         "id": "Thomson TO7",
         "name": "TO7",
         "matches": {
-              "emutopia": [
-                  367
-              ],
+            "emutopia": [
+                367
+            ],
             "tosec": [
                 "Thomson TO7 - Applications - [K7]",
                 "Thomson TO7 - Applications - [M7]",
@@ -22146,9 +22893,9 @@
         "id": "Thomson TO8",
         "name": "TO8",
         "matches": {
-              "emutopia": [
-                  367
-              ],
+            "emutopia": [
+                367
+            ],
             "mame": [
                 "to8_qd",
                 "to8_cass"
@@ -22186,9 +22933,9 @@
         "id": "Thomson TO8, TO8D, TO9, TO9+",
         "name": "TO8, TO8D, TO9, TO9+",
         "matches": {
-              "emutopia": [
-                  367
-              ],
+            "emutopia": [
+                367
+            ],
             "tosec": [
                 "Thomson TO8, TO8D, TO9, TO9+ - Applications - [FD]",
                 "Thomson TO8, TO8D, TO9, TO9+ - Applications - [K7]",
@@ -22432,6 +23179,18 @@
         "matches": {
             "screenscraper": [
                 191
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -22892,9 +23651,9 @@
             "redump": [
                 "VM Labs - NUON"
             ],
-              "emutopia": [
-                  302
-              ],
+            "emutopia": [
+                302
+            ],
             "launchbox": [
                 "Nuon",
                 "nuon"
@@ -23571,6 +24330,18 @@
         "matches": {
             "screenscraper": [
                 181
+            ],
+            "retropie": [
+                "arcade",
+                "fba",
+                "mame-advmame",
+                "mame-libretro",
+                "mame-mame4all",
+                "mame"
+            ],
+            "recalbox": [
+                "mame",
+                "fba"
             ]
         }
     },
@@ -23796,9 +24567,9 @@
             "launchbox": [
                 "WoW Action Max"
             ],
-              "emutopia": [
-                  303
-              ],
+            "emutopia": [
+                303
+            ],
             "tgdb": [
                 4976
             ],
@@ -24032,6 +24803,9 @@
             ],
             "arrm": [
                 "pinballfx3"
+            ],
+            "hfsdb": [
+                "158691"
             ]
         }
     },
