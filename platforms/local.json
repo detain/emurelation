@@ -280,7 +280,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Acclaim Acclaim"
+        ]
     },
     "Acetronic MPU-1000": {
         "id": "Acetronic MPU-1000",
@@ -973,7 +976,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Amcoe Amcoe"
+        ]
     },
     "American Laser Games American Laser Games": {
         "id": "American Laser Games American Laser Games",
@@ -995,7 +1001,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "American Laser Games American Laser Games"
+        ]
     },
     "American Laser Games CD-ROM System": {
         "id": "American Laser Games CD-ROM System",
@@ -2089,7 +2098,10 @@
         "id": "Atari 400",
         "name": "400",
         "company": "Atari",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Atari 400"
+        ]
     },
     "Atari 5200": {
         "id": "Atari 5200",
@@ -2393,7 +2405,10 @@
             "screenscraper": [
                 39
             ]
-        }
+        },
+        "altNames": [
+            "Atari Atari 2600 Supercharger"
+        ]
     },
     "Atari Atari Classics": {
         "id": "Atari Atari Classics",
@@ -2415,7 +2430,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Atari Atari Classics"
+        ]
     },
     "Atari Falcon030": {
         "id": "Atari Falcon030",
@@ -2972,7 +2990,10 @@
         "id": "Atari XL",
         "name": "XL",
         "company": "Atari",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Atari XL"
+        ]
     },
     "Atlus Atlus": {
         "id": "Atlus Atlus",
@@ -2994,7 +3015,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Atlus Atlus"
+        ]
     },
     "Aussie Byte II": {
         "id": "Aussie Byte II",
@@ -3496,7 +3520,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Banpresto Banpresto"
+        ]
     },
     "Benesse Pocket Challenge V2": {
         "id": "Benesse Pocket Challenge V2",
@@ -3871,7 +3898,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Capcom Capcom Classics"
+        ]
     },
     "Capcom Capcom Play System 1": {
         "id": "Capcom Capcom Play System 1",
@@ -4011,7 +4041,8 @@
         },
         "company": "Casio",
         "altNames": [
-            "Casio"
+            "Casio",
+            "Casio Casio"
         ]
     },
     "Casio CFX-9850": {
@@ -4222,7 +4253,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Century Electronics Century Electronics"
+        ]
     },
     "Chafitz GGM Great Game Machine": {
         "id": "Chafitz GGM Great Game Machine",
@@ -4276,7 +4310,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Cinematronics Cinematronics"
+        ]
     },
     "Coleco ColecoVision": {
         "id": "Coleco ColecoVision",
@@ -4525,7 +4562,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Comad Comad"
+        ]
     },
     "Commodore 128": {
         "id": "Commodore 128",
@@ -5686,7 +5726,8 @@
         },
         "company": "Commodore",
         "altNames": [
-            "Commodore Amiga 500+"
+            "Commodore Amiga 500+",
+            "Commodore Amiga 500"
         ]
     },
     "Commodore Amiga 600": {
@@ -6921,7 +6962,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Data East Data East Classics"
+        ]
     },
     "Dick Smith Super-80": {
         "id": "Dick Smith Super-80",
@@ -7278,7 +7322,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Dynax Dynax"
+        ]
     },
     "EC 1841": {
         "id": "EC 1841",
@@ -7376,7 +7423,10 @@
             "launchbox": [
                 "eti660_quik"
             ]
-        }
+        },
+        "altNames": [
+            "Generic ETI-660"
+        ]
     },
     "ETL Mark II": {
         "id": "ETL Mark II",
@@ -8704,7 +8754,10 @@
             "emutopia": [
                 237
             ]
-        }
+        },
+        "altNames": [
+            "Generic Future Pinball"
+        ]
     },
     "GCE Vectrex": {
         "id": "GCE Vectrex",
@@ -8817,7 +8870,8 @@
         },
         "company": "Galaksija",
         "altNames": [
-            "Galaksija"
+            "Galaksija",
+            "Galaksija Galaksija"
         ]
     },
     "Galaksija Plus": {
@@ -8905,7 +8959,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Alpha Denshi Co."
+        ]
     },
     "Generic Android": {
         "id": "Generic Android",
@@ -9062,7 +9119,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Cave"
+        ]
     },
     "Generic Compukit UK-101": {
         "id": "Generic Compukit UK-101",
@@ -9075,7 +9135,10 @@
             "emutopia": [
                 328
             ]
-        }
+        },
+        "altNames": [
+            "Generic Compukit UK-101"
+        ]
     },
     "Generic CoreGrafX": {
         "id": "Generic CoreGrafX",
@@ -9094,7 +9157,10 @@
             "recalbox": [
                 "pcengine"
             ]
-        }
+        },
+        "altNames": [
+            "Generic CoreGrafX"
+        ]
     },
     "Generic Daphne": {
         "id": "Generic Daphne",
@@ -9145,7 +9211,10 @@
             "emucontrolcenter": [
                 "ld"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Daphne"
+        ]
     },
     "Generic EasyRPG": {
         "id": "Generic EasyRPG",
@@ -9173,7 +9242,10 @@
             "hfsdb": [
                 "82805"
             ]
-        }
+        },
+        "altNames": [
+            "Generic EasyRPG"
+        ]
     },
     "Generic Eighting / Raizing": {
         "id": "Generic Eighting / Raizing",
@@ -9195,7 +9267,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Eighting / Raizing"
+        ]
     },
     "Generic Hybrid Music System": {
         "id": "Generic Hybrid Music System",
@@ -9254,7 +9329,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Incredible Technologies"
+        ]
     },
     "Generic Intellect-02": {
         "id": "Generic Intellect-02",
@@ -9296,7 +9374,10 @@
             "emutopia": [
                 340
             ]
-        }
+        },
+        "altNames": [
+            "Generic Ju-Te-Computer"
+        ]
     },
     "Generic Korvet": {
         "id": "Generic Korvet",
@@ -9325,7 +9406,10 @@
             "emutopia": [
                 342
             ]
-        }
+        },
+        "altNames": [
+            "Generic LEMZ Agat"
+        ]
     },
     "Generic Linux": {
         "id": "Generic Linux",
@@ -9363,7 +9447,10 @@
             "arrm": [
                 "lowresnx"
             ]
-        }
+        },
+        "altNames": [
+            "Generic LowRes NX"
+        ]
     },
     "Generic Lutro": {
         "id": "Generic Lutro",
@@ -9391,7 +9478,10 @@
             "gamesdatabase": [
                 "1"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Lutro"
+        ]
     },
     "Generic NeXT": {
         "id": "Generic NeXT",
@@ -9419,7 +9509,10 @@
             "screenscraper": [
                 110
             ]
-        }
+        },
+        "altNames": [
+            "Generic Nintendo Power"
+        ]
     },
     "Generic OpenBOR": {
         "id": "Generic OpenBOR",
@@ -9563,7 +9656,10 @@
         "id": "Generic PC Intel 8008 - 8080",
         "name": "PC Intel 8008 - 8080",
         "company": "Generic",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Generic PC Intel 8008 - 8080"
+        ]
     },
     "Generic PC Motorola 68000": {
         "id": "Generic PC Motorola 68000",
@@ -9573,7 +9669,10 @@
             "emutopia": [
                 403
             ]
-        }
+        },
+        "altNames": [
+            "Generic PC Motorola 68000"
+        ]
     },
     "Generic PC PPC": {
         "id": "Generic PC PPC",
@@ -9583,7 +9682,10 @@
             "emutopia": [
                 351
             ]
-        }
+        },
+        "altNames": [
+            "Generic PC PPC"
+        ]
     },
     "Generic PC SPARC": {
         "id": "Generic PC SPARC",
@@ -9593,13 +9695,19 @@
             "emutopia": [
                 352
             ]
-        }
+        },
+        "altNames": [
+            "Generic PC SPARC"
+        ]
     },
     "Generic PC x86 - x86-64": {
         "id": "Generic PC x86 - x86-64",
         "name": "PC x86 - x86-64",
         "company": "Generic",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Generic PC x86 - x86-64"
+        ]
     },
     "Generic PHC-25": {
         "id": "Generic PHC-25",
@@ -9677,7 +9785,10 @@
             "oldcomputers": [
                 970
             ]
-        }
+        },
+        "altNames": [
+            "Generic Pecom 64"
+        ]
     },
     "Generic Pico-8": {
         "id": "Generic Pico-8",
@@ -9702,7 +9813,10 @@
             "arrm": [
                 "pico8"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Pico-8"
+        ]
     },
     "Generic Pinball": {
         "id": "Generic Pinball",
@@ -9746,7 +9860,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic PlayChoice"
+        ]
     },
     "Generic Poisk-1": {
         "id": "Generic Poisk-1",
@@ -9832,7 +9949,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Sammy Classics"
+        ]
     },
     "Generic ScummVM": {
         "id": "Generic ScummVM",
@@ -9907,7 +10027,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Seta"
+        ]
     },
     "Generic Solarus": {
         "id": "Generic Solarus",
@@ -9935,7 +10058,10 @@
             "hfsdb": [
                 "82805"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Solarus"
+        ]
     },
     "Generic Squale": {
         "id": "Generic Squale",
@@ -9995,7 +10121,10 @@
             "emulationstation-de": [
                 "tic80"
             ]
-        }
+        },
+        "altNames": [
+            "Generic TIC-80"
+        ]
     },
     "Generic Technos": {
         "id": "Generic Technos",
@@ -10017,7 +10146,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Technos"
+        ]
     },
     "Generic UT-88": {
         "id": "Generic UT-88",
@@ -10055,7 +10187,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Universal"
+        ]
     },
     "Generic Video System Co.": {
         "id": "Generic Video System Co.",
@@ -10077,7 +10212,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Video System Co."
+        ]
     },
     "Generic Web Browser": {
         "id": "Generic Web Browser",
@@ -10115,7 +10253,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Generic non Jeu"
+        ]
     },
     "Generic the Pinball Arcade": {
         "id": "Generic the Pinball Arcade",
@@ -10125,7 +10266,10 @@
             "screenscraper": [
                 200
             ]
-        }
+        },
+        "altNames": [
+            "Generic the Pinball Arcade"
+        ]
     },
     "Gimix 6809": {
         "id": "Gimix 6809",
@@ -10166,7 +10310,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Gottlieb Gottlieb"
+        ]
     },
     "Gould K105-D Logic Analyzer": {
         "id": "Gould K105-D Logic Analyzer",
@@ -10448,61 +10595,91 @@
         "id": "Hewlett-Packard HP-14B",
         "name": "HP-14B",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-14B"
+        ]
     },
     "Hewlett-Packard HP-15C": {
         "id": "Hewlett-Packard HP-15C",
         "name": "HP-15C",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-15C"
+        ]
     },
     "Hewlett-Packard HP-17B": {
         "id": "Hewlett-Packard HP-17B",
         "name": "HP-17B",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-17B"
+        ]
     },
     "Hewlett-Packard HP-18C": {
         "id": "Hewlett-Packard HP-18C",
         "name": "HP-18C",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-18C"
+        ]
     },
     "Hewlett-Packard HP-19B": {
         "id": "Hewlett-Packard HP-19B",
         "name": "HP-19B",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-19B"
+        ]
     },
     "Hewlett-Packard HP-27S": {
         "id": "Hewlett-Packard HP-27S",
         "name": "HP-27S",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-27S"
+        ]
     },
     "Hewlett-Packard HP-28C": {
         "id": "Hewlett-Packard HP-28C",
         "name": "HP-28C",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-28C"
+        ]
     },
     "Hewlett-Packard HP-28S": {
         "id": "Hewlett-Packard HP-28S",
         "name": "HP-28S",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-28S"
+        ]
     },
     "Hewlett-Packard HP-32S": {
         "id": "Hewlett-Packard HP-32S",
         "name": "HP-32S",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-32S"
+        ]
     },
     "Hewlett-Packard HP-42S": {
         "id": "Hewlett-Packard HP-42S",
         "name": "HP-42S",
         "company": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Hewlett-Packard HP-42S"
+        ]
     },
     "Hewlett-Packard HP-86/7": {
         "id": "Hewlett-Packard HP-86/7",
@@ -10704,7 +10881,8 @@
         },
         "company": "HomeLab",
         "altNames": [
-            "HomeLab"
+            "HomeLab",
+            "HomeLab HomeLab"
         ]
     },
     "HomeLab BraiLab": {
@@ -11055,7 +11233,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "IGS IGS"
+        ]
     },
     "IMLAC Corporation PDS-1": {
         "id": "IMLAC Corporation PDS-1",
@@ -11265,7 +11446,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Irem Irem Classics"
+        ]
     },
     "Itautec I-7000": {
         "id": "Itautec I-7000",
@@ -11450,7 +11634,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Jaleco Jaleco"
+        ]
     },
     "Juku E5101": {
         "id": "Juku E5101",
@@ -11568,7 +11755,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Kaneko Kaneko"
+        ]
     },
     "Kaypro II": {
         "id": "Kaypro II",
@@ -11680,7 +11870,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Konami Konami Classics"
+        ]
     },
     "Konami Picno": {
         "id": "Konami Picno",
@@ -12988,7 +13181,10 @@
             "launchbox": [
                 "dim68k"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Micro Craft Dimension 68000"
+        ]
     },
     "Microkey Primo": {
         "id": "Microkey Primo",
@@ -13344,7 +13540,10 @@
             "screenscraper": [
                 136
             ]
-        }
+        },
+        "altNames": [
+            "Microsoft PC Win3.xx"
+        ]
     },
     "Microsoft PC Win9X": {
         "id": "Microsoft PC Win9X",
@@ -13354,7 +13553,10 @@
             "screenscraper": [
                 137
             ]
-        }
+        },
+        "altNames": [
+            "Microsoft PC Win9X"
+        ]
     },
     "Microsoft Pocket PC": {
         "id": "Microsoft Pocket PC",
@@ -13628,7 +13830,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Midway Midway Classics"
+        ]
     },
     "Mikro-80": {
         "id": "Mikro-80",
@@ -13641,7 +13846,10 @@
             "launchbox": [
                 "mikro80"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Mikro-80"
+        ]
     },
     "MikroMikko 1": {
         "id": "MikroMikko 1",
@@ -13743,7 +13951,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Mitchell Mitchell"
+        ]
     },
     "Mitsubishi Multi 8": {
         "id": "Mitsubishi Multi 8",
@@ -14527,7 +14738,10 @@
         "id": "NEC TK-80 - TK-85",
         "name": "TK-80 - TK-85",
         "company": "NEC",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "NEC TK-80 - TK-85"
+        ]
     },
     "NEC TurboGrafx-CD": {
         "id": "NEC TurboGrafx-CD",
@@ -14653,7 +14867,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "NMK NMK"
+        ]
     },
     "Namco Namco Classics": {
         "id": "Namco Namco Classics",
@@ -14675,7 +14892,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Namco Namco Classics"
+        ]
     },
     "Namco System 22": {
         "id": "Namco System 22",
@@ -14822,7 +15042,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Nichibutsu Nichibutsu"
+        ]
     },
     "Nintendo 3DS": {
         "id": "Nintendo 3DS",
@@ -15282,7 +15505,10 @@
                 "Nintendo Entertainment System"
             ]
         },
-        "company": "Nintendo"
+        "company": "Nintendo",
+        "altNames": [
+            "Nintendo Nintendo Entertainment System"
+        ]
     },
     "Nintendo Famicom": {
         "id": "Nintendo Famicom",
@@ -15785,7 +16011,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Nintendo Nintendo Classics"
+        ]
     },
     "Nintendo Play-Yan": {
         "id": "Nintendo Play-Yan",
@@ -15931,7 +16160,10 @@
             "recalbox": [
                 "snes"
             ]
-        }
+        },
+        "altNames": [
+            "Nintendo Snes - Super Mario World Hacks"
+        ]
     },
     "Nintendo Sufami Turbo": {
         "id": "Nintendo Sufami Turbo",
@@ -16022,7 +16254,10 @@
             "recalbox": [
                 "gb"
             ]
-        }
+        },
+        "altNames": [
+            "Nintendo Super Game Boy 2"
+        ]
     },
     "Nintendo Super Nintendo Entertainment System": {
         "id": "Nintendo Super Nintendo Entertainment System",
@@ -16111,7 +16346,10 @@
             "screenscraper": [
                 210
             ]
-        }
+        },
+        "altNames": [
+            "Nintendo Super Nintendo MSU-1"
+        ]
     },
     "Nintendo Switch": {
         "id": "Nintendo Switch",
@@ -16724,7 +16962,10 @@
             "nointro": [
                 "Ouya - Ouya"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Ouya"
+        ]
     },
     "PDC Clipper": {
         "id": "PDC Clipper",
@@ -16938,7 +17179,10 @@
                 "partner_cass",
                 "partner_flop"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Partner-01.01"
+        ]
     },
     "Patisonic Aleste 520EX": {
         "id": "Patisonic Aleste 520EX",
@@ -16972,7 +17216,10 @@
             "launchbox": [
                 "pentagon_cass"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Pentagon (ZX Spectrum clone)"
+        ]
     },
     "Peters Plus Sprinter": {
         "id": "Peters Plus Sprinter",
@@ -17172,7 +17419,10 @@
             "redump": [
                 "Photo CD"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Photo CD"
+        ]
     },
     "Pioneer LaserActive": {
         "id": "Pioneer LaserActive",
@@ -17226,7 +17476,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Psikyo Psikyo"
+        ]
     },
     "Psion Organiser I": {
         "id": "Psion Organiser I",
@@ -17292,7 +17545,8 @@
         },
         "company": "Publications International Ltd",
         "altNames": [
-            "Publications International Ltd. Story Reader"
+            "Publications International Ltd. Story Reader",
+            "Publications International Ltd Story Reader"
         ]
     },
     "RCA Chip-8": {
@@ -17482,7 +17736,8 @@
         },
         "company": "Radio-86RK",
         "altNames": [
-            "Radio-86RK"
+            "Radio-86RK",
+            "Radio-86RK Radio-86RK"
         ]
     },
     "Radio-86RK Apogej BK-01": {
@@ -17789,7 +18044,10 @@
             "launchbox": [
                 "sdk85"
             ]
-        }
+        },
+        "altNames": [
+            "Generic SDK-85"
+        ]
     },
     "SEGA Mega-Play": {
         "id": "SEGA Mega-Play",
@@ -17811,7 +18069,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "SEGA Mega-Play"
+        ]
     },
     "SEGA Mega-Tech": {
         "id": "SEGA Mega-Tech",
@@ -17833,7 +18094,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "SEGA Mega-Tech"
+        ]
     },
     "SEGA Sega Classics": {
         "id": "SEGA Sega Classics",
@@ -17855,7 +18119,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "SEGA Sega Classics"
+        ]
     },
     "SGI MIPS/IRIX": {
         "id": "SGI MIPS/IRIX",
@@ -18244,7 +18511,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "SNK SNK Classics"
+        ]
     },
     "SSD Xavix Port": {
         "id": "SSD Xavix Port",
@@ -20004,7 +20274,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Seibu Kaihatsu Seibu Kaihatsu"
+        ]
     },
     "SemiCom SemiCom": {
         "id": "SemiCom SemiCom",
@@ -20026,7 +20299,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "SemiCom SemiCom"
+        ]
     },
     "Seta Aleck64": {
         "id": "Seta Aleck64",
@@ -21391,7 +21667,10 @@
                 "special_cass",
                 "special_flop"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Specialist"
+        ]
     },
     "Spectravideo SVI-318 & SVI-328": {
         "id": "Spectravideo SVI-318 & SVI-328",
@@ -21454,7 +21733,10 @@
             "launchbox": [
                 "sbrain"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Super Brain"
+        ]
     },
     "Super Sensor IV": {
         "id": "Super Sensor IV",
@@ -21467,7 +21749,10 @@
             "launchbox": [
                 "novag_ssensor4"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Super Sensor IV"
+        ]
     },
     "TAB-Austria Quizard": {
         "id": "TAB-Austria Quizard",
@@ -21537,7 +21822,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Taito Taito Classics"
+        ]
     },
     "Taito Type X": {
         "id": "Taito Type X",
@@ -22128,7 +22416,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Tecmo Tecmo"
+        ]
     },
     "Tektronix 4052": {
         "id": "Tektronix 4052",
@@ -22407,7 +22698,10 @@
         "id": "Texas Instruments TI-59",
         "name": "TI-59",
         "company": "Texas Instruments",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Texas Instruments TI-59"
+        ]
     },
     "Texas Instruments TI-73": {
         "id": "Texas Instruments TI-73",
@@ -22535,7 +22829,10 @@
         "id": "Texas Instruments TI-84",
         "name": "TI-84",
         "company": "Texas Instruments",
-        "matches": []
+        "matches": [],
+        "altNames": [
+            "Texas Instruments TI-84"
+        ]
     },
     "Texas Instruments TI-85": {
         "id": "Texas Instruments TI-85",
@@ -23192,7 +23489,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Toaplan Toaplan"
+        ]
     },
     "Tomy KISS-Site": {
         "id": "Tomy KISS-Site",
@@ -23394,7 +23694,10 @@
             "launchbox": [
                 "tntell"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Touch & Tell"
+        ]
     },
     "Touhou Project": {
         "id": "Touhou Project",
@@ -23603,7 +23906,10 @@
                 "uzebox"
             ]
         },
-        "company": "Uzebox"
+        "company": "Uzebox",
+        "altNames": [
+            "Uzebox Uzebox"
+        ]
     },
     "VEB Mikroelektronik Erfurt Chess-Master Diamond": {
         "id": "VEB Mikroelektronik Erfurt Chess-Master Diamond",
@@ -24343,7 +24649,10 @@
                 "mame",
                 "fba"
             ]
-        }
+        },
+        "altNames": [
+            "Visco Visco"
+        ]
     },
     "Visual Pinball": {
         "id": "Visual Pinball",
@@ -24371,7 +24680,10 @@
             "launchbox": [
                 "Pinball"
             ]
-        }
+        },
+        "altNames": [
+            "Generic Visual Pinball"
+        ]
     },
     "Visual Technology Visual 1050": {
         "id": "Visual Technology Visual 1050",
@@ -24788,7 +25100,10 @@
             "screenscraper": [
                 143
             ]
-        }
+        },
+        "altNames": [
+            "Zen Studios Pinball FX2"
+        ]
     },
     "Zen Studios Pinball FX3": {
         "id": "Zen Studios Pinball FX3",
@@ -24807,7 +25122,10 @@
             "hfsdb": [
                 "158691"
             ]
-        }
+        },
+        "altNames": [
+            "Zen Studios Pinball FX3"
+        ]
     },
     "Zilog MCZ-2": {
         "id": "Zilog MCZ-2",
