@@ -2049,6 +2049,12 @@
             "Atari 2600"
         ]
     },
+    "Atari 400": {
+        "id": "Atari 400",
+        "name": "400",
+        "company": "Atari",
+        "matches": []
+    },
     "Atari 5200": {
         "id": "Atari 5200",
         "name": "5200",
@@ -2913,6 +2919,12 @@
         "altNames": [
             "Atari XEGS"
         ]
+    },
+    "Atari XL": {
+        "id": "Atari XL",
+        "name": "XL",
+        "company": "Atari",
+        "matches": []
     },
     "Atlus Atlus": {
         "id": "Atlus Atlus",
@@ -3811,6 +3823,7 @@
             "emutopia": [
                 257,
                 217,
+                255,
                 372,
                 230
             ],
@@ -3833,6 +3846,9 @@
         "id": "Capcom Capcom Play System 2",
         "name": "Capcom Play System 2",
         "matches": {
+            "emutopia": [
+                256
+            ],
             "screenscraper": [
                 7,
                 "75"
@@ -7313,6 +7329,9 @@
         "id": "Elektronika BK",
         "name": "BK",
         "matches": {
+            "emutopia": [
+                333
+            ],
             "launchbox": [
                 "Elektronika BK"
             ],
@@ -7351,6 +7370,9 @@
                 "Elektronika BK-0010-0011M - Games",
                 "Elektronika BK-0010-0011M - Operating Systems"
             ],
+            "emutopia": [
+              333
+            ],
             "mame": [
                 "bk0010"
             ],
@@ -7370,6 +7392,9 @@
             "tosec": [
                 "Elektronika BK-0011-411 - Games"
             ],
+              "emutopia": [
+                  277
+              ],
             "launchbox": [
                 "Elektronika BK"
             ]
@@ -7420,6 +7445,9 @@
         "id": "Emerson Arcadia 2001",
         "name": "Arcadia 2001",
         "matches": {
+            "emutopia": [
+                277
+            ],
             "launchbox": [
                 "Emerson Arcadia 2001",
                 "arcadia"
@@ -7877,6 +7905,9 @@
                 "Exelvision EXL 100",
                 "exl100"
             ],
+              "emutopia": [
+                  335
+              ],
             "oldcomputers": [
                 123
             ],
@@ -7926,6 +7957,9 @@
                 "Exelvision Exeltel - Games - [BKP]",
                 "Exelvision Exeltel - Games - [CRAM]"
             ],
+              "emutopia": [
+                  335
+              ],
             "oldcomputers": [
                 521
             ]
@@ -8243,6 +8277,9 @@
                 "Fujitsu FM Towns - Operating Systems - [BIN]",
                 "Fujitsu FM Towns - Operating Systems - [HDM]"
             ],
+              "emutopia": [
+                  279
+              ],
             "oldcomputers": [
                 968
             ],
@@ -10002,6 +10039,9 @@
         "id": "Hewlett-Packard HP48",
         "name": "HP48",
         "matches": {
+            "emutopia": [
+                245
+            ],
             "tosec": [
                 "Hewlett-Packard HP48 - Firmware",
                 "Hewlett-Packard HP48 - Various"
@@ -11920,6 +11960,9 @@
         "id": "Matra Hachette Alice 32",
         "name": "Alice 32",
         "matches": {
+            "emutopia": [
+                343
+            ],
             "emucontrolcenter": [
                 "alice"
             ],
@@ -18270,6 +18313,9 @@
             "emucontrolcenter": [
                 "gen"
             ],
+              "emutopia": [
+                  296
+              ],
             "launchbox": [
                 "Sega Genesis",
                 "megadriv"
@@ -18515,6 +18561,9 @@
             "tgdb": [
                 36
             ],
+              "emutopia": [
+                  296
+              ],
             "oldcomputers": [
                 1247
             ],
@@ -18886,6 +18935,9 @@
             "launchbox": [
                 "Sega SC-3000"
             ],
+              "emutopia": [
+                  298
+              ],
             "emucontrolcenter": [
                 "sc3000"
             ]
@@ -18903,6 +18955,9 @@
                 "Sega SG-1000",
                 "sg1000"
             ],
+              "emutopia": [
+                  298
+              ],
             "nointro": [
                 "Sega - SG-1000"
             ],
@@ -19334,6 +19389,9 @@
                 "Sharp MZ-700 - Games - [MZT]",
                 "Sharp MZ-700 - Games - [WAV]"
             ],
+              "emutopia": [
+                  414
+              ],
             "mame": [
                 "mz700_cass"
             ],
@@ -19356,6 +19414,9 @@
             "mame": [
                 "mz800_cass"
             ],
+              "emutopia": [
+                  414
+              ],
             "tosec": [
                 "Sharp MZ-800 & MZ-1500 - Applications",
                 "Sharp MZ-800 & MZ-1500 - Firmware",
@@ -20841,6 +20902,9 @@
         "id": "Tandy Radio Shack TRS-80 Color Computer",
         "name": "TRS-80 Color Computer",
         "matches": {
+            "emutopia": [
+                355
+            ],
             "tosec": [
                 "Tandy Radio Shack TRS-80 Color Computer - Applications - [DSK]",
                 "Tandy Radio Shack TRS-80 Color Computer - Applications - [ROM]",
@@ -20940,6 +21004,9 @@
         "id": "Tandy Radio Shack TRS-80 MC-10",
         "name": "TRS-80 MC-10",
         "matches": {
+            "emutopia": [
+                418
+            ],
             "tosec": [
                 "Tandy Radio Shack TRS-80 MC-10 - Games - [C10]",
                 "Tandy Radio Shack TRS-80 MC-10 - Games - [WAV]",
@@ -20961,6 +21028,9 @@
         "id": "Tandy Radio Shack TRS-80 Model 100",
         "name": "TRS-80 Model 100",
         "matches": {
+            "emutopia": [
+                418
+            ],
             "tosec": [
                 "Tandy Radio Shack TRS-80 Model 100 - Games - [BA]",
                 "Tandy Radio Shack TRS-80 Model 100 - Games - [CO]"
@@ -20981,6 +21051,9 @@
         "id": "Tandy Radio Shack TRS-80 Model 4",
         "name": "TRS-80 Model 4",
         "matches": {
+            "emutopia": [
+                418
+            ],
             "tosec": [
                 "Tandy Radio Shack TRS-80 Model 4 - Various"
             ]
@@ -20994,6 +21067,9 @@
         "id": "Tandy Radio Shack TRS-80 Model I",
         "name": "TRS-80 Model I",
         "matches": {
+            "emutopia": [
+                418
+            ],
             "tosec": [
                 "Tandy Radio Shack TRS-80 Model I - Various"
             ]
@@ -21007,6 +21083,9 @@
         "id": "Tandy Radio Shack TRS-80 Model II",
         "name": "TRS-80 Model II",
         "matches": {
+            "emutopia": [
+                418
+            ],
             "mame": [
                 "trs80m2"
             ],
@@ -21023,6 +21102,9 @@
         "id": "Tandy Radio Shack TRS-80 Model III",
         "name": "TRS-80 Model III",
         "matches": {
+            "emutopia": [
+                418
+            ],
             "tosec": [
                 "Tandy Radio Shack TRS-80 Model III - Various"
             ],
@@ -21862,6 +21944,9 @@
             "recalbox": [
                 "thomson"
             ],
+              "emutopia": [
+                  366
+              ],
             "tosec": [
                 "Thomson MO5 - Applications - [FD]",
                 "Thomson MO5 - Applications - [K7]",
@@ -21928,6 +22013,9 @@
             "tosec": [
                 "Thomson MO6 - Games"
             ],
+              "emutopia": [
+                  366
+              ],
             "mame": [
                 "mo6_cass",
                 "mo6_flop"
@@ -21968,6 +22056,9 @@
         "id": "Thomson TO7",
         "name": "TO7",
         "matches": {
+              "emutopia": [
+                  367
+              ],
             "tosec": [
                 "Thomson TO7 - Applications - [K7]",
                 "Thomson TO7 - Applications - [M7]",
@@ -22031,6 +22122,9 @@
         "id": "Thomson TO8",
         "name": "TO8",
         "matches": {
+              "emutopia": [
+                  367
+              ],
             "mame": [
                 "to8_qd",
                 "to8_cass"
@@ -22068,6 +22162,9 @@
         "id": "Thomson TO8, TO8D, TO9, TO9+",
         "name": "TO8, TO8D, TO9, TO9+",
         "matches": {
+              "emutopia": [
+                  367
+              ],
             "tosec": [
                 "Thomson TO8, TO8D, TO9, TO9+ - Applications - [FD]",
                 "Thomson TO8, TO8D, TO9, TO9+ - Applications - [K7]",
@@ -22771,6 +22868,9 @@
             "redump": [
                 "VM Labs - NUON"
             ],
+              "emutopia": [
+                  302
+              ],
             "launchbox": [
                 "Nuon",
                 "nuon"
@@ -23672,6 +23772,9 @@
             "launchbox": [
                 "WoW Action Max"
             ],
+              "emutopia": [
+                  303
+              ],
             "tgdb": [
                 4976
             ],
