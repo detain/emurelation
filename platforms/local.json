@@ -728,6 +728,9 @@
         "id": "Acorn Risc PC",
         "name": "Risc PC",
         "matches": {
+            "emutopia": [
+                309
+            ],
             "nointro": [
                 "Acorn - Risc PC (Pauline)"
             ],
@@ -1781,6 +1784,32 @@
         "company": "Apple",
         "altNames": [
             "Apple Lisa"
+        ]
+    },
+    "Apple Macintosh 68k": {
+        "id": "Apple Macintosh 68k",
+        "name": "Macintosh 68k",
+        "company": "Apple",
+        "matches": {
+            "emutopia": [
+                317
+            ]
+        },
+        "altNames": [
+            "Apple Macintosh 68k"
+        ]
+    },
+    "Apple Macintosh PPC": {
+        "id": "Apple Macintosh PPC",
+        "name": "Macintosh PPC",
+        "company": "Apple",
+        "matches": {
+            "emutopia": [
+                318
+            ]
+        },
+        "altNames": [
+            "Apple Macintosh PPC"
         ]
     },
     "Apple Macintosh": {
@@ -6224,6 +6253,7 @@
                 "c16plus4"
             ],
             "emutopia": [
+                325,
                 326
             ],
             "mame": [
@@ -9656,7 +9686,11 @@
         "id": "Generic PC Intel 8008 - 8080",
         "name": "PC Intel 8008 - 8080",
         "company": "Generic",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                385
+            ]
+        },
         "altNames": [
             "Generic PC Intel 8008 - 8080"
         ]
@@ -9704,7 +9738,11 @@
         "id": "Generic PC x86 - x86-64",
         "name": "PC x86 - x86-64",
         "company": "Generic",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                353
+            ]
+        },
         "altNames": [
             "Generic PC x86 - x86-64"
         ]
@@ -14778,7 +14816,11 @@
         "id": "NEC TK-80 - TK-85",
         "name": "TK-80 - TK-85",
         "company": "NEC",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                412
+            ]
+        },
         "altNames": [
             "NEC TK-80 - TK-85"
         ]
@@ -15439,6 +15481,9 @@
         "shortName": "nes",
         "name": "Nintendo Entertainment System",
         "matches": {
+            "emutopia": [
+                289
+            ],
             "launchbox": [
                 "Nintendo Entertainment System",
                 "nes",
@@ -15554,6 +15599,9 @@
         "id": "Nintendo Famicom",
         "name": "Famicom",
         "matches": {
+            "emutopia": [
+                289
+            ],
             "mame": [
                 "famicom_flop",
                 "famicom_cass"
@@ -16261,6 +16309,9 @@
         "id": "Nintendo Super Famicom & Super Entertainment System",
         "name": "Super Famicom & Super Entertainment System",
         "matches": {
+            "emutopia": [
+                290
+            ],
             "tosec": [
                 "Nintendo Super Famicom & Super Entertainment System - Demos",
                 "Nintendo Super Famicom & Super Entertainment System - Educational",
@@ -16303,6 +16354,9 @@
         "id": "Nintendo Super Nintendo Entertainment System",
         "name": "Super Nintendo Entertainment System",
         "matches": {
+            "emutopia": [
+                290
+            ],
             "nointro": [
                 "Nintendo - Super Nintendo Entertainment System",
                 "Source Code - Nintendo - Super Nintendo Entertainment System"
@@ -17958,6 +18012,9 @@
         "id": "Robotron Z9001 & KC85 1",
         "name": "Z9001 & KC85 1",
         "matches": {
+            "emutopia": [
+                357
+            ],
             "tosec": [
                 "Robotron Z9001 & KC85 1 - Games",
                 "Robotron Z9001 & KC85 1 - Various"
