@@ -2127,7 +2127,11 @@
         "id": "Atari 400",
         "name": "400",
         "company": "Atari",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                320
+            ]
+        },
         "altNames": [
             "Atari 400"
         ]
@@ -2304,6 +2308,9 @@
         "id": "Atari 800",
         "name": "800",
         "matches": {
+            "emutopia": [
+                320
+            ],
             "emucontrolcenter": [
                 "a8bit"
             ],
@@ -2960,6 +2967,9 @@
         "id": "Atari XE",
         "name": "XE",
         "matches": {
+            "emutopia": [
+                320
+            ],
             "tgdb": [
                 30
             ],
@@ -3019,7 +3029,11 @@
         "id": "Atari XL",
         "name": "XL",
         "company": "Atari",
-        "matches": [],
+        "matches": {
+            "emutopia": [
+                320
+            ]
+        },
         "altNames": [
             "Atari XL"
         ]

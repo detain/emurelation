@@ -21,10 +21,6 @@
     "240": "Gamepads",
     "253": "Single-System",
     "254": "Multi-System",
-    "289": "Nintendo NES / Famicom",
-    "290": "Nintendo SNES / SFC",
-    "320": "Atari 400 / 800 / XL / XE",
-    "357": "Robotron KC 85 / Z 9001",
     "383": "CHIP-16",
     "386": "Memory Card Managment",
     "387": "Integrated Circuit Emulators",
@@ -34,6 +30,5 @@
     "391": "Image Viewers",
     "405": "PCSX2",
     "406": "Rom Conversion",
-    "410": "Rom Patching",
-    "412": "NEC TK-80 / TK-85"
+    "410": "Rom Patching"
 }

@@ -20,7 +20,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](platforms/local.json) | Custom | 881 | 0 | 881 | 100% |
+| [Local](platforms/local.json) | Custom | 883 | 0 | 883 | 100% |
 | [Redump](platforms/redump.json) | DAT | 52 | 1 | 53 | 98.1% |
 | [No-Intro](platforms/nointro.json) | DAT | 271 | 19 | 290 | 93.4% |
 | [TOSEC](platforms/tosec.json) | DAT | 2427 | 1 | 2428 | 100% |
@@ -34,7 +34,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [Old-Computers](platforms/oldcomputers.json) | Website | 201 | 1085 | 1286 | 15.6% |
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
-| [Emutopia](platforms/emutopia.json) | Website | 132 | 43 | 175 | 75.4% |
+| [Emutopia](platforms/emutopia.json) | Website | 143 | 32 | 175 | 81.7% |
 | [MAME](platforms/mame.json) | Emulator | 649 | 15 | 664 | 97.7% |
 | [LaunchBox](platforms/launchbox.json) | Frontend | 649 | 16 | 665 | 97.6% |
 | [RetroBat](platforms/retrobat.json) | Frontend | 139 | 13 | 152 | 91.4% |
