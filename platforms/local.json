@@ -260,6 +260,12 @@
             "AVE Micro Systems ARB"
         ]
     },
+    "Acclaim Acclaim": {
+        "id": "Acclaim Acclaim",
+        "name": "Acclaim",
+        "company": "Acclaim",
+        "matches": []
+    },
     "Acetronic MPU-1000": {
         "id": "Acetronic MPU-1000",
         "name": "MPU-1000",
@@ -930,6 +936,18 @@
         "altNames": [
             "Altos Computer Systems Series 5"
         ]
+    },
+    "Amcoe Amcoe": {
+        "id": "Amcoe Amcoe",
+        "name": "Amcoe",
+        "company": "Amcoe",
+        "matches": []
+    },
+    "American Laser Games American Laser Games": {
+        "id": "American Laser Games American Laser Games",
+        "name": "American Laser Games",
+        "company": "American Laser Games",
+        "matches": []
     },
     "American Laser Games CD-ROM System": {
         "id": "American Laser Games CD-ROM System",
@@ -2295,6 +2313,34 @@
             "Atari 800"
         ]
     },
+    "Atari Atari 2600 Supercharger": {
+        "id": "Atari Atari 2600 Supercharger",
+        "name": "Atari 2600 Supercharger",
+        "company": "Atari",
+        "matches": []
+    },
+    "Atari Atari Classics": {
+        "id": "Atari Atari Classics",
+        "name": "Atari Classics",
+        "company": "Atari",
+        "matches": []
+    },
+    "Atari Falcon030": {
+        "id": "Atari Falcon030",
+        "name": "Falcon030",
+        "matches": {
+            "arrm": [
+                "atarifalcon"
+            ],
+            "igdb": [
+                "63"
+            ]
+        },
+        "company": "Atari",
+        "altNames": [
+            "Atari Falcon030"
+        ]
+    },
     "Atari Jaguar": {
         "id": "Atari Jaguar",
         "name": "Jaguar",
@@ -2830,6 +2876,12 @@
             "Atari XEGS"
         ]
     },
+    "Atlus Atlus": {
+        "id": "Atlus Atlus",
+        "name": "Atlus",
+        "company": "Atlus",
+        "matches": []
+    },
     "Aussie Byte II": {
         "id": "Aussie Byte II",
         "name": "Byte II",
@@ -3310,6 +3362,12 @@
             "Bandai WonderSwan Color"
         ]
     },
+    "Banpresto Banpresto": {
+        "id": "Banpresto Banpresto",
+        "name": "Banpresto",
+        "company": "Banpresto",
+        "matches": []
+    },
     "Benesse Pocket Challenge V2": {
         "id": "Benesse Pocket Challenge V2",
         "name": "Pocket Challenge V2",
@@ -3663,6 +3721,12 @@
             "Canon X-07"
         ]
     },
+    "Capcom Capcom Classics": {
+        "id": "Capcom Capcom Classics",
+        "name": "Capcom Classics",
+        "company": "Capcom",
+        "matches": []
+    },
     "Capcom Capcom Play System 1": {
         "id": "Capcom Capcom Play System 1",
         "name": "Capcom Play System 1",
@@ -3985,6 +4049,12 @@
             "Casper 68000"
         ]
     },
+    "Century Electronics Century Electronics": {
+        "id": "Century Electronics Century Electronics",
+        "name": "Century Electronics",
+        "company": "Century Electronics",
+        "matches": []
+    },
     "Chafitz GGM Great Game Machine": {
         "id": "Chafitz GGM Great Game Machine",
         "name": "GGM Great Game Machine",
@@ -4016,6 +4086,12 @@
         "altNames": [
             "China Education Computer"
         ]
+    },
+    "Cinematronics Cinematronics": {
+        "id": "Cinematronics Cinematronics",
+        "name": "Cinematronics",
+        "company": "Cinematronics",
+        "matches": []
     },
     "Coleco ColecoVision": {
         "id": "Coleco ColecoVision",
@@ -4243,6 +4319,12 @@
         "altNames": [
             "Coleco Total Control 4"
         ]
+    },
+    "Comad Comad": {
+        "id": "Comad Comad",
+        "name": "Comad",
+        "company": "Comad",
+        "matches": []
     },
     "Commodore 128": {
         "id": "Commodore 128",
@@ -5214,20 +5296,97 @@
             "Commodore Amiga 1000"
         ]
     },
-    "Atari Falcon030": {
-        "id": "Atari Falcon030",
-        "name": "Falcon030",
+    "Commodore Amiga 1200": {
+        "id": "Commodore Amiga 1200",
+        "name": "Amiga 1200",
         "matches": {
-            "arrm": [
-                "atarifalcon"
+            "emulationstation-de": [
+                "amiga1200"
             ],
-            "igdb": [
-                "63"
+            "oldcomputers": [
+                628
+            ],
+            "recalbox": [
+                "amiga1200"
+            ],
+            "arrm": [
+                "amiga1200"
+            ],
+            "screenscraper": [
+                "111"
+            ],
+            "tgdb": [
+                "4911"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "gamesdatabase": [
+                "commodore-amiga"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ],
+            "retropie": [
+                "amiga"
             ]
         },
-        "company": "Atari",
+        "company": "Commodore",
         "altNames": [
-            "Atari Falcon030"
+            "Commodore Amiga 1200"
+        ]
+    },
+    "Commodore Amiga 3000": {
+        "id": "Commodore Amiga 3000",
+        "name": "Amiga 3000",
+        "matches": {
+            "mame": [
+                "amiga_a3000"
+            ],
+            "oldcomputers": [
+                30
+            ],
+            "arrm": [
+                "amiga3000"
+            ],
+            "screenscraper": [
+                "111"
+            ],
+            "mobygames": [
+                "amiga"
+            ],
+            "launchbox": [
+                "Commodore Amiga",
+                "amiga_a3000"
+            ],
+            "hfsdb": [
+                "36003"
+            ],
+            "bezels_project": [
+                "bezelproject-Amiga"
+            ],
+            "attractmode": [
+                "Commodore Amiga"
+            ],
+            "retropie": [
+                "amiga"
+            ],
+            "recalbox": [
+                "amiga1200"
+            ]
+        },
+        "company": "Commodore",
+        "altNames": [
+            "Commodore Amiga 3000"
         ]
     },
     "Commodore Amiga 4000": {
@@ -5327,99 +5486,6 @@
         "company": "Commodore",
         "altNames": [
             "Commodore Amiga 500+"
-        ]
-    },
-    "Commodore Amiga 1200": {
-        "id": "Commodore Amiga 1200",
-        "name": "Amiga 1200",
-        "matches": {
-            "emulationstation-de": [
-                "amiga1200"
-            ],
-            "oldcomputers": [
-                628
-            ],
-            "recalbox": [
-                "amiga1200"
-            ],
-            "arrm": [
-                "amiga1200"
-            ],
-            "screenscraper": [
-                "111"
-            ],
-            "tgdb": [
-                "4911"
-            ],
-            "mobygames": [
-                "amiga"
-            ],
-            "launchbox": [
-                "Commodore Amiga"
-            ],
-            "hfsdb": [
-                "36003"
-            ],
-            "gamesdatabase": [
-                "commodore-amiga"
-            ],
-            "bezels_project": [
-                "bezelproject-Amiga"
-            ],
-            "attractmode": [
-                "Commodore Amiga"
-            ],
-            "retropie": [
-                "amiga"
-            ]
-        },
-        "company": "Commodore",
-        "altNames": [
-            "Commodore Amiga 1200"
-        ]
-    },
-    "Commodore Amiga 3000": {
-        "id": "Commodore Amiga 3000",
-        "name": "Amiga 3000",
-        "matches": {
-            "mame": [
-                "amiga_a3000"
-            ],
-            "oldcomputers": [
-                30
-            ],
-            "arrm": [
-                "amiga3000"
-            ],
-            "screenscraper": [
-                "111"
-            ],
-            "mobygames": [
-                "amiga"
-            ],
-            "launchbox": [
-                "Commodore Amiga",
-                "amiga_a3000"
-            ],
-            "hfsdb": [
-                "36003"
-            ],
-            "bezels_project": [
-                "bezelproject-Amiga"
-            ],
-            "attractmode": [
-                "Commodore Amiga"
-            ],
-            "retropie": [
-                "amiga"
-            ],
-            "recalbox": [
-                "amiga1200"
-            ]
-        },
-        "company": "Commodore",
-        "altNames": [
-            "Commodore Amiga 3000"
         ]
     },
     "Commodore Amiga 600": {
@@ -6634,6 +6700,12 @@
             "DAI Personal Computer"
         ]
     },
+    "Data East Data East Classics": {
+        "id": "Data East Data East Classics",
+        "name": "Data East Classics",
+        "company": "Data East",
+        "matches": []
+    },
     "Dick Smith Super-80": {
         "id": "Dick Smith Super-80",
         "name": "Super-80",
@@ -6968,6 +7040,12 @@
         "altNames": [
             "Dynabyte Monarch"
         ]
+    },
+    "Dynax Dynax": {
+        "id": "Dynax Dynax",
+        "name": "Dynax",
+        "company": "Dynax",
+        "matches": []
     },
     "EACA EG2000 Colour Genie": {
         "id": "EACA EG2000 Colour Genie",
@@ -8550,6 +8628,12 @@
             "GamePark GP32"
         ]
     },
+    "Generic Alpha Denshi Co.": {
+        "id": "Generic Alpha Denshi Co.",
+        "name": "Alpha Denshi Co.",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic Android": {
         "id": "Generic Android",
         "name": "Android",
@@ -8682,6 +8766,36 @@
             "Generic Arcade"
         ]
     },
+    "Generic Cave": {
+        "id": "Generic Cave",
+        "name": "Cave",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic CoreGrafX": {
+        "id": "Generic CoreGrafX",
+        "name": "CoreGrafX",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic Daphne": {
+        "id": "Generic Daphne",
+        "name": "Daphne",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic EasyRPG": {
+        "id": "Generic EasyRPG",
+        "name": "EasyRPG",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic Eighting / Raizing": {
+        "id": "Generic Eighting / Raizing",
+        "name": "Eighting / Raizing",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic Hybrid Music System": {
         "id": "Generic Hybrid Music System",
         "name": "Hybrid Music System",
@@ -8718,6 +8832,12 @@
         "altNames": [
             "Generic IQ-151"
         ]
+    },
+    "Generic Incredible Technologies": {
+        "id": "Generic Incredible Technologies",
+        "name": "Incredible Technologies",
+        "company": "Generic",
+        "matches": []
     },
     "Generic Intellect-02": {
         "id": "Generic Intellect-02",
@@ -8789,6 +8909,18 @@
             "Generic Linux"
         ]
     },
+    "Generic LowRes NX": {
+        "id": "Generic LowRes NX",
+        "name": "LowRes NX",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic Lutro": {
+        "id": "Generic Lutro",
+        "name": "Lutro",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic NeXT": {
         "id": "Generic NeXT",
         "name": "NeXT",
@@ -8806,6 +8938,12 @@
         "altNames": [
             "Generic NeXT"
         ]
+    },
+    "Generic Nintendo Power": {
+        "id": "Generic Nintendo Power",
+        "name": "Nintendo Power",
+        "company": "Generic",
+        "matches": []
     },
     "Generic OpenBOR": {
         "id": "Generic OpenBOR",
@@ -9010,6 +9148,18 @@
             "Generic Palm"
         ]
     },
+    "Generic Pecom 64": {
+        "id": "Generic Pecom 64",
+        "name": "Pecom 64",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic Pico-8": {
+        "id": "Generic Pico-8",
+        "name": "Pico-8",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic Pinball": {
         "id": "Generic Pinball",
         "name": "Pinball",
@@ -9031,6 +9181,12 @@
         "altNames": [
             "Generic Pinball"
         ]
+    },
+    "Generic PlayChoice": {
+        "id": "Generic PlayChoice",
+        "name": "PlayChoice",
+        "company": "Generic",
+        "matches": []
     },
     "Generic Poisk-1": {
         "id": "Generic Poisk-1",
@@ -9096,6 +9252,12 @@
             "Generic SITCOM"
         ]
     },
+    "Generic Sammy Classics": {
+        "id": "Generic Sammy Classics",
+        "name": "Sammy Classics",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic ScummVM": {
         "id": "Generic ScummVM",
         "name": "ScummVM",
@@ -9149,6 +9311,18 @@
             "Generic ScummVM"
         ]
     },
+    "Generic Seta": {
+        "id": "Generic Seta",
+        "name": "Seta",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic Solarus": {
+        "id": "Generic Solarus",
+        "name": "Solarus",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic Squale": {
         "id": "Generic Squale",
         "name": "Squale",
@@ -9184,6 +9358,18 @@
             "Generic Standard MIDI"
         ]
     },
+    "Generic TIC-80": {
+        "id": "Generic TIC-80",
+        "name": "TIC-80",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic Technos": {
+        "id": "Generic Technos",
+        "name": "Technos",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic UT-88": {
         "id": "Generic UT-88",
         "name": "UT-88",
@@ -9200,6 +9386,18 @@
             "Generic UT-88"
         ]
     },
+    "Generic Universal": {
+        "id": "Generic Universal",
+        "name": "Universal",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic Video System Co.": {
+        "id": "Generic Video System Co.",
+        "name": "Video System Co.",
+        "company": "Generic",
+        "matches": []
+    },
     "Generic Web Browser": {
         "id": "Generic Web Browser",
         "name": "Web Browser",
@@ -9215,6 +9413,18 @@
         "altNames": [
             "Generic Web Browser"
         ]
+    },
+    "Generic non Jeu": {
+        "id": "Generic non Jeu",
+        "name": "non Jeu",
+        "company": "Generic",
+        "matches": []
+    },
+    "Generic the Pinball Arcade": {
+        "id": "Generic the Pinball Arcade",
+        "name": "the Pinball Arcade",
+        "company": "Generic",
+        "matches": []
     },
     "Gimix 6809": {
         "id": "Gimix 6809",
@@ -9234,6 +9444,12 @@
         "altNames": [
             "Gimix 6809"
         ]
+    },
+    "Gottlieb Gottlieb": {
+        "id": "Gottlieb Gottlieb",
+        "name": "Gottlieb",
+        "company": "Gottlieb",
+        "matches": []
     },
     "Gould K105-D Logic Analyzer": {
         "id": "Gould K105-D Logic Analyzer",
@@ -10036,6 +10252,12 @@
             "IBM System-360"
         ]
     },
+    "IGS IGS": {
+        "id": "IGS IGS",
+        "name": "IGS",
+        "company": "IGS",
+        "matches": []
+    },
     "IMLAC Corporation PDS-1": {
         "id": "IMLAC Corporation PDS-1",
         "name": "PDS-1",
@@ -10224,6 +10446,12 @@
             "Interton VC 4000"
         ]
     },
+    "Irem Irem Classics": {
+        "id": "Irem Irem Classics",
+        "name": "Irem Classics",
+        "company": "Irem",
+        "matches": []
+    },
     "Itautec I-7000": {
         "id": "Itautec I-7000",
         "name": "I-7000",
@@ -10387,6 +10615,12 @@
             "JPM Give us a Break"
         ]
     },
+    "Jaleco Jaleco": {
+        "id": "Jaleco Jaleco",
+        "name": "Jaleco",
+        "company": "Jaleco",
+        "matches": []
+    },
     "Juku E5101": {
         "id": "Juku E5101",
         "name": "E5101",
@@ -10483,6 +10717,12 @@
             "Jupiter Cantab Jupiter Ace"
         ]
     },
+    "Kaneko Kaneko": {
+        "id": "Kaneko Kaneko",
+        "name": "Kaneko",
+        "company": "Kaneko",
+        "matches": []
+    },
     "Kaypro II": {
         "id": "Kaypro II",
         "name": "II",
@@ -10572,6 +10812,12 @@
         "altNames": [
             "Konami FireBeat"
         ]
+    },
+    "Konami Konami Classics": {
+        "id": "Konami Konami Classics",
+        "name": "Konami Classics",
+        "company": "Konami",
+        "matches": []
     },
     "Konami Picno": {
         "id": "Konami Picno",
@@ -12224,6 +12470,18 @@
             "Microsoft MSX2+"
         ]
     },
+    "Microsoft PC Win3.xx": {
+        "id": "Microsoft PC Win3.xx",
+        "name": "PC Win3.xx",
+        "company": "Microsoft",
+        "matches": []
+    },
+    "Microsoft PC Win9X": {
+        "id": "Microsoft PC Win9X",
+        "name": "PC Win9X",
+        "company": "Microsoft",
+        "matches": []
+    },
     "Microsoft Pocket PC": {
         "id": "Microsoft Pocket PC",
         "name": "Pocket PC",
@@ -12476,6 +12734,12 @@
             "Microtan 65"
         ]
     },
+    "Midway Midway Classics": {
+        "id": "Midway Midway Classics",
+        "name": "Midway Classics",
+        "company": "Midway",
+        "matches": []
+    },
     "Mikro-80": {
         "id": "Mikro-80",
         "name": "Mikro-80",
@@ -12568,6 +12832,12 @@
         "altNames": [
             "Mindset Corporation Mindset"
         ]
+    },
+    "Mitchell Mitchell": {
+        "id": "Mitchell Mitchell",
+        "name": "Mitchell",
+        "company": "Mitchell",
+        "matches": []
     },
     "Mitsubishi Multi 8": {
         "id": "Mitsubishi Multi 8",
@@ -13442,6 +13712,18 @@
             "NEC Turbografx 16"
         ]
     },
+    "NMK NMK": {
+        "id": "NMK NMK",
+        "name": "NMK",
+        "company": "NMK",
+        "matches": []
+    },
+    "Namco Namco Classics": {
+        "id": "Namco Namco Classics",
+        "name": "Namco Classics",
+        "company": "Namco",
+        "matches": []
+    },
     "Namco System 22": {
         "id": "Namco System 22",
         "name": "System 22",
@@ -13566,6 +13848,12 @@
         "altNames": [
             "Nichibutsu My Vision"
         ]
+    },
+    "Nichibutsu Nichibutsu": {
+        "id": "Nichibutsu Nichibutsu",
+        "name": "Nichibutsu",
+        "company": "Nichibutsu",
+        "matches": []
     },
     "Nintendo 3DS": {
         "id": "Nintendo 3DS",
@@ -14501,6 +14789,12 @@
             "Nintendo Mario no Photopi SmartMedia"
         ]
     },
+    "Nintendo Nintendo Classics": {
+        "id": "Nintendo Nintendo Classics",
+        "name": "Nintendo Classics",
+        "company": "Nintendo",
+        "matches": []
+    },
     "Nintendo Play-Yan": {
         "id": "Nintendo Play-Yan",
         "name": "Play-Yan",
@@ -14631,6 +14925,12 @@
             "Nintendo Satellaview"
         ]
     },
+    "Nintendo Snes - Super Mario World Hacks": {
+        "id": "Nintendo Snes - Super Mario World Hacks",
+        "name": "Snes - Super Mario World Hacks",
+        "company": "Nintendo",
+        "matches": []
+    },
     "Nintendo Sufami Turbo": {
         "id": "Nintendo Sufami Turbo",
         "name": "Sufami Turbo",
@@ -14708,6 +15008,12 @@
         "altNames": [
             "Nintendo Super Famicom & Super Entertainment System"
         ]
+    },
+    "Nintendo Super Game Boy 2": {
+        "id": "Nintendo Super Game Boy 2",
+        "name": "Super Game Boy 2",
+        "company": "Nintendo",
+        "matches": []
     },
     "Nintendo Super Nintendo Entertainment System": {
         "id": "Nintendo Super Nintendo Entertainment System",
@@ -14787,6 +15093,12 @@
         "altNames": [
             "Nintendo Super Nintendo Entertainment System"
         ]
+    },
+    "Nintendo Super Nintendo MSU-1": {
+        "id": "Nintendo Super Nintendo MSU-1",
+        "name": "Super Nintendo MSU-1",
+        "company": "Nintendo",
+        "matches": []
     },
     "Nintendo Switch": {
         "id": "Nintendo Switch",
@@ -15881,6 +16193,12 @@
             "Pravetz 8D"
         ]
     },
+    "Psikyo Psikyo": {
+        "id": "Psikyo Psikyo",
+        "name": "Psikyo",
+        "company": "Psikyo",
+        "matches": []
+    },
     "Psion Organiser I": {
         "id": "Psion Organiser I",
         "name": "Organiser I",
@@ -16444,6 +16762,24 @@
             ]
         }
     },
+    "SEGA Mega-Play": {
+        "id": "SEGA Mega-Play",
+        "name": "Mega-Play",
+        "company": "SEGA",
+        "matches": []
+    },
+    "SEGA Mega-Tech": {
+        "id": "SEGA Mega-Tech",
+        "name": "Mega-Tech",
+        "company": "SEGA",
+        "matches": []
+    },
+    "SEGA Sega Classics": {
+        "id": "SEGA Sega Classics",
+        "name": "Sega Classics",
+        "company": "SEGA",
+        "matches": []
+    },
     "SGI MIPS/IRIX": {
         "id": "SGI MIPS/IRIX",
         "name": "MIPS/IRIX",
@@ -16810,6 +17146,12 @@
         "altNames": [
             "SNK Neo Geo Pocket Color"
         ]
+    },
+    "SNK SNK Classics": {
+        "id": "SNK SNK Classics",
+        "name": "SNK Classics",
+        "company": "SNK",
+        "matches": []
     },
     "SSD Xavix Port": {
         "id": "SSD Xavix Port",
@@ -18537,6 +18879,18 @@
             "Sega WonderMega"
         ]
     },
+    "Seibu Kaihatsu Seibu Kaihatsu": {
+        "id": "Seibu Kaihatsu Seibu Kaihatsu",
+        "name": "Seibu Kaihatsu",
+        "company": "Seibu Kaihatsu",
+        "matches": []
+    },
+    "SemiCom SemiCom": {
+        "id": "SemiCom SemiCom",
+        "name": "SemiCom",
+        "company": "SemiCom",
+        "matches": []
+    },
     "Seta Aleck64": {
         "id": "Seta Aleck64",
         "name": "Aleck64",
@@ -20020,6 +20374,12 @@
             "Taikee Singing Star Karaoke"
         ]
     },
+    "Taito Taito Classics": {
+        "id": "Taito Taito Classics",
+        "name": "Taito Classics",
+        "company": "Taito",
+        "matches": []
+    },
     "Taito Type X": {
         "id": "Taito Type X",
         "name": "Type X",
@@ -20567,6 +20927,12 @@
         "altNames": [
             "Technosys Aamber Pegasus"
         ]
+    },
+    "Tecmo Tecmo": {
+        "id": "Tecmo Tecmo",
+        "name": "Tecmo",
+        "company": "Tecmo",
+        "matches": []
     },
     "Tektronix 4052": {
         "id": "Tektronix 4052",
@@ -21582,6 +21948,12 @@
         "altNames": [
             "Timex Sinclair TS-2068"
         ]
+    },
+    "Toaplan Toaplan": {
+        "id": "Toaplan Toaplan",
+        "name": "Toaplan",
+        "company": "Toaplan",
+        "matches": []
     },
     "Tomy KISS-Site": {
         "id": "Tomy KISS-Site",
@@ -22709,6 +23081,12 @@
             "Videoton TVC"
         ]
     },
+    "Visco Visco": {
+        "id": "Visco Visco",
+        "name": "Visco",
+        "company": "Visco",
+        "matches": []
+    },
     "Visual Pinball": {
         "id": "Visual Pinball",
         "name": "Visual Pinball",
@@ -23140,6 +23518,18 @@
         "altNames": [
             "Zeebo Zeebo"
         ]
+    },
+    "Zen Studios Pinball FX2": {
+        "id": "Zen Studios Pinball FX2",
+        "name": "Pinball FX2",
+        "company": "Zen Studios",
+        "matches": []
+    },
+    "Zen Studios Pinball FX3": {
+        "id": "Zen Studios Pinball FX3",
+        "name": "Pinball FX3",
+        "company": "Zen Studios",
+        "matches": []
     },
     "Zilog MCZ-2": {
         "id": "Zilog MCZ-2",
