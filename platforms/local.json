@@ -67,7 +67,8 @@
             "launchbox": [
                 "apxen_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "ADC Super Six": {
         "id": "ADC Super Six",
@@ -162,7 +163,8 @@
             "emucontrolcenter": [
                 "im"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "APF M-1000": {
         "id": "APF M-1000",
@@ -203,7 +205,8 @@
             "gamesdatabase": [
                 "4969"
             ]
-        }
+        },
+        "type": "Console"
     },
     "APF MP-1000": {
         "id": "APF MP-1000",
@@ -649,7 +652,8 @@
                 850,
                 989
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Acorn BBC Micro": {
         "id": "Acorn BBC Micro",
@@ -836,7 +840,8 @@
             "oldcomputers": [
                 1015
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Acorn System 1": {
         "id": "Acorn System 1",
@@ -862,7 +867,8 @@
                 "acrnsys_flop",
                 "acrnsys_rom"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Acorn Z80": {
         "id": "Acorn Z80",
@@ -1022,7 +1028,8 @@
             "oldcomputers": [
                 456
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Altos Computer Systems ACS-8600": {
         "id": "Altos Computer Systems ACS-8600",
@@ -1465,7 +1472,8 @@
             "launchbox": [
                 "pcw"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Amstrad PCW16": {
         "id": "Amstrad PCW16",
@@ -1591,7 +1599,8 @@
             "launchbox": [
                 "apple1"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Apple II": {
         "id": "Apple II",
@@ -1801,7 +1810,8 @@
                 "Apple - II Plus (Flux)",
                 "Apple - II Plus (WOZ)"
             ]
-        }
+        },
+        "type": "Transportable"
     },
     "Apple IIGS": {
         "id": "Apple IIGS",
@@ -1936,7 +1946,8 @@
             "launchbox": [
                 "apple3"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Apple IIe": {
         "id": "Apple IIe",
@@ -1954,7 +1965,8 @@
             "oldcomputers": [
                 83
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Apple Lisa": {
         "id": "Apple Lisa",
@@ -1983,7 +1995,8 @@
             "launchbox": [
                 "lisa"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Apple Macintosh 68k": {
         "id": "Apple Macintosh 68k",
@@ -1996,7 +2009,8 @@
             "emutopia": [
                 317
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Apple Macintosh PPC": {
         "id": "Apple Macintosh PPC",
@@ -2009,7 +2023,8 @@
             "emutopia": [
                 318
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Apple Macintosh": {
         "id": "Apple Macintosh",
@@ -2194,7 +2209,8 @@
                 "mbee_cart",
                 "mbee_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Applix 1616": {
         "id": "Applix 1616",
@@ -2364,7 +2380,8 @@
             "emutopia": [
                 320
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Atari 5200": {
         "id": "Atari 5200",
@@ -2798,7 +2815,8 @@
             "igdb": [
                 "63"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Atari Jaguar": {
         "id": "Atari Jaguar",
@@ -3216,7 +3234,8 @@
             "launchbox": [
                 "pofo"
             ]
-        }
+        },
+        "type": "Pocket"
     },
     "Atari ST": {
         "id": "Atari ST",
@@ -3475,7 +3494,8 @@
             "emutopia": [
                 320
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Atlus Atlus": {
         "id": "Atlus Atlus",
@@ -3545,7 +3565,8 @@
             "launchbox": [
                 "basf7100"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "BBC Bridge Companion": {
         "id": "BBC Bridge Companion",
@@ -4181,7 +4202,8 @@
             "tosec": [
                 "Bit Corporation BIT 90 - Games"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Bit Corporation Gamate": {
         "id": "Bit Corporation Gamate",
@@ -4213,7 +4235,8 @@
             "launchbox": [
                 "gamate"
             ]
-        }
+        },
+        "type": "Portable"
     },
     "Bondwell 12": {
         "id": "Bondwell 12",
@@ -4350,7 +4373,8 @@
             "launchbox": [
                 "comx35_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Cadaco Buzztime Trivia": {
         "id": "Cadaco Buzztime Trivia",
@@ -4452,7 +4476,8 @@
                 "x07_card",
                 "x07_cass"
             ]
-        }
+        },
+        "type": "Portable"
     },
     "Capcom Capcom Classics": {
         "id": "Capcom Capcom Classics",
@@ -4767,7 +4792,8 @@
             "tosecpix": [
                 "Casio PB-1000 - Books"
             ]
-        }
+        },
+        "type": "Pocket"
     },
     "Casio PB-2000C": {
         "id": "Casio PB-2000C",
@@ -4873,7 +4899,8 @@
             "launchbox": [
                 "pv2000"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Casper 68000": {
         "id": "Casper 68000",
@@ -5383,7 +5410,8 @@
             "retrobat": [
                 "c128"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Commodore 64": {
         "id": "Commodore 64",
@@ -6000,7 +6028,8 @@
             "launchbox": [
                 "c65_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Commodore 8096": {
         "id": "Commodore 8096",
@@ -6637,7 +6666,8 @@
             "arrm": [
                 "amiga500+"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Commodore Amiga 600": {
         "id": "Commodore Amiga 600",
@@ -7391,7 +7421,8 @@
             "oldcomputers": [
                 1291
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Commodore VIC-20": {
         "id": "Commodore VIC-20",
@@ -7526,7 +7557,8 @@
             "launchbox": [
                 "compclr2_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Compugraphic MCS-10": {
         "id": "Compugraphic MCS-10",
@@ -7606,7 +7638,8 @@
             "launchbox": [
                 "prof80"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Control Data Corporation CDC110": {
         "id": "Control Data Corporation CDC110",
@@ -7745,7 +7778,8 @@
             "emucontrolcenter": [
                 "cybiko"
             ]
-        }
+        },
+        "type": "Handheld"
     },
     "Cybiko Xtreme": {
         "id": "Cybiko Xtreme",
@@ -7811,7 +7845,8 @@
             "igdb": [
                 "95"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "DEC PDP-10": {
         "id": "DEC PDP-10",
@@ -7885,7 +7920,8 @@
             "emucontrolcenter": [
                 "pdp7"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "DEC PDP-8": {
         "id": "DEC PDP-8",
@@ -7923,7 +7959,8 @@
             "emutopia": [
                 330
             ]
-        }
+        },
+        "type": "Computer"
     },
     "DEC PDP-9": {
         "id": "DEC PDP-9",
@@ -7959,7 +7996,8 @@
             "launchbox": [
                 "rainbow"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "DEC VT-180": {
         "id": "DEC VT-180",
@@ -7976,7 +8014,8 @@
             "oldcomputers": [
                 605
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Data Applications International DAI Personal Computer": {
         "id": "Data Applications International DAI Personal Computer",
@@ -8000,7 +8039,8 @@
             "launchbox": [
                 "dai_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Data East Data East Classics": {
         "id": "Data East Data East Classics",
@@ -8743,7 +8783,8 @@
             "launchbox": [
                 "bk0010"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Elektronika BK-0011-411": {
         "id": "Elektronika BK-0011-411",
@@ -8762,7 +8803,8 @@
             "launchbox": [
                 "Elektronika BK"
             ]
-        }
+        },
+        "type": "Consoles"
     },
     "Elektronika MC-1502": {
         "id": "Elektronika MC-1502",
@@ -8935,7 +8977,8 @@
             "emutopia": [
                 334
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Entex Adventure Vision": {
         "id": "Entex Adventure Vision",
@@ -9398,7 +9441,8 @@
             "oldcomputers": [
                 521
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Exidy Sorcerer": {
         "id": "Exidy Sorcerer",
@@ -10194,7 +10238,8 @@
             "launchbox": [
                 "galaxy"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Galaksija Plus": {
         "id": "Galaksija Plus",
@@ -10211,7 +10256,8 @@
             "emucontrolcenter": [
                 "galplus"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "GamePark GP2X": {
         "id": "GamePark GP2X",
@@ -10519,7 +10565,8 @@
             "emutopia": [
                 328
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic CoreGrafX": {
         "id": "Generic CoreGrafX",
@@ -10732,7 +10779,8 @@
                 "iq151_cart",
                 "iq151_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic Incredible Technologies": {
         "id": "Generic Incredible Technologies",
@@ -10811,7 +10859,8 @@
             "emutopia": [
                 340
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic Korvet": {
         "id": "Generic Korvet",
@@ -10843,7 +10892,8 @@
             "emutopia": [
                 342
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic Linux": {
         "id": "Generic Linux",
@@ -11158,7 +11208,8 @@
             "emutopia": [
                 385
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic PC Motorola 68000": {
         "id": "Generic PC Motorola 68000",
@@ -11171,7 +11222,8 @@
             "emutopia": [
                 403
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic PC PPC": {
         "id": "Generic PC PPC",
@@ -11184,7 +11236,8 @@
             "emutopia": [
                 351
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic PC SPARC": {
         "id": "Generic PC SPARC",
@@ -11197,7 +11250,8 @@
             "emutopia": [
                 352
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic PC x86 - x86-64": {
         "id": "Generic PC x86 - x86-64",
@@ -11210,7 +11264,8 @@
             "emutopia": [
                 353
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic PHC-25": {
         "id": "Generic PHC-25",
@@ -11229,7 +11284,8 @@
             "launchbox": [
                 "phc25_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic PT68K2": {
         "id": "Generic PT68K2",
@@ -11679,7 +11735,8 @@
             "launchbox": [
                 "squale_cart"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Generic Standard MIDI": {
         "id": "Generic Standard MIDI",
@@ -11870,7 +11927,8 @@
             "arrm": [
                 "internet"
             ]
-        }
+        },
+        "type": "--system"
     },
     "Generic non Jeu": {
         "id": "Generic non Jeu",
@@ -11940,7 +11998,8 @@
             "launchbox": [
                 "gimix"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Gottlieb Gottlieb": {
         "id": "Gottlieb Gottlieb",
@@ -12051,7 +12110,8 @@
                 "rx78_cart",
                 "rx78_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Handheld Electronic Games (LCD)": {
         "id": "Handheld Electronic Games (LCD)",
@@ -12067,7 +12127,8 @@
             "oldcomputers": [
                 108
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Hanimex Pencil II": {
         "id": "Hanimex Pencil II",
@@ -12089,7 +12150,8 @@
             "launchbox": [
                 "pencil2"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Hartung Game Master": {
         "id": "Hartung Game Master",
@@ -12170,7 +12232,8 @@
             "oldcomputers": [
                 142
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Hewlett-Packard 16500A": {
         "id": "Hewlett-Packard 16500A",
@@ -12275,7 +12338,8 @@
             "emutopia": [
                 373
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-15C": {
         "id": "Hewlett-Packard HP-15C",
@@ -12288,7 +12352,8 @@
             "emutopia": [
                 241
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-17B": {
         "id": "Hewlett-Packard HP-17B",
@@ -12301,7 +12366,8 @@
             "emutopia": [
                 374
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-18C": {
         "id": "Hewlett-Packard HP-18C",
@@ -12314,7 +12380,8 @@
             "emutopia": [
                 242
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-19B": {
         "id": "Hewlett-Packard HP-19B",
@@ -12327,7 +12394,8 @@
             "emutopia": [
                 377
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-27S": {
         "id": "Hewlett-Packard HP-27S",
@@ -12340,7 +12408,8 @@
             "emutopia": [
                 375
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-28C": {
         "id": "Hewlett-Packard HP-28C",
@@ -12353,7 +12422,8 @@
             "emutopia": [
                 243
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-28S": {
         "id": "Hewlett-Packard HP-28S",
@@ -12366,7 +12436,8 @@
             "emutopia": [
                 378
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-32S": {
         "id": "Hewlett-Packard HP-32S",
@@ -12379,7 +12450,8 @@
             "emutopia": [
                 376
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-42S": {
         "id": "Hewlett-Packard HP-42S",
@@ -12392,7 +12464,8 @@
             "emutopia": [
                 244
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP-86/7": {
         "id": "Hewlett-Packard HP-86/7",
@@ -12425,7 +12498,8 @@
                 "Hewlett-Packard HP48 - Firmware",
                 "Hewlett-Packard HP48 - Various"
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Hewlett-Packard HP49": {
         "id": "Hewlett-Packard HP49",
@@ -12461,7 +12535,8 @@
             "launchbox": [
                 "hp85_rom"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Hewlett-Packard HP9000-300": {
         "id": "Hewlett-Packard HP9000-300",
@@ -12517,7 +12592,8 @@
                 "Hitachi Basic Master Jr. - Games - [BIN]",
                 "Hitachi Basic Master Jr. - Games - [WAV]"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Hitachi Basic Master Level 2": {
         "id": "Hitachi Basic Master Level 2",
@@ -12572,7 +12648,8 @@
                 "Hitachi S1 - Games - [L3C]",
                 "Hitachi S1 - Games - [WAV]"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "HomeLab": {
         "id": "HomeLab",
@@ -12596,7 +12673,8 @@
             "oldcomputers": [
                 1095
             ]
-        }
+        },
+        "type": "Computer"
     },
     "HomeLab BraiLab": {
         "id": "HomeLab BraiLab",
@@ -12978,7 +13056,8 @@
             "oldcomputers": [
                 1295
             ]
-        }
+        },
+        "type": "Computer"
     },
     "ITT 3030": {
         "id": "ITT 3030",
@@ -12997,7 +13076,8 @@
             "launchbox": [
                 "itt3030"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "IVL Technologies Easy Karaoke": {
         "id": "IVL Technologies Easy Karaoke",
@@ -13032,7 +13112,8 @@
             "oldcomputers": [
                 526
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Infocom Z-Machine": {
         "id": "Infocom Z-Machine",
@@ -13156,7 +13237,8 @@
             "hfsdb": [
                 "240876"
             ]
-        }
+        },
+        "type": "Console"
     },
     "Irem Irem Classics": {
         "id": "Irem Irem Classics",
@@ -13226,7 +13308,8 @@
             "launchbox": [
                 "dps1"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "JAKKS Pacific 'DP' Game Keys": {
         "id": "JAKKS Pacific 'DP' Game Keys",
@@ -13424,7 +13507,8 @@
             "launchbox": [
                 "vii"
             ]
-        }
+        },
+        "type": "Console"
     },
     "Jupiter Cantab Jupiter Ace": {
         "id": "Jupiter Cantab Jupiter Ace",
@@ -13558,7 +13642,8 @@
             "oldcomputers": [
                 550
             ]
-        }
+        },
+        "type": "Transportable"
     },
     "Keio University K-1": {
         "id": "Keio University K-1",
@@ -14019,7 +14104,8 @@
                 "abc80_cass",
                 "abc80_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Luxor ABC 800": {
         "id": "Luxor ABC 800",
@@ -14125,7 +14211,8 @@
             "emucontrolcenter": [
                 "lviv"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "M&D Monon Color": {
         "id": "M&D Monon Color",
@@ -14272,7 +14359,8 @@
             "emutopia": [
                 310
             ]
-        }
+        },
+        "type": "Computer"
     },
     "MOS KIM-1": {
         "id": "MOS KIM-1",
@@ -14377,7 +14465,8 @@
             "emucontrolcenter": [
                 "msxtr"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Magnavox Odyssey 1": {
         "id": "Magnavox Odyssey 1",
@@ -14403,7 +14492,8 @@
             "emutopia": [
                 281
             ]
-        }
+        },
+        "type": "Consoles"
     },
     "Magnavox Odyssey 2": {
         "id": "Magnavox Odyssey 2",
@@ -14560,7 +14650,8 @@
             "oldcomputers": [
                 60
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Matra Hachette Alice 90": {
         "id": "Matra Hachette Alice 90",
@@ -14583,7 +14674,8 @@
             "launchbox": [
                 "alice90"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Matsushita National JR 200": {
         "id": "Matsushita National JR 200",
@@ -14602,7 +14694,8 @@
             "oldcomputers": [
                 324
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Matsushita National JR-100": {
         "id": "Matsushita National JR-100",
@@ -14654,7 +14747,8 @@
             "emucontrolcenter": [
                 "aqua"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Mattel Fisher-Price iXL": {
         "id": "Mattel Fisher-Price iXL",
@@ -14885,7 +14979,8 @@
             "emucontrolcenter": [
                 "mtx"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Memotech MTX512": {
         "id": "Memotech MTX512",
@@ -15076,7 +15171,8 @@
             "emucontrolcenter": [
                 "primo"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Microsoft MS-DOS": {
         "id": "Microsoft MS-DOS",
@@ -15812,7 +15908,8 @@
                 "mt65_cass",
                 "mt65_snap"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Midway Midway Classics": {
         "id": "Midway Midway Classics",
@@ -15995,7 +16092,8 @@
                 "Mitsubishi Multi 8 - Games - [CMT]",
                 "Mitsubishi Multi 8 - Games - [WAV]"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Mobile J2ME": {
         "id": "Mobile J2ME",
@@ -16014,7 +16112,8 @@
             "arrm": [
                 "j2me"
             ]
-        }
+        },
+        "type": "Portable"
     },
     "Mobile Pocket PC": {
         "id": "Mobile Pocket PC",
@@ -16114,7 +16213,8 @@
             "launchbox": [
                 "dmv"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "NEC Advanced Personal Computer": {
         "id": "NEC Advanced Personal Computer",
@@ -16141,7 +16241,8 @@
             "launchbox": [
                 "apc"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "NEC PC Engine CD & TurboGrafx CD": {
         "id": "NEC PC Engine CD & TurboGrafx CD",
@@ -16263,7 +16364,8 @@
             "launchbox": [
                 "pc6001_cart"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "NEC PC-8001": {
         "id": "NEC PC-8001",
@@ -16293,7 +16395,8 @@
                 "pc8001mk2_flop",
                 "pc8001mk2sr_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "NEC PC-8201": {
         "id": "NEC PC-8201",
@@ -16738,7 +16841,8 @@
             "launchbox": [
                 "pcecd"
             ]
-        }
+        },
+        "type": "Consoles"
     },
     "NEC PC-Engine CD & TurboGrafx-16 CD": {
         "id": "NEC PC-Engine CD & TurboGrafx-16 CD",
@@ -16898,7 +17002,8 @@
             "emutopia": [
                 412
             ]
-        }
+        },
+        "type": "Computer"
     },
     "NEC TurboGrafx-CD": {
         "id": "NEC TurboGrafx-CD",
@@ -18715,7 +18820,8 @@
             "toseciso": [
                 "Nintendo Super Famicom & Super Entertainment System - Voicer-kun Audio CDs"
             ]
-        }
+        },
+        "type": "Consoles"
     },
     "Nintendo Super Game Boy 2": {
         "id": "Nintendo Super Game Boy 2",
@@ -19301,7 +19407,8 @@
             "oldcomputers": [
                 652
             ]
-        }
+        },
+        "type": "Computer"
     },
     "NorthStar Horizon": {
         "id": "NorthStar Horizon",
@@ -19328,7 +19435,8 @@
             "launchbox": [
                 "horizon"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Nuclear Data ND4410 & ND4420": {
         "id": "Nuclear Data ND4410 & ND4420",
@@ -19441,7 +19549,8 @@
             "tosec": [
                 "Ohio Scientific Challenger 1P - Games"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Olivetti M20": {
         "id": "Olivetti M20",
@@ -19463,7 +19572,8 @@
             "launchbox": [
                 "m20"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Olivetti M24": {
         "id": "Olivetti M24",
@@ -19482,7 +19592,8 @@
             "launchbox": [
                 "m24"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Olivetti Prodest PC 128": {
         "id": "Olivetti Prodest PC 128",
@@ -19505,7 +19616,8 @@
                 "pro128_cass",
                 "pro128_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Olivetti Prodest PC 128S": {
         "id": "Olivetti Prodest PC 128S",
@@ -19524,7 +19636,8 @@
             "launchbox": [
                 "pro128s_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Otrona Attache": {
         "id": "Otrona Attache",
@@ -19548,7 +19661,8 @@
             "launchbox": [
                 "attache"
             ]
-        }
+        },
+        "type": "Transportable"
     },
     "Ouya": {
         "id": "Ouya",
@@ -19607,7 +19721,8 @@
             "launchbox": [
                 "orao"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "PTC Sol Terminal Computer SOL-20": {
         "id": "PTC Sol Terminal Computer SOL-20",
@@ -19969,7 +20084,8 @@
             "emucontrolcenter": [
                 "p2000"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Philips VG 5000": {
         "id": "Philips VG 5000",
@@ -19998,7 +20114,8 @@
             "emucontrolcenter": [
                 "vg5000"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Philips Videopac / Odyssey 2": {
         "id": "Philips Videopac / Odyssey 2",
@@ -20107,7 +20224,8 @@
             "tosec": [
                 "Pravetz 8D - Games - [DSK]"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Psikyo Psikyo": {
         "id": "Psikyo Psikyo",
@@ -20176,7 +20294,8 @@
             "launchbox": [
                 "psion2"
             ]
-        }
+        },
+        "type": "Pocket"
     },
     "Publications International Ltd Story Reader 2.0": {
         "id": "Publications International Ltd Story Reader 2.0",
@@ -20235,7 +20354,8 @@
             "launchbox": [
                 "chip8_quik"
             ]
-        }
+        },
+        "type": "Misc"
     },
     "RCA Microboard Computer Development System": {
         "id": "RCA Microboard Computer Development System",
@@ -20284,7 +20404,8 @@
             "emucontrolcenter": [
                 "studio2"
             ]
-        }
+        },
+        "type": "Console"
     },
     "RCA Superchip": {
         "id": "RCA Superchip",
@@ -20322,7 +20443,8 @@
             "launchbox": [
                 "vip"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "RM Nimbus PC": {
         "id": "RM Nimbus PC",
@@ -20346,7 +20468,8 @@
             "launchbox": [
                 "nimbus"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "ROLM CBX 9751 floppy": {
         "id": "ROLM CBX 9751 floppy",
@@ -20400,7 +20523,8 @@
                 "radio86_cass",
                 "radio86_cart"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Radio-86RK Apogej BK-01": {
         "id": "Radio-86RK Apogej BK-01",
@@ -20601,7 +20725,8 @@
                 "Robotron Z9001 & KC85 1 - Games",
                 "Robotron Z9001 & KC85 1 - Various"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Rockwell AIM 65": {
         "id": "Rockwell AIM 65",
@@ -20623,7 +20748,8 @@
             "launchbox": [
                 "aim65_cart"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Roland R-8": {
         "id": "Roland R-8",
@@ -20722,7 +20848,8 @@
             "launchbox": [
                 "sdk85"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "SEGA Mega-Play": {
         "id": "SEGA Mega-Play",
@@ -21360,7 +21487,8 @@
             "launchbox": [
                 "sage2"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Saitek Endgame": {
         "id": "Saitek Endgame",
@@ -21507,7 +21635,8 @@
             "launchbox": [
                 "spc1000_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Samsung SPC-1500": {
         "id": "Samsung SPC-1500",
@@ -22512,7 +22641,8 @@
             "launchbox": [
                 "Sega Genesis"
             ]
-        }
+        },
+        "type": "Consoles"
     },
     "Sega MegaTech": {
         "id": "Sega MegaTech",
@@ -22544,7 +22674,8 @@
             "emucontrolcenter": [
                 "model1"
             ]
-        }
+        },
+        "type": "Arcade"
     },
     "Sega Model 2": {
         "id": "Sega Model 2",
@@ -22952,7 +23083,8 @@
             "emucontrolcenter": [
                 "sc3000"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Sega SG-1000": {
         "id": "Sega SG-1000",
@@ -23248,7 +23380,8 @@
             "emucontrolcenter": [
                 "s16"
             ]
-        }
+        },
+        "type": "Arcade"
     },
     "Sega System 32": {
         "id": "Sega System 32",
@@ -23280,7 +23413,8 @@
             "launchbox": [
                 "stv"
             ]
-        }
+        },
+        "type": "Arcade"
     },
     "Sega Visual Memory System": {
         "id": "Sega Visual Memory System",
@@ -23434,7 +23568,8 @@
                 "mz2000_flop",
                 "mz2000_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Sharp MZ-2200": {
         "id": "Sharp MZ-2200",
@@ -23480,7 +23615,8 @@
             "emucontrolcenter": [
                 "mz2500"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Sharp MZ-700": {
         "id": "Sharp MZ-700",
@@ -23509,7 +23645,8 @@
             "launchbox": [
                 "mz700_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Sharp MZ-800": {
         "id": "Sharp MZ-800",
@@ -23535,7 +23672,8 @@
             "launchbox": [
                 "mz800_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Sharp MZ-80B": {
         "id": "Sharp MZ-80B",
@@ -23690,7 +23828,8 @@
             "oldcomputers": [
                 259
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Sharp X68000": {
         "id": "Sharp X68000",
@@ -23877,7 +24016,8 @@
                 "ql_cass",
                 "ql_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Sinclair ZX Microdrive": {
         "id": "Sinclair ZX Microdrive",
@@ -24872,7 +25012,8 @@
             "emucontrolcenter": [
                 "pstation"
             ]
-        }
+        },
+        "type": "Handheld"
     },
     "Sony SMC-777": {
         "id": "Sony SMC-777",
@@ -24913,7 +25054,8 @@
             "emutopia": [
                 221
             ]
-        }
+        },
+        "type": "Arcade"
     },
     "Sord M5": {
         "id": "Sord M5",
@@ -24945,7 +25087,8 @@
             "emucontrolcenter": [
                 "sordm5"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Specialist": {
         "id": "Specialist",
@@ -25409,7 +25552,8 @@
             "launchbox": [
                 "mc10"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tandy Radio Shack TRS-80 Model 100": {
         "id": "Tandy Radio Shack TRS-80 Model 100",
@@ -25432,7 +25576,8 @@
             "launchbox": [
                 "trsm100"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tandy Radio Shack TRS-80 Model 4": {
         "id": "Tandy Radio Shack TRS-80 Model 4",
@@ -25448,7 +25593,8 @@
             "tosec": [
                 "Tandy Radio Shack TRS-80 Model 4 - Various"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tandy Radio Shack TRS-80 Model I": {
         "id": "Tandy Radio Shack TRS-80 Model I",
@@ -25464,7 +25610,8 @@
             "tosec": [
                 "Tandy Radio Shack TRS-80 Model I - Various"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tandy Radio Shack TRS-80 Model II": {
         "id": "Tandy Radio Shack TRS-80 Model II",
@@ -25483,7 +25630,8 @@
             "launchbox": [
                 "trs80m2"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tandy Radio Shack TRS-80 Model III": {
         "id": "Tandy Radio Shack TRS-80 Model III",
@@ -25502,7 +25650,8 @@
             "oldcomputers": [
                 18
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tandy Radio Shack Tandy 1000 series": {
         "id": "Tandy Radio Shack Tandy 1000 series",
@@ -25590,7 +25739,8 @@
             "oldcomputers": [
                 235
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tangerine Oric-1 & Oric Atmos": {
         "id": "Tangerine Oric-1 & Oric Atmos",
@@ -25731,7 +25881,8 @@
             "launchbox": [
                 "einstein"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Technosys Aamber Pegasus": {
         "id": "Technosys Aamber Pegasus",
@@ -25885,7 +26036,8 @@
             "launchbox": [
                 "zorba"
             ]
-        }
+        },
+        "type": "Portable"
     },
     "TeleVideo Systems TS-802 & TS-802H": {
         "id": "TeleVideo Systems TS-802 & TS-802H",
@@ -25950,7 +26102,8 @@
             "launchbox": [
                 "compis"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Telmac TMC-600": {
         "id": "Telmac TMC-600",
@@ -26004,7 +26157,8 @@
             "launchbox": [
                 "ondra"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tesla PMD-85": {
         "id": "Tesla PMD-85",
@@ -26030,7 +26184,8 @@
             "launchbox": [
                 "pmd85_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Texas Instruments CC-40": {
         "id": "Texas Instruments CC-40",
@@ -26096,7 +26251,8 @@
             "emutopia": [
                 246
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Texas Instruments TI-73": {
         "id": "Texas Instruments TI-73",
@@ -26194,7 +26350,8 @@
             "emutopia": [
                 247
             ]
-        }
+        },
+        "type": "Calculator"
     },
     "Texas Instruments TI-83": {
         "id": "Texas Instruments TI-83",
@@ -26218,7 +26375,8 @@
             "emutopia": [
                 248
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Texas Instruments TI-84": {
         "id": "Texas Instruments TI-84",
@@ -26231,7 +26389,8 @@
             "emutopia": [
                 249
             ]
-        }
+        },
+        "type": "Calculators"
     },
     "Texas Instruments TI-85": {
         "id": "Texas Instruments TI-85",
@@ -26251,7 +26410,8 @@
             "emutopia": [
                 250
             ]
-        }
+        },
+        "type": "Calculator"
     },
     "Texas Instruments TI-86": {
         "id": "Texas Instruments TI-86",
@@ -26271,7 +26431,8 @@
             "emutopia": [
                 251
             ]
-        }
+        },
+        "type": "Calculator"
     },
     "Texas Instruments TI-89": {
         "id": "Texas Instruments TI-89",
@@ -26305,7 +26466,8 @@
             "emutopia": [
                 252
             ]
-        }
+        },
+        "type": "Calculator"
     },
     "Texas Instruments TI-95": {
         "id": "Texas Instruments TI-95",
@@ -26767,7 +26929,8 @@
                 "Thomson TO8, TO8D, TO9, TO9+ - Miscellaneous",
                 "Thomson TO8, TO8D, TO9, TO9+ - System"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tiger Electronics Game.com": {
         "id": "Tiger Electronics Game.com",
@@ -26842,7 +27005,8 @@
             "emucontrolcenter": [
                 "gizmondo"
             ]
-        }
+        },
+        "type": "Handheld"
     },
     "Tiger Electronics K28 Talking Learning Computer": {
         "id": "Tiger Electronics K28 Talking Learning Computer",
@@ -26918,7 +27082,8 @@
             "launchbox": [
                 "tiki100"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "TimeTop GameKing": {
         "id": "TimeTop GameKing",
@@ -26941,7 +27106,8 @@
             "launchbox": [
                 "gameking"
             ]
-        }
+        },
+        "type": "Handhelds"
     },
     "TimeTop GameKing 3": {
         "id": "TimeTop GameKing 3",
@@ -26984,7 +27150,8 @@
                 "timex_cass",
                 "timex_dock"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Toaplan Toaplan": {
         "id": "Toaplan Toaplan",
@@ -27079,7 +27246,8 @@
             "hfsdb": [
                 "240926"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tomy Tutor & Pyuuta": {
         "id": "Tomy Tutor & Pyuuta",
@@ -27102,7 +27270,8 @@
             "launchbox": [
                 "tutor"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tomy evio": {
         "id": "Tomy evio",
@@ -27150,7 +27319,8 @@
             "tosec": [
                 "Toshiba Pasopia 7 - Games"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Toshiba Personal Computer Pasopia PA7010": {
         "id": "Toshiba Personal Computer Pasopia PA7010",
@@ -27184,7 +27354,8 @@
             "launchbox": [
                 "pasopia_cass"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Toshiba Visicom": {
         "id": "Toshiba Visicom",
@@ -27277,7 +27448,8 @@
                 "alphatro_flop",
                 "alphatro_cart"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Tsukuda Original Othello Multivision": {
         "id": "Tsukuda Original Othello Multivision",
@@ -27536,7 +27708,8 @@
             "mame": [
                 "nuon"
             ]
-        }
+        },
+        "type": "Consoles"
     },
     "VTech CreatiVision": {
         "id": "VTech CreatiVision",
@@ -27862,7 +28035,8 @@
             "emutopia": [
                 369
             ]
-        }
+        },
+        "type": "Computer"
     },
     "VTech Laser 2001": {
         "id": "VTech Laser 2001",
@@ -27883,7 +28057,8 @@
                 "laser2001_cart",
                 "laser2001_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "VTech Laser 3000 & Dick Smith CAT": {
         "id": "VTech Laser 3000 & Dick Smith CAT",
@@ -27915,7 +28090,8 @@
             "emutopia": [
                 370
             ]
-        }
+        },
+        "type": "Computer"
     },
     "VTech Laser 350, 500, 700 & 750": {
         "id": "VTech Laser 350, 500, 700 & 750",
@@ -28223,7 +28399,8 @@
                 "tvc_cass",
                 "tvc_flop"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Visco Visco": {
         "id": "Visco Visco",
@@ -28326,7 +28503,8 @@
                 "v1050_flop",
                 "v1050_hdd"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Voltmace Database": {
         "id": "Voltmace Database",
@@ -28589,7 +28767,8 @@
             "oldcomputers": [
                 1052
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Xerox 820": {
         "id": "Xerox 820",
@@ -28612,7 +28791,8 @@
             "launchbox": [
                 "xerox820"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Xerox 820-II": {
         "id": "Xerox 820-II",
@@ -28636,7 +28816,8 @@
             "launchbox": [
                 "xerox820ii"
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Xerox 860": {
         "id": "Xerox 860",
@@ -28654,7 +28835,8 @@
             "oldcomputers": [
                 488
             ]
-        }
+        },
+        "type": "Computer"
     },
     "Yamaha Copera": {
         "id": "Yamaha Copera",
