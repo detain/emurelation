@@ -2,7 +2,10 @@
     "8-Bit Productions": {
         "id": "8-Bit Productions",
         "name": "8-Bit Productions",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "8-Bit Productions Commander X16"
+        ]
     },
     "ACT": {
         "id": "ACT",
@@ -11,22 +14,36 @@
             "oldcomputers": [
                 "ACT"
             ]
-        }
+        },
+        "platforms": [
+            "ACT Apricot",
+            "ACT Apricot PC-Xi",
+            "ACT Apricot XEN"
+        ]
     },
     "ADC": {
         "id": "ADC",
         "name": "ADC",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "ADC Super Six"
+        ]
     },
     "AEG": {
         "id": "AEG",
         "name": "AEG",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "AEG Olympia Olytext 20"
+        ]
     },
     "AMPRO Computers": {
         "id": "AMPRO Computers",
         "name": "AMPRO Computers",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "AMPRO Computers LittleBoard Z80"
+        ]
     },
     "APF": {
         "id": "APF",
@@ -41,17 +58,29 @@
             "oldcomputers": [
                 "APF"
             ]
-        }
+        },
+        "platforms": [
+            "APF Imagination Machine",
+            "APF M-1000",
+            "APF MP-1000",
+            "APF PeCos One"
+        ]
     },
     "AT&T": {
         "id": "AT&T",
         "name": "AT&T",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "AT&T 3B20"
+        ]
     },
     "AVE Micro Systems": {
         "id": "AVE Micro Systems",
         "name": "AVE Micro Systems",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "AVE Micro Systems ARB"
+        ]
     },
     "Acclaim": {
         "id": "Acclaim",
@@ -60,7 +89,10 @@
             "screenscraper": [
                 "Acclaim"
             ]
-        }
+        },
+        "platforms": [
+            "Acclaim Acclaim"
+        ]
     },
     "Acetronic": {
         "id": "Acetronic",
@@ -69,7 +101,10 @@
             "oldcomputers": [
                 "Acetronic"
             ]
-        }
+        },
+        "platforms": [
+            "Acetronic MPU-1000"
+        ]
     },
     "Acorn": {
         "id": "Acorn",
@@ -85,7 +120,20 @@
             "recalbox": [
                 "Acorn"
             ]
-        }
+        },
+        "platforms": [
+            "Acorn Archimedes",
+            "Acorn Atom",
+            "Acorn BBC",
+            "Acorn BBC Master",
+            "Acorn BBC Micro",
+            "Acorn Electron",
+            "Acorn FileStore",
+            "Acorn FileStore E01",
+            "Acorn Risc PC",
+            "Acorn System 1",
+            "Acorn Z80"
+        ]
     },
     "Adobe": {
         "id": "Adobe",
@@ -97,22 +145,35 @@
             "arrm": [
                 "Adobe"
             ]
-        }
+        },
+        "platforms": [
+            "Adobe Flash"
+        ]
     },
     "Advanced Computer Design": {
         "id": "Advanced Computer Design",
         "name": "Advanced Computer Design",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Advanced Computer Design PDQ-3"
+        ]
     },
     "AlphaSmart": {
         "id": "AlphaSmart",
         "name": "AlphaSmart",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "AlphaSmart 3000",
+            "AlphaSmart Pro"
+        ]
     },
     "Alspa Computers": {
         "id": "Alspa Computers",
         "name": "Alspa Computers",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Alspa Computers ALSPA"
+        ]
     },
     "Altos Computer Systems": {
         "id": "Altos Computer Systems",
@@ -121,7 +182,13 @@
             "oldcomputers": [
                 "Altos Computer Systems"
             ]
-        }
+        },
+        "platforms": [
+            "Altos Computer Systems ACS-186, 586, 686 & 986",
+            "Altos Computer Systems ACS-8000",
+            "Altos Computer Systems ACS-8600",
+            "Altos Computer Systems Series 5"
+        ]
     },
     "Amcoe": {
         "id": "Amcoe",
@@ -130,7 +197,10 @@
             "screenscraper": [
                 "Amcoe"
             ]
-        }
+        },
+        "platforms": [
+            "Amcoe Amcoe"
+        ]
     },
     "American Laser Games": {
         "id": "American Laser Games",
@@ -139,7 +209,11 @@
             "screenscraper": [
                 "American Laser Games"
             ]
-        }
+        },
+        "platforms": [
+            "American Laser Games American Laser Games",
+            "American Laser Games CD-ROM System"
+        ]
     },
     "Amstrad": {
         "id": "Amstrad",
@@ -164,17 +238,37 @@
             "arrm": [
                 "Amstrad"
             ]
-        }
+        },
+        "platforms": [
+            "Amstrad CPC",
+            "Amstrad GX4000",
+            "Amstrad Mega PC",
+            "Amstrad NC-100",
+            "Amstrad NC-200",
+            "Amstrad PC1512",
+            "Amstrad PC1640",
+            "Amstrad PCW",
+            "Amstrad PCW16"
+        ]
     },
     "Analogue": {
         "id": "Analogue",
         "name": "Analogue",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Analogue Mega Sg",
+            "Analogue Nt Mini Noir",
+            "Analogue Pocket",
+            "Analogue Super Nt"
+        ]
     },
     "Apogee": {
         "id": "Apogee",
         "name": "Apogee",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Apogee BK-01"
+        ]
     },
     "Apple": {
         "id": "Apple",
@@ -198,7 +292,21 @@
             "arrm": [
                 "Apple"
             ]
-        }
+        },
+        "platforms": [
+            "Apple I",
+            "Apple II",
+            "Apple II Plus",
+            "Apple IIGS",
+            "Apple III",
+            "Apple IIe",
+            "Apple Lisa",
+            "Apple Macintosh 68k",
+            "Apple Macintosh PPC",
+            "Apple Macintosh",
+            "Apple iOS",
+            "Apple iPad"
+        ]
     },
     "Applied Technology": {
         "id": "Applied Technology",
@@ -207,17 +315,26 @@
             "emucontrolcenter": [
                 "Applied Technologies"
             ]
-        }
+        },
+        "platforms": [
+            "Applied Technology MicroBee"
+        ]
     },
     "Applix": {
         "id": "Applix",
         "name": "Applix",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Applix 1616"
+        ]
     },
     "Aquaplus": {
         "id": "Aquaplus",
         "name": "Aquaplus",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Aquaplus P-ECE"
+        ]
     },
     "Atari": {
         "id": "Atari",
@@ -244,7 +361,26 @@
             "arrm": [
                 "Atari"
             ]
-        }
+        },
+        "platforms": [
+            "Atari 2600",
+            "Atari 400",
+            "Atari 5200",
+            "Atari 7800",
+            "Atari 800",
+            "Atari Atari 2600 Supercharger",
+            "Atari Atari Classics",
+            "Atari Falcon030",
+            "Atari Jaguar",
+            "Atari Jaguar CD",
+            "Atari Lynx",
+            "Atari PC",
+            "Atari Portfolio",
+            "Atari ST",
+            "Atari XE",
+            "Atari XEGS",
+            "Atari XL"
+        ]
     },
     "Atlus": {
         "id": "Atlus",
@@ -253,12 +389,18 @@
             "screenscraper": [
                 "Atlus"
             ]
-        }
+        },
+        "platforms": [
+            "Atlus Atlus"
+        ]
     },
     "Aussie": {
         "id": "Aussie",
         "name": "Aussie",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Aussie Byte II"
+        ]
     },
     "BASF": {
         "id": "BASF",
@@ -267,27 +409,42 @@
             "oldcomputers": [
                 "BASF"
             ]
-        }
+        },
+        "platforms": [
+            "BASF 7100"
+        ]
     },
     "BBC": {
         "id": "BBC",
         "name": "BBC",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "BBC Bridge Companion"
+        ]
     },
     "BGR Computers": {
         "id": "BGR Computers",
         "name": "BGR Computers",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "BGR Computers Excalibur 64"
+        ]
     },
     "BNPO": {
         "id": "BNPO",
         "name": "BNPO",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "BNPO Bashkiria-2M"
+        ]
     },
     "Baiyi": {
         "id": "Baiyi",
         "name": "Baiyi",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Baiyi C2 Color & Card"
+        ]
     },
     "Bally": {
         "id": "Bally",
@@ -302,7 +459,10 @@
             "arrm": [
                 "Bally"
             ]
-        }
+        },
+        "platforms": [
+            "Bally Professional Arcade & Astrocade"
+        ]
     },
     "Bandai": {
         "id": "Bandai",
@@ -320,7 +480,19 @@
             "arrm": [
                 "Bandai"
             ]
-        }
+        },
+        "platforms": [
+            "Bandai Design Master",
+            "Bandai Gundam RX-78",
+            "Bandai Karaoke Ranking Party",
+            "Bandai Pippin",
+            "Bandai Pippin @World & Pippin Atmark",
+            "Bandai Playdia",
+            "Bandai Super Note Club",
+            "Bandai Super Vision 8000",
+            "Bandai WonderSwan",
+            "Bandai WonderSwan Color"
+        ]
     },
     "Banpresto": {
         "id": "Banpresto",
@@ -329,7 +501,10 @@
             "screenscraper": [
                 "Banpresto"
             ]
-        }
+        },
+        "platforms": [
+            "Banpresto Banpresto"
+        ]
     },
     "Benesse": {
         "id": "Benesse",
@@ -341,17 +516,27 @@
             "recalbox": [
                 "Benesse"
             ]
-        }
+        },
+        "platforms": [
+            "Benesse Pocket Challenge V2",
+            "Benesse Pocket Challenge W"
+        ]
     },
     "Bernd Huebler": {
         "id": "Bernd Huebler",
         "name": "Bernd Huebler",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Bernd Huebler Huebler-Grafik-MC"
+        ]
     },
     "Bernd Huebler & Klaus-Peter Evert": {
         "id": "Bernd Huebler & Klaus-Peter Evert",
         "name": "Bernd Huebler & Klaus-Peter Evert",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC"
+        ]
     },
     "Bit Corporation": {
         "id": "Bit Corporation",
@@ -361,7 +546,11 @@
                 "BIT CORPORATION",
                 "Bit Corporation"
             ]
-        }
+        },
+        "platforms": [
+            "Bit Corporation BIT 90",
+            "Bit Corporation Gamate"
+        ]
     },
     "Bondwell": {
         "id": "Bondwell",
@@ -370,12 +559,21 @@
             "emucontrolcenter": [
                 "Bondwell"
             ]
-        }
+        },
+        "platforms": [
+            "Bondwell 12",
+            "Bondwell 14",
+            "Bondwell 2"
+        ]
     },
     "Burroughs": {
         "id": "Burroughs",
         "name": "Burroughs",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Burroughs B1000 Series",
+            "Burroughs B20"
+        ]
     },
     "CCE": {
         "id": "CCE",
@@ -384,7 +582,10 @@
             "oldcomputers": [
                 "CCE"
             ]
-        }
+        },
+        "platforms": [
+            "CCE MC-1000"
+        ]
     },
     "COMX": {
         "id": "COMX",
@@ -393,17 +594,26 @@
             "emucontrolcenter": [
                 "Comx WOL"
             ]
-        }
+        },
+        "platforms": [
+            "COMX COMX-35"
+        ]
     },
     "Cadaco": {
         "id": "Cadaco",
         "name": "Cadaco",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Cadaco Buzztime Trivia"
+        ]
     },
     "Cambridge Computer": {
         "id": "Cambridge Computer",
         "name": "Cambridge Computer",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Cambridge Computer Z88"
+        ]
     },
     "Camputers": {
         "id": "Camputers",
@@ -421,7 +631,10 @@
             "arrm": [
                 "Camputers"
             ]
-        }
+        },
+        "platforms": [
+            "Camputers Lynx"
+        ]
     },
     "Canon": {
         "id": "Canon",
@@ -430,7 +643,10 @@
             "oldcomputers": [
                 "Canon"
             ]
-        }
+        },
+        "platforms": [
+            "Canon X-07"
+        ]
     },
     "Capcom": {
         "id": "Capcom",
@@ -445,7 +661,13 @@
             "arrm": [
                 "Capcom"
             ]
-        }
+        },
+        "platforms": [
+            "Capcom Capcom Classics",
+            "Capcom Capcom Play System 1",
+            "Capcom Capcom Play System 2",
+            "Capcom Capcom Play System III"
+        ]
     },
     "Casio": {
         "id": "Casio",
@@ -466,12 +688,25 @@
             "arrm": [
                 "Casio"
             ]
-        }
+        },
+        "platforms": [
+            "Casio",
+            "Casio CFX-9850",
+            "Casio FP-1000 & FP-1100",
+            "Casio Loopy",
+            "Casio PB-1000",
+            "Casio PB-2000C",
+            "Casio PV-1000",
+            "Casio PV-2000"
+        ]
     },
     "Casper": {
         "id": "Casper",
         "name": "Casper",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Casper 68000"
+        ]
     },
     "Century Electronics": {
         "id": "Century Electronics",
@@ -480,17 +715,26 @@
             "screenscraper": [
                 "Century Electronics"
             ]
-        }
+        },
+        "platforms": [
+            "Century Electronics Century Electronics"
+        ]
     },
     "Chafitz": {
         "id": "Chafitz",
         "name": "Chafitz",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Chafitz GGM Great Game Machine"
+        ]
     },
     "China": {
         "id": "China",
         "name": "China",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "China Education Computer"
+        ]
     },
     "Cinematronics": {
         "id": "Cinematronics",
@@ -499,7 +743,10 @@
             "screenscraper": [
                 "Cinematronics"
             ]
-        }
+        },
+        "platforms": [
+            "Cinematronics Cinematronics"
+        ]
     },
     "Coleco": {
         "id": "Coleco",
@@ -520,7 +767,14 @@
             "arrm": [
                 "Coleco"
             ]
-        }
+        },
+        "platforms": [
+            "Coleco ColecoVision",
+            "Coleco ColecoVision ADAM",
+            "Coleco Quiz Wiz",
+            "Coleco Telstar Arcade",
+            "Coleco Total Control 4"
+        ]
     },
     "Comad": {
         "id": "Comad",
@@ -529,7 +783,10 @@
             "screenscraper": [
                 "Comad"
             ]
-        }
+        },
+        "platforms": [
+            "Comad Comad"
+        ]
     },
     "Commodore": {
         "id": "Commodore",
@@ -550,22 +807,64 @@
             "arrm": [
                 "Commodore"
             ]
-        }
+        },
+        "platforms": [
+            "Commodore 128",
+            "Commodore 64",
+            "Commodore 65",
+            "Commodore 8096",
+            "Commodore 8296",
+            "Commodore Amiga",
+            "Commodore Amiga 1000",
+            "Commodore Amiga 1200",
+            "Commodore Amiga 3000",
+            "Commodore Amiga 4000",
+            "Commodore Amiga 500",
+            "Commodore Amiga 500+",
+            "Commodore Amiga 600",
+            "Commodore Amiga AGA",
+            "Commodore Amiga CD",
+            "Commodore Amiga CD32",
+            "Commodore Amiga CDTV",
+            "Commodore Amiga ECS",
+            "Commodore Amiga OCS",
+            "Commodore BX256-80HP",
+            "Commodore C64DTV",
+            "Commodore CBM-II",
+            "Commodore MAX Machine",
+            "Commodore P500",
+            "Commodore PET",
+            "Commodore Plus-4 - C16 - C116",
+            "Commodore SuperPET - MMF 9000",
+            "Commodore VIC-10",
+            "Commodore VIC-1001",
+            "Commodore VIC-20"
+        ]
     },
     "Compucolor": {
         "id": "Compucolor",
         "name": "Compucolor",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Compucolor II"
+        ]
     },
     "Compugraphic": {
         "id": "Compugraphic",
         "name": "Compugraphic",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Compugraphic MCS-10"
+        ]
     },
     "Conchess": {
         "id": "Conchess",
         "name": "Conchess",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Conchess Plymate",
+            "Conchess Standard"
+        ]
     },
     "Conitec": {
         "id": "Conitec",
@@ -575,12 +874,19 @@
                 "CONITEC",
                 "Conitec"
             ]
-        }
+        },
+        "platforms": [
+            "Conitec PROF-180",
+            "Conitec PROF-80"
+        ]
     },
     "Control Data Corporation": {
         "id": "Control Data Corporation",
         "name": "Control Data Corporation",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Control Data Corporation CDC110"
+        ]
     },
     "Convergent Technologies": {
         "id": "Convergent Technologies",
@@ -589,7 +895,11 @@
             "oldcomputers": [
                 "Convergent Technologies"
             ]
-        }
+        },
+        "platforms": [
+            "Convergent Technologies AWS NGEN Workstation",
+            "Convergent Technologies MiniFrame"
+        ]
     },
     "Creatronic": {
         "id": "Creatronic",
@@ -598,7 +908,10 @@
             "emucontrolcenter": [
                 "CVT (Creatonic, Videojet, and Timlex)"
             ]
-        }
+        },
+        "platforms": [
+            "Creatronic Mega Duck & Cougar Boy"
+        ]
     },
     "Cybiko": {
         "id": "Cybiko",
@@ -607,7 +920,11 @@
             "emucontrolcenter": [
                 "Cybiko"
             ]
-        }
+        },
+        "platforms": [
+            "Cybiko Cybiko",
+            "Cybiko Xtreme"
+        ]
     },
     "DAI": {
         "id": "DAI",
@@ -621,12 +938,29 @@
             "emucontrolcenter": [
                 "DEC"
             ]
-        }
+        },
+        "platforms": [
+            "DEC AlphaServer",
+            "DEC DECPx AXP 150",
+            "DEC PDP-1",
+            "DEC PDP-10",
+            "DEC PDP-11",
+            "DEC PDP-12",
+            "DEC PDP-15",
+            "DEC PDP-7",
+            "DEC PDP-8",
+            "DEC PDP-9",
+            "DEC Rainbow 100",
+            "DEC VT-180"
+        ]
     },
     "Data Applications International": {
         "id": "Data Applications International",
         "name": "Data Applications International",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Data Applications International DAI Personal Computer"
+        ]
     },
     "Data East": {
         "id": "Data East",
@@ -635,7 +969,10 @@
             "screenscraper": [
                 "Data East"
             ]
-        }
+        },
+        "platforms": [
+            "Data East Data East Classics"
+        ]
     },
     "Dick Smith": {
         "id": "Dick Smith",
@@ -644,27 +981,49 @@
             "oldcomputers": [
                 "Dick Smith"
             ]
-        }
+        },
+        "platforms": [
+            "Dick Smith Super-80",
+            "Dick Smith Super-80, Super-80D, Super-80E & Super-80M",
+            "Dick Smith Super-80R & Super-80V",
+            "Dick Smith System 80",
+            "Dick Smith VZ-200-300"
+        ]
     },
     "Didact": {
         "id": "Didact",
         "name": "Didact",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Didact Esselte 100"
+        ]
     },
     "Digilog": {
         "id": "Digilog",
         "name": "Digilog",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Digilog 320"
+        ]
     },
     "Digital Electronics": {
         "id": "Digital Electronics",
         "name": "Digital Electronics",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Digital Electronics DIGIAC 3080"
+        ]
     },
     "Dragon": {
         "id": "Dragon",
         "name": "Dragon",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Dragon 32-64",
+            "Dragon DOS",
+            "Dragon FLEX",
+            "Dragon OS-9"
+        ]
     },
     "Dragon Data": {
         "id": "Dragon Data",
@@ -676,12 +1035,18 @@
             "launchbox": [
                 "Dragon Data"
             ]
-        }
+        },
+        "platforms": [
+            "Dragon Data Dragon"
+        ]
     },
     "Dynabyte": {
         "id": "Dynabyte",
         "name": "Dynabyte",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Dynabyte Monarch"
+        ]
     },
     "Dynax": {
         "id": "Dynax",
@@ -690,7 +1055,10 @@
             "screenscraper": [
                 "Dynax"
             ]
-        }
+        },
+        "platforms": [
+            "Dynax Dynax"
+        ]
     },
     "EACA": {
         "id": "EACA",
@@ -705,12 +1073,18 @@
             "oldcomputers": [
                 "Eaca"
             ]
-        }
+        },
+        "platforms": [
+            "EACA EG2000 Colour Genie"
+        ]
     },
     "EC": {
         "id": "EC",
         "name": "EC",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "EC 1841"
+        ]
     },
     "EPSON": {
         "id": "EPSON",
@@ -719,12 +1093,20 @@
             "oldcomputers": [
                 "Epson"
             ]
-        }
+        },
+        "platforms": [
+            "EPSON PX-4"
+        ]
     },
     "ETL": {
         "id": "ETL",
         "name": "ETL",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "ETL Mark II",
+            "ETL Mark IV",
+            "ETL Mark IV A"
+        ]
     },
     "Elecbyte": {
         "id": "Elecbyte",
@@ -736,12 +1118,18 @@
             "arrm": [
                 "Elecbyte"
             ]
-        }
+        },
+        "platforms": [
+            "Elecbyte MUGEN"
+        ]
     },
     "Electronics Australia": {
         "id": "Electronics Australia",
         "name": "Electronics Australia",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Electronics Australia EDUC-8"
+        ]
     },
     "Elektronika": {
         "id": "Elektronika",
@@ -756,7 +1144,13 @@
             "recalbox": [
                 "Elektronika"
             ]
-        }
+        },
+        "platforms": [
+            "Elektronika BK",
+            "Elektronika BK-0010-0011M",
+            "Elektronika BK-0011-411",
+            "Elektronika MC-1502"
+        ]
     },
     "Elektronska Industrija Nis": {
         "id": "Elektronska Industrija Nis",
@@ -766,7 +1160,10 @@
                 "ELEKTRONSKA INDUSTRIJA NIS",
                 "Elektronska industrija NIS"
             ]
-        }
+        },
+        "platforms": [
+            "Elektronska Industrija Nis PECOM 32 & 64"
+        ]
     },
     "Emerson": {
         "id": "Emerson",
@@ -781,12 +1178,18 @@
             "oldcomputers": [
                 "Emerson"
             ]
-        }
+        },
+        "platforms": [
+            "Emerson Arcadia 2001"
+        ]
     },
     "Enterprex": {
         "id": "Enterprex",
         "name": "Enterprex",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Enterprex Apollo"
+        ]
     },
     "Enterprise": {
         "id": "Enterprise",
@@ -798,7 +1201,10 @@
             "oldcomputers": [
                 "Enterprise"
             ]
-        }
+        },
+        "platforms": [
+            "Enterprise 64 & 128"
+        ]
     },
     "Entex": {
         "id": "Entex",
@@ -814,7 +1220,11 @@
             "arrm": [
                 "Entex"
             ]
-        }
+        },
+        "platforms": [
+            "Entex Adventure Vision",
+            "Entex Select-a-Game"
+        ]
     },
     "Epoch": {
         "id": "Epoch",
@@ -838,22 +1248,42 @@
             "arrm": [
                 "Epoch"
             ]
-        }
+        },
+        "platforms": [
+            "Epoch Cassette Vision",
+            "Epoch Game Pocket Computer",
+            "Epoch Super Cassette Vision"
+        ]
     },
     "Epson": {
         "id": "Epson",
         "name": "Epson",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Epson CPM systems",
+            "Epson HX-20 Optional",
+            "Epson PX-4 & HC-40",
+            "Epson PX-8, HC-88 & Geneva",
+            "Epson QX-10"
+        ]
     },
     "Ericsson": {
         "id": "Ericsson",
         "name": "Ericsson",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Ericsson Alfaskop System 41",
+            "Ericsson PC AT WS286",
+            "Ericsson PC step-one"
+        ]
     },
     "Excalibur": {
         "id": "Excalibur",
         "name": "Excalibur",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Excalibur 64"
+        ]
     },
     "Exelvision": {
         "id": "Exelvision",
@@ -868,7 +1298,11 @@
             "oldcomputers": [
                 "Exelvision"
             ]
-        }
+        },
+        "platforms": [
+            "Exelvision EXL 100",
+            "Exelvision Exeltel"
+        ]
     },
     "Exidy": {
         "id": "Exidy",
@@ -883,7 +1317,10 @@
             "oldcomputers": [
                 "Exidy"
             ]
-        }
+        },
+        "platforms": [
+            "Exidy Sorcerer"
+        ]
     },
     "Fairchild": {
         "id": "Fairchild",
@@ -901,37 +1338,62 @@
             "recalbox": [
                 "Fairchild"
             ]
-        }
+        },
+        "platforms": [
+            "Fairchild Channel F",
+            "Fairchild VES & Channel F"
+        ]
     },
     "Fairlight": {
         "id": "Fairlight",
         "name": "Fairlight",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Fairlight CMI Series III"
+        ]
     },
     "Ferguson": {
         "id": "Ferguson",
         "name": "Ferguson",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Ferguson Big Board II"
+        ]
     },
     "Fidelity": {
         "id": "Fidelity",
         "name": "Fidelity",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Fidelity MSC",
+            "Fidelity SC6",
+            "Fidelity Sensory Chess Challenger"
+        ]
     },
     "Fisher-Price - Mattel": {
         "id": "Fisher-Price - Mattel",
         "name": "Fisher-Price - Mattel",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Fisher-Price - Mattel I Can Play Guitar",
+            "Fisher-Price - Mattel I Can Play Piano"
+        ]
     },
     "Front Fareast": {
         "id": "Front Fareast",
         "name": "Front Fareast",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Front Fareast Magic Drive"
+        ]
     },
     "Fuji": {
         "id": "Fuji",
         "name": "Fuji",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Fuji Photo Film FUJIC"
+        ]
     },
     "Fujitsu": {
         "id": "Fujitsu",
@@ -952,12 +1414,22 @@
             "arrm": [
                 "Fujitsu"
             ]
-        }
+        },
+        "platforms": [
+            "Fujitsu FM Towns",
+            "Fujitsu FM-7",
+            "Fujitsu FM-77AV",
+            "Fujitsu FM-8",
+            "Fujitsu FMR50"
+        ]
     },
     "Fukutake Publishing": {
         "id": "Fukutake Publishing",
         "name": "Fukutake Publishing",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Fukutake Publishing StudyBox"
+        ]
     },
     "Funtech": {
         "id": "Funtech",
@@ -972,12 +1444,18 @@
             "launchbox": [
                 "Funtech"
             ]
-        }
+        },
+        "platforms": [
+            "Funtech Super A'Can"
+        ]
     },
     "GCE": {
         "id": "GCE",
         "name": "GCE",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "GCE Vectrex"
+        ]
     },
     "Gakken": {
         "id": "Gakken",
@@ -986,7 +1464,10 @@
             "oldcomputers": [
                 "Gakken"
             ]
-        }
+        },
+        "platforms": [
+            "Gakken Compact Vision"
+        ]
     },
     "Galaksija": {
         "id": "Galaksija",
@@ -998,7 +1479,11 @@
             "oldcomputers": [
                 "GALAKSIJA"
             ]
-        }
+        },
+        "platforms": [
+            "Galaksija",
+            "Galaksija Plus"
+        ]
     },
     "GamePark": {
         "id": "GamePark",
@@ -1007,17 +1492,97 @@
             "emucontrolcenter": [
                 "Game Park"
             ]
-        }
+        },
+        "platforms": [
+            "GamePark GP2X",
+            "GamePark GP32"
+        ]
     },
     "Generic": {
         "id": "Generic",
         "name": "Generic",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "ETI-660",
+            "Future Pinball",
+            "Generic Alpha Denshi Co.",
+            "Generic Android",
+            "Generic Arcade",
+            "Generic Cave",
+            "Generic Compukit UK-101",
+            "Generic CoreGrafX",
+            "Generic Daphne",
+            "Generic EasyRPG",
+            "Generic Eighting / Raizing",
+            "Generic Hybrid Music System",
+            "Generic IQ-151",
+            "Generic Incredible Technologies",
+            "Generic Intellect-02",
+            "Generic Jazz",
+            "Generic Ju-Te-Computer",
+            "Generic Korvet",
+            "Generic LEMZ Agat",
+            "Generic Linux",
+            "Generic LowRes NX",
+            "Generic Lutro",
+            "Generic NeXT",
+            "Generic Nintendo Power",
+            "Generic OpenBOR",
+            "Generic OpenPandora Pandora",
+            "Generic Orion 128",
+            "Generic OrionPro",
+            "Generic PC",
+            "Generic PC Intel 8008 - 8080",
+            "Generic PC Motorola 68000",
+            "Generic PC PPC",
+            "Generic PC SPARC",
+            "Generic PC x86 - x86-64",
+            "Generic PHC-25",
+            "Generic PT68K2",
+            "Generic Palm",
+            "Generic Pecom 64",
+            "Generic Pico-8",
+            "Generic Pinball",
+            "Generic PlayChoice",
+            "Generic Poisk-1",
+            "Generic Poly",
+            "Generic Pyldin-601",
+            "Generic SITCOM",
+            "Generic Sammy Classics",
+            "Generic ScummVM",
+            "Generic Seta",
+            "Generic Solarus",
+            "Generic Squale",
+            "Generic Standard MIDI",
+            "Generic TIC-80",
+            "Generic Technos",
+            "Generic UT-88",
+            "Generic Universal",
+            "Generic Video System Co.",
+            "Generic Web Browser",
+            "Generic non Jeu",
+            "Generic the Pinball Arcade",
+            "Micro Craft Dimension 68000",
+            "Mikro-80",
+            "Ouya",
+            "Partner-01.01",
+            "Pentagon (ZX Spectrum clone)",
+            "Photo CD",
+            "SDK-85",
+            "Specialist",
+            "Super Brain",
+            "Super Sensor IV",
+            "Touch & Tell",
+            "Visual Pinball"
+        ]
     },
     "Gimix": {
         "id": "Gimix",
         "name": "Gimix",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Gimix 6809"
+        ]
     },
     "Gottlieb": {
         "id": "Gottlieb",
@@ -1026,12 +1591,20 @@
             "screenscraper": [
                 "Gottlieb"
             ]
-        }
+        },
+        "platforms": [
+            "Gottlieb Gottlieb"
+        ]
     },
     "Gould": {
         "id": "Gould",
         "name": "Gould",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Gould K105-D Logic Analyzer",
+            "Gould K115 Logic Analyzer",
+            "Gould K450 Logic Analyzer"
+        ]
     },
     "Grundy": {
         "id": "Grundy",
@@ -1041,17 +1614,26 @@
                 "GRUNDY",
                 "Grundy"
             ]
-        }
+        },
+        "platforms": [
+            "Grundy NewBrain"
+        ]
     },
     "Gundam": {
         "id": "Gundam",
         "name": "Gundam",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Gundam RX-78"
+        ]
     },
     "Handheld": {
         "id": "Handheld",
         "name": "Handheld",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Handheld Electronic Games (LCD)"
+        ]
     },
     "Hanimex": {
         "id": "Hanimex",
@@ -1060,7 +1642,10 @@
             "oldcomputers": [
                 "Hanimex"
             ]
-        }
+        },
+        "platforms": [
+            "Hanimex Pencil II"
+        ]
     },
     "Hartung": {
         "id": "Hartung",
@@ -1072,22 +1657,55 @@
             "launchbox": [
                 "Hartung"
             ]
-        }
+        },
+        "platforms": [
+            "Hartung Game Master"
+        ]
     },
     "Hawthorne Technology": {
         "id": "Hawthorne Technology",
         "name": "Hawthorne Technology",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Hawthorne Technology TinyGiant 68000 Single Board Computer"
+        ]
     },
     "Hector": {
         "id": "Hector",
         "name": "Hector",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Hector HRX"
+        ]
     },
     "Hewlett-Packard": {
         "id": "Hewlett-Packard",
         "name": "Hewlett-Packard",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Hewlett-Packard 16500A",
+            "Hewlett-Packard 4951C & 4952A",
+            "Hewlett-Packard HP 9825B",
+            "Hewlett-Packard HP 9845A-S",
+            "Hewlett-Packard HP 9845B-T-C",
+            "Hewlett-Packard HP Integral PC",
+            "Hewlett-Packard HP-14B",
+            "Hewlett-Packard HP-15C",
+            "Hewlett-Packard HP-17B",
+            "Hewlett-Packard HP-18C",
+            "Hewlett-Packard HP-19B",
+            "Hewlett-Packard HP-27S",
+            "Hewlett-Packard HP-28C",
+            "Hewlett-Packard HP-28S",
+            "Hewlett-Packard HP-32S",
+            "Hewlett-Packard HP-42S",
+            "Hewlett-Packard HP-86/7",
+            "Hewlett-Packard HP48",
+            "Hewlett-Packard HP49",
+            "Hewlett-Packard HP85",
+            "Hewlett-Packard HP9000-300",
+            "Hewlett-Packard HP9835A-B"
+        ]
     },
     "Hitachi": {
         "id": "Hitachi",
@@ -1096,7 +1714,13 @@
             "oldcomputers": [
                 "Hitachi"
             ]
-        }
+        },
+        "platforms": [
+            "Hitachi Basic Master Jr.",
+            "Hitachi Basic Master Level 2",
+            "Hitachi Basic Master Level 3",
+            "Hitachi S1"
+        ]
     },
     "HomeLab": {
         "id": "HomeLab",
@@ -1105,7 +1729,11 @@
             "emucontrolcenter": [
                 "HomeLAB"
             ]
-        }
+        },
+        "platforms": [
+            "HomeLab",
+            "HomeLab BraiLab"
+        ]
     },
     "IBM": {
         "id": "IBM",
@@ -1120,7 +1748,18 @@
             "recalbox": [
                 "IBM"
             ]
-        }
+        },
+        "platforms": [
+            "IBM 1620",
+            "IBM 3740",
+            "IBM Displaywriter",
+            "IBM PC 5140 Convertible",
+            "IBM PC and Compatibles",
+            "IBM PC-AT",
+            "IBM PC-XT",
+            "IBM PCjr",
+            "IBM System-360"
+        ]
     },
     "IGS": {
         "id": "IGS",
@@ -1132,12 +1771,18 @@
             "emucontrolcenter": [
                 "IGS"
             ]
-        }
+        },
+        "platforms": [
+            "IGS IGS"
+        ]
     },
     "IMLAC Corporation": {
         "id": "IMLAC Corporation",
         "name": "IMLAC Corporation",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "IMLAC Corporation PDS-1"
+        ]
     },
     "ITT": {
         "id": "ITT",
@@ -1146,27 +1791,42 @@
             "oldcomputers": [
                 "ITT"
             ]
-        }
+        },
+        "platforms": [
+            "ITT 3030"
+        ]
     },
     "IVL Technologies": {
         "id": "IVL Technologies",
         "name": "IVL Technologies",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "IVL Technologies Easy Karaoke"
+        ]
     },
     "Incredible Technologies": {
         "id": "Incredible Technologies",
         "name": "Incredible Technologies",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Incredible Technologies Eagle"
+        ]
     },
     "Infocom": {
         "id": "Infocom",
         "name": "Infocom",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Infocom Z-Machine"
+        ]
     },
     "Intec": {
         "id": "Intec",
         "name": "Intec",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Intec Interact"
+        ]
     },
     "Interact": {
         "id": "Interact",
@@ -1178,12 +1838,18 @@
             "oldcomputers": [
                 "Interact"
             ]
-        }
+        },
+        "platforms": [
+            "Interact Family Computer"
+        ]
     },
     "Intergraph": {
         "id": "Intergraph",
         "name": "Intergraph",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Intergraph InterPro"
+        ]
     },
     "Interton": {
         "id": "Interton",
@@ -1201,7 +1867,10 @@
             "arrm": [
                 "Interton"
             ]
-        }
+        },
+        "platforms": [
+            "Interton VC 4000"
+        ]
     },
     "Irem": {
         "id": "Irem",
@@ -1210,27 +1879,48 @@
             "screenscraper": [
                 "Irem"
             ]
-        }
+        },
+        "platforms": [
+            "Irem Irem Classics"
+        ]
     },
     "Itautec": {
         "id": "Itautec",
         "name": "Itautec",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Itautec I-7000"
+        ]
     },
     "Ithaca": {
         "id": "Ithaca",
         "name": "Ithaca",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Ithaca InterSystems DPS-1"
+        ]
     },
     "JAKKS Pacific": {
         "id": "JAKKS Pacific",
         "name": "JAKKS Pacific",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "JAKKS Pacific 'DP' Game Keys",
+            "JAKKS Pacific 'DY' Game Keys",
+            "JAKKS Pacific 'MV' Game Keys",
+            "JAKKS Pacific 'NK' Game Keys",
+            "JAKKS Pacific 'NM' Game Keys",
+            "JAKKS Pacific 'SW' Game Keys",
+            "JAKKS Pacific Telestory"
+        ]
     },
     "JPM": {
         "id": "JPM",
         "name": "JPM",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "JPM Give us a Break"
+        ]
     },
     "Jaleco": {
         "id": "Jaleco",
@@ -1239,17 +1929,26 @@
             "screenscraper": [
                 "Jaleco"
             ]
-        }
+        },
+        "platforms": [
+            "Jaleco Jaleco"
+        ]
     },
     "Juku": {
         "id": "Juku",
         "name": "Juku",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Juku E5101"
+        ]
     },
     "JungleTac-KenSingTon": {
         "id": "JungleTac-KenSingTon",
         "name": "JungleTac-KenSingTon",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "JungleTac-KenSingTon Vii"
+        ]
     },
     "Jupiter Cantab": {
         "id": "Jupiter Cantab",
@@ -1265,7 +1964,10 @@
                 "JUPITER CANTAB",
                 "Jupiter Cantab"
             ]
-        }
+        },
+        "platforms": [
+            "Jupiter Cantab Jupiter Ace"
+        ]
     },
     "Kaneko": {
         "id": "Kaneko",
@@ -1274,7 +1976,10 @@
             "screenscraper": [
                 "Kaneko"
             ]
-        }
+        },
+        "platforms": [
+            "Kaneko Kaneko"
+        ]
     },
     "Kaypro": {
         "id": "Kaypro",
@@ -1283,17 +1988,26 @@
             "oldcomputers": [
                 "Kaypro"
             ]
-        }
+        },
+        "platforms": [
+            "Kaypro II"
+        ]
     },
     "Keio University": {
         "id": "Keio University",
         "name": "Keio University",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Keio University K-1"
+        ]
     },
     "Koei": {
         "id": "Koei",
         "name": "Koei",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Koei PasoGo"
+        ]
     },
     "Konami": {
         "id": "Konami",
@@ -1302,7 +2016,18 @@
             "screenscraper": [
                 "Konami"
             ]
-        }
+        },
+        "platforms": [
+            "Konami Bemani System 573 Analog",
+            "Konami Bemani System 573 Digital",
+            "Konami FireBeat",
+            "Konami Konami Classics",
+            "Konami Picno",
+            "Konami Python 2",
+            "Konami System 573",
+            "Konami System GV",
+            "Konami e-Amusement"
+        ]
     },
     "Kontron": {
         "id": "Kontron",
@@ -1312,22 +2037,43 @@
                 "KONTRON",
                 "Kontron"
             ]
-        }
+        },
+        "platforms": [
+            "Kontron PSI98"
+        ]
     },
     "LSI": {
         "id": "LSI",
         "name": "LSI",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "LSI Octopus floppy"
+        ]
     },
     "Lambda Electronics": {
         "id": "Lambda Electronics",
         "name": "Lambda Electronics",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Lambda Electronics Lambda 8300"
+        ]
     },
     "LeapFrog": {
         "id": "LeapFrog",
         "name": "LeapFrog",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "LeapFrog ClickStart",
+            "LeapFrog Didj",
+            "LeapFrog IQuest",
+            "LeapFrog LeapPad",
+            "LeapFrog Leapster Learning Game System",
+            "LeapFrog Little Touch LeapPad",
+            "LeapFrog My First LeapPad",
+            "LeapFrog Turbo Extreme",
+            "LeapFrog Turbo Twist Brain Quest",
+            "LeapFrog Zippity"
+        ]
     },
     "Luxor": {
         "id": "Luxor",
@@ -1336,22 +2082,39 @@
             "oldcomputers": [
                 "Luxor"
             ]
-        }
+        },
+        "platforms": [
+            "Luxor ABC 1600",
+            "Luxor ABC 80",
+            "Luxor ABC 800",
+            "Luxor ABC 806",
+            "Luxor Video Entertainment System",
+            "Luxor X37"
+        ]
     },
     "Lviv": {
         "id": "Lviv",
         "name": "Lviv",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Lviv PC-01"
+        ]
     },
     "M&D": {
         "id": "M&D",
         "name": "M&D",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "M&D Monon Color"
+        ]
     },
     "MEGA": {
         "id": "MEGA",
         "name": "MEGA",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "MEGA MEGA65"
+        ]
     },
     "MGT": {
         "id": "MGT",
@@ -1369,7 +2132,10 @@
             "recalbox": [
                 "MGT"
             ]
-        }
+        },
+        "platforms": [
+            "MGT Sam Coupe"
+        ]
     },
     "MITS": {
         "id": "MITS",
@@ -1378,12 +2144,18 @@
             "oldcomputers": [
                 "MITS"
             ]
-        }
+        },
+        "platforms": [
+            "MITS Altair 8800"
+        ]
     },
     "MOS": {
         "id": "MOS",
         "name": "MOS",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "MOS KIM-1"
+        ]
     },
     "MSX": {
         "id": "MSX",
@@ -1392,7 +2164,12 @@
             "oldcomputers": [
                 "MSX"
             ]
-        }
+        },
+        "platforms": [
+            "MSX MSX2",
+            "MSX Palcom",
+            "MSX TurboR"
+        ]
     },
     "Magnavox": {
         "id": "Magnavox",
@@ -1411,12 +2188,19 @@
             "arrm": [
                 "Magnavox"
             ]
-        }
+        },
+        "platforms": [
+            "Magnavox Odyssey 1",
+            "Magnavox Odyssey 2"
+        ]
     },
     "Manfred Kramer": {
         "id": "Manfred Kramer",
         "name": "Manfred Kramer",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Manfred Kramer Kramer-MC"
+        ]
     },
     "Matra Hachette": {
         "id": "Matra Hachette",
@@ -1425,7 +2209,11 @@
             "oldcomputers": [
                 "Matra Hachette"
             ]
-        }
+        },
+        "platforms": [
+            "Matra Hachette Alice 32",
+            "Matra Hachette Alice 90"
+        ]
     },
     "Matsushita": {
         "id": "Matsushita",
@@ -1441,7 +2229,11 @@
                 "MATSUSHITA",
                 "Matsushita"
             ]
-        }
+        },
+        "platforms": [
+            "Matsushita National JR 200",
+            "Matsushita National JR-100"
+        ]
     },
     "Mattel": {
         "id": "Mattel",
@@ -1459,17 +2251,30 @@
             "arrm": [
                 "Mattel"
             ]
-        }
+        },
+        "platforms": [
+            "Mattel Aquarius",
+            "Mattel Fisher-Price iXL",
+            "Mattel HyperScan",
+            "Mattel Intellivision",
+            "Mattel Juice Box"
+        ]
     },
     "Megatel": {
         "id": "Megatel",
         "name": "Megatel",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Megatel Quark"
+        ]
     },
     "Memorex": {
         "id": "Memorex",
         "name": "Memorex",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Memorex Video Information System"
+        ]
     },
     "Memotech": {
         "id": "Memotech",
@@ -1485,17 +2290,31 @@
                 "MEMOTECH",
                 "Memotech"
             ]
-        }
+        },
+        "platforms": [
+            "Memotech MTX",
+            "Memotech MTX512"
+        ]
     },
     "Mephisto": {
         "id": "Mephisto",
         "name": "Mephisto",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Mephisto MM I",
+            "Mephisto MM II",
+            "Mephisto MM IV",
+            "Mephisto MM V",
+            "Mephisto Super Mondial II"
+        ]
     },
     "Michael J. Bauer": {
         "id": "Michael J. Bauer",
         "name": "Michael J. Bauer",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Michael J. Bauer DREAM-6800"
+        ]
     },
     "Microkey": {
         "id": "Microkey",
@@ -1504,7 +2323,10 @@
             "emucontrolcenter": [
                 "Microkey"
             ]
-        }
+        },
+        "platforms": [
+            "Microkey Primo"
+        ]
     },
     "Microsoft": {
         "id": "Microsoft",
@@ -1528,12 +2350,31 @@
             "arrm": [
                 "Microsoft"
             ]
-        }
+        },
+        "platforms": [
+            "Microsoft MS-DOS",
+            "Microsoft MSX",
+            "Microsoft MSX Turbo-R",
+            "Microsoft MSX2",
+            "Microsoft MSX2+",
+            "Microsoft PC Win3.xx",
+            "Microsoft PC Win9X",
+            "Microsoft Pocket PC",
+            "Microsoft Windows",
+            "Microsoft Windows 3.X",
+            "Microsoft Xbox",
+            "Microsoft Xbox 360",
+            "Microsoft Xbox One",
+            "Microsoft Xbox Series X"
+        ]
     },
     "Microtan": {
         "id": "Microtan",
         "name": "Microtan",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Microtan 65"
+        ]
     },
     "Midway": {
         "id": "Midway",
@@ -1545,17 +2386,26 @@
             "launchbox": [
                 "Midway"
             ]
-        }
+        },
+        "platforms": [
+            "Midway Midway Classics"
+        ]
     },
     "MikroMikko": {
         "id": "MikroMikko",
         "name": "MikroMikko",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "MikroMikko 1"
+        ]
     },
     "Millennium Systems": {
         "id": "Millennium Systems",
         "name": "Millennium Systems",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Millennium Systems Wicat"
+        ]
     },
     "Milton Bradley": {
         "id": "Milton Bradley",
@@ -1567,12 +2417,18 @@
             "arrm": [
                 "Milton Bradley"
             ]
-        }
+        },
+        "platforms": [
+            "Milton Bradley Microvision"
+        ]
     },
     "Mindset Corporation": {
         "id": "Mindset Corporation",
         "name": "Mindset Corporation",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Mindset Corporation Mindset"
+        ]
     },
     "Mitchell": {
         "id": "Mitchell",
@@ -1581,7 +2437,10 @@
             "screenscraper": [
                 "Mitchell"
             ]
-        }
+        },
+        "platforms": [
+            "Mitchell Mitchell"
+        ]
     },
     "Mitsubishi": {
         "id": "Mitsubishi",
@@ -1590,16 +2449,27 @@
             "oldcomputers": [
                 "Mitsubishi"
             ]
-        }
+        },
+        "platforms": [
+            "Mitsubishi Multi 8"
+        ]
     },
     "Mobile": {
         "id": "Mobile",
-        "name": "Mobile"
+        "name": "Mobile",
+        "platforms": [
+            "Mobile J2ME",
+            "Mobile Pocket PC",
+            "Mobile Symbian"
+        ]
     },
     "Morrow": {
         "id": "Morrow",
         "name": "Morrow",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Morrow MPZ80"
+        ]
     },
     "Motorola": {
         "id": "Motorola",
@@ -1611,12 +2481,18 @@
             "oldcomputers": [
                 "Motorola"
             ]
-        }
+        },
+        "platforms": [
+            "Motorola EXORciser"
+        ]
     },
     "Mr. Isizu": {
         "id": "Mr. Isizu",
         "name": "Mr. Isizu",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Mr. Isizu Z80 TV Game System"
+        ]
     },
     "NCR": {
         "id": "NCR",
@@ -1625,7 +2501,10 @@
             "oldcomputers": [
                 "NCR"
             ]
-        }
+        },
+        "platforms": [
+            "NCR Decision Mate V"
+        ]
     },
     "NEC": {
         "id": "NEC",
@@ -1646,7 +2525,30 @@
             "arrm": [
                 "NEC"
             ]
-        }
+        },
+        "platforms": [
+            "NEC Advanced Personal Computer",
+            "NEC PC Engine CD & TurboGrafx CD",
+            "NEC PC Engine SuperGrafx",
+            "NEC PC-6001",
+            "NEC PC-8001",
+            "NEC PC-8201",
+            "NEC PC-88 series",
+            "NEC PC-8801",
+            "NEC PC-88VA",
+            "NEC PC-98 series",
+            "NEC PC-9801",
+            "NEC PC-9821",
+            "NEC PC-Engine",
+            "NEC PC-Engine & TurboGrafx-16",
+            "NEC PC-Engine CD & TurboGrafx-16 CD",
+            "NEC PC-FX",
+            "NEC PC-FX & PC-FXGA",
+            "NEC PC-FXGA",
+            "NEC TK-80 - TK-85",
+            "NEC TurboGrafx-CD",
+            "NEC Turbografx 16"
+        ]
     },
     "NMK": {
         "id": "NMK",
@@ -1655,7 +2557,10 @@
             "screenscraper": [
                 "NMK"
             ]
-        }
+        },
+        "platforms": [
+            "NMK NMK"
+        ]
     },
     "Namco": {
         "id": "Namco",
@@ -1670,7 +2575,12 @@
             "screenscraper": [
                 "Namco"
             ]
-        }
+        },
+        "platforms": [
+            "Namco Namco Classics",
+            "Namco System 22",
+            "Namco System 246"
+        ]
     },
     "Namco-Sega-Nintendo": {
         "id": "Namco-Sega-Nintendo",
@@ -1679,12 +2589,18 @@
             "arrm": [
                 "Namco-Sega-Nintendo"
             ]
-        }
+        },
+        "platforms": [
+            "Namco-Sega-Nintendo Triforce"
+        ]
     },
     "Nascom": {
         "id": "Nascom",
         "name": "Nascom",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Nascom I & II"
+        ]
     },
     "Nichibutsu": {
         "id": "Nichibutsu",
@@ -1693,7 +2609,11 @@
             "screenscraper": [
                 "Nichibutsu"
             ]
-        }
+        },
+        "platforms": [
+            "Nichibutsu My Vision",
+            "Nichibutsu Nichibutsu"
+        ]
     },
     "Nintendo": {
         "id": "Nintendo",
@@ -1720,7 +2640,40 @@
             "arrm": [
                 "Nintendo"
             ]
-        }
+        },
+        "platforms": [
+            "Nintendo 3DS",
+            "Nintendo 64",
+            "Nintendo 64DD",
+            "Nintendo DS",
+            "Nintendo DSi",
+            "Nintendo Entertainment System",
+            "Nintendo Famicom",
+            "Nintendo Family Computer Network System",
+            "Nintendo Game & Watch",
+            "Nintendo Game Boy",
+            "Nintendo Game Boy Advance",
+            "Nintendo Game Boy Color",
+            "Nintendo GameCube",
+            "Nintendo Kiosk Video Compact Flash",
+            "Nintendo Mario no Photopi SmartMedia",
+            "Nintendo Nintendo Classics",
+            "Nintendo Play-Yan",
+            "Nintendo Pokemon Mini",
+            "Nintendo Satellaview",
+            "Nintendo Snes - Super Mario World Hacks",
+            "Nintendo Sufami Turbo",
+            "Nintendo Super Famicom & Super Entertainment System",
+            "Nintendo Super Game Boy 2",
+            "Nintendo Super Nintendo Entertainment System",
+            "Nintendo Super Nintendo MSU-1",
+            "Nintendo Switch",
+            "Nintendo Virtual Boy",
+            "Nintendo Wii",
+            "Nintendo Wii U",
+            "Nintendo amiibo",
+            "Nintendo e-Reader"
+        ]
     },
     "Nokia": {
         "id": "Nokia",
@@ -1742,7 +2695,10 @@
             "arrm": [
                 "Nokia"
             ]
-        }
+        },
+        "platforms": [
+            "Nokia N-Gage"
+        ]
     },
     "NorthStar": {
         "id": "NorthStar",
@@ -1751,27 +2707,45 @@
             "oldcomputers": [
                 "Northstar"
             ]
-        }
+        },
+        "platforms": [
+            "NorthStar Advantage",
+            "NorthStar Horizon"
+        ]
     },
     "Nuclear Data": {
         "id": "Nuclear Data",
         "name": "Nuclear Data",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Nuclear Data ND4410 & ND4420"
+        ]
     },
     "Nuova Elettronica": {
         "id": "Nuova Elettronica",
         "name": "Nuova Elettronica",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Nuova Elettronica Z80NE"
+        ]
     },
     "OCC": {
         "id": "OCC",
         "name": "OCC",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "OCC Osborne 2 Executive",
+            "OCC Osborne 4 Vixen",
+            "OCC Osborne-1"
+        ]
     },
     "Oh! MZ": {
         "id": "Oh! MZ",
         "name": "Oh! MZ",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Oh! MZ S-OS"
+        ]
     },
     "Ohio Scientific": {
         "id": "Ohio Scientific",
@@ -1780,7 +2754,10 @@
             "oldcomputers": [
                 "OHIO Scientific"
             ]
-        }
+        },
+        "platforms": [
+            "Ohio Scientific Challenger 1P"
+        ]
     },
     "Olivetti": {
         "id": "Olivetti",
@@ -1789,7 +2766,13 @@
             "oldcomputers": [
                 "Olivetti"
             ]
-        }
+        },
+        "platforms": [
+            "Olivetti M20",
+            "Olivetti M24",
+            "Olivetti Prodest PC 128",
+            "Olivetti Prodest PC 128S"
+        ]
     },
     "Ondra": {
         "id": "Ondra",
@@ -1803,12 +2786,18 @@
             "oldcomputers": [
                 "Otrona"
             ]
-        }
+        },
+        "platforms": [
+            "Otrona Attache"
+        ]
     },
     "PDC": {
         "id": "PDC",
         "name": "PDC",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "PDC Clipper"
+        ]
     },
     "PEL Varazdin": {
         "id": "PEL Varazdin",
@@ -1818,17 +2807,26 @@
                 "PEL VARAZDIN",
                 "PEL Varazdin"
             ]
-        }
+        },
+        "platforms": [
+            "PEL Varazdin Orao"
+        ]
     },
     "PTC": {
         "id": "PTC",
         "name": "PTC",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "PTC Sol Terminal Computer SOL-20"
+        ]
     },
     "Palson": {
         "id": "Palson",
         "name": "Palson",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Palson CX 3000 Tele Computer"
+        ]
     },
     "Panasonic": {
         "id": "Panasonic",
@@ -1849,17 +2847,27 @@
             "arrm": [
                 "Panasonic"
             ]
-        }
+        },
+        "platforms": [
+            "Panasonic 3DO Interactive Multiplayer",
+            "Panasonic JB-3000"
+        ]
     },
     "Patisonic": {
         "id": "Patisonic",
         "name": "Patisonic",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Patisonic Aleste 520EX"
+        ]
     },
     "Peters Plus": {
         "id": "Peters Plus",
         "name": "Peters Plus",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Peters Plus Sprinter"
+        ]
     },
     "Philips": {
         "id": "Philips",
@@ -1885,7 +2893,14 @@
             "arrm": [
                 "Philips"
             ]
-        }
+        },
+        "platforms": [
+            "Philips CD-i",
+            "Philips P2000",
+            "Philips VG 5000",
+            "Philips Videopac / Odyssey 2",
+            "Philips Videopac+"
+        ]
     },
     "Pioneer": {
         "id": "Pioneer",
@@ -1894,7 +2909,10 @@
             "oldcomputers": [
                 "Pioneer"
             ]
-        }
+        },
+        "platforms": [
+            "Pioneer LaserActive"
+        ]
     },
     "Pravetz": {
         "id": "Pravetz",
@@ -1903,7 +2921,10 @@
             "oldcomputers": [
                 "Pravetz"
             ]
-        }
+        },
+        "platforms": [
+            "Pravetz 8D"
+        ]
     },
     "Psikyo": {
         "id": "Psikyo",
@@ -1912,7 +2933,10 @@
             "screenscraper": [
                 "Psikyo"
             ]
-        }
+        },
+        "platforms": [
+            "Psikyo Psikyo"
+        ]
     },
     "Psion": {
         "id": "Psion",
@@ -1921,12 +2945,20 @@
             "oldcomputers": [
                 "PSION"
             ]
-        }
+        },
+        "platforms": [
+            "Psion Organiser I",
+            "Psion Organiser II"
+        ]
     },
     "Publications International Ltd": {
         "id": "Publications International Ltd",
         "name": "Publications International Ltd",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Publications International Ltd Story Reader 2.0",
+            "Publications International Ltd. Story Reader"
+        ]
     },
     "RCA": {
         "id": "RCA",
@@ -1941,32 +2973,59 @@
             "oldcomputers": [
                 "RCA"
             ]
-        }
+        },
+        "platforms": [
+            "RCA Chip-8",
+            "RCA Microboard Computer Development System",
+            "RCA Studio II",
+            "RCA Superchip",
+            "RCA VIP"
+        ]
     },
     "RM": {
         "id": "RM",
         "name": "RM",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "RM Nimbus PC"
+        ]
     },
     "ROLM": {
         "id": "ROLM",
         "name": "ROLM",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "ROLM CBX 9751 floppy"
+        ]
     },
     "Radica": {
         "id": "Radica",
         "name": "Radica",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Radica Arcade Legends & Play TV Legends"
+        ]
     },
     "Radio-86RK": {
         "id": "Radio-86RK",
         "name": "Radio-86RK",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Radio-86RK",
+            "Radio-86RK Apogej BK-01",
+            "Radio-86RK Mikro-80",
+            "Radio-86RK Mikrosha",
+            "Radio-86RK Partner-01.01",
+            "Radio-86RK YuT-88"
+        ]
     },
     "Raytheon": {
         "id": "Raytheon",
         "name": "Raytheon",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Raytheon 704"
+        ]
     },
     "Regnecentralen": {
         "id": "Regnecentralen",
@@ -1975,12 +3034,18 @@
             "oldcomputers": [
                 "Regnecentralen"
             ]
-        }
+        },
+        "platforms": [
+            "Regnecentralen RC 700"
+        ]
     },
     "Retroleum": {
         "id": "Retroleum",
         "name": "Retroleum",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Retroleum V6Z80P+"
+        ]
     },
     "Robotron": {
         "id": "Robotron",
@@ -1992,7 +3057,14 @@
             "oldcomputers": [
                 "Robotron"
             ]
-        }
+        },
+        "platforms": [
+            "Robotron BIC A5105",
+            "Robotron HC900, KC85 2, KC85 3 & KC85 4",
+            "Robotron KC Compact",
+            "Robotron Z1013",
+            "Robotron Z9001 & KC85 1"
+        ]
     },
     "Rockwell": {
         "id": "Rockwell",
@@ -2001,12 +3073,20 @@
             "oldcomputers": [
                 "Rockwell"
             ]
-        }
+        },
+        "platforms": [
+            "Rockwell AIM 65"
+        ]
     },
     "Roland": {
         "id": "Roland",
         "name": "Roland",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Roland R-8",
+            "Roland TN-SC1",
+            "Roland U-110"
+        ]
     },
     "Rowtron": {
         "id": "Rowtron",
@@ -2016,27 +3096,44 @@
                 "ROWTRON",
                 "Rowtron"
             ]
-        }
+        },
+        "platforms": [
+            "Rowtron Television Computer System"
+        ]
     },
     "SABA": {
         "id": "SABA",
         "name": "SABA",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "SABA Videoplay"
+        ]
     },
     "SEGA": {
         "id": "SEGA",
         "name": "SEGA",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "SEGA Mega-Play",
+            "SEGA Mega-Tech",
+            "SEGA Sega Classics"
+        ]
     },
     "SGI": {
         "id": "SGI",
         "name": "SGI",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "SGI MIPS/IRIX"
+        ]
     },
     "SME Systems": {
         "id": "SME Systems",
         "name": "SME Systems",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "SME Systems Aussie Byte II"
+        ]
     },
     "SNK": {
         "id": "SNK",
@@ -2060,22 +3157,41 @@
             "arrm": [
                 "SNK"
             ]
-        }
+        },
+        "platforms": [
+            "SNK Hyper Neo-Geo 64",
+            "SNK Neo Geo",
+            "SNK Neo Geo AES",
+            "SNK Neo Geo CD",
+            "SNK Neo Geo MVS",
+            "SNK Neo Geo Pocket",
+            "SNK Neo Geo Pocket Color",
+            "SNK SNK Classics"
+        ]
     },
     "SSD": {
         "id": "SSD",
         "name": "SSD",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "SSD Xavix Port"
+        ]
     },
     "SSE": {
         "id": "SSE",
         "name": "SSE",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "SSE SoftBox"
+        ]
     },
     "Sage": {
         "id": "Sage",
         "name": "Sage",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Sage II"
+        ]
     },
     "Saitek": {
         "id": "Saitek",
@@ -2084,7 +3200,12 @@
             "oldcomputers": [
                 "Saitek"
             ]
-        }
+        },
+        "platforms": [
+            "Saitek Endgame",
+            "Saitek KSO",
+            "Saitek Kasparov Sensor Chess"
+        ]
     },
     "Sammy": {
         "id": "Sammy",
@@ -2096,7 +3217,10 @@
             "arrm": [
                 "Sammy"
             ]
-        }
+        },
+        "platforms": [
+            "Sammy Atomiswave"
+        ]
     },
     "Samsung": {
         "id": "Samsung",
@@ -2105,7 +3229,11 @@
             "oldcomputers": [
                 "Samsung"
             ]
-        }
+        },
+        "platforms": [
+            "Samsung SPC-1000",
+            "Samsung SPC-1500"
+        ]
     },
     "Sanyo": {
         "id": "Sanyo",
@@ -2114,7 +3242,12 @@
             "oldcomputers": [
                 "Sanyo"
             ]
-        }
+        },
+        "platforms": [
+            "Sanyo MBC-200-MBC-1200",
+            "Sanyo MBC-550",
+            "Sanyo MBC-550 and MBC-555"
+        ]
     },
     "Sega": {
         "id": "Sega",
@@ -2141,7 +3274,48 @@
             "arrm": [
                 "Sega"
             ]
-        }
+        },
+        "platforms": [
+            "Sega 32X",
+            "Sega ALLS",
+            "Sega Beena",
+            "Sega CD",
+            "Sega CD 32X",
+            "Sega Chihiro",
+            "Sega Computer 3000",
+            "Sega Dreamcast",
+            "Sega Game 1000",
+            "Sega Game Gear",
+            "Sega Genesis",
+            "Sega Hikaru",
+            "Sega Lindbergh",
+            "Sega MD-2",
+            "Sega Mark III & Master System",
+            "Sega Mega CD",
+            "Sega Mega Drive",
+            "Sega MegaTech",
+            "Sega Model 1",
+            "Sega Model 2",
+            "Sega Model 3",
+            "Sega Naomi",
+            "Sega Naomi 2",
+            "Sega Pico",
+            "Sega Prologue 21",
+            "Sega RingEdge",
+            "Sega RingEdge 2",
+            "Sega SC-3000",
+            "Sega SG-1000",
+            "Sega ST-V",
+            "Sega Saturn",
+            "Sega Sawatte Pico",
+            "Sega Super Control Station",
+            "Sega Super Control Station SF-7000",
+            "Sega System 16",
+            "Sega System 32",
+            "Sega Titan Video",
+            "Sega Visual Memory System",
+            "Sega WonderMega"
+        ]
     },
     "Seibu Kaihatsu": {
         "id": "Seibu Kaihatsu",
@@ -2150,7 +3324,10 @@
             "screenscraper": [
                 "Seibu Kaihatsu"
             ]
-        }
+        },
+        "platforms": [
+            "Seibu Kaihatsu Seibu Kaihatsu"
+        ]
     },
     "SemiCom": {
         "id": "SemiCom",
@@ -2159,12 +3336,18 @@
             "screenscraper": [
                 "SemiCom"
             ]
-        }
+        },
+        "platforms": [
+            "SemiCom SemiCom"
+        ]
     },
     "Seta": {
         "id": "Seta",
         "name": "Seta",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Seta Aleck64"
+        ]
     },
     "Sharp": {
         "id": "Sharp",
@@ -2188,7 +3371,20 @@
             "arrm": [
                 "Sharp"
             ]
-        }
+        },
+        "platforms": [
+            "Sharp MZ-2000",
+            "Sharp MZ-2200",
+            "Sharp MZ-2500",
+            "Sharp MZ-700",
+            "Sharp MZ-800",
+            "Sharp MZ-80B",
+            "Sharp PC-G850, PC-G815 & E200",
+            "Sharp Wizard",
+            "Sharp X1",
+            "Sharp X1 Turbo",
+            "Sharp X68000"
+        ]
     },
     "Siemens": {
         "id": "Siemens",
@@ -2197,7 +3393,11 @@
             "oldcomputers": [
                 "Siemens"
             ]
-        }
+        },
+        "platforms": [
+            "Siemens PC-D",
+            "Siemens PC-X"
+        ]
     },
     "Sinclair": {
         "id": "Sinclair",
@@ -2222,7 +3422,15 @@
             "arrm": [
                 "Sinclair"
             ]
-        }
+        },
+        "platforms": [
+            "Sinclair PC200",
+            "Sinclair QL",
+            "Sinclair ZX Microdrive",
+            "Sinclair ZX Spectrum +3",
+            "Sinclair ZX-80",
+            "Sinclair ZX-81"
+        ]
     },
     "Sony": {
         "id": "Sony",
@@ -2250,7 +3458,20 @@
             "arrm": [
                 "Sony"
             ]
-        }
+        },
+        "platforms": [
+            "Sony PlayStation Mobile",
+            "Sony Playstation",
+            "Sony Playstation 2",
+            "Sony Playstation 3",
+            "Sony Playstation 4",
+            "Sony Playstation 5",
+            "Sony Playstation Portable",
+            "Sony Playstation Vita",
+            "Sony PocketStation",
+            "Sony SMC-777",
+            "Sony ZiNc"
+        ]
     },
     "Sord": {
         "id": "Sord",
@@ -2262,7 +3483,10 @@
             "oldcomputers": [
                 "Sord"
             ]
-        }
+        },
+        "platforms": [
+            "Sord M5"
+        ]
     },
     "Spectravideo": {
         "id": "Spectravideo",
@@ -2280,22 +3504,34 @@
             "arrm": [
                 "Spectravideo"
             ]
-        }
+        },
+        "platforms": [
+            "Spectravideo SVI-318 & SVI-328"
+        ]
     },
     "TAB-Austria": {
         "id": "TAB-Austria",
         "name": "TAB-Austria",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "TAB-Austria Quizard"
+        ]
     },
     "TRQ": {
         "id": "TRQ",
         "name": "TRQ",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "TRQ Video Computer H-21"
+        ]
     },
     "Taikee": {
         "id": "Taikee",
         "name": "Taikee",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Taikee Singing Star Karaoke"
+        ]
     },
     "Taito": {
         "id": "Taito",
@@ -2307,17 +3543,28 @@
             "screenscraper": [
                 "Taito"
             ]
-        }
+        },
+        "platforms": [
+            "Taito Taito Classics",
+            "Taito Type X"
+        ]
     },
     "Takara": {
         "id": "Takara",
         "name": "Takara",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Takara Jumping Popira (Japan) JP-xx series",
+            "Takara e-kara"
+        ]
     },
     "Tandberg": {
         "id": "Tandberg",
         "name": "Tandberg",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Tandberg TDV 2324"
+        ]
     },
     "Tandy Radio Shack": {
         "id": "Tandy Radio Shack",
@@ -2336,7 +3583,19 @@
             "oldcomputers": [
                 "Tandy Radio Shack"
             ]
-        }
+        },
+        "platforms": [
+            "Tandy Radio Shack TRS-80 Color Computer",
+            "Tandy Radio Shack TRS-80 MC-10",
+            "Tandy Radio Shack TRS-80 Model 100",
+            "Tandy Radio Shack TRS-80 Model 4",
+            "Tandy Radio Shack TRS-80 Model I",
+            "Tandy Radio Shack TRS-80 Model II",
+            "Tandy Radio Shack TRS-80 Model III",
+            "Tandy Radio Shack Tandy 1000 series",
+            "Tandy Radio Shack Tandy 200",
+            "Tandy Radio Shack Tandy 2000"
+        ]
     },
     "Tangerine": {
         "id": "Tangerine",
@@ -2352,7 +3611,12 @@
             "recalbox": [
                 "Tangerine"
             ]
-        }
+        },
+        "platforms": [
+            "Tangerine Microtan 65",
+            "Tangerine Oric Telestrat",
+            "Tangerine Oric-1 & Oric Atmos"
+        ]
     },
     "Tapwave": {
         "id": "Tapwave",
@@ -2361,7 +3625,10 @@
             "launchbox": [
                 "Tapwave"
             ]
-        }
+        },
+        "platforms": [
+            "Tapwave Zodiac"
+        ]
     },
     "Tatung": {
         "id": "Tatung",
@@ -2373,12 +3640,18 @@
             "oldcomputers": [
                 "Tatung"
             ]
-        }
+        },
+        "platforms": [
+            "Tatung Einstein TC-01"
+        ]
     },
     "Technosys": {
         "id": "Technosys",
         "name": "Technosys",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Technosys Aamber Pegasus"
+        ]
     },
     "Tecmo": {
         "id": "Tecmo",
@@ -2387,22 +3660,38 @@
             "screenscraper": [
                 "Tecmo"
             ]
-        }
+        },
+        "platforms": [
+            "Tecmo Tecmo"
+        ]
     },
     "Tektronix": {
         "id": "Tektronix",
         "name": "Tektronix",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Tektronix 4052",
+            "Tektronix 4100 Series",
+            "Tektronix 4400 Series"
+        ]
     },
     "Telcon": {
         "id": "Telcon",
         "name": "Telcon",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Telcon Zorba"
+        ]
     },
     "TeleVideo Systems": {
         "id": "TeleVideo Systems",
         "name": "TeleVideo Systems",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "TeleVideo Systems TS-802 & TS-802H",
+            "TeleVideo Systems TS-803, TS-803H & TPC-1",
+            "TeleVideo Systems TS-806"
+        ]
     },
     "Telenova": {
         "id": "Telenova",
@@ -2411,17 +3700,26 @@
             "oldcomputers": [
                 "Telenova"
             ]
-        }
+        },
+        "platforms": [
+            "Telenova Compis"
+        ]
     },
     "Telmac": {
         "id": "Telmac",
         "name": "Telmac",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Telmac TMC-600"
+        ]
     },
     "Terak": {
         "id": "Terak",
         "name": "Terak",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Terak 8510A & 8600"
+        ]
     },
     "Tesla": {
         "id": "Tesla",
@@ -2433,7 +3731,11 @@
             "oldcomputers": [
                 "Tesla"
             ]
-        }
+        },
+        "platforms": [
+            "Tesla Ondra & Ondra ViLi",
+            "Tesla PMD-85"
+        ]
     },
     "Texas Instruments": {
         "id": "Texas Instruments",
@@ -2454,7 +3756,26 @@
             "arrm": [
                 "Texas Instruments"
             ]
-        }
+        },
+        "platforms": [
+            "Texas Instruments CC-40",
+            "Texas Instruments Speak & Read",
+            "Texas Instruments Speak & Spell",
+            "Texas Instruments TI-59",
+            "Texas Instruments TI-73",
+            "Texas Instruments TI-74",
+            "Texas Instruments TI-80",
+            "Texas Instruments TI-81",
+            "Texas Instruments TI-82",
+            "Texas Instruments TI-83",
+            "Texas Instruments TI-84",
+            "Texas Instruments TI-85",
+            "Texas Instruments TI-86",
+            "Texas Instruments TI-89",
+            "Texas Instruments TI-92",
+            "Texas Instruments TI-95",
+            "Texas Instruments TI-99 4A"
+        ]
     },
     "Thomson": {
         "id": "Thomson",
@@ -2472,7 +3793,16 @@
             "arrm": [
                 "Thomson"
             ]
-        }
+        },
+        "platforms": [
+            "Thomson MO5",
+            "Thomson MO6",
+            "Thomson TO-series",
+            "Thomson TO7",
+            "Thomson TO7-70",
+            "Thomson TO8",
+            "Thomson TO8, TO8D, TO9, TO9+"
+        ]
     },
     "Tiger Electronics": {
         "id": "Tiger Electronics",
@@ -2487,22 +3817,39 @@
             "arrm": [
                 "Tiger Electronics"
             ]
-        }
+        },
+        "platforms": [
+            "Tiger Electronics Game.com",
+            "Tiger Electronics Gizmondo",
+            "Tiger Electronics K28 Talking Learning Computer",
+            "Tiger Electronics Playmaker",
+            "Tiger Electronics R-Zone"
+        ]
     },
     "Tiki Data": {
         "id": "Tiki Data",
         "name": "Tiki Data",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Tiki Data Kontiki-100 & Tiki-100"
+        ]
     },
     "TimeTop": {
         "id": "TimeTop",
         "name": "TimeTop",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "TimeTop GameKing",
+            "TimeTop GameKing 3"
+        ]
     },
     "Timex Sinclair": {
         "id": "Timex Sinclair",
         "name": "Timex Sinclair",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Timex Sinclair TS-2068"
+        ]
     },
     "Toaplan": {
         "id": "Toaplan",
@@ -2511,7 +3858,10 @@
             "screenscraper": [
                 "Toaplan"
             ]
-        }
+        },
+        "platforms": [
+            "Toaplan Toaplan"
+        ]
     },
     "Tomy": {
         "id": "Tomy",
@@ -2529,12 +3879,22 @@
             "arrm": [
                 "Tomy"
             ]
-        }
+        },
+        "platforms": [
+            "Tomy KISS-Site",
+            "Tomy Prin-C",
+            "Tomy Tutor",
+            "Tomy Tutor & Pyuuta",
+            "Tomy evio"
+        ]
     },
     "Torch": {
         "id": "Torch",
         "name": "Torch",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Torch Co-Processor"
+        ]
     },
     "Toshiba": {
         "id": "Toshiba",
@@ -2543,22 +3903,36 @@
             "oldcomputers": [
                 "Toshiba"
             ]
-        }
+        },
+        "platforms": [
+            "Toshiba Pasopia 7",
+            "Toshiba Personal Computer Pasopia PA7010",
+            "Toshiba Visicom"
+        ]
     },
     "Touhou": {
         "id": "Touhou",
         "name": "Touhou",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Touhou Project"
+        ]
     },
     "Toyquest": {
         "id": "Toyquest",
         "name": "Toyquest",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Toyquest TV Go Go"
+        ]
     },
     "Triumph-Adler": {
         "id": "Triumph-Adler",
         "name": "Triumph-Adler",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Triumph-Adler Alphatronic PC"
+        ]
     },
     "Tsukuda Original": {
         "id": "Tsukuda Original",
@@ -2567,32 +3941,50 @@
             "launchbox": [
                 "Tsukuda Original"
             ]
-        }
+        },
+        "platforms": [
+            "Tsukuda Original Othello Multivision"
+        ]
     },
     "UNIVAC": {
         "id": "UNIVAC",
         "name": "UNIVAC",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "UNIVAC Series 90"
+        ]
     },
     "USSR": {
         "id": "USSR",
         "name": "USSR",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "USSR Vector-06C"
+        ]
     },
     "Unisonic": {
         "id": "Unisonic",
         "name": "Unisonic",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Unisonic Champion 2711"
+        ]
     },
     "University of Cambridge": {
         "id": "University of Cambridge",
         "name": "University of Cambridge",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "University of Cambridge EDSAC"
+        ]
     },
     "University of Tokyo": {
         "id": "University of Tokyo",
         "name": "University of Tokyo",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "University of Tokyo PC-1"
+        ]
     },
     "Uzebox": {
         "id": "Uzebox",
@@ -2601,17 +3993,27 @@
             "arrm": [
                 "UzeBox"
             ]
-        }
+        },
+        "platforms": [
+            "Uzebox"
+        ]
     },
     "VEB Mikroelektronik": {
         "id": "VEB Mikroelektronik",
         "name": "VEB Mikroelektronik",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "VEB Mikroelektronik Erfurt Chess-Master Diamond",
+            "VEB Mikroelektronik KC 85"
+        ]
     },
     "VM-Labs": {
         "id": "VM-Labs",
         "name": "VM-Labs",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "VM-Labs Nuon"
+        ]
     },
     "VTech": {
         "id": "VTech",
@@ -2634,7 +4036,39 @@
             "arrm": [
                 "VTech"
             ]
-        }
+        },
+        "platforms": [
+            "VTech CreatiVision",
+            "VTech Genius",
+            "VTech Genius IQ 128",
+            "VTech Genius Junior 4000",
+            "VTech Genius Junior Movie",
+            "VTech Genius Junior Redstar",
+            "VTech Genius Leader 2000",
+            "VTech Genius Leader 6000SL",
+            "VTech Genius Leader CX",
+            "VTech Genius Leader Color",
+            "VTech Genius Leader Notebook",
+            "VTech Genius Leader Select",
+            "VTech IQ Unlimited",
+            "VTech InnoTAB 1/2/3",
+            "VTech InnoTV / InnoTAB MAX",
+            "VTech Laser 200",
+            "VTech Laser 2001",
+            "VTech Laser 3000 & Dick Smith CAT",
+            "VTech Laser 310",
+            "VTech Laser 350, 500, 700 & 750",
+            "VTech Laser 500",
+            "VTech Mobigo",
+            "VTech PreComputer 1000",
+            "VTech Socrates",
+            "VTech Storio V.Reader",
+            "VTech V.Baby",
+            "VTech V.Flash",
+            "VTech V.Smile",
+            "VTech V.Smile Baby",
+            "VTech V.Smile Motion"
+        ]
     },
     "Victor": {
         "id": "Victor",
@@ -2643,12 +4077,18 @@
             "oldcomputers": [
                 "Victor"
             ]
-        }
+        },
+        "platforms": [
+            "Victor 9000 - ACT Sirius 1"
+        ]
     },
     "VideoBrain": {
         "id": "VideoBrain",
         "name": "VideoBrain",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "VideoBrain Family Computer"
+        ]
     },
     "Videoton": {
         "id": "Videoton",
@@ -2660,7 +4100,10 @@
             "oldcomputers": [
                 "Videoton"
             ]
-        }
+        },
+        "platforms": [
+            "Videoton TVC"
+        ]
     },
     "Visco": {
         "id": "Visco",
@@ -2669,7 +4112,10 @@
             "screenscraper": [
                 "Visco"
             ]
-        }
+        },
+        "platforms": [
+            "Visco Visco"
+        ]
     },
     "Voltmace": {
         "id": "Voltmace",
@@ -2679,12 +4125,19 @@
                 "VOLTMACE",
                 "Voltmace"
             ]
-        }
+        },
+        "platforms": [
+            "Voltmace Database"
+        ]
     },
     "Wang": {
         "id": "Wang",
         "name": "Wang",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Wang PC",
+            "Wang VS"
+        ]
     },
     "Watara": {
         "id": "Watara",
@@ -2705,27 +4158,42 @@
             "arrm": [
                 "Watara"
             ]
-        }
+        },
+        "platforms": [
+            "Watara Supervision"
+        ]
     },
     "WaveMate": {
         "id": "WaveMate",
         "name": "WaveMate",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "WaveMate Bullet"
+        ]
     },
     "Waveterm": {
         "id": "Waveterm",
         "name": "Waveterm",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Waveterm A"
+        ]
     },
     "WinFun": {
         "id": "WinFun",
         "name": "WinFun",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures"
+        ]
     },
     "WoW": {
         "id": "WoW",
         "name": "WoW",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "WoW Action Max"
+        ]
     },
     "Xerox": {
         "id": "Xerox",
@@ -2734,7 +4202,15 @@
             "oldcomputers": [
                 "Xerox"
             ]
-        }
+        },
+        "platforms": [
+            "Xerox 1108",
+            "Xerox 1186",
+            "Xerox 6085",
+            "Xerox 820",
+            "Xerox 820-II",
+            "Xerox 860"
+        ]
     },
     "Yamaha": {
         "id": "Yamaha",
@@ -2743,7 +4219,10 @@
             "oldcomputers": [
                 "Yamaha"
             ]
-        }
+        },
+        "platforms": [
+            "Yamaha Copera"
+        ]
     },
     "Yeno": {
         "id": "Yeno",
@@ -2752,7 +4231,10 @@
             "oldcomputers": [
                 "Yeno"
             ]
-        }
+        },
+        "platforms": [
+            "Yeno MisterX"
+        ]
     },
     "ZAPiT Games": {
         "id": "ZAPiT Games",
@@ -2761,12 +4243,18 @@
             "launchbox": [
                 "ZAPiT Games"
             ]
-        }
+        },
+        "platforms": [
+            "ZAPiT Games Game Wave Family Entertainment System"
+        ]
     },
     "Zeebo": {
         "id": "Zeebo",
         "name": "Zeebo",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Zeebo Zeebo"
+        ]
     },
     "Zen Studios": {
         "id": "Zen Studios",
@@ -2778,21 +4266,34 @@
             "arrm": [
                 "Zen Studios"
             ]
-        }
+        },
+        "platforms": [
+            "Zen Studios Pinball FX2",
+            "Zen Studios Pinball FX3"
+        ]
     },
     "Zilog": {
         "id": "Zilog",
         "name": "Zilog",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "Zilog MCZ-2"
+        ]
     },
     "funworld": {
         "id": "funworld",
         "name": "funworld",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "funworld Photo Play"
+        ]
     },
     "iQue": {
         "id": "iQue",
         "name": "iQue",
-        "matches": []
+        "matches": [],
+        "platforms": [
+            "iQue iQue"
+        ]
     }
 }
