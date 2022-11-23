@@ -10,7 +10,8 @@
             "tosec": [
                 "8-Bit Productions Commander X16 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "ACT Apricot": {
         "id": "ACT Apricot",
@@ -24,7 +25,8 @@
                 "ACT Apricot - Magazines - UserPrompt",
                 "ACT Apricot - Manuals - Technical"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "ACT Apricot PC-Xi": {
         "id": "ACT Apricot PC-Xi",
@@ -48,7 +50,8 @@
             "launchbox": [
                 "apricot_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "ACT Apricot XEN": {
         "id": "ACT Apricot XEN",
@@ -84,7 +87,8 @@
             "launchbox": [
                 "super6"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "AEG Olympia Olytext 20": {
         "id": "AEG Olympia Olytext 20",
@@ -97,7 +101,8 @@
             "tosec": [
                 "AEG Olympia Olytext 20 - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "AMPRO Computers LittleBoard Z80": {
         "id": "AMPRO Computers LittleBoard Z80",
@@ -117,7 +122,8 @@
             "launchbox": [
                 "ampro"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "APF Imagination Machine": {
         "id": "APF Imagination Machine",
@@ -219,7 +225,8 @@
             "nointro": [
                 "APF - MP-1000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "APF PeCos One": {
         "id": "APF PeCos One",
@@ -232,7 +239,8 @@
             "tosecpix": [
                 "APF PeCos One - Manuals - Hardware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "AT&T 3B20": {
         "id": "AT&T 3B20",
@@ -245,7 +253,8 @@
             "tosec": [
                 "AT&T 3B20 - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "AVE Micro Systems ARB": {
         "id": "AVE Micro Systems ARB",
@@ -261,7 +270,8 @@
             "launchbox": [
                 "arb"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Acclaim Acclaim": {
         "id": "Acclaim Acclaim",
@@ -311,7 +321,8 @@
             "launchbox": [
                 "mpu1000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Acorn Archimedes": {
         "id": "Acorn Archimedes",
@@ -808,7 +819,8 @@
             "launchbox": [
                 "e01_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Acorn FileStore E01": {
         "id": "Acorn FileStore E01",
@@ -821,7 +833,8 @@
             "tosec": [
                 "Acorn FileStore E01 - System"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Acorn Risc PC": {
         "id": "Acorn Risc PC",
@@ -884,7 +897,8 @@
             "launchbox": [
                 "bbc_flop_z80"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Adobe Flash": {
         "id": "Adobe Flash",
@@ -953,7 +967,8 @@
                 "Advanced Computer Design PDQ-3 - System",
                 "Advanced Computer Design PDQ-3 - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "AlphaSmart 3000": {
         "id": "AlphaSmart 3000",
@@ -972,7 +987,8 @@
             "launchbox": [
                 "alphasmart_kapps"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "AlphaSmart Pro": {
         "id": "AlphaSmart Pro",
@@ -985,7 +1001,8 @@
             "tosec": [
                 "AlphaSmart Pro - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Alspa Computers ALSPA": {
         "id": "Alspa Computers ALSPA",
@@ -998,7 +1015,8 @@
             "tosec": [
                 "Alspa Computers ALSPA - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Altos Computer Systems ACS-186, 586, 686 & 986": {
         "id": "Altos Computer Systems ACS-186, 586, 686 & 986",
@@ -1012,7 +1030,8 @@
                 "Altos Computer Systems ACS-186, 586, 686 & 986 - Applications",
                 "Altos Computer Systems ACS-186, 586, 686 & 986 - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Altos Computer Systems ACS-8000": {
         "id": "Altos Computer Systems ACS-8000",
@@ -1049,7 +1068,8 @@
             "launchbox": [
                 "altos8600"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Altos Computer Systems Series 5": {
         "id": "Altos Computer Systems Series 5",
@@ -1072,7 +1092,8 @@
             "launchbox": [
                 "altos5"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Amcoe Amcoe": {
         "id": "Amcoe Amcoe",
@@ -1156,7 +1177,8 @@
             "toseciso": [
                 "American Laser Games CD-ROM System - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Amstrad CPC": {
         "id": "Amstrad CPC",
@@ -1381,7 +1403,8 @@
             "launchbox": [
                 "megapc"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Amstrad NC-100": {
         "id": "Amstrad NC-100",
@@ -1394,7 +1417,8 @@
             "tosec": [
                 "Amstrad NC-100 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Amstrad NC-200": {
         "id": "Amstrad NC-200",
@@ -1407,7 +1431,8 @@
             "tosec": [
                 "Amstrad NC-200 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Amstrad PC1512": {
         "id": "Amstrad PC1512",
@@ -1425,7 +1450,8 @@
                 "pc1512_flop",
                 "pc1512_hdd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Amstrad PC1640": {
         "id": "Amstrad PC1640",
@@ -1443,7 +1469,8 @@
                 "pc1640_flop",
                 "pc1640_hdd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Amstrad PCW": {
         "id": "Amstrad PCW",
@@ -1489,7 +1516,8 @@
             "launchbox": [
                 "pcw16"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Analogue Mega Sg": {
         "id": "Analogue Mega Sg",
@@ -1502,7 +1530,8 @@
             "tosec": [
                 "Analogue Mega Sg - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Analogue Nt Mini Noir": {
         "id": "Analogue Nt Mini Noir",
@@ -1515,7 +1544,8 @@
             "tosec": [
                 "Analogue Nt Mini Noir - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Analogue Pocket": {
         "id": "Analogue Pocket",
@@ -1533,7 +1563,8 @@
             "nointro": [
                 "Analogue - Analogue Pocket"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Analogue Super Nt": {
         "id": "Analogue Super Nt",
@@ -1546,7 +1577,8 @@
             "tosec": [
                 "Analogue Super Nt - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Apogee BK-01": {
         "id": "Apogee BK-01",
@@ -1563,7 +1595,8 @@
             "mame": [
                 "apogee"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Apple I": {
         "id": "Apple I",
@@ -2156,7 +2189,8 @@
             "tgdb": [
                 4915
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Apple iPad": {
         "id": "Apple iPad",
@@ -2172,7 +2206,8 @@
             "tosecpix": [
                 "Apple iPad - Books"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Applied Technology MicroBee": {
         "id": "Applied Technology MicroBee",
@@ -2226,7 +2261,8 @@
             "launchbox": [
                 "applix_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Aquaplus P-ECE": {
         "id": "Aquaplus P-ECE",
@@ -2239,7 +2275,8 @@
             "tosec": [
                 "Aquaplus P-ECE - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Atari 2600": {
         "id": "Atari 2600",
@@ -3481,7 +3518,8 @@
             "launchbox": [
                 "Atari XEGS"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Atari XL": {
         "id": "Atari XL",
@@ -3546,7 +3584,8 @@
             "launchbox": [
                 "aussiebyte"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "BASF 7100": {
         "id": "BASF 7100",
@@ -3585,7 +3624,8 @@
             "launchbox": [
                 "bbcbc"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "BGR Computers Excalibur 64": {
         "id": "BGR Computers Excalibur 64",
@@ -3598,7 +3638,8 @@
             "tosec": [
                 "BGR Computers Excalibur 64 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "BNPO Bashkiria-2M": {
         "id": "BNPO Bashkiria-2M",
@@ -3614,7 +3655,8 @@
             "launchbox": [
                 "b2m"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Baiyi C2 Color & Card": {
         "id": "Baiyi C2 Color & Card",
@@ -3630,7 +3672,8 @@
             "launchbox": [
                 "c2color_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bally Professional Arcade & Astrocade": {
         "id": "Bally Professional Arcade & Astrocade",
@@ -3752,7 +3795,8 @@
                 "bdesignm_game_cart",
                 "bdesignm_design_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bandai Gundam RX-78": {
         "id": "Bandai Gundam RX-78",
@@ -3765,7 +3809,8 @@
             "tosec": [
                 "Bandai Gundam RX-78 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bandai Karaoke Ranking Party": {
         "id": "Bandai Karaoke Ranking Party",
@@ -3781,7 +3826,8 @@
             "launchbox": [
                 "bkrankp_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bandai Pippin": {
         "id": "Bandai Pippin",
@@ -3807,7 +3853,8 @@
             "launchbox": [
                 "pippin"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bandai Pippin @World & Pippin Atmark": {
         "id": "Bandai Pippin @World & Pippin Atmark",
@@ -3821,7 +3868,8 @@
                 "Bandai Pippin @World & Pippin Atmark - Applications",
                 "Bandai Pippin @World & Pippin Atmark - Multimedia"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bandai Playdia": {
         "id": "Bandai Playdia",
@@ -3848,7 +3896,8 @@
                 "Bandai Playdia - Games - [IMG]",
                 "Bandai Playdia - Games - [ISO]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bandai Super Note Club": {
         "id": "Bandai Super Note Club",
@@ -3864,7 +3913,8 @@
             "launchbox": [
                 "snotec"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bandai Super Vision 8000": {
         "id": "Bandai Super Vision 8000",
@@ -3883,7 +3933,8 @@
             "launchbox": [
                 "sv8000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bandai WonderSwan": {
         "id": "Bandai WonderSwan",
@@ -4160,7 +4211,8 @@
             "launchbox": [
                 "pockchalw"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC": {
         "id": "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC",
@@ -4173,7 +4225,8 @@
             "tosec": [
                 "Bernd Huebler & Klaus-Peter Evert Huebler-Evert-MC - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bernd Huebler Huebler-Grafik-MC": {
         "id": "Bernd Huebler Huebler-Grafik-MC",
@@ -4186,7 +4239,8 @@
             "tosec": [
                 "Bernd Huebler Huebler-Grafik-MC - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bit Corporation BIT 90": {
         "id": "Bit Corporation BIT 90",
@@ -4255,7 +4309,8 @@
             "launchbox": [
                 "bw12"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bondwell 14": {
         "id": "Bondwell 14",
@@ -4275,7 +4330,8 @@
             "launchbox": [
                 "bw14"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Bondwell 2": {
         "id": "Bondwell 2",
@@ -4297,7 +4353,8 @@
             "launchbox": [
                 "bw2"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Burroughs B1000 Series": {
         "id": "Burroughs B1000 Series",
@@ -4310,7 +4367,8 @@
             "tosec": [
                 "Burroughs B1000 Series - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Burroughs B20": {
         "id": "Burroughs B20",
@@ -4324,7 +4382,8 @@
                 "Burroughs B20 - Applications",
                 "Burroughs B20 - System"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "CCE MC-1000": {
         "id": "CCE MC-1000",
@@ -4344,7 +4403,8 @@
             "launchbox": [
                 "mc1000_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "COMX COMX-35": {
         "id": "COMX COMX-35",
@@ -4390,7 +4450,8 @@
             "launchbox": [
                 "buzztime_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Cambridge Computer Z88": {
         "id": "Cambridge Computer Z88",
@@ -4410,7 +4471,8 @@
             "launchbox": [
                 "z88_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Camputers Lynx": {
         "id": "Camputers Lynx",
@@ -4699,7 +4761,8 @@
             "launchbox": [
                 "casio_rompack"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Casio CFX-9850": {
         "id": "Casio CFX-9850",
@@ -4712,7 +4775,8 @@
             "tosec": [
                 "Casio CFX-9850 - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Casio FP-1000 & FP-1100": {
         "id": "Casio FP-1000 & FP-1100",
@@ -4725,7 +4789,8 @@
             "tosec": [
                 "Casio FP-1000 & FP-1100 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Casio Loopy": {
         "id": "Casio Loopy",
@@ -4809,7 +4874,8 @@
             "launchbox": [
                 "pb2000c"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Casio PV-1000": {
         "id": "Casio PV-1000",
@@ -4916,7 +4982,8 @@
             "launchbox": [
                 "bbc_flop_68000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Century Electronics Century Electronics": {
         "id": "Century Electronics Century Electronics",
@@ -4966,7 +5033,8 @@
             "launchbox": [
                 "ggm"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "China Education Computer": {
         "id": "China Education Computer",
@@ -4982,7 +5050,8 @@
             "launchbox": [
                 "cecflop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Cinematronics Cinematronics": {
         "id": "Cinematronics Cinematronics",
@@ -5246,7 +5315,8 @@
             "launchbox": [
                 "quizwiz"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Coleco Telstar Arcade": {
         "id": "Coleco Telstar Arcade",
@@ -5262,7 +5332,8 @@
             "oldcomputers": [
                 661
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Coleco Total Control 4": {
         "id": "Coleco Total Control 4",
@@ -5278,7 +5349,8 @@
             "launchbox": [
                 "tc4"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Comad Comad": {
         "id": "Comad Comad",
@@ -6045,7 +6117,8 @@
             "launchbox": [
                 "cbm8096_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore 8296": {
         "id": "Commodore 8296",
@@ -6061,7 +6134,8 @@
             "launchbox": [
                 "cbm8296_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore Amiga": {
         "id": "Commodore Amiga",
@@ -6762,7 +6836,8 @@
             "launchbox": [
                 "amigaaga_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore Amiga CD": {
         "id": "Commodore Amiga CD",
@@ -7050,7 +7125,8 @@
             "launchbox": [
                 "amigaecs_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore Amiga OCS": {
         "id": "Commodore Amiga OCS",
@@ -7066,7 +7142,8 @@
             "launchbox": [
                 "amigaocs_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore BX256-80HP": {
         "id": "Commodore BX256-80HP",
@@ -7086,7 +7163,8 @@
             "launchbox": [
                 "bx256hp_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore C64DTV": {
         "id": "Commodore C64DTV",
@@ -7107,7 +7185,8 @@
                 "Commodore C64DTV - Games - [PRG]",
                 "Commodore C64DTV - Games - [T64]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore CBM-II": {
         "id": "Commodore CBM-II",
@@ -7125,7 +7204,8 @@
                 "cbm2_cart",
                 "cbm2_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore MAX Machine": {
         "id": "Commodore MAX Machine",
@@ -7141,7 +7221,8 @@
             "tosec": [
                 "Commodore MAX Machine & VIC10 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore P500": {
         "id": "Commodore P500",
@@ -7157,7 +7238,8 @@
             "launchbox": [
                 "p500_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore PET": {
         "id": "Commodore PET",
@@ -7382,7 +7464,8 @@
             "launchbox": [
                 "superpet_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore VIC-10": {
         "id": "Commodore VIC-10",
@@ -7398,7 +7481,8 @@
             "launchbox": [
                 "vic10"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Commodore VIC-1001": {
         "id": "Commodore VIC-1001",
@@ -7571,7 +7655,8 @@
             "tosec": [
                 "Compugraphic MCS-10 - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Conchess Plymate": {
         "id": "Conchess Plymate",
@@ -7587,7 +7672,8 @@
             "launchbox": [
                 "conchess_plymate"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Conchess Standard": {
         "id": "Conchess Standard",
@@ -7603,7 +7689,8 @@
             "launchbox": [
                 "conchess_standard"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Conitec PROF-180": {
         "id": "Conitec PROF-180",
@@ -7619,7 +7706,8 @@
             "launchbox": [
                 "prof180"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Conitec PROF-80": {
         "id": "Conitec PROF-80",
@@ -7653,7 +7741,8 @@
                 "Control Data Corporation CDC110 - Applications",
                 "Control Data Corporation CDC110 - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Convergent Technologies AWS NGEN Workstation": {
         "id": "Convergent Technologies AWS NGEN Workstation",
@@ -7677,7 +7766,8 @@
                 "Convergent Technologies AWS NGEN Workstation - Operating Systems - [IMG]",
                 "Convergent Technologies AWS NGEN Workstation - Operating Systems - [RAW]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Convergent Technologies MiniFrame": {
         "id": "Convergent Technologies MiniFrame",
@@ -7690,7 +7780,8 @@
             "tosec": [
                 "Convergent Technologies MiniFrame - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Creatronic Mega Duck & Cougar Boy": {
         "id": "Creatronic Mega Duck & Cougar Boy",
@@ -7792,7 +7883,8 @@
             "tosec": [
                 "Cybiko Xtreme - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "DEC AlphaServer": {
         "id": "DEC AlphaServer",
@@ -7805,7 +7897,8 @@
             "tosec": [
                 "DEC AlphaServer - System"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "DEC DECPx AXP 150": {
         "id": "DEC DECPx AXP 150",
@@ -7818,7 +7911,8 @@
             "tosec": [
                 "DEC DECPx AXP 150 - System"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "DEC PDP-1": {
         "id": "DEC PDP-1",
@@ -7860,7 +7954,8 @@
                 "DEC PDP-10 - Collections - DEC",
                 "DEC PDP-10 - Collections - MainDEC"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "DEC PDP-11": {
         "id": "DEC PDP-11",
@@ -7875,7 +7970,8 @@
                 "DEC PDP-11 - Collections - MainDEC",
                 "DEC PDP-11 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "DEC PDP-12": {
         "id": "DEC PDP-12",
@@ -7889,7 +7985,8 @@
                 "DEC PDP-12 - Collections - MainDEC - [BIN]",
                 "DEC PDP-12 - Collections - MainDEC - [PTP]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "DEC PDP-15": {
         "id": "DEC PDP-15",
@@ -7903,7 +8000,8 @@
                 "DEC PDP-15 - Collections - DEC",
                 "DEC PDP-15 - Collections - MainDEC"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "DEC PDP-7": {
         "id": "DEC PDP-7",
@@ -7973,7 +8071,8 @@
             "tosec": [
                 "DEC PDP-9 - Collections - DEC"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "DEC Rainbow 100": {
         "id": "DEC Rainbow 100",
@@ -8093,7 +8192,8 @@
                 "super80_cass",
                 "super80_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dick Smith Super-80, Super-80D, Super-80E & Super-80M": {
         "id": "Dick Smith Super-80, Super-80D, Super-80E & Super-80M",
@@ -8106,7 +8206,8 @@
             "tosec": [
                 "Dick Smith Super-80, Super-80D, Super-80E & Super-80M - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dick Smith Super-80R & Super-80V": {
         "id": "Dick Smith Super-80R & Super-80V",
@@ -8119,7 +8220,8 @@
             "tosec": [
                 "Dick Smith Super-80R & Super-80V - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dick Smith System 80": {
         "id": "Dick Smith System 80",
@@ -8135,7 +8237,8 @@
                 "Dick Smith System 80 - Manuals - Hardware",
                 "Dick Smith System 80 - Manuals - Technical"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dick Smith VZ-200-300": {
         "id": "Dick Smith VZ-200-300",
@@ -8153,7 +8256,8 @@
                 "vz_cass",
                 "vz_snap"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Didact Esselte 100": {
         "id": "Didact Esselte 100",
@@ -8166,7 +8270,8 @@
             "tosec": [
                 "Didact Esselte 100 - Demos"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Digilog 320": {
         "id": "Digilog 320",
@@ -8182,7 +8287,8 @@
             "launchbox": [
                 "digilog320"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Digital Electronics DIGIAC 3080": {
         "id": "Digital Electronics DIGIAC 3080",
@@ -8195,7 +8301,8 @@
             "tosec": [
                 "Digital Electronics DIGIAC 3080 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dragon 32-64": {
         "id": "Dragon 32-64",
@@ -8406,7 +8513,8 @@
                 "Dragon Data Dragon - Magazines - Dragon World",
                 "Dragon Data Dragon - Manuals - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dragon FLEX": {
         "id": "Dragon FLEX",
@@ -8422,7 +8530,8 @@
             "launchbox": [
                 "dragon_flex"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dragon OS-9": {
         "id": "Dragon OS-9",
@@ -8438,7 +8547,8 @@
             "launchbox": [
                 "dragon_os9"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dynabyte Monarch": {
         "id": "Dynabyte Monarch",
@@ -8451,7 +8561,8 @@
             "tosec": [
                 "Dynabyte Monarch - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Dynax Dynax": {
         "id": "Dynax Dynax",
@@ -8501,7 +8612,8 @@
             "launchbox": [
                 "ec1841"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "EACA EG2000 Colour Genie": {
         "id": "EACA EG2000 Colour Genie",
@@ -8584,7 +8696,8 @@
             "launchbox": [
                 "px4_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "ETI-660": {
         "id": "ETI-660",
@@ -8600,7 +8713,8 @@
             "launchbox": [
                 "eti660_quik"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "ETL Mark II": {
         "id": "ETL Mark II",
@@ -8613,7 +8727,8 @@
             "tosec": [
                 "ETL Mark II - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "ETL Mark IV": {
         "id": "ETL Mark IV",
@@ -8626,7 +8741,8 @@
             "tosec": [
                 "ETL Mark IV - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "ETL Mark IV A": {
         "id": "ETL Mark IV A",
@@ -8639,7 +8755,8 @@
             "tosec": [
                 "ETL Mark IV A - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Elecbyte MUGEN": {
         "id": "Elecbyte MUGEN",
@@ -8703,7 +8820,8 @@
                 "Electronics Australia EDUC-8 - Applications - [ASY]",
                 "Electronics Australia EDUC-8 - Applications - [TXT]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Elektronika BK": {
         "id": "Elektronika BK",
@@ -8820,7 +8938,8 @@
             "launchbox": [
                 "mc1502_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Elektronska Industrija Nis PECOM 32 & 64": {
         "id": "Elektronska Industrija Nis PECOM 32 & 64",
@@ -8841,7 +8960,8 @@
             "launchbox": [
                 "pecom_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Emerson Arcadia 2001": {
         "id": "Emerson Arcadia 2001",
@@ -8934,7 +9054,8 @@
             "launchbox": [
                 "apollo_ctape"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Enterprise 64 & 128": {
         "id": "Enterprise 64 & 128",
@@ -9062,7 +9183,8 @@
             "launchbox": [
                 "entex_sag"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Epoch Cassette Vision": {
         "id": "Epoch Cassette Vision",
@@ -9078,7 +9200,8 @@
             "oldcomputers": [
                 792
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Epoch Game Pocket Computer": {
         "id": "Epoch Game Pocket Computer",
@@ -9213,7 +9336,8 @@
             "launchbox": [
                 "epson_cpm"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Epson HX-20 Optional": {
         "id": "Epson HX-20 Optional",
@@ -9229,7 +9353,8 @@
             "launchbox": [
                 "hx20_rom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Epson PX-4 & HC-40": {
         "id": "Epson PX-4 & HC-40",
@@ -9242,7 +9367,8 @@
             "tosec": [
                 "Epson PX-4 & HC-40 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Epson PX-8, HC-88 & Geneva": {
         "id": "Epson PX-8, HC-88 & Geneva",
@@ -9270,7 +9396,8 @@
             "launchbox": [
                 "px8_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Epson QX-10": {
         "id": "Epson QX-10",
@@ -9289,7 +9416,8 @@
             "launchbox": [
                 "qx10_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Ericsson Alfaskop System 41": {
         "id": "Ericsson Alfaskop System 41",
@@ -9303,7 +9431,8 @@
                 "Ericsson Alfaskop System 41 - System - [IMG]",
                 "Ericsson Alfaskop System 41 - System - [IMW]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Ericsson PC AT WS286": {
         "id": "Ericsson PC AT WS286",
@@ -9319,7 +9448,8 @@
             "launchbox": [
                 "ews286_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Ericsson PC step-one": {
         "id": "Ericsson PC step-one",
@@ -9335,7 +9465,8 @@
             "launchbox": [
                 "stepone_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Excalibur 64": {
         "id": "Excalibur 64",
@@ -9351,7 +9482,8 @@
             "launchbox": [
                 "excalibur64"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Exelvision EXL 100": {
         "id": "Exelvision EXL 100",
@@ -9622,7 +9754,8 @@
                 "Fairchild VES & Channel F - Manuals - Games",
                 "Fairchild VES & Channel F - Manuals - Hardware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fairlight CMI Series III": {
         "id": "Fairlight CMI Series III",
@@ -9635,7 +9768,8 @@
             "tosec": [
                 "Fairlight CMI Series III - System"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Ferguson Big Board II": {
         "id": "Ferguson Big Board II",
@@ -9650,7 +9784,8 @@
                 "Ferguson Big Board II - System",
                 "Ferguson Big Board II - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fidelity MSC": {
         "id": "Fidelity MSC",
@@ -9666,7 +9801,8 @@
             "launchbox": [
                 "fidel_msc"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fidelity SC6": {
         "id": "Fidelity SC6",
@@ -9682,7 +9818,8 @@
             "launchbox": [
                 "fidel_sc6"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fidelity Sensory Chess Challenger": {
         "id": "Fidelity Sensory Chess Challenger",
@@ -9701,7 +9838,8 @@
             "launchbox": [
                 "fidel_scc"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fisher-Price - Mattel I Can Play Guitar": {
         "id": "Fisher-Price - Mattel I Can Play Guitar",
@@ -9717,7 +9855,8 @@
             "launchbox": [
                 "icanguit"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fisher-Price - Mattel I Can Play Piano": {
         "id": "Fisher-Price - Mattel I Can Play Piano",
@@ -9733,7 +9872,8 @@
             "launchbox": [
                 "icanpian"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Front Fareast Magic Drive": {
         "id": "Front Fareast Magic Drive",
@@ -9746,7 +9886,8 @@
             "tosec": [
                 "Front Fareast Magic Drive - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fuji Photo Film FUJIC": {
         "id": "Fuji Photo Film FUJIC",
@@ -9759,7 +9900,8 @@
             "tosec": [
                 "Fuji Photo Film FUJIC - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fujitsu FM Towns": {
         "id": "Fujitsu FM Towns",
@@ -9961,7 +10103,8 @@
             "launchbox": [
                 "fm77av"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fujitsu FM-8": {
         "id": "Fujitsu FM-8",
@@ -9980,7 +10123,8 @@
             "launchbox": [
                 "fm8_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fujitsu FMR50": {
         "id": "Fujitsu FMR50",
@@ -9993,7 +10137,8 @@
             "nointro": [
                 "Fujitsu - FMR50 (Flux)"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Fukutake Publishing StudyBox": {
         "id": "Fukutake Publishing StudyBox",
@@ -10010,7 +10155,8 @@
                 "Fukutake Publishing StudyBox - Educational",
                 "Fukutake Publishing StudyBox - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Funtech Super A'Can": {
         "id": "Funtech Super A'Can",
@@ -10210,7 +10356,8 @@
             "tgdb": [
                 4962
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Galaksija": {
         "id": "Galaksija",
@@ -10270,7 +10417,8 @@
             "nointro": [
                 "GamePark - GP2X"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "GamePark GP32": {
         "id": "GamePark GP32",
@@ -10758,7 +10906,8 @@
             "launchbox": [
                 "bbc_flop_hybrid"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic IQ-151": {
         "id": "Generic IQ-151",
@@ -10830,7 +10979,8 @@
             "launchbox": [
                 "intellect02"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Jazz": {
         "id": "Generic Jazz",
@@ -10846,7 +10996,8 @@
             "launchbox": [
                 "jazz"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Ju-Te-Computer": {
         "id": "Generic Ju-Te-Computer",
@@ -10876,7 +11027,8 @@
             "launchbox": [
                 "korvet_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic LEMZ Agat": {
         "id": "Generic LEMZ Agat",
@@ -11016,7 +11168,8 @@
                 "next_cdrom",
                 "next"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Nintendo Power": {
         "id": "Generic Nintendo Power",
@@ -11100,7 +11253,8 @@
                 "OpenPandora Pandora - Educational",
                 "OpenPandora Pandora - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Orion 128": {
         "id": "Generic Orion 128",
@@ -11120,7 +11274,8 @@
                 "orion_flop",
                 "orion_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic OrionPro": {
         "id": "Generic OrionPro",
@@ -11136,7 +11291,8 @@
             "launchbox": [
                 "orionpro_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic PC": {
         "id": "Generic PC",
@@ -11301,7 +11457,8 @@
             "launchbox": [
                 "pt68k2"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Palm": {
         "id": "Generic Palm",
@@ -11492,7 +11649,8 @@
             "launchbox": [
                 "poisk1_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Poly": {
         "id": "Generic Poly",
@@ -11508,7 +11666,8 @@
             "launchbox": [
                 "poly_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Pyldin-601": {
         "id": "Generic Pyldin-601",
@@ -11524,7 +11683,8 @@
             "launchbox": [
                 "pyl601"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic SITCOM": {
         "id": "Generic SITCOM",
@@ -11540,7 +11700,8 @@
             "launchbox": [
                 "sitcom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Sammy Classics": {
         "id": "Generic Sammy Classics",
@@ -11752,7 +11913,8 @@
             "launchbox": [
                 "midi_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic TIC-80": {
         "id": "Generic TIC-80",
@@ -11842,7 +12004,8 @@
             "launchbox": [
                 "ut88"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Generic Universal": {
         "id": "Generic Universal",
@@ -12047,7 +12210,8 @@
                 "Gould K105-D Logic Analyzer - Applications",
                 "Gould K105-D Logic Analyzer - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Gould K115 Logic Analyzer": {
         "id": "Gould K115 Logic Analyzer",
@@ -12060,7 +12224,8 @@
             "tosec": [
                 "Gould K115 Logic Analyzer - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Gould K450 Logic Analyzer": {
         "id": "Gould K450 Logic Analyzer",
@@ -12073,7 +12238,8 @@
             "tosec": [
                 "Gould K450 Logic Analyzer - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Grundy NewBrain": {
         "id": "Grundy NewBrain",
@@ -12086,7 +12252,8 @@
             "tosec": [
                 "Grundy NewBrain - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Gundam RX-78": {
         "id": "Gundam RX-78",
@@ -12216,7 +12383,8 @@
             "launchbox": [
                 "ht68k"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hector HRX": {
         "id": "Hector HRX",
@@ -12246,7 +12414,8 @@
             "tosec": [
                 "Hewlett-Packard 16500A - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard 4951C & 4952A": {
         "id": "Hewlett-Packard 4951C & 4952A",
@@ -12259,7 +12428,8 @@
             "tosec": [
                 "Hewlett-Packard 4951C & 4952A - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard HP 9825B": {
         "id": "Hewlett-Packard HP 9825B",
@@ -12275,7 +12445,8 @@
             "launchbox": [
                 "hp9825b_rom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard HP 9845A-S": {
         "id": "Hewlett-Packard HP 9845A-S",
@@ -12291,7 +12462,8 @@
             "launchbox": [
                 "hp9845a_rom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard HP 9845B-T-C": {
         "id": "Hewlett-Packard HP 9845B-T-C",
@@ -12307,7 +12479,8 @@
             "launchbox": [
                 "hp9845b_rom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard HP Integral PC": {
         "id": "Hewlett-Packard HP Integral PC",
@@ -12325,7 +12498,8 @@
                 "hp_ipc",
                 "hp_ipc_rom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard HP-14B": {
         "id": "Hewlett-Packard HP-14B",
@@ -12481,7 +12655,8 @@
             "launchbox": [
                 "hp86_rom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard HP48": {
         "id": "Hewlett-Packard HP48",
@@ -12513,7 +12688,8 @@
                 "Hewlett-Packard HP49 - Firmware",
                 "Hewlett-Packard HP49 - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard HP85": {
         "id": "Hewlett-Packard HP85",
@@ -12556,7 +12732,8 @@
                 "hp9k3xx_cdrom",
                 "hp9k3xx_hdd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hewlett-Packard HP9835A-B": {
         "id": "Hewlett-Packard HP9835A-B",
@@ -12575,7 +12752,8 @@
             "launchbox": [
                 "hp9835a_rom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hitachi Basic Master Jr.": {
         "id": "Hitachi Basic Master Jr.",
@@ -12607,7 +12785,8 @@
                 "Hitachi Basic Master Jr. Level 2 - Games - [S]",
                 "Hitachi Basic Master Jr. Level 2 - Games - [WAV]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hitachi Basic Master Level 3": {
         "id": "Hitachi Basic Master Level 3",
@@ -12627,7 +12806,8 @@
             "launchbox": [
                 "bml3_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Hitachi S1": {
         "id": "Hitachi S1",
@@ -12693,7 +12873,8 @@
             "tosecpix": [
                 "HomeLab BraiLab - Books (HU)"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM 1620": {
         "id": "IBM 1620",
@@ -12707,7 +12888,8 @@
                 "IBM 1620 - Games",
                 "IBM 1620 - Sources"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM 3740": {
         "id": "IBM 3740",
@@ -12720,7 +12902,8 @@
             "tosec": [
                 "IBM 3740 - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM Displaywriter": {
         "id": "IBM Displaywriter",
@@ -12742,7 +12925,8 @@
             "launchbox": [
                 "ibm6580"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM PC 5140 Convertible": {
         "id": "IBM PC 5140 Convertible",
@@ -12758,7 +12942,8 @@
             "launchbox": [
                 "ibm5140"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM PC and Compatibles": {
         "id": "IBM PC and Compatibles",
@@ -12917,7 +13102,8 @@
                 "ibm5150",
                 "ibm5150_hdd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM PC-AT": {
         "id": "IBM PC-AT",
@@ -12937,7 +13123,8 @@
                 "ibm5170_cdrom",
                 "ibm5170_hdd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM PC-XT": {
         "id": "IBM PC-XT",
@@ -12953,7 +13140,8 @@
             "launchbox": [
                 "ibm5150_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM PCjr": {
         "id": "IBM PCjr",
@@ -12988,7 +13176,8 @@
                 "ibmpcjr_cart",
                 "ibmpcjr_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IBM System-360": {
         "id": "IBM System-360",
@@ -13002,7 +13191,8 @@
                 "IBM System-360 - Applications",
                 "IBM System-360 - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "IGS IGS": {
         "id": "IGS IGS",
@@ -13093,7 +13283,8 @@
             "launchbox": [
                 "easy_karaoke_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Incredible Technologies Eagle": {
         "id": "Incredible Technologies Eagle",
@@ -13162,7 +13353,8 @@
             "tosec": [
                 "Intec Interact - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Interact Family Computer": {
         "id": "Interact Family Computer",
@@ -13183,7 +13375,8 @@
             "launchbox": [
                 "interact"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Intergraph InterPro": {
         "id": "Intergraph InterPro",
@@ -13199,7 +13392,8 @@
             "launchbox": [
                 "interpro"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Interton VC 4000": {
         "id": "Interton VC 4000",
@@ -13289,7 +13483,8 @@
             "launchbox": [
                 "i7000_card"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Ithaca InterSystems DPS-1": {
         "id": "Ithaca InterSystems DPS-1",
@@ -13325,7 +13520,8 @@
             "launchbox": [
                 "jakks_gamekey_dp"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "JAKKS Pacific 'DY' Game Keys": {
         "id": "JAKKS Pacific 'DY' Game Keys",
@@ -13341,7 +13537,8 @@
             "launchbox": [
                 "jakks_gamekey_dy"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "JAKKS Pacific 'MV' Game Keys": {
         "id": "JAKKS Pacific 'MV' Game Keys",
@@ -13357,7 +13554,8 @@
             "launchbox": [
                 "jakks_gamekey_mv"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "JAKKS Pacific 'NK' Game Keys": {
         "id": "JAKKS Pacific 'NK' Game Keys",
@@ -13373,7 +13571,8 @@
             "launchbox": [
                 "jakks_gamekey_nk"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "JAKKS Pacific 'NM' Game Keys": {
         "id": "JAKKS Pacific 'NM' Game Keys",
@@ -13389,7 +13588,8 @@
             "launchbox": [
                 "jakks_gamekey_nm"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "JAKKS Pacific 'SW' Game Keys": {
         "id": "JAKKS Pacific 'SW' Game Keys",
@@ -13405,7 +13605,8 @@
             "launchbox": [
                 "jakks_gamekey_sw"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "JAKKS Pacific Telestory": {
         "id": "JAKKS Pacific Telestory",
@@ -13421,7 +13622,8 @@
             "launchbox": [
                 "telestory_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "JPM Give us a Break": {
         "id": "JPM Give us a Break",
@@ -13437,7 +13639,8 @@
             "launchbox": [
                 "guab"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Jaleco Jaleco": {
         "id": "Jaleco Jaleco",
@@ -13488,7 +13691,8 @@
             "launchbox": [
                 "juku"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "JungleTac-KenSingTon Vii": {
         "id": "JungleTac-KenSingTon Vii",
@@ -13656,7 +13860,8 @@
             "tosec": [
                 "Keio University K-1 - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Koei PasoGo": {
         "id": "Koei PasoGo",
@@ -13672,7 +13877,8 @@
             "launchbox": [
                 "pasogo"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Konami Bemani System 573 Analog": {
         "id": "Konami Bemani System 573 Analog",
@@ -13685,7 +13891,8 @@
             "toseciso": [
                 "Konami Bemani System 573 Analog - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Konami Bemani System 573 Digital": {
         "id": "Konami Bemani System 573 Digital",
@@ -13698,7 +13905,8 @@
             "toseciso": [
                 "Konami Bemani System 573 Digital - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Konami FireBeat": {
         "id": "Konami FireBeat",
@@ -13711,7 +13919,8 @@
             "redump": [
                 "Arcade - Konami - FireBeat"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Konami Konami Classics": {
         "id": "Konami Konami Classics",
@@ -13765,7 +13974,8 @@
             "launchbox": [
                 "picno"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Konami Python 2": {
         "id": "Konami Python 2",
@@ -13784,7 +13994,8 @@
             "launchbox": [
                 "kpython2"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Konami System 573": {
         "id": "Konami System 573",
@@ -13800,7 +14011,8 @@
             "redump": [
                 "Arcade - Konami - System 573"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Konami System GV": {
         "id": "Konami System GV",
@@ -13813,7 +14025,8 @@
             "redump": [
                 "Arcade - Konami - System GV"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Konami e-Amusement": {
         "id": "Konami e-Amusement",
@@ -13826,7 +14039,8 @@
             "redump": [
                 "Arcade - Konami - e-Amusement"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Kontron PSI98": {
         "id": "Kontron PSI98",
@@ -13842,7 +14056,8 @@
             "launchbox": [
                 "psi98"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LSI Octopus floppy": {
         "id": "LSI Octopus floppy",
@@ -13858,7 +14073,8 @@
             "launchbox": [
                 "octopus"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Lambda Electronics Lambda 8300": {
         "id": "Lambda Electronics Lambda 8300",
@@ -13871,7 +14087,8 @@
             "tosec": [
                 "Lambda Electronics Lambda 8300 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog ClickStart": {
         "id": "LeapFrog ClickStart",
@@ -13887,7 +14104,8 @@
             "launchbox": [
                 "clickstart_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog Didj": {
         "id": "LeapFrog Didj",
@@ -13906,7 +14124,8 @@
             "launchbox": [
                 "leapfrog_didj_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog IQuest": {
         "id": "LeapFrog IQuest",
@@ -13922,7 +14141,8 @@
             "launchbox": [
                 "leapfrog_iquest_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog LeapPad": {
         "id": "LeapFrog LeapPad",
@@ -13944,7 +14164,8 @@
             "launchbox": [
                 "leapfrog_leappad_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog Leapster Learning Game System": {
         "id": "LeapFrog Leapster Learning Game System",
@@ -13969,7 +14190,8 @@
                 "leapster_explorer_cart",
                 "leapster"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog Little Touch LeapPad": {
         "id": "LeapFrog Little Touch LeapPad",
@@ -13985,7 +14207,8 @@
             "launchbox": [
                 "leapfrog_ltleappad_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog My First LeapPad": {
         "id": "LeapFrog My First LeapPad",
@@ -14001,7 +14224,8 @@
             "launchbox": [
                 "leapfrog_mfleappad_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog Turbo Extreme": {
         "id": "LeapFrog Turbo Extreme",
@@ -14017,7 +14241,8 @@
             "launchbox": [
                 "turboextreme_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog Turbo Twist Brain Quest": {
         "id": "LeapFrog Turbo Twist Brain Quest",
@@ -14033,7 +14258,8 @@
             "launchbox": [
                 "ttwist_brainquest_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "LeapFrog Zippity": {
         "id": "LeapFrog Zippity",
@@ -14049,7 +14275,8 @@
             "launchbox": [
                 "leapfrog_zippity_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Luxor ABC 1600": {
         "id": "Luxor ABC 1600",
@@ -14068,7 +14295,8 @@
             "launchbox": [
                 "abc1600_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Luxor ABC 80": {
         "id": "Luxor ABC 80",
@@ -14141,7 +14369,8 @@
                 "abc800",
                 "abc800_hdd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Luxor ABC 806": {
         "id": "Luxor ABC 806",
@@ -14161,7 +14390,8 @@
             "launchbox": [
                 "abc806"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Luxor Video Entertainment System": {
         "id": "Luxor Video Entertainment System",
@@ -14175,7 +14405,8 @@
                 "Luxor Video Entertainment System - Firmware",
                 "Luxor Video Entertainment System - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Luxor X37": {
         "id": "Luxor X37",
@@ -14191,7 +14422,8 @@
             "launchbox": [
                 "x37_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Lviv PC-01": {
         "id": "Lviv PC-01",
@@ -14228,7 +14460,8 @@
             "launchbox": [
                 "monon_color"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "MEGA MEGA65": {
         "id": "MEGA MEGA65",
@@ -14241,7 +14474,8 @@
             "tosec": [
                 "MEGA MEGA65 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "MGT Sam Coupe": {
         "id": "MGT Sam Coupe",
@@ -14376,7 +14610,8 @@
             "launchbox": [
                 "kim1_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "MSX MSX2": {
         "id": "MSX MSX2",
@@ -14452,7 +14687,8 @@
             "tosecpix": [
                 "MSX Palcom - Manuals - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "MSX TurboR": {
         "id": "MSX TurboR",
@@ -14616,7 +14852,8 @@
             "tosec": [
                 "Manfred Kramer Kramer-MC - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Matra Hachette Alice 32": {
         "id": "Matra Hachette Alice 32",
@@ -14712,7 +14949,8 @@
             "tosecpix": [
                 "Matsushita JR-100 - Manuals - Hardware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mattel Aquarius": {
         "id": "Mattel Aquarius",
@@ -14761,7 +14999,8 @@
             "redump": [
                 "Mattel - Fisher-Price iXL"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mattel HyperScan": {
         "id": "Mattel HyperScan",
@@ -14793,7 +15032,8 @@
             "tgdb": [
                 4987
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mattel Intellivision": {
         "id": "Mattel Intellivision",
@@ -14920,7 +15160,8 @@
             "launchbox": [
                 "juicebox"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Megatel Quark": {
         "id": "Megatel Quark",
@@ -14938,7 +15179,8 @@
                 "Megatel Quark - Utilities - [DMK]",
                 "Megatel Quark - Utilities - [IMD]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Memorex Video Information System": {
         "id": "Memorex Video Information System",
@@ -14966,7 +15208,8 @@
             "launchbox": [
                 "vis"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Memotech MTX": {
         "id": "Memotech MTX",
@@ -15012,7 +15255,8 @@
                 "mtx_rom",
                 "mtx_hdd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mephisto MM I": {
         "id": "Mephisto MM I",
@@ -15028,7 +15272,8 @@
             "launchbox": [
                 "mephisto_mm1"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mephisto MM II": {
         "id": "Mephisto MM II",
@@ -15044,7 +15289,8 @@
             "launchbox": [
                 "mephisto_mm2"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mephisto MM IV": {
         "id": "Mephisto MM IV",
@@ -15060,7 +15306,8 @@
             "launchbox": [
                 "mephisto_mm4"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mephisto MM V": {
         "id": "Mephisto MM V",
@@ -15076,7 +15323,8 @@
             "launchbox": [
                 "mephisto_mm5"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mephisto Super Mondial II": {
         "id": "Mephisto Super Mondial II",
@@ -15092,7 +15340,8 @@
             "launchbox": [
                 "mephisto_smondial2"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Michael J. Bauer DREAM-6800": {
         "id": "Michael J. Bauer DREAM-6800",
@@ -15106,7 +15355,8 @@
                 "Michael J. Bauer DREAM-6800 - Applications",
                 "Michael J. Bauer DREAM-6800 - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Micro Craft Dimension 68000": {
         "id": "Micro Craft Dimension 68000",
@@ -15126,7 +15376,8 @@
             "launchbox": [
                 "dim68k"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Microkey Primo": {
         "id": "Microkey Primo",
@@ -15616,7 +15867,8 @@
             "nointro": [
                 "Non-Redump - Microsoft - Pocket PC"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Microsoft Windows": {
         "id": "Microsoft Windows",
@@ -15655,7 +15907,8 @@
             "launchbox": [
                 "Windows 3.X"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Microsoft Xbox": {
         "id": "Microsoft Xbox",
@@ -15885,7 +16138,8 @@
             "nointro": [
                 "Non-Redump - Microsoft - Xbox Series X"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Microtan 65": {
         "id": "Microtan 65",
@@ -15960,7 +16214,8 @@
             "launchbox": [
                 "mikro80"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "MikroMikko 1": {
         "id": "MikroMikko 1",
@@ -15976,7 +16231,8 @@
             "launchbox": [
                 "mm1_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Millennium Systems Wicat": {
         "id": "Millennium Systems Wicat",
@@ -15992,7 +16248,8 @@
             "launchbox": [
                 "wicat"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Milton Bradley Microvision": {
         "id": "Milton Bradley Microvision",
@@ -16011,7 +16268,8 @@
             "launchbox": [
                 "microvision"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Milton-Bradley Omni (Waveform)": {
         "id": "Milton-Bradley Omni (Waveform)",
@@ -16024,7 +16282,8 @@
             "nointro": [
                 "Milton-Bradley - Omni (Waveform)"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mindset Corporation Mindset": {
         "id": "Mindset Corporation Mindset",
@@ -16040,7 +16299,8 @@
             "launchbox": [
                 "mindset_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mitchell Mitchell": {
         "id": "Mitchell Mitchell",
@@ -16130,7 +16390,8 @@
             "redump": [
                 "Pocket PC"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mobile Symbian": {
         "id": "Mobile Symbian",
@@ -16146,7 +16407,8 @@
             "emulationstation-de": [
                 "symbian"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Morrow MPZ80": {
         "id": "Morrow MPZ80",
@@ -16162,7 +16424,8 @@
             "launchbox": [
                 "mpz80"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Motorola EXORciser": {
         "id": "Motorola EXORciser",
@@ -16177,7 +16440,8 @@
                 "Motorola EXORciser - Utilities",
                 "Motorola EXORciser - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Mr. Isizu Z80 TV Game System": {
         "id": "Mr. Isizu Z80 TV Game System",
@@ -16190,7 +16454,8 @@
             "tosec": [
                 "Mr. Isizu Z80 TV Game System - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "NCR Decision Mate V": {
         "id": "NCR Decision Mate V",
@@ -16255,7 +16520,8 @@
             "redump": [
                 "NEC - PC Engine CD & TurboGrafx CD"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "NEC PC Engine SuperGrafx": {
         "id": "NEC PC Engine SuperGrafx",
@@ -16415,7 +16681,8 @@
             "launchbox": [
                 "pc8201"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "NEC PC-88 series": {
         "id": "NEC PC-88 series",
@@ -16564,7 +16831,8 @@
             "launchbox": [
                 "pc88va"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "NEC PC-98 series": {
         "id": "NEC PC-98 series",
@@ -16734,7 +17002,8 @@
             "tosec": [
                 "NEC PC-9821 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "NEC PC-Engine": {
         "id": "NEC PC-Engine",
@@ -16870,7 +17139,8 @@
                 "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [BIN]",
                 "NEC PC-Engine CD & TurboGrafx-16 CD - Samplers - [IMG]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "NEC PC-FX": {
         "id": "NEC PC-FX",
@@ -16975,7 +17245,8 @@
             "redump": [
                 "NEC - PC-FX & PC-FXGA"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "NEC PC-FXGA": {
         "id": "NEC PC-FXGA",
@@ -16989,7 +17260,8 @@
                 "NEC PC-FXGA - Firmware",
                 "NEC PC-FXGA - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "NEC TK-80 - TK-85": {
         "id": "NEC TK-80 - TK-85",
@@ -17268,7 +17540,8 @@
             "redump": [
                 "Arcade - Namco - System 246"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Namco-Sega-Nintendo Triforce": {
         "id": "Namco-Sega-Nintendo Triforce",
@@ -17290,7 +17563,8 @@
             "retrobat": [
                 "triforce"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nascom I & II": {
         "id": "Nascom I & II",
@@ -17324,7 +17598,8 @@
                 "nascom_socket",
                 "nascom_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nichibutsu My Vision": {
         "id": "Nichibutsu My Vision",
@@ -17347,7 +17622,8 @@
             "launchbox": [
                 "myvision"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nichibutsu Nichibutsu": {
         "id": "Nichibutsu Nichibutsu",
@@ -17787,7 +18063,8 @@
             "launchbox": [
                 "Nintendo DS"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nintendo Entertainment System": {
         "id": "Nintendo Entertainment System",
@@ -18029,7 +18306,8 @@
             "nointro": [
                 "Nintendo - Family Computer Network System"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nintendo Game & Watch": {
         "id": "Nintendo Game & Watch",
@@ -18489,7 +18767,8 @@
                 "Nintendo - Kiosk Video Compact Flash (CardImage)",
                 "Nintendo - Kiosk Video Compact Flash (Extracted)"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nintendo Mario no Photopi SmartMedia": {
         "id": "Nintendo Mario no Photopi SmartMedia",
@@ -18502,7 +18781,8 @@
             "nointro": [
                 "Nintendo - Mario no Photopi SmartMedia"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nintendo Nintendo Classics": {
         "id": "Nintendo Nintendo Classics",
@@ -18552,7 +18832,8 @@
             "nointro": [
                 "Nintendo - Play-Yan"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nintendo Pokemon Mini": {
         "id": "Nintendo Pokemon Mini",
@@ -19315,7 +19596,8 @@
             "nointro": [
                 "Nintendo - amiibo"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nintendo e-Reader": {
         "id": "Nintendo e-Reader",
@@ -19449,7 +19731,8 @@
             "tosec": [
                 "Nuclear Data ND4410 & ND4420 - Utilities"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Nuova Elettronica Z80NE": {
         "id": "Nuova Elettronica Z80NE",
@@ -19467,7 +19750,8 @@
                 "z80ne_cass",
                 "z80ne_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "OCC Osborne 2 Executive": {
         "id": "OCC Osborne 2 Executive",
@@ -19488,7 +19772,8 @@
             "launchbox": [
                 "osborne2"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "OCC Osborne 4 Vixen": {
         "id": "OCC Osborne 4 Vixen",
@@ -19504,7 +19789,8 @@
             "launchbox": [
                 "vixen"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "OCC Osborne-1": {
         "id": "OCC Osborne-1",
@@ -19520,7 +19806,8 @@
             "launchbox": [
                 "osborne1"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Oh! MZ S-OS": {
         "id": "Oh! MZ S-OS",
@@ -19533,7 +19820,8 @@
             "tosec": [
                 "Oh! MZ S-OS - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Ohio Scientific Challenger 1P": {
         "id": "Ohio Scientific Challenger 1P",
@@ -19681,7 +19969,8 @@
             "nointro": [
                 "Ouya - Ouya"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "PDC Clipper": {
         "id": "PDC Clipper",
@@ -19697,7 +19986,8 @@
             "launchbox": [
                 "clipper_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "PEL Varazdin Orao": {
         "id": "PEL Varazdin Orao",
@@ -19756,7 +20046,8 @@
             "launchbox": [
                 "sol20_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Palson CX 3000 Tele Computer": {
         "id": "Palson CX 3000 Tele Computer",
@@ -19772,7 +20063,8 @@
             "launchbox": [
                 "cx3000tc"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Panasonic 3DO Interactive Multiplayer": {
         "id": "Panasonic 3DO Interactive Multiplayer",
@@ -19900,7 +20192,8 @@
             "launchbox": [
                 "jb3000_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Partner-01.01": {
         "id": "Partner-01.01",
@@ -19918,7 +20211,8 @@
                 "partner_cass",
                 "partner_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Patisonic Aleste 520EX": {
         "id": "Patisonic Aleste 520EX",
@@ -19939,7 +20233,8 @@
             "launchbox": [
                 "aleste"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Pentagon (ZX Spectrum clone)": {
         "id": "Pentagon (ZX Spectrum clone)",
@@ -19955,7 +20250,8 @@
             "launchbox": [
                 "pentagon_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Peters Plus Sprinter": {
         "id": "Peters Plus Sprinter",
@@ -19968,7 +20264,8 @@
             "tosec": [
                 "Peters Plus Sprinter - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Philips CD-i": {
         "id": "Philips CD-i",
@@ -20131,7 +20428,8 @@
             "launchbox": [
                 "videopac"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Philips Videopac+": {
         "id": "Philips Videopac+",
@@ -20192,7 +20490,8 @@
             "redump": [
                 "Photo CD"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Pioneer LaserActive": {
         "id": "Pioneer LaserActive",
@@ -20208,7 +20507,8 @@
             "tgdb": [
                 4975
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Pravetz 8D": {
         "id": "Pravetz 8D",
@@ -20275,7 +20575,8 @@
             "launchbox": [
                 "psion1"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Psion Organiser II": {
         "id": "Psion Organiser II",
@@ -20311,7 +20612,8 @@
             "launchbox": [
                 "pi_storyreader_v2_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Publications International Ltd. Story Reader": {
         "id": "Publications International Ltd. Story Reader",
@@ -20328,7 +20630,8 @@
             "launchbox": [
                 "pi_storyreader_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "RCA Chip-8": {
         "id": "RCA Chip-8",
@@ -20368,7 +20671,8 @@
             "tosec": [
                 "RCA Microboard Computer Development System - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "RCA Studio II": {
         "id": "RCA Studio II",
@@ -20418,7 +20722,8 @@
             "tosec": [
                 "RCA Superchip - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "RCA VIP": {
         "id": "RCA VIP",
@@ -20485,7 +20790,8 @@
             "launchbox": [
                 "r9751"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Radica Arcade Legends & Play TV Legends": {
         "id": "Radica Arcade Legends & Play TV Legends",
@@ -20498,7 +20804,8 @@
             "tosec": [
                 "Radica Arcade Legends & Play TV Legends - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Radio-86RK": {
         "id": "Radio-86RK",
@@ -20537,7 +20844,8 @@
             "tosec": [
                 "Radio-86RK Apogej BK-01 - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Radio-86RK Mikro-80": {
         "id": "Radio-86RK Mikro-80",
@@ -20551,7 +20859,8 @@
                 "Radio-86RK Mikro-80 - Applications",
                 "Radio-86RK Mikro-80 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Radio-86RK Mikrosha": {
         "id": "Radio-86RK Mikrosha",
@@ -20599,7 +20908,8 @@
             "tosec": [
                 "Radio-86RK Partner-01.01 - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Radio-86RK YuT-88": {
         "id": "Radio-86RK YuT-88",
@@ -20612,7 +20922,8 @@
             "tosec": [
                 "Radio-86RK YuT-88 - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Raytheon 704": {
         "id": "Raytheon 704",
@@ -20626,7 +20937,8 @@
                 "Raytheon 704 - Various - [BIN]",
                 "Raytheon 704 - Various - [FOR]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Regnecentralen RC 700": {
         "id": "Regnecentralen RC 700",
@@ -20640,7 +20952,8 @@
                 "Regnecentralen RC 700 - Games - [COM]",
                 "Regnecentralen RC 700 - Games - [IMD]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Retroleum V6Z80P+": {
         "id": "Retroleum V6Z80P+",
@@ -20653,7 +20966,8 @@
             "tosec": [
                 "Retroleum V6Z80P+ - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Robotron BIC A5105": {
         "id": "Robotron BIC A5105",
@@ -20667,7 +20981,8 @@
                 "Robotron BIC A5105 - Games - [COM]",
                 "Robotron BIC A5105 - Games - [DUMP]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Robotron HC900, KC85 2, KC85 3 & KC85 4": {
         "id": "Robotron HC900, KC85 2, KC85 3 & KC85 4",
@@ -20681,7 +20996,8 @@
                 "Robotron HC900, KC85 2, KC85 3 & KC85 4 - Games",
                 "Robotron HC900, KC85 2, KC85 3 & KC85 4 - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Robotron KC Compact": {
         "id": "Robotron KC Compact",
@@ -20694,7 +21010,8 @@
             "tosec": [
                 "Robotron KC Compact - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Robotron Z1013": {
         "id": "Robotron Z1013",
@@ -20708,7 +21025,8 @@
                 "Robotron Z1013 - Games",
                 "Robotron Z1013 - Various"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Robotron Z9001 & KC85 1": {
         "id": "Robotron Z9001 & KC85 1",
@@ -20765,7 +21083,8 @@
             "launchbox": [
                 "r8_card"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Roland TN-SC1": {
         "id": "Roland TN-SC1",
@@ -20781,7 +21100,8 @@
             "launchbox": [
                 "roland_tnsc1"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Roland U-110": {
         "id": "Roland U-110",
@@ -20797,7 +21117,8 @@
             "launchbox": [
                 "u110_card"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Rowtron Television Computer System": {
         "id": "Rowtron Television Computer System",
@@ -20816,7 +21137,8 @@
             "launchbox": [
                 "rwtrntcs"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "SABA Videoplay": {
         "id": "SABA Videoplay",
@@ -20829,7 +21151,8 @@
             "tosec": [
                 "SABA Videoplay - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "SDK-85": {
         "id": "SDK-85",
@@ -20974,7 +21297,8 @@
                 "sgi_mips",
                 "sgi_mips_hdd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "SME Systems Aussie Byte II": {
         "id": "SME Systems Aussie Byte II",
@@ -20987,7 +21311,8 @@
             "tosec": [
                 "SME Systems Aussie Byte II - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "SNK Hyper Neo-Geo 64": {
         "id": "SNK Hyper Neo-Geo 64",
@@ -21000,7 +21325,8 @@
             "toseciso": [
                 "SNK Hyper Neo-Geo 64 - CD - Multimedia"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "SNK Neo Geo": {
         "id": "SNK Neo Geo",
@@ -21102,7 +21428,8 @@
                 "SNK Neo-Geo AES - Manuals - Games",
                 "SNK Neo-Geo AES - Manuals - Hardware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "SNK Neo Geo CD": {
         "id": "SNK Neo Geo CD",
@@ -21452,7 +21779,8 @@
             "launchbox": [
                 "XaviXPORT"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "SSE SoftBox": {
         "id": "SSE SoftBox",
@@ -21468,7 +21796,8 @@
             "launchbox": [
                 "softbox"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sage II": {
         "id": "Sage II",
@@ -21504,7 +21833,8 @@
             "launchbox": [
                 "saitek_egr"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Saitek KSO": {
         "id": "Saitek KSO",
@@ -21520,7 +21850,8 @@
             "launchbox": [
                 "saitek_kso"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Saitek Kasparov Sensor Chess": {
         "id": "Saitek Kasparov Sensor Chess",
@@ -21536,7 +21867,8 @@
             "launchbox": [
                 "saitek_schess"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sammy Atomiswave": {
         "id": "Sammy Atomiswave",
@@ -21652,7 +21984,8 @@
             "launchbox": [
                 "spc1500_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sanyo MBC-200-MBC-1200": {
         "id": "Sanyo MBC-200-MBC-1200",
@@ -21668,7 +22001,8 @@
             "launchbox": [
                 "mbc200"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sanyo MBC-550": {
         "id": "Sanyo MBC-550",
@@ -21681,7 +22015,8 @@
             "nointro": [
                 "Sanyo - MBC-550 (Flux)"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sanyo MBC-550 and MBC-555": {
         "id": "Sanyo MBC-550 and MBC-555",
@@ -21710,7 +22045,8 @@
             "launchbox": [
                 "mbc55x"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega 32X": {
         "id": "Sega 32X",
@@ -21824,7 +22160,8 @@
             "nointro": [
                 "Non-Redump - Sega - ALLS"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Beena": {
         "id": "Sega Beena",
@@ -21843,7 +22180,8 @@
             "launchbox": [
                 "sega_beena_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega CD": {
         "id": "Sega CD",
@@ -21968,7 +22306,8 @@
             "launchbox": [
                 "Sega CD 32X"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Chihiro": {
         "id": "Sega Chihiro",
@@ -21987,7 +22326,8 @@
             "retrobat": [
                 "chihiro"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Computer 3000": {
         "id": "Sega Computer 3000",
@@ -22013,7 +22353,8 @@
                 "sc3000_cart",
                 "sc3000_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Dreamcast": {
         "id": "Sega Dreamcast",
@@ -22479,7 +22820,8 @@
             "redump": [
                 "Arcade - Sega - Lindbergh"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega MD-2": {
         "id": "Sega MD-2",
@@ -22495,7 +22837,8 @@
             "launchbox": [
                 "md2_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Mark III & Master System": {
         "id": "Sega Mark III & Master System",
@@ -22619,7 +22962,8 @@
                 "megacd",
                 "megacdj"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Mega Drive": {
         "id": "Sega Mega Drive",
@@ -22658,7 +23002,8 @@
             "launchbox": [
                 "megatech"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Model 1": {
         "id": "Sega Model 1",
@@ -23038,7 +23383,8 @@
             "redump": [
                 "Sega - Prologue 21"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega RingEdge": {
         "id": "Sega RingEdge",
@@ -23051,7 +23397,8 @@
             "redump": [
                 "Arcade - Sega - RingEdge"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega RingEdge 2": {
         "id": "Sega RingEdge 2",
@@ -23064,7 +23411,8 @@
             "redump": [
                 "Arcade - Sega - RingEdge 2"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega SC-3000": {
         "id": "Sega SC-3000",
@@ -23331,7 +23679,8 @@
             "launchbox": [
                 "sawatte"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Super Control Station": {
         "id": "Sega Super Control Station",
@@ -23348,7 +23697,8 @@
                 "Sega Super Control Station - Games",
                 "Sega Super Control Station - Multimedia"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Super Control Station SF-7000": {
         "id": "Sega Super Control Station SF-7000",
@@ -23364,7 +23714,8 @@
             "launchbox": [
                 "sf7000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega System 16": {
         "id": "Sega System 16",
@@ -23394,7 +23745,8 @@
             "launchbox": [
                 "Sega System 32"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega Titan Video": {
         "id": "Sega Titan Video",
@@ -23437,7 +23789,8 @@
             "launchbox": [
                 "svmu"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sega WonderMega": {
         "id": "Sega WonderMega",
@@ -23460,7 +23813,8 @@
             "oldcomputers": [
                 1237
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Seibu Kaihatsu Seibu Kaihatsu": {
         "id": "Seibu Kaihatsu Seibu Kaihatsu",
@@ -23543,7 +23897,8 @@
                 "Seta - Aleck64 (BigEndian)",
                 "Seta - Aleck64 (ByteSwapped)"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sharp MZ-2000": {
         "id": "Sharp MZ-2000",
@@ -23592,7 +23947,8 @@
             "launchbox": [
                 "mz2200_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sharp MZ-2500": {
         "id": "Sharp MZ-2500",
@@ -23687,7 +24043,8 @@
                 "Sharp MZ-80B - Games - [MZT]",
                 "Sharp MZ-80B - Games - [WAV]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sharp PC-G850, PC-G815 & E200": {
         "id": "Sharp PC-G850, PC-G815 & E200",
@@ -23700,7 +24057,8 @@
             "tosec": [
                 "Sharp PC-G850, PC-G815 & E200 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sharp Wizard": {
         "id": "Sharp Wizard",
@@ -23719,7 +24077,8 @@
             "launchbox": [
                 "wizard_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sharp X1": {
         "id": "Sharp X1",
@@ -23949,7 +24308,8 @@
             "launchbox": [
                 "pcd_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Siemens PC-X": {
         "id": "Siemens PC-X",
@@ -23965,7 +24325,8 @@
             "launchbox": [
                 "pcx_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sinclair PC200": {
         "id": "Sinclair PC200",
@@ -23981,7 +24342,8 @@
             "launchbox": [
                 "pc200"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sinclair QL": {
         "id": "Sinclair QL",
@@ -24033,7 +24395,8 @@
             "launchbox": [
                 "spectrum_microdrive"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sinclair ZX Spectrum +3": {
         "id": "Sinclair ZX Spectrum +3",
@@ -24354,7 +24717,8 @@
             "launchbox": [
                 "zx80_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sinclair ZX-81": {
         "id": "Sinclair ZX-81",
@@ -24455,7 +24819,8 @@
             "nointro": [
                 "Sony - PlayStation Mobile (PSN)"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sony Playstation": {
         "id": "Sony Playstation",
@@ -24837,7 +25202,8 @@
             "emulationking": [
                 "playstation5"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sony Playstation Portable": {
         "id": "Sony Playstation Portable",
@@ -25035,7 +25401,8 @@
             "launchbox": [
                 "smc777"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Sony ZiNc": {
         "id": "Sony ZiNc",
@@ -25106,7 +25473,8 @@
                 "special_cass",
                 "special_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Spectravideo SVI-318 & SVI-328": {
         "id": "Spectravideo SVI-318 & SVI-328",
@@ -25187,7 +25555,8 @@
             "launchbox": [
                 "sbrain"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Super Sensor IV": {
         "id": "Super Sensor IV",
@@ -25203,7 +25572,8 @@
             "launchbox": [
                 "novag_ssensor4"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "TAB-Austria Quizard": {
         "id": "TAB-Austria Quizard",
@@ -25216,7 +25586,8 @@
             "redump": [
                 "TAB-Austria - Quizard"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "TRQ Video Computer H-21": {
         "id": "TRQ Video Computer H-21",
@@ -25235,7 +25606,8 @@
             "launchbox": [
                 "h21"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Taikee Singing Star Karaoke": {
         "id": "Taikee Singing Star Karaoke",
@@ -25251,7 +25623,8 @@
             "launchbox": [
                 "singingstarkaraoke_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Taito Taito Classics": {
         "id": "Taito Taito Classics",
@@ -25343,7 +25716,8 @@
             "launchbox": [
                 "jpopira_jp"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Takara e-kara": {
         "id": "Takara e-kara",
@@ -25387,7 +25761,8 @@
                 "ekara_japan_bh",
                 "ekara_japan_ac"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tandberg TDV 2324": {
         "id": "Tandberg TDV 2324",
@@ -25403,7 +25778,8 @@
             "launchbox": [
                 "tdv2324"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tandy Radio Shack TRS-80 Color Computer": {
         "id": "Tandy Radio Shack TRS-80 Color Computer",
@@ -25667,7 +26043,8 @@
             "launchbox": [
                 "t1000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tandy Radio Shack Tandy 200": {
         "id": "Tandy Radio Shack Tandy 200",
@@ -25683,7 +26060,8 @@
             "launchbox": [
                 "tandy200"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tandy Radio Shack Tandy 2000": {
         "id": "Tandy Radio Shack Tandy 2000",
@@ -25699,7 +26077,8 @@
             "launchbox": [
                 "tandy2k"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tangerine Microtan 65": {
         "id": "Tangerine Microtan 65",
@@ -25720,7 +26099,8 @@
                 "mt65_rom",
                 "mt65_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tangerine Oric Telestrat": {
         "id": "Tangerine Oric Telestrat",
@@ -25849,7 +26229,8 @@
             "tgdb": [
                 5017
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tatung Einstein TC-01": {
         "id": "Tatung Einstein TC-01",
@@ -25980,7 +26361,8 @@
             "launchbox": [
                 "tek4052_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tektronix 4100 Series": {
         "id": "Tektronix 4100 Series",
@@ -25996,7 +26378,8 @@
                 "Tektronix 4100 Series - Utilities - [DSK]",
                 "Tektronix 4100 Series - Utilities - [IMD]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tektronix 4400 Series": {
         "id": "Tektronix 4400 Series",
@@ -26010,7 +26393,8 @@
                 "Tektronix 4400 Series - System",
                 "Tektronix 4400 Series - Utilities"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Telcon Zorba": {
         "id": "Telcon Zorba",
@@ -26051,7 +26435,8 @@
                 "TeleVideo Systems TS-802 & TS-802H - System",
                 "TeleVideo Systems TS-802 & TS-802H - Utilities"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "TeleVideo Systems TS-803, TS-803H & TPC-1": {
         "id": "TeleVideo Systems TS-803, TS-803H & TPC-1",
@@ -26067,7 +26452,8 @@
                 "TeleVideo Systems TS-803, TS-803H & TPC-1 - System",
                 "TeleVideo Systems TS-803, TS-803H & TPC-1 - Utilities"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "TeleVideo Systems TS-806": {
         "id": "TeleVideo Systems TS-806",
@@ -26080,7 +26466,8 @@
             "tosec": [
                 "TeleVideo Systems TS-806 - System"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Telenova Compis": {
         "id": "Telenova Compis",
@@ -26116,7 +26503,8 @@
             "tosec": [
                 "Telmac TMC-600 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Terak 8510A & 8600": {
         "id": "Terak 8510A & 8600",
@@ -26130,7 +26518,8 @@
                 "Terak 8510A & 8600 - Operating Systems",
                 "Terak 8510A & 8600 - Utilities"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tesla Ondra & Ondra ViLi": {
         "id": "Tesla Ondra & Ondra ViLi",
@@ -26206,7 +26595,8 @@
             "launchbox": [
                 "cc40_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments Speak & Read": {
         "id": "Texas Instruments Speak & Read",
@@ -26222,7 +26612,8 @@
             "launchbox": [
                 "snread"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments Speak & Spell": {
         "id": "Texas Instruments Speak & Spell",
@@ -26238,7 +26629,8 @@
             "launchbox": [
                 "snspell"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments TI-59": {
         "id": "Texas Instruments TI-59",
@@ -26274,7 +26666,8 @@
                 "Texas Instruments TI-73 - Manuals - Applications",
                 "Texas Instruments TI-73 - Manuals - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments TI-74": {
         "id": "Texas Instruments TI-74",
@@ -26293,7 +26686,8 @@
             "launchbox": [
                 "ti74_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments TI-80": {
         "id": "Texas Instruments TI-80",
@@ -26308,7 +26702,8 @@
                 "Texas Instruments TI-80 - Demos",
                 "Texas Instruments TI-80 - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments TI-81": {
         "id": "Texas Instruments TI-81",
@@ -26324,7 +26719,8 @@
                 "Texas Instruments TI-81 - Games",
                 "Texas Instruments TI-81 - Sources"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments TI-82": {
         "id": "Texas Instruments TI-82",
@@ -26445,7 +26841,8 @@
             "tosec": [
                 "Texas Instruments TI-89 - Firmware"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments TI-92": {
         "id": "Texas Instruments TI-92",
@@ -26486,7 +26883,8 @@
             "launchbox": [
                 "ti95_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Texas Instruments TI-99 4A": {
         "id": "Texas Instruments TI-99 4A",
@@ -26731,7 +27129,8 @@
             "launchbox": [
                 "to_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Thomson TO7": {
         "id": "Thomson TO7",
@@ -27025,7 +27424,8 @@
             "launchbox": [
                 "k28m2"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tiger Electronics Playmaker": {
         "id": "Tiger Electronics Playmaker",
@@ -27041,7 +27441,8 @@
             "launchbox": [
                 "playmaker"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tiger Electronics R-Zone": {
         "id": "Tiger Electronics R-Zone",
@@ -27054,7 +27455,8 @@
             "tgdb": [
                 4983
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tiki Data Kontiki-100 & Tiki-100": {
         "id": "Tiki Data Kontiki-100 & Tiki-100",
@@ -27126,7 +27528,8 @@
             "launchbox": [
                 "gameking3"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Timex Sinclair TS-2068": {
         "id": "Timex Sinclair TS-2068",
@@ -27202,7 +27605,8 @@
             "toseciso": [
                 "Tomy KISS-Site - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tomy Prin-C": {
         "id": "Tomy Prin-C",
@@ -27218,7 +27622,8 @@
             "launchbox": [
                 "princ"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Tomy Tutor": {
         "id": "Tomy Tutor",
@@ -27287,7 +27692,8 @@
             "launchbox": [
                 "evio"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Torch Co-Processor": {
         "id": "Torch Co-Processor",
@@ -27303,7 +27709,8 @@
             "launchbox": [
                 "bbc_flop_torch"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Toshiba Pasopia 7": {
         "id": "Toshiba Pasopia 7",
@@ -27379,7 +27786,8 @@
             "launchbox": [
                 "visicom"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Touch & Tell": {
         "id": "Touch & Tell",
@@ -27395,7 +27803,8 @@
             "launchbox": [
                 "tntell"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Touhou Project": {
         "id": "Touhou Project",
@@ -27408,7 +27817,8 @@
             "launchbox": [
                 "Touhou Project"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Toyquest TV Go Go": {
         "id": "Toyquest TV Go Go",
@@ -27424,7 +27834,8 @@
             "launchbox": [
                 "tvgogo"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Triumph-Adler Alphatronic PC": {
         "id": "Triumph-Adler Alphatronic PC",
@@ -27526,7 +27937,8 @@
             "tosec": [
                 "UNIVAC Series 90 - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "USSR Vector-06C": {
         "id": "USSR Vector-06C",
@@ -27548,7 +27960,8 @@
             "tosec": [
                 "USSR Vector-06C - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Unisonic Champion 2711": {
         "id": "Unisonic Champion 2711",
@@ -27564,7 +27977,8 @@
             "launchbox": [
                 "unichamp"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "University of Cambridge EDSAC": {
         "id": "University of Cambridge EDSAC",
@@ -27582,7 +27996,8 @@
             "tosecpix": [
                 "University of Cambridge EDSAC - Documentations - Software"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "University of Tokyo PC-1": {
         "id": "University of Tokyo PC-1",
@@ -27595,7 +28010,8 @@
             "tosec": [
                 "University of Tokyo PC-1 - Applications"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Uzebox": {
         "id": "Uzebox",
@@ -27655,7 +28071,8 @@
             "launchbox": [
                 "chessmstdm"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VEB Mikroelektronik KC 85": {
         "id": "VEB Mikroelektronik KC 85",
@@ -27675,7 +28092,8 @@
                 "kc_flop",
                 "kc_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VM-Labs Nuon": {
         "id": "VM Labs Nuon",
@@ -27789,7 +28207,8 @@
             "tosec": [
                 "VTech Genius - Educational"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius IQ 128": {
         "id": "VTech Genius IQ 128",
@@ -27805,7 +28224,8 @@
             "launchbox": [
                 "iq128"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Junior 4000": {
         "id": "VTech Genius Junior 4000",
@@ -27821,7 +28241,8 @@
             "launchbox": [
                 "gj4000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Junior Movie": {
         "id": "VTech Genius Junior Movie",
@@ -27840,7 +28261,8 @@
             "launchbox": [
                 "gjmovie"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Junior Redstar": {
         "id": "VTech Genius Junior Redstar",
@@ -27856,7 +28278,8 @@
             "launchbox": [
                 "gjrstar"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Leader 2000": {
         "id": "VTech Genius Leader 2000",
@@ -27876,7 +28299,8 @@
             "launchbox": [
                 "gl2000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Leader 6000SL": {
         "id": "VTech Genius Leader 6000SL",
@@ -27895,7 +28319,8 @@
             "launchbox": [
                 "gl6000sl"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Leader CX": {
         "id": "VTech Genius Leader CX",
@@ -27911,7 +28336,8 @@
             "launchbox": [
                 "glcx"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Leader Color": {
         "id": "VTech Genius Leader Color",
@@ -27930,7 +28356,8 @@
             "launchbox": [
                 "glcolor"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Leader Notebook": {
         "id": "VTech Genius Leader Notebook",
@@ -27946,7 +28373,8 @@
             "launchbox": [
                 "gln"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Genius Leader Select": {
         "id": "VTech Genius Leader Select",
@@ -27962,7 +28390,8 @@
             "launchbox": [
                 "gls"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech IQ Unlimited": {
         "id": "VTech IQ Unlimited",
@@ -27978,7 +28407,8 @@
             "launchbox": [
                 "iqunlim_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech InnoTAB 1/2/3": {
         "id": "VTech InnoTAB 1/2/3",
@@ -27994,7 +28424,8 @@
             "launchbox": [
                 "vtech_innotab_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech InnoTV / InnoTAB MAX": {
         "id": "VTech InnoTV / InnoTAB MAX",
@@ -28010,7 +28441,8 @@
             "launchbox": [
                 "vtech_innotv_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Laser 200": {
         "id": "VTech Laser 200",
@@ -28071,7 +28503,8 @@
             "tosec": [
                 "Vtech Laser 3000 & Dick Smith CAT - Operating Systems"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Laser 310": {
         "id": "VTech Laser 310",
@@ -28105,7 +28538,8 @@
                 "VTech Laser 350, 500, 700 & 750 - Games - [BIN]",
                 "VTech Laser 350, 500, 700 & 750 - Games - [WAV]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Laser 500": {
         "id": "VTech Laser 500",
@@ -28121,7 +28555,8 @@
             "launchbox": [
                 "vtech2_cass"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Mobigo": {
         "id": "VTech Mobigo",
@@ -28140,7 +28575,8 @@
             "launchbox": [
                 "mobigo_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech PreComputer 1000": {
         "id": "VTech PreComputer 1000",
@@ -28156,7 +28592,8 @@
             "launchbox": [
                 "pc1000"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech Socrates": {
         "id": "VTech Socrates",
@@ -28214,7 +28651,8 @@
             "launchbox": [
                 "vtech_storio_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech V.Baby": {
         "id": "VTech V.Baby",
@@ -28230,7 +28668,8 @@
             "launchbox": [
                 "vbaby_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech V.Flash": {
         "id": "VTech V.Flash",
@@ -28256,7 +28695,8 @@
             "launchbox": [
                 "vsmile_cd"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech V.Smile": {
         "id": "VTech V.Smile",
@@ -28319,7 +28759,8 @@
             "launchbox": [
                 "vsmileb_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VTech V.Smile Motion": {
         "id": "VTech V.Smile Motion",
@@ -28335,7 +28776,8 @@
             "launchbox": [
                 "vsmilem_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Victor 9000 - ACT Sirius 1": {
         "id": "Victor 9000 - ACT Sirius 1",
@@ -28351,7 +28793,8 @@
             "launchbox": [
                 "victor9k_flop"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "VideoBrain Family Computer": {
         "id": "VideoBrain Family Computer",
@@ -28367,7 +28810,8 @@
             "launchbox": [
                 "vidbrain"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Videoton TVC": {
         "id": "Videoton TVC",
@@ -28520,7 +28964,8 @@
             "launchbox": [
                 "database"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Wang PC": {
         "id": "Wang PC",
@@ -28536,7 +28981,8 @@
             "launchbox": [
                 "wangpc"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Wang VS": {
         "id": "Wang VS",
@@ -28550,7 +28996,8 @@
                 "Wang VS - Applications",
                 "Wang VS - Games"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Watara Supervision": {
         "id": "Watara Supervision",
@@ -28644,7 +29091,8 @@
             "launchbox": [
                 "wmbullet"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Waveterm A": {
         "id": "Waveterm A",
@@ -28660,7 +29108,8 @@
             "launchbox": [
                 "waveterm"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures": {
         "id": "WinFun KidConnection SmarTV Adventures / Funtastic TV Adventures",
@@ -28676,7 +29125,8 @@
             "launchbox": [
                 "smarttv_cart"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "WoW Action Max": {
         "id": "WoW Action Max",
@@ -28729,7 +29179,8 @@
                 "Xerox 1108 - System - [DMK]",
                 "Xerox 1108 - System - [IMD]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Xerox 1186": {
         "id": "Xerox 1186",
@@ -28748,7 +29199,8 @@
                 "Xerox 1186 - Utilities - [DMK]",
                 "Xerox 1186 - Utilities - [IMD]"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Xerox 6085": {
         "id": "Xerox 6085",
@@ -28858,7 +29310,8 @@
             "launchbox": [
                 "copera"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Yeno MisterX": {
         "id": "Yeno MisterX",
@@ -28874,7 +29327,8 @@
             "launchbox": [
                 "misterx"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "ZAPiT Games Game Wave Family Entertainment System": {
         "id": "ZAPiT Games Game Wave Family Entertainment System",
@@ -28900,7 +29354,8 @@
             "nointro": [
                 "Non-Redump - ZAPiT Games - Game Wave Family Entertainment System"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Zeebo Zeebo": {
         "id": "Zeebo Zeebo",
@@ -28913,7 +29368,8 @@
             "nointro": [
                 "Zeebo - Zeebo"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "Zen Studios Pinball FX2": {
         "id": "Zen Studios Pinball FX2",
@@ -28980,7 +29436,8 @@
                 "Zilog MCZ-2 - Operating Systems",
                 "Zilog MCZ-2 - Utilities"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "funworld Photo Play": {
         "id": "funworld Photo Play",
@@ -28993,7 +29450,8 @@
             "redump": [
                 "funworld - Photo Play"
             ]
-        }
+        },
+        "type": "Unknown"
     },
     "iQue iQue": {
         "id": "iQue iQue",
@@ -29010,6 +29468,7 @@
                 "iQue - iQue (CDN)",
                 "iQue - iQue (Decrypted)"
             ]
-        }
+        },
+        "type": "Unknown"
     }
 }
