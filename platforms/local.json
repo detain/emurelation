@@ -3397,7 +3397,7 @@
         ],
         "date_start": "1989",
         "date_end": "1995",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Atari Lynx/controller(wor).png",
@@ -3625,7 +3625,7 @@
                 "pofo"
             ]
         },
-        "type": "Pocket",
+        "type": "Handheld",
         "description": "The Portfolio was one of the first, if not the first MSDOS compatible pocket computer. It was fully compatible with the <a href=\"computer.asp?c=274\">IBM PC</a> standard, although it was difficult to use software because of its very small screen.\nIts card drive can accept :\n- optional 32K, 64K or 128K memory (RAM) cards,\n- 64K or 128K programmable (PROM) cards,\n- 128K masked ROM cards,\n- and 512K Flash Memory cards.\nIt had several built-in programs :\n- Worksheet: Lotus 1-2-3 File-compatible spreadsheet,\n- Text editor with basic word processing funtions,\n- Calculator with five memories, four number formats and editable \"tape\" of calculations,\n- Address book with virtually unlimited name and address storage and automatic phone dialing,\n- Personal calendar/appointment book with programmable alarms,\n- File transfer to upload and download files from compatible PC using optional Smart Parallel Interface,\n- Clipboard to move or copy data within a file or between files or programs,\n- and an operating system similar to MS-DOS 2.11\nA lot of interfaces were developped for this computer including MIDI I/O.\n<b>Fun fact</b>: This computer appeared in Terminator 2. It was used by young John Connor to break into an ATM bank machine.",
         "date": "1989"
     },
@@ -4336,7 +4336,7 @@
         ],
         "date_start": "1999",
         "date_end": "2003",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/WonderSwan/controller(wor).png",
@@ -4452,7 +4452,7 @@
         ],
         "date_start": "2000",
         "date_end": "2003",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/WonderSwan Color/icon.png",
@@ -4594,7 +4594,7 @@
         ],
         "date_start": "2001",
         "date_end": "2002",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Benesse Pocket Challenge V2/icon.png",
@@ -4734,7 +4734,7 @@
                 "gamate"
             ]
         },
-        "type": "Portable"
+        "type": "Handheld"
     },
     "Bondwell 12": {
         "id": "Bondwell 12",
@@ -4995,7 +4995,7 @@
                 "x07_cass"
             ]
         },
-        "type": "Portable",
+        "type": "Handheld",
         "description": "The Canon X07 was very popular. The RAM could be extended thanks to small cards (which looked like credit cards), although these cards were very expensive. ROM cards were also available for professional applications. \nThe Canon X07 had a video interface and uses a cathodic screen. Thanks to this interface, the X07 could use a new text mode, 40 x 24, and a new graphic mode, 256 x 192, with 6 colours. It is unknown if the two displays could be used simultaneously. \nAn infrared interface was also available to allow the connection of peripherals without the use of cables.\n____________\n<font color=\"#666666\">Contributors: John J. Diamond (editor)</font>\n<a href=\"doc.asp?c=258\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
         "date": "1983"
     },
@@ -5366,7 +5366,7 @@
                 "Casio PB-1000 - Books"
             ]
         },
-        "type": "Pocket",
+        "type": "Handheld",
         "description": "The Casio PB-1000 was an original, well designed and powerful pocket computer for its time. \nOn top of its standard QWERTY keyboard, a row of sensitive keys allowed fast \nscientific calculations, menus access and text editing. The 4-line LCD display \nalso had 16 sensitive areas.\nThe computer could be programmed either in Basic or Assembly language. The C61 Basic interpreter, based on Japan Industrial Standard BASIC, had a wide range of built-in mathematic, trigonometric and statistic functions. Assembly programs had to be typed by using the built-in editor then compiled. The user's manual gave little information about CPU instructions and, oddly enough, Casio and it's distributors never released a full description of the whole CPU's instructions set, although Casio published an incomplete \"Technical Reference Manual\".\nThe processor was an Hitachi HDS61700. It contained a small amount of ROM and RAM, as well memory management and I/O circuitry. The memory was managed like a virtual disk. Several Basic or Assembly programs as well as ASCII text could be stored together in the same RAM area.\nTwo extensions were released for the PB-1000, the FA-7 Serial, Parallel and tape recorder interface, and the rare MD-100 3.5\" floppy drive unit.\nThe PB-1000 was followed by the <b>PB-2000</b> which lost the lift up display but had the unique feature of being programmable in ANSI C language.",
         "date": "1987"
     },
@@ -8565,7 +8565,7 @@
         ],
         "date_start": "1993",
         "date_end": "?",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Cougar Boy/icon.png",
@@ -9978,7 +9978,7 @@
         ],
         "date_start": "1982",
         "date_end": "1983",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Entex Industries, Inc Adventure Vision/icon.png",
@@ -10090,7 +10090,7 @@
         ],
         "date_start": "1984",
         "date_end": "?",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Epoch Game Pocket Computer/icon.png",
@@ -11416,7 +11416,7 @@
         ],
         "date_start": "2001",
         "date_end": "?",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "smc",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/GP32/icon.png",
@@ -13427,7 +13427,7 @@
         ],
         "date_start": "1990",
         "date_end": "?",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Game Master/icon.png",
@@ -17745,7 +17745,7 @@
                 "j2me"
             ]
         },
-        "type": "Portable",
+        "type": "Handheld",
         "emulators": [
             "kemulator",
             "retroarch_squirreljme"
@@ -19200,7 +19200,7 @@
         ],
         "date_start": "2011",
         "date_end": "2020",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Nintendo 3DS/icon.png",
@@ -19542,7 +19542,7 @@
         ],
         "date_start": "2004",
         "date_end": "2013",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Nintendo DS/controller(wor).png",
@@ -20012,7 +20012,7 @@
         ],
         "date_start": "1980",
         "date_end": "1991",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "hardware",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Game &amp; Watch/icon.png",
@@ -20084,7 +20084,7 @@
         ],
         "date_start": "1989",
         "date_end": "2003",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Game Boy/controller(wor).png",
@@ -20228,7 +20228,7 @@
         ],
         "date_start": "2001",
         "date_end": "2008",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Game Boy Advance/controller(wor).png",
@@ -20365,7 +20365,7 @@
         ],
         "date_start": "1998",
         "date_end": "2003",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Game Boy Color/icon.png",
@@ -20704,7 +20704,7 @@
             "Nintendo Pokemon Mini"
         ],
         "date_start": "2001",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Pokémon mini/icon.png",
@@ -21285,7 +21285,7 @@
         ],
         "date_start": "1995",
         "date_end": "1996",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Virtual Boy/controller(wor).png",
@@ -21633,7 +21633,7 @@
         ],
         "date_start": "2003",
         "date_end": "?",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nokia N-Gage/icon.png",
@@ -22671,7 +22671,7 @@
                 "psion2"
             ]
         },
-        "type": "Pocket",
+        "type": "Handheld",
         "description": "In 1986 Psion launched their second pocket computer, the Organiser II. \nInitially there were two models: the 8K RAM model <b>CM</b> and the 16K model \n<b>XP</b>.  Both had a 32K ROM containing simplistic software, including a card\nfile database, diary and clock.  Less simplistic was the OPL programming \nlanguage, a semi-compiled structured language allowing full use of the \nmachine's features.  It was this that principally guaranteed the \nmachine's success.  Later, the XP was upgraded to 32K RAM for the U.S. \nmarket, and given the model name <b>LA</b>, though the cases still bore the \nlegend \"XP\".\nIn 1989, two upgraded models were released, the <b>LZ</b> and <b>LZ64</b>.  These \nfeatured an enlarged 20x4 display, a choice of 32K or 64K RAM, and a 64K \nROM containing more sophisticated diary and card file software, along \nwith a notepad application.  The OPL language was upgraded with a few \nextra statements to take advantage of the machine's capabilities (and to \nrectify a few omissions from the CM/XP's built-in language).\nExpansion was through a proprietary connector in the top of the machine, \nprotected by a sliding door.  Bar code readers and a thermal printer \nwere available.  Memory expansion was through a pair of expansion slots \nin the back of the machine.  \"Rampaks\" were simple battery-backed RAM \nexpansions.  \"Datapaks\" were EPROMs which acted as write-once-read-many \ndrives and were formatted with an external formatter device - a simple \nUV light with timer that erased the EPROMS.  \"Flashpaks\" were EEPROMs, \nwhich acted similarly to Datapaks but could be formatted using the Psion \nitself.  Software was supplied on Datapaks, or occasionally PROMs.  The \nmodel CM could use only Datapaks.\nThe Organiser II range was used in a wide variety of environments, \nincluding retail and industrial environments in which its hardy case was \nparticularly valuable.  It was superseded as a PDA in 1991 when Psion \nbrought out the Series 3 range, but continued to be manufactured until \nthe late 1990s.  Their robust design may well allow them to continue \nfunctioning long after the later Series 3 and 5 range machines are \nbeyond repair.\nThanks to <b>Damian Walker</b> for information and picture.",
         "date": "1986"
     },
@@ -23743,7 +23743,7 @@
         ],
         "date_start": "1998",
         "date_end": "2001",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/SNK Neo-Geo Pocket/controller(wor).png",
@@ -23853,7 +23853,7 @@
         ],
         "date_start": "1999",
         "date_end": "2000",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/SNK Neo-Geo Pocket Color/icon.png",
@@ -24909,7 +24909,7 @@
         ],
         "date_start": "1990",
         "date_end": "1997",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/SEGA Game Gear/controller(wor).png",
@@ -27990,7 +27990,7 @@
         ],
         "date_start": "2004",
         "date_end": "2014",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Sony PSP/controller(wor).png",
@@ -28107,7 +28107,7 @@
         ],
         "date_start": "2011",
         "date_end": "2019",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge-download",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Sony PS Vita/icon.png",
@@ -29332,7 +29332,7 @@
                 "zorba"
             ]
         },
-        "type": "Portable",
+        "type": "Handheld",
         "description": "The Zorba is one of the last 8 bits portable computer running the CP/M operating system. Its features were almost identical to the <a href=\"computer.asp?c=550\">Kaypro II</a>.\nThe Zorba was first manufactured and sold by Telcon, a company specialized in telecomunication equipments manufacturing.\nFor $190 more, the user could order the <b>Perfect Software Package</b> including the 'Perfect Writer' word processor, the 'Perfect Speller' spell checker, the 'Perfect Filer' database manager and the 'Perfect Calc' spreadsheet.\nHaving spent a lot of money designing the Zorba, Telcon was seeking for new investors to market its portable and settle a network sales. It was then bought up by <b>ModComp</b> (Modular Computer), a company specialized in mini-computer manufacturing. A group called <b>Modular Micro Group</b>, specialized in Zorba marketing was created.  In spite of that, results were very bad and one year after its launch date, Zorba computers stock was sold to a company specialized in selling off surplus stocks, wich sold them at a very low price.\nZorba users were nevertheless very satisfied. They were able to read practically every existing CP/M floppy format. Its several video emulations (H19/Z19/VT52) allowed them to run virtually any existing CP/M software.",
         "date": "1983"
     },
@@ -30326,7 +30326,7 @@
         ],
         "date_start": "1997",
         "date_end": "2000",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Game.com/icon.png",
@@ -32074,7 +32074,7 @@
             "Watara Supervision"
         ],
         "date_start": "1992",
-        "type": "Portable",
+        "type": "Handheld",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Watara Watara Supervision/icon.png",
