@@ -3397,7 +3397,7 @@
         ],
         "date_start": "1989",
         "date_end": "1995",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Atari Lynx/controller(wor).png",
@@ -4336,7 +4336,7 @@
         ],
         "date_start": "1999",
         "date_end": "2003",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/WonderSwan/controller(wor).png",
@@ -4452,7 +4452,7 @@
         ],
         "date_start": "2000",
         "date_end": "2003",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/WonderSwan Color/icon.png",
@@ -4594,7 +4594,7 @@
         ],
         "date_start": "2001",
         "date_end": "2002",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Benesse Pocket Challenge V2/icon.png",
@@ -8565,7 +8565,7 @@
         ],
         "date_start": "1993",
         "date_end": "?",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Cougar Boy/icon.png",
@@ -9770,7 +9770,7 @@
                 "Elektronika BK"
             ]
         },
-        "type": "Consoles"
+        "type": "Console"
     },
     "Elektronika MC-1502": {
         "id": "Elektronika MC-1502",
@@ -9978,7 +9978,7 @@
         ],
         "date_start": "1982",
         "date_end": "1983",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Entex Industries, Inc Adventure Vision/icon.png",
@@ -10090,7 +10090,7 @@
         ],
         "date_start": "1984",
         "date_end": "?",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Epoch Game Pocket Computer/icon.png",
@@ -11416,7 +11416,7 @@
         ],
         "date_start": "2001",
         "date_end": "?",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "smc",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/GP32/icon.png",
@@ -11547,7 +11547,7 @@
         "altNames": [
             "Generic Arcade"
         ],
-        "type": "Arcade Emulation",
+        "type": "Arcade",
         "romtype": "rom",
         "supporttype": "pcb",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Mame/icon.png",
@@ -11786,7 +11786,7 @@
         "altNames": [
             "Generic Daphne"
         ],
-        "type": "Arcade Emulation",
+        "type": "Arcade",
         "romtype": "folder",
         "supporttype": "pcb",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Daphne/icon.png",
@@ -13427,7 +13427,7 @@
         ],
         "date_start": "1990",
         "date_end": "?",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Game Master/icon.png",
@@ -13624,7 +13624,7 @@
                 373
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-15C": {
         "id": "Hewlett-Packard HP-15C",
@@ -13638,7 +13638,7 @@
                 241
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-17B": {
         "id": "Hewlett-Packard HP-17B",
@@ -13652,7 +13652,7 @@
                 374
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-18C": {
         "id": "Hewlett-Packard HP-18C",
@@ -13666,7 +13666,7 @@
                 242
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-19B": {
         "id": "Hewlett-Packard HP-19B",
@@ -13680,7 +13680,7 @@
                 377
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-27S": {
         "id": "Hewlett-Packard HP-27S",
@@ -13694,7 +13694,7 @@
                 375
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-28C": {
         "id": "Hewlett-Packard HP-28C",
@@ -13708,7 +13708,7 @@
                 243
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-28S": {
         "id": "Hewlett-Packard HP-28S",
@@ -13722,7 +13722,7 @@
                 378
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-32S": {
         "id": "Hewlett-Packard HP-32S",
@@ -13736,7 +13736,7 @@
                 376
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-42S": {
         "id": "Hewlett-Packard HP-42S",
@@ -13750,7 +13750,7 @@
                 244
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP-86/7": {
         "id": "Hewlett-Packard HP-86/7",
@@ -13785,7 +13785,7 @@
                 "Hewlett-Packard HP48 - Various"
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Hewlett-Packard HP49": {
         "id": "Hewlett-Packard HP49",
@@ -15938,7 +15938,7 @@
                 281
             ]
         },
-        "type": "Consoles",
+        "type": "Console",
         "description": "The Magnavox Odyssey was the first home video game system, invented by Ralph Baer, who started work on it as early as 1967. It was then launched in 1972 at the end of which over 100,000 units were sold.\nThis system is very basic, having no CPU, score mechanism, colour or sound. In fact there were only 40 diodes and 40 transistors inside. Six cartridges could be used to play up to 12 games - sometimes the same cartridges being used more than once to play different games. The large number of game accessories that came with it allowed for different games to be played, with some games using the accessories as a main focus for the game instead of the console. Each game used a plastic transparent colour overlay which was to affixed to the TV set. The overlays compensated for the fact that the Odyssey could only produce a vertical line, a dot for the ball and 2 shorter lines (representing each player controller) on the screen. The overlays were meant to attach to the TV by use of static electricity and smoothed over by hand or a soft cloth, but the instruction manual said if this didn?t work one should use tape instead. It even suggested that you could trim them down to fit your TV set!\nThe controllers are in fact two largish block sized controllers with a round dial on either side. Twisting the dial on the left for horizontal movement, and the right for vertical movement. An `English? dial on the left of each one controlled the `deflection ? of the ball. Ball speed could also be controlled.\nDespite the basic nature of the games by today's standards, the system marked a crucial change in the way people used their TVs. In 1972 the marketing stated that the user could now actually `participate? in television and not just be a spectator, with the system manual describing it as: `<font color=\"#666666\">The exciting casino action of Monte Carlo, the thrills of Wimbledon, the challenge of ski trails ? can be duplicated right in your own living room.</font>? \nThe games included tennis, ski, hockey, table tennis, simon says, analogic, states, cat and mouse, submarine, football, haunted house, roulette, invasion and shooting games (with the optional rifle that could be purchased separately). Most games were also played with cards, dices, paper money or game chips delivered with the system.\nOdyssey?s cartridges contain no components: they are basically wirejumper sets. When plugging a cartridge into the console, internal diode logic circuits are interconnected in different ways to produce the desired result. As a matter of fact, the Odyssey contains everything to make a game based around a ball, one or two paddles representing the players, and a central or off-side vertical line which serves as a net or a wall. The cartridges act to connect some the machine?s diode logic circuitry to set the aspect and the position of the vertical line (normally centered for ping pong and tennis but located on the left or on the middle for handball and volleyball respectively, or not displayed at all for Chase games and gun games), and to determine the interaction between the ball and the other graphic objects: bounce or erase either a player or a ball spot when there is a collision with a player or the central line (a player could even be erased after a collision with the ball).\n________\n<font color=\"#666666\">Text and info from Abi Waddell &amp; David Winter.</font>",
         "date": "1972"
     },
@@ -18584,7 +18584,7 @@
                 "pcecd"
             ]
         },
-        "type": "Consoles"
+        "type": "Console"
     },
     "NEC PC-Engine CD & TurboGrafx-16 CD": {
         "id": "NEC PC-Engine CD & TurboGrafx-16 CD",
@@ -19200,7 +19200,7 @@
         ],
         "date_start": "2011",
         "date_end": "2020",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Nintendo 3DS/icon.png",
@@ -19542,7 +19542,7 @@
         ],
         "date_start": "2004",
         "date_end": "2013",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Nintendo DS/controller(wor).png",
@@ -20012,7 +20012,7 @@
         ],
         "date_start": "1980",
         "date_end": "1991",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "hardware",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Game &amp; Watch/icon.png",
@@ -20084,7 +20084,7 @@
         ],
         "date_start": "1989",
         "date_end": "2003",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Game Boy/controller(wor).png",
@@ -20228,7 +20228,7 @@
         ],
         "date_start": "2001",
         "date_end": "2008",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Game Boy Advance/controller(wor).png",
@@ -20365,7 +20365,7 @@
         ],
         "date_start": "1998",
         "date_end": "2003",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Game Boy Color/icon.png",
@@ -20704,7 +20704,7 @@
             "Nintendo Pokemon Mini"
         ],
         "date_start": "2001",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Pokémon mini/icon.png",
@@ -21004,7 +21004,7 @@
                 "Nintendo Super Famicom & Super Entertainment System - Voicer-kun Audio CDs"
             ]
         },
-        "type": "Consoles"
+        "type": "Console"
     },
     "Nintendo Super Game Boy 2": {
         "id": "Nintendo Super Game Boy 2",
@@ -21285,7 +21285,7 @@
         ],
         "date_start": "1995",
         "date_end": "1996",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Virtual Boy/controller(wor).png",
@@ -21633,7 +21633,7 @@
         ],
         "date_start": "2003",
         "date_end": "?",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nokia N-Gage/icon.png",
@@ -23743,7 +23743,7 @@
         ],
         "date_start": "1998",
         "date_end": "2001",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/SNK Neo-Geo Pocket/controller(wor).png",
@@ -23853,7 +23853,7 @@
         ],
         "date_start": "1999",
         "date_end": "2000",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/SNK Neo-Geo Pocket Color/icon.png",
@@ -24909,7 +24909,7 @@
         ],
         "date_start": "1990",
         "date_end": "1997",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/SEGA Game Gear/controller(wor).png",
@@ -25447,7 +25447,7 @@
                 "Sega Genesis"
             ]
         },
-        "type": "Consoles",
+        "type": "Console",
         "description": "The Mega Drive launched in 1988 in Japan. Europe had to wait two whole years before they would get the machine. \nDesigned as the replacement for the 8 bit <a href=\"computer.asp?st=2&amp;c=840\">Master System</a>, it originally competed against other 8 bit systems, namely the <a href=\"computer.asp?st=2&amp;c=866\">Famicom/NES</a> and <a href=\"computer.asp?st=2&amp;c=1231\">PC Engine</a>/<a href=\"computer.asp?st=2&amp;c=1240\">TurboGrafx</a>. \nThe Mega Drive had mixed fortunes. In Japan the console was out sold by both the PC Engine and later the <a href=\"computer.asp?st=2&amp;c=1226\">Super Famicom</a>. In Europe on the other hand, the Mega Drive fared considerably better. The practically unheard of TurboGrafx was extremely rare and the Mega Drive was able to outsell the <a href=\"computer.asp?st=2&amp;c=1226\">SNES</a>, finishing the generation in first place. \nHowever, the success of the console in Europe, and as the <a href=\"computer.asp?st=2&amp;c=837\">Genesis</a> in the States, may well have contributed to Sega's downfall. Two misjudged add-ons, the 32X and Mega CD put a huge dent in Sega's reputation, one so large that the company would never recover. \nA redesigned <a href=\"computer.asp?st=2&amp;c=843\">Mega Drive II</a> was released in 1993. The smaller console was cheaper to produce, similar in concept to the <a href=\"computer.asp?st=2&amp;c=1252\">Master System II</a>.",
         "date": "1988 (Japan), 1990 (Europe)",
         "emulators": [
@@ -27990,7 +27990,7 @@
         ],
         "date_start": "2004",
         "date_end": "2014",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Sony PSP/controller(wor).png",
@@ -28107,7 +28107,7 @@
         ],
         "date_start": "2011",
         "date_end": "2019",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge-download",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Sony PS Vita/icon.png",
@@ -29568,7 +29568,7 @@
                 246
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Texas Instruments TI-73": {
         "id": "Texas Instruments TI-73",
@@ -29701,7 +29701,7 @@
                 248
             ]
         },
-        "type": "Calculators",
+        "type": "Calculator",
         "emulators": [
             "bizhawk"
         ]
@@ -29718,7 +29718,7 @@
                 249
             ]
         },
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "Texas Instruments TI-85": {
         "id": "Texas Instruments TI-85",
@@ -30326,7 +30326,7 @@
         ],
         "date_start": "1997",
         "date_end": "2000",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Game.com/icon.png",
@@ -30506,7 +30506,7 @@
                 "gameking"
             ]
         },
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "TimeTop GameKing 3": {
         "id": "TimeTop GameKing 3",
@@ -31159,7 +31159,7 @@
                 "nuon"
             ]
         },
-        "type": "Consoles"
+        "type": "Console"
     },
     "VTech CreatiVision": {
         "id": "VTech CreatiVision",
@@ -32074,7 +32074,7 @@
             "Watara Supervision"
         ],
         "date_start": "1992",
-        "type": "Portable Console",
+        "type": "Portable",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Watara Watara Supervision/icon.png",
