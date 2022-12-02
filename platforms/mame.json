@@ -26,17 +26,17 @@
     "megacd": {
         "id": "megacd",
         "shortName": "megacd",
-        "name": "Sega Mega CD (Euro) CD-ROMs",
+        "name": "Sega Mega CD (Europe) CD-ROMs",
         "altNames": [
-            "Sega Mega CD"
+            "Sega Mega CD (Europe)"
         ]
     },
     "megacdj": {
         "id": "megacdj",
         "shortName": "megacdj",
-        "name": "Sega Mega CD (Jpn) CD-ROMs",
+        "name": "Sega Mega CD (Japan) CD-ROMs",
         "altNames": [
-            "Sega Mega CD"
+            "Sega Mega CD (Japan)"
         ]
     },
     "segacd": {
@@ -466,9 +466,9 @@
     "advision": {
         "id": "advision",
         "shortName": "advision",
-        "name": "Entex AdventureVision cartridges",
+        "name": "Entex Adventure Vision cartridges",
         "altNames": [
-            "Entex AdventureVision"
+            "Entex Adventure Vision"
         ]
     },
     "arcadia": {
@@ -877,6 +877,14 @@
         "name": "MSX1 disk images",
         "altNames": [
             "MSX1"
+        ]
+    },
+    "msx2p_flop": {
+        "id": "msx2p_flop",
+        "shortName": "msx2p_flop",
+        "name": "MSX2+ disk images",
+        "altNames": [
+            "MSX2+"
         ]
     },
     "cbm2_cart": {
@@ -1647,6 +1655,14 @@
             "LeapFrog Didj"
         ]
     },
+    "digiblast_cart": {
+        "id": "digiblast_cart",
+        "shortName": "digiblast_cart",
+        "name": "Nikko Entertainment B.V. / Grey Innovation digiBLAST Cartridges",
+        "altNames": [
+            "Nikko Entertainment B.V. / Grey Innovation digiBLAST"
+        ]
+    },
     "digilog320": {
         "id": "digilog320",
         "shortName": "digilog320",
@@ -1733,6 +1749,14 @@
         "name": "Tatung Einstein TC-01 disk images",
         "altNames": [
             "Tatung Einstein TC-01"
+        ]
+    },
+    "einstein_rom": {
+        "id": "einstein_rom",
+        "shortName": "einstein_rom",
+        "name": "Tatung Einstein ROM images",
+        "altNames": [
+            "Tatung Einstein"
         ]
     },
     "ekara_us": {
@@ -1941,14 +1965,6 @@
         "name": "Exelvision EXL 100 cartridges",
         "altNames": [
             "Exelvision EXL 100"
-        ]
-    },
-    "msx2p_flop": {
-        "id": "msx2p_flop",
-        "shortName": "msx2p_flop",
-        "name": "MSX2+ disk images",
-        "altNames": [
-            "MSX2+"
         ]
     },
     "st_flop": {
@@ -3036,7 +3052,7 @@
         "shortName": "mbee_cart",
         "name": "Microbee NET/PAK roms",
         "altNames": [
-            "Microbee NET/PAK"
+            "Microbee"
         ]
     },
     "mbee_flop": {
@@ -3141,6 +3157,14 @@
         "name": "Mindset Corporation Mindset Floppy Discs",
         "altNames": [
             "Mindset Corporation Mindset"
+        ]
+    },
+    "bungo_flop": {
+        "id": "bungo_flop",
+        "shortName": "bungo_flop",
+        "name": "NEC Bungo disk images",
+        "altNames": [
+            "NEC Bungo"
         ]
     },
     "fidel_msc": {
@@ -3285,6 +3309,14 @@
         "name": "Morrow MPZ80 diskettes",
         "altNames": [
             "Morrow MPZ80"
+        ]
+    },
+    "mtu130_flop": {
+        "id": "mtu130_flop",
+        "shortName": "mtu130_flop",
+        "name": "MTU-130 floppies",
+        "altNames": [
+            "MTU-130"
         ]
     },
     "mtx_cass": {
@@ -4189,6 +4221,14 @@
         "name": "Gundam RX-78 cassettes",
         "altNames": [
             "Gundam RX-78"
+        ]
+    },
+    "rz1_cass": {
+        "id": "rz1_cass",
+        "shortName": "rz1_cass",
+        "name": "Casio RZ-1 cassettes",
+        "altNames": [
+            "Casio RZ-1"
         ]
     },
     "entex_sag": {
@@ -5269,6 +5309,14 @@
         "name": "Sinclair ZX Wafadrive tapes/cartridges",
         "altNames": [
             "Sinclair ZX Wafadrive"
+        ]
+    },
+    "msx1_flop_525": {
+        "id": "msx1_flop_525",
+        "shortName": "msx1_flop_525",
+        "name": "MSX1 5.25\" disk images",
+        "altNames": [
+            "MSX1"
         ]
     },
     "cgenie_flop_rom": {
