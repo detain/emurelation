@@ -35,8 +35,8 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [Emutopia](platforms/emutopia.json) | Website | 143 | 32 | 175 | 81.7% |
-| [MAME](platforms/mame.json) | Emulator | 649 | 15 | 664 | 97.7% |
-| [LaunchBox](platforms/launchbox.json) | Frontend | 649 | 16 | 665 | 97.6% |
+| [MAME](platforms/mame.json) | Emulator | 650 | 20 | 670 | 97% |
+| [LaunchBox](platforms/launchbox.json) | Frontend | 183 | 0 | 183 | 100% |
 | [RetroBat](platforms/retrobat.json) | Frontend | 139 | 13 | 152 | 91.4% |
 | [EmulationStation-DE](platforms/emulationstation-de.json) | Frontend | 144 | 12 | 156 | 92.3% |
 | [RecalBox](platforms/recalbox.json) | Frontend | 105 | 21 | 126 | 83.3% |
@@ -55,6 +55,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [EmuCR](emulators/emucr.json) | Website | 340 | 1995 | 2335 | 14.6% |
 | [EmulationKing](emulators/emulationking.json) | Website | 96 | 0 | 96 | 100% |
 | [Emutopia](emulators/emutopia.json) | Website | 246 | 283 | 529 | 46.5% |
+| [MAME](emulators/mame.json) | Emulator | 1 | 0 | 1 | 100% |
 | [LaunchBox](emulators/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
 | [RetroBat](emulators/retrobat.json) | Frontend | 0 | 0 | 0 | 0% |
 | [EmulationStation-DE](emulators/emulationstation-de.json) | Frontend | 161 | 6 | 167 | 96.4% |
@@ -84,6 +85,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [Local](games/local.json) | Custom | 0 | 0 | 0 | 0% |
 | [ScreenScraper](games/screenscraper.json) | API | 0 | 0 | 0 | 0% |
 | [GameTDB](games/gametdb.json) | Website | 0 | 0 | 0 | 0% |
+| [MAME](games/mame.json) | Emulator | 0 | 0 | 0 | 0% |
 | [LaunchBox](games/launchbox.json) | Frontend | 0 | 0 | 0 | 0% |
 | [emuControlCenter](games/emucontrolcenter.json) | Tools | 0 | 58143 | 58143 | 0% |
 
