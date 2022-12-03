@@ -31,7 +31,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [IGDB](platforms/igdb.json) | API | 80 | 0 | 80 | 100% |
 | [HFS-DB](platforms/hfsdb.json) | API | 124 | 0 | 124 | 100% |
 | [MobyGames](platforms/mobygames.json) | API | 111 | 0 | 111 | 100% |
-| [Old-Computers](platforms/oldcomputers.json) | Website | 201 | 1085 | 1286 | 15.6% |
+| [Old-Computers](platforms/oldcomputers.json) | Website | 260 | 1026 | 1286 | 20.2% |
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [Emutopia](platforms/emutopia.json) | Website | 143 | 32 | 175 | 81.7% |
@@ -52,7 +52,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [Local](emulators/local.json) | Custom | 827 | 0 | 827 | 100% |
 | [ScreenScraper](emulators/screenscraper.json) | API | 4 | 0 | 4 | 100% |
 | [Old-Computers](emulators/oldcomputers.json) | Website | 149 | 317 | 466 | 32% |
-| [EmuCR](emulators/emucr.json) | Website | 340 | 1995 | 2335 | 14.6% |
+| [EmuCR](emulators/emucr.json) | Website | 340 | 2001 | 2341 | 14.5% |
 | [EmulationKing](emulators/emulationking.json) | Website | 96 | 0 | 96 | 100% |
 | [Emutopia](emulators/emutopia.json) | Website | 246 | 283 | 529 | 46.5% |
 | [MAME](emulators/mame.json) | Emulator | 1 | 0 | 1 | 100% |
