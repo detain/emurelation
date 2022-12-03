@@ -973,7 +973,7 @@
             "Adobe Flash"
         ],
         "date_start": "2007",
-        "type": "Smartphone",
+        "type": "Misc",
         "romtype": "rom",
         "supporttype": "download",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Android/controller(wor).png",
@@ -11504,7 +11504,7 @@
             "Generic Android"
         ],
         "date_start": "2007",
-        "type": "Smartphone",
+        "type": "Misc",
         "romtype": "rom",
         "supporttype": "download",
         "controller": "https://consolo.is.cc/images/ScreenScraper/platforms/Android/controller(wor).png",
@@ -12217,7 +12217,7 @@
         ],
         "date_start": "1997",
         "date_end": "2007",
-        "type": "Others",
+        "type": "Misc",
         "romtype": "rom",
         "supporttype": "cartridge",
         "icon": "https://consolo.is.cc/images/ScreenScraper/platforms/Nintendo Power/icon.png",
@@ -13174,7 +13174,7 @@
                 "internet"
             ]
         },
-        "type": "--system"
+        "type": "Misc"
     },
     "Generic non Jeu": {
         "id": "Generic non Jeu",
