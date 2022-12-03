@@ -25319,6 +25319,9 @@
             ],
             "launchbox": [
                 "md2_flop"
+            ],
+            "oldcomputers": [
+                "843"
             ]
         },
         "type": "Unknown"
@@ -26030,6 +26033,9 @@
             ],
             "emucontrolcenter": [
                 "sc3000"
+            ],
+            "oldcomputers": [
+                "206"
             ]
         },
         "type": "Computer",
@@ -26595,6 +26601,9 @@
             "launchbox": [
                 "mz2000_flop",
                 "mz2000_cass"
+            ],
+            "oldcomputers": [
+                "415"
             ]
         },
         "type": "Computer",
@@ -26627,6 +26636,9 @@
             ],
             "launchbox": [
                 "mz2200_cass"
+            ],
+            "oldcomputers": [
+                "781"
             ]
         },
         "type": "Unknown"
@@ -26651,6 +26663,9 @@
             ],
             "emucontrolcenter": [
                 "mz2500"
+            ],
+            "oldcomputers": [
+                "416"
             ]
         },
         "type": "Computer",
@@ -26688,6 +26703,9 @@
             ],
             "launchbox": [
                 "mz700_cass"
+            ],
+            "oldcomputers": [
+                "87"
             ]
         },
         "type": "Computer",
@@ -26737,6 +26755,9 @@
             "tosec": [
                 "Sharp MZ-80B - Games - [MZT]",
                 "Sharp MZ-80B - Games - [WAV]"
+            ],
+            "oldcomputers": [
+                "173"
             ]
         },
         "type": "Unknown"
@@ -26864,6 +26885,9 @@
             ],
             "attractmode": [
                 "Sharp X1"
+            ],
+            "oldcomputers": [
+                "313"
             ]
         },
         "description": "The X1 is a series of home computer released by Sharp Corporation from 1982 to 1988. It was based on a Z80 CPU.\n\nDespite the fact that the Computer Division of Sharp Corporation had released the MZ series, suddenly the Television Division released a new computer series called the X1. At the time the original X1 was released, all other home computers generally had a BASIC language in ROM. However the X1 did not have a BASIC ROM, and it had to load the interpreter from a cassette tape. On the plus side however, this concept meant that a free RAM area was available that was as big as possible when not using BASIC. This policy was originally copied from the Sharp MZ series, and they were called clean computers in Japan. The cabinet shape of X1 was also much more stylish than others at that time and a range of cabinet colors (including Red) was selectable.\n\nThe RGB display monitor for the X1 had a television tuner, and a computer screen could be super-imposed on TV. All the TV functions could be controlled from a computer program. The character font was completely programmable (A.K.A. PCG) with 4bit color, and it was effectively used into a lot of games. The entirety of the VRAM memory was mapped on to the I/O area, so it was controlled without bank change. Since X1 had these features, it was very powerful for game software.\n\nWhile X1 was struggling to sell, the PC8801 (from NEC) was quickly becoming popular in the Japanese market. In 1984, Sharp released the X1 turbo series with high resolution graphics (640x400, while X1 had 640x200). It had a lot of improvements, but the clock speed was still only 4MHz. In 1986, Sharp released the X1 turbo Z series with a 4096 color analog RGB monitor. An X1 twin, which had a PC-Engine in the cabinet, was finally released as the last machine of the X1 series in 1987. Then this series was succeeded by the X68000 series.\n\n\nTechnical Info:\n\nName X1 (CZ-800C) \nManufacturer Sharp \nType Home Computer \nOrigin Japan \nYear 1982 \nKeyboard Full-stroke keyboard \nCPU Sharp Z80 A \nSpeed 4 MHz \nRAM 64 KB \nVirtual RAM 4 KB (up to 48 KB) \nROM 6 KB \nText Modes 40 / 80 x 25 \nGraphic Modes 320 x 200 / 640 x 200 \nColours 8 \nSound 3 voices PSG \nI/O Ports 2 x I/O ports \n2 x Joysticks (Atari) \nAudio out \nKeyboard \nPrinter \n\nBuilt in media Tape \nOS CP/M \nPower Supply Built-in PSU \nPrice Yen 155,000 \n\nInfos from: Wikipedia",
@@ -27066,6 +27090,9 @@
             ],
             "launchbox": [
                 "pc200"
+            ],
+            "oldcomputers": [
+                "85"
             ]
         },
         "type": "Unknown"
@@ -27487,6 +27514,9 @@
             ],
             "launchbox": [
                 "zx80_cass"
+            ],
+            "oldcomputers": [
+                "262"
             ]
         },
         "type": "Unknown"
@@ -28284,6 +28314,9 @@
             ],
             "launchbox": [
                 "smc777"
+            ],
+            "oldcomputers": [
+                "311"
             ]
         },
         "type": "Unknown"
@@ -28345,6 +28378,9 @@
             ],
             "emucontrolcenter": [
                 "sordm5"
+            ],
+            "oldcomputers": [
+                "217"
             ]
         },
         "type": "Computer",
@@ -28437,6 +28473,10 @@
             ],
             "gamesdatabase": [
                 "msx"
+            ],
+            "oldcomputers": [
+                "228",
+                "227"
             ]
         },
         "date": "1981",
