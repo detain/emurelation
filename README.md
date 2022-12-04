@@ -31,7 +31,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [IGDB](platforms/igdb.json) | API | 80 | 0 | 80 | 100% |
 | [HFS-DB](platforms/hfsdb.json) | API | 124 | 0 | 124 | 100% |
 | [MobyGames](platforms/mobygames.json) | API | 111 | 0 | 111 | 100% |
-| [Old-Computers](platforms/oldcomputers.json) | Website | 260 | 1026 | 1286 | 20.2% |
+| [Old-Computers](platforms/oldcomputers.json) | Website | 298 | 988 | 1286 | 23.2% |
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [Emutopia](platforms/emutopia.json) | Website | 143 | 32 | 175 | 81.7% |
@@ -43,7 +43,7 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [RetroPie](platforms/retropie.json) | Frontend | 80 | 2 | 82 | 97.6% |
 | [WinDSPro](platforms/windspro.json) | Frontend | 15 | 36 | 51 | 29.4% |
 | [ARRM](platforms/arrm.json) | Tools | 224 | 51 | 275 | 81.5% |
-| [emuControlCenter](platforms/emucontrolcenter.json) | Tools | 177 | 20 | 197 | 89.8% |
+| [emuControlCenter](platforms/emucontrolcenter.json) | Tools | 178 | 19 | 197 | 90.4% |
 
 ### 💾 Emulators
 
