@@ -29,7 +29,9 @@
                 "499"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "After having imported the <a href=\"computer.asp?c=210\">Victor Sirius</a> for years in the UK, ACT produced its own computer largely inspired by the Sirius : the Apricot PC.\nIt was supposed to be transportable as there is a handle on the main-unit ! If you really want to move your Apricot this way, the keyboard can be clipped to the main-unit. \nSeveral features made this computer quite technically innovative :\n? the Apricot PC was possibly the first computer outside Japan to use 3.5'' disk-drives (315k or 720k),\n? the graphics quality and features were excellent (800 x 400) and came directly from the Victor Sirius,\n? the keyboard was quite original with 8 \"normal\" and 6 flat programmable function keys along with a built-in LCD screen (40 characters / 2 lines) which displayed the function of the keys. This feature was largely used by the included software, but not much by third-party software.\nThis small LCD screen could also display the current line of text you're working on and there's even a contrast knob on the right of the keyboard. \nIt's possible to transfer files and some software from a Sirius or an IBM PC to the Apricot PC by connecting them with a special cable.\nThere's also an IBM PC emulator which forces the Apricot to act like an IBM PC. It works well for some applications but not all. \nSome software was supplied with the Apricot PC : Supercalc, various system tools, asynchronous communication, IBM-PC emulator, Microsoft Basic-86, Basic Personal and ACT Manager (a graphical interface for MS-DOS). Word, Multiplan, Wordstar, dBase II, C-Pascal, Pascal UCSD, C, Fortran, Cobol and Basic Compiler 5.35 were available optionally.\n \nIn 1984, ACT launched new versions of the Apricot PC with built-in hard-disks and a different colour case. They were called <a href=\"computer.asp?c=500\">Apricot Xi</a>.\n_______________________\nAbout IBM/PC compatibility, <b>Greg Taylor</b> specifies:\n<font color=\"#666666\">\nConcerning the early Apricot PCs (including the Xi) the reason they could not run all MS-DOS programs is that while they came with a copy of MS-DOS, they did not have an identical BIOS so any calls to specific BIOS modules could often fail.\nFor example, dBase III could not run (on mine anyway) but a competitor product called (I think) DBXL did run.  That apart, they were very nice computers for their time with 3.5\" disks (nearly everyone else was still using 5.25\") and high-quality graphics.</font>\n<b>Ian Foggon</b> reports:\n<font color=\"#666666\">The original Apricot PC also came in another flavour you have not listed. It was possible to have these units upgraded to 286 IBM compatible standard by Apricot UK.  This involved the replacement of the motherboard and the addition of a 20Mb Miniscribe HDD in the place of one of the Sony 3.5? FDDs. My Father had this done to his Apricot PC back in 1988. These units had their own specially written manuals, and the keyboards were re-keyed to make them IBM compatible too.</font>",
+        "date": "September 1983"
     },
     "ACT Apricot PC-Xi": {
         "id": "ACT Apricot PC-Xi",
@@ -57,7 +59,9 @@
                 "500"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Xi was the hard-disk version of the cream-coloured <a href=\"computer.asp?c=499\">Apricot PC</a>.\nThe keyboard could be clipped to the underside of the machine, and a little cover would slide over the front panel to conceal the floppy drive. A handle then slid out of the front (just under the ridge) that allowed it to be carried very easily.\nA colour screen was available - a re-packaged 10\" Sony Trinitron screen that almost nobody bought because it was so expensive.\nThe mono screens had an anti-glare coating consisting of a very fine nylon mesh stretched over the screen and held in place by the bezel. Anybody who made the mistake of spraying glass cleaner on it would regret it, as the cleaner just clogged up in the pores of the mesh and left a nasty stain on the screen, which could only be removed by dismantling the monitor in order to rinse the mesh in water.\nModel Xi5 : 256 KB RAM + 5 MB hard-disk + 315k disk-drive\nModel Xi10 : 256 KB RAM + 10 MB hard-disk + 720k disk-drive\nModel Xi20 : 512 KB RAM + 20 MB hard-disk + 720k disk-drive\nModel Xi20s : 1 MB RAM + 20 MB hard-disk + 720k disk-drive\nThere was also a very rare model - coloured pale grey, which had a hard drive of 50 MB or thereabouts. \n<b>Dave Ridley</b> reports:\n<font color=\"#666666\">Used to fix these machines, one very common problem on Apricot Xi was \"wobbly screen\" reported by user. The answer was to make a \"bacofoil sandwich\" as we called it! Take one aluminum foil strip, cover with packing tape to insulate, solder an earth wire onto one corner and stuff inside case, under where the screen sat. Hey presto, no wobble induced by PSU in main unit! Also the disk drives were prone to clogging up and getting generally dirty.</font>\nTechnical tip from <b>Charles Verrier</b>:\n<font color=\"#666666\">\nTaking any Apricot PC to bits required a bit of care...\nThe rear panel had 3 or 4 screws, one of which fitted into the metal 'bridge' that ran the width of the machine, and held the PSU and disk drives above the motherboard, which filled the base of the case.\nThe bridge was partially supported by this real-panel screw, and would drop about half a centimetere when it was removed.\nThe only way to reassemble the thing was to turn the unit upside down so that the bridge screw hole would re-align with the real panel.\nHappy days!\n\t\n</font>",
+        "date": "1984"
     },
     "ACT Apricot XEN": {
         "id": "ACT Apricot XEN",
@@ -231,7 +235,9 @@
                 "1296"
             ]
         },
-        "type": "Console"
+        "type": "Console",
+        "description": "The APF M1000 was released in 1978. It's a Video game system cart based, \ncomes with 2 non-detachables joysticks with a numeric keypad on each ones\n(look likes a mini-calculator with a joystick), has \"Reset\" &amp; \"Power\" \nbuttons on the unit. Only could be played on a Color TV only. This system\nseems to have been the pack-in unit with <a href=\"computer.asp?c=584\">Imagination Machine</a>.\nThe APF MP1000 was released in 1978. This system is basically the same\nas the M1000 model and both systems does come with built-in game called \n\"Rocket Patrol\".\nBoth of these systems had the ability to be expanded to the Imagination \nMachine &amp; both can play each other cartridges.",
+        "date": "1977"
     },
     "APF MP-1000": {
         "id": "APF MP-1000",
@@ -248,7 +254,9 @@
                 "1296"
             ]
         },
-        "type": "Unknown"
+        "type": "Unknown",
+        "description": "The APF M1000 was released in 1978. It's a Video game system cart based, \ncomes with 2 non-detachables joysticks with a numeric keypad on each ones\n(look likes a mini-calculator with a joystick), has \"Reset\" &amp; \"Power\" \nbuttons on the unit. Only could be played on a Color TV only. This system\nseems to have been the pack-in unit with <a href=\"computer.asp?c=584\">Imagination Machine</a>.\nThe APF MP1000 was released in 1978. This system is basically the same\nas the M1000 model and both systems does come with built-in game called \n\"Rocket Patrol\".\nBoth of these systems had the ability to be expanded to the Imagination \nMachine &amp; both can play each other cartridges.",
+        "date": "1977"
     },
     "APF PeCos One": {
         "id": "APF PeCos One",
@@ -347,7 +355,9 @@
                 "906"
             ]
         },
-        "type": "Unknown"
+        "type": "Unknown",
+        "description": "The Acetronic MPU-1000 is another <a href=\"computer.asp?st=2&amp;c=726\">Interton VC-4000</a> \"software compatible\" system (saying \"clone\" would be misleading). That is to say that the internal specs are exactly the same and that games would run on both systems. The cartridge slots are however different in shape and cartridges won't fit in each others. This group of consoles is often refered as \"<b>Interton VC-4000 compatible system</b>\" as the VC-4000 maybe the most popular of all the other systems (see <a href=\"computer.asp?st=2&amp;c=726\">its entry</a> for more info).\nBut according to the excellent research work from Dale Hansen, the <b>1292 Advanced Programmable Video System</b> from Radofin would be the first member of the line as it was released in 1976! Radofin then licenced its system wordlwide to different companies.\nThere are two controllers composed of a 12 keys keypad, two red fire buttons and an analog joystick. Interton VC-4000 compatible systems usualy have these 12 keys and one or two fire buttons. The control panel has the same buttons found on all systems of this system family: Start, Load Programme, Game Select and on/off switch.\nThere is also an <b>Acetronic MPU-2000</b>, which is almost the same system, only with slightly different case design and built-in power supply. The MPU-1000 Home Video Entertainment Center could also be found under different brands such as Radofin 1292, AudioSonic PP-1292, Radofin Programmierbares Video System or Hanimex HMG-1392. Or rather, the same hardware &amp; case were licenced (by Radofin?) to these different brands.\nOne particularity about this videogame \"family\" (VC-4000 &amp; clones), is that they seem to be the only systems which required the game to be loaded into internal RAM from the cartridge, before being able to play (generally through a LOAD PROGRAM or equivalent button found on the control panel).\nThe Acetronic MPU-1000 sold well in United-Kingdom and can be considered as the \"english Interton VC-4000\"...",
+        "date": "1979"
     },
     "Acorn Archimedes": {
         "id": "Acorn Archimedes",
@@ -1123,7 +1133,9 @@
                 "515"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The ACS-586 was a multipost system which could handle 5 users or more (8) with optional cards. To connect the terminals, there were several RS232 ports at the back of the system, labeled JA, JB, JC, JD, JE, etc... The ports not used by the terminals could be used to connect any serial peripheral, i.e. modem or printer. \nThe 186 was the first computer from a big company to use Xenix as its native operating system. Xenix was the Microsoft \"adaptation\" of Unix.\nThis system was quite well designed with its squashed hexagon shaped box and its thin monitor. These were medium-sized desktop cases, usually beige but often came in custom colors. \nA fully-loaded 586 contained four printed-circuit boards.\nThe main board held the 80186 and 512 KB of RAM; a Z80 I/O processor supporting six serial I/O ports, floppy disc access, and an RN422 LAN; and sundry memory management components allowing the 586 to support Xenix.\nA second board held a hard disk and tape controller with an Intel 8089 I/O processor\nAn optional communication board provided an Ethernet chipset and processors supporting either the X25 or SNA protocols, or four additional serial I/O ports.\nThe fourth board was an optional  memory expansion board providing an additional 512 KB of RAM.\nIt had a 5''1/4 disk-drive built-in on the right part of the front panel, and a hard-disk on the left part.\nA real-time clock was included with the system. There were 128 semi-graphic symbols available.\nThe <b>Altos 686</b> appears to be the same machine as the 586, but with an 80286 processor.\nAltos also produced an 8-bit version of this system, called the <a href=\"computer.asp?c=516\">ACS-580</a>.\n<a href=\"doc.asp?c=515\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "January 1983"
     },
     "Altos Computer Systems ACS-8000": {
         "id": "Altos Computer Systems ACS-8000",
@@ -1166,7 +1178,9 @@
                 "456"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The ACS-8xxx were multi-user systems. They could support from 1 to 4 users, but you could also get them in versions for up to 9 users and a supervisor. In appearance, they were large and heavy rectangular desktop boxes with Z80 or 68000 CPUs (ACS-68000 series).\nThey used a large custom single-board computer the size of the case. The drive controller was a \nseparate half-card mounted on top of the SBC. The early 8000s had separate cases for the 8\" FD &amp; HD. In later models the drives and cards were \nintegrated into the same case.\nThe 8000 systems were labeled ACS-8000-x, where x indicates the size of the disk-drive and hard disk :\nx=1 : 500 kb (SS/SD) FDD\nx=2 : 1000 kb (DS/SD) FDD\nx=3 : 1000 kb (SS/DD) FDD\n \nx=4 : 2000 kb (DS/DD) FDD\nx=10 : 10 Mb HD\nx=12 : 20 Mb HD\nx=14 : 40 Mb HD\n\nThe ACS-8000 had a 10, 20 or 40 MB Winchester hard-drive and could be upgraded to 80 MB. Hard-disk models also had disk-drives. CP/M, MP/M II or Oasis were the available operating systems.\nThe ACS-8000 MTU had a 17 MB magnetic streamer.\nThe ACS-8000 was quite similar to the <a href=\"computer.asp?c=455\">Altos Serie 5</a> but was more powerful.\n<a href=\"doc.asp?c=456\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1978"
     },
     "Altos Computer Systems Series 5": {
         "id": "Altos Computer Systems Series 5",
@@ -1193,7 +1207,9 @@
                 "455"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Serie 5 was a CP/M based multi-user system. It could support from 1 to 3 users.\nIt had a 5 MB Winchester hard-drive and could be upgraded with a 10 MB hard-drive (for the Serie 5D only). It could use CP/M, MP/M II or Oasis as its operating system.\nThe serie 5 was quite similar to the <a href=\"computer.asp?c=456\">Altos ACS-8000</a>, but with 5.25'' disk drives instead of the 8'' floppies.",
+        "date": "April 1982"
     },
     "Amcoe Amcoe": {
         "id": "Amcoe Amcoe",
@@ -1573,7 +1589,9 @@
                 "753"
             ]
         },
-        "type": "Unknown"
+        "type": "Handheld",
+        "description": "By 1992, once fast-growing Amstrad was struggling. Its reputation as a PC maker\nhad been undermined by a batch of dodgy Seagate disk drives at the same time\nthat bigger-name vendors were engaged in a price war, squeezing Amstrad out of\nthe market.\nThe NC 100, <a href=\"computer.asp?c=1140\">NC 150</a> and <a href=\"computer.asp?c=1141\">NC 200</a> were three products that its founder Alan Sugar was hoping would help revive the company's fortunes.\nCutting edge, they were not. Both were based on old eight-bit Zilog Z80\nmicroprocessors. Curiously, both machines came with a BBC Basic interpreter on\nwhich users could develop their own applications.\nThe NC 100 was a ?199 notebook computer the size of a piece of A4 paper, with a full size keyboard and a \"letterbox\" screen at the top, offering 80 columns by 8 lines.\nIt had an RS232 serial port and a Centronics parallel port for printer and communications. Built-in were 64 kilobytes of memory, expandable to 1 megabyte with the addition of an add-on memory card.\n\"If you can't use this new computer in five minutes, you'll get your money\nback,\" boasted the company in its launch advertising. For ease of use, it had\nfour colour-coded keys giving instant access to a number of built-in\napplications, including a word processor, calculator, diary and address book.\nAt a time when an entry-level lap-top computer cost more than ?2,000 and the\nsub-notebook had not been invented, the NC100 and NC200 offered a good value\nalternative for those with basic computing needs, such as word processing on the move.\nAll the NC computers were made in Japan by Nakajima. The company also sold its own version of the NC-100, called <a href=\"computer.asp?c=1143\">ES-210</a>.\n<font color=\"#666666\">\nThanks to <b>Graeme Burton</b> for information about NC series computers.</font>",
+        "date": "August 1992"
     },
     "Amstrad NC-200": {
         "id": "Amstrad NC-200",
@@ -1590,7 +1608,9 @@
                 "1141"
             ]
         },
-        "type": "Unknown"
+        "type": "Handheld",
+        "description": "The NC200, was the last model of the NC series which was comprised of the <a href=\"computer.asp?c=753\">NC 100</a> and <a href=\"computer.asp?c=1140\">NC 150</a>.\nIt was a very much smarter, more professional design, with a larger fold-out screen - offering 80 columns by 16 lines - a built-in 3? inch, 720 kilobyte floppy disk drive for storage, but at a heftier price tag of ?329.\nIt also had a spreadsheet, which the NC100 did not, as well as twice as much built-in memory at 128 kilobytes.",
+        "date": "October 1993"
     },
     "Amstrad PC1512": {
         "id": "Amstrad PC1512",
@@ -1612,7 +1632,9 @@
                 "183"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Amstrad PC 1512 was launched in 1986. After the Amstrad <a href=\"computer.asp?c=84\">CPC 464</a>, the <a href=\"computer.asp?c=112\">CPC 664</a> and the <a href=\"computer.asp?c=111\">CPC 6128</a> (three home computers based on the Z80) and the <a href=\"computer.asp?c=189\">PCW 8256</a> and the <a href=\"computer.asp?c=190\">PCW 9512</a> (both dedicated word processing computers based on the Z80 as well), Amstrad decided to make its first low-cost PC clone. It was a great European success, capturing more than 25% of the European computer market (impressive now and phenomenal then).\nThis cheap computer was, however, complete and offered more than some others did. The small power supply (57 W) was integrated into the monitor.\nEight models were offered: The PC 1512 SD/DD (with one or two 5.25\" floppy disk drives) and two models with hard disk (HD10 with 10 MB hard disk and HD20 with 20 MB hard disk). FD and HD versions could be acquired with a monochrome or colour monitor.\nThe Amstrad used an \"enhanced\" CGA graphic mode, which could display 640x200 pixels with 16 colors (or grayscale). It was sold with MS-DOS 3.2, DR-DOS plus 1.2 (an operating system from Digital Research), GEM (a graphic interface, also used in the Atari <a href=\"computer.asp?c=20\">ST</a>, <a href=\"computer.asp?c=245\">TT</a> &amp; <a href=\"computer.asp?c=125\">Falcon</a>), GEMPAINT and GEM BASIC.\nThe mouse port, although using 9 pins like a COM port, is proprietary to Amstrad ... The port is female and is only for use with an Amstrad mouse. The special PC-CM monitor provides power to the system unit by a large 14-DIN connector.\n<b>Charles Da Silva</b> adds:\n<font color=\"#666666\">\nDigital Research brought all its support to the Amstrad PC with its DR-DOS, expecting it to know the same success as the CPC and PCW series. The problem is that, near to the launch, Sugar decided to also include MS-DOS, destroying all D.R. hopes to get even on Microsoft...\n</font>\n<b>Andrew Balls</b> comments:\n<font color=\"#666666\">\nThe PC-1512 was CGA-compatible software wise, but the display had a round DIN connector instead of 9-pin D and the signals were different: I vaguely recall that they were analogue instead of digital and perhaps had composite sync. It has been many, many years since I looked at these. The PC-1640 had proper TTL EGA on a 9-pin D.</font>\n<b>Rond Ofstad</b> adds:\n<font color=\"#666666\">\nOn the earliest versions of the 1512 model SD/DD you could get a HardCard. It was a controller card with onboard 10 or 20 MB HD.</font>",
+        "date": "1986"
     },
     "Amstrad PC1640": {
         "id": "Amstrad PC1640",
@@ -1634,7 +1656,9 @@
                 "19"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Amstrad PC 1640 was the successor to the <a href=\"computer.asp?c=183\">Amstrad PC 1512</a>. It had the same characteristics as its predecessor except for added memory (640 KB instead of 512 KB) and the EGA graphics standard.\nIt also had great success, but to a lesser extent than the PC 1512. As the PC 1512, the Amstrad PC 1640 came with the GEM graphical user interface, from Digital Research, an alternative to Windows.\nThe PC-1640 was marketed under the name PC-6400 in the USA. It was also sold in Germany and maybe some other European countries under the name Schneider. \nThree different kinds of monitors where supported, monochrome (-&gt; Hercules), low-res (max 640 x 200) and hi-res (max 640 x 350). The hi-res monitor had a fan for the power supply as opposed to the other monitors which where fan-less. With the low-res monitor you could choose between a full CGA compatible mode (required for many CGA games) and an EGA mode (used for 640 x 200 x 16 eg. for GEM or 320 x 200 x 16 for several games).\n________\nContributors: Andr? Janz\n<b>Charles Da Silva</b> adds:\n<font color=\"#666666\">\nThe 1640 was first introduced in the US and after a few months in Europe (which infuriated the British media, some of them having already been harsh critics on the 1512 : fan problems - forgetting that since the PSU was in the monitor, it was not needed - not 'fully' compatible as it was then thought. All of this proved to come from IBM itself, which made Alan Sugar really angry).\nYou can find all this info in 'Alan Sugar' from late D. Thomas.</font>\n<b>Ex Cathedra's</b> memories:\n<font color=\"#666666\">\nI did a large amount of development on these machines in the late 80s. They were surprisingly good, with only a few bugs and incompatibilities with the IBM PC standard. Bearing in mind the price differential, we had no problems living with these.\nThe RTC and BIOS settings were preserved by 4xAA batteries under the monitor - a configuration I wish we still had today! There was a minor (patchable) bug in the BIOS which caused a div/0 error at midnight each night if you'd left it running a long compilation...</font>",
+        "date": "1986"
     },
     "Amstrad PCW": {
         "id": "Amstrad PCW",
@@ -1692,7 +1716,9 @@
                 "52"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The PCW 16 replaced the <a href=\"computer.asp?c=190\">PCW 9512</a>. Contrary to the previous models, which used a text-based interface, the PCW 16 used a graphical user interface called The Desktop. The computer didn't run CP/M like the old PCW computers, but had its own operating system called Roseanne. Even though CP/M wasn't supplied, it was adapted to this machine by independent developers. \nUnlike the previous PCW models which came with only the Locoscript word-processor, the PCW16 came with a complete range of built-in software - word-processor, spreadsheet, address book, diary/alarm, calculator and file manager.\nLuckily, Amstrad abandoned the Hitachi 3\" floppy format and switched to the standard MSDOS 3.5\" 1.44 MB double-density floppy disk. The Roseanne system could use long filenames (up to 31 characters). The display was also standard: 640 x 480 VGA mode.\nAmstrad provided Several internal expansions for the PCW-16, 1 MB RAM, 2 MB Flash RAM, Application ROMs, second FDD drive; but it seems that none of them saw the light.",
+        "date": "1994"
     },
     "Analogue Mega Sg": {
         "id": "Analogue Mega Sg",
@@ -2053,7 +2079,7 @@
                 "Apple - II Plus (WOZ)"
             ]
         },
-        "type": "Computer",
+        "type": "Handheld",
         "description": "The Apple IIc Plus unit was a direct response to the <a href=\"computer.asp?c=13\">Laser 128EX/2</a>.\nApple retrofitted the <a href=\"computer.asp?c=69\">IIc</a> design to try to compete with Video Technology's high-speed Apple II clone.  The retrofitting is evident in the design of the motherboard.  The motherboard runs at 1Mhz, unlike the Laser 128EX/2.  In order to run its programs faster, Apple used a 4Mhz 65C02 with 8k of high speed SRAM cache and licensed the accelerator design from Zip Technologies (makers of the ZipChip accelerator for the IIe and IIc).  They built an accelerator into a 1Mhz motherboard rather than designing a faster motherboard from scratch.\nThe designers of the Apple IIc Plus originally wanted to make a portable <a href=\"computer.asp?c=71\">IIGS</a>.   Apple's management, bent on promoting the Mac, balked at the idea.  At the same time, the Laser 128EX/2 made a quick design cycle mandatory.  The result was an updated IIc.\nThe Apple IIc Plus was the finest Apple 8-bit computer ever built, but due to a lack of marketing, the apparent backward step in technology compared to the 16-bit <a href=\"computer.asp?c=71\">Apple IIGS</a>, and the aggressive sales of the Laser 128EX/2, the IIc Plus also was to be the most short-lived of the Apple II models. \n<font color=\"#666666\">\nThanks to <b>Steve</b> and his <a href=\"http://oldcomputers.net/\">site</a> for the picture.</font>",
         "date": "1988",
         "emulators": [
@@ -3202,7 +3228,9 @@
                 "125"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "The Atari Falcon 030 is the successor of the <a href=\"computer.asp?c=24\">Atari 520 STe</a> and the <a href=\"computer.asp?c=245\">Atari TT 30</a>.\nIt keeps some features these machines :  The graphic modes (320 x 200 / 16 colors, 640 x 200 / 4 colors, 640 x 400 / 2 colors, 320 x 480 / 256 colors and 640 x 480 / 16 colors) and the sound chips (the old Yamaha PSG and the two 8 bits PCM channels of the STe).\nTwo new graphic modes have been added : a \"small\" 256 colors SVGA (640 x 480) and a true color VGA mode (32768 / 65535 colors in 320 x 480). Also when running on a TV, the resolutions are different: True Color mode is 640x480 in PAL and 640x400 in NTSC. The other TV resolutions also have a difference of vertical resolution between PAL and NTSC: 200 or 400 lines in NTSC, 240 or 480 in PAL.\nNew interfaces were added too : an ADC 16bit 50 KHz and a DSP I/O port. The videochip has also genlocking features.\nThe Falcon was sold with the single-task TOS operating system in ROM (4.04). It is the old Atari ST TOS with new functions to handle the DSP and the new graphic modes. The GUI was slightly enhanced with colored icons and 3D windows.\nHopefully a multi-task TOS - MultiTOS) was also delivered on disks. This multitasking system uses the MiNT kernel and an enhanced GUI. MiNT (which stands for MiNT is NOT TOS) is a multitasking Operating System with lot of Unix features. It was initially done by Eric Smith. It was bought later by Atari and became then \"MiNT is NOW TOS). Atari planned first to put it in ROM, but it was not finished and was shipped on disks.",
+        "date": "1992"
     },
     "Atari Jaguar": {
         "id": "Atari Jaguar",
@@ -4058,7 +4086,9 @@
                 "1337"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Bridge 3C seems to be a rebranded <a href=\"computer.asp?c=574\">InterSystems DPS-1</a> computer sold with Televideo terminals.\nApparently the Bridge 3C was delivered with the following software: CP/M 2.2, BMATE word processor, R80 RATFOR preprocessor, FORTRAN compiler, Enhanced FORTRAN, Pascal-Z and C compiler.\nThe following extensions/options were advertised for the Bridge 3C:\n- FPP: system calendar, 3 interval timers, one additional serial port, and a 9511 floating point processor with complete software interface.\n- ROM-EPROM development package including programmer and dual port memory for emulating 2716s\n- GRX: High resolution graphics package\n- AD: Hardware and software drivers for 16 channels A/D converters (30 KHz throughput) and 4 channels D/A converters.\n- MEM: Additional 256 Kb memory\n- HD: Hard disk drive (30 Mb) with interface and all necessary software updates",
+        "date": "1982"
     },
     "BGR Computers Excalibur 64": {
         "id": "BGR Computers Excalibur 64",
@@ -4255,7 +4285,9 @@
                 "478"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Gundam RX-78 was originaly a very popular manga animation movie from the 80's. Bandai then marketed a personal computer under this name...\nLittle is known about this small computer. Since the Gundam Rx-78 was only sold in Japan nearly all the information currently comes from Japanese websites.\nThe capabilities of the  RX-78 were not bad at all for 1983, and the space between the keys offered the possibility to use keyboard overlays with games or applications, except maybe for complaints about the poor keyboard quality.\nIt appears that there were two cartridge slots at the back of the system. One slot was often used for the BS Basic programming language and the other could be used for special expansion cartridges (to connect a printer for example). \nThe BS-Basic cartridge was also equipped with connectors to plug a tape-recorder into the RX-78.\nWhile games were the main software developed for this computer an asian brand word processor was also available.",
+        "date": "September 1983"
     },
     "Bandai Karaoke Ranking Party": {
         "id": "Bandai Karaoke Ranking Party",
@@ -4317,7 +4349,9 @@
                 "855"
             ]
         },
-        "type": "Unknown"
+        "type": "Unknown",
+        "description": "The Pippin @World (black model) is the US version of the Pippin Atmark (white model), which was sold in Japan. Apart from the different colored case, both systems are identical.\nIn the early 90's, several companies tried to market videogame systems based on their computers' technology as those were not selling as much as they should have to. Apple was one of them and designed the Pippin upon the hardware of their second generation Macintosh, like Commodore did with their CD32 based on the Amiga hardware.\nThe Pippin was first marketed as multimedia / game a machine, but after the flop of the 3DO, they re-launched the Pippin as an  an internet appliance that also played games. That didn't work either, because, by the time the Pippin was ready to go, PC prices had dropped a lot.\nBy the way, pippin is a type of apples.",
+        "date": "December 1995"
     },
     "Bandai Playdia": {
         "id": "Bandai Playdia",
@@ -4908,7 +4942,9 @@
                 "331"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "What a weird computer !! Though it has a lot of similarities with other computers of that time, it seems to be however an original Brazilian production, a kind of mix between several popular systems.\nIts name MC-1000 is strangely close to <a href=\"computer.asp?c=163\">MC-10</a> from Tandy. It uses the same video-controller (Motorola MC-6847) but Sound chipset (GI AY-3-8910) and CPU (Z80A) are different. The character set is almost identical, but keyboard layout and Basic statements are not the same (PLOT vs SET, LOAD vs CLOAD, HOME vs CLS, etc.)\nMaybe the closest system would be the <a href=\"computer.asp?c=803\">Samsung SPC-1000</a>. It has the same CPU, Video processor and Sound processor ! But sadly nearly nothing is known about it... At first sight it doesn't look the same at all, but internaly there are very close.\nFinally it is also strangely similar to the <a href=\"computer.asp?c=420\">Charlemagne / GEM-1000 / Junior Computer from GEM</a>, or the <a href=\"computer.asp?c=1328\">Rabbit RX83 computer</a> which seem to be the same computer... and indeed they are !\nA former CCE employee reports (<a href=\"https://sites.google.com/site/ccemc1000/historia\" target=\"_blank\">Source</a>) that the original design of the MC1000 was Chinese. A Chinese engineer/representative came to Brazil to present the project to CCE. It was not presented as a final product already in production, but as a prototype. Some partnership was effectively established between CCE and the Chinese factory for the production of the MC1000. He was not reverse engineered. There was a lot of development: Hardware adaptations (for PAL-M, for example, or to adapt components), case, keyboard design, visual identity, packaging, software? The engineering staff worked many months to finalize the product. For the ROM, CCE received very little: just the dump and an assembly listing without comments...\n_____________\nThanks to Cesar Cardoso for the following information :\n<font color=\"#666666\">BACKGROUND ON HISTORY: from 1976 to 1990-1992, Brazil had a market reserve policy on microcomputers and selected computing items, i.e. only Brazilian companies could manufacture these items. But most companies only copied foreign computers and only a small part of it created their own technology, like Scopus and a MS-DOS clone called SISNE.\nThis little monster was a genuine Brazilian computer! CCE was a electronics manufacturer known for their low prices and low quality products. They released <a href=\"computer.asp?c=68\">Apple II</a> and PC compatible machines, but developed their own computer, the MC-1000. Hardware-wise, it's close to a <a href=\"computer.asp?c=90\">MSX</a>, with some big project problems (the text mode, unsuitable for something more serious, and the printer port, which was external and sold separately).\nThe most heard word of this computer is \"vaporware\". CCE made a lot of them for this computer. The biggest of them all: disk drives. Hey, in 1985 disk drives was an essential peripheral of ANY computer - and CCE promised drives. Drives and CP/M - MC-1000 could have been a decent CP/M machine. They promised, promised... and never delivered. So people got tired of waiting and gave up on this computer.</font>\n<a href=\"doc.asp?c=331\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "February 1985"
     },
     "COMX COMX-35": {
         "id": "COMX COMX-35",
@@ -4987,7 +5023,9 @@
                 "279"
             ]
         },
-        "type": "Unknown"
+        "type": "Handheld",
+        "description": "Amstrad bought the rights to use the Sinclair name on computer products. However, while Sir Clive Sinclair (the creator of the <a href=\"computer.asp?c=262\">ZX 80</a>, <a href=\"computer.asp?c=263\">ZX 81</a>, <a href=\"computer.asp?c=223\">ZX Spectrum</a> and <a href=\"computer.asp?c=199\">QL</a>) retained ownership of Sinclair Research, he couldn't use the Sinclair name. Sir Sinclair therefore created a new company called Cambridge Research, with the intention of realizing an old project, the Pandora Project. The result of this work was the Z88 (it was achieved in 1988). Sir Sinclair at the time thought it was a revolution and said that this computer would be one of the best commercial successes. Actually it was Clive Sinclair's last contribution to the computer world! \nThis small machine was quite powerful; its operating system could exceed the 64 KB limitation of the Z80 with a good memory manager. It could also divide the memory into 16 KB pages, so the RAM could be expanded up to 3 MB thanks to 2 expansion ports. RAM cartridges of 32 KB and 128 KB were available. It had a built-in EPROM programmer available on the 3rd expansion port, so data could be saved directly on 128 KB EPROMs. \nThe ROM contained a lot of software: Pipedream (spreadsheet, word processor and database), the Z80 version of the BBC Basic (the Basic of the BBC or Electron), a diary, a calendar, a clock, a conversion tool, a VT 52 terminal emulator, Filer (the file manager of the Operating System) and a utility to transfer data to a PC compatible via a RS232 link. This transfer utility exported text and spreadsheet files into Wordstar or Lotus 1-2-3 formats. \nIt's probably worth pointing out that BBC basic built into the Z88 also contains a machine code editor, which allows you to embed Z80 assembly language into your Z88 BBC Basic programs! This feature was used quite often for the 'extra speed' portions of programs. Of course, having the assembly language embedded inside your source code meant that the code was very portable, and all loaded in one go - no messy 'support files' for your application.\nJan M.L. Bosmans reported to us that the BBC Basic in the Z88, although very powerful, lacks an essential feature: there is neither an editor nor debugger! This means that mistakes in a line can only be corrected by typing the whole line again. While it's true that the BBC basic had no editor built in, but one of the first 'type in programs' in the BASIC section of the manual was a program you could enter (and save to battery backed memory) that provided a line editor feature! It was just a few lines of BBC Basic, and worked very well.\n_________\n<font color=\"#666666\">Contributors: John J. Diamond, Mark Wills</font>",
+        "date": "1988"
     },
     "Camputers Lynx": {
         "id": "Camputers Lynx",
@@ -5039,7 +5077,8 @@
         "date": "1983",
         "emulators": [
             "launchbox"
-        ]
+        ],
+        "description": "The Lynx 48 was a competitor of the <a href=\"computer.asp?c=223\">Sinclair Spectrum</a> and the <a href=\"computer.asp?c=180\">Oric 1</a>. It was a good machine but its main problem was a lack of software. Several models were available with 48 KB, 96 KB or 128 KB RAM, and it was possible to reach 192 KB with on-board RAM expansions! There is even a monitor in the Lynx's ROM which allowed the user to write and edit programs written in machine code. \nThe 96 KB and 128 KB versions featured 4 KB of additional ROM memory (mirrored twice for obscure reasons) with lots of extra commands for sound effects, such as laser and klaxon, and for using 24 KB of dedicated RAM as data space. \nThe Lynx Basic has really cool features, unseen on other systems of its category, like REPEAT-UNTIL and WHILE-WEND statements, and automatic indenting of procedures! The graphic possibilities were excellent, especially with the 128 KB model, and CP/M could be used with the optional 5.25\" disk-drive and 96 KB or better models. \nHowever, the Lynx had no great success outside Great Britain.\nThe designer of the Lynx is John Shireff, an ex-drummer. \nSome hardware devices on the bus had potentially contentious outputs. This meant that you had to be quite brave if you wanted to program in assembly language - if you made a mistake, you could damage the hardware itself. This was highlighted in the user manual!\nCamputers ceased trading in 1984. Several companies expressed an interest in buying the business, and in November, 1984, a firm called Anston Technology took over. A re-launch was planned but never happened, and in June, 1986 Anston sold everything - hardware, design rights and thousands of cassettes - to the National Lynx User Group. The group planned to produce a Super-Lynx but was too busy supplying spares and technical information to owners of existing models, and the project never came into being.\n_________\n<font color=\"#666666\">Contributors: John J. Diamond (editor), Richard Hince</font>\n<a href=\"doc.asp?c=158\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>"
     },
     "Canon X-07": {
         "id": "Canon X-07",
@@ -5360,7 +5399,9 @@
                 "101"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Casio FP-1000 and FP-1100 were essentially the same machine, except that the 1100 had colour capabilities, 48 KB VRAM and enhanced graphic mode (640 x 400).\nThe FP-1100 came with either a monochrome (green) monitor which would display colour as shades, or the colour monitor. The cable feeding the video to the monitor was a simple 2 core unsheilded RCA cable. The mono minitor had a switch at the back so that one could swap foreground and background (green on black or black on green)\nBoth the FP-1000 and FP-1100 had a built in OS called C82 BASIC. To run CP/M, you had to insert your systems diskette and reboot the computer, or if the program diskette had it's own boot strap, you could issue a \"mount [1,2]\" command where the number [1/2] indicated the diskette drive you wanted to use.\nYou could run multiple console sessions on the FP-1000/1100 toggling between them with the blue function keyboard keys that can be seen on the image. Some programs (eg SuperCalc) ussurped these keys and you were stuck in the console session until you stopped the program.\n<font color=\"#666666\">Thanks to <b>Zieg Nielsen</b> for the info.</font>\n<a href=\"doc.asp?c=101\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1983"
     },
     "Casio Loopy": {
         "id": "Casio Loopy",
@@ -9420,7 +9461,9 @@
                 "941"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The DRAGON 32 enjoyed a pretty good success in Europe. Its ROM holds the Operating System and a version of the Microsoft Extended BASIC.\nOne of its characteristics is partial compatibility with the <a href=\"computer.asp?c=91\">Tandy TRS 80 Color Series</a>. They can use same peripherals and some cartridges, but most ROM calls will fail on the other computer.\nHowever, the Dragon did have at least two advantages over the first TRS-80 Color computer: A typewriter-style keyboard that was somewhat better than the tandy's calculator-like keys; and a Centronics parallel-printer port.\nTwo years later, Welsh launched the <a href=\"computer.asp?c=503\">DRAGON 64</a> which has the same characteristics except the added memory (64k RAM instead of 32k), a RS232c port and minor ROM changes.\n<a href=\"doc.asp?c=117\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "January 1982"
     },
     "Dragon FLEX": {
         "id": "Dragon FLEX",
@@ -9615,7 +9658,9 @@
                 "370"
             ]
         },
-        "type": "Unknown"
+        "type": "Handheld",
+        "description": "This computer is the successor of the <a href=\"computer.asp?c=143\">HX-20</a>.\nThe main cosmetic difference is a wider screen that can be adjusted to the right angle.\nThere are 2 ROM slots under the machine to implement additional ROM programs.\nOn the right of the LCD display can be plugged a tape-recorder, a plotter, RAM expansions, a lot of things or ... nothing.\nA lot of peripherals were available for this little computer (see hardware page), at least in japan.\nThe PX-4 was logically followed by the <a href=\"computer.asp?c=198\">PX-8</a>.",
+        "date": "1984"
     },
     "ETI-660": {
         "id": "ETI-660",
@@ -9893,7 +9938,9 @@
                 "970"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The information on this page comes from Bostjan Lemut.\nEi NIS means Elektronska industrija Nis.\nROM was devided into 12KB for Basic and 3.4KB for OS.\nRAM could be extended for 16KB more, also 16KB ROM was available with an editor and assembler.",
+        "date": "1985"
     },
     "Emerson Arcadia 2001": {
         "id": "Emerson Arcadia 2001",
@@ -10347,7 +10394,9 @@
                 "370"
             ]
         },
-        "type": "Unknown"
+        "type": "Handheld",
+        "description": "This computer is the successor of the <a href=\"computer.asp?c=143\">HX-20</a>.\nThe main cosmetic difference is a wider screen that can be adjusted to the right angle.\nThere are 2 ROM slots under the machine to implement additional ROM programs.\nOn the right of the LCD display can be plugged a tape-recorder, a plotter, RAM expansions, a lot of things or ... nothing.\nA lot of peripherals were available for this little computer (see hardware page), at least in japan.\nThe PX-4 was logically followed by the <a href=\"computer.asp?c=198\">PX-8</a>.",
+        "date": "1984"
     },
     "Epson PX-8, HC-88 & Geneva": {
         "id": "Epson PX-8, HC-88 & Geneva",
@@ -10379,7 +10428,9 @@
                 "198"
             ]
         },
-        "type": "Unknown"
+        "type": "Handheld",
+        "description": "The PX-8 was the successor of the <a href=\"computer.asp?c=370\">PX-4</a> and <a href=\"computer.asp?c=143\">HX-20</a>. The main improvement was a twice bigger flip-up LCD screen.\nIt was sold with four cartridges which could be added to the base of the unit: a <b>BASIC</b> Programming Language, <b>CardBox Plus</b>, a diary for 400 names and addresss, <b>Calc</b>, a spreadsheet and <b>WordStar</b> the well known word processor. A double 5.25\" floppy drive was available, and an Epson developed stand alone 3.5\" floppy drive.\nThe PX-8 was designed to be compatible with CP/M programs but these may need some modifications due to the display system. Actually, 8 lines of 80 characters were shown at any one time, but the display could be scrolled through up to 48 lines.\nIt may also act as a terminal for other computers. \nThe PX-8 was sold as HC-88 in Japan and Geneva in the USA.",
+        "date": "1984"
     },
     "Epson QX-10": {
         "id": "Epson QX-10",
@@ -10402,7 +10453,9 @@
                 "200"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The QX-10 was a robust small business computer that used tried and tested technology rather than anything too innovative. Nevertheless, it was designed to be complete in itself for both hardware and software.\nIt had an enhanced keyboard with 10 function keys and up to 16 fonts can be defined. It had a battery to save clock, date and a small 2048 characters buffer. It could use MS-DOS programs thanks to an optional 8088 card.\n<b>Byte</b> magazine said in January 1983:\n<font color=\"#666666\">\nThe QX-10 is, at first glance, not a revolutionary machine. Yet in many subtle ways it is. On the surface, its specs are not spectacular. But the real power of the machine lies in its careful integration of software and hardware. The software was designed with the hardware in mind and vice versa.\nSuch products reflect a growing concern for the user, a recognition that the old standards for hardware and software performance are no longer good enough. We need better-quality products, more attention to details, better-written manuals, and state-of-the-art features. Fortunately, the industry is listening.</font>\n<a href=\"doc.asp?c=200\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1982"
     },
     "Ericsson Alfaskop System 41": {
         "id": "Ericsson Alfaskop System 41",
@@ -10775,7 +10828,9 @@
                 "890"
             ]
         },
-        "type": "Unknown"
+        "type": "Unknown",
+        "description": "The Channel F was the first programmable video game system, having plug-in cartridges containing ROM and microprocessor code rather than dedicated circuits. Not a very popular or entertaining system, it was nonetheless important at the time for having a number of original features which were copied by later more successful systems. \nUnique to the console is a `hold' button that allowed the player freeze the game and also change either the time, the speed or both during the course of the game, without altering the score.  Another feature which was used for the Hockey game was `overtime' which allowed one minute of extra play should there be a tie-break in the score.\nDetached controllers were just starting to appear on `pong' units as opposed to having them directly on the unit itself.  The Channel F controllers which were attached to the unit with dedicated wires, were gripped by the whole hand and enabled movement in all directions, including the twisting left and right for `paddle' movement. There was no firebutton, the joystick had 8 way digital movement, forward/backwards, left/right, pull knob down/pull up and twist counter-/clockwise. \nFairchild released twenty-six different cartridges for the system, with up to four games being on each cartridge. The games included sports, such as Hockey, Tennis and Baseball, educational, such as Maths Quiz, board games, such as Checkers, and shooting games, such as Space War. The cartridges had labels that contained the game instructions on them and each were given a sequential number. In this respect Fairchild started a trend in trying to boost game sales by numbering them and so appealing to consumers who wanted to complete their collection.\nThe Channel F console's popularity lowered when the Atari released their <a href=\"computer.asp?st=2&amp;c=878\">VCS</a> in 1977 as the VCS had much better graphics, games and sound. Fairchild responded to the Atari VCS by changing the name of their console to the `Fairchild Channel F' from it's original name of the `Fairchild Video Entertainment System', but this did not raise flagging sales.\nIn 1978, Zircon International Inc. bought the rights for the Channel F and released it as the Channel F System 2. This new system had some minor modifications : slightly different cosmetic design, sound output through TV speakers and the controller holders at the back of the unit. But this new model did not succeed either, as this time, <a href=\"computer.asp?st=2&amp;c=878\">Atari VCS</a>, <a href=\"computer.asp?st=2&amp;c=1205\">Intellivision</a> and <a href=\"computer.asp?st=2&amp;c=695\">Odyssey?</a> were already on the market...\nIn Sweden this console was sold as the Luxor Video Entertainment System.\n________\n<font color=\"#666666\"><b>Contributors:</b> Abi Waddell, Fredric CJ Blaholtz, Bj?rn Roman</font>",
+        "date": "1976"
     },
     "Fairlight CMI Series III": {
         "id": "Fairlight CMI Series III",
@@ -11149,7 +11204,9 @@
                 "373"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The FM 77 AV was an impressive system in 1985. It's a good example of what was developped in Japan and we never heard of in the rest of the world.\nThe system has great audio and video features, hence the AV for \"Audio and Video\". It can display 640 x 200 pixels in two colors, or 320 x 200 in 4096 colors ! There is even a multipage mode where you can define two 460 x 200 screens with 8 colors each, or six 640 x 200 monochrome screens !\nThere are a lot of graphical symbols already stored in memory (each symbol / letter is composed by 8 x 8 pixels) : 69 alphanumeric symbols, 63 kakatana signs, 63 hiragana signs and 62 graphic symbols. Moreover, the system is capable of displaying 3418 chinese and asiatic characters with a 16 x 16 character matrix (text resolution is thus of 40 x 12).\nLast but not least, the FM 77 AV offers superimposition features...\nOn the sound side, it offers three FM voices and three more PSG voices. Other cool features include infra-red keyboard and built-in real time clock.\nThere were two models : the <b>AV-1</b> which has one 3.5\" disk-drive (double density) built-in and the <b>AV-2</b> which is equiped with two of these drives.\n<font color=\"#666666\">Source : <a href=\"http://www3.wind.ne.jp/toragiku/\" target=\"_blank\">Junya Kubota's museum</a>.</font>",
+        "date": "1985"
     },
     "Fujitsu FM-8": {
         "id": "Fujitsu FM-8",
@@ -11172,7 +11229,9 @@
                 "377"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "Introduced may 1981, the FM 8 was one of the first Fujitsu micro computers (after the LKIT-8 hobby computer in 1977). In any case it was the first member of the FM series, FM standing for \"Fujitsu Micro\". At that time its features were really impressive: bi-processor (even an additionnal Z80 cpu could be installed), 64 KB RAM, bubble memory, built-in chinese characters ROM, 640x200 high resolution with 8 colors and no proximity conflict!\nThe FM-8 was developed by employing innovative design and state-of-the-art semiconductor technology, and was designed for use in a variety of fields, ranging from high-level hobby use, to business applications and process control.\nThe <a href=\"http://www.ipsj.or.jp/katsudou/museum/computer/4050_e.html\" target=\"_blank\">Japanese Computer Museum</a> specifies:\n<i>\"The FM-8 had the following features:\n- Equipped with two Motorola 6809 8-bit CPUs (main and sub)\n- The world's first use of 64 kilobit DRAM (like that in large main frame computer) in a microcomputer (64 kilobyte main memory)\n- Japanese language display using Chinese character (kanji) ROM (JIS level 1 2,965 characters, optional)\n- High-resolution color graphics (640x200 dot, 8 colors selectable at each dot)\n- The provided operating systems (OS) included F-BASIC, as well as UCSD-PASCAL, FLEX and CP/M (required Z80 card option)\n- First use in a personal computer of bubble memory as external memory (At the time of announcement, the machine had a bubble cassette with a 32 kilobyte capacity. A 128 kilobyte cassette was added later. Bubble memory did not catch on, however, and was eliminated from the standard features in the <a href=\"computer.asp?c=325\">FM-7</a>.)\"</i>\nWhen booted, a menu offers different choices:\n1 - F-BASIC (ROM/DISK mode)\n2 - DOS (mini- floppy disk)\n3 - Bubble memory\n4 - DOS (standard floppy disk)\nThere are a lot of character sets available (8x8 matrix): 69 alphanumeric char., 63 katakana signs and 62 graphic symbols. And for characters with a 16x16 pixels matrix: 2965 chinese characters (JIS standard level 1) and 453 non-chinese characters (JIS non-chinese characters).\nOptional mini floppy disks could be connected (320 KB each), as well as an expansion unit which allowed many things (voice input/ouput, hard disk connection, RS232c interface, analog interface for measurement,etc.)\nIn November 1982, Fujitsu announced a upper model of the FM-8 called the <a href=\"computer.asp?c=379\">FM-11</a>, and a mass-market model called the <a href=\"computer.asp?c=325\">FM-7</a>.\n_____________\nNomura, Hisayuki reports:\n<font color=\"#666666\">\nFujitsu FM 8 / 7 have a very unique feature. They have 2 CPUs. 1 for Main CPU (it's usual) and 1 for Graphics. Graphic CPU has their own boot ROM and main program. The Graphic CPU recieves request from Main CPU and draw pictures with their software. The two CPUs share small part of memory area and uses this shared area exclusively.</font>\nGern adds:\n<font color=\"#666666\">In addition to Mr. Nomura's report. During game programmers there was famous \"Hidden\" feature.\nThe performance of FM-8 was not so excellent as many people expected. Dual CPU concept was bottleneck. When main CPU stores command code to shared memory, sub CPU get halt. Sub CPU restarts and start drawing. Problem was size of shared memory; 128 bytes are too small to store massive graphic requests. That is, FM series are not appropriate for hobby use.\nHowever, One of BIOS programmer, Mr.Yamauchi in Fujitsu Ltd. left several hidden commands in sub-system BIOS, which is called YAMAUCHI command. These command permitted us to transfer large binary programs to reserved memory space and JMP! After unveiled this hacking technique, FM series are known to their performance in games.</font>",
+        "date": "May 1981"
     },
     "Fujitsu FMR50": {
         "id": "Fujitsu FMR50",
@@ -13872,7 +13931,9 @@
                 "140"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The HP-86 series was the same machines as the <a href=\"computer.asp?c=926\">HP-87</a> but used a 9\" or 13\" external monochrome monitor.\nThe built-in BASIC language derived from the <a href=\"computer.asp?c=353\">HP-85</a>'s but featured about 20 additional graphics commands. It also allowed to directly address the ports of external modules. \nTwo vdersions were successively released:\nThe <b>86-A</b> had 64 KB of RAM and was fully compatible with the 87-A. It had built-in interfaces for a printer and dual floppy drives. Internally, these interfaces were seen as HP-IB devices.\nThe <b>86-B</b> had 128 KB of RAM and an HP-IB port instead of the printer/fDD interfaces. It was the same machine as the <b>HP-87XM</b>, but with an external monitor.\nThere was no special operating system. The Basic interpreter provided all the necessary commands for I/O and peripherals management.\nNotice that the HP-IB interface found on almost all HP computers - from micro to mini - is a special version of the well-known IEEE 488 interface.",
+        "date": "July 1982"
     },
     "Hewlett-Packard HP48": {
         "id": "Hewlett-Packard HP48",
@@ -14007,7 +14068,9 @@
                 "386"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "An upgraded version of the <a href=\"computer.asp?c=2\">Basic Master Level 3</a>, with built-in chinese character ROM board.",
+        "date": "1982"
     },
     "Hitachi Basic Master Level 3": {
         "id": "Hitachi Basic Master Level 3",
@@ -14031,7 +14094,9 @@
                 "2"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "This japanese computer seems quite powerful. The main board is located into the main case, under the monitor.\nInside this main case there are 6 expansion slots which is quite enough ! Thus a lot of expansion boards were available (disk, printers, 8088, Z80 boards, etc).\nAn interesting feature is that there's a little trap-door on the keyboard which reveals some cool control switches : a power switch, a text mode switch (80 / 40 columns), a reset button and volume control knob. Quite useful !",
+        "date": "1980"
     },
     "Hitachi S1": {
         "id": "Hitachi S1",
@@ -14178,7 +14243,9 @@
                 "1182"
             ]
         },
-        "type": "Unknown"
+        "type": "Handheld",
+        "description": "IBM had little luck with it's portable models, and realized to keep up, they needed a laptop. IBM came up with the 5140, it was a laptop that could be converted into a main desktop in seconds.\nThe LCD screen detaches for a color CRT to be attached. IBM didn't sell many of these due to the fact the LCD was not backlit, and conpetition was less expensive.\nThe IBM 5140 was available in two models, the 2 and the 22; the only difference being the 22 came with diagnostics software. IBM saw little success from this machine due to high costs, slow processor at 4.77 MHz, hard to read screen, and cumbersome size. Both models were expandable to 640KB RAM with third party upgrades.\nThis laptop is unique however because it used static memory, instead of dynamic memory. The static memory was more reliable, and gave the CPU 7% more processing power.\nThere were three distinct display models for the IBM 5140. One was the standard 10? monochrome LCD, which was hard to read. Later on IBM changed this to a super twist LCD, which was much easier to read.\nThe first CRT option was an IBM 5144 monochrome display, which was easy to read, it came with a stand, ac power cord, and CRT adaptor for the 5140. The second and final option was an IBM 5145 color display, which was easy to read as well, it came with a stand, ac power cord, and CRT adaptor for the 5140. The CRT monitors sat atop a stand which was placed over the 5140, the 5140 then could be slid in and out from under the monitor stand for easy conversion. The LCD screen that attaches via proprietary connection could be disconnected and removed easily with the push of a button.\nThere is a 72 pin port on the back of the unit for several expansions; serial, parallel, and CRT interfaces were available.\nThese computers also came with a small, direct-attach thermal printer that was same width, height, etc as the computer so you could carry computer, printer and all by the one handle.\n<font color=\"#666666\">Thanks to <b>Alex Rushing</b> for info and <a href=\"http://www.computercloset.org\" target=\"_blank\">www.computercloset.org</a> for the picture.</font>",
+        "date": "april 1986"
     },
     "IBM PC and Compatibles": {
         "id": "IBM PC and Compatibles",
@@ -14362,7 +14429,9 @@
                 "185"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The IBM PC AT was the successor of the <a href=\"computer.asp?c=274\">PC</a> and the <a href=\"computer.asp?c=286\">XT</a>. IBM added a lot of new features: they abandoned the old Intel 8086 to the Intel 80286, so the PC AT used new 16 bit expansion slots.\nThe PC AT had a new version of the Microsoft OS: MS-DOS 3.0 which could manage the new 5.25\" floppy disk format (1.2 MB), the new hard disk capacities (20 MB and more) and allowed file sharing. It had a new keyboard too (the same we use now, more or less) with cursor keys and a key that could lock it.\nTwo models were launched: the PC-AT model 1 (256 KB RAM, two floppy disk units and a color screen) and the PC-AT Model 2 (512 KB RAM, one floppy disk unit, one hard disk and a color screen).\nThis computer was revolutionary, but it was the last time IBM imposed a standard to the PC clone industry. The next year, the first PC based on a 80386 was made by Compaq and IBM failed to impose the PS/2 standard in 1986?",
+        "date": "1984"
     },
     "IBM PC-XT": {
         "id": "IBM PC-XT",
@@ -14382,7 +14451,9 @@
                 "260"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The IBM PC XT 286 is an intermediate computer between the <a href=\"computer.asp?c=286\">IBM PC XT</a> and the <a href=\"computer.asp?c=185\">IBM PC AT</a>.\nIt had a very short career because most of its features can be found in the PC AT.\nContrary to the PC XT, it has a saved clock and a calendar.\n<font color=\"#666666\"><b>James G. Davis</b> reports:\nOnly a few were made-maybe 20,000. Someone with IBM told me that they stopped making them when they had used up all the XT boxes, since the new ATs used a different box.</font>",
+        "date": "1986"
     },
     "IBM PCjr": {
         "id": "IBM PCjr",
@@ -14421,7 +14492,9 @@
                 "186"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "After launching the <a href=\"computer.asp?c=274\">IBM PC</a> (and its great success), IBM tried to stand out a standard for home computers, it created then the PC junior, which itself is a \"light\" version of the PC especially designed for home activities. \nDespite its qualities, the PC jr had few success and never managed to replace the established home computers like <a href=\"computer.asp?c=98\">Commodore 64</a>, <a href=\"computer.asp?c=68\">Apple II</a> or <a href=\"computer.asp?c=76\">Atari 800</a>. \nTwo IBM PC junior models were available: a basic one and a enhanced one (supplied with 128k, 30 programs, a 5.25\" floppy disk drive [360 KB] and its controller).\nContrary to the IBM PC, the power supply is not integrated to the case, but is external. The keyboard is linked by infra-red to the CPU, though there was a RJ11 (standard phone jack) plug that could be used instead to save batteries. It is impossible to connect a 8087 math co-processor.\nThe RS232 connector is not a standard one. To use a standard RS232 device, the user has to buy a special adapter (\"Berg\" style connector breakout -&gt; D25 connector).\nThe PC Jr runs under MSDOS 2.1 (the same version as the PC) and handles a hard disk when it is not possible to connect hard disk on the PC Jr (go figure)!\nThere was an internal modem available that ran at 300 bps sold by IBM.  Third party modems were also available at 1200bps.\nA cartridge containing enhanced basic (with special graphics instructions) was also available. To get a 80 column text display, the extra 64k RAM expansion is needed.\nMany IBM PC programs would not originally run on the PCjr because it did not include a DMA controller.  This was available through a memory side-car add-on from Tecmar Systems.  Many people were able to then run the PCjr as a competent business type of system as well.\n<a href=\"doc.asp?c=186\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "November 1983"
     },
     "IBM System-360": {
         "id": "IBM System-360",
@@ -14613,7 +14686,9 @@
                 "hcs"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Interact computer had a very short life in USA. It had only just got in production when the Interact Co. of Ann Arbor MI, went bankrupt. Several thousand machines were produced though. Some of them were sold by Protecto Enterprizes of Barrington, IL, the liquidator, but the main part was sold by MicroVideo, also of Ann Arbor. Protecto bought lots of back-of-the-magazine ads for years, always printed with 'WE LOVE OUR CUSTOMERS'. \n\nThe Interact shipped with 2 joysticks, a built-in tape recorder, a TV RF modulator and 2 KB of ROM. Everything, including BASIC, must be loaded from tape. A little trivia: The tape unit did include an erase head, but it was not connected! Tapes had to be erased on a regular cassette recorder before being reused. Another surprising feature is that the '1' key is after the '0' key at the far right of the keyboard. Thus the row is starting from 2 and finishing by 1... See explanation in the 'Read more' page. \n\nMicroVideo supported the machine for two years, 1979-80, making some hardware expansions (32K RAM card and stringy floppy drive), replacing the original minimalist EDU-BASIC language with a Microsoft 8K graphic version, and even publishing 3 issues of 'Interaction', a newsletter of the Detroit Interact Group. \n\nThe Interact computer finally vanished from the US market in late 1980. However, a French company bought the rights of the machine and started to sell the Interact under Victor Lambda name in French market. See the rest of the story here. \n\nFor five years, several improved sequels of the Interact, called Hector, were launched in France. The last version, the Hector MX, featured high resolution graphics and 4 built-in languages!\n \nNAME   Home Computer System \nMANUFACTURER   Interact \nTYPE   Home Computer \nORIGIN   U.S.A. \nYEAR   1979 \nEND OF PRODUCTION   1979 \nBUILT IN LANGUAGE   None (EDU-BASIC on cassette tape) \nKEYBOARD   QWERTY, chicklet keyboard 53 keys \nCPU   Intel 8080 A \nSPEED   2 MHz \nRAM   8 or 16 KB \nROM   2 KB \nTEXT MODES   17 chars. x 12 lines \nGRAPHIC MODES   112 x 78 in 4 colors \nCOLORS   8 \nSOUND   1 voice, 4 octaves \nSIZE / WEIGHT   46.3 (W) x 26.5 (D) x 10 (H) cm / 5.8 kg \nI/O PORTS   2 joystick sockets, TV output \nBUILT IN MEDIA   Tape recorder (1200 bauds) \nPOWER SUPPLY   External AC transformer \nPERIPHERALS   32 KB RAM card, stringy floppy drive \nPRICE   300Dollar (USA, 1980) \n \nRetrieved from 'http://www.old-computers.com/MUSEUM/computer.asp?c=1004'",
+        "date": "1979"
     },
     "Interact Family Computer": {
         "id": "Interact Family Computer",
@@ -14638,10 +14713,12 @@
                 "1004"
             ]
         },
-        "type": "Unknown",
+        "type": "Computer",
         "emulators": [
             "vinter"
-        ]
+        ],
+        "description": "The Interact computer had a very short life in USA. It had only just got in production when the Interact Co. of Ann Arbor MI, went bankrupt. Several thousand machines were produced though. Some of them were sold by Protecto Enterprizes of Barrington, IL, the liquidator, but the main part was sold by MicroVideo, also of Ann Arbor. Protecto bought lots of back-of-the-magazine ads for years, always printed with \"WE LOVE OUR CUSTOMERS\".\nThe Interact shipped with 2 joysticks, a built-in tape recorder, a TV RF modulator and 2 KB of ROM. Everything, including BASIC, must be loaded from tape. A little trivia: The tape unit did include an erase head, but it was not connected! Tapes had to be erased on a regular cassette recorder before being reused. Another surprising feature is that the \"1\" key is after the \"0\" key at the far right of the keyboard. Thus the row is starting from 2 and finishing by 1... See explanation in the \"Read more\" page. \nMicroVideo supported the machine for two years, 1979-80, making some hardware expansions (32K RAM card and stringy floppy drive), replacing the original minimalist EDU-BASIC language with a Microsoft 8K graphic version, and even publishing 3 issues of 'Interaction', a newsletter of the Detroit Interact Group.\nThe Interact computer finally vanished from the US market in late 1980. However, a French company bought the rights of the machine and started to sell the Interact under <b>Victor Lambda</b> name in French market. See the rest of the story <a href=\"http://www.old-computers.com/museum/doc.asp?c=151\">here</a>.\nFor five years, several improved sequels of the Interact, called <b>Hector</b>, were launched in France. The last version, the <a href=\"computer.asp?c=169\">Hector MX</a>, featured high resolution graphics and 4 built-in languages!\n<strong>If you got tapes for the Interact or Victor Lambda (or Hector/Victor), please contact us. We are trying to save all programs released for this computer before there are lost forever.</strong>\n<a href=\"doc.asp?c=1004\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1979"
     },
     "Intergraph InterPro": {
         "id": "Intergraph InterPro",
@@ -15144,7 +15221,7 @@
                 550
             ]
         },
-        "type": "Computer",
+        "type": "Handheld",
         "description": "Despite its name, the Kaypro II was the first Kaypro model. The name was KAYPRO II, because the <a href=\"computer.asp?c=68\">Apple II</a> was the most popular system (besides the <a href=\"computer.asp?c=274\">IBM PC</a>) around back then, and Kaypro decided to follow in the image. \nIt was conceived by Non Linear Systems inc., a company with over 30 years' experience of producing small portable aerospace electronic equipment, which would later become Kaypro. \nThe Kaypro systems were known to be square-built ! All the hardware is packed into a solid aluminum case. These computers can resist to a lot of trouble as they proved when ten of them (Kaypro IV &amp; 10) were used by doctors for the Paris-Dakar 84's edition. Non of them failed despite extreme conditions.\nOne asset of the Kaypro, over the <a href=\"computer.asp?c=181\">Osborne 1</a> which was\navailable at about the same time, is the 9\" built-in monitor, easily twice\nthe size of the Osborne's. Though the Kaypro 2 has no graphic features, it can display 80 x 24 characters. There are two single-sided / double-density full-heigth 5.25'' disk-drives (190k each). One can be used to boot CP/M and the other to run the software.\nThe Kaypro II is a real \"luggable\" system. Even if it weights more than 10kg, it can be easily moved with the handle found at the back.\nAt the rear of the system, one can find a serial port, a parallel port, a keyboard connector, a brightness control knob and reset button.\nPerfect Writer, Perfect Calc, Perfect Filer, Perfect Speller, S-Basic, CP/M and Profitplan were bundled with the system. Later WordStar was also available.\nAs usual with Kaypro, the model names logic is quite dramatic to resolve. Several Kaypro \"2\" were marketed :\n- In 1984 a new <b>Kaypro 2</b> (refered as Kaypro 2'84) is introduced. It has two SS/DD half-height floppy drives, a Z-80A running at 4.0 MHz, 2 serial ports and rudimentary graphics (through graphic characters).\n- The same year, the <b>Kaypro 2X</b> is released. Very similar to a Kaypro 2'84 but with DS/DD half-height drives.\n- Still in 1984, in order to be compatible with IBM software, a special version was marketed with an Intel 8088 CPU instead of the Z80A. It was called the <b>Kaypro II Plus 88</b>!\n- In 1985 another Kaypro 2 refered as <b>\"New 2\"</b> is sold. It is basically an old 2X motherboard, with one or two DS/DD floppy drives, but no 300 baud modem previously found on the 2X. It comes with just CP/M and Wordstar for software.\n- And to spice up a bit things, Kaypro decides to rename its <a href=\"computer.asp?c=548\">Kaypro 4'84</a> as <b>Kaypro 2X</b> (sometimes also known as 2X MTC), thus dropping the previous 2X model!\nSee ! I told you...\nTrivia :\n<font color=\"#666666\">In 1985, <b>Arthur C. Clarke</b> published a sequel to 2001 : 2010 Odyssey Two. He worked with Peter Hyams in the movie version of 2010. Their work was done using a Kaypro computer and a modem, for Arthur was in Sri Lanka and Peter Hyams in Los Angeles. Their communications turned into the book The Odyssey File - The Making of 2010.\n_________\nThanks to <a href=\"http://www.bolo.ch\" target=\"_blank\">Bolo's Computer Museum</a> for the picture.</font>\n<a href=\"doc.asp?c=550\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
         "date": "august 1982",
         "emulators": [
@@ -15393,7 +15470,9 @@
                 "1168"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Lambda 8300 is basically a <a href=\"computer.asp?c=263\">ZX-81</a> clone. Made in Hong-Kong (by Lambda Electronics LTD? DEF?), it was designed as a cheap computer for initiation and was licenced to many companies throughout the world. This explains why the same computer can be found under many different brands and names (DEF 3000, Power 3000, Basic 2000, Basic 3000, PC 2000, PC 8300, Marathon 32K, IQ 8300, Futura 8300, Your Computer, etc.). But on all mainboards is written a generic \"PC 8300\", which explains why 8300 or 3000 are often used in licenced names.\nThe system is thus a cloned <a href=\"computer.asp?c=263\">ZX-81</a> with a modified ROM (to avoid legal problems), a better keyboard, more RAM (2 KB), sound features, a composite video output and even a joystick connector (Atari compatible). These represent in fact all the upgrades ZX-81 users usually wanted to add first to their system, but all bundled for a cheaper price.\nWith its modified ROM, the PC-8300 was only ZX-81 compatible with Basic programs. But soon, a ZX-81 ROM was available to turn your system into a real <a href=\"computer.asp?c=263\">Sinclair ZX-81</a> machine, being able to run all software including machine code.\nDifferent addons were available : 16 KB and 32 KB RAM upgrades, color (and high resolution graphics ?) expansion, joysticks, printers... The expansion bus is supposed to be compatible with the ZX-81 one (to be confirmed).",
+        "date": "1983"
     },
     "LeapFrog ClickStart": {
         "id": "LeapFrog ClickStart",
@@ -15683,7 +15762,9 @@
                 "357"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "This computer is the successor of the <a href=\"computer.asp?c=37\">Luxor ABC 80</a>\nThere were several successors to the ABC800, most notably the ABC802 with built-in small 9\" monitor and the ABC806 with more memory and more advanced 512x240x16 graphics.\nThe ABC 800 series was also sold by <b>Facit</b> under the <b>DTC</b> (DeskTop Computer) name, in a darker enclosure.",
+        "date": "1981"
     },
     "Luxor ABC 806": {
         "id": "Luxor ABC 806",
@@ -15955,7 +16036,9 @@
                 "149"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "This prehistoric computer has no \"real\" keyboard and no video output, program are entered by the small hexadecimal keyboard (located in the lower right part of the picture) and results are displayed on the small LED \"screen\" (it can display only 6 digits). It has a simple monitor that allows one to examine &amp; modify memory, load and save paper tape, load and save cassette tape, run and debug programs through a 'single step' mode. The monitor works with the built in keypad and LEDs, or a terminal like the Teletype ASR33.\nIt is possible to connect the KIM to a terminal via a dedicated serial port.\nSoon after release, Commodore Business Machines would buy out MOS Technologies and distribute the KIM-1 with a Commodore name on it.\n<font color=\"#666666\"><b>Bob Leedom</b> reports :\nThe KIM-1 had \"no video output\", you say? And the \"small LED screen...can only display 6 digits\"?\nNot quite. The software could address each segment of the 7-segment displays in the \"LED screen\". As a result, tremendous ingenuity was unleashed by the KIM-1 User's Group, and the display was used for many clever things.\nThe editors published my version of the artificial intelligence board game (in which the computer learns which moves lose, and never makes those moves again, until it's eventually unbeatable), my baseball game (two-player or you vs computer, six kinds of pitches possible, scoreboard, men-on-base display, lots more), and my semi-successful commercial entry called KIM-venture (a tiny version of Adventure, with XYZZY-type secret word, monsters, treasures, 26 rooms, and more).\nIt was an amazing little computer. Mine still works!\n</font>",
+        "date": "1975"
     },
     "MSX MSX2": {
         "id": "MSX MSX2",
@@ -16025,7 +16108,8 @@
                 "288"
             ]
         },
-        "date": "1985"
+        "date": "1985",
+        "description": "After the (relative) success of the <a href=\"computer.asp?c=90\">MSX 1 computer</a> (in Japan, Europe and South America), Microsoft and ASCII presented its successor. The main new feature was the very enhanced graphic modes, no other computers were able to display such graphics! The 128 KB VRAM was very impressive! It had a battery-backed clock and a new MMU (to handle more than the Z80 64KB limit). \nThe MSX 2 standard, like the MSX 1, was designed by ASCII, the new operating system MSX DOS 2.0 was designed by Microsoft (it's almost a copy of MS-DOS 3.3). A while after launching the MSX 2 standard, Microsoft abandoned the project, but several manufacturers took it over.\n<b>John van Poelgeest</b> adds:\n<font color=\"#666666\">\nAs the MSX2 and <a href=\"computer.asp?c=291\">MSX2+</a> computers were very alike, it did not take long to have a MSX2 computer rebuilt with the MSX2+ VDP (V9958 from Yamaha) and the BIOS chips from the MSX2+, making the MSX2 computer a fully compatible MSX2+. The one thing lacking was the MSX-Music (FM-Pac), but this could be added by using a cartridge.</font>\n<b>Toby</b> comments:\n<font color=\"#666666\">Note that MSX-DOS 2 did not ship with any MSX2 by default. It was developed later and sold as an external cartridge (with the kernel) and 3.5\" diskette (containing the OS files). The only computer to ship with MSX-DOS 2 was the MSX turboR (both the <a href=\"computer.asp?c=775\">ST</a> and the <a href=\"computer.asp?c=627\">GT</a>) which had MSX-DOS version 2.3x built in.</font>"
     },
     "MSX Palcom": {
         "id": "MSX Palcom",
@@ -16345,7 +16429,9 @@
                 "320"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The National (also known as Panasonic or Matsushita in other countries) JR series was pretty popular in Japan. Small quantities were sold outside Japan, in New Zeland among other countries.\nLittle is known about the first system of the range (please help!). It was obviously an initiation machine with black &amp; white display and rubber keyboard.\nThe JR 100 was followed by the <a href=\"computer.asp?c=324\">JR 200</a>.\nThanks to <b>Murray Moffatt</b> from New Zeland for most of the information and pictures.\n<a href=\"doc.asp?c=320\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1981"
     },
     "Mattel Aquarius": {
         "id": "Mattel Aquarius",
@@ -16686,7 +16772,9 @@
                 "168"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Memotech company started manufacturing expansion cards and high quality memory modules for the <a href=\"computer.asp?c=263\">Sinclair ZX 81</a><a></a> home computer.\nThe British Memotech MTX 512 has a hardware which looks like the <a href=\"computer.asp?c=217\">Sord M5</a>. It also has characteristics, which are close to the <a href=\"computer.asp?c=90\">MSX standard</a>, but is not MSX compatible.\nIt uses a dedicated chip for video (Texas Instruments TM 9918 or 9928) and sound (Texas Instruments SN76489A) and has a very nice mechanical keyboard and a nice black aluminum case!\nBoth models have the same characteristics, but the MTX 500 has only 32 KB RAM and the 512, 64 KB. It had no success and was replaced a short time later by the <a href=\"computer.asp?c=202\">RS-128</a>.\n_______________\n<font color=\"#666666\"><b>Jon O'Brien</b> reports:\nI was in computer retail in Bracknell at the time the MTX was released, owned an MTX 512 (which I still have somewhere, I think) and spent quite a bit of time talking on the telephone to the owner of Memotech (whose name now escapes me) about stocking the machines. I was told at the time that much of the MSX design was based on the company's work on the MTX. How true this is I can't say, but it is a claim that was made at the time.</font>\n<a href=\"doc.asp?c=168\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1983"
     },
     "Mephisto MM I": {
         "id": "Mephisto MM I",
@@ -17838,7 +17926,9 @@
                 "986"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "This little-known graphics workstation is an intriguing example of the many, varied machines introduced in the mid 1980's.\nThe Mindset microcomputer, designed by two ex-Atari engineers, offered graphics performance far beyond that of other personal computers on the market at the time of its introduction in early 1984.\nBased on the rarely seen, 16-bit Intel 80186 (also used in the <a href=\"computer.asp?c=1219\">Tandy Model 2000</a>), the Mindset was a powerful graphics workstation built on a (mostly) MS-DOS compatible core. Two custom VLSI chips shouldered the burden of graphics heavy lifting; offering graphics performance 50 times that of the IBM PC, leaving the CPU free to handle other chores.\nThe system unit was striking to behold.  Crafted by industrial design group, <b>GVO</b>, of Menlo Park, CA, the Mindset was chosen for a place in the Museum of Modern Art.\nThe main system unit lacked floppy disk storage but instead sported two, front-mounted ROM/NVRAM module ports. The system's serial and parallel interface, as well as system memory expansion, were also modular.  A dual floppy drive expansion module attached to the top of the unit, giving it a futuristic, double-decker look (most units were sold with the floppy drive module bundled in).   \nThe Mindset was one of the very first computers to come standard with a mouse; in this case, a two-button unit with a somewhat unwieldy, heavy cord and a metal mouse ball.\n<brw the mindset offered>11 advanced graphics modes which could be seen on any of the system's three graphics outputs; impressive flexibility for its day.  A very powerful paint program, <b>Lumena</b> from Time Arts, Inc., was available for the Mindset, allowing the creation of stunning, static images from its palette of 512 colors.  Beyond the static, however, the machine's custom graphics hardware was capable of performing frame buffer animation at a speed 50 times greater than that of the IBM PC.\nThere were rumors that Atari CEO, Jack Tramiel, was considering purchasing the Mindset  to bring it under the Atari flag.  This did not happen, but it is interesting to note that the original <a href=\"computer.asp?c=922\">Atari ST</a> series computers, released a year later, featured almost exactly the same graphics modes and palette depth as the Mindset micro.\nMore information about this notable entry in computing history can be  \nfound at <a href=\"http://www.atarimagazines.com/creative/v11n2/50_Mindset_micro_pushing_th.php%20\">this on-line version</a> of a Feb. '85 <i>Creative Computing</i> review.\nThanks to <b>Blake Patterson</b> for information.\n\t\n</brw>",
+        "date": "1984"
     },
     "Mitchell Mitchell": {
         "id": "Mitchell Mitchell",
@@ -17991,7 +18081,9 @@
                 "124"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Exorset was designed by Motorola firstly to be a development kit for the MC6809 and Motorola systems.\nIt has a built-in green 9'' monochrom screen and two 5''1/4 floppy-drives.\nIt runs under XDOS (a compatible MDOS operating system).\nIt is sold with a compiled Basic (BASICM), a text editor and an assembler.\n<i><b>Douro</b> reports us :\nThe Motorola Exorset-30 has amazing graphic and sound capability.  A modified version of this hardware is used in Williams arcade machines !</i>",
+        "date": "1982"
     },
     "Mr. Isizu Z80 TV Game System": {
         "id": "Mr. Isizu Z80 TV Game System",
@@ -18258,7 +18350,9 @@
                 "178"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "In 1979, the NEC PC-8001 was an excellent machine, offering 8 colors when most of its competitors were still monochrome. There is even a (low) graphic resolution of 160 x 100 dots. It could display capital and small letters.\nThe PC-8001 had great success with Japanese businesses, where it was widely used. At the time, NEC claimed that the PC-8001 represented at least 45% of their home japanese market. This is when the PC serie from NEC and MZ serie from Sharp started competing!\nThe base system was 32K, but a company in Concord, CA. made a thing called the \"WEDGE\" that mounted below the Base system and added the needed 32K plus it had analog and digital input ports and other goodies.\nThe US version of the PC-8001 was named <b>PC-8001A</b>.\n________\n<font color=\"#666666\"><b>Contributors :</b> Jeff Denno</font>",
+        "date": "1979"
     },
     "NEC PC-8201": {
         "id": "NEC PC-8201",
@@ -18455,7 +18549,9 @@
                 "401"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The PC-88VA was compatible with the <a href=\"computer.asp?c=398\">PC-8801</a> and also had a V3 mode that operated in 16bit mode and allowed to run MS-DOS like OS.\nThis machine had sprites for games in character mode. High quality games \nsuch as R-TYPE were released using this mode.\nUnfortunately this machine had no success and was replaced by the PC-88VA2/VA3 series in 1988.",
+        "date": "1987"
     },
     "NEC PC-98 series": {
         "id": "NEC PC-98 series",
@@ -18779,7 +18875,9 @@
                 "1240"
             ]
         },
-        "type": "Console"
+        "type": "Console",
+        "description": "Released in 1989, the TurboGrafx-16 was the American name for the <a href=\"computer.asp?st=2&amp;c=1231\">PC Engine</a>.\nOriginally marketed as a competitor for the <a href=\"computer.asp?st=2&amp;c=866\">NES</a>, it sold well initially, but never achieved the same success the PC Engine enjoyed in Japan.\nGames for the TG-16 came on credit card sized TurboChips, similar to the cards that could be used on the original <a href=\"computer.asp?st=2&amp;c=840\">Master System</a>.\nTG-16 games have a distinct style, featuring large, colourful sprites, which still hold up well today. The 16 attached to the end of the name referred to the fact it had 16 bit graphics. While the system itself was only 8 bit, the custom chips meant it was still a powerful machine and the graphics were remarkable for the time.\nA CD add-on was released two years before the Mega CD, making the PC Engine/TurboGrafx-16 the first console capable of playing CD games. The TurboGrafx-CD received its own upgrade in the Super System Card which increased Ram to 256 KB. The Arcade Card Pro was never released outside of Japan.\nThe machine received a limited release in Europe, where it was known simply as the Turbografx. Very few details are available about the European version but it has been suggested that no games were ever released, leaving users with just the one game that came with the console.",
+        "date": "1989 (U.S.A.), 1990 (Europe)"
     },
     "NEC PC-Engine CD & TurboGrafx-16 CD": {
         "id": "NEC PC-Engine CD & TurboGrafx-16 CD",
@@ -19329,7 +19427,9 @@
                 "815"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Nascom 1 was the most popular British made computer kit in the U.K. It was an affordable single board Z80 based computer with a  keyboard attached by cable. It came as a kit or ready-built. \nWhy Nascom? Because the idea of a low cost computer intended for U.K. hobbysts was originated by an American company called Nasco. However, the board was designed in the U.K. by <b>Shelton Instruments Ltd</b> that, later, also designed and sold the <a href=\"computer.asp?c=810\">Sig-Net</a>\nThe minimum configuration featured 2 KB RAM and 1 KB ROM monitor, but the Nascom could be gradually extended into a system that was powerful enough to  compete with many home computers of the time, Pet, Apple or Tandy.\nActually, the RAM area was divided into two parts: 1 KB for user program and data and 1 KB for storing characters displayed to the television. The ROM monitor provided basic functions: enter program and data, display memory content and processor registers, save and load programs from a tape recorder.\nA whole range of peripherals and expansions were available from independant suppliers, as well as a vast range of software and many user groups. Several magazines dedicated to the Nascom and its relatives, the Gemini computers, were published. Many languages were available including BASIC, PASCAL, C, FORTH, etc.",
+        "date": "1978"
     },
     "Nichibutsu My Vision": {
         "id": "Nichibutsu My Vision",
@@ -22170,7 +22270,7 @@
                 "attache"
             ]
         },
-        "type": "Computer",
+        "type": "Handheld",
         "description": "The Otrona Attache was the most wanted transportable computer at the time as it was the smallest of its category. Preceded by the <a href=\"computer.asp?c=181\">Osborne</a> and <a href=\"computer.asp?c=550\">Kaypro II</a>, the Attache was also more expensive than its competitors. Compactness has a price!\nThe Attache is this a nice little CP/M system. High-resolution graphics, compact keyboard, 64 KB RAM, real time battery-packed clock, composite video output, delivered with Wordstar, MBasic, CP/M, the Otrona Attache had all that was needed at the time to be efficient.\nin 1983, Otrona released a second model, the <b>Attache 8:16</b> which was in fact a \"normal\" Attache with an Intel 8086 expansion board built-in, thus offering the MS-DOS world in addition to the CP/M compatibility. The <a href=\"computer.asp?c=274\">IBM PC</a> was already putting a strong pressure on the market. The rush toward MS-DOS compatibility had begun, announcing CP/M death. Meanwhile, hybrid machines like this one appeared on the market illustrating the transition.\nIn May 1984, Otrona announced a new transportable model, the <b>Otrona 2001</b>, using an Intel 8088 processor. Sadly the 2001 wasn't completely IBM PC compatible and the production costs were high. Like its predecessor (Attache), the 2001 had real assets, but was too expensive compared to other portables. As Otrona didn't want to exceed the $3000 price limit to stay competitive against IBM and Compaq, they had to throw in the towel.\nToo bad, as the demand for the \"2001\" ran extraordinarily well, as Otrona president Jim Lindner explained. 1000 orders in the month were common.\nBut in september 1984, Otrona Advanced Systems announced that it was ceasing production.  It gave notice to its 175 employees and said that it had decided that is was not able to reorganize (and thus continue in business) under Chapter 11 of the Bankruptcy Act. Jim Lindner hoped for a buyback which never came (?).",
         "date": "April 1982"
     },
@@ -24458,7 +24558,9 @@
                 "473"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Sanyo MBC-550 was the first of the legitimate \"clones\" of the IBM Personal Computer. While others (notably the Taiwanese) were duplicating the circuitry and Read-Only Memories (ROMs) of the IBM PC, Sanyo Business Systems designed their own circuitry and wrote their own Basic Input/Output System (BIOS), part of which was in ROM and part was on disk. The character set was also in ROM. In Japan, this computer was the MBC-55. It came with a kanji character set and the CP/M-86 operating system. Sanyo had Microsoft write a special version of their disk operating system (MS-DOS) and command interpreter (COMMAND.COM). They had MicroPro write special versions of WordStar, CalcStar, and EasyWriter which they bundled with the MBC-550, making it a very attractive package, not only for their intended market, business; but also for the computer hobbyist.\nThe Sanyo 55x was the first MS-DOS compatible computer that retailed for under US$1000. It was also quite possibly the only (somewhat) IBM-compatible system that was actually slower than an <a href=\"computer.asp?c=274\">IBM PC</a> (the PC clocked at 4.77 MHz, while the Sanyo clocked at 3.6, giving it a Norton SI rating of 0.8). \nIt came with 5.25\" floppy drives sized from 160 KB to 800 KB. One thing the machine had that was odd was a floppy controller for 4 floppy drives, you simply chained them and adjusted the DSx jumper on the drives. The drives were labeled ABCD and if a hard drive was added it became E even if you only had 2 floppy drives as the BIOS reserved A-D for floppy drives. The floppy drives in these models were from Teac. Interestingly, the drive lights always stayed on when the door was closed. They did not go out even if the drive was not currently being accessed.\nThey were manufactured &amp; sold from about 1983 to about 1988. The different models are:\n- MBC-550 : 1 x 5.25\" disk-drive (160 KB)\n- MBC-555 : 2 x 5.25\" disk-drive (160 KB)\n- MBC-555-2 : 2 x 5.25\" disk-drive (360 KB)\n- MBC-555-3 : 2 x 5.25\" disk-drive (720 KB)\nThe default graphics were easy to use: three straight 640x400 bitplanes, R, G, and B. There was no text mode, so stock IBM PC apps that bypassed the video BIOS did not work. The main add-on card was a Sanyo CGA color card, that transformed the original Sanyo into about a 90% PC IBM compatible computer. The CGA board was EXPENSIVE and one version added memory to 640 KB as well.\nWhile the mixed text-and-graphics video made it incompatible with many programs intended for the IBM (Lotus 1-2-3 being the benchmark at the time), WordStar worked just fine, as did Microsoft Excel (the original MS-DOS version) and also Borland's Turbo Pascal compiler. If your consideration was more for file interchangeability (it ran MS-DOS 2.1) than for software compatibility, the Sanyo was a solid, workhorse system at a very reasonable price.\nA lot of \"IBM PC\" software at the time accessed the address of the video cards directly - B800:0000 for color and B000:0000 for monochrome, since the Sanyo had no video card at this address the video output was never seen. Sanyo offered the CGA card that was present at this address for direct memory writing.\nThere was a pinout on the motherboard for a ribbon cable that would accept a 5 MB hard disk. The 55x motherbaord also included a socket for an 8087 math coprocessor, which helped with spreadsheet applications.\nSoft Sector magazine and all the BBS systems specific such as First Sanyo Opus and the Sanyo supporting clubs kept these working and many many mods from power supply fixes to memory addons (768 KB was possible) to serial board mods, hard drive addons, etc came out of these.\nThe MS-DOS had to be specific to this machine as well, you couldnt boot the generic versions. There were a few aftermarket DOS's that gave extra abilities to include 800 KB from 720 KB floppy drives. A few people even professed to adding 3.5\" drives. A-OK company wrote a OS for the system as well, called A-OK DOS. \nAmong the quirks to the machine: the power supply was not a regular switching power supply. It was a transformer. Also the keyboard had no ALT key - made it nuts to operate software made for IBM specific machines! The IBM PC/XT at the time had 10 function keys while the Sanyo had half that amount. To get the higher function keys you would need to do these strange shift combinations.\nWhen you push the power button, you definately had the feeling that Sanyo had borrowed some parts from their stereo division!\nThis systems was also proposed when you got a course through NRI.\n_________________\n<font color=\"#666666\"><b>Contributors:</b> Russ Blakeman, David Botkin, Joe Dellea, Steven Koehler, Victor Frank</font>",
+        "date": "1982"
     },
     "Sanyo MBC-550 and MBC-555": {
         "id": "Sanyo MBC-550 and MBC-555",
@@ -24491,7 +24593,9 @@
                 "473"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Sanyo MBC-550 was the first of the legitimate \"clones\" of the IBM Personal Computer. While others (notably the Taiwanese) were duplicating the circuitry and Read-Only Memories (ROMs) of the IBM PC, Sanyo Business Systems designed their own circuitry and wrote their own Basic Input/Output System (BIOS), part of which was in ROM and part was on disk. The character set was also in ROM. In Japan, this computer was the MBC-55. It came with a kanji character set and the CP/M-86 operating system. Sanyo had Microsoft write a special version of their disk operating system (MS-DOS) and command interpreter (COMMAND.COM). They had MicroPro write special versions of WordStar, CalcStar, and EasyWriter which they bundled with the MBC-550, making it a very attractive package, not only for their intended market, business; but also for the computer hobbyist.\nThe Sanyo 55x was the first MS-DOS compatible computer that retailed for under US$1000. It was also quite possibly the only (somewhat) IBM-compatible system that was actually slower than an <a href=\"computer.asp?c=274\">IBM PC</a> (the PC clocked at 4.77 MHz, while the Sanyo clocked at 3.6, giving it a Norton SI rating of 0.8). \nIt came with 5.25\" floppy drives sized from 160 KB to 800 KB. One thing the machine had that was odd was a floppy controller for 4 floppy drives, you simply chained them and adjusted the DSx jumper on the drives. The drives were labeled ABCD and if a hard drive was added it became E even if you only had 2 floppy drives as the BIOS reserved A-D for floppy drives. The floppy drives in these models were from Teac. Interestingly, the drive lights always stayed on when the door was closed. They did not go out even if the drive was not currently being accessed.\nThey were manufactured &amp; sold from about 1983 to about 1988. The different models are:\n- MBC-550 : 1 x 5.25\" disk-drive (160 KB)\n- MBC-555 : 2 x 5.25\" disk-drive (160 KB)\n- MBC-555-2 : 2 x 5.25\" disk-drive (360 KB)\n- MBC-555-3 : 2 x 5.25\" disk-drive (720 KB)\nThe default graphics were easy to use: three straight 640x400 bitplanes, R, G, and B. There was no text mode, so stock IBM PC apps that bypassed the video BIOS did not work. The main add-on card was a Sanyo CGA color card, that transformed the original Sanyo into about a 90% PC IBM compatible computer. The CGA board was EXPENSIVE and one version added memory to 640 KB as well.\nWhile the mixed text-and-graphics video made it incompatible with many programs intended for the IBM (Lotus 1-2-3 being the benchmark at the time), WordStar worked just fine, as did Microsoft Excel (the original MS-DOS version) and also Borland's Turbo Pascal compiler. If your consideration was more for file interchangeability (it ran MS-DOS 2.1) than for software compatibility, the Sanyo was a solid, workhorse system at a very reasonable price.\nA lot of \"IBM PC\" software at the time accessed the address of the video cards directly - B800:0000 for color and B000:0000 for monochrome, since the Sanyo had no video card at this address the video output was never seen. Sanyo offered the CGA card that was present at this address for direct memory writing.\nThere was a pinout on the motherboard for a ribbon cable that would accept a 5 MB hard disk. The 55x motherbaord also included a socket for an 8087 math coprocessor, which helped with spreadsheet applications.\nSoft Sector magazine and all the BBS systems specific such as First Sanyo Opus and the Sanyo supporting clubs kept these working and many many mods from power supply fixes to memory addons (768 KB was possible) to serial board mods, hard drive addons, etc came out of these.\nThe MS-DOS had to be specific to this machine as well, you couldnt boot the generic versions. There were a few aftermarket DOS's that gave extra abilities to include 800 KB from 720 KB floppy drives. A few people even professed to adding 3.5\" drives. A-OK company wrote a OS for the system as well, called A-OK DOS. \nAmong the quirks to the machine: the power supply was not a regular switching power supply. It was a transformer. Also the keyboard had no ALT key - made it nuts to operate software made for IBM specific machines! The IBM PC/XT at the time had 10 function keys while the Sanyo had half that amount. To get the higher function keys you would need to do these strange shift combinations.\nWhen you push the power button, you definately had the feeling that Sanyo had borrowed some parts from their stereo division!\nThis systems was also proposed when you got a course through NRI.\n_________________\n<font color=\"#666666\"><b>Contributors:</b> Russ Blakeman, David Botkin, Joe Dellea, Steven Koehler, Victor Frank</font>",
+        "date": "1982"
     },
     "Sega 32X": {
         "id": "Sega 32X",
@@ -25457,7 +25561,9 @@
                 "843"
             ]
         },
-        "type": "Unknown"
+        "type": "Unknown",
+        "description": "The Mega Drive II is basically just a re-designed <a href=\"computer.asp?st=2&amp;c=1247\">Mega Drive</a>. \nThe Mega Drive II was much smaller and squarer then the original Mega Drive. It did not have the headphone jack, volume control or RF TV output. The A/V port changed to a custom multi out port that now provided stereo sound to T.V's (previously only mono was output by the Mega Drive, the headphone jack had to be used for stereo sound). The power lead port was made smaller and a different AC adapter was used. Finaly the power switch was changed to a push button. \nBoth the original Mega Drive and the Mega Drive II could be connected to a Sega CD and 32X add-ons. The Mega CD was even remodeled to better fit the Mega Drive II. A specific version of the Mega Adapter/Master System Converter was also designed.\n________\n<font color=\"#666666\">Adapted from Miles Mason's Genesis 2/Megadrive II text</font>",
+        "date": "1993 (Japan) 1994 (Europe)"
     },
     "Sega Mark III & Master System": {
         "id": "Sega Mark III & Master System",
@@ -26775,7 +26881,9 @@
                 "781"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The MZ 2200 is basicaly a Sharp MZ 2000 with an optional built-in 3.5\" floppy disk drive and no buil-in monitor.",
+        "date": "1983"
     },
     "Sharp MZ-2500": {
         "id": "Sharp MZ-2500",
@@ -26846,7 +26954,9 @@
         "emulators": [
             "mz700win",
             "mz800emu"
-        ]
+        ],
+        "description": "The Sharp MZ 700 series replaced the aging MZ 80 (<a href=\"computer.asp?c=174\">MZ 80K</a>, <a href=\"computer.asp?c=172\">MZ 80A</a> and <a href=\"computer.asp?c=173\">MZ 80B</a>) series. Moreover, the MZ 700 was compatible with the MZ 80K and MZ 80A.\nThe MZ 700 series is composed of four machines: the first three models were launched in 1983 (November 1982 in Japan) and the last one was launched in late 1985 (in fact, this one is the \"ancestor\" of the MZ 800):\n- the <b>MZ 711</b> was the \"naked\" model (without any peripheral),\n- the <b>MZ 721</b>, has an integrated tape recorder\n- the <b>MZ 731</b>, has built-in plotter and tape recorder).\n- the fourth model was the <b>MZ 780</b> which was actually a MZ 731 with a 80 columns card, a floppy disk drive and a Centronics port. It worked under CP/M.\nThere was no language in ROM (the ROM size is only 2 KB, it is just used for boot and OS calls), it has to be loaded from tape. So there was a lot of languages adapted for this machine (more than five versions of BASIC, assemblers, Pascal, Lisp, C, Fortran, Comal, Forth, &amp; others).\nThe games were a bit poor because of the low resolution (which was actually graphical characters), but there were 512 graphic characters in ROM, which can be used to offset it (sort of).\nIt will be replaced with the <a href=\"computer.asp?c=208\">MZ 800</a>.",
+        "date": "1983"
     },
     "Sharp MZ-800": {
         "id": "Sharp MZ-800",
@@ -26894,7 +27004,9 @@
                 "173"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "As the German magazine \"mc\" reported in its January 1981 first edition, the MZ-80B was shown first on the German Hannover show, in April 1981.\nThe MZ-80B was one of the nicer, if not the nicer, and well designed home computer ever built. It also featured an innovative 'Intelligent' cassette deck which was able to find and load a program anywhere in the cassette tape. All the cassette functions were remote controlled by software.\n \nThe MZ-80B was compatible with the other MZ 80x computers (<a href=\"computer.asp?c=172\">Sharp MZ 80A</a>, <a href=\"computer.asp?c=174\">Sharp MZ 80K</a>), but unlike these ones, it was possible to have high graphic resolution thanks to one or two optional boards which provided one or two switchable graphic pages.\nThis computer, like all the computers of the Sharp MZ series, had no language in ROM, Basic (or any other language) had to be loaded from tape.",
+        "date": "1981"
     },
     "Sharp PC-G850, PC-G815 & E200": {
         "id": "Sharp PC-G850, PC-G815 & E200",
@@ -27229,7 +27341,9 @@
                 "85"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Sinclair PC 200 was one of the last computers built under the Sinclair brand (along with the PC-500). In fact it was not a Sinclair at all, but a desktop version of the <a href=\"computer.asp?c=195\">Amstrad PPC-512</a>.\nThe case bore a striking resemblance to the <a href=\"computer.asp?c=20\">Atari 520 ST</a> case. It had a built-in 3.5\" floppy drive on the right and mouse and joystick ports under the keyboard. And indeed the PC-200 was officially marketed as an Atari 520-ST competitor : same price, same disk drive, same memory (512k) and same design.\nBut compared to the Amiga and 520-ST, the PC-200 looked like a naked pea, even for an IBM compatible. Its two ISA slots were not enough to reasonably expand the system. Standard IBM expansion cards were nearly twice the height of the computer, thus the computer needed to be opened permanently!\nIn 1988, the MDA and CGA graphic modes were quite obsolete as most PC systems had adopted the more convenient EGA mode.\nAn interesting feature of the PC-200 was a TV output socket at the rear of the system, quite rare for a PC compatible system. It shows that Amstrad wanted to market the PC-200 as a low-range PC compatible system for the whole family.\nAt the same time, Amstrad presented the PC 20, which was in fact the same computer as the Sinclair PC 200 except for the color of the case (black for the Sinclair, white for the Amstrad) and the TV output (not implemented on the PC-20).\n<b>Angus WR Gullivers</b> reports to us :\n<font color=\"#666666\">The Sinclair PC200 had absolutely no success, it bombed and was withdrawn very quickly from the market. It was advertised for only about 3 months. It was released to poor reviews because of its lack of expansion possibilities and use of CGA graphics when EGA and VGA were already available.</font>",
+        "date": "1988"
     },
     "Sinclair QL": {
         "id": "Sinclair QL",
@@ -27653,7 +27767,9 @@
                 "262"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "After the modest but encouraging success of the MK-14 (initiation board with hexadecimal keyboard), Sinclair (at the time Sciences of Cambridge) decided to develop a slightly more advanced computer.\nThe ZX-80 is regarded as a pioneer system in micro-computing as at the time the only available computers were kits for hobbyists like the MK-14 or more expensive systems intended for education or research such as the <a href=\"computer.asp?c=409\">Tandy TRS-80</a> or the <a href=\"computer.asp?c=191\">Commodore PET</a>.\nThe ZX-80 inaugurated the transition between the hobbyist world and the consumer electronics by proposing a true computer in its case for less than ?100.\nTechnically, the ZX-80 is not a revolutionary system but is rather the result of a search for economy through the choice of the components, starting with the membrane keyboard, or the RAM memory limited to 1kb. The operating system, the editor and the Basic interpreter fit into the 4kb of the ROM !\nThe ZX-80 met some success with nearly 70.000 machines sold in less than one year, announcing the future success of the <a href=\"computer.asp?c=263\">ZX-81</a> and at the same time the birth of a new major actor in the micro-computers world : Sinclair Computers Ltd.",
+        "date": "February 1980"
     },
     "Sinclair ZX-81": {
         "id": "Sinclair ZX-81",
@@ -28453,7 +28569,9 @@
                 "311"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "This computer is the successor of the <a href=\"computer.asp?c=362\">SMC 70</a>. It is also capable of superimposition.\nThe big blue pad on the right hand-side are the cursor keys.\nThe difference between the SMC-777 and SMC-777c is about color features (hence the \"C\").",
+        "date": "1983 (777) - 1984 (777C)"
     },
     "Sony ZiNc": {
         "id": "Sony ZiNc",
@@ -28620,7 +28738,8 @@
             "retroarch",
             "retroarch_bluemsx",
             "retropie"
-        ]
+        ],
+        "description": "The Spectravideo SV 328 was the ancestor of the Spectravideo <a href=\"computer.asp?c=229\">MSX SV-728</a> (it had the same case and almost all its features) and the successor of the <a href=\"computer.asp?c=227\">SV-318</a>.\nThis computer wasn't a <a href=\"computer.asp?c=90\">MSX</a> machine, even though its hardware design was almost the same as MSX computers. Its Microsoft Extended Basic was also close to the MSX Basic but not fully compatible. The cartridge slot couldn't use MSX cartridges. However, Coleco cartridges could run thanks to an optional card.\nThe SV-328 ran CP/M 2.2 or 3.0 when connected to the 5.25\" 360 KB floppy drive unit. Several well known CP/M software were adapted to the SV328; i.e. dBase II and WordStar.\nSeveral expansion devices were developed for this computer. Among them, the SV-605B expansion box which offered a 10 MB hard disk, two 5.25\" DSDD floppy drives, one Centronics port and six expansion slots.\nSome other peripherals were released: Graphic Tablet, 80-column card, 1200/75 modem card, RS232 interface."
     },
     "Super Brain": {
         "id": "Super Brain",
@@ -28691,7 +28810,9 @@
                 "723"
             ]
         },
-        "type": "Unknown"
+        "type": "Unknown",
+        "description": "Few information is known about this obscure system...\nIt is software compatible with the <a href=\"computer.asp?st=2&amp;c=726\">Interton VC-4000</a> and \"clones\". This doesn't mean that it can use the Interton cartridges, as they certainly won't fit, but the internal specs and software are the same. The CPU is the 2650A from Signetics and the Video Controller is the 2636 from Signetics as well. About 40 cartridges has been released for the Interton VC-4000, but we can't tell how many were available for the TRQ H-21, nor if exclusive games were developped for it...\nLike with all the systems of this \"Interton family\", there are two controllers with 12 buttons keypad + 2 fire buttons + a joystick. Apparently the controllers were designed to use informative plastic layers delivered with each games, showing the functions of each key. The control panel is composed of an ON/OFF switch and three buttons: Carga (Load/Reset), Seleccion (Select) and Inicio (Start). In fact when you switch on the console, you must press \"Carga\" to \"load\" the game.\n<font color=\"#666666\">\n___________\nThanks to Juan Maestre for some info.</font>",
+        "date": "198?"
     },
     "Taikee Singing Star Karaoke": {
         "id": "Taikee Singing Star Karaoke",
@@ -29066,7 +29187,9 @@
                 "163"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "The Tandy MC 10 (MC means Micro Color) was designed as an \"initiation\" computer to compete with the <a href=\"computer.asp?c=477\">Timex Sinclair 1000</a>, the american version of the <a href=\"computer.asp?c=263\">Sinclair ZX-81</a>. It was more expensive than the Sinclair machine, but outpassed it in every category. It had sound, color, more memory and even a better keyboard.\nIn fact, the MC-10 is basically a cut down version of the <a href=\"computer.asp?c=91\">Tandy \"Coco\" computers</a>, but didn't have as much success as its big brothers.\nIt is fully compatible with the first version of the <a href=\"computer.asp?c=60\">Matra Alice </a> (a French computer). Actually both are the same computer (except for the case color, the Alice is red and the Tandy is white).",
+        "date": "1983"
     },
     "Tandy Radio Shack TRS-80 Model 100": {
         "id": "Tandy Radio Shack TRS-80 Model 100",
@@ -29093,7 +29216,9 @@
                 "233"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "The Tandy 100 was actually a computer made in Japan by Kyocera. All the ROM programs were written by Microsoft, and even a few of them were written by Bill Gates (!) himself ! These programs include a text editor, a telecommunication program, which uses the built-in modem (300 baud), and a rather good version of BASIC (no big surprise there).\nKyocera made this computer for three main companies: Tandy, Olivetti (Olivetti M10) and NEC (PC 8201), these computers are the same except the case and some little differences in the programs and a few physical differences.\nThe operating system uses 3130 bytes of the 8 KB RAM. So the 8 KB models (Catalog # 26-3801) didn?t sell very well. But there was also a 24 kb model (Catalog # 26-3802), and one year later, Tandy replaced the Tandy 100 with the Tandy 102 (which has 24 kb RAM too), and later with the Tandy 200 (1985).\nThe Tandy 102 is 1/2 inch thinner and one pound weight different. The \"Date-Bug\" (random changing of the calendar) is also repaired from the Model 100. But many people still prefer the feel of the Model 100 as there are also more 100-only accessories on the used market than compatible accessories...\nThe CMOS CPU (80c85) allows to use the Tandy 100 for 20 hours with only 4 AA batteries (5 days at 4 hours/day or 20 days at 1 hour/day)!!\nThe model 100/102 is still considered and used as an excellent machine, mainly to type texts when you're on the move (you can transfer them to modern computers) and even to send and receive emails !\nFun fact : its CPU was also used on the Mars Pathfinder probe's Sojourner rover !\n<a href=\"doc.asp?c=233\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1983"
     },
     "Tandy Radio Shack TRS-80 Model 4": {
         "id": "Tandy Radio Shack TRS-80 Model 4",
@@ -29113,7 +29238,9 @@
                 "244"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "The TRS-80 model 4 (ref 26-1068/69) was one of the last models of the TRS-80 series (and perhaps the less known). It ran at 4 MHz and displayed 80 columns x 24 lines in Model 4 mode, but was fully compatible with the <a href=\"computer.asp?c=18\">TRS-80 model 3</a> and in Model 3 mode actually displayed 64x16 and ran at the Model 3's 2 MHz.\nIt had 64 or 128 KB RAM, the 64 upper KB being used as a ram disk. It had one or two 5.25\" floppy disk (184 KB each) and ran under TRSDOS 6.0 or 1.3, LDOS or CP/M.\nA transformation kit \"TRS80 model III -&gt; model IV\" was available.\nThe Model 4 was followed by the <b>Model 4D</b> (ref. 26-1070). The only difference being double sided drives -384 KB, instead of single sided drives.\nA portable version of the Model IV called <a href=\"computer.asp?c=1083\">Model 4P</a> (ref. 26-1080) was also marketed few time after.",
+        "date": "1983"
     },
     "Tandy Radio Shack TRS-80 Model I": {
         "id": "Tandy Radio Shack TRS-80 Model I",
@@ -29133,7 +29260,9 @@
                 "409"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "The Tandy TRS 80 model 1 was the first member of one of the most famous computer family. It was one of the first home computer and was launched at the same time as famous computers like the <a href=\"computer.asp?c=68\">Apple II</a> or the <a href=\"computer.asp?c=191\">Commodore PET</a>. Beside, Tandy competitors nicknamed was \"Trash-80\".\nThe TRS-80 was developed was developed within the Radio Shack engeneering group, based upon several processor chips, SC/MP, PACE, 8008, 8080 and finally the Z80.\nIt used a black &amp; white TV set, made by RCA, without tuner as monitor. The earlier models use a poor basic called Basic Level 1 (the Basic and the OS fit in the 4 KB ROM!). It was replaced later with the Basic Level 2 which needed a 12 KB ROM.\nTo offset its poor characteristics, Tandy developed a device called Expansion Interface which brings a lot of new features : additional 16 or 32kb RAM, two tape unit connectors, a printer port, a floppy disk controller, a serial port and a real time clock.\nTandy did as well 5, 10 and 15 MB hard drives. The case for them is about the size of a small PC tower. It's possible to fit 2 drives into each case. They were compatible with all TRS-80 versions.\nWhen it was connected to a floppy disk unit, the TRS-80 uses the TRS DOS operating system, it was pretty bugged and most of the TRS-80 users prefered NEW DOS, it was an operating system done by a third-party company called Apparat. This OS was the real TRS-80 operating system.\nLS-DOS was also an excellent DOS, superior to NEW DOS for most users. Interestingly, Microsoft's MS-DOS became more and more like LS-DOS each time it was updated, although never as good. LS-DOS was finally adopted by Tandy as the official DOS for the <a href=\"computer.asp?c=244\">Model 4</a>.\nDocumentation for all the TRS machines was superb. Even Microsoft provided documentation for its BASIC interpreter listing all the machine calls. You could use these calls when programming with either machine code or BASIC.\nThe Model I was followed by the <a href=\"computer.asp?c=243\">TRS 80 model II</a> (a business computer) and <a href=\"computer.asp?c=18\">model III</a> which had almost the same characteristics as the model I.\n_________\n<font color=\"#666666\"><b>Contributors :</b> Donald French, Paul D Moore</font>\n<a href=\"doc.asp?c=409\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1977"
     },
     "Tandy Radio Shack TRS-80 Model II": {
         "id": "Tandy Radio Shack TRS-80 Model II",
@@ -29156,7 +29285,9 @@
                 "243"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "The TRS-80 model II, is the obscure brother of the TRS-80 family. Many internet pages deal with the models 1,3 and 4 but omit the model 2... This is maybe because the TRS-80 Model 2 was intended to be a business computer for use in offices and labs. Thus it is equiped with a full height Shugart 8'' drive with a capacity of 500k which is a lot compared to the 87k offered by the TRS-80 Model 1 system disk.\nIt is also possible to connect up to 4 floppy disk units, so you could have 2MB disk space online !\nIt runs under TRSDOS, but can also achieve CP/M compatibility.\nOptions for the machine included a hard disk controller, an arcnet network card, a graphics card and a 6 MHz 68000 board set with extra memory (up to 512K) so it could run XENIX.",
+        "date": "May 1979"
     },
     "Tandy Radio Shack TRS-80 Model III": {
         "id": "Tandy Radio Shack TRS-80 Model III",
@@ -29203,7 +29334,9 @@
                 477
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Tandy 1000 was a line of <a href=\"computer.asp?c=274\">IBM PC</a> compatible computers made during the 1980?s by the American Tandy Corporation for sale in their chain of Radio Shack electronics stores in Canada and the USA. The Tandy 1000 would be the successor to their influential <a href=\"computer.asp?c=409\">TRS-80</a> line of computers, the Tandy 1000 would eventually replace the <a href=\"computer.asp?c=91\">COCO</a> line of 8 bit computers as well when Tandy decided to prematurely end that project in favor of the Tandy PC line of computers.\nTargeted toward the home user with a modest budget, it copyied the <a href=\"computer.asp?c=186\">IBM PCjr</a>'s 16-color graphics (PCjr's graphics were an extension of CGA video) and anhanced 3-voice sound, but didn't use the PCjr cartridge ports, instead the Tandy version had built-in game ports compatible with those on the TRS-80 Color Computer (COCO), as well as a port for a \"light wand/pen\". Most Tandy 1000 models also featured ?line-level? sound and composite video RCA outputs built onto the motherboard so that a standard television could be used as a monitor, albeit with much poorer video quality. Unlike most PC clones, early Tandy 1000 computers had MS-DOS built into ROM allowing the OS to boot in a few seconds. Tandy also bundled onto floppy diskette ?DeskMate?, a suite of consumer-oriented applications, with several models. Besides a composite output to TV, as mentioned earlier, Tandy 1000?s also housed a built in CGA video adaptor equal to PC standards built onto the motherboard and since the Tandy 1000 outlasted the PCjr by many years these graphics and sound standards became known as \"Tandy-compatible\" or \"TGA,\" and many software packages of the era listed their adherence to Tandy standards on the package. One odd feature of the Tandy-1000, however, was a non standard edge card printer connector built onto the motherboard and protruding through the rear; an adaptor would be needed to work a standard IBM style printer.\nIn 1984, when the ?T-1000? was in its prime, you may have paid up to $2499.00 (Canadian) for a full featured system with matching monitor.\nThe original line was equipped with the Intel-8088 CPU at 4.77Mhz, which was later extended to faster clock speeds up to 7.16Mhz, as well as the upgrade to 8086 and 80286 processors at 10Mhz (in the TL &amp; TX configurations). Common models of the machine included the Tandy 1000, <a href=\"computer.asp?c=1213\">EX</a>, <a href=\"computer.asp?c=1211\">HX</a>, <a href=\"computer.asp?c=1215\">SX</a>, <a href=\"computer.asp?c=1216\">TX</a>, <a href=\"computer.asp?c=1218\">SL</a>, <a href=\"computer.asp?c=1218\">SL/2</a>, RL, and TL, TL/2, TL/3.\nThe ?T-1000? was a workhorse in the IBM PC world, large numbers of units are still in active service today as it?s construction was quite robust. The T-1000 was Tandy?s last attempt in the home computer market. In the early 1990?s Tandy Corporation sold its computer manufacturing business to ?AST Computers?. When that occurred, instead of selling Tandy computers, Radio Shack stores began selling computers made by other manufacturers, such as ?Compaq?.\nThe original Tandy 1000 was similar in size to the IBM PC except it had a plastic case to reduce weight. The original Tandy 1000 featured a proprietary serial keyboard port along with 2 similar joystick ports on the FRONT of the case (a feature that would become standard in later models). The rear featured a PC standard monitor connector (compatible with CGA/EGA), a composite (TV) video-out connector, a single RCA-style monophonic line-level audio connector, a port for a light pen, and the unusual edge-card connector used to attach a parallel printer.\nThe original Tandy 1000 came standard with one 5.25 disk drive, with an additional bay usable for the installation of a second 5.25 disk drive (available as a kit from Radio Shack). 128k of memory was standard, with the computer accepting up to 640k of total memory with the addition of expansion cards. MS-DOS 2.11 and DeskMate 1.0 were included with the system.\nThe Tandy 1000 offered 256 characters: 96 standard ASCII characters, 48 block graphics characters, 64 foreign language/Greek characters, 16 special graphics characters, 32 word processing/scientific-notation characters.\n__________\n<font color=\"#666666\">Contributors: Derek McDonald (aka ?Skel?)\nSources: Switchtec's Virtual PC Museum, Emperor Multimedia Electronic Archives, Wikipedia, 8-Bit Micro, Tandy 1000 PC Museum</font>",
+        "date": "1984"
     },
     "Tandy Radio Shack Tandy 200": {
         "id": "Tandy Radio Shack Tandy 200",
@@ -29223,7 +29356,9 @@
                 "234"
             ]
         },
-        "type": "Unknown"
+        "type": "Handheld",
+        "description": "The Tandy 200 was an evolution of the successful <a href=\"computer.asp?c=233\">Tandy 100</a>. It offered more RAM and a bigger display. The computer was powered by internal batteries, providing up to 16 hours(!) of use.\nA lot of utilities were in ROM: a telecommunication program (telcom) which used the built-in modem, MSPLAN spreadsheet (light version of Multiplan), text editor, calendar, address book and BASIC Programming Language.\n3.5\" floppy disk drives could be connected via the RS-232. There were actually 2 drives made by Tandy for the Model T computers. The TPDD held 100KB whereas the TPDD2 held 200KB. The TPDD2 could read the TPDD disks. They both used 720k floppies. A video interface was also available, it offered a new display resolution (80 columns X 24 lines) on any external video display unit.\nThe main competitor of the Tandy 200 was the <a href=\"computer.asp?c=198\">Epson PX-8</a>. Note that several of the ROM programs were written by Bill Gates himself!\n____________\n<font color=\"#666666\">Contributed to this page : Kaleb Marshall</font>",
+        "date": "1984"
     },
     "Tandy Radio Shack Tandy 2000": {
         "id": "Tandy Radio Shack Tandy 2000",
@@ -29244,7 +29379,9 @@
                 830
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The Tandy 2000 was launched in December 1981, a full year BEFORE the 1000, and proved to be a mistake on the part of Tandy, but to their credit they weren?t alone, many manufacturers who built systems based on the Intel 80186 CPU suffered the same fate.\nOn the surface the computer was quite the catch:\nThe ?T-2000? featured new instructions and new fault tolerance protection over the TRS-80 and COCO lines. Tandy built the 2000 with advanced color graphics, Intel 16bit processing at 8 Mhz and 2 720K 5.25? Floppy disks; and a CPU that was out performing even the 80286 computers of the time! It was a robust computer with excellent features but that 80186 CPU would come back to haunt it. The Tandy 2000 by many was considered the first AT style computer in North America, a bold and risky move by Tandy.\nDespite all the advancements, the 80186 CPU was not popular with software developers, so few wrote software for the 80186. More to the point, however, the Tandy 2000, while touted as being compatible with the IBM XT, was different enough for most software beyond purely text oriented to not work properly. It differed by having a Tandy-specific video mode (640x400, not related to or forward-compatible with VGA), along with the new concept of keyboard scan codes, and the proprietary 720kb 5-1/4\" floppy format: no other computer used this disk format, which was single-sided high-density, using standard 1.2Mb double-sided high-density disks; the drives could read and write 360kb floppies, but be careful when doing so if the disks were to be subsequently used in an IBM-compatible; there were hardware hacks to use 720kb 3.5\" floppy drives, but it was unclear whether disks formatted in this way were compatible with standard PC-compatibles.\nIn addition: The Tandy 2000 was nominally BIOS-compatible with the IBM XT, which allowed extremely well-behaved DOS software to run on both platforms. However, most DOS software is not so well behaved and many PC programmers would bypass the PC-BIOS to achieve higher performance, rendering the software incompatible with the Tandy 2000. Microsoft provided a special version of MS-DOS that could combat these problems, but it was a proprietary programming venture. All other units, including the later Tandy 1000, operated on what was essentially the standard PC-DOS (IBMs version) or MS-DOS.  The Tandy 2000 was further killed by the arrival of the 80286 CPU 2 months after its release.\nIn fairness, Tandy wasn't the only casualty of the 80186. Other computers that were built on that format, mostly from Europe, such as the Compis and the Dulmont Magnum were marketed with the CP/M operating system suffered the same fate. If you had a machine based on those systems the only thing that could realistically run on them was the CP/M operating system, but software was scarce, at least with MS-DOS you had some options with software.\nIn the end the computer was poorly supported by Radio Shack; eventually the remaining unsold computers were converted into the first Radio Shack Terminals (which, oddly enough, had been one of the original backup plans for the original TRS-80 Model 1). The Tandy 2000 computer was the only computer sold by Radio Shack that had both logos on the case \"Tandy\" and \"TRS-80\". The Tandy 2000 computer was the first to have the \"Tandy\" logo on it.\n__________\n<font color=\"#666666\">Contributors: Derek McDonald (aka ?Skel?)\nSources: Switchtec's Virtual PC Museum, Emperor Multimedia Electronic Archives, Wikipedia, 8-Bit Micro, Tandy 1000 PC Museum</font>",
+        "date": "december 1981"
     },
     "Tangerine Microtan 65": {
         "id": "Tangerine Microtan 65",
@@ -29630,7 +29767,9 @@
                 "610"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "In 1982, T?l?vid?o was one of the first companies selling passive video terminals. These devices were used as monitors/keyboards for mainframes. Their major competitor was Digital and its VT100 terminal, which became the reference model and was later on copied by several companies.\nThe same year, Digital and Televideo had the same idea: to convert their video terminal into a business computer. The digital solution was called the <a href=\"computer.asp?c=605\">VT-180</a>.  Televideo offered their solution under the name <b>TS-802</b>. \nThe TS-802 was a traditional Z80 and CP/M based system. There were two versions: one equiped with double 5.25'' disk drives, and another with a 10 MB hard disk (TS-802H). Like all CP/M systems manufacturers of the time, Televideo offered a free software suite called TeleSolutions. It included the two MicroPro editor bestsellers: <b>WordStar</b> (wordprocessor) and <b>CalcStar</b> (agenda/spreadsheet).\nInitially, these computers were used by large companies as single user, stand alone systems. Then, they were connected to multitasking mainframe units (Televideo TS-806 or TS-816 for example) and used for many years as intelligent satellite stations.",
+        "date": "1982"
     },
     "TeleVideo Systems TS-803, TS-803H & TPC-1": {
         "id": "TeleVideo Systems TS-803, TS-803H & TPC-1",
@@ -29650,7 +29789,9 @@
                 "1077"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "The TS-803 succeeded to the <a href=\"computer.asp?c=610\">TS-802</a>. Although it was basically the same CP/M machine, it had several notable enhancements.\nThe all-in-one case had an innovative design. The main unit and mass storage devices were mounted vertically at the right side of a large tilting 14\" green display (at the time the standard size was of 12\"). \n \nThe keyboard was also  greatly improved. It offered 16 programmable function keys and 10 pre-programmed text-editing keys. It was one of the first keyboard to offer a built-in wrist rest.\nThe TS-803 was also one of the rare CP/M machines to run graphics.\nAt the same period, Televideo also released the <b>TS-1603</b>, an Intel 8088 version with same design which ran CPM/86 and MS-DOS OSs.",
+        "date": "March 1983"
     },
     "TeleVideo Systems TS-806": {
         "id": "TeleVideo Systems TS-806",
@@ -30383,7 +30524,8 @@
                 "167"
             ]
         },
-        "date": "1982"
+        "date": "1982",
+        "description": "The Thomson MO 6 was the successor of the <a href=\"computer.asp?c=12\">Thomson MO 5</a>. This machine was widely used in French schools. It was compatible with the MO 5 and the other members of its family (<a href=\"computer.asp?c=11\">TO 7</a>, <a href=\"computer.asp?c=238\">TO 8</a>, <a href=\"computer.asp?c=239\">TO 9</a> and <a href=\"computer.asp?c=240\">TO 9 plus</a>).\nIt has two versions of BASIC on ROM, one to be compatible with MO5 and BASIC 128 (both made by Microsoft). Almost all memory (101 KB) was accessible with BASIC thanks to a transparent 16 KB bank switching mechanism. An optional 3.5\" floppy disk drive (640 KB) was available.\nIt had a short life because soon after it was launched, the <a href=\"computer.asp?c=238\">TO 8</a> came and challenged to it.\nThe MO5 was also sold in Italy by Olivetti under the name <a href=\"computer.asp?c=853\"> Prodest PC-128</a>"
     },
     "Thomson TO-series": {
         "id": "Thomson TO-series",
@@ -30464,7 +30606,8 @@
                 "11"
             ]
         },
-        "date": "1982"
+        "date": "1982",
+        "description": "The <b>Thomson TO 7</b> is the first micro computer conceived by Thomson and the first French micro-computer. This computer, also called <b>Thomson 9000</b> was mainly used in french schools and had somehow a great success in France. \"TO\" stands for \"Tele Ordinateur\" (ordinateur meaning computer in French).\nOne of the most interesting feature of the TO-7 is its light pen. Indeed, there is one stored in a small trap above the keyboard. A wide range of software used this device. Even on later Thomson systems (MO and TO series), the light pen is still available as an option. It was the distinctive sign of the Thomson micro-computers.\nOn the other hand, its flat membrane keyboard (like the <a href=\"computer.asp?c=263\">ZX 81</a>'s one) is awful! It is impossible to type something quickly. Each stroke is signaled by a small beep. There is a key labeled RAZ (Remise A Zero) which clears the screen, like the classic CLS command... There is a also a ACC key (Accent) which enables accentuated letters.\nWhen you switch on the computer, there is no language, just a small configuration tool to test the light pen. The Basic 1.0 (Microsoft Basic 5) is delivered on a cartridge. It inserts into the cartridge trap door on the left side of the keyboard. The cartridges are called \"Memo 7\". Sadly, the trap door locking system is not very secure, and all TO 7 owners experienced the lost of their programs when the trap door opened itself without prompting... When the trap door opens, the cartridge is ejected, and the system hangs. You've lost everything :(\nThe Basic is quite complete with useful statements. To do graphics you've got LINE (to draw a line), PSET (to draw points), BOX (to draw a box) and BOXF (to draw a filled box). You can also handle the lightpen with INPEN, INPUTPEN, PEN and ONPEN. The joystick states are read with STICK and STRIG. To do music, you have the PLAY statement, which has been Frenchised. To play the standard note sequence, you would type: PLAY \"DOREMIFASOLASI\"...\nAt the back of the computer, one can find 4 expansion slots protected by plastic caps. Three are identical and are used for common expansions like joystick, disk-drives, etc. The fourth one is used by the optional memory expansion. Another item you can't miss at the back of the TO 7 is the BIG heatsink! This thing is huge and was known to cut a lot :( So be careful when you handle a TO 7! It also gets hot fairly quickly, so don't get burn either (man, the TO 7 is dangerous!).\nThe first programs (mainly developped by Vifi-Nathan) where really bad, often written in Basic. They were essentialy boring educative games. Despite this bad point, the TO-7 did well thanks to the French National Education who bought a lot of systems to the nationalised Thomson company... And in 1984, the TO-7 was replaced with the <a href=\"computer.asp?c=643\">TO-7/70</a> (in fact the TO-7 continued to be sold too for a short time) which corrected the main weaknesses of its little brother."
     },
     "Thomson TO7-70": {
         "id": "Thomson TO7-70",
@@ -30510,7 +30653,8 @@
                 "643"
             ]
         },
-        "date": "1982"
+        "date": "1982",
+        "description": "The <b>TO-7/70</b> was presented alongside the <a href=\"computer.asp?c=12\">MO5</a>, in march 1984. While the MO-5 represents a small break into the <a href=\"computer.asp?c=11\">TO-7</a> philosophy, the TO-7/70 follows and enhances the TO-7 features.\nThe case of the TO-7/70 is almost the same as the TO-7 one : roughly triangular with sharp edges. The keyboard, though made of rubber keys, is an improvement over the flat membrane keyboard of the TO-7. The keyboard layout is AZERTY which is normal as the TO-7/70 is a french system. Accentuated letters can directly be accessed by pressing the ACC key, followed by the desired key (6 for ?, 7 for ?, 8 for ?, 9 for ? and 0 for ?). There are also four arrow keys, INS to insert a space, EFF to delete the pointed character, STOP to pause a program, CNT to resume a program stoped and RAZ (remise ? z?ro) to clear the screen.\nThe light-pen introduced on the TO-7 has been improved on TO-7/70. While its resolution was only 40x200 on the TO-7 (one eighth of the horizontal range), it can now access every point of the screen, that is to say 320 x 200 pixels. \nThe expansion possibilities of the TO-7/70 are the same as the TO-7 : 3 expansion connectors for printers, disk-drives, game extension, etc. and 1 memory expansion slot. There is also still a tape-recorder intreface.\nThe main improvements over the TO-7 are :\n- better integration of the components on the main-board\n- a better keyboard (hmmmm, so they say)\n- more RAM (48 KB, instead of 22 KB)\n- a switch to lock the cartridge trap door, since it used to open randomly on the TO-7, rebooting the system and thus loosing all work in progress\n- more colours (16 instead of 8)\n- better light-pen precision\n- the infamous heat-sink at the back of the TO-7 has disapeared !\nThe TO-7 is upward compatible with the TO-7/70, i.e. software developped for the TO-7 can be used by the TO-7/70, but not the contrary... It also means that the MEMO7 cartridge format is still the same.\nAS for the MO-5, the TO-7/70 was quite popular in schools, as Thomson was the main supplier of the French National Education for the \"Informatique Pour Tous\" Plan. TO-7/70 (and MO5) were mainly used as terminals for the famous \"Nanor?seau\", an educational network, often piloted by a Logabax Persona 1600.\nA second model with better mechanical keyboard was released some months later, for christmas 1985 (see more pictures section). In fact this model was first sold as an exportation model along with the <a href=\"computer.asp?c=838\">MO5E</a>. They were both presented at the \"Hannover Messe\" (Germany) in april 1985. That explains why some rumours talked about a TO-7/70E model, but it was never called like this. It was exactly the same model sold later in France.\nThe TO-7/70 was finally replaced by the <a href=\"computer.asp?c=238\">TO-8 and TO-8D</a> in 1986."
     },
     "Thomson TO8": {
         "id": "Thomson TO8",
@@ -30578,7 +30722,8 @@
             "recalbox",
             "retroarch",
             "retroarch_theodore"
-        ]
+        ],
+        "description": "The Thomson TO 8 is the successor of the <a href=\"computer.asp?c=11\">Thomson TO 7/TO 7/70</a>. This machine was, like the <a href=\"computer.asp?c=12\">Thomson MO 5</a> very used in french schools. It was compatible with the TO 7 and the other members of its family (<a href=\"computer.asp?c=167\">Thomson MO 6</a>, <a href=\"computer.asp?c=239\">Thomson TO 9</a> and <a href=\"computer.asp?c=240\">Thomson TO 9 plus</a>). It has three basics on ROM : The Basic 1.0 of the TO7, The Basic 512 and the Basic DISK. Almost all memory (235 KB) was accessible with basic thanks to a transparent 16 KB bank switching mechanism and up to 17 programs can be loaded simultaneously in memory and it is possible to switch between them. An optional 3.5\" floppy disk drive (640 KB) was available.\nA new version of the TO 8 was launched few times after, the Thomson TO 8D, this computer had the same characteristics but had a built-in 3.5\" floppy disk drive."
     },
     "Thomson TO8, TO8D, TO9, TO9+": {
         "id": "Thomson TO8, TO8D, TO9, TO9+",
@@ -30622,7 +30767,9 @@
                 "240"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "The Thomson TO 8 is the successor of the <a href=\"computer.asp?c=11\">Thomson TO 7/TO 7/70</a>. This machine was, like the <a href=\"computer.asp?c=12\">Thomson MO 5</a> very used in french schools. It was compatible with the TO 7 and the other members of its family (<a href=\"computer.asp?c=167\">Thomson MO 6</a>, <a href=\"computer.asp?c=239\">Thomson TO 9</a> and <a href=\"computer.asp?c=240\">Thomson TO 9 plus</a>). It has three basics on ROM : The Basic 1.0 of the TO7, The Basic 512 and the Basic DISK. Almost all memory (235 KB) was accessible with basic thanks to a transparent 16 KB bank switching mechanism and up to 17 programs can be loaded simultaneously in memory and it is possible to switch between them. An optional 3.5\" floppy disk drive (640 KB) was available.\nA new version of the TO 8 was launched few times after, the Thomson TO 8D, this computer had the same characteristics but had a built-in 3.5\" floppy disk drive.",
+        "date": "1986"
     },
     "Tiger Electronics Game.com": {
         "id": "Tiger Electronics Game.com",
@@ -30961,7 +31108,9 @@
                 "337"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "This computer was partially compatible with the <a href=\"computer.asp?c=236\">Texas Instuments TI 99/4A</a>. It had almost the same characteristics, except its main CPU (TMS 9995 instead of the TMS 9900 for the TI 99/4A).\nThe two languages (GBASIC and Tomy Basic) were only available in UK and US computers. The Japanese computers didn't have the Tomy Basic (a TI-like Basic), but a \"nihongo basic\" using japanese characters and words, e.g. \"kake\" meant \"print\", \"moshi-naraba\" meant \"if-then\".\nThis computer, known under the name Pyuuta in Japan had no really success outside Japan. It was followed by the <a href=\"computer.asp?c=363\">Pyuuta Mark 2</a> and a game console called Pyuuta Jr one year later.\n<a href=\"doc.asp?c=337\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1983"
     },
     "Tomy Tutor & Pyuuta": {
         "id": "Tomy Tutor & Pyuuta",
@@ -31113,7 +31262,9 @@
                 "1313"
             ]
         },
-        "type": "Unknown"
+        "type": "Unknown",
+        "description": "This beautiful but obscure Japanese system was released in january 1978. It's basically a clone of the RCA Studio gaming system, one of the first videogame console of all time (released in january 1977).\nMade by Toshiba, this beauty was also based on the RCA 1802 micro-processor, and its video counterpart, the CDP 1861. However the main difference with the Studio II is that the Visicom 100 offers colour display thanks additional hardware.\nAnother nice difference, is that unlike the Studio II the Visicom comes with 2 beautiful joystick controllers.\nThe Visicom 100 has 5 built in games (Doodle, Patterns, Bowling, Freeway and Additions), just like the RCA Studio II.",
+        "date": "January 1978"
     },
     "Touch & Tell": {
         "id": "Touch & Tell",
@@ -31830,7 +31981,9 @@
                 "155"
             ]
         },
-        "type": "Computer"
+        "type": "Computer",
+        "description": "The Laser 200 / 210 was sold worldwide under different brands (Dick Smith, Texet, Salora, etc...). Maybe the most popular of these \"foreign models\" was the VZ-200 sold by Dick Smith Electronics.\nThe Laser 200 is the successor of the poor <a href=\"computer.asp?c=448\">Laser 110</a> and was followed by the Laser <a href=\"computer.asp?c=157\">310</a>.\nIt was a good choice if you wanted to buy a cheap computer for initiation.\n<a href=\"doc.asp?c=155\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "November 1983"
     },
     "VTech Laser 2001": {
         "id": "VTech Laser 2001",
@@ -31871,7 +32024,9 @@
                 "156"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "A very interesting and obscure system.\nThe Laser 3000 is compatible (software-wise only) with the <a href=\"computer.asp?c=68\">Apple II+</a> through emulation software.\nA Z80 card with CP/M 80 was available, as well as an Intel 8088 card.",
+        "date": "1983"
     },
     "VTech Laser 310": {
         "id": "VTech Laser 310",
@@ -31917,7 +32072,9 @@
                 "449"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "Technically the Laser 350 / 500 / 700 / 750 are completely different from the Laser 100 / 200 / 300 family and thus non compatible with them.\nAll 4 computers are nearly identical but the Laser 350 uses a Laser 300 case while the Laser 500 / 700 / 750 use a \"new\" case.\nThough the CPU is still a Z80A compatible one (the D780c from NEC), its capabilities are better.\nThere are now 6 graphical modes, ranging from 160 x 96 in 16 colors to 640 x 192 in 2 colors. The memory size is also bigger compared to the old series and ranges from 16K RAM for the Laser 350, to 128K RAM for the Laser 750. The Laser 500 and 700 have 64K.\n<a href=\"doc.asp?c=449\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1985"
     },
     "VTech Laser 500": {
         "id": "VTech Laser 500",
@@ -31937,7 +32094,9 @@
                 "449"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "Technically the Laser 350 / 500 / 700 / 750 are completely different from the Laser 100 / 200 / 300 family and thus non compatible with them.\nAll 4 computers are nearly identical but the Laser 350 uses a Laser 300 case while the Laser 500 / 700 / 750 use a \"new\" case.\nThough the CPU is still a Z80A compatible one (the D780c from NEC), its capabilities are better.\nThere are now 6 graphical modes, ranging from 160 x 96 in 16 colors to 640 x 192 in 2 colors. The memory size is also bigger compared to the old series and ranges from 16K RAM for the Laser 350, to 128K RAM for the Laser 750. The Laser 500 and 700 have 64K.\n<a href=\"doc.asp?c=449\"><img src=\"graphs/readmore.gif\" border=\"0\" vspace=\"4\"></a>",
+        "date": "1985"
     },
     "VTech Mobigo": {
         "id": "VTech Mobigo",
@@ -32753,7 +32912,9 @@
                 "444"
             ]
         },
-        "type": "Unknown"
+        "type": "Computer",
+        "description": "This is a classic <a href=\"computer.asp?c=90\">MSX 1</a> computer. It was also sold under the Daewoo brand. It's one of the few Korean MSX computers...\nIt has 64 KB RAM... Not much more to say !",
+        "date": "? 1984"
     },
     "ZAPiT Games Game Wave Family Entertainment System": {
         "id": "ZAPiT Games Game Wave Family Entertainment System",
