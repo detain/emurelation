@@ -199,7 +199,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "4do": {
         "id": "4do",
@@ -299,7 +299,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "64tass": {
         "id": "64tass",
@@ -516,7 +516,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "ace32": {
         "id": "ace32",
@@ -1107,7 +1107,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "alice32": {
         "id": "alice32",
@@ -1396,7 +1396,7 @@
         ],
         "shortDesc": "Altirra is a cycle accurate Atari 5200 emulator for Windows. Being cycle accurate means Altirra emulates the Atari5200 more accurately then traditional emulators.",
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "amiberry": {
         "id": "amiberry",
@@ -1610,7 +1610,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "apple1": {
         "id": "apple1",
@@ -1907,7 +1907,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "aprnes": {
         "id": "aprnes",
@@ -2090,7 +2090,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "arcade64": {
         "id": "arcade64",
@@ -2204,7 +2204,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "archie": {
         "id": "archie",
@@ -2255,7 +2255,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "arculator": {
         "id": "arculator",
@@ -2415,7 +2415,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "ares": {
         "id": "ares",
@@ -2554,7 +2554,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "arnold": {
         "id": "arnold",
@@ -2604,7 +2604,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "asap": {
         "id": "asap",
@@ -2642,7 +2642,7 @@
             }
         },
         "eol": false,
-        "type": "Utilities"
+        "type": "Miscellaneous"
     },
     "ascd": {
         "id": "ascd",
@@ -2937,7 +2937,7 @@
         ],
         "shortDesc": "Atari800 is one of the best Atari 5200 emulators available. Developed originally back in 1995, Atari800 offers support for all features of the Atari800.",
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "atari800winplus": {
         "id": "atari800winplus",
@@ -3047,7 +3047,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "atariplusplus": {
         "id": "atariplusplus",
@@ -3115,7 +3115,7 @@
         ],
         "shortDesc": "Atari++ is another cycle accurate Atari 5200 emulator. It was developed with the goal of emulating the Atari 5200 right down to its hardware bugs.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "atom": {
         "id": "atom",
@@ -3244,7 +3244,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "attractmode": {
         "id": "attractmode",
@@ -3446,7 +3446,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "batgba": {
         "id": "batgba",
@@ -3537,7 +3537,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "bem": {
         "id": "bem",
@@ -3587,7 +3587,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "bfmulator": {
         "id": "bfmulator",
@@ -3773,7 +3773,7 @@
         ],
         "shortDesc": "BGB is a Game Boy Color emulator that was designed to be used as a debugging tool as well as an emulator. BGB accurately emulates the GBC hardware alongside providing a powerful debugger making this emulator a solid choice.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "bizhawk": {
         "id": "bizhawk",
@@ -4094,7 +4094,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "bk": {
         "id": "bk",
@@ -4204,7 +4204,7 @@
         ],
         "shortDesc": "BlastEM is an extremely accurate SEGA Genesis emulator. Thanks to its accuracy, it has support for almost every Genesis game. BlastEM is heavily optimized and can run on weaker systems.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "bleem": {
         "id": "bleem",
@@ -4388,7 +4388,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "bloodswan": {
         "id": "bloodswan",
@@ -4511,7 +4511,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "bochs": {
         "id": "bochs",
@@ -4553,7 +4553,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "boycottadv": {
         "id": "boycottadv",
@@ -4695,7 +4695,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "bsnes-hd-beta": {
         "id": "bsnes-hd-beta",
@@ -4916,7 +4916,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "bws": {
         "id": "bws",
@@ -4966,7 +4966,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "bzsnes": {
         "id": "bzsnes",
@@ -5015,7 +5015,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "c4pc": {
         "id": "c4pc",
@@ -5234,7 +5234,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "caprice32": {
         "id": "caprice32",
@@ -5304,7 +5304,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "capricerpi": {
         "id": "capricerpi",
@@ -5465,7 +5465,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "cdiemulator": {
         "id": "cdiemulator",
@@ -5850,7 +5850,7 @@
         ],
         "shortDesc": "Cemu was a surprise Nintendo Wii U Emulator, and so far has been the most successful one, in just over a year it has gone form just being able to boot games to being able to run several games without any game breaking hitches.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "cen64": {
         "id": "cen64",
@@ -6196,7 +6196,7 @@
         ],
         "shortDesc": "Citra is a superb Nintendo 3DS Emulator that is already managing to emulate several Nintendo 3DS games. Development of Citra is moving quickly, with large increases in both speed and compatibility coming often.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "classic99": {
         "id": "classic99",
@@ -6410,7 +6410,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "cogwheel": {
         "id": "cogwheel",
@@ -6562,7 +6562,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "colem": {
         "id": "colem",
@@ -6660,7 +6660,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "coloremu": {
         "id": "coloremu",
@@ -6989,7 +6989,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "cpcem": {
         "id": "cpcem",
@@ -7393,7 +7393,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "creativision": {
         "id": "creativision",
@@ -7821,7 +7821,7 @@
         ],
         "shortDesc": "CXBX is one of the few Xbox emulators that have managed to succesfully run commercial Xbox games. It is currently one of the few remaining hopes of seeing the original Xbox fully emulated.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "cxbxreloaded": {
         "id": "cxbxreloaded",
@@ -8608,7 +8608,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "dcexel": {
         "id": "dcexel",
@@ -8659,7 +8659,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "dchector": {
         "id": "dchector",
@@ -8762,7 +8762,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "dcmo5": {
         "id": "dcmo5",
@@ -8865,7 +8865,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "dcvg5k": {
         "id": "dcvg5k",
@@ -8919,7 +8919,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "decaf": {
         "id": "decaf",
@@ -9026,7 +9026,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "demul": {
         "id": "demul",
@@ -9251,7 +9251,7 @@
         ],
         "shortDesc": "Demul is regarded as one of the best Dreamcast emulators available. Demul focusses on compatibility while making use of more modern rendering techniques such as using DirectX 11.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "desmume": {
         "id": "desmume",
@@ -9418,7 +9418,7 @@
         ],
         "shortDesc": "DeSmuME is one of the best NDS emulators around, managing to play the vast majority of games easily and without sacrificing performance, it is also the most portable Nintendo DS Emulators.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "dgen": {
         "id": "dgen",
@@ -9550,7 +9550,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "directvms": {
         "id": "directvms",
@@ -9672,7 +9672,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "dolphin": {
         "id": "dolphin",
@@ -10023,7 +10023,7 @@
         ],
         "shortDesc": "Dolphin successfully emulates almost every single game available on both the Nintendo Game Cube and the Nintendo Wii. It is the only Nintendo Wii emulator available and the best GameCube emulator one will be able to find, proving successful where many others fell flat.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "dolwin": {
         "id": "dolwin",
@@ -10087,7 +10087,7 @@
         ],
         "shortDesc": "Dolwin is the first ever GameCube emulator to be publicly released. it is open source and written in C. However sadly development stalled in 2005 and not a single new release has been seen since.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "dosbox": {
         "id": "dosbox",
@@ -10362,7 +10362,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "dosbox-sdl2": {
         "id": "dosbox-sdl2",
@@ -10451,7 +10451,7 @@
             "%BIN% %ROM%"
         ],
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "dpspemu": {
         "id": "dpspemu",
@@ -11108,7 +11108,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "dxbx": {
         "id": "dxbx",
@@ -11152,7 +11152,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "easyrpg-player": {
         "id": "easyrpg-player",
@@ -11436,7 +11436,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "elkulator": {
         "id": "elkulator",
@@ -11487,7 +11487,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "em7": {
         "id": "em7",
@@ -11819,7 +11819,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "emu": {
         "id": "emu",
@@ -11951,7 +11951,7 @@
             }
         },
         "eol": false,
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "emu64": {
         "id": "emu64",
@@ -12063,7 +12063,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "emu71": {
         "id": "emu71",
@@ -12318,7 +12318,7 @@
         ],
         "shortDesc": "emu7800 is an extremely capable and fast Atari 7800 emulator. It is able to run the vast majority of Atari 7800 games without any issues and is even available for Android.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "emukon": {
         "id": "emukon",
@@ -13070,7 +13070,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "ep32": {
         "id": "ep32",
@@ -13396,7 +13396,7 @@
         ],
         "shortDesc": "ePSXe is regarded as one of the best PS1 Emulators around thanks to its high compatibility and fast emulation speed. ePSXe manages to emulate almost every PSX Game available successfully.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "es-de": {
         "id": "es-de",
@@ -13683,7 +13683,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "fastz80": {
         "id": "fastz80",
@@ -13786,7 +13786,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "fba2x": {
         "id": "fba2x",
@@ -14305,7 +14305,7 @@
         ],
         "shortDesc": "FCEUX aims to be a bit of a jack of all trades. Offering accurate emulation alongside a set of useful debugging, rom-hacking tools and more .",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "feel": {
         "id": "feel",
@@ -14505,7 +14505,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "fnc": {
         "id": "fnc",
@@ -14583,7 +14583,7 @@
             }
         },
         "eol": false,
-        "type": "Calculators"
+        "type": "Calculator"
     },
     "free64": {
         "id": "free64",
@@ -14701,7 +14701,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "frodo": {
         "id": "frodo",
@@ -14876,7 +14876,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "funnymu": {
         "id": "funnymu",
@@ -15021,7 +15021,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "futurepinball": {
         "id": "futurepinball",
@@ -15167,7 +15167,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "gamecomemu": {
         "id": "gamecomemu",
@@ -15492,7 +15492,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "gearsystem": {
         "id": "gearsystem",
@@ -15568,7 +15568,7 @@
         ],
         "shortDesc": "GearSystem is a highly accurate SEGA Master System Emulator. GearSystem manages to emulate even undocumented features of the Master System, making it highly compatible.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "geepee32": {
         "id": "geepee32",
@@ -15789,7 +15789,7 @@
         ],
         "shortDesc": "Genesis Plus is a popular accurate SEGA Genesis emulator. It makes use of the MAME projects CPU and SOUND cores to help its emulation. It is regarded as one of the most accurate Genesis emulators.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "genieous": {
         "id": "genieous",
@@ -15849,7 +15849,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "gens": {
         "id": "gens",
@@ -16374,7 +16374,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "gens32": {
         "id": "gens32",
@@ -16532,7 +16532,7 @@
         ],
         "shortDesc": "Gens32 Surreal is a highly capable Sega Genesis emulator. It is regarded as one of the most well rounded Genesis emulators available and even has netplay capabilities.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "gensgs": {
         "id": "gensgs",
@@ -16785,7 +16785,7 @@
         ],
         "shortDesc": "GEST is a highly compatible and somewhat accurate Game Boy Color emulator that was built upon the Visual Boy Advance codebase. GEST improved upon the original VBA code by increasing the amount of features it emulated.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "gm2001": {
         "id": "gm2001",
@@ -17060,7 +17060,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "handy": {
         "id": "handy",
@@ -17257,7 +17257,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "hbmame": {
         "id": "hbmame",
@@ -17369,7 +17369,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "hhugboy": {
         "id": "hhugboy",
@@ -17716,7 +17716,7 @@
         ],
         "shortDesc": "higan is a relatively new emulator on the GBA scene, but like all projects run by Byuu the emulator aims to be as accurate as possible in its emulation of the GBA system.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "hola": {
         "id": "hola",
@@ -17906,7 +17906,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "hourglass": {
         "id": "hourglass",
@@ -18124,7 +18124,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "hpsx64": {
         "id": "hpsx64",
@@ -18174,7 +18174,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "ht1080z": {
         "id": "ht1080z",
@@ -18233,7 +18233,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "hu6280": {
         "id": "hu6280",
@@ -18279,7 +18279,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "hugo": {
         "id": "hugo",
@@ -18446,7 +18446,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "hyper64": {
         "id": "hyper64",
@@ -18575,7 +18575,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "ideas": {
         "id": "ideas",
@@ -18733,7 +18733,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "infovectrex": {
         "id": "infovectrex",
@@ -18778,7 +18778,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "ip6": {
         "id": "ip6",
@@ -19074,7 +19074,7 @@
         ],
         "shortDesc": "Jagulator was the very first publicly available Atari Jaguar emulator. Jagulator is capable of running most commercial Atari Jaguar games without any significant issues.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "javacpc": {
         "id": "javacpc",
@@ -19254,7 +19254,7 @@
         ],
         "shortDesc": "Jnes is a Windows and Android NES emulator developed by Jabo, one of the developers of Project 64.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "joyce": {
         "id": "joyce",
@@ -19324,7 +19324,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "jpcsp": {
         "id": "jpcsp",
@@ -19569,7 +19569,7 @@
         ],
         "shortDesc": "Jum52 is a reliable emulator for the Atari 5200 that is available on Windows and Linux. This emulator can run into issues with its collision detection, so its best to try other emulators first.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "jvz200": {
         "id": "jvz200",
@@ -19804,7 +19804,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "kat5200": {
         "id": "kat5200",
@@ -19942,7 +19942,7 @@
         ],
         "shortDesc": "Kat5200 is an advanced open-source Atari 5200 emulator. Unlike most Atari 5200 emulators, Kat5200 requires the Atari 5200’s BIOS to be able to function.",
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "kc85emu": {
         "id": "kc85emu",
@@ -19990,7 +19990,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "kcemu": {
         "id": "kcemu",
@@ -20518,7 +20518,7 @@
         ],
         "shortDesc": "KEGA Fusion is fantastic multi system emulator that has support for the SEGA Genesis. It is regarded as one of the best SEGA Genesis emulators available and has a wealth of extra functionality.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "kegs": {
         "id": "kegs",
@@ -20598,7 +20598,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "kegs32": {
         "id": "kegs32",
@@ -20844,7 +20844,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "klive": {
         "id": "klive",
@@ -20933,7 +20933,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "koyote": {
         "id": "koyote",
@@ -21241,7 +21241,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "luagb": {
         "id": "luagb",
@@ -21309,7 +21309,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "ludo": {
         "id": "ludo",
@@ -21501,7 +21501,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "makaronex": {
         "id": "makaronex",
@@ -22062,7 +22062,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "medgui-reborn": {
         "id": "medgui-reborn",
@@ -22094,7 +22094,7 @@
             }
         },
         "eol": false,
-        "type": "Frontends"
+        "type": "Frontend"
     },
     "mednafen": {
         "id": "mednafen",
@@ -22287,7 +22287,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "mednaffe": {
         "id": "mednaffe",
@@ -22390,7 +22390,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "mega8": {
         "id": "mega8",
@@ -22596,7 +22596,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "melonds": {
         "id": "melonds",
@@ -22670,7 +22670,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "mercury": {
         "id": "mercury",
@@ -22922,7 +22922,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "mesen-s": {
         "id": "mesen-s",
@@ -22960,7 +22960,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "mesen-sx": {
         "id": "mesen-sx",
@@ -23646,7 +23646,7 @@
         ],
         "shortDesc": "mGBA while being a new GBA emulator to hit the web is one of the best, built with portability, speed and accuracy in mind its quickly propped itself up as a GBA emulator to look out for.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "micro64": {
         "id": "micro64",
@@ -23706,7 +23706,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "minimon": {
         "id": "minimon",
@@ -23814,7 +23814,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "minus4": {
         "id": "minus4",
@@ -23863,7 +23863,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "model2emu": {
         "id": "model2emu",
@@ -24073,7 +24073,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "modeler": {
         "id": "modeler",
@@ -24350,7 +24350,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "mupen64plusplus": {
         "id": "mupen64plusplus",
@@ -24569,7 +24569,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "mz700win": {
         "id": "mz700win",
@@ -24769,7 +24769,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "nanowasp": {
         "id": "nanowasp",
@@ -25345,7 +25345,7 @@
         ],
         "shortDesc": "Nemulator is regarded as one of the best NES emulators around. Nemulator offers support for almost all of the NES’s features including undocumented and unofficial features.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "neocdsdl": {
         "id": "neocdsdl",
@@ -25570,7 +25570,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "nesemu": {
         "id": "nesemu",
@@ -25698,7 +25698,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "nesticle": {
         "id": "nesticle",
@@ -25745,7 +25745,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "nestopia": {
         "id": "nestopia",
@@ -25925,7 +25925,7 @@
         ],
         "shortDesc": "Nestopia is a highly optemized, cycle accurate emulator for the NES. Thanks to Nestopia’s cycle based emulation it offers near 100% compatiblity with every NES game.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "neusnem": {
         "id": "neusnem",
@@ -26185,7 +26185,7 @@
         ],
         "shortDesc": "Nintendulator aims to be a hardware accurate NES emulator. Nintendulator manages to even emulate odd quirks of the NES hardware that others often neglect to handle properly.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "nintendulator-nrs": {
         "id": "nintendulator-nrs",
@@ -26264,7 +26264,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "nnnesterj": {
         "id": "nnnesterj",
@@ -26374,7 +26374,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "noc64": {
         "id": "noc64",
@@ -26443,7 +26443,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "nocpc": {
         "id": "nocpc",
@@ -26706,7 +26706,7 @@
         ],
         "shortDesc": "no$gba is one of if not the best Nintendo DS Emulator available, is sadly Windows only but offers some of the best compatibility and performance available for NDS Emulators.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "nogmb": {
         "id": "nogmb",
@@ -26866,7 +26866,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "noods": {
         "id": "noods",
@@ -26981,7 +26981,7 @@
         ],
         "shortDesc": "No$PSX is a no thrills PSX emulator that doesn’t require a copy of the bios. It can run almost every PS1 game. The only downside to No$PSX is that if offers no enhancement features.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "nosns": {
         "id": "nosns",
@@ -27044,7 +27044,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "nostalgia": {
         "id": "nostalgia",
@@ -27109,7 +27109,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "nozx": {
         "id": "nozx",
@@ -27330,7 +27330,7 @@
         ],
         "shortDesc": "NullDC is a Dreamcast emulator that boasts a high compatibility rate and stable performance. It is a great Dreamcast emulator for those on Windows and Linux based systems.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "nulldcn": {
         "id": "nulldcn",
@@ -27427,7 +27427,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "ootake": {
         "id": "ootake",
@@ -27499,7 +27499,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "openbor": {
         "id": "openbor",
@@ -27568,7 +27568,7 @@
             "rom"
         ],
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "oricutron": {
         "id": "oricutron",
@@ -27675,7 +27675,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "oswan": {
         "id": "oswan",
@@ -27750,7 +27750,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "oswanu": {
         "id": "oswanu",
@@ -27909,7 +27909,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "pasofami": {
         "id": "pasofami",
@@ -27977,7 +27977,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "pc6001v": {
         "id": "pc6001v",
@@ -28039,7 +28039,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "pc6001vw": {
         "id": "pc6001vw",
@@ -28172,7 +28172,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "pc64": {
         "id": "pc64",
@@ -28435,7 +28435,7 @@
         ],
         "shortDesc": "PC Atari Emulator was one of the very first Atari 2600 emulators. It is a highly optimized emulator with a very easy to use interface.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "pcejin": {
         "id": "pcejin",
@@ -28528,7 +28528,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "pcsp": {
         "id": "pcsp",
@@ -28588,7 +28588,7 @@
         ],
         "shortDesc": "PCSP is a PSP emulator that is only really able to run homebrew applications. PCSP does not have enough development to be able to run commercial roms.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "pcsx": {
         "id": "pcsx",
@@ -28807,7 +28807,7 @@
         ],
         "shortDesc": "PCSX2 is the best available PlayStation 2 emulator. It boasts a high level of compatibility and features support for many of the more unique features of the PS2.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "pcsx2 legacy": {
         "id": "pcsx2 legacy",
@@ -28923,7 +28923,7 @@
         ],
         "shortDesc": "PCXS Reloaded is a popular open-source PSX emulator. PCSX Reloaded’s compatibility is on par with that of ePSXe and offers similar performance.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "pcsxrr": {
         "id": "pcsxrr",
@@ -29020,7 +29020,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "pegasus": {
         "id": "pegasus",
@@ -29274,7 +29274,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "phoenixemu": {
         "id": "phoenixemu",
@@ -29663,7 +29663,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "playguy": {
         "id": "playguy",
@@ -29819,7 +29819,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "pmd85": {
         "id": "pmd85",
@@ -29974,7 +29974,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "pom1": {
         "id": "pom1",
@@ -30033,7 +30033,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "potator": {
         "id": "potator",
@@ -30331,7 +30331,7 @@
         ],
         "shortDesc": "PPSSPP is one of the best PSP emulators around. It boasts a speedy core while retaining a tremendous compatibility rate, making PPSSPP the go-to emulator for PSP emulation.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "primehack": {
         "id": "primehack",
@@ -30563,7 +30563,7 @@
         ],
         "shortDesc": "Project 64 is probably the most famous of the Nintendo 64 Emulators, it has been around for an extremely long time and has done an amazing job at successfully emulating the Nintendo 64, while still being performance friendly.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "project64k": {
         "id": "project64k",
@@ -30753,7 +30753,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "project64k7e": {
         "id": "project64k7e",
@@ -30817,7 +30817,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "projecttempest": {
         "id": "projecttempest",
@@ -30981,7 +30981,7 @@
         ],
         "shortDesc": "Project Tempest was one of the very first Atari Jaguar emulators. It managed even successfully to emulate several commercial games completely.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "prosystem": {
         "id": "prosystem",
@@ -31078,7 +31078,7 @@
         ],
         "shortDesc": "ProSystem Emulator is an open-source and highly capable Atari 7800 emulator. ProSystem Emulator manages to emulate all known features of the Atari 7800.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "ps2emu": {
         "id": "ps2emu",
@@ -31414,7 +31414,7 @@
         ],
         "shortDesc": "pSX is a PlayStation 1 emulator that claims to emulate the PSX hardware fully. While not as developed as ePSXe or PCSX reloaded, it should offer decent compatibility.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "psxeven": {
         "id": "psxeven",
@@ -31527,7 +31527,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "psyke": {
         "id": "psyke",
@@ -31728,7 +31728,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "px68k": {
         "id": "px68k",
@@ -31777,7 +31777,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "ql2k": {
         "id": "ql2k",
@@ -32199,7 +32199,7 @@
         ],
         "shortDesc": "Rainbow was one of the first Atari 5200 emulators to be ported to macOS. It achieves compatiblity with the vast majority of Atari 5200 games.",
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "raine": {
         "id": "raine",
@@ -32383,7 +32383,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "recalbox": {
         "id": "recalbox",
@@ -32647,7 +32647,7 @@
             "%BIN% %ROM%"
         ],
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "redsquirrel": {
         "id": "redsquirrel",
@@ -32705,7 +32705,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "regen": {
         "id": "regen",
@@ -32777,7 +32777,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "reicast": {
         "id": "reicast",
@@ -32982,7 +32982,7 @@
             "%BIN% -L %CORE_RETROARCH%\\fuse_libretro.dll %ROM%"
         ],
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "retroarch_2048": {
         "id": "retroarch_2048",
@@ -37348,7 +37348,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "retropie": {
         "id": "retropie",
@@ -37600,7 +37600,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "rocknesx": {
         "id": "rocknesx",
@@ -37744,7 +37744,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "rpcemu": {
         "id": "rpcemu",
@@ -37921,7 +37921,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "rpcs3": {
         "id": "rpcs3",
@@ -38055,7 +38055,7 @@
         ],
         "shortDesc": "RCPS3 is the premiere PS3 emulator. It has managed to make considerable strides in emulating the complicated PS3 architecture and can now run several games without any significant hitches.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "rpix86": {
         "id": "rpix86",
@@ -38286,7 +38286,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "satourne": {
         "id": "satourne",
@@ -38806,7 +38806,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "sharpchip8": {
         "id": "sharpchip8",
@@ -38855,7 +38855,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "sheepshaver": {
         "id": "sheepshaver",
@@ -38910,7 +38910,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "shortwaves": {
         "id": "shortwaves",
@@ -39012,7 +39012,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "simh": {
         "id": "simh",
@@ -39182,7 +39182,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "snem": {
         "id": "snem",
@@ -39526,7 +39526,7 @@
         ],
         "shortDesc": "snes9x is one of the most popular and portable SNES emulators. Unlike higan, snes9x has a focus on achieving the best speeds possible making it a great alternative to higan if your computer can not handle the cycle-accurate emulation.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "snes9xrr": {
         "id": "snes9xrr",
@@ -39625,7 +39625,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "snesgt": {
         "id": "snesgt",
@@ -39674,7 +39674,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "softmac": {
         "id": "softmac",
@@ -40013,7 +40013,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "specemu": {
         "id": "specemu",
@@ -40388,7 +40388,7 @@
         ],
         "shortDesc": "SSF is regarded as one of the best available SEGA Saturn emulators for Windows. The emulator manages to emulate the vast majority of SEGA Saturn successfully.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "ssspsx": {
         "id": "ssspsx",
@@ -41502,7 +41502,7 @@
         ],
         "shortDesc": "Stella is an open-source Atari 2600 emulator. It is one of the only Atari 2600 emulators that have remained in active development and is the best emulator for the Atari 2600 available.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "stem": {
         "id": "stem",
@@ -41756,7 +41756,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "supergcube": {
         "id": "supergcube",
@@ -42710,7 +42710,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "uae4all": {
         "id": "uae4all",
@@ -42735,7 +42735,7 @@
             ]
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "uae4arm": {
         "id": "uae4arm",
@@ -42852,7 +42852,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "ubernes": {
         "id": "ubernes",
@@ -42920,7 +42920,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "ultimo": {
         "id": "ultimo",
@@ -43223,7 +43223,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "uoyabause": {
         "id": "uoyabause",
@@ -43353,7 +43353,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "vace": {
         "id": "vace",
@@ -43535,7 +43535,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "vbjin": {
         "id": "vbjin",
@@ -43781,7 +43781,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "vdos": {
         "id": "vdos",
@@ -43863,7 +43863,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "vecxgl": {
         "id": "vecxgl",
@@ -43974,7 +43974,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "vgba": {
         "id": "vgba",
@@ -44033,7 +44033,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "vic20emu": {
         "id": "vic20emu",
@@ -44083,7 +44083,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "vice": {
         "id": "vice",
@@ -44117,7 +44117,7 @@
             ]
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "vice x64sc accurate": {
         "id": "vice x64sc accurate",
@@ -44325,7 +44325,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "virtual98": {
         "id": "virtual98",
@@ -44771,7 +44771,7 @@
         ],
         "shortDesc": "Virtual Jaguar is the best Atari Jaguar emulator that is available. It offers the highest compatibility for the Atari Jaguar and can play numerous games without any issues.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "virtualmc10": {
         "id": "virtualmc10",
@@ -45072,7 +45072,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "virtuanes": {
         "id": "virtuanes",
@@ -45135,7 +45135,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "virtuanesplus": {
         "id": "virtuanesplus",
@@ -45186,7 +45186,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "visualboy": {
         "id": "visualboy",
@@ -45425,7 +45425,7 @@
         ],
         "shortDesc": "Visual Boy Advance is an open source emulator for the Game Boy, Game Boy Color and the Game Boy Advance. The emulator even goes as far to also offer emulation for the Super Game Boy and the Super Game Boy 2.",
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "visualboyadvance-m": {
         "id": "visualboyadvance-m",
@@ -45929,7 +45929,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "vzem": {
         "id": "vzem",
@@ -46902,7 +46902,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "winboycott": {
         "id": "winboycott",
@@ -47084,7 +47084,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "winkawaks": {
         "id": "winkawaks",
@@ -47552,7 +47552,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "winvice": {
         "id": "winvice",
@@ -48225,7 +48225,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "xebra": {
         "id": "xebra",
@@ -48311,7 +48311,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "xemu": {
         "id": "xemu",
@@ -48521,7 +48521,7 @@
         ],
         "shortDesc": "Xeon was an Xbox emulator that had the sole purpose of trying to emulate Halo on the PC successfully. While being able to get in-game, Xeon was never fast enough to be playable.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "xformer": {
         "id": "xformer",
@@ -48888,7 +48888,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "xmillenium": {
         "id": "xmillenium",
@@ -49137,7 +49137,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "xqemu": {
         "id": "xqemu",
@@ -49427,7 +49427,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "xroar coco 2 ntsc": {
         "id": "xroar coco 2 ntsc",
@@ -49709,7 +49709,7 @@
         ],
         "shortDesc": "Yabause is a popular SEGA Saturn emulator that is available on numerous different systems. While not as capable as the closed source SSF emulator, it is one of the easiest to use.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "yabaused": {
         "id": "yabaused",
@@ -49756,7 +49756,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "yage": {
         "id": "yage",
@@ -49858,7 +49858,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "yape": {
         "id": "yape",
@@ -50022,7 +50022,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "yapesdl": {
         "id": "yapesdl",
@@ -50167,7 +50167,7 @@
             }
         },
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "yuzu": {
         "id": "yuzu",
@@ -50454,7 +50454,7 @@
         ],
         "shortDesc": "z26 is a capable emulator for the Atari 2600 system. z26 makes use of an OpenGL rendering engine and supports and offers high compatibility for the system.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "z64k": {
         "id": "z64k",
@@ -50493,7 +50493,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "z80stealth": {
         "id": "z80stealth",
@@ -50551,7 +50551,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "zboy": {
         "id": "zboy",
@@ -50601,7 +50601,7 @@
             }
         },
         "eol": false,
-        "type": "Handhelds"
+        "type": "Handheld"
     },
     "zero": {
         "id": "zero",
@@ -50757,7 +50757,7 @@
             }
         },
         "eol": false,
-        "type": "Computers"
+        "type": "Computer"
     },
     "zinc": {
         "id": "zinc",
@@ -51089,7 +51089,7 @@
         ],
         "shortDesc": "zsnes is a SNES emulator that suffers from low accuracy when compared to higan and snes9x. Most of znes’s development focused on achieving portability and performance, with the bulk of the emulator being written in x86 assembly.",
         "eol": false,
-        "type": "Consoles"
+        "type": "Console"
     },
     "zxpoly": {
         "id": "zxpoly",
@@ -51395,6 +51395,6 @@
         ],
         "shortDesc": "1964 Emulator has now ceased active development, but was at one point regarded as one of the best Nintendo 64 Emulators around, making use of an extremely fast recompiler core that gave it an edge in performance.",
         "eol": true,
-        "type": "Consoles"
+        "type": "Console"
     }
 }
