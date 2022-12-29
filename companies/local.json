@@ -57,6 +57,9 @@
             ],
             "oldcomputers": [
                 "APF"
+            ],
+            "launchbox": [
+                "APF Electronics"
             ]
         },
         "platforms": [
@@ -119,6 +122,9 @@
             ],
             "recalbox": [
                 "Acorn"
+            ],
+            "launchbox": [
+                "Acorn Computers"
             ]
         },
         "platforms": [
@@ -347,7 +353,8 @@
                 "atari"
             ],
             "launchbox": [
-                "Atari"
+                "Atari",
+                "Atari Corporation"
             ],
             "oldcomputers": [
                 "Atari"
@@ -458,6 +465,9 @@
             ],
             "arrm": [
                 "Bally"
+            ],
+            "launchbox": [
+                "Bally, Astrovision"
             ]
         },
         "platforms": [
@@ -806,6 +816,9 @@
             ],
             "arrm": [
                 "Commodore"
+            ],
+            "launchbox": [
+                "Commodore International"
             ]
         },
         "platforms": [
@@ -937,6 +950,9 @@
         "matches": {
             "emucontrolcenter": [
                 "DEC"
+            ],
+            "arrm": [
+                "Digital Equipment Corporation"
             ]
         },
         "platforms": [
@@ -1034,6 +1050,9 @@
             ],
             "launchbox": [
                 "Dragon Data"
+            ],
+            "arrm": [
+                "Dargon Data"
             ]
         },
         "platforms": [
@@ -1177,6 +1196,9 @@
             ],
             "oldcomputers": [
                 "Emerson"
+            ],
+            "launchbox": [
+                "Emerson Radio"
             ]
         },
         "platforms": [
@@ -1200,6 +1222,9 @@
             ],
             "oldcomputers": [
                 "Enterprise"
+            ],
+            "launchbox": [
+                "Enterprise Computers"
             ]
         },
         "platforms": [
@@ -1219,6 +1244,12 @@
             ],
             "arrm": [
                 "Entex"
+            ],
+            "screenscraper": [
+                "Entex Industries, Inc"
+            ],
+            "launchbox": [
+                "Entex Industries"
             ]
         },
         "platforms": [
@@ -1337,6 +1368,9 @@
             ],
             "recalbox": [
                 "Fairchild"
+            ],
+            "launchbox": [
+                "Fairchild Semiconductor"
             ]
         },
         "platforms": [
@@ -1490,6 +1524,9 @@
         "name": "GamePark",
         "matches": {
             "emucontrolcenter": [
+                "Game Park"
+            ],
+            "launchbox": [
                 "Game Park"
             ]
         },
@@ -2176,7 +2213,8 @@
         "name": "Magnavox",
         "matches": {
             "launchbox": [
-                "Magnavox"
+                "Magnavox",
+                "Magnavox / Philips"
             ],
             "oldcomputers": [
                 "MAGNAVOX",
@@ -2208,6 +2246,9 @@
         "matches": {
             "oldcomputers": [
                 "Matra Hachette"
+            ],
+            "launchbox": [
+                "Matra, Hachette, & Tandy"
             ]
         },
         "platforms": [
@@ -2339,7 +2380,8 @@
                 "microsoft"
             ],
             "launchbox": [
-                "Microsoft"
+                "Microsoft",
+                "Microsoft Corporation"
             ],
             "screenscraper": [
                 "Microsoft"
@@ -2514,7 +2556,8 @@
                 "NEC"
             ],
             "launchbox": [
-                "NEC"
+                "NEC",
+                "NEC Home Electronics"
             ],
             "oldcomputers": [
                 "NEC"
@@ -2626,7 +2669,8 @@
                 "nintendo"
             ],
             "launchbox": [
-                "Nintendo"
+                "Nintendo",
+                "Nintendo R&D2"
             ],
             "oldcomputers": [
                 "Nintendo"
@@ -3216,6 +3260,9 @@
             ],
             "arrm": [
                 "Sammy"
+            ],
+            "launchbox": [
+                "Sammy Corporation"
             ]
         },
         "platforms": [
@@ -3260,7 +3307,8 @@
                 "sega"
             ],
             "launchbox": [
-                "Sega"
+                "Sega",
+                "Sega Enterprises"
             ],
             "oldcomputers": [
                 "Sega"
@@ -3357,7 +3405,8 @@
                 "Sharp"
             ],
             "launchbox": [
-                "Sharp"
+                "Sharp",
+                "Sharp Corporation"
             ],
             "oldcomputers": [
                 "Sharp"
@@ -3408,7 +3457,8 @@
                 "Sinclair Research"
             ],
             "launchbox": [
-                "Sinclair"
+                "Sinclair",
+                "Sinclair Research"
             ],
             "oldcomputers": [
                 "Sinclair"
@@ -3444,7 +3494,8 @@
                 "sony"
             ],
             "launchbox": [
-                "Sony"
+                "Sony",
+                "Sony Computer Entertainment"
             ],
             "oldcomputers": [
                 "Sony"
@@ -3482,6 +3533,9 @@
             ],
             "oldcomputers": [
                 "Sord"
+            ],
+            "launchbox": [
+                "Sord Computer Corporation"
             ]
         },
         "platforms": [
@@ -3542,6 +3596,9 @@
             ],
             "screenscraper": [
                 "Taito"
+            ],
+            "launchbox": [
+                "Taito Corporation"
             ]
         },
         "platforms": [
@@ -3610,6 +3667,9 @@
             ],
             "recalbox": [
                 "Tangerine"
+            ],
+            "launchbox": [
+                "Tangerine Computer Systems"
             ]
         },
         "platforms": [
@@ -3648,7 +3708,11 @@
     "Technosys": {
         "id": "Technosys",
         "name": "Technosys",
-        "matches": [],
+        "matches": {
+            "launchbox": [
+                "Technosys Research Labs"
+            ]
+        },
         "platforms": [
             "Technosys Aamber Pegasus"
         ]
@@ -4010,7 +4074,11 @@
     "VM-Labs": {
         "id": "VM-Labs",
         "name": "VM-Labs",
-        "matches": [],
+        "matches": {
+            "launchbox": [
+                "VM Labs"
+            ]
+        },
         "platforms": [
             "VM-Labs Nuon"
         ]
@@ -4025,7 +4093,8 @@
             ],
             "emucontrolcenter": [
                 "VTech",
-                "Vtech"
+                "Vtech",
+                "Video Technology"
             ],
             "launchbox": [
                 "VTech"
