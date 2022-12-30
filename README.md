@@ -35,15 +35,15 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [GameTDB](platforms/gametdb.json) | Website | 7 | 0 | 7 | 100% |
 | [EmulationKing](platforms/emulationking.json) | Website | 34 | 0 | 34 | 100% |
 | [Emutopia](platforms/emutopia.json) | Website | 143 | 32 | 175 | 81.7% |
-| [MAME](platforms/mame.json) | Emulator | 650 | 20 | 670 | 97% |
+| [MAME](platforms/mame.json) | Emulator | 649 | 28 | 677 | 95.9% |
 | [LaunchBox](platforms/launchbox.json) | Frontend | 183 | 0 | 183 | 100% |
 | [RetroBat](platforms/retrobat.json) | Frontend | 139 | 13 | 152 | 91.4% |
 | [EmulationStation-DE](platforms/emulationstation-de.json) | Frontend | 144 | 12 | 156 | 92.3% |
 | [RecalBox](platforms/recalbox.json) | Frontend | 105 | 21 | 126 | 83.3% |
 | [RetroPie](platforms/retropie.json) | Frontend | 80 | 2 | 82 | 97.6% |
-| [WinDSPro](platforms/windspro.json) | Frontend | 15 | 36 | 51 | 29.4% |
+| [WinDSPro](platforms/windspro.json) | Frontend | 41 | 10 | 51 | 80.4% |
 | [ARRM](platforms/arrm.json) | Tools | 224 | 51 | 275 | 81.5% |
-| [emuControlCenter](platforms/emucontrolcenter.json) | Tools | 178 | 19 | 197 | 90.4% |
+| [emuControlCenter](platforms/emucontrolcenter.json) | Tools | 183 | 14 | 197 | 92.9% |
 
 ### 💾 Emulators
 
@@ -52,9 +52,9 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | [Local](emulators/local.json) | Custom | 827 | 0 | 827 | 100% |
 | [ScreenScraper](emulators/screenscraper.json) | API | 4 | 0 | 4 | 100% |
 | [Old-Computers](emulators/oldcomputers.json) | Website | 149 | 317 | 466 | 32% |
-| [EmuCR](emulators/emucr.json) | Website | 340 | 2001 | 2341 | 14.5% |
+| [EmuCR](emulators/emucr.json) | Website | 340 | 1995 | 2335 | 14.6% |
 | [EmulationKing](emulators/emulationking.json) | Website | 96 | 0 | 96 | 100% |
-| [Emutopia](emulators/emutopia.json) | Website | 246 | 283 | 529 | 46.5% |
+| [Emutopia](emulators/emutopia.json) | Website | 249 | 280 | 529 | 47.1% |
 | [MAME](emulators/mame.json) | Emulator | 1 | 0 | 1 | 100% |
 | [LaunchBox](emulators/launchbox.json) | Frontend | 30 | 0 | 30 | 100% |
 | [RetroBat](emulators/retrobat.json) | Frontend | 0 | 0 | 0 | 0% |
@@ -70,13 +70,13 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
 | [Local](companies/local.json) | Custom | 312 | 0 | 312 | 100% |
-| [ScreenScraper](companies/screenscraper.json) | API | 52 | 4 | 56 | 92.9% |
+| [ScreenScraper](companies/screenscraper.json) | API | 53 | 3 | 56 | 94.6% |
 | [Old-Computers](companies/oldcomputers.json) | Website | 114 | 527 | 641 | 17.8% |
 | [EmulationKing](companies/emulationking.json) | Website | 5 | 0 | 5 | 100% |
-| [LaunchBox](companies/launchbox.json) | Frontend | 45 | 80 | 125 | 36% |
+| [LaunchBox](companies/launchbox.json) | Frontend | 70 | 55 | 125 | 56% |
 | [RecalBox](companies/recalbox.json) | Frontend | 31 | 22 | 53 | 58.5% |
-| [ARRM](companies/arrm.json) | Tools | 51 | 13 | 64 | 79.7% |
-| [emuControlCenter](companies/emucontrolcenter.json) | Tools | 76 | 22 | 98 | 77.6% |
+| [ARRM](companies/arrm.json) | Tools | 53 | 11 | 64 | 82.8% |
+| [emuControlCenter](companies/emucontrolcenter.json) | Tools | 77 | 21 | 98 | 78.6% |
 
 ### 🕹 Games
 
