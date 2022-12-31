@@ -14067,9 +14067,7 @@
             ],
             "scoop-emulators": [
                 "fceux",
-                "fceux-dev",
-                "fceux-dev1",
-                "fceux-dev2"
+                "fceux-dev"
             ],
             "emutopia": [
                 354
@@ -50194,7 +50192,6 @@
             ],
             "scoop-emulators": [
                 "yuzu",
-                "yuzu-dev",
                 "yuzu-pineapple"
             ],
             "emucr": [
