@@ -978,7 +978,7 @@
     "sega_beena_cart": {
         "id": "sega_beena_cart",
         "shortName": "sega_beena_cart",
-        "name": "Sega Beena Cartridges",
+        "name": "Sega Beena cartridges",
         "altNames": [
             "Sega Beena"
         ]
@@ -1658,7 +1658,7 @@
     "digiblast_cart": {
         "id": "digiblast_cart",
         "shortName": "digiblast_cart",
-        "name": "Nikko Entertainment B.V. / Grey Innovation digiBLAST Cartridges",
+        "name": "Nikko Entertainment B.V. / Grey Innovation digiBLAST cartridges",
         "altNames": [
             "Nikko Entertainment B.V. / Grey Innovation digiBLAST"
         ]
@@ -2335,12 +2335,20 @@
             "HP Integral PC"
         ]
     },
-    "hp9825b_rom": {
-        "id": "hp9825b_rom",
-        "shortName": "hp9825b_rom",
-        "name": "HP 9825B Option ROMs",
+    "hp9825_rom": {
+        "id": "hp9825_rom",
+        "shortName": "hp9825_rom",
+        "name": "HP 9825 Option ROMs",
         "altNames": [
-            "HP 9825B"
+            "HP 9825"
+        ]
+    },
+    "hp9831_rom": {
+        "id": "hp9831_rom",
+        "shortName": "hp9831_rom",
+        "name": "HP 9831 Option ROMs",
+        "altNames": [
+            "HP 9831"
         ]
     },
     "hp9835a_rom": {
@@ -3175,6 +3183,14 @@
             "Fidelity MSC"
         ]
     },
+    "mk14_quik": {
+        "id": "mk14_quik",
+        "shortName": "mk14_quik",
+        "name": "MK-14 quickloads",
+        "altNames": [
+            "MK-14"
+        ]
+    },
     "mephisto_mm1": {
         "id": "mephisto_mm1",
         "shortName": "mephisto_mm1",
@@ -3293,6 +3309,14 @@
         "name": "M&D Monon Color cartridges",
         "altNames": [
             "M&D Monon Color"
+        ]
+    },
+    "mpf1_rom": {
+        "id": "mpf1_rom",
+        "shortName": "mpf1_rom",
+        "name": "Micro-Professor 1 ROMs",
+        "altNames": [
+            "Micro-Professor 1"
         ]
     },
     "mpu1000": {
@@ -4495,6 +4519,14 @@
             "Specialist MX"
         ]
     },
+    "sprachmg": {
+        "id": "sprachmg",
+        "shortName": "sprachmg",
+        "name": "Gerät 32620 (Sprach/Morsegenerator) Speech Modules",
+        "altNames": [
+            "Gerät 32620 (Sprach/Morsegenerator) Speech"
+        ]
+    },
     "squale_cart": {
         "id": "squale_cart",
         "shortName": "squale_cart",
@@ -4546,7 +4578,7 @@
     "vtech_storio_cart": {
         "id": "vtech_storio_cart",
         "shortName": "vtech_storio_cart",
-        "name": "VTech Storio V.Reader Cartridges",
+        "name": "VTech Storio V.Reader cartridges",
         "altNames": [
             "VTech Storio V.Reader"
         ]
@@ -4821,6 +4853,14 @@
         "name": "TourVisión (bootleg Arcade NEC PC-Engine) cartridges",
         "altNames": [
             "TourVisión (bootleg Arcade NEC PC-Engine)"
+        ]
+    },
+    "triton_rom": {
+        "id": "triton_rom",
+        "shortName": "triton_rom",
+        "name": "Transam Triton ROMs",
+        "altNames": [
+            "Transam Triton"
         ]
     },
     "trs80m2": {
@@ -5309,6 +5349,22 @@
         "name": "Sinclair ZX Wafadrive tapes/cartridges",
         "altNames": [
             "Sinclair ZX Wafadrive"
+        ]
+    },
+    "msx1_bee_card": {
+        "id": "msx1_bee_card",
+        "shortName": "msx1_bee_card",
+        "name": "MSX1 Hudson Soft Bee Cards",
+        "altNames": [
+            "MSX1 Hudson Soft Bee Cards"
+        ]
+    },
+    "msx_softcard": {
+        "id": "msx_softcard",
+        "shortName": "msx_softcard",
+        "name": "MSX1 Astron SoftCards",
+        "altNames": [
+            "MSX1 Astron SoftCards"
         ]
     },
     "msx1_flop_525": {
