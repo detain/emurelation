@@ -103,6 +103,10 @@
         "id": "86Box",
         "name": "86Box"
     },
+    "86box4crt": {
+        "id": "86Box4crt",
+        "name": "86Box4crt"
+    },
     "@ruantec_pcsx2_pnach_generator": {
         "id": "@ruantec PCSX2 Pnach Generator",
         "name": "@ruantec PCSX2 Pnach Generator"
@@ -519,6 +523,10 @@
         "id": "BasiliskII for Vita",
         "name": "BasiliskII for Vita"
     },
+    "basinc": {
+        "id": "BasinC",
+        "name": "BasinC"
+    },
     "bassnes": {
         "id": "BassNES",
         "name": "BassNES"
@@ -554,6 +562,10 @@
     "big_blue": {
         "id": "Big Blue",
         "name": "Big Blue"
+    },
+    "bigpemu": {
+        "id": "BigPEmu",
+        "name": "BigPEmu"
     },
     "binjgb": {
         "id": "binjgb",
@@ -1027,6 +1039,10 @@
         "id": "CLK",
         "name": "CLK"
     },
+    "cloudpilotemu": {
+        "id": "CloudpilotEmu",
+        "name": "CloudpilotEmu"
+    },
     "clr-dev9": {
         "id": "CLR-DEV9",
         "name": "CLR-DEV9"
@@ -1158,6 +1174,10 @@
     "ctftool_gui": {
         "id": "CTFtool GUI",
         "name": "CTFtool GUI"
+    },
+    "ctrlui": {
+        "id": "CtrlUI",
+        "name": "CtrlUI"
     },
     "cubesx_beta": {
         "id": "CubeSX Beta",
@@ -1314,6 +1334,10 @@
     "denise": {
         "id": "Denise",
         "name": "Denise"
+    },
+    "desmumar": {
+        "id": "DeSmuMAR",
+        "name": "DeSmuMAR"
     },
     "desmume": {
         "id": "DeSmuME",
@@ -1987,6 +2011,10 @@
         "id": "DOSee",
         "name": "DOSee"
     },
+    "dospanel": {
+        "id": "DosPanel",
+        "name": "DosPanel"
+    },
     "dosshell": {
         "id": "DosShell",
         "name": "DosShell"
@@ -2414,6 +2442,10 @@
     "eraseme": {
         "id": "EraseMe",
         "name": "EraseMe"
+    },
+    "erockus_arcade": {
+        "id": "Erockus Arcade",
+        "name": "Erockus Arcade"
     },
     "es-de": {
         "id": "ES-DE",
@@ -2915,6 +2947,10 @@
         "id": "GameLoader ALL RH",
         "name": "GameLoader ALL RH"
     },
+    "gameroy": {
+        "id": "GameRoy",
+        "name": "GameRoy"
+    },
     "gameyob": {
         "id": "GameYob",
         "name": "GameYob"
@@ -2978,6 +3014,10 @@
     "gearboy_jailbreak": {
         "id": "Gearboy jailbreak",
         "name": "Gearboy jailbreak"
+    },
+    "gearcoleco": {
+        "id": "Gearcoleco",
+        "name": "Gearcoleco"
     },
     "gearsystem": {
         "id": "GearSystem",
@@ -3154,6 +3194,10 @@
     "glitch64_hwfbe_fixes": {
         "id": "Glitch64 HWFBE_Fixes",
         "name": "Glitch64 HWFBE_Fixes"
+    },
+    "glumsak": {
+        "id": "GlumSak",
+        "name": "GlumSak"
     },
     "gnome_video_arcade": {
         "id": "GNOME Video Arcade",
@@ -3335,6 +3379,10 @@
         "id": "HackMii Installer",
         "name": "HackMii Installer"
     },
+    "hades": {
+        "id": "Hades",
+        "name": "Hades"
+    },
     "hakchi2": {
         "id": "hakchi2",
         "name": "hakchi2"
@@ -3402,6 +3450,10 @@
     "heig-boy": {
         "id": "Heig-Boy",
         "name": "Heig-Boy"
+    },
+    "helios32x": {
+        "id": "Helios32x",
+        "name": "Helios32x"
     },
     "hermes_cfw": {
         "id": "Hermes CFW",
@@ -3539,6 +3591,10 @@
         "id": "IaMame",
         "name": "IaMame"
     },
+    "ibmulator": {
+        "id": "IBMulator",
+        "name": "IBMulator"
+    },
     "ice64": {
         "id": "ICE64",
         "name": "ICE64"
@@ -3574,6 +3630,10 @@
     "injectiine": {
         "id": "Injectiine",
         "name": "Injectiine"
+    },
+    "inkspector": {
+        "id": "InkSpector",
+        "name": "InkSpector"
     },
     "insomnia": {
         "id": "Insomnia",
@@ -3642,6 +3702,10 @@
     "jace": {
         "id": "JACE",
         "name": "JACE"
+    },
+    "jadenes": {
+        "id": "JadeNES",
+        "name": "JadeNES"
     },
     "jagulator": {
         "id": "Jagulator",
@@ -4022,6 +4086,10 @@
     "liteips": {
         "id": "LiteIPS",
         "name": "LiteIPS"
+    },
+    "lnxspectrum": {
+        "id": "LnxSpectrum",
+        "name": "LnxSpectrum"
     },
     "logiqx_update!": {
         "id": "Logiqx update!",
@@ -4507,6 +4575,10 @@
         "id": "MAMEUI Aircraft Edition!",
         "name": "MAMEUI Aircraft Edition!"
     },
+    "mameui_classic": {
+        "id": "MAMEUI Classic",
+        "name": "MAMEUI Classic"
+    },
     "mameui_icon_pack": {
         "id": "MameUI Icon Pack",
         "name": "MameUI Icon Pack"
@@ -4731,6 +4803,10 @@
         "id": "melonDS",
         "name": "melonDS"
     },
+    "melonds-ps2_alpha": {
+        "id": "melonDS-PS2 Alpha",
+        "name": "melonDS-PS2 Alpha"
+    },
     "melondsi": {
         "id": "melonDSi",
         "name": "melonDSi"
@@ -4754,6 +4830,10 @@
     "mesen-x": {
         "id": "Mesen-X",
         "name": "Mesen-X"
+    },
+    "mesen2": {
+        "id": "Mesen2",
+        "name": "Mesen2"
     },
     "mess": {
         "id": "MESS",
@@ -5047,6 +5127,10 @@
         "id": "MuppyGUI",
         "name": "MuppyGUI"
     },
+    "mutsu": {
+        "id": "Mutsu",
+        "name": "Mutsu"
+    },
     "mxui": {
         "id": "MxUI",
         "name": "MxUI"
@@ -5215,6 +5299,10 @@
         "id": "NeoCD/SDL",
         "name": "NeoCD/SDL"
     },
+    "neocd_rx": {
+        "id": "NeoCD RX",
+        "name": "NeoCD RX"
+    },
     "neodroid": {
         "id": "NeoDroid",
         "name": "NeoDroid"
@@ -5242,6 +5330,10 @@
     "neon64menu": {
         "id": "NeoN64Menu",
         "name": "NeoN64Menu"
+    },
+    "neon_back_to_life_preview-114": {
+        "id": "Neon Back to Life preview-114",
+        "name": "Neon Back to Life preview-114"
     },
     "neopop_sdl": {
         "id": "NeoPop SDL",
@@ -6287,6 +6379,10 @@
         "id": "Project64K Legacy",
         "name": "Project64K Legacy"
     },
+    "project64k_legacy_smashremix": {
+        "id": "Project64K Legacy SmashRemix",
+        "name": "Project64K Legacy SmashRemix"
+    },
     "project64k_stable_version": {
         "id": "Project64k Stable Version",
         "name": "Project64k Stable Version"
@@ -6330,6 +6426,14 @@
     "prxencrypter_by_bbtgp": {
         "id": "PrxEncrypter by bbtgp",
         "name": "PrxEncrypter by bbtgp"
+    },
+    "ps2_cheats_pack_(numbers-r)": {
+        "id": "PS2 Cheats pack (Numbers-R)",
+        "name": "PS2 Cheats pack (Numbers-R)"
+    },
+    "ps2_cheats_pack_(numbers-s)": {
+        "id": "PS2 Cheats pack (Numbers-S)",
+        "name": "PS2 Cheats pack (Numbers-S)"
     },
     "ps2_cheats_pack_numbers-k": {
         "id": "PS2 Cheats Pack Numbers-K",
@@ -6478,6 +6582,10 @@
     "ps4emx_poc_alpha": {
         "id": "PS4EMX POC Alpha",
         "name": "PS4EMX POC Alpha"
+    },
+    "psarcade_classic+": {
+        "id": "PSArcade Classic+",
+        "name": "PSArcade Classic+"
     },
     "psfx": {
         "id": "PSFx",
@@ -6891,6 +6999,10 @@
         "id": "ResidualVM",
         "name": "ResidualVM"
     },
+    "retro_virtual_machine": {
+        "id": "Retro Virtual Machine",
+        "name": "Retro Virtual Machine"
+    },
     "retroarch": {
         "id": "RetroArch",
         "name": "RetroArch"
@@ -7098,6 +7210,10 @@
     "ryujinx": {
         "id": "Ryujinx",
         "name": "Ryujinx"
+    },
+    "ryusak": {
+        "id": "RyuSAK",
+        "name": "RyuSAK"
     },
     "s-emu": {
         "id": "S-EMu",
@@ -7891,6 +8007,10 @@
         "id": "SuperTux Wii",
         "name": "SuperTux Wii"
     },
+    "supraclient": {
+        "id": "Supraclient",
+        "name": "Supraclient"
+    },
     "surreal64_ce": {
         "id": "Surreal64 CE",
         "name": "Surreal64 CE"
@@ -7910,6 +8030,10 @@
     "surreal64ce_b6.1_beta": {
         "id": "Surreal64CE B6.1 Beta",
         "name": "Surreal64CE B6.1 Beta"
+    },
+    "swan": {
+        "id": "Swan",
+        "name": "Swan"
     },
     "swine": {
         "id": "Swine",
@@ -8050,6 +8174,10 @@
     "totally_n64": {
         "id": "Totally N64",
         "name": "Totally N64"
+    },
+    "touchhle": {
+        "id": "touchHLE",
+        "name": "touchHLE"
     },
     "tr64": {
         "id": "TR64",
@@ -8203,6 +8331,10 @@
         "id": "uNGP",
         "name": "uNGP"
     },
+    "unipcemu": {
+        "id": "UniPCemu",
+        "name": "UniPCemu"
+    },
     "universe_bios": {
         "id": "Universe Bios",
         "name": "Universe Bios"
@@ -8290,6 +8422,10 @@
     "usrcheatup": {
         "id": "UsrCheatUp",
         "name": "UsrCheatUp"
+    },
+    "v41r9i": {
+        "id": "V41R9I",
+        "name": "V41R9I"
     },
     "v9t9": {
         "id": "V9t9",
@@ -8575,6 +8711,10 @@
         "id": "Vita3K",
         "name": "Vita3K"
     },
+    "vita3k-android": {
+        "id": "Vita3K-Android",
+        "name": "Vita3K-Android"
+    },
     "vjoy": {
         "id": "vJoy",
         "name": "vJoy"
@@ -8690,6 +8830,10 @@
     "wiirtual_boy_prerelease": {
         "id": "Wiirtual Boy Prerelease",
         "name": "Wiirtual Boy Prerelease"
+    },
+    "wiistation": {
+        "id": "WiiStation",
+        "name": "WiiStation"
     },
     "wiisx_beta": {
         "id": "WiiSX Beta",
@@ -9330,6 +9474,10 @@
     "zxds": {
         "id": "ZXDS",
         "name": "ZXDS"
+    },
+    "zxian": {
+        "id": "zxian",
+        "name": "zxian"
     },
     "zxmak.net": {
         "id": "ZXMAK.NET",
