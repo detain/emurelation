@@ -49,10 +49,10 @@ The mapping data will consist of IDs and names while intentionally avoiding data
 
 | Source | Type | Mapped | Unmapped | Total | Mapped % |
 |-|-|-|-|-|-|
-| [Local](emulators/local.json) | Custom | 827 | 0 | 827 | 100% |
+| [Local](emulators/local.json) | Custom | 3070 | 0 | 3070 | 100% |
 | [ScreenScraper](emulators/screenscraper.json) | API | 4 | 0 | 4 | 100% |
 | [Old-Computers](emulators/oldcomputers.json) | Website | 149 | 317 | 466 | 32% |
-| [EmuCR](emulators/emucr.json) | Website | 340 | 1995 | 2335 | 14.6% |
+| [EmuCR](emulators/emucr.json) | Website | 2616 | 3 | 2619 | 99.9% |
 | [EmulationKing](emulators/emulationking.json) | Website | 96 | 0 | 96 | 100% |
 | [Emutopia](emulators/emutopia.json) | Website | 249 | 280 | 529 | 47.1% |
 | [MAME](emulators/mame.json) | Emulator | 1 | 0 | 1 | 100% |

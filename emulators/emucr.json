@@ -3,10 +3,6 @@
         "id": "#CSpect",
         "name": "#CSpect"
     },
-    ".com_cleopatra_fortune_plus_dumped": {
-        "id": ".Com Cleopatra Fortune Plus Dumped",
-        "name": ".Com Cleopatra Fortune Plus Dumped"
-    },
     ".net_arcade_frontend": {
         "id": ".NET Arcade Frontend",
         "name": ".NET Arcade Frontend"
@@ -14,6 +10,10 @@
     "1802_emulator": {
         "id": "1802 Emulator",
         "name": "1802 Emulator"
+    },
+    "1964": {
+        "id": "1964",
+        "name": "1964"
     },
     "1964-x": {
         "id": "1964-X",
@@ -39,6 +39,10 @@
         "id": "1964Video",
         "name": "1964Video"
     },
+    "1984": {
+        "id": "1984",
+        "name": "1984"
+    },
     "2600.emu_for_android": {
         "id": "2600.emu for Android",
         "name": "2600.emu for Android"
@@ -46,6 +50,10 @@
     "360_screenshot_tool": {
         "id": "360 Screenshot Tool",
         "name": "360 Screenshot Tool"
+    },
+    "3beans": {
+        "id": "3Beans",
+        "name": "3Beans"
     },
     "3d_game_boy_emulator": {
         "id": "3D Game Boy Emulator",
@@ -71,10 +79,6 @@
         "id": "3dox",
         "name": "3dox"
     },
-    "3dox_alpha": {
-        "id": "3dox alpha",
-        "name": "3dox alpha"
-    },
     "6.20_tn-a_/_homebrew_enabler_(hen)": {
         "id": "6.20 TN-A / Homebrew Enabler (HEN)",
         "name": "6.20 TN-A / Homebrew Enabler (HEN)"
@@ -83,17 +87,25 @@
         "id": "6.20 TN-B / Homebrew Enabler (HEN)",
         "name": "6.20 TN-B / Homebrew Enabler (HEN)"
     },
+    "6.20_tn-c_/_homebrew_enabler_(hen)": {
+        "id": "6.20 TN-C / Homebrew Enabler (HEN)",
+        "name": "6.20 TN-C / Homebrew Enabler (HEN)"
+    },
     "6.20_tn-d_hen": {
         "id": "6.20 TN-D HEN",
         "name": "6.20 TN-D HEN"
     },
-    "6.20_tn-e_hen": {
-        "id": "6.20 TN-E HEN",
-        "name": "6.20 TN-E HEN"
+    "6.20_tn-e_fix": {
+        "id": "6.20 TN-E FIX",
+        "name": "6.20 TN-E FIX"
     },
     "6.39_tn-a_hen": {
         "id": "6.39 TN-A HEN",
         "name": "6.39 TN-A HEN"
+    },
+    "6.39_tn-a_hen_fixed": {
+        "id": "6.39 TN-A HEN Fixed",
+        "name": "6.39 TN-A HEN Fixed"
     },
     "8-bit_hits": {
         "id": "8-Bit Hits",
@@ -111,17 +123,13 @@
         "id": "@ruantec PCSX2 Pnach Generator",
         "name": "@ruantec PCSX2 Pnach Generator"
     },
-    "[xbox": {
-        "id": "[Xbox",
-        "name": "[Xbox"
-    },
     "a/nes_pro": {
         "id": "A/NES PRO",
         "name": "A/NES PRO"
     },
     "a5200ds": {
-        "id": "a5200DS",
-        "name": "a5200DS"
+        "id": "a5200ds",
+        "name": "a5200ds"
     },
     "a7800": {
         "id": "A7800",
@@ -135,17 +143,33 @@
         "id": "a7800DS2",
         "name": "a7800DS2"
     },
+    "a8ds": {
+        "id": "A8DS",
+        "name": "A8DS"
+    },
+    "a8e": {
+        "id": "A8E",
+        "name": "A8E"
+    },
     "abgx360": {
         "id": "abgx360",
         "name": "abgx360"
+    },
+    "ace-dl": {
+        "id": "ACE-DL",
+        "name": "ACE-DL"
     },
     "achtbit": {
         "id": "achtbit",
         "name": "achtbit"
     },
-    "acid": {
-        "id": "ACID",
-        "name": "ACID"
+    "acid_64_player": {
+        "id": "ACID 64 Player",
+        "name": "ACID 64 Player"
+    },
+    "adam+": {
+        "id": "ADAM+",
+        "name": "ADAM+"
     },
     "adamx": {
         "id": "AdamX",
@@ -155,9 +179,9 @@
         "id": "Adrenaline Bubble Manager",
         "name": "Adrenaline Bubble Manager"
     },
-    "adripsx_(beta)": {
-        "id": "AdriPSX (Beta)",
-        "name": "AdriPSX (Beta)"
+    "adripsx": {
+        "id": "AdriPSX",
+        "name": "AdriPSX"
     },
     "advancecomp": {
         "id": "AdvanceCOMP",
@@ -191,9 +215,9 @@
         "id": "AES4ALL",
         "name": "AES4ALL"
     },
-    "aethersx2": {
-        "id": "AetherSX2",
-        "name": "AetherSX2"
+    "aethersx2_for_andoird": {
+        "id": "AetherSX2 for Andoird",
+        "name": "AetherSX2 for Andoird"
     },
     "afba": {
         "id": "aFBA",
@@ -207,17 +231,13 @@
         "id": "AIPC",
         "name": "AIPC"
     },
+    "aira_force": {
+        "id": "Aira Force",
+        "name": "Aira Force"
+    },
     "airscan": {
         "id": "AirScan",
         "name": "AirScan"
-    },
-    "ajg's_mameography_-_hng64_wip": {
-        "id": "AJG's Mameography - HNG64 WIP",
-        "name": "AJG's Mameography - HNG64 WIP"
-    },
-    "ajg＇s_mameography:_slowin_it_down": {
-        "id": "AJG＇s MAMEography: Slowin It Down",
-        "name": "AJG＇s MAMEography: Slowin It Down"
     },
     "almostti": {
         "id": "AlmostTI",
@@ -226,6 +246,10 @@
     "aloader": {
         "id": "aLoader",
         "name": "aLoader"
+    },
+    "altair8800": {
+        "id": "Altair8800",
+        "name": "Altair8800"
     },
     "altirra": {
         "id": "Altirra",
@@ -242,6 +266,10 @@
     "amiberry": {
         "id": "Amiberry",
         "name": "Amiberry"
+    },
+    "amiberry-lite": {
+        "id": "Amiberry-Lite",
+        "name": "Amiberry-Lite"
     },
     "amicox": {
         "id": "AmiCoX",
@@ -275,21 +303,25 @@
         "id": "AminNes",
         "name": "AminNes"
     },
+    "ample": {
+        "id": "Ample",
+        "name": "Ample"
+    },
     "ampshell": {
         "id": "AmpShell",
         "name": "AmpShell"
     },
+    "amspirit": {
+        "id": "AMSpiriT",
+        "name": "AMSpiriT"
+    },
+    "amspirit_lite": {
+        "id": "AMSpiriT Lite",
+        "name": "AMSpiriT Lite"
+    },
     "andosbox_for_android": {
         "id": "AnDOSBox for Android",
         "name": "AnDOSBox for Android"
-    },
-    "andrew_mame_wip:_hng64": {
-        "id": "Andrew Mame WIP: HNG64",
-        "name": "Andrew Mame WIP: HNG64"
-    },
-    "andrew_mame_wip:_hng64_!!!": {
-        "id": "Andrew Mame WIP: HNG64 !!!",
-        "name": "Andrew Mame WIP: HNG64 !!!"
     },
     "androgens": {
         "id": "AndroGens",
@@ -299,9 +331,9 @@
         "id": "Android Emulator",
         "name": "Android Emulator"
     },
-    "andsemu": {
-        "id": "ANDSemu",
-        "name": "ANDSemu"
+    "andsemu_version_miraie-20": {
+        "id": "ANDSemu Version miraie-20",
+        "name": "ANDSemu Version miraie-20"
     },
     "anes": {
         "id": "ANES",
@@ -351,6 +383,10 @@
         "id": "Any-Yes",
         "name": "Any-Yes"
     },
+    "anyps5": {
+        "id": "AnyPS5",
+        "name": "AnyPS5"
+    },
     "apple_][js": {
         "id": "Apple ][js",
         "name": "Apple ][js"
@@ -362,6 +398,10 @@
     "aprnes": {
         "id": "AprNes",
         "name": "AprNes"
+    },
+    "aps3e": {
+        "id": "aPS3e",
+        "name": "aPS3e"
     },
     "aqemu": {
         "id": "AQEMU",
@@ -383,13 +423,17 @@
         "id": "ArcadeFlex",
         "name": "ArcadeFlex"
     },
+    "arcademanager": {
+        "id": "ArcadeManager",
+        "name": "ArcadeManager"
+    },
     "arcadepc_loader": {
         "id": "ArcadePC Loader",
         "name": "ArcadePC Loader"
     },
-    "arcadia_preview": {
-        "id": "Arcadia Preview",
-        "name": "Arcadia Preview"
+    "arcadia": {
+        "id": "Arcadia",
+        "name": "Arcadia"
     },
     "arcan": {
         "id": "Arcan",
@@ -415,6 +459,10 @@
         "id": "Aristotle Video Plugin",
         "name": "Aristotle Video Plugin"
     },
+    "arkad": {
+        "id": "arKad",
+        "name": "arKad"
+    },
     "arnimedes": {
         "id": "Arnimedes",
         "name": "Arnimedes"
@@ -427,6 +475,10 @@
         "id": "ASCD",
         "name": "ASCD"
     },
+    "ase": {
+        "id": "ASE",
+        "name": "ASE"
+    },
     "atari++": {
         "id": "Atari++",
         "name": "Atari++"
@@ -434,6 +486,10 @@
     "atari800": {
         "id": "Atari800",
         "name": "Atari800"
+    },
+    "atari800-3ds": {
+        "id": "Atari800-3DS",
+        "name": "Atari800-3DS"
     },
     "atari800_test": {
         "id": "Atari800 Test",
@@ -475,6 +531,10 @@
         "id": "Attract-Mode",
         "name": "Attract-Mode"
     },
+    "attract-mode_plus": {
+        "id": "Attract-Mode Plus",
+        "name": "Attract-Mode Plus"
+    },
     "audio_overload": {
         "id": "Audio Overload",
         "name": "Audio Overload"
@@ -490,6 +550,42 @@
     "avocado": {
         "id": "Avocado",
         "name": "Avocado"
+    },
+    "azahar": {
+        "id": "Azahar",
+        "name": "Azahar"
+    },
+    "azahar_2122": {
+        "id": "Azahar 2122",
+        "name": "Azahar 2122"
+    },
+    "azahar_2123": {
+        "id": "Azahar 2123",
+        "name": "Azahar 2123"
+    },
+    "azahar_2124": {
+        "id": "Azahar 2124",
+        "name": "Azahar 2124"
+    },
+    "azaharplus": {
+        "id": "AzaharPlus",
+        "name": "AzaharPlus"
+    },
+    "azaharplus_2121-a": {
+        "id": "AzaharPlus 2121-A",
+        "name": "AzaharPlus 2121-A"
+    },
+    "azaharplus_2122-a": {
+        "id": "AzaharPlus 2122-A",
+        "name": "AzaharPlus 2122-A"
+    },
+    "azaharplus_2123-a": {
+        "id": "AzaharPlus 2123-A",
+        "name": "AzaharPlus 2123-A"
+    },
+    "azaharx": {
+        "id": "AzaharX",
+        "name": "AzaharX"
     },
     "azimer's_hle_audio_plugin": {
         "id": "Azimer's HLE Audio Plugin",
@@ -511,9 +607,9 @@
         "id": "b2",
         "name": "b2"
     },
-    "basilisk_ii_for_windows_(build": {
-        "id": "Basilisk II for Windows (build",
-        "name": "Basilisk II for Windows (build"
+    "basilisk_ii_for_windows": {
+        "id": "Basilisk II for Windows",
+        "name": "Basilisk II for Windows"
     },
     "basiliskii": {
         "id": "BasiliskII",
@@ -534,6 +630,10 @@
     "batcat＇s_lle_rsp_plugin": {
         "id": "BatCat＇s LLE RSP Plugin",
         "name": "BatCat＇s LLE RSP Plugin"
+    },
+    "bebox_emulator": {
+        "id": "BeBox emulator",
+        "name": "BeBox emulator"
     },
     "bee": {
         "id": "Bee",
@@ -563,6 +663,10 @@
         "id": "Big Blue",
         "name": "Big Blue"
     },
+    "biginstinct": {
+        "id": "BigInstinct",
+        "name": "BigInstinct"
+    },
     "bigpemu": {
         "id": "BigPEmu",
         "name": "BigPEmu"
@@ -587,9 +691,9 @@
         "id": "BK Emulator",
         "name": "BK Emulator"
     },
-    "bkbtl_beta": {
-        "id": "BKBTL Beta",
-        "name": "BKBTL Beta"
+    "bkbtl": {
+        "id": "BKBTL",
+        "name": "BKBTL"
     },
     "blargsnes": {
         "id": "blargSNES",
@@ -627,9 +731,9 @@
         "id": "BlueMSXBox",
         "name": "BlueMSXBox"
     },
-    "bluestacks_app_player_beta": {
-        "id": "BlueStacks App Player Beta",
-        "name": "BlueStacks App Player Beta"
+    "bluestacks_app_player": {
+        "id": "BlueStacks App Player",
+        "name": "BlueStacks App Player"
     },
     "bochs": {
         "id": "Bochs",
@@ -646,6 +750,18 @@
     "bombjack_ds": {
         "id": "Bombjack DS",
         "name": "Bombjack DS"
+    },
+    "borked3ds": {
+        "id": "Borked3DS",
+        "name": "Borked3DS"
+    },
+    "bottles": {
+        "id": "Bottles",
+        "name": "Bottles"
+    },
+    "box64": {
+        "id": "Box64",
+        "name": "Box64"
     },
     "boxer": {
         "id": "Boxer",
@@ -679,9 +795,13 @@
         "id": "bsnes-classic",
         "name": "bsnes-classic"
     },
-    "bsnes-hd_beta": {
-        "id": "bsnes-hd beta",
-        "name": "bsnes-hd beta"
+    "bsnes-classic_6xbrz": {
+        "id": "bsnes-classic 6xBRZ",
+        "name": "bsnes-classic 6xBRZ"
+    },
+    "bsnes-hd": {
+        "id": "bsnes-hd",
+        "name": "bsnes-hd"
     },
     "bsnes-mcfly": {
         "id": "bsnes-mcfly",
@@ -691,29 +811,29 @@
         "id": "bsnes-mt",
         "name": "bsnes-mt"
     },
+    "bsnes-netplay": {
+        "id": "bsnes-netplay",
+        "name": "bsnes-netplay"
+    },
     "bsnes-plus": {
         "id": "bsnes-plus",
         "name": "bsnes-plus"
+    },
+    "bsnes-plus_6xbrz": {
+        "id": "bsnes-plus 6xBRZ",
+        "name": "bsnes-plus 6xBRZ"
     },
     "bsnes-sx2": {
         "id": "Bsnes-SX2",
         "name": "Bsnes-SX2"
     },
-    "bsnes_emulators": {
-        "id": "bsnes Emulators",
-        "name": "bsnes Emulators"
+    "bsnes_hd_mode_7_mod": {
+        "id": "bsnes HD Mode 7 mod",
+        "name": "bsnes HD Mode 7 mod"
     },
-    "bsnes_hd_mode": {
-        "id": "bsnes HD Mode",
-        "name": "bsnes HD Mode"
-    },
-    "bsnes_news_-_the_future_of_bsnes_(2010-10-19)": {
-        "id": "bsnes News - The Future of bsnes (2010-10-19)",
-        "name": "bsnes News - The Future of bsnes (2010-10-19)"
-    },
-    "bsnes_public_wip": {
-        "id": "bsnes Public WIP",
-        "name": "bsnes Public WIP"
+    "bsnes_public": {
+        "id": "bsnes Public",
+        "name": "bsnes Public"
     },
     "bsnes_shaders_pack": {
         "id": "bsnes Shaders Pack",
@@ -730,10 +850,6 @@
     "byuu": {
         "id": "byuu",
         "name": "byuu"
-    },
-    "byuu_nightly": {
-        "id": "byuu Nightly",
-        "name": "byuu Nightly"
     },
     "bzsnes": {
         "id": "bZSNES",
@@ -755,6 +871,18 @@
         "id": "C64 Forever",
         "name": "C64 Forever"
     },
+    "c64_forever_10": {
+        "id": "C64 Forever 10",
+        "name": "C64 Forever 10"
+    },
+    "c64_forever_2010": {
+        "id": "C64 Forever 2010",
+        "name": "C64 Forever 2010"
+    },
+    "c64_forever_9": {
+        "id": "C64 Forever 9",
+        "name": "C64 Forever 9"
+    },
     "c64_lover": {
         "id": "C64 Lover",
         "name": "C64 Lover"
@@ -763,9 +891,9 @@
         "id": "C64 MEMORIES",
         "name": "C64 MEMORIES"
     },
-    "c64emu_beta": {
-        "id": "C64EMU BETA",
-        "name": "C64EMU BETA"
+    "c64emu": {
+        "id": "C64EMU",
+        "name": "C64EMU"
     },
     "caanoo-cap32": {
         "id": "Caanoo-CAP32",
@@ -831,6 +959,14 @@
         "id": "Cemu",
         "name": "Cemu"
     },
+    "cemu_(ti-84_plus_ce)": {
+        "id": "CEmu",
+        "name": "CEmu"
+    },
+    "cemu_for_android": {
+        "id": "Cemu for Android",
+        "name": "Cemu for Android"
+    },
     "cemu_graphic_packs": {
         "id": "CEMU Graphic Packs",
         "name": "CEMU Graphic Packs"
@@ -871,6 +1007,10 @@
         "id": "CemUI",
         "name": "CemUI"
     },
+    "cemux": {
+        "id": "CemuX",
+        "name": "CemuX"
+    },
     "cen64": {
         "id": "Cen64",
         "name": "Cen64"
@@ -878,10 +1018,6 @@
     "cen64-qt": {
         "id": "CEN64-Qt",
         "name": "CEN64-Qt"
-    },
-    "cen64-qt_alpha": {
-        "id": "CEN64-Qt Alpha",
-        "name": "CEN64-Qt Alpha"
     },
     "cen64_front-end_for_windows": {
         "id": "CEN64 Front-end for Windows",
@@ -899,17 +1035,25 @@
         "id": "CHDman FE",
         "name": "CHDman FE"
     },
+    "chdman_simd": {
+        "id": "CHDMAN_SIMD",
+        "name": "CHDMAN_SIMD"
+    },
     "cheat_engine": {
         "id": "Cheat Engine",
         "name": "Cheat Engine"
     },
-    "chicky_woggy": {
-        "id": "Chicky Woggy",
-        "name": "Chicky Woggy"
+    "chicky_woggy_s4/1.01": {
+        "id": "Chicky Woggy S4/1.01",
+        "name": "Chicky Woggy S4/1.01"
     },
     "chicli": {
         "id": "ChiCLI",
         "name": "ChiCLI"
+    },
+    "chillygb": {
+        "id": "ChillyGB",
+        "name": "ChillyGB"
     },
     "chimp": {
         "id": "Chimp",
@@ -931,6 +1075,18 @@
         "id": "Chipper",
         "name": "Chipper"
     },
+    "chonkystation3": {
+        "id": "ChonkyStation3",
+        "name": "ChonkyStation3"
+    },
+    "chonkystation4": {
+        "id": "ChonkyStation4",
+        "name": "ChonkyStation4"
+    },
+    "cinoth_ciano＇s_ideas_plugin": {
+        "id": "Cinoth Ciano＇s iDeaS Plugin",
+        "name": "Cinoth Ciano＇s iDeaS Plugin"
+    },
     "citra": {
         "id": "Citra",
         "name": "Citra"
@@ -938,6 +1094,10 @@
     "citra_canary": {
         "id": "Citra Canary",
         "name": "Citra Canary"
+    },
+    "citra_enhanced": {
+        "id": "Citra Enhanced",
+        "name": "Citra Enhanced"
     },
     "citra_fix-memory-unaligned-reads": {
         "id": "Citra fix-memory-unaligned-reads",
@@ -970,6 +1130,10 @@
     "citra_loader-improvements": {
         "id": "Citra loader-improvements",
         "name": "Citra loader-improvements"
+    },
+    "citra_nightly-122": {
+        "id": "Citra nightly-122",
+        "name": "Citra nightly-122"
     },
     "citra_ogl-renderer": {
         "id": "Citra OGL-Renderer",
@@ -1011,6 +1175,18 @@
         "id": "Citra threading",
         "name": "Citra threading"
     },
+    "citron": {
+        "id": "Citron",
+        "name": "Citron"
+    },
+    "citron-neo": {
+        "id": "Citron-NEO",
+        "name": "Citron-NEO"
+    },
+    "citron_canary_refresh": {
+        "id": "Citron Canary Refresh",
+        "name": "Citron Canary Refresh"
+    },
     "ckmame": {
         "id": "ckmame",
         "name": "ckmame"
@@ -1022,10 +1198,6 @@
     "classic99x": {
         "id": "Classic99X",
         "name": "Classic99X"
-    },
-    "classicsegaonline.com": {
-        "id": "ClassicSegaOnline.com",
-        "name": "ClassicSegaOnline.com"
     },
     "clientservermame": {
         "id": "ClientServerMAME",
@@ -1043,21 +1215,45 @@
         "id": "CloudpilotEmu",
         "name": "CloudpilotEmu"
     },
+    "clownmdemu": {
+        "id": "clownmdemu",
+        "name": "clownmdemu"
+    },
     "clr-dev9": {
         "id": "CLR-DEV9",
         "name": "CLR-DEV9"
+    },
+    "clrmame": {
+        "id": "clrmame",
+        "name": "clrmame"
+    },
+    "clrmame_(scanner": {
+        "id": "clrmame (scanner",
+        "name": "clrmame (scanner"
     },
     "clrmamepro": {
         "id": "ClrMamePro",
         "name": "ClrMamePro"
     },
-    "clrmamepro_nightly_build": {
-        "id": "ClrMamePro Nightly Build",
-        "name": "ClrMamePro Nightly Build"
+    "cmd_play": {
+        "id": "cmd_play",
+        "name": "cmd_play"
     },
     "cocoamsx": {
         "id": "CocoaMSX",
         "name": "CocoaMSX"
+    },
+    "code-dmg": {
+        "id": "CODE-DMG",
+        "name": "CODE-DMG"
+    },
+    "code-dmg_(gui)": {
+        "id": "CODE-DMG (GUI)",
+        "name": "CODE-DMG (GUI)"
+    },
+    "coffee_gb": {
+        "id": "Coffee GB",
+        "name": "Coffee GB"
     },
     "cogwheel": {
         "id": "Cogwheel",
@@ -1099,9 +1295,9 @@
         "id": "Command.dat (non officiel)",
         "name": "Command.dat (non officiel)"
     },
-    "command.dat_(non_officiel)_(09.04.14)": {
-        "id": "Command.dat (non officiel) (09.04.14)",
-        "name": "Command.dat (non officiel) (09.04.14)"
+    "commodore_64_emulator": {
+        "id": "Commodore 64 Emulator",
+        "name": "Commodore 64 Emulator"
     },
     "common_source_code_project": {
         "id": "Common Source Code Project",
@@ -1119,9 +1315,17 @@
         "id": "CoolCV",
         "name": "CoolCV"
     },
+    "copperline": {
+        "id": "Copperline",
+        "name": "Copperline"
+    },
     "corgids": {
         "id": "CorgiDS",
         "name": "CorgiDS"
+    },
+    "cosmou": {
+        "id": "CosmoU",
+        "name": "CosmoU"
     },
     "cp/m_box": {
         "id": "CP/M Box",
@@ -1131,9 +1335,9 @@
         "id": "CpcAlive",
         "name": "CpcAlive"
     },
-    "cpcbox_beta": {
-        "id": "CPCBox Beta",
-        "name": "CPCBox Beta"
+    "cpcbox": {
+        "id": "CPCBox",
+        "name": "CPCBox"
     },
     "cpce": {
         "id": "CPCE",
@@ -1155,9 +1359,17 @@
         "id": "CrabEmu",
         "name": "CrabEmu"
     },
+    "craziiemu": {
+        "id": "CraziiEmu",
+        "name": "CraziiEmu"
+    },
     "creativision_emulator": {
         "id": "creatiVision emulator",
         "name": "creatiVision emulator"
+    },
+    "crossrunner": {
+        "id": "Crossrunner",
+        "name": "Crossrunner"
     },
     "crystalboy": {
         "id": "CrystalBoy",
@@ -1179,13 +1391,17 @@
         "id": "CtrlUI",
         "name": "CtrlUI"
     },
-    "cubesx_beta": {
-        "id": "CubeSX Beta",
-        "name": "CubeSX Beta"
+    "cube64_/_wii64": {
+        "id": "Cube64 / Wii64",
+        "name": "Cube64 / Wii64"
     },
-    "custom_ios38_rev17": {
-        "id": "Custom IOS38 rev17",
-        "name": "Custom IOS38 rev17"
+    "cubesx": {
+        "id": "CubeSX",
+        "name": "CubeSX"
+    },
+    "custom_ios38": {
+        "id": "Custom IOS38",
+        "name": "Custom IOS38"
     },
     "cutemupen": {
         "id": "CuteMupen",
@@ -1211,17 +1427,13 @@
         "id": "Cxbx Reloaded",
         "name": "Cxbx Reloaded"
     },
-    "cxbx_wip_news_-_more_on_virtua_cop": {
-        "id": "Cxbx WIP News - More on Virtua Cop",
-        "name": "Cxbx WIP News - More on Virtua Cop"
-    },
-    "cxbx_wip_news_-_virtua_cop": {
-        "id": "Cxbx WIP News - Virtua Cop",
-        "name": "Cxbx WIP News - Virtua Cop"
-    },
     "cxmb_for": {
         "id": "CXMB for",
         "name": "CXMB for"
+    },
+    "cytrus": {
+        "id": "Cytrus",
+        "name": "Cytrus"
     },
     "d-fend_reloaded": {
         "id": "D-Fend Reloaded",
@@ -1247,10 +1459,6 @@
         "id": "DaedalusX64-3DS",
         "name": "DaedalusX64-3DS"
     },
-    "daedalusx64_beta": {
-        "id": "DaedalusX64 Beta",
-        "name": "DaedalusX64 Beta"
-    },
     "daphne": {
         "id": "Daphne",
         "name": "Daphne"
@@ -1270,6 +1478,10 @@
     "dash-emu": {
         "id": "Dash-emu",
         "name": "Dash-emu"
+    },
+    "david_haywood＇s_mame(tm)": {
+        "id": "David Haywood＇s MAME(tm)",
+        "name": "David Haywood＇s MAME(tm)"
     },
     "dbgl": {
         "id": "DBGL",
@@ -1307,6 +1519,10 @@
         "id": "Decaf Launcher",
         "name": "Decaf Launcher"
     },
+    "deecy": {
+        "id": "Deecy",
+        "name": "Deecy"
+    },
     "dega": {
         "id": "Dega",
         "name": "Dega"
@@ -1327,9 +1543,9 @@
         "id": "Demul",
         "name": "Demul"
     },
-    "demul_ini_set_beta": {
-        "id": "Demul ini set Beta",
-        "name": "Demul ini set Beta"
+    "demul_ini_set": {
+        "id": "Demul ini set",
+        "name": "Demul ini set"
     },
     "denise": {
         "id": "Denise",
@@ -1375,9 +1591,17 @@
         "id": "DeSmuME Wii GCC-Update",
         "name": "DeSmuME Wii GCC-Update"
     },
+    "desmume_x432r": {
+        "id": "DeSmuME X432R",
+        "name": "DeSmuME X432R"
+    },
     "desmumex": {
         "id": "DesmumeX",
         "name": "DesmumeX"
+    },
+    "devector": {
+        "id": "Devector",
+        "name": "Devector"
     },
     "developing_for_ps3_part": {
         "id": "Developing for PS3 Part",
@@ -1411,6 +1635,10 @@
         "id": "Dioscuri",
         "name": "Dioscuri"
     },
+    "direlera-rs": {
+        "id": "direlera-rs",
+        "name": "direlera-rs"
+    },
     "dmgboy": {
         "id": "DMGBoy",
         "name": "DMGBoy"
@@ -1434,14 +1662,6 @@
     "dolphin-opencl": {
         "id": "Dolphin-OpenCL",
         "name": "Dolphin-OpenCL"
-    },
-    "dolphin-ps3_(gamecube/wii)_emulator_coming_to_ps3": {
-        "id": "Dolphin-PS3 (GameCube/Wii) emulator coming to PS3",
-        "name": "Dolphin-PS3 (GameCube/Wii) emulator coming to PS3"
-    },
-    "dolphin_alpha": {
-        "id": "Dolphin Alpha",
-        "name": "Dolphin Alpha"
     },
     "dolphin_android-trash": {
         "id": "Dolphin Android-trash",
@@ -1475,9 +1695,9 @@
         "id": "Dolphin bba",
         "name": "Dolphin bba"
     },
-    "dolphin_bi-weekly_unofficial_svn_build": {
-        "id": "Dolphin Bi-Weekly Unofficial SVN build",
-        "name": "Dolphin Bi-Weekly Unofficial SVN build"
+    "dolphin_bi-weekly_unofficial": {
+        "id": "Dolphin Bi-Weekly Unofficial",
+        "name": "Dolphin Bi-Weekly Unofficial"
     },
     "dolphin_bongo-recording": {
         "id": "Dolphin bongo-recording",
@@ -1598,10 +1818,6 @@
     "dolphin_hardwareaa": {
         "id": "Dolphin hardwareAA",
         "name": "Dolphin hardwareAA"
-    },
-    "dolphin_has_a_new_website": {
-        "id": "Dolphin has a new website",
-        "name": "Dolphin has a new website"
     },
     "dolphin_hashless": {
         "id": "Dolphin Hashless",
@@ -1783,10 +1999,6 @@
         "id": "Dolphin soundstream_cleanup",
         "name": "Dolphin soundstream_cleanup"
     },
-    "dolphin_svn": {
-        "id": "Dolphin SVN",
-        "name": "Dolphin SVN"
-    },
     "dolphin_tas-input": {
         "id": "Dolphin TAS-Input",
         "name": "Dolphin TAS-Input"
@@ -1846,6 +2058,10 @@
     "dolphin_videosoftware-savestates": {
         "id": "Dolphin VideoSoftware-savestates",
         "name": "Dolphin VideoSoftware-savestates"
+    },
+    "dolphin_vr_redux": {
+        "id": "Dolphin VR Redux",
+        "name": "Dolphin VR Redux"
     },
     "dolphin_wii-hid": {
         "id": "Dolphin wii-HID",
@@ -1923,6 +2139,10 @@
         "id": "Dolphinwx",
         "name": "Dolphinwx"
     },
+    "dolphinxr": {
+        "id": "DolphinXR",
+        "name": "DolphinXR"
+    },
     "dolwin": {
         "id": "Dolwin",
         "name": "Dolwin"
@@ -1947,10 +2167,6 @@
         "id": "DoPSBox",
         "name": "DoPSBox"
     },
-    "dopsbox_-_dosbox_emulator_coming_to_ps3_by_robo_hobo": {
-        "id": "DoPSBox - DOSBox Emulator Coming To PS3 By Robo Hobo",
-        "name": "DoPSBox - DOSBox Emulator Coming To PS3 By Robo Hobo"
-    },
     "dosblaster": {
         "id": "DosBlaster",
         "name": "DosBlaster"
@@ -1959,6 +2175,10 @@
         "id": "DOSBox",
         "name": "DOSBox"
     },
+    "dosbox-automation": {
+        "id": "dosbox-automation",
+        "name": "dosbox-automation"
+    },
     "dosbox-staging": {
         "id": "DOSBox-Staging",
         "name": "DOSBox-Staging"
@@ -1966,14 +2186,6 @@
     "dosbox-x": {
         "id": "DOSBox-X",
         "name": "DOSBox-X"
-    },
-    "dosbox-x_beta": {
-        "id": "DOSBox-X Beta",
-        "name": "DOSBox-X Beta"
-    },
-    "dosbox-x_wip": {
-        "id": "DOSBox-X WIP",
-        "name": "DOSBox-X WIP"
     },
     "dosbox_ece": {
         "id": "DOSBox ECE",
@@ -1987,13 +2199,17 @@
         "id": "DOSBox Game Launcher",
         "name": "DOSBox Game Launcher"
     },
+    "dosbox_optionals": {
+        "id": "DOSBox Optionals",
+        "name": "DOSBox Optionals"
+    },
+    "dosbox_pure": {
+        "id": "DOSBox Pure",
+        "name": "DOSBox Pure"
+    },
     "dosbox_shaders_pack": {
         "id": "Dosbox Shaders Pack",
         "name": "Dosbox Shaders Pack"
-    },
-    "dosbox_svn_daum": {
-        "id": "DOSBox SVN Daum",
-        "name": "DOSBox SVN Daum"
     },
     "dosbox_turbo": {
         "id": "DosBox Turbo",
@@ -2023,13 +2239,9 @@
         "id": "DOSXbox360",
         "name": "DOSXbox360"
     },
-    "dox_wip_-_fever_(2010-02-08)": {
-        "id": "Dox WIP - Fever (2010-02-08)",
-        "name": "Dox WIP - Fever (2010-02-08)"
-    },
-    "doxdev_news_-_wheels_&_fire_wip": {
-        "id": "doxDev News - Wheels & Fire WIP",
-        "name": "doxDev News - Wheels & Fire WIP"
+    "dracods": {
+        "id": "DracoDS",
+        "name": "DracoDS"
     },
     "drastic": {
         "id": "DraStic",
@@ -2039,25 +2251,21 @@
         "id": "Dream64",
         "name": "Dream64"
     },
-    "dreamcast/ps2_emulator_for_ps3_news": {
-        "id": "Dreamcast/PS2 Emulator for PS3 News",
-        "name": "Dreamcast/PS2 Emulator for PS3 News"
-    },
-    "dreamcast_emulators": {
-        "id": "Dreamcast Emulators",
-        "name": "Dreamcast Emulators"
-    },
     "dreamm": {
         "id": "DREAMM",
         "name": "DREAMM"
     },
+    "dreampotato": {
+        "id": "DreamPotato",
+        "name": "DreamPotato"
+    },
+    "dreamshell": {
+        "id": "DreamShell",
+        "name": "DreamShell"
+    },
     "dreavm": {
         "id": "Dreavm",
         "name": "Dreavm"
-    },
-    "drew's_mameography_:_mo_geo": {
-        "id": "DREW's MAMEOGRAPHY : Mo Geo",
-        "name": "DREW's MAMEOGRAPHY : Mo Geo"
     },
     "droidemu": {
         "id": "DroidEmu",
@@ -2066,10 +2274,6 @@
     "drsms": {
         "id": "DrSMS",
         "name": "DrSMS"
-    },
-    "ds": {
-        "id": "DS",
-        "name": "DS"
     },
     "ds-rom_organizer": {
         "id": "DS-Rom Organizer",
@@ -2083,9 +2287,21 @@
         "id": "DS2x86",
         "name": "DS2x86"
     },
+    "ds4mappertest": {
+        "id": "DS4MapperTest",
+        "name": "DS4MapperTest"
+    },
     "ds4windows": {
         "id": "DS4Windows",
         "name": "DS4Windows"
+    },
+    "ds994a": {
+        "id": "DS994a",
+        "name": "DS994a"
+    },
+    "ds_1943": {
+        "id": "DS 1943",
+        "name": "DS 1943"
     },
     "ds_pack": {
         "id": "DS Pack",
@@ -2094,6 +2310,10 @@
     "ds_rom_organizer": {
         "id": "DS ROM Organizer",
         "name": "DS ROM Organizer"
+    },
+    "dsadvance": {
+        "id": "DSAdvance",
+        "name": "DSAdvance"
     },
     "dsoid": {
         "id": "Dsoid",
@@ -2106,10 +2326,6 @@
     "dsonpsp": {
         "id": "DsonPSP",
         "name": "DsonPSP"
-    },
-    "dsonpsp_beta": {
-        "id": "DsonPSP Beta",
-        "name": "DsonPSP Beta"
     },
     "dsonpsp_unofficial": {
         "id": "DsonPSP Unofficial",
@@ -2139,37 +2355,21 @@
         "id": "DSx86 LW2",
         "name": "DSx86 LW2"
     },
-    "dsx86_news_-_dos_emulator_for_ds_-_bug_fixing": {
-        "id": "DSx86 News - Dos Emulator for DS - Bug fixing",
-        "name": "DSx86 News - Dos Emulator for DS - Bug fixing"
+    "dualsensey-v2": {
+        "id": "DualSenseY-v2",
+        "name": "DualSenseY-v2"
     },
     "duckstation": {
         "id": "DuckStation",
         "name": "DuckStation"
     },
-    "duckstation_preview": {
-        "id": "DuckStation Preview",
-        "name": "DuckStation Preview"
+    "duckstation_netplay": {
+        "id": "DuckStation Netplay",
+        "name": "DuckStation Netplay"
     },
-    "dumping_union_news": {
-        "id": "Dumping Union News",
-        "name": "Dumping Union News"
-    },
-    "dumping_union_news_august": {
-        "id": "Dumping Union News August",
-        "name": "Dumping Union News August"
-    },
-    "dumping_union_news_december": {
-        "id": "Dumping Union News December",
-        "name": "Dumping Union News December"
-    },
-    "dumping_union_news_january": {
-        "id": "Dumping Union News January",
-        "name": "Dumping Union News January"
-    },
-    "duos_(beta)": {
-        "id": "DuoS (Beta)",
-        "name": "DuoS (Beta)"
+    "duos": {
+        "id": "DuoS",
+        "name": "DuoS"
     },
     "durazno": {
         "id": "Durazno",
@@ -2191,6 +2391,14 @@
         "id": "EDecrypt",
         "name": "EDecrypt"
     },
+    "eden": {
+        "id": "Eden",
+        "name": "Eden"
+    },
+    "eden_nx2": {
+        "id": "Eden NX2",
+        "name": "Eden NX2"
+    },
     "edgbla's_cdrblade": {
         "id": "edgbla's cdrBlade",
         "name": "edgbla's cdrBlade"
@@ -2206,6 +2414,26 @@
     "edgbla＇s_software_rendering_plugin": {
         "id": "edgbla＇s Software Rendering Plugin",
         "name": "edgbla＇s Software Rendering Plugin"
+    },
+    "eggvance": {
+        "id": "Eggvance",
+        "name": "Eggvance"
+    },
+    "eglantine": {
+        "id": "Eglantine",
+        "name": "Eglantine"
+    },
+    "eglantine_branch:_fix/oot-blackscreen": {
+        "id": "Eglantine Branch: fix/oot-blackscreen",
+        "name": "Eglantine Branch: fix/oot-blackscreen"
+    },
+    "eglantine_branch:_nx2-experimental": {
+        "id": "Eglantine Branch: nx2-experimental",
+        "name": "Eglantine Branch: nx2-experimental"
+    },
+    "eglantine_nx2": {
+        "id": "Eglantine nx2",
+        "name": "Eglantine nx2"
     },
     "eightyone": {
         "id": "EightyOne",
@@ -2223,17 +2451,17 @@
         "id": "Elkulator",
         "name": "Elkulator"
     },
-    "elliott": {
-        "id": "Elliott",
-        "name": "Elliott"
+    "elliott_803_simulation": {
+        "id": "Elliott 803 Simulation",
+        "name": "Elliott 803 Simulation"
     },
     "emerald": {
         "id": "Emerald",
         "name": "Emerald"
     },
-    "emma": {
-        "id": "Emma",
-        "name": "Emma"
+    "emma_02": {
+        "id": "Emma 02",
+        "name": "Emma 02"
     },
     "emu": {
         "id": "EMU",
@@ -2295,6 +2523,10 @@
         "id": "Emu64",
         "name": "Emu64"
     },
+    "emu6502": {
+        "id": "emu6502",
+        "name": "emu6502"
+    },
     "emu71": {
         "id": "Emu71",
         "name": "Emu71"
@@ -2302,6 +2534,10 @@
     "emu7800": {
         "id": "Emu7800",
         "name": "Emu7800"
+    },
+    "emu80": {
+        "id": "Emu80",
+        "name": "Emu80"
     },
     "emu_collection": {
         "id": "EMU Collection",
@@ -2335,6 +2571,10 @@
         "id": "EmuHaste",
         "name": "EmuHaste"
     },
+    "emuhub": {
+        "id": "EmuHub",
+        "name": "EmuHub"
+    },
     "emula": {
         "id": "EmuLa",
         "name": "EmuLa"
@@ -2355,6 +2595,10 @@
         "id": "Emulicious",
         "name": "Emulicious"
     },
+    "emulinker-k": {
+        "id": "EmuLinker-K",
+        "name": "EmuLinker-K"
+    },
     "emulinkersf": {
         "id": "EmuLinkerSF",
         "name": "EmuLinkerSF"
@@ -2367,9 +2611,9 @@
         "id": "EmulTwo",
         "name": "EmulTwo"
     },
-    "emumaster": {
-        "id": "EmuMaster",
-        "name": "EmuMaster"
+    "emumaster_3.gx_ff_xiii_edition": {
+        "id": "EmuMaster 3.GX FF XIII Edition",
+        "name": "EmuMaster 3.GX FF XIII Edition"
     },
     "emumovies_download_service_utility": {
         "id": "EmuMovies Download Service Utility",
@@ -2383,6 +2627,14 @@
         "id": "EmuPack",
         "name": "EmuPack"
     },
+    "emupack_2013": {
+        "id": "EmuPack 2013",
+        "name": "EmuPack 2013"
+    },
+    "emupack_2014": {
+        "id": "EmuPack 2014",
+        "name": "EmuPack 2014"
+    },
     "emusak_ui": {
         "id": "Emusak UI",
         "name": "Emusak UI"
@@ -2395,10 +2647,6 @@
         "id": "EmuTos",
         "name": "EmuTos"
     },
-    "emutos_cvs": {
-        "id": "EmuTos CVS",
-        "name": "EmuTos CVS"
-    },
     "emuz-1500": {
         "id": "EmuZ-1500",
         "name": "EmuZ-1500"
@@ -2406,6 +2654,10 @@
     "emuz-2000_tf-edition": {
         "id": "EmuZ-2000 TF-Edition",
         "name": "EmuZ-2000 TF-Edition"
+    },
+    "emuze": {
+        "id": "emuze",
+        "name": "emuze"
     },
     "engine02": {
         "id": "Engine02",
@@ -2419,9 +2671,25 @@
         "id": "Ep128Emu",
         "name": "Ep128Emu"
     },
+    "epcecd": {
+        "id": "ePceCD",
+        "name": "ePceCD"
+    },
     "epsxe": {
         "id": "ePSXe",
         "name": "ePSXe"
+    },
+    "epsxe_&_duckstation_cheats_pack_(numbers-z)": {
+        "id": "ePSXe & Duckstation Cheats pack (Numbers-Z)",
+        "name": "ePSXe & Duckstation Cheats pack (Numbers-Z)"
+    },
+    "epsxe_cheats_pack_numbers-j": {
+        "id": "ePSXe cheats pack Numbers-J",
+        "name": "ePSXe cheats pack Numbers-J"
+    },
+    "epsxe_cheats_pack_numbers-s": {
+        "id": "ePSXe cheats pack Numbers-S",
+        "name": "ePSXe cheats pack Numbers-S"
     },
     "epsxe_cheats_pack_numbers-z": {
         "id": "ePSXe Cheats Pack Numbers-Z",
@@ -2443,6 +2711,10 @@
         "id": "EraseMe",
         "name": "EraseMe"
     },
+    "erings": {
+        "id": "erings",
+        "name": "erings"
+    },
     "erockus_arcade": {
         "id": "Erockus Arcade",
         "name": "Erockus Arcade"
@@ -2451,13 +2723,13 @@
         "id": "ES-DE",
         "name": "ES-DE"
     },
-    "ex1turbo": {
-        "id": "eX1turbo",
-        "name": "eX1turbo"
+    "ex1turbo_2011/04/13": {
+        "id": "eX1turbo 2011/04/13",
+        "name": "eX1turbo 2011/04/13"
     },
-    "ex360e_hg": {
-        "id": "Ex360E HG",
-        "name": "Ex360E HG"
+    "ex360e": {
+        "id": "Ex360E",
+        "name": "Ex360E"
     },
     "exbox360": {
         "id": "exbox360",
@@ -2467,21 +2739,17 @@
         "id": "Exiso",
         "name": "Exiso"
     },
-    "exl100_alpha": {
-        "id": "exl100 Alpha",
-        "name": "exl100 Alpha"
-    },
-    "exl100_alpha_son": {
-        "id": "exl100 Alpha son",
-        "name": "exl100 Alpha son"
+    "exl100": {
+        "id": "exl100",
+        "name": "exl100"
     },
     "exodus": {
         "id": "Exodus",
         "name": "Exodus"
     },
-    "extra_m.a.m.e.": {
-        "id": "Extra M.A.M.E.",
-        "name": "Extra M.A.M.E."
+    "extra_m.a.m.e._2009_version": {
+        "id": "Extra M.A.M.E. 2009 version",
+        "name": "Extra M.A.M.E. 2009 version"
     },
     "extramame": {
         "id": "ExtraMAME",
@@ -2543,25 +2811,25 @@
         "id": "FB Alpha Shuffle",
         "name": "FB Alpha Shuffle"
     },
-    "fb_alpha_shuffle_test_build": {
-        "id": "FB Alpha Shuffle Test Build",
-        "name": "FB Alpha Shuffle Test Build"
-    },
-    "fb_alpha_some_wip": {
-        "id": "FB Alpha Some WIP",
-        "name": "FB Alpha Some WIP"
+    "fb_alpha_shuffle_test": {
+        "id": "FB Alpha Shuffle Test",
+        "name": "FB Alpha Shuffle Test"
     },
     "fb_alpha_sp": {
         "id": "FB Alpha SP",
         "name": "FB Alpha SP"
     },
-    "fb_alpha_volfied_wip": {
-        "id": "FB Alpha Volfied WIP",
-        "name": "FB Alpha Volfied WIP"
-    },
     "fb_neo": {
         "id": "FB Neo",
         "name": "FB Neo"
+    },
+    "fb_neo_sdl2_+_imgui": {
+        "id": "FB Neo SDL2 + ImGui",
+        "name": "FB Neo SDL2 + ImGui"
+    },
+    "fba": {
+        "id": "FBA",
+        "name": "FBA"
     },
     "fba4droid": {
         "id": "Fba4droid",
@@ -2575,13 +2843,9 @@
         "id": "FBA N3O-Hacks",
         "name": "FBA N3O-Hacks"
     },
-    "fba_preview_&_titles": {
-        "id": "FBA Preview & Titles",
-        "name": "FBA Preview & Titles"
-    },
-    "fba_wip": {
-        "id": "FBA WIP",
-        "name": "FBA WIP"
+    "fbanext": {
+        "id": "FBANext",
+        "name": "FBANext"
     },
     "fbanext-ps3": {
         "id": "FBANext-PS3",
@@ -2590,10 +2854,6 @@
     "fbanext360": {
         "id": "FBANext360",
         "name": "FBANext360"
-    },
-    "fbanext_beta": {
-        "id": "FBANext Beta",
-        "name": "FBANext Beta"
     },
     "fbbuild": {
         "id": "fbBuild",
@@ -2607,9 +2867,9 @@
         "id": "FBZX-Wii",
         "name": "FBZX-Wii"
     },
-    "fce360_beta": {
-        "id": "FCE360 Beta",
-        "name": "FCE360 Beta"
+    "fce360": {
+        "id": "FCE360",
+        "name": "FCE360"
     },
     "fce_ultra_gx": {
         "id": "FCE Ultra GX",
@@ -2643,9 +2903,9 @@
         "id": "FCEUltra Win32 mappers modified",
         "name": "FCEUltra Win32 mappers modified"
     },
-    "fceumm-ps2": {
-        "id": "FCEUmm-PS2",
-        "name": "FCEUmm-PS2"
+    "fceumm-ps2_x.3.3": {
+        "id": "FCEUmm-PS2 x.3.3",
+        "name": "FCEUmm-PS2 x.3.3"
     },
     "fceumm3ds": {
         "id": "FCEUMM3DS",
@@ -2663,9 +2923,9 @@
         "id": "Felix",
         "name": "Felix"
     },
-    "ffe_beta": {
-        "id": "FFE Beta",
-        "name": "FFE Beta"
+    "ffe": {
+        "id": "FFE",
+        "name": "FFE"
     },
     "fightcade": {
         "id": "Fightcade",
@@ -2678,10 +2938,6 @@
     "final_burn_legends": {
         "id": "Final Burn Legends",
         "name": "Final Burn Legends"
-    },
-    "final_fantasy_iv:_the_complete_collection_special_edition_arrives_april": {
-        "id": "FINAL FANTASY IV: The Complete Collection Special Edition arrives April",
-        "name": "FINAL FANTASY IV: The Complete Collection Special Edition arrives April"
     },
     "finalburn_alpha": {
         "id": "FinalBurn Alpha",
@@ -2711,13 +2967,13 @@
         "id": "FireNes",
         "name": "FireNes"
     },
-    "fixgb_alpha": {
-        "id": "fixGB Alpha",
-        "name": "fixGB Alpha"
+    "fixgb": {
+        "id": "fixGB",
+        "name": "fixGB"
     },
-    "fixnes_alpha": {
-        "id": "fixNES Alpha",
-        "name": "fixNES Alpha"
+    "fixnes": {
+        "id": "fixNES",
+        "name": "fixNES"
     },
     "flycast": {
         "id": "Flycast",
@@ -2738,6 +2994,10 @@
     "fmsx_psp": {
         "id": "fMSX PSP",
         "name": "fMSX PSP"
+    },
+    "fnesemu": {
+        "id": "fnesemu",
+        "name": "fnesemu"
     },
     "fofix": {
         "id": "FoFiX",
@@ -2791,9 +3051,9 @@
         "id": "FreeJoy Configurator",
         "name": "FreeJoy Configurator"
     },
-    "freepsx_beta": {
-        "id": "FreePSX Beta",
-        "name": "FreePSX Beta"
+    "freepsx": {
+        "id": "FreePSX",
+        "name": "FreePSX"
     },
     "frodo": {
         "id": "Frodo",
@@ -2812,12 +3072,20 @@
         "name": "FS-GUI"
     },
     "fs-uae": {
-        "id": "FS-UAE",
-        "name": "FS-UAE"
+        "id": "fs-uae",
+        "name": "fs-uae"
+    },
+    "fs-uae_launcher": {
+        "id": "FS-UAE Launcher",
+        "name": "FS-UAE Launcher"
     },
     "ftx3": {
         "id": "FTX3",
         "name": "FTX3"
+    },
+    "fujisan": {
+        "id": "Fujisan",
+        "name": "Fujisan"
     },
     "fusa_sd_for": {
         "id": "FuSa SD for",
@@ -2843,10 +3111,6 @@
         "id": "Fx702p",
         "name": "Fx702p"
     },
-    "fxaa_support_for_ps3_and_xbox": {
-        "id": "FXAA support for PS3 and Xbox",
-        "name": "FXAA support for PS3 and Xbox"
-    },
     "g-fs-uae": {
         "id": "G-FS-UAE",
         "name": "G-FS-UAE"
@@ -2862,6 +3126,10 @@
     "gambatte": {
         "id": "Gambatte",
         "name": "Gambatte"
+    },
+    "gambatte_jg": {
+        "id": "Gambatte JG",
+        "name": "Gambatte JG"
     },
     "gambatte_speedrun": {
         "id": "Gambatte SpeedRun",
@@ -2887,9 +3155,17 @@
         "id": "Game Categories Light for",
         "name": "Game Categories Light for"
     },
+    "game_format_converter": {
+        "id": "Game Format Converter",
+        "name": "Game Format Converter"
+    },
     "gamebase": {
         "id": "GameBase",
         "name": "GameBase"
+    },
+    "gamebase_64": {
+        "id": "GameBase 64",
+        "name": "GameBase 64"
     },
     "gameboo": {
         "id": "GameBoo",
@@ -2947,6 +3223,14 @@
         "id": "GameLoader ALL RH",
         "name": "GameLoader ALL RH"
     },
+    "gameloader_all_rh_310_fix": {
+        "id": "GameLoader ALL RH 310 Fix",
+        "name": "GameLoader ALL RH 310 Fix"
+    },
+    "gameplay": {
+        "id": "Gameplay",
+        "name": "Gameplay"
+    },
     "gameroy": {
         "id": "GameRoy",
         "name": "GameRoy"
@@ -2959,6 +3243,10 @@
         "id": "GameYob newgfx",
         "name": "GameYob newgfx"
     },
+    "gaseous_server": {
+        "id": "Gaseous Server",
+        "name": "Gaseous Server"
+    },
     "gb4gb": {
         "id": "gb4gb",
         "name": "gb4gb"
@@ -2966,6 +3254,10 @@
     "gb_enhanced+": {
         "id": "GB Enhanced+",
         "name": "GB Enhanced+"
+    },
+    "gb_enhanced+_hd": {
+        "id": "GB Enhanced+ HD",
+        "name": "GB Enhanced+ HD"
     },
     "gba.emu": {
         "id": "GBA.emu",
@@ -2978,10 +3270,6 @@
     "gbaemu4ds": {
         "id": "gbaemu4DS",
         "name": "gbaemu4DS"
-    },
-    "gbaemu4ds_alpha": {
-        "id": "gbaemu4DS alpha",
-        "name": "gbaemu4DS alpha"
     },
     "gbaemu4ds_tgds": {
         "id": "gbaemu4DS TGDS",
@@ -2998,6 +3286,10 @@
     "gbpablog": {
         "id": "gbpablog",
         "name": "gbpablog"
+    },
+    "gbsplay": {
+        "id": "gbsplay",
+        "name": "gbsplay"
     },
     "gcmtoolkit": {
         "id": "GcmToolKit",
@@ -3019,9 +3311,21 @@
         "id": "Gearcoleco",
         "name": "Gearcoleco"
     },
+    "geargrafx": {
+        "id": "Geargrafx",
+        "name": "Geargrafx"
+    },
+    "gearlynx": {
+        "id": "Gearlynx",
+        "name": "Gearlynx"
+    },
     "gearsystem": {
         "id": "GearSystem",
         "name": "GearSystem"
+    },
+    "gecko": {
+        "id": "Gecko",
+        "name": "Gecko"
     },
     "geepee32": {
         "id": "GeePee32",
@@ -3067,9 +3371,17 @@
         "id": "Genesis Plus/SDL",
         "name": "Genesis Plus/SDL"
     },
+    "genesis_plus_ex": {
+        "id": "Genesis Plus EX",
+        "name": "Genesis Plus EX"
+    },
     "genesis_plus_gx": {
         "id": "Genesis Plus GX",
         "name": "Genesis Plus GX"
+    },
+    "genesis_plus_gx_cheat_files_-_kega_fusion_cheat_code_pack": {
+        "id": "Genesis Plus GX Cheat Files - Kega Fusion Cheat Code Pack",
+        "name": "Genesis Plus GX Cheat Files - Kega Fusion Cheat Code Pack"
     },
     "genesis_plus_gx_ps3": {
         "id": "Genesis Plus GX PS3",
@@ -3103,21 +3415,29 @@
         "id": "Gens/GS",
         "name": "Gens/GS"
     },
-    "gens/gs_release": {
-        "id": "Gens/GS Release",
-        "name": "Gens/GS Release"
+    "gens/gs_release_7_packaging_update": {
+        "id": "Gens/GS Release 7 Packaging Update",
+        "name": "Gens/GS Release 7 Packaging Update"
     },
     "gens32_surreal": {
         "id": "Gens32 Surreal",
         "name": "Gens32 Surreal"
     },
-    "gens4all_preview": {
-        "id": "Gens4All preview",
-        "name": "Gens4All preview"
+    "gens4all": {
+        "id": "Gens4All",
+        "name": "Gens4All"
     },
     "gens_kmod": {
         "id": "Gens KMod",
         "name": "Gens KMod"
+    },
+    "gentleman": {
+        "id": "Gentleman",
+        "name": "Gentleman"
+    },
+    "genx": {
+        "id": "GenX",
+        "name": "GenX"
     },
     "gest": {
         "id": "GEST",
@@ -3135,13 +3455,17 @@
         "id": "GiiBiiAdvance",
         "name": "GiiBiiAdvance"
     },
+    "gimlids": {
+        "id": "GimliDS",
+        "name": "GimliDS"
+    },
     "ginge": {
         "id": "Ginge",
         "name": "Ginge"
     },
-    "glide3x_(09.03.24)": {
-        "id": "Glide3x (09.03.24)",
-        "name": "Glide3x (09.03.24)"
+    "glide3x": {
+        "id": "Glide3x",
+        "name": "Glide3x"
     },
     "glide64": {
         "id": "Glide64",
@@ -3151,6 +3475,10 @@
         "id": "Glide64 \"Napalm\"",
         "name": "Glide64 \"Napalm\""
     },
+    "glide64_final_(10th_anniversary)": {
+        "id": "Glide64 Final (10th Anniversary)",
+        "name": "Glide64 Final (10th Anniversary)"
+    },
     "glide64_napalm_pr": {
         "id": "Glide64 Napalm PR",
         "name": "Glide64 Napalm PR"
@@ -3158,10 +3486,6 @@
     "glide64_napalm_wx": {
         "id": "Glide64 Napalm WX",
         "name": "Glide64 Napalm WX"
-    },
-    "glide64_wip_build": {
-        "id": "Glide64 WIP Build",
-        "name": "Glide64 WIP Build"
     },
     "glidehq": {
         "id": "GlideHQ",
@@ -3219,6 +3543,14 @@
         "id": "GoblinPSP",
         "name": "GoblinPSP"
     },
+    "goliath": {
+        "id": "Goliath",
+        "name": "Goliath"
+    },
+    "gones": {
+        "id": "GoNES",
+        "name": "GoNES"
+    },
     "goodcpc": {
         "id": "GoodCPC",
         "name": "GoodCPC"
@@ -3255,6 +3587,14 @@
         "id": "Gopher2600",
         "name": "Gopher2600"
     },
+    "gopher2600_special_ace": {
+        "id": "Gopher2600 Special ACE",
+        "name": "Gopher2600 Special ACE"
+    },
+    "gopher64": {
+        "id": "Gopher64",
+        "name": "Gopher64"
+    },
     "gpcs4": {
         "id": "GPCS4",
         "name": "GPCS4"
@@ -3279,9 +3619,9 @@
         "id": "gpSP4Symbian",
         "name": "gpSP4Symbian"
     },
-    "gpsp4symbian_s60v3_preview": {
-        "id": "gpSP4Symbian S60v3 preview",
-        "name": "gpSP4Symbian S60v3 preview"
+    "gpsp4symbian_s60v3": {
+        "id": "gpSP4Symbian S60v3",
+        "name": "gpSP4Symbian S60v3"
     },
     "gpsp_dingux": {
         "id": "gpsp Dingux",
@@ -3295,13 +3635,17 @@
         "id": "gpSP for",
         "name": "gpSP for"
     },
-    "gpsp_for_hbl_build": {
-        "id": "gpSP for HBL Build",
-        "name": "gpSP for HBL Build"
+    "gpsp_for_hbl": {
+        "id": "gpSP for HBL",
+        "name": "gpSP for HBL"
     },
     "gpsp_mod": {
         "id": "gpSP mod",
         "name": "gpSP mod"
+    },
+    "gpsp_mod_503hen": {
+        "id": "gpSP mod 503HEN",
+        "name": "gpSP mod 503HEN"
     },
     "gpsphone": {
         "id": "gpSPhone",
@@ -3343,33 +3687,21 @@
         "id": "GSDX FX",
         "name": "GSDX FX"
     },
+    "gse": {
+        "id": "GSE",
+        "name": "GSE"
+    },
     "gsport": {
         "id": "GSport",
         "name": "GSport"
     },
+    "guac": {
+        "id": "Guac",
+        "name": "Guac"
+    },
     "gui0x52_-_chili_hot_dog_version": {
         "id": "Gui0x52 - Chili Hot Dog Version",
         "name": "Gui0x52 - Chili Hot Dog Version"
-    },
-    "gundam_wing:_endless_duel_wip": {
-        "id": "Gundam Wing: Endless Duel WIP",
-        "name": "Gundam Wing: Endless Duel WIP"
-    },
-    "guru's_rom_dump_news": {
-        "id": "Guru's ROM Dump News",
-        "name": "Guru's ROM Dump News"
-    },
-    "guru_news": {
-        "id": "Guru News",
-        "name": "Guru News"
-    },
-    "guru_news_(2010-03-20)": {
-        "id": "Guru News (2010-03-20)",
-        "name": "Guru News (2010-03-20)"
-    },
-    "guru＇s_rom_dump_news": {
-        "id": "Guru＇s ROM Dump News",
-        "name": "Guru＇s ROM Dump News"
     },
     "gxgeo": {
         "id": "GxGeo",
@@ -3399,6 +3731,10 @@
         "id": "HalfNES",
         "name": "HalfNES"
     },
+    "happiness": {
+        "id": "happiNESs",
+        "name": "happiNESs"
+    },
     "hardcade": {
         "id": "Hardcade",
         "name": "Hardcade"
@@ -3411,29 +3747,9 @@
         "id": "HatariWii",
         "name": "HatariWii"
     },
-    "haze's_mame_wip_(09.03.25)": {
-        "id": "Haze's Mame WIP (09.03.25)",
-        "name": "Haze's Mame WIP (09.03.25)"
-    },
-    "haze_mame": {
-        "id": "HAZE MAME",
-        "name": "HAZE MAME"
-    },
-    "haze_wip_-_it＇s_a_spaceship,_honest_boss!": {
-        "id": "Haze WIP - It＇s a Spaceship, honest boss!",
-        "name": "Haze WIP - It＇s a Spaceship, honest boss!"
-    },
-    "haze_wip_-_political_roadblocks_/_politics_over_progress": {
-        "id": "Haze WIP - Political Roadblocks / Politics Over Progress",
-        "name": "Haze WIP - Political Roadblocks / Politics Over Progress"
-    },
-    "haze_wip_-_tinycdi": {
-        "id": "Haze WIP - TinyCDi",
-        "name": "Haze WIP - TinyCDi"
-    },
-    "haze’s_mame_wip_naomi": {
-        "id": "Haze’s Mame WIP Naomi",
-        "name": "Haze’s Mame WIP Naomi"
+    "haze": {
+        "id": "Haze",
+        "name": "Haze"
     },
     "hbmame": {
         "id": "HBMAME",
@@ -3450,6 +3766,10 @@
     "heig-boy": {
         "id": "Heig-Boy",
         "name": "Heig-Boy"
+    },
+    "helios": {
+        "id": "Helios",
+        "name": "Helios"
     },
     "helios32x": {
         "id": "Helios32x",
@@ -3475,6 +3795,10 @@
         "id": "higan",
         "name": "higan"
     },
+    "higan_vv094r26": {
+        "id": "higan vv094r26",
+        "name": "higan vv094r26"
+    },
     "high_voltage_sid_collection": {
         "id": "High Voltage SID Collection",
         "name": "High Voltage SID Collection"
@@ -3482,10 +3806,6 @@
     "highscore.dat_(non_officiel)": {
         "id": "Highscore.dat (Non Officiel)",
         "name": "Highscore.dat (Non Officiel)"
-    },
-    "hiscore.dat": {
-        "id": "Hiscore.dat",
-        "name": "Hiscore.dat"
     },
     "history.dat": {
         "id": "History.dat",
@@ -3506,6 +3826,18 @@
     "hob": {
         "id": "Hob",
         "name": "Hob"
+    },
+    "holani-gtk": {
+        "id": "Holani-gtk",
+        "name": "Holani-gtk"
+    },
+    "holani-min": {
+        "id": "Holani-min",
+        "name": "Holani-min"
+    },
+    "hollycast": {
+        "id": "Hollycast",
+        "name": "Hollycast"
     },
     "homebrew_enabler_for_psp": {
         "id": "Homebrew Enabler for PSP",
@@ -3563,9 +3895,9 @@
         "id": "HT1080Z",
         "name": "HT1080Z"
     },
-    "hugogx_build": {
-        "id": "HugoGX Build",
-        "name": "HugoGX Build"
+    "hugogx": {
+        "id": "HugoGX",
+        "name": "HugoGX"
     },
     "hyperlaunch": {
         "id": "HyperLaunch",
@@ -3611,21 +3943,25 @@
         "id": "iGB Emu",
         "name": "iGB Emu"
     },
+    "igir": {
+        "id": "Igir",
+        "name": "Igir"
+    },
     "imame4all": {
         "id": "iMAME4all",
         "name": "iMAME4all"
     },
-    "imame4all_experimental_support_for_icade_beta": {
-        "id": "iMAME4all experimental support for iCade Beta",
-        "name": "iMAME4all experimental support for iCade Beta"
+    "imame4all_experimental_support_for_icade": {
+        "id": "iMAME4all experimental support for iCade",
+        "name": "iMAME4all experimental support for iCade"
     },
     "ines": {
         "id": "iNES",
         "name": "iNES"
     },
-    "infones_hg": {
-        "id": "InfoNES HG",
-        "name": "InfoNES HG"
+    "infones": {
+        "id": "InfoNES",
+        "name": "InfoNES"
     },
     "injectiine": {
         "id": "Injectiine",
@@ -3667,6 +4003,10 @@
         "id": "iR Shell",
         "name": "iR Shell"
     },
+    "iris": {
+        "id": "Iris",
+        "name": "Iris"
+    },
     "ishiiruka-dolphin_custom_version": {
         "id": "Ishiiruka-Dolphin Custom Version",
         "name": "Ishiiruka-Dolphin Custom Version"
@@ -3679,10 +4019,6 @@
         "id": "ISO Tool",
         "name": "ISO Tool"
     },
-    "it's_time_for_scummvm": {
-        "id": "It's Time for ScummVM",
-        "name": "It's Time for ScummVM"
-    },
     "iv/play": {
         "id": "IV/Play",
         "name": "IV/Play"
@@ -3690,6 +4026,10 @@
     "ixbar3000": {
         "id": "ixbar3000",
         "name": "ixbar3000"
+    },
+    "izapple2": {
+        "id": "izapple2",
+        "name": "izapple2"
     },
     "j2k": {
         "id": "J2K",
@@ -3702,6 +4042,10 @@
     "jace": {
         "id": "JACE",
         "name": "JACE"
+    },
+    "jace_2011/01/25": {
+        "id": "JACE 2011/01/25",
+        "name": "JACE 2011/01/25"
     },
     "jadenes": {
         "id": "JadeNES",
@@ -3759,6 +4103,22 @@
         "id": "jGameBase",
         "name": "jGameBase"
     },
+    "jgb": {
+        "id": "jgb",
+        "name": "jgb"
+    },
+    "jgenesis": {
+        "id": "jgenesis",
+        "name": "jgenesis"
+    },
+    "jgnes": {
+        "id": "jgnes",
+        "name": "jgnes"
+    },
+    "jjui": {
+        "id": "JJui",
+        "name": "JJui"
+    },
     "jkcemu": {
         "id": "JKCemu",
         "name": "JKCemu"
@@ -3795,6 +4155,10 @@
         "id": "John NES Lite for Android",
         "name": "John NES Lite for Android"
     },
+    "joric": {
+        "id": "JORIC",
+        "name": "JORIC"
+    },
     "joyce": {
         "id": "Joyce",
         "name": "Joyce"
@@ -3803,9 +4167,13 @@
         "id": "JoySens",
         "name": "JoySens"
     },
-    "joysens_for": {
-        "id": "JoySens for",
-        "name": "JoySens for"
+    "joysens_for_6.xx": {
+        "id": "JoySens for 6.XX",
+        "name": "JoySens for 6.XX"
+    },
+    "joyshockmapper": {
+        "id": "JoyShockMapper",
+        "name": "JoyShockMapper"
     },
     "joytokey": {
         "id": "JoyToKey",
@@ -3819,25 +4187,13 @@
         "id": "Jpcsp2c",
         "name": "Jpcsp2c"
     },
-    "jpcsp_new_wip": {
-        "id": "JPCSP NEW WIP",
-        "name": "JPCSP NEW WIP"
-    },
-    "jpcsp_news_-_bleach_heat_of_soul": {
-        "id": "JPcsp News - Bleach Heat of Soul",
-        "name": "JPcsp News - Bleach Heat of Soul"
-    },
-    "jpcsp_news：the": {
-        "id": "JPcsp News：The",
-        "name": "JPcsp News：The"
-    },
-    "jpcsp_progress_update_(2010-08-31)": {
-        "id": "JPcsp Progress Update (2010-08-31)",
-        "name": "JPcsp Progress Update (2010-08-31)"
-    },
     "jpcsp_xlink_kai_support": {
         "id": "Jpcsp XLink Kai Support",
         "name": "Jpcsp XLink Kai Support"
+    },
+    "jpl64": {
+        "id": "JPL64",
+        "name": "JPL64"
     },
     "jrommanager": {
         "id": "JRomManager",
@@ -3847,33 +4203,37 @@
         "id": "JsDOSBox",
         "name": "JsDOSBox"
     },
-    "jsdosbox_(april": {
-        "id": "JsDOSBox (April",
-        "name": "JsDOSBox (April"
+    "jsdosbox_(april_2012)": {
+        "id": "JsDOSBox (April 2012)",
+        "name": "JsDOSBox (April 2012)"
     },
-    "jsdosbox_(december": {
-        "id": "JsDOSBox (December",
-        "name": "JsDOSBox (December"
+    "jsdosbox_(december_2011)": {
+        "id": "JsDOSBox (December 2011)",
+        "name": "JsDOSBox (December 2011)"
     },
-    "jsdosbox_(february": {
-        "id": "JsDOSBox (February",
-        "name": "JsDOSBox (February"
+    "jsdosbox_(february_2012)": {
+        "id": "JsDOSBox (February 2012)",
+        "name": "JsDOSBox (February 2012)"
     },
-    "jsdosbox_(july": {
-        "id": "JsDOSBox (July",
-        "name": "JsDOSBox (July"
+    "jsdosbox_(july_2012)": {
+        "id": "JsDOSBox (July 2012)",
+        "name": "JsDOSBox (July 2012)"
     },
-    "jsdosbox_(march": {
-        "id": "JsDOSBox (March",
-        "name": "JsDOSBox (March"
+    "jsdosbox_(march_2012)": {
+        "id": "JsDOSBox (March 2012)",
+        "name": "JsDOSBox (March 2012)"
     },
-    "jsdosbox_(november": {
-        "id": "JsDOSBox (November",
-        "name": "JsDOSBox (November"
+    "jsdosbox_(november_2011)": {
+        "id": "JsDOSBox (November 2011)",
+        "name": "JsDOSBox (November 2011)"
     },
     "jsgb": {
         "id": "JSGB",
         "name": "JSGB"
+    },
+    "jsidplay2": {
+        "id": "JSIDPlay2",
+        "name": "JSIDPlay2"
     },
     "jslinux": {
         "id": "JSLinux",
@@ -3951,6 +4311,10 @@
         "id": "Kailleraclient suv",
         "name": "Kailleraclient suv"
     },
+    "kaizen": {
+        "id": "Kaizen",
+        "name": "Kaizen"
+    },
     "kat5200": {
         "id": "Kat5200",
         "name": "Kat5200"
@@ -3972,8 +4336,16 @@
         "name": "KCEmu"
     },
     "kega_fusion": {
-        "id": "Kega Fusion",
-        "name": "Kega Fusion"
+        "id": "KEGA Fusion",
+        "name": "KEGA Fusion"
+    },
+    "kega_fusion_364_xbrz": {
+        "id": "Kega Fusion 364 xBRZ",
+        "name": "Kega Fusion 364 xBRZ"
+    },
+    "kega_fusion_ex": {
+        "id": "Kega Fusion EX",
+        "name": "Kega Fusion EX"
     },
     "kega_fusion_filters_plugins": {
         "id": "Kega Fusion Filters Plugins",
@@ -3991,9 +4363,21 @@
         "id": "KegsX",
         "name": "KegsX"
     },
+    "kenji-nx": {
+        "id": "Kenji-NX",
+        "name": "Kenji-NX"
+    },
     "kernal64": {
         "id": "Kernal64",
         "name": "Kernal64"
+    },
+    "kevboy": {
+        "id": "Kevboy",
+        "name": "Kevboy"
+    },
+    "key2joy": {
+        "id": "Key2Joy",
+        "name": "Key2Joy"
     },
     "kigen": {
         "id": "Kigen",
@@ -4002,6 +4386,10 @@
     "kindred": {
         "id": "kindred",
         "name": "kindred"
+    },
+    "kitsune": {
+        "id": "Kitsune",
+        "name": "Kitsune"
     },
     "kiwi8": {
         "id": "Kiwi8",
@@ -4015,6 +4403,10 @@
         "id": "Korvet Emulator (w/BIOS) for Android",
         "name": "Korvet Emulator (w/BIOS) for Android"
     },
+    "kozynax": {
+        "id": "Kozynax",
+        "name": "Kozynax"
+    },
     "krap-psp": {
         "id": "Krap-psp",
         "name": "Krap-psp"
@@ -4026,6 +4418,14 @@
     "kyty": {
         "id": "Kyty",
         "name": "Kyty"
+    },
+    "kytyplus": {
+        "id": "KytyPlus",
+        "name": "KytyPlus"
+    },
+    "kytyps5": {
+        "id": "KytyPS5",
+        "name": "KytyPS5"
     },
     "laineswitch": {
         "id": "LaiNESwitch",
@@ -4051,21 +4451,29 @@
         "id": "LaunchBox",
         "name": "LaunchBox"
     },
+    "lazuli": {
+        "id": "Lazuli",
+        "name": "Lazuli"
+    },
     "lcd_game_simulator": {
         "id": "LCD Game Simulator",
         "name": "LCD Game Simulator"
     },
-    "lemonboy_(03-12-2009)": {
-        "id": "Lemonboy (03-12-2009)",
-        "name": "Lemonboy (03-12-2009)"
+    "lemonade": {
+        "id": "Lemonade",
+        "name": "Lemonade"
     },
-    "lemonboy_(24-12-2009)": {
-        "id": "Lemonboy (24-12-2009)",
-        "name": "Lemonboy (24-12-2009)"
+    "lemonboy": {
+        "id": "Lemonboy",
+        "name": "Lemonboy"
     },
     "lemonlime": {
         "id": "LemonLime",
         "name": "LemonLime"
+    },
+    "lichii": {
+        "id": "Lichii",
+        "name": "Lichii"
     },
     "lightning_mame_frontend": {
         "id": "Lightning MAME Frontend",
@@ -4074,6 +4482,10 @@
     "lilypad": {
         "id": "LilyPad",
         "name": "LilyPad"
+    },
+    "lime3ds": {
+        "id": "Lime3DS",
+        "name": "Lime3DS"
     },
     "linapple": {
         "id": "LinApple",
@@ -4091,9 +4503,13 @@
         "id": "LnxSpectrum",
         "name": "LnxSpectrum"
     },
-    "logiqx_update!": {
-        "id": "Logiqx update!",
-        "name": "Logiqx update!"
+    "lnxspectrum_64": {
+        "id": "LnxSpectrum 64",
+        "name": "LnxSpectrum 64"
+    },
+    "lodjurds": {
+        "id": "LodjurDS",
+        "name": "LodjurDS"
     },
     "lolsnes": {
         "id": "lolSnes",
@@ -4107,65 +4523,105 @@
         "id": "lsnes rr1 delta1",
         "name": "lsnes rr1 delta1"
     },
-    "lsnes_rr2_beta": {
-        "id": "lsnes rr2 beta",
-        "name": "lsnes rr2 beta"
+    "lsnes_rr1_delta10_epsilon1": {
+        "id": "lsnes rr1 delta10 epsilon1",
+        "name": "lsnes rr1 delta10 epsilon1"
+    },
+    "lsnes_rr1_delta12": {
+        "id": "lsnes rr1 delta12",
+        "name": "lsnes rr1 delta12"
+    },
+    "lsnes_rr1_delta13_epsilon1": {
+        "id": "lsnes rr1 delta13 epsilon1",
+        "name": "lsnes rr1 delta13 epsilon1"
+    },
+    "lsnes_rr1_delta14": {
+        "id": "lsnes rr1 delta14",
+        "name": "lsnes rr1 delta14"
+    },
+    "lsnes_rr1_delta14_epsilon1": {
+        "id": "lsnes rr1 delta14 epsilon1",
+        "name": "lsnes rr1 delta14 epsilon1"
+    },
+    "lsnes_rr1_delta15": {
+        "id": "lsnes rr1 delta15",
+        "name": "lsnes rr1 delta15"
+    },
+    "lsnes_rr1_delta15_epsilon1": {
+        "id": "lsnes rr1 delta15 epsilon1",
+        "name": "lsnes rr1 delta15 epsilon1"
+    },
+    "lsnes_rr1_delta15_epsilon3": {
+        "id": "lsnes rr1 delta15 epsilon3",
+        "name": "lsnes rr1 delta15 epsilon3"
+    },
+    "lsnes_rr1_delta16": {
+        "id": "lsnes rr1 delta16",
+        "name": "lsnes rr1 delta16"
+    },
+    "lsnes_rr1_delta16_epsilon1": {
+        "id": "lsnes rr1 delta16 epsilon1",
+        "name": "lsnes rr1 delta16 epsilon1"
+    },
+    "lsnes_rr1_delta17": {
+        "id": "lsnes rr1 delta17",
+        "name": "lsnes rr1 delta17"
+    },
+    "lsnes_rr1_delta17_epsilon1": {
+        "id": "lsnes rr1 delta17 epsilon1",
+        "name": "lsnes rr1 delta17 epsilon1"
+    },
+    "lsnes_rr1_delta17_epsilon2": {
+        "id": "lsnes rr1 delta17 epsilon2",
+        "name": "lsnes rr1 delta17 epsilon2"
+    },
+    "lsnes_rr1_delta17_epsilon3": {
+        "id": "lsnes rr1 delta17 epsilon3",
+        "name": "lsnes rr1 delta17 epsilon3"
+    },
+    "lsnes_rr1_delta17_epsilon4": {
+        "id": "lsnes rr1 delta17 epsilon4",
+        "name": "lsnes rr1 delta17 epsilon4"
+    },
+    "lsnes_rr1_delta18": {
+        "id": "lsnes rr1 delta18",
+        "name": "lsnes rr1 delta18"
+    },
+    "lsnes_rr1_delta18_epsilon1": {
+        "id": "lsnes rr1 delta18 epsilon1",
+        "name": "lsnes rr1 delta18 epsilon1"
+    },
+    "lsnes_rr1_delta18_epsilon2": {
+        "id": "lsnes rr1 delta18 epsilon2",
+        "name": "lsnes rr1 delta18 epsilon2"
+    },
+    "lsnes_rr1_delta18_epsilon3": {
+        "id": "lsnes rr1 delta18 epsilon3",
+        "name": "lsnes rr1 delta18 epsilon3"
+    },
+    "lsnes_rr2": {
+        "id": "lsnes rr2",
+        "name": "lsnes rr2"
+    },
+    "lsnes_rr2-β25": {
+        "id": "lsnes rr2-β25",
+        "name": "lsnes rr2-β25"
     },
     "luagb": {
         "id": "LuaGB",
         "name": "LuaGB"
     },
-    "luca_-_x-plan_emulation_(2011-01-10)": {
-        "id": "Luca - X-Plan Emulation (2011-01-10)",
-        "name": "Luca - X-Plan Emulation (2011-01-10)"
-    },
-    "luca_elia's_wip": {
-        "id": "Luca Elia's WIP",
-        "name": "Luca Elia's WIP"
-    },
-    "luca_elia_wip:_ibara": {
-        "id": "Luca Elia WIP: Ibara",
-        "name": "Luca Elia WIP: Ibara"
-    },
-    "luca_elia_wip:_metro's_mouse_is_back": {
-        "id": "Luca Elia WIP: Metro's Mouse Is Back",
-        "name": "Luca Elia WIP: Metro's Mouse Is Back"
-    },
-    "luca_elia_wip:_skill_drop_georgia_wip": {
-        "id": "Luca Elia WIP: Skill Drop Georgia WIP",
-        "name": "Luca Elia WIP: Skill Drop Georgia WIP"
-    },
-    "luca_elia_wip:_skimaxx": {
-        "id": "Luca Elia WIP: Skimaxx",
-        "name": "Luca Elia WIP: Skimaxx"
-    },
-    "luca_elia_wip_-_alien_challenge_(2010-05-23)": {
-        "id": "Luca Elia WIP - Alien Challenge (2010-05-23)",
-        "name": "Luca Elia WIP - Alien Challenge (2010-05-23)"
-    },
-    "luca_elia_wip_-_andamiro＇s_hammer": {
-        "id": "Luca Elia WIP - Andamiro＇s Hammer",
-        "name": "Luca Elia WIP - Andamiro＇s Hammer"
-    },
-    "luca_elia_wip_-_funny_fruit": {
-        "id": "Luca Elia WIP - Funny Fruit",
-        "name": "Luca Elia WIP - Funny Fruit"
-    },
-    "luca_elia_wip_-_igs011/igs012_protection_(2010-07-04)": {
-        "id": "Luca Elia WIP - IGS011/IGS012 Protection (2010-07-04)",
-        "name": "Luca Elia WIP - IGS011/IGS012 Protection (2010-07-04)"
-    },
-    "luca_elia_wip_-_jumpman": {
-        "id": "Luca Elia WIP - Jumpman",
-        "name": "Luca Elia WIP - Jumpman"
-    },
-    "luca_elia_wip_-_lord_of_gun": {
-        "id": "Luca Elia WIP - Lord Of Gun",
-        "name": "Luca Elia WIP - Lord Of Gun"
+    "lucky_boy": {
+        "id": "Lucky Boy",
+        "name": "Lucky Boy"
     },
     "ludo": {
         "id": "Ludo",
         "name": "Ludo"
+    },
+    "luna's_project64": {
+        "id": "Luna's Project64",
+        "name": "Luna's Project64"
     },
     "lunar_snes": {
         "id": "Lunar SNES",
@@ -4191,10 +4647,6 @@
         "id": "M.U.G.E.N",
         "name": "M.U.G.E.N"
     },
-    "m1": {
-        "id": "M1",
-        "name": "M1"
-    },
     "m1-android": {
         "id": "M1-Android",
         "name": "M1-Android"
@@ -4203,17 +4655,29 @@
         "id": "M1.XML",
         "name": "M1.XML"
     },
+    "m1_2010/03/13": {
+        "id": "M1 2010/03/13",
+        "name": "M1 2010/03/13"
+    },
+    "m1_for_android": {
+        "id": "M1 for Android",
+        "name": "M1 for Android"
+    },
     "m1fx": {
         "id": "M1FX",
         "name": "M1FX"
+    },
+    "m2000": {
+        "id": "M2000",
+        "name": "M2000"
     },
     "m64p": {
         "id": "m64p",
         "name": "m64p"
     },
-    "m64p_netplay_beta": {
-        "id": "m64p Netplay Beta",
-        "name": "m64p Netplay Beta"
+    "m64p_netplay": {
+        "id": "m64p Netplay",
+        "name": "m64p Netplay"
     },
     "m64py": {
         "id": "M64Py",
@@ -4259,21 +4723,29 @@
         "id": "Magic Engine",
         "name": "Magic Engine"
     },
-    "magicseb": {
-        "id": "MagicSeb",
-        "name": "MagicSeb"
+    "magicseb_360_emulator_pack": {
+        "id": "MagicSeb 360 Emulator Pack",
+        "name": "MagicSeb 360 Emulator Pack"
     },
     "mahnes": {
         "id": "MahNES",
         "name": "MahNES"
     },
-    "makaron_wip": {
-        "id": "Makaron WIP",
-        "name": "Makaron WIP"
+    "makaron_naomi_t12": {
+        "id": "Makaron Naomi T12",
+        "name": "Makaron Naomi T12"
     },
-    "makaron_wip_-_naomi_sega_strike_fighter_wip": {
-        "id": "Makaron WIP - NAOMI SEGA Strike Fighter WIP",
-        "name": "Makaron WIP - NAOMI SEGA Strike Fighter WIP"
+    "makaron_naomi_t12/2": {
+        "id": "Makaron Naomi T12/2",
+        "name": "Makaron Naomi T12/2"
+    },
+    "makaron_naomi_t12/3": {
+        "id": "Makaron Naomi T12/3",
+        "name": "Makaron Naomi T12/3"
+    },
+    "makaron_naomi_t12/5": {
+        "id": "Makaron Naomi T12/5",
+        "name": "Makaron Naomi T12/5"
     },
     "makaronex": {
         "id": "MakaronEX",
@@ -4294,6 +4766,10 @@
     "mame": {
         "id": "MAME",
         "name": "MAME"
+    },
+    "mame-nes": {
+        "id": "MAME-NES",
+        "name": "MAME-NES"
     },
     "mame-nx_release": {
         "id": "MAME-NX Release",
@@ -4359,6 +4835,70 @@
         "id": "MAME4droid(0.139u1)",
         "name": "MAME4droid(0.139u1)"
     },
+    "mame4droid_2024": {
+        "id": "MAME4droid 2024",
+        "name": "MAME4droid 2024"
+    },
+    "mame4droid_2025(0.273)": {
+        "id": "MAME4droid 2025(0.273)",
+        "name": "MAME4droid 2025(0.273)"
+    },
+    "mame4droid_2025(0.274)": {
+        "id": "MAME4droid 2025(0.274)",
+        "name": "MAME4droid 2025(0.274)"
+    },
+    "mame4droid_2025(0.275)": {
+        "id": "MAME4droid 2025(0.275)",
+        "name": "MAME4droid 2025(0.275)"
+    },
+    "mame4droid_2025(0.276)": {
+        "id": "MAME4droid 2025(0.276)",
+        "name": "MAME4droid 2025(0.276)"
+    },
+    "mame4droid_2025(0.277)": {
+        "id": "MAME4droid 2025(0.277)",
+        "name": "MAME4droid 2025(0.277)"
+    },
+    "mame4droid_2025(0.278)": {
+        "id": "MAME4droid 2025(0.278)",
+        "name": "MAME4droid 2025(0.278)"
+    },
+    "mame4droid_2025(0.279)": {
+        "id": "MAME4droid 2025(0.279)",
+        "name": "MAME4droid 2025(0.279)"
+    },
+    "mame4droid_2025(0.280)": {
+        "id": "MAME4droid 2025(0.280)",
+        "name": "MAME4droid 2025(0.280)"
+    },
+    "mame4droid_2025(0.282)": {
+        "id": "MAME4droid 2025(0.282)",
+        "name": "MAME4droid 2025(0.282)"
+    },
+    "mame4droid_2025(0.283)": {
+        "id": "MAME4droid 2025(0.283)",
+        "name": "MAME4droid 2025(0.283)"
+    },
+    "mame4droid_2026(0.284)": {
+        "id": "MAME4droid 2026(0.284)",
+        "name": "MAME4droid 2026(0.284)"
+    },
+    "mame4droid_2026(0.285)": {
+        "id": "MAME4droid 2026(0.285)",
+        "name": "MAME4droid 2026(0.285)"
+    },
+    "mame4droid_2026(0.287)": {
+        "id": "MAME4droid 2026(0.287)",
+        "name": "MAME4droid 2026(0.287)"
+    },
+    "mame4droid_2026(0.288)": {
+        "id": "MAME4droid 2026(0.288)",
+        "name": "MAME4droid 2026(0.288)"
+    },
+    "mame4droid_2026(0.289)": {
+        "id": "MAME4droid 2026(0.289)",
+        "name": "MAME4droid 2026(0.289)"
+    },
     "mame4droid_reloaded": {
         "id": "Mame4droid Reloaded",
         "name": "Mame4droid Reloaded"
@@ -4379,17 +4919,13 @@
         "id": "MAME Artwork Update",
         "name": "MAME Artwork Update"
     },
-    "mame_artwork_update_-_may_the_force_be_with_you...": {
-        "id": "MAME Artwork Update - May the force be with you...",
-        "name": "MAME Artwork Update - May the force be with you..."
-    },
     "mame_classic": {
         "id": "Mame Classic",
         "name": "Mame Classic"
     },
-    "mame_compiler": {
-        "id": "Mame Compiler",
-        "name": "Mame Compiler"
+    "mame_compiler_64": {
+        "id": "Mame Compiler 64",
+        "name": "Mame Compiler 64"
     },
     "mame_content_manager_plus": {
         "id": "MAME Content Manager Plus",
@@ -4415,9 +4951,9 @@
         "id": "MAME Library",
         "name": "MAME Library"
     },
-    "mame_next_version": {
-        "id": "MAME next version",
-        "name": "MAME next version"
+    "mame_neht": {
+        "id": "Mame NEHT",
+        "name": "Mame NEHT"
     },
     "mame_nεh†": {
         "id": "Mame NεH†",
@@ -4483,13 +5019,13 @@
         "id": "MAME Titles Pack",
         "name": "MAME Titles Pack"
     },
-    "mame_wip_-_puzzle_break_emulated": {
-        "id": "MAME WIP - Puzzle Break emulated",
-        "name": "MAME WIP - Puzzle Break emulated"
-    },
     "mame_xml_cleaner": {
         "id": "Mame XML Cleaner",
         "name": "Mame XML Cleaner"
+    },
+    "mamecloudrom": {
+        "id": "MameCloudRom",
+        "name": "MameCloudRom"
     },
     "mamedb": {
         "id": "MameDB",
@@ -4507,21 +5043,9 @@
         "id": "Mameinfo.dat",
         "name": "Mameinfo.dat"
     },
-    "mameload_tng_beta_u44": {
-        "id": "MAMELOAD TNG Beta u44",
-        "name": "MAMELOAD TNG Beta u44"
-    },
-    "mameload_tng_beta_u45": {
-        "id": "MAMELOAD TNG Beta u45",
-        "name": "MAMELOAD TNG Beta u45"
-    },
-    "mameload_tng_beta_u46": {
-        "id": "MAMELOAD TNG Beta u46",
-        "name": "MAMELOAD TNG Beta u46"
-    },
-    "mameload_tng_beta_u47": {
-        "id": "MAMELOAD TNG Beta u47",
-        "name": "MAMELOAD TNG Beta u47"
+    "mameload_tng": {
+        "id": "MAMELOAD TNG",
+        "name": "MAMELOAD TNG"
     },
     "mameox": {
         "id": "MAMEoX",
@@ -4530,6 +5054,10 @@
     "mameoxtras": {
         "id": "MAMEoXtras",
         "name": "MAMEoXtras"
+    },
+    "mameoxtras_final_bonus": {
+        "id": "MAMEoXtras Final Bonus",
+        "name": "MAMEoXtras Final Bonus"
     },
     "mamep99_lagless_edition": {
         "id": "mamep99 Lagless Edition",
@@ -4566,6 +5094,10 @@
     "mameui64": {
         "id": "MameUI64",
         "name": "MameUI64"
+    },
+    "mameui64_plus!": {
+        "id": "MAMEUI64 Plus!",
+        "name": "MAMEUI64 Plus!"
     },
     "mameui_[ash-build]": {
         "id": "MameUI [Ash-Build]",
@@ -4659,6 +5191,18 @@
         "id": "MAMu_＇s MAME Icons Pack Unofficial",
         "name": "MAMu_＇s MAME Icons Pack Unofficial"
     },
+    "mandarine": {
+        "id": "Mandarine",
+        "name": "Mandarine"
+    },
+    "mandarine-neo": {
+        "id": "Mandarine-Neo",
+        "name": "Mandarine-Neo"
+    },
+    "manx": {
+        "id": "MANX",
+        "name": "MANX"
+    },
     "mapleseed": {
         "id": "MapleSeed",
         "name": "MapleSeed"
@@ -4671,9 +5215,17 @@
         "id": "MapleSeed Edge",
         "name": "MapleSeed Edge"
     },
+    "mariani": {
+        "id": "Mariani",
+        "name": "Mariani"
+    },
     "mark5_emulator": {
         "id": "MARK5 Emulator",
         "name": "MARK5 Emulator"
+    },
+    "martypc": {
+        "id": "MartyPC",
+        "name": "MartyPC"
     },
     "masterboy": {
         "id": "MasterBoy",
@@ -4682,6 +5234,10 @@
     "mastergear": {
         "id": "MasterGear",
         "name": "MasterGear"
+    },
+    "maurice": {
+        "id": "Maurice",
+        "name": "Maurice"
     },
     "md.emu_for_android": {
         "id": "MD.emu for Android",
@@ -4703,10 +5259,6 @@
         "id": "MedGui Reborn",
         "name": "MedGui Reborn"
     },
-    "medgui_reborn_beta": {
-        "id": "MedGui Reborn Beta",
-        "name": "MedGui Reborn Beta"
-    },
     "medgui_reborn_test": {
         "id": "MedGui Reborn TEST",
         "name": "MedGui Reborn TEST"
@@ -4722,14 +5274,6 @@
     "mednafen-ps3": {
         "id": "Mednafen-PS3",
         "name": "Mednafen-PS3"
-    },
-    "mednafen-ps3_hg": {
-        "id": "Mednafen-PS3 HG",
-        "name": "Mednafen-PS3 HG"
-    },
-    "mednafen-ps3_svn": {
-        "id": "Mednafen-PS3 SVN",
-        "name": "Mednafen-PS3 SVN"
     },
     "mednafen_front_end": {
         "id": "Mednafen Front End",
@@ -4771,9 +5315,9 @@
         "id": "Medusa",
         "name": "Medusa"
     },
-    "medusa_alpha": {
-        "id": "Medusa alpha",
-        "name": "Medusa alpha"
+    "megaboy": {
+        "id": "MegaBoy",
+        "name": "MegaBoy"
     },
     "megadev9": {
         "id": "MegaDev9",
@@ -4791,10 +5335,6 @@
         "id": "MEKA",
         "name": "MEKA"
     },
-    "meka_wip": {
-        "id": "MEKA WIP",
-        "name": "MEKA WIP"
-    },
     "mekax": {
         "id": "MekaX",
         "name": "MekaX"
@@ -4803,13 +5343,21 @@
         "id": "melonDS",
         "name": "melonDS"
     },
-    "melonds-ps2_alpha": {
-        "id": "melonDS-PS2 Alpha",
-        "name": "melonDS-PS2 Alpha"
+    "melonds-launcher": {
+        "id": "melonDS-launcher",
+        "name": "melonDS-launcher"
+    },
+    "melonds-ps2": {
+        "id": "melonDS-PS2",
+        "name": "melonDS-PS2"
     },
     "melondsi": {
         "id": "melonDSi",
         "name": "melonDSi"
+    },
+    "melonra": {
+        "id": "melonRA",
+        "name": "melonRA"
     },
     "memcardrex": {
         "id": "MemcardRex",
@@ -4831,9 +5379,17 @@
         "id": "Mesen-X",
         "name": "Mesen-X"
     },
+    "mesen-x_final": {
+        "id": "Mesen-X Final",
+        "name": "Mesen-X Final"
+    },
     "mesen2": {
         "id": "Mesen2",
         "name": "Mesen2"
+    },
+    "mesence": {
+        "id": "MesenCE",
+        "name": "MesenCE"
     },
     "mess": {
         "id": "MESS",
@@ -4846,10 +5402,6 @@
     "mess_rerecording": {
         "id": "MESS Rerecording",
         "name": "MESS Rerecording"
-    },
-    "mess_svn": {
-        "id": "MESS SVN",
-        "name": "MESS SVN"
     },
     "messinfo.dat": {
         "id": "MESSinfo.dat",
@@ -4871,9 +5423,9 @@
         "id": "Meteor",
         "name": "Meteor"
     },
-    "metromed_beta": {
-        "id": "MetroMed Beta",
-        "name": "MetroMed Beta"
+    "metromed": {
+        "id": "MetroMed",
+        "name": "MetroMed"
     },
     "metronome": {
         "id": "Metronome",
@@ -4903,6 +5455,10 @@
         "id": "mGBA",
         "name": "mGBA"
     },
+    "mgbax": {
+        "id": "mGBAX",
+        "name": "mGBAX"
+    },
     "micro64": {
         "id": "Micro64",
         "name": "Micro64"
@@ -4927,10 +5483,6 @@
         "id": "Mighty Mo＇s Cheat Code Packs for BSNES",
         "name": "Mighty Mo＇s Cheat Code Packs for BSNES"
     },
-    "mighty_mo＇s_cheat_code_packs_for_bsnes_(2012-04-28)": {
-        "id": "Mighty Mo＇s Cheat Code Packs for BSNES (2012-04-28)",
-        "name": "Mighty Mo＇s Cheat Code Packs for BSNES (2012-04-28)"
-    },
     "mighty_mo＇s_cheat_code_packs_for_kega_fusion": {
         "id": "Mighty Mo＇s Cheat Code Packs for Kega Fusion",
         "name": "Mighty Mo＇s Cheat Code Packs for Kega Fusion"
@@ -4951,6 +5503,10 @@
         "id": "Mini vMac DS",
         "name": "Mini vMac DS"
     },
+    "minicdi": {
+        "id": "miniCDi",
+        "name": "miniCDi"
+    },
     "minimalist_pspsdk": {
         "id": "Minimalist PSPSDK",
         "name": "Minimalist PSPSDK"
@@ -4963,9 +5519,9 @@
         "id": "MisfitMAMEUIFX32",
         "name": "MisfitMAMEUIFX32"
     },
-    "ml_tng_beta_u43": {
-        "id": "ML TNG Beta u43",
-        "name": "ML TNG Beta u43"
+    "ml_tng": {
+        "id": "ML TNG",
+        "name": "ML TNG"
     },
     "mmsap": {
         "id": "mmSAP",
@@ -4979,17 +5535,13 @@
         "id": "Mobile C64",
         "name": "Mobile C64"
     },
-    "model": {
-        "id": "Model",
-        "name": "Model"
+    "model_2_emulator": {
+        "id": "Model 2 Emulator",
+        "name": "Model 2 Emulator"
     },
-    "model2_emulator": {
-        "id": "Model2 Emulator",
-        "name": "Model2 Emulator"
-    },
-    "model3_wip:_daytona_usa": {
-        "id": "Model3 WIP: Daytona USA",
-        "name": "Model3 WIP: Daytona USA"
+    "model_3-vulkan": {
+        "id": "Model 3-Vulkan",
+        "name": "Model 3-Vulkan"
     },
     "modest_gb": {
         "id": "Modest GB",
@@ -5095,29 +5647,29 @@
         "id": "Mupen64Plus AE",
         "name": "Mupen64Plus AE"
     },
-    "mupen64plus_hg": {
-        "id": "Mupen64Plus HG",
-        "name": "Mupen64Plus HG"
-    },
     "mupen64plus_libretro": {
         "id": "Mupen64Plus Libretro",
         "name": "Mupen64Plus Libretro"
     },
-    "mupen64plus_video_arachnoid_hg": {
-        "id": "Mupen64Plus Video Arachnoid HG",
-        "name": "Mupen64Plus Video Arachnoid HG"
+    "mupen64plus_video_arachnoid": {
+        "id": "Mupen64Plus Video Arachnoid",
+        "name": "Mupen64Plus Video Arachnoid"
     },
-    "mupen64plus_video_glide64_hg": {
-        "id": "Mupen64Plus Video Glide64 HG",
-        "name": "Mupen64Plus Video Glide64 HG"
+    "mupen64plus_video_glide64": {
+        "id": "Mupen64Plus Video Glide64",
+        "name": "Mupen64Plus Video Glide64"
     },
-    "mupen64plus_video_glide64mk2_hg": {
-        "id": "Mupen64Plus Video Glide64mk2 HG",
-        "name": "Mupen64Plus Video Glide64mk2 HG"
+    "mupen64plus_video_glide64mk2": {
+        "id": "Mupen64Plus Video Glide64mk2",
+        "name": "Mupen64Plus Video Glide64mk2"
     },
     "mupen64puls_mxe_daily": {
         "id": "Mupen64Puls Mxe Daily",
         "name": "Mupen64Puls Mxe Daily"
+    },
+    "mupen_64_lua": {
+        "id": "Mupen 64 Lua",
+        "name": "Mupen 64 Lua"
     },
     "mupenlaunch": {
         "id": "MupenLaunch",
@@ -5147,10 +5699,6 @@
         "id": "My Nes",
         "name": "My Nes"
     },
-    "my_nes_alpha": {
-        "id": "My Nes Alpha",
-        "name": "My Nes Alpha"
-    },
     "my_nes_gtk": {
         "id": "My Nes GTK",
         "name": "My Nes GTK"
@@ -5162,6 +5710,10 @@
     "myglide64": {
         "id": "MyGlide64",
         "name": "MyGlide64"
+    },
+    "mymcpp": {
+        "id": "myMCpp",
+        "name": "myMCpp"
     },
     "myzoom": {
         "id": "myZoom",
@@ -5183,6 +5735,10 @@
         "id": "N64",
         "name": "N64"
     },
+    "n64_4_droid": {
+        "id": "N64 4 DroiD",
+        "name": "N64 4 DroiD"
+    },
     "n64_input_plugin_serial": {
         "id": "N64 Input Plugin Serial",
         "name": "N64 Input Plugin Serial"
@@ -5203,13 +5759,21 @@
         "id": "NanoBoyAdvance",
         "name": "NanoBoyAdvance"
     },
-    "naomi_test": {
-        "id": "NAOMI Test",
-        "name": "NAOMI Test"
+    "naomi_test_12/2": {
+        "id": "NAOMI Test 12/2",
+        "name": "NAOMI Test 12/2"
+    },
+    "naomi_test_12/7": {
+        "id": "NAOMI Test 12/7",
+        "name": "NAOMI Test 12/7"
     },
     "napple1": {
         "id": "napple1",
         "name": "napple1"
+    },
+    "nc2000": {
+        "id": "NC2000",
+        "name": "NC2000"
     },
     "ncpc": {
         "id": "nCpc",
@@ -5218,10 +5782,6 @@
     "nds-gba_iplayer": {
         "id": "NDS-GBA iPlayer",
         "name": "NDS-GBA iPlayer"
-    },
-    "nds3_–_video_of_the_nintendo_ds_emulator_for_ps3": {
-        "id": "NDS3 – Video of the Nintendo DS Emulator for PS3",
-        "name": "NDS3 – Video of the Nintendo DS Emulator for PS3"
     },
     "nds4droid": {
         "id": "nds4droid",
@@ -5239,13 +5799,13 @@
         "id": "Negatron",
         "name": "Negatron"
     },
-    "neht_builds_and_project_now_stopped": {
-        "id": "NEHT Builds and project now stopped",
-        "name": "NEHT Builds and project now stopped"
+    "neko_project_2": {
+        "id": "Neko Project 2",
+        "name": "Neko Project 2"
     },
-    "neko_project": {
-        "id": "Neko Project",
-        "name": "Neko Project"
+    "neko_project_21w": {
+        "id": "Neko Project 21W",
+        "name": "Neko Project 21W"
     },
     "neko_project_ii": {
         "id": "Neko Project II",
@@ -5268,16 +5828,16 @@
         "name": "Nemu64 unofficial"
     },
     "nemulator": {
-        "id": "Nemulator",
-        "name": "Nemulator"
+        "id": "nemulator",
+        "name": "nemulator"
+    },
+    "nen_emulator": {
+        "id": "Nen Emulator",
+        "name": "Nen Emulator"
     },
     "neo.emu": {
         "id": "Neo.emu",
         "name": "Neo.emu"
-    },
-    "neo_drift_out": {
-        "id": "Neo Drift Out",
-        "name": "Neo Drift Out"
     },
     "neo_myth_menu_dx": {
         "id": "Neo Myth Menu DX",
@@ -5331,9 +5891,17 @@
         "id": "NeoN64Menu",
         "name": "NeoN64Menu"
     },
-    "neon_back_to_life_preview-114": {
-        "id": "Neon Back to Life preview-114",
-        "name": "Neon Back to Life preview-114"
+    "neon_back_to_life": {
+        "id": "Neon Back to Life",
+        "name": "Neon Back to Life"
+    },
+    "neonblt": {
+        "id": "NeonBLT",
+        "name": "NeonBLT"
+    },
+    "neonbtl": {
+        "id": "Neonbtl",
+        "name": "Neonbtl"
     },
     "neopop_sdl": {
         "id": "NeoPop SDL",
@@ -5355,6 +5923,10 @@
         "id": "NeoRaine",
         "name": "NeoRaine"
     },
+    "neost": {
+        "id": "NeoST",
+        "name": "NeoST"
+    },
     "nes-emu": {
         "id": "NES-EMU",
         "name": "NES-EMU"
@@ -5371,9 +5943,9 @@
         "id": "NESbox",
         "name": "NESbox"
     },
-    "nesbox_beta": {
-        "id": "NESbox Beta",
-        "name": "NESbox Beta"
+    "nesd": {
+        "id": "NESd",
+        "name": "NESd"
     },
     "nesds": {
         "id": "NesDS",
@@ -5399,9 +5971,13 @@
         "id": "NESICIDE",
         "name": "NESICIDE"
     },
-    "nester_public_beta": {
-        "id": "Nester public beta",
-        "name": "Nester public beta"
+    "nesicide_v.": {
+        "id": "NESICIDE v.",
+        "name": "NESICIDE v."
+    },
+    "nester_public": {
+        "id": "Nester public",
+        "name": "Nester public"
     },
     "nesterds": {
         "id": "NesterDS",
@@ -5415,9 +5991,17 @@
         "id": "NesterJ AoEX",
         "name": "NesterJ AoEX"
     },
+    "nesterj_aoex_sp": {
+        "id": "NesterJ AoEX SP",
+        "name": "NesterJ AoEX SP"
+    },
     "nestopia": {
         "id": "Nestopia",
         "name": "Nestopia"
+    },
+    "nestopia_cheat_code_pack": {
+        "id": "Nestopia Cheat Code Pack",
+        "name": "Nestopia Cheat Code Pack"
     },
     "nestopia_devel": {
         "id": "Nestopia devel",
@@ -5426,6 +6010,10 @@
     "nestopia_game_genie_pack": {
         "id": "Nestopia Game Genie Pack",
         "name": "Nestopia Game Genie Pack"
+    },
+    "nestopia_jg": {
+        "id": "Nestopia JG",
+        "name": "Nestopia JG"
     },
     "nestopia_ue": {
         "id": "Nestopia UE",
@@ -5443,6 +6031,10 @@
         "id": "NesUEFI",
         "name": "NesUEFI"
     },
+    "net-nes": {
+        "id": "NET-NES",
+        "name": "NET-NES"
+    },
     "netblade": {
         "id": "netBlade",
         "name": "netBlade"
@@ -5451,21 +6043,25 @@
         "id": "Netplay Input Plugin",
         "name": "Netplay Input Plugin"
     },
-    "new_free_roms_posted_(2011-01-25)": {
-        "id": "New Free ROMs Posted (2011-01-25)",
-        "name": "New Free ROMs Posted (2011-01-25)"
-    },
     "new_listpack_for_m1": {
         "id": "New listpack for M1",
         "name": "New listpack for M1"
     },
-    "new_nes_dumps_by_cah4e3": {
-        "id": "New NES dumps by CaH4e3",
-        "name": "New NES dumps by CaH4e3"
+    "new_lle_rsp_plugin_for_project64": {
+        "id": "New LLE RSP Plugin for Project64",
+        "name": "New LLE RSP Plugin for Project64"
     },
     "new_nes_dumps_by_cah4e3_-_fami_dumping_project": {
         "id": "New NES dumps by CaH4e3 - FAMI Dumping project",
         "name": "New NES dumps by CaH4e3 - FAMI Dumping project"
+    },
+    "nexen": {
+        "id": "Nexen",
+        "name": "Nexen"
+    },
+    "nexium": {
+        "id": "NeXium",
+        "name": "NeXium"
     },
     "next_emulator_pack": {
         "id": "NEXT Emulator Pack",
@@ -5474,6 +6070,10 @@
     "next_emulator_pack_for_ps3": {
         "id": "NEXT Emulator Pack for PS3",
         "name": "NEXT Emulator Pack for PS3"
+    },
+    "nextendo": {
+        "id": "Nextendo",
+        "name": "Nextendo"
     },
     "nezplug++": {
         "id": "NEZplug++",
@@ -5494,6 +6094,18 @@
     "ngp.emu_for_android": {
         "id": "NGP.emu for Android",
         "name": "NGP.emu for Android"
+    },
+    "ngpcraft": {
+        "id": "NgpCraft",
+        "name": "NgpCraft"
+    },
+    "ngpcraft_emulator": {
+        "id": "NgpCraft Emulator",
+        "name": "NgpCraft Emulator"
+    },
+    "ngpds": {
+        "id": "NGPDS",
+        "name": "NGPDS"
     },
     "nice64": {
         "id": "NICE64",
@@ -5542,10 +6154,6 @@
     "njoy": {
         "id": "nJoy",
         "name": "nJoy"
-    },
-    "nj’s_emulators": {
-        "id": "NJ’s Emulators",
-        "name": "NJ’s Emulators"
     },
     "nmamex2": {
         "id": "nmamex2",
@@ -5627,6 +6235,10 @@
         "id": "NRage Input Plugin",
         "name": "NRage Input Plugin"
     },
+    "ns-emu-mod-downloader": {
+        "id": "ns-emu-mod-downloader",
+        "name": "ns-emu-mod-downloader"
+    },
     "nsfplay": {
         "id": "NSFPlay",
         "name": "NSFPlay"
@@ -5675,10 +6287,6 @@
         "id": "nullDC/NAOMI",
         "name": "nullDC/NAOMI"
     },
-    "nulldc_news_-_dreamcast_emulator_for_ps3_news": {
-        "id": "NullDC News - Dreamcast Emulator for PS3 News",
-        "name": "NullDC News - Dreamcast Emulator for PS3 News"
-    },
     "nulldc_optimized": {
         "id": "nullDC optimized",
         "name": "nullDC optimized"
@@ -5695,6 +6303,10 @@
         "id": "Nuvee PSX Controller",
         "name": "Nuvee PSX Controller"
     },
+    "nxemu": {
+        "id": "NxEmu",
+        "name": "NxEmu"
+    },
     "o2em": {
         "id": "O2EM",
         "name": "O2EM"
@@ -5703,6 +6315,14 @@
         "id": "O2em2",
         "name": "O2em2"
     },
+    "obentou": {
+        "id": "Obentou",
+        "name": "Obentou"
+    },
+    "oboromi": {
+        "id": "Oboromi",
+        "name": "Oboromi"
+    },
     "octalyzer": {
         "id": "Octalyzer",
         "name": "Octalyzer"
@@ -5710,6 +6330,10 @@
     "odamex": {
         "id": "ODAMEX",
         "name": "ODAMEX"
+    },
+    "odin": {
+        "id": "Odin",
+        "name": "Odin"
     },
     "ohboy": {
         "id": "OhBoy",
@@ -5759,6 +6383,10 @@
         "id": "OpenBOR",
         "name": "OpenBOR"
     },
+    "opencdi": {
+        "id": "OpenCDi",
+        "name": "OpenCDi"
+    },
     "openemu": {
         "id": "OpenEmu",
         "name": "OpenEmu"
@@ -5779,9 +6407,17 @@
         "id": "openMSX Launcher",
         "name": "openMSX Launcher"
     },
+    "openrom": {
+        "id": "OpenROM",
+        "name": "OpenROM"
+    },
     "openttd": {
         "id": "OpenTTD",
         "name": "OpenTTD"
+    },
+    "orao_emulator": {
+        "id": "Orao emulator",
+        "name": "Orao emulator"
     },
     "oriculator": {
         "id": "Oriculator",
@@ -5839,6 +6475,22 @@
         "id": "Pacman Emulator",
         "name": "Pacman Emulator"
     },
+    "padforge": {
+        "id": "PadForge",
+        "name": "PadForge"
+    },
+    "panda3ds": {
+        "id": "Panda3DS",
+        "name": "Panda3DS"
+    },
+    "panda3ds_christmas_2024_edition": {
+        "id": "Panda3DS Christmas 2024 edition",
+        "name": "Panda3DS Christmas 2024 edition"
+    },
+    "panda3ds_post-halloween_edition": {
+        "id": "Panda3DS post-Halloween edition",
+        "name": "Panda3DS post-Halloween edition"
+    },
     "pandora-x48": {
         "id": "Pandora-X48",
         "name": "Pandora-X48"
@@ -5851,9 +6503,9 @@
         "id": "Pantheon",
         "name": "Pantheon"
     },
-    "parachute": {
-        "id": "Parachute",
-        "name": "Parachute"
+    "parachute_e4/1.0": {
+        "id": "Parachute E4/1.0",
+        "name": "Parachute E4/1.0"
     },
     "parajve": {
         "id": "ParaJVE",
@@ -5895,6 +6547,10 @@
         "id": "PC8801MA",
         "name": "PC8801MA"
     },
+    "pcbox": {
+        "id": "PCBox",
+        "name": "PCBox"
+    },
     "pce": {
         "id": "PCE",
         "name": "PCE"
@@ -5911,9 +6567,17 @@
         "id": "PCE/ibmpc",
         "name": "PCE/ibmpc"
     },
+    "pce/ibmpc_20110218-b6d41ac": {
+        "id": "PCE/ibmpc 20110218-b6d41ac",
+        "name": "PCE/ibmpc 20110218-b6d41ac"
+    },
     "pce/macplus": {
         "id": "PCE/macplus",
         "name": "PCE/macplus"
+    },
+    "pce/macplus_20110218-b6d41ac": {
+        "id": "PCE/macplus 20110218-b6d41ac",
+        "name": "PCE/macplus 20110218-b6d41ac"
     },
     "pce_for_psp": {
         "id": "PCE for PSP",
@@ -5935,6 +6599,10 @@
         "id": "PCem-wx-SDL2",
         "name": "PCem-wx-SDL2"
     },
+    "pcfxemu": {
+        "id": "PCFXemu",
+        "name": "PCFXemu"
+    },
     "pcsp": {
         "id": "PCSP",
         "name": "PCSP"
@@ -5942,14 +6610,6 @@
     "pcsp-udb": {
         "id": "pcsp-udb",
         "name": "pcsp-udb"
-    },
-    "pcsp_news_-_some_issues_with_pcsp": {
-        "id": "PCSP NEWS - Some issues with pcsp",
-        "name": "PCSP NEWS - Some issues with pcsp"
-    },
-    "pcsp_wip_progress": {
-        "id": "PCSP WIP progress",
-        "name": "PCSP WIP progress"
     },
     "pcsx-rearmed": {
         "id": "PCSX-ReARMed",
@@ -5967,21 +6627,21 @@
         "id": "Pcsx-ReVolution",
         "name": "Pcsx-ReVolution"
     },
-    "pcsx-revolution_rev7": {
-        "id": "Pcsx-ReVolution rev7",
-        "name": "Pcsx-ReVolution rev7"
-    },
     "pcsx2": {
         "id": "PCSX2",
         "name": "PCSX2"
+    },
+    "pcsx2-reliquary": {
+        "id": "PCSX2-Reliquary",
+        "name": "PCSX2-Reliquary"
     },
     "pcsx2-speed-r9": {
         "id": "Pcsx2-Speed-r9",
         "name": "Pcsx2-Speed-r9"
     },
-    "pcsx2/mac_-": {
-        "id": "PCSX2/Mac -",
-        "name": "PCSX2/Mac -"
+    "pcsx2/mac": {
+        "id": "PCSX2/Mac",
+        "name": "PCSX2/Mac"
     },
     "pcsx2_(linux)": {
         "id": "PCSX2 (Linux)",
@@ -5990,10 +6650,6 @@
     "pcsx2_async-iso": {
         "id": "PCSX2 async-iso",
         "name": "PCSX2 async-iso"
-    },
-    "pcsx2_beta": {
-        "id": "PCSX2 beta",
-        "name": "PCSX2 beta"
     },
     "pcsx2_gregmiscellaneous": {
         "id": "PCSX2 GregMiscellaneous",
@@ -6004,24 +6660,16 @@
         "name": "PCSX2 gsdx-ogl-wnd"
     },
     "pcsx2_newdmac": {
-        "id": "PCSX2 NewDMAC",
-        "name": "PCSX2 NewDMAC"
+        "id": "PCSX2 newdmac",
+        "name": "PCSX2 newdmac"
     },
     "pcsx2_newhostvm": {
         "id": "PCSX2 newHostVM",
         "name": "PCSX2 newHostVM"
     },
-    "pcsx2_official_beta": {
-        "id": "PCSX2 official Beta",
-        "name": "PCSX2 official Beta"
-    },
-    "pcsx2_official_beta_plugins_pack_[09_august": {
-        "id": "PCSX2 Official Beta Plugins Pack [09 August",
-        "name": "PCSX2 Official Beta Plugins Pack [09 August"
-    },
-    "pcsx2_official_beta_plugins_pack_[11_march": {
-        "id": "PCSX2 Official Beta Plugins Pack [11 March",
-        "name": "PCSX2 Official Beta Plugins Pack [11 March"
+    "pcsx2_official": {
+        "id": "PCSX2 Official",
+        "name": "PCSX2 Official"
     },
     "pcsx2_official_plugins": {
         "id": "PCSX2 official plugins",
@@ -6030,10 +6678,6 @@
     "pcsx2_reorderingmtgs": {
         "id": "PCSX2 ReorderingMTGS",
         "name": "PCSX2 ReorderingMTGS"
-    },
-    "pcsx2_rev.805": {
-        "id": "PCSX2 Rev.805",
-        "name": "PCSX2 Rev.805"
     },
     "pcsx2_shaders_pack": {
         "id": "PCSX2 Shaders Pack",
@@ -6059,6 +6703,10 @@
         "id": "PCSX2Fx",
         "name": "PCSX2Fx"
     },
+    "pcsx2x6": {
+        "id": "PCSX2x6",
+        "name": "PCSX2x6"
+    },
     "pcsx4all": {
         "id": "PCSX4ALL",
         "name": "PCSX4ALL"
@@ -6070,14 +6718,6 @@
     "pcsx_reloaded": {
         "id": "PCSX Reloaded",
         "name": "PCSX Reloaded"
-    },
-    "pcsx_reloaded_alpha": {
-        "id": "PCSX Reloaded Alpha",
-        "name": "PCSX Reloaded Alpha"
-    },
-    "pcsx_reloaded_beta": {
-        "id": "PCSX Reloaded Beta",
-        "name": "PCSX Reloaded Beta"
     },
     "pcsx_rerecording": {
         "id": "PCSX Rerecording",
@@ -6091,17 +6731,17 @@
         "id": "PCSXBox",
         "name": "PCSXBox"
     },
-    "pcsxr": {
-        "id": "PCSXR",
-        "name": "PCSXR"
-    },
     "pcsxr-xenon": {
         "id": "PCSXR-Xenon",
         "name": "PCSXR-Xenon"
     },
-    "pcsxr-xenon_alpha": {
-        "id": "PCSXR-Xenon Alpha",
-        "name": "PCSXR-Xenon Alpha"
+    "pcsxr_360": {
+        "id": "PCSXR 360",
+        "name": "PCSXR 360"
+    },
+    "pcxsense": {
+        "id": "PCXSense",
+        "name": "PCXSense"
     },
     "pdf_bookzoom": {
         "id": "PDF_Bookzoom",
@@ -6127,18 +6767,6 @@
         "id": "Pegasus Frontend",
         "name": "Pegasus Frontend"
     },
-    "pegasus_frontend_alpha": {
-        "id": "Pegasus Frontend Alpha",
-        "name": "Pegasus Frontend Alpha"
-    },
-    "pegasus_frontend_alpha14-110": {
-        "id": "Pegasus Frontend Alpha14-110",
-        "name": "Pegasus Frontend Alpha14-110"
-    },
-    "pegasus_frontend_alpha14-113": {
-        "id": "Pegasus Frontend Alpha14-113",
-        "name": "Pegasus Frontend Alpha14-113"
-    },
     "pemu": {
         "id": "pEMU",
         "name": "pEMU"
@@ -6155,10 +6783,6 @@
         "id": "pfeMame",
         "name": "pfeMame"
     },
-    "philwip_mame_wip": {
-        "id": "PhilWIP MAME WIP",
-        "name": "PhilWIP MAME WIP"
-    },
     "phoenix": {
         "id": "Phoenix",
         "name": "Phoenix"
@@ -6170,6 +6794,10 @@
     "picodrive": {
         "id": "PicoDrive",
         "name": "PicoDrive"
+    },
+    "picodrive_3ds": {
+        "id": "PicoDrive 3DS",
+        "name": "PicoDrive 3DS"
     },
     "picodrive_ps2": {
         "id": "PicoDrive PS2",
@@ -6186,6 +6814,10 @@
     "pinky": {
         "id": "Pinky",
         "name": "Pinky"
+    },
+    "pinmame": {
+        "id": "PinMAME",
+        "name": "PinMAME"
     },
     "pinmame_&_pinmame32_&_visual_pinmame": {
         "id": "PinMAME & PinMAME32 & Visual PinMAME",
@@ -6211,6 +6843,10 @@
         "id": "Play!",
         "name": "Play!"
     },
+    "playgb": {
+        "id": "PlayGB",
+        "name": "PlayGB"
+    },
     "playnite": {
         "id": "Playnite",
         "name": "Playnite"
@@ -6219,9 +6855,9 @@
         "id": "PlayOnLinux",
         "name": "PlayOnLinux"
     },
-    "playstation": {
-        "id": "PlayStation",
-        "name": "PlayStation"
+    "plumsg": {
+        "id": "plumsg",
+        "name": "plumsg"
     },
     "plus4emu": {
         "id": "plus4emu",
@@ -6239,6 +6875,10 @@
         "id": "PockEmul",
         "name": "PockEmul"
     },
+    "pockethle": {
+        "id": "PocketHLE",
+        "name": "PocketHLE"
+    },
     "pocketnes": {
         "id": "PocketNES",
         "name": "PocketNES"
@@ -6250,6 +6890,14 @@
     "pokemini_emulator": {
         "id": "PokeMini Emulator",
         "name": "PokeMini Emulator"
+    },
+    "pokket": {
+        "id": "Pokket",
+        "name": "Pokket"
+    },
+    "pokketstation": {
+        "id": "pokketstation",
+        "name": "pokketstation"
     },
     "pokopom_psx_pad_plugin": {
         "id": "Pokopom PSX Pad Plugin",
@@ -6263,13 +6911,17 @@
         "id": "Pom1",
         "name": "Pom1"
     },
+    "pom2": {
+        "id": "Pom2",
+        "name": "Pom2"
+    },
     "popstarter": {
         "id": "POPStarter",
         "name": "POPStarter"
     },
-    "portable_final_burn_alpha": {
-        "id": "Portable Final Burn Alpha",
-        "name": "Portable Final Burn Alpha"
+    "portable_final_burn": {
+        "id": "Portable Final Burn",
+        "name": "Portable Final Burn"
     },
     "powerradio": {
         "id": "PowerRadio",
@@ -6307,6 +6959,10 @@
         "id": "PrBoom-plus",
         "name": "PrBoom-plus"
     },
+    "primehack": {
+        "id": "PrimeHack",
+        "name": "PrimeHack"
+    },
     "progammax": {
         "id": "ProGammaX",
         "name": "ProGammaX"
@@ -6343,17 +6999,13 @@
         "id": "Progetto-SNAPS Update",
         "name": "Progetto-SNAPS Update"
     },
-    "progetto-snaps_w.i.p._manuals_[for": {
-        "id": "progetto-SNAPS W.I.P. Manuals [for",
-        "name": "progetto-SNAPS W.I.P. Manuals [for"
-    },
-    "project": {
-        "id": "Project",
-        "name": "Project"
-    },
     "project64": {
         "id": "Project64",
         "name": "Project64"
+    },
+    "project64_legacy_open": {
+        "id": "Project64 Legacy Open",
+        "name": "Project64 Legacy Open"
     },
     "project64_netplay": {
         "id": "Project64 Netplay",
@@ -6371,9 +7023,13 @@
         "id": "Project64K7E",
         "name": "Project64K7E"
     },
-    "project64k7e_(2nd_update_-_april": {
-        "id": "Project64K7E (2nd Update - April",
-        "name": "Project64K7E (2nd Update - April"
+    "project64k7e_(2nd_update_-_april_2011)": {
+        "id": "Project64K7E (2nd Update - April 2011)",
+        "name": "Project64K7E (2nd Update - April 2011)"
+    },
+    "project64k7e_3rd_update": {
+        "id": "Project64K7E 3rd Update",
+        "name": "Project64K7E 3rd Update"
     },
     "project64k_legacy": {
         "id": "Project64K Legacy",
@@ -6403,9 +7059,9 @@
         "id": "Project Mercury",
         "name": "Project Mercury"
     },
-    "project_update:_ps3_nintendo_ds_emulator_[work_in_progress]": {
-        "id": "Project Update: PS3 Nintendo DS Emulator [Work in Progress]",
-        "name": "Project Update: PS3 Nintendo DS Emulator [Work in Progress]"
+    "projectarcade": {
+        "id": "ProjectArcade",
+        "name": "ProjectArcade"
     },
     "prometheus_iso_loader_for": {
         "id": "Prometheus ISO Loader for",
@@ -6414,6 +7070,10 @@
     "proosystem": {
         "id": "ProoSystem",
         "name": "ProoSystem"
+    },
+    "prosper": {
+        "id": "prosper",
+        "name": "prosper"
     },
     "prosystem": {
         "id": "ProSystem",
@@ -6435,6 +7095,10 @@
         "id": "PS2 Cheats pack (Numbers-S)",
         "name": "PS2 Cheats pack (Numbers-S)"
     },
+    "ps2_cheats_pack_new_pnach_format": {
+        "id": "PS2 Cheats Pack New Pnach Format",
+        "name": "PS2 Cheats Pack New Pnach Format"
+    },
     "ps2_cheats_pack_numbers-k": {
         "id": "PS2 Cheats Pack Numbers-K",
         "name": "PS2 Cheats Pack Numbers-K"
@@ -6451,33 +7115,21 @@
         "id": "PS2InfoGB",
         "name": "PS2InfoGB"
     },
-    "ps2launcher_(09.06.04)": {
-        "id": "PS2Launcher (09.06.04)",
-        "name": "PS2Launcher (09.06.04)"
-    },
-    "ps2launcher_build": {
-        "id": "PS2Launcher Build",
-        "name": "PS2Launcher Build"
+    "ps2launcher": {
+        "id": "PS2Launcher",
+        "name": "PS2Launcher"
     },
     "ps2lunch": {
         "id": "PS2Lunch",
         "name": "PS2Lunch"
     },
-    "ps2psxe_public_preview": {
-        "id": "PS2PSXe Public Preview",
-        "name": "PS2PSXe Public Preview"
+    "ps2psxe_public": {
+        "id": "PS2PSXe Public",
+        "name": "PS2PSXe Public"
     },
     "ps2vice": {
         "id": "ps2vice",
         "name": "ps2vice"
-    },
-    "ps3": {
-        "id": "PS3",
-        "name": "PS3"
-    },
-    "ps364_-_n64_emulator:_progress_report": {
-        "id": "PS364 - N64 Emulator: Progress Report",
-        "name": "PS364 - N64 Emulator: Progress Report"
     },
     "ps3_cheat_enabler": {
         "id": "PS3 Cheat Enabler",
@@ -6507,14 +7159,6 @@
         "id": "PS3 MAME",
         "name": "PS3 MAME"
     },
-    "ps3_news_-_n64_emulator_alpha_version_on_ps3": {
-        "id": "PS3 NEWS - N64 Emulator Alpha Version on PS3",
-        "name": "PS3 NEWS - N64 Emulator Alpha Version on PS3"
-    },
-    "ps3_nulldc_dreamcast_emulator": {
-        "id": "PS3 nullDC Dreamcast Emulator",
-        "name": "PS3 nullDC Dreamcast Emulator"
-    },
     "ps3_prox": {
         "id": "PS3 Prox",
         "name": "PS3 Prox"
@@ -6523,17 +7167,9 @@
         "id": "PS3 SPU Emulation",
         "name": "PS3 SPU Emulation"
     },
-    "ps3_spu_emulation_beta": {
-        "id": "PS3 SPU Emulation Beta",
-        "name": "PS3 SPU Emulation Beta"
-    },
     "ps3_spu_simulation": {
         "id": "PS3 SPU Simulation",
         "name": "PS3 SPU Simulation"
-    },
-    "ps3_spu_simulation_alpha": {
-        "id": "PS3 SPU Simulation Alpha",
-        "name": "PS3 SPU Simulation Alpha"
     },
     "ps3_tools_collection": {
         "id": "PS3 Tools Collection",
@@ -6555,17 +7191,13 @@
         "id": "PS3loadX",
         "name": "PS3loadX"
     },
-    "ps3roar": {
-        "id": "PS3Roar",
-        "name": "PS3Roar"
+    "ps3roar_emulator": {
+        "id": "PS3Roar Emulator",
+        "name": "PS3Roar Emulator"
     },
-    "ps3sx_beta": {
-        "id": "PS3SX Beta",
-        "name": "PS3SX Beta"
-    },
-    "ps3sx_pre": {
-        "id": "PS3SX Pre",
-        "name": "PS3SX Pre"
+    "ps3sx": {
+        "id": "PS3SX",
+        "name": "PS3SX"
     },
     "ps3vecx": {
         "id": "PS3Vecx",
@@ -6579,9 +7211,21 @@
         "id": "PS4Delta",
         "name": "PS4Delta"
     },
-    "ps4emx_poc_alpha": {
-        "id": "PS4EMX POC Alpha",
-        "name": "PS4EMX POC Alpha"
+    "ps4emx_poc": {
+        "id": "PS4EMX POC",
+        "name": "PS4EMX POC"
+    },
+    "ps5pcem": {
+        "id": "PS5PCEM",
+        "name": "PS5PCEM"
+    },
+    "ps5rs": {
+        "id": "ps5rs",
+        "name": "ps5rs"
+    },
+    "ps_multi_tools": {
+        "id": "PS Multi Tools",
+        "name": "PS Multi Tools"
     },
     "psarcade_classic+": {
         "id": "PSArcade Classic+",
@@ -6591,10 +7235,6 @@
         "id": "PSFx",
         "name": "PSFx"
     },
-    "psms_reloaded_new": {
-        "id": "PSMS Reloaded New",
-        "name": "PSMS Reloaded New"
-    },
     "psnes": {
         "id": "pSNES",
         "name": "pSNES"
@@ -6602,6 +7242,10 @@
     "psnope": {
         "id": "PSNope",
         "name": "PSNope"
+    },
+    "psoff": {
+        "id": "psOff",
+        "name": "psOff"
     },
     "psp": {
         "id": "PSP",
@@ -6622,6 +7266,10 @@
     "psp3d.prx": {
         "id": "PSP3D.prx",
         "name": "PSP3D.prx"
+    },
+    "psp_3d_plugin": {
+        "id": "PSP 3D Plugin",
+        "name": "PSP 3D Plugin"
     },
     "psp_cfw": {
         "id": "PSP CFW",
@@ -6703,10 +7351,6 @@
         "id": "PSPXTI",
         "name": "PSPXTI"
     },
-    "psx/n64_emulators_for_wii/gamecube_news": {
-        "id": "PSX/N64 Emulators for Wii/Gamecube News",
-        "name": "PSX/N64 Emulators for Wii/Gamecube News"
-    },
     "psx4droid": {
         "id": "psx4droid",
         "name": "psx4droid"
@@ -6747,6 +7391,10 @@
         "id": "PSXACT develop",
         "name": "PSXACT develop"
     },
+    "psxe": {
+        "id": "PSXE",
+        "name": "PSXE"
+    },
     "psxjin": {
         "id": "PSXjin",
         "name": "PSXjin"
@@ -6763,9 +7411,13 @@
         "id": "puNES",
         "name": "puNES"
     },
-    "pupview_beta": {
-        "id": "PUPView Beta",
-        "name": "PUPView Beta"
+    "pupview": {
+        "id": "PUPView",
+        "name": "PUPView"
+    },
+    "pureikyubu": {
+        "id": "Pureikyubu",
+        "name": "Pureikyubu"
     },
     "purify": {
         "id": "purify",
@@ -6831,13 +7483,17 @@
         "id": "QEMU/9821 for Windows",
         "name": "QEMU/9821 for Windows"
     },
-    "qemu/9821_on_windows_snapshot": {
-        "id": "QEMU/9821 on Windows Snapshot",
-        "name": "QEMU/9821 on Windows Snapshot"
+    "qemu/9821_on_windows": {
+        "id": "QEMU/9821 on Windows",
+        "name": "QEMU/9821 on Windows"
     },
     "qemu_interface": {
         "id": "QEMU Interface",
         "name": "QEMU Interface"
+    },
+    "qemu_manager": {
+        "id": "QEMU Manager",
+        "name": "QEMU Manager"
     },
     "qemu_on_windows": {
         "id": "QEMU on Windows",
@@ -6858,14 +7514,6 @@
     "quickplay": {
         "id": "QuickPlay",
         "name": "QuickPlay"
-    },
-    "quizard": {
-        "id": "Quizard",
-        "name": "Quizard"
-    },
-    "r._belmont's_wip_emporium_-_getting_into_phase": {
-        "id": "R. Belmont's WIP Emporium - Getting into phase",
-        "name": "R. Belmont's WIP Emporium - Getting into phase"
     },
     "ra-player": {
         "id": "RA-Player",
@@ -6915,10 +7563,6 @@
         "id": "Raw Games Installer",
         "name": "Raw Games Installer"
     },
-    "rb_update:_zero_gunner": {
-        "id": "RB Update: Zero Gunner",
-        "name": "RB Update: Zero Gunner"
-    },
     "rcomage": {
         "id": "Rcomage",
         "name": "Rcomage"
@@ -6947,6 +7591,10 @@
         "id": "Recompile",
         "name": "Recompile"
     },
+    "red_viper": {
+        "id": "Red Viper",
+        "name": "Red Viper"
+    },
     "redream": {
         "id": "Redream",
         "name": "Redream"
@@ -6963,13 +7611,9 @@
         "id": "Reicast",
         "name": "Reicast"
     },
-    "reip's_mame_wip": {
-        "id": "Reip's MAME WIP",
-        "name": "Reip's MAME WIP"
-    },
-    "reip_wip": {
-        "id": "Reip WIP",
-        "name": "Reip WIP"
+    "reicast_0.r5_for_android": {
+        "id": "reicast 0.r5 for Android",
+        "name": "reicast 0.r5 for Android"
     },
     "remote_play": {
         "id": "Remote Play",
@@ -6991,13 +7635,17 @@
         "id": "Rese",
         "name": "Rese"
     },
-    "residual_wip": {
-        "id": "Residual WIP",
-        "name": "Residual WIP"
+    "residual": {
+        "id": "Residual",
+        "name": "Residual"
     },
     "residualvm": {
         "id": "ResidualVM",
         "name": "ResidualVM"
+    },
+    "retro_multi_tools": {
+        "id": "Retro Multi Tools",
+        "name": "Retro Multi Tools"
     },
     "retro_virtual_machine": {
         "id": "Retro Virtual Machine",
@@ -7006,6 +7654,14 @@
     "retroarch": {
         "id": "RetroArch",
         "name": "RetroArch"
+    },
+    "retroarch-k": {
+        "id": "RetroArch-K",
+        "name": "RetroArch-K"
+    },
+    "retroarch_360": {
+        "id": "RetroArch 360",
+        "name": "RetroArch 360"
     },
     "retroarch_android": {
         "id": "RetroArch Android",
@@ -7027,13 +7683,29 @@
         "id": "RetroCopy",
         "name": "RetroCopy"
     },
+    "retrodeck": {
+        "id": "RetroDECK",
+        "name": "RetroDECK"
+    },
     "retrofe": {
         "id": "RetroFE",
         "name": "RetroFE"
     },
-    "retrofire_build": {
-        "id": "Retrofire Build",
-        "name": "Retrofire Build"
+    "retrofire": {
+        "id": "Retrofire",
+        "name": "Retrofire"
+    },
+    "retrogbm": {
+        "id": "RetroGBm",
+        "name": "RetroGBm"
+    },
+    "retrohub": {
+        "id": "RetroHub",
+        "name": "RetroHub"
+    },
+    "retrom": {
+        "id": "Retrom",
+        "name": "Retrom"
     },
     "retromap": {
         "id": "RetroMap",
@@ -7059,29 +7731,13 @@
         "id": "RMG",
         "name": "RMG"
     },
-    "robbie_dox_wip_-_who?..._who?..._whores?..._(nsfw)": {
-        "id": "Robbie Dox WIP - Who?... Who?... Whores?... (NSFW)",
-        "name": "Robbie Dox WIP - Who?... Who?... Whores?... (NSFW)"
+    "rmg-k": {
+        "id": "RMG-K",
+        "name": "RMG-K"
     },
-    "roberto_fresca_wip": {
-        "id": "Roberto Fresca WIP",
-        "name": "Roberto Fresca WIP"
-    },
-    "roberto_fresca_wip_-_fun_world_quiz": {
-        "id": "Roberto Fresca WIP - Fun World Quiz",
-        "name": "Roberto Fresca WIP - Fun World Quiz"
-    },
-    "roberto_fresca_wip_-_mixing_games...": {
-        "id": "Roberto Fresca WIP - Mixing games...",
-        "name": "Roberto Fresca WIP - Mixing games..."
-    },
-    "robiza_wip": {
-        "id": "Robiza WIP",
-        "name": "Robiza WIP"
-    },
-    "robiza_wip_-_toaplan": {
-        "id": "Robiza WIP - Toaplan",
-        "name": "Robiza WIP - Toaplan"
+    "rmg-k_test": {
+        "id": "RMG-K Test",
+        "name": "RMG-K Test"
     },
     "rockbot": {
         "id": "RockBot",
@@ -7119,6 +7775,10 @@
         "id": "RomCenter",
         "name": "RomCenter"
     },
+    "romm": {
+        "id": "RomM",
+        "name": "RomM"
+    },
     "rommanager_dats": {
         "id": "RomManager Dats",
         "name": "RomManager Dats"
@@ -7126,6 +7786,10 @@
     "rommanager_mame_dats": {
         "id": "RomManager MAME Dats",
         "name": "RomManager MAME Dats"
+    },
+    "romsieve": {
+        "id": "RomSieve",
+        "name": "RomSieve"
     },
     "romsorter": {
         "id": "ROMSorter",
@@ -7147,6 +7811,10 @@
         "id": "RPCEmu Spoon Edition",
         "name": "RPCEmu Spoon Edition"
     },
+    "rpcn": {
+        "id": "RPCN",
+        "name": "RPCN"
+    },
     "rpcs3": {
         "id": "rpcs3",
         "name": "rpcs3"
@@ -7158,6 +7826,10 @@
     "rpcs3_d3d12-wip": {
         "id": "rpcs3 D3D12-WIP",
         "name": "rpcs3 D3D12-WIP"
+    },
+    "rpcs3_for_android": {
+        "id": "rpcs3 for Android",
+        "name": "rpcs3 for Android"
     },
     "rpcs3_refactoring": {
         "id": "rpcs3 refactoring",
@@ -7175,10 +7847,6 @@
         "id": "rpcs3 vulkan-wip",
         "name": "rpcs3 vulkan-wip"
     },
-    "rpcs3_wip": {
-        "id": "rpcs3 wip",
-        "name": "rpcs3 wip"
-    },
     "rsp": {
         "id": "RSP",
         "name": "RSP"
@@ -7191,6 +7859,10 @@
         "id": "RuMSX",
         "name": "RuMSX"
     },
+    "rustps5emu": {
+        "id": "RustPS5Emu",
+        "name": "RustPS5Emu"
+    },
     "rustual_boy": {
         "id": "Rustual Boy",
         "name": "Rustual Boy"
@@ -7199,6 +7871,10 @@
         "id": "RustyNES",
         "name": "RustyNES"
     },
+    "ruzu": {
+        "id": "Ruzu",
+        "name": "Ruzu"
+    },
     "rxnes": {
         "id": "RxNES",
         "name": "RxNES"
@@ -7206,6 +7882,10 @@
     "rymcast": {
         "id": "RymCast",
         "name": "RymCast"
+    },
+    "ryu": {
+        "id": "Ryu",
+        "name": "Ryu"
     },
     "ryujinx": {
         "id": "Ryujinx",
@@ -7239,6 +7919,10 @@
         "id": "SameBoy",
         "name": "SameBoy"
     },
+    "sandopolis": {
+        "id": "Sandopolis",
+        "name": "Sandopolis"
+    },
     "satellawave": {
         "id": "SatellaWave",
         "name": "SatellaWave"
@@ -7271,6 +7955,14 @@
         "id": "Scarygirl Tool",
         "name": "Scarygirl Tool"
     },
+    "scepsx": {
+        "id": "ScePSX",
+        "name": "ScePSX"
+    },
+    "scratchpsx": {
+        "id": "ScratchPsx",
+        "name": "ScratchPsx"
+    },
     "scummvm": {
         "id": "ScummVM",
         "name": "ScummVM"
@@ -7279,29 +7971,17 @@
         "id": "ScummVM-PS3",
         "name": "ScummVM-PS3"
     },
-    "scummvm-ps3_build": {
-        "id": "ScummVM-PS3 Build",
-        "name": "ScummVM-PS3 Build"
-    },
     "scummvm_ds": {
         "id": "ScummVM DS",
         "name": "ScummVM DS"
     },
-    "scummvm_gx_build": {
-        "id": "Scummvm GX Build",
-        "name": "Scummvm GX Build"
+    "scummvm_gx": {
+        "id": "Scummvm GX",
+        "name": "Scummvm GX"
     },
     "scummvm_wii": {
         "id": "ScummVM Wii",
         "name": "ScummVM Wii"
-    },
-    "scummvm_wip_-_a_burst_of_fun_with_fluffy_fluffy_bun_bun?": {
-        "id": "ScummVM WIP - A Burst of Fun With Fluffy Fluffy Bun Bun?",
-        "name": "ScummVM WIP - A Burst of Fun With Fluffy Fluffy Bun Bun?"
-    },
-    "scummvm_wip_-_a_new_month,_a_new_engine!": {
-        "id": "ScummVM WIP - A New Month, A New Engine!",
-        "name": "ScummVM WIP - A New Month, A New Engine!"
     },
     "scuore's_mame_snap_collection": {
         "id": "Scuore's Mame Snap Collection",
@@ -7310,6 +7990,38 @@
     "scuore＇s_mame_snap_collection": {
         "id": "Scuore＇s Mame Snap Collection",
         "name": "Scuore＇s Mame Snap Collection"
+    },
+    "scuore＇s_mame_snap_collection_142u3": {
+        "id": "Scuore＇s Mame Snap Collection 142u3",
+        "name": "Scuore＇s Mame Snap Collection 142u3"
+    },
+    "scuore＇s_mame_snap_collection_142u5": {
+        "id": "Scuore＇s Mame Snap Collection 142u5",
+        "name": "Scuore＇s Mame Snap Collection 142u5"
+    },
+    "scuore＇s_mame_snap_collection_142u6": {
+        "id": "Scuore＇s Mame Snap Collection 142u6",
+        "name": "Scuore＇s Mame Snap Collection 142u6"
+    },
+    "scuore＇s_mame_snap_collection_143u1": {
+        "id": "Scuore＇s Mame Snap Collection 143u1",
+        "name": "Scuore＇s Mame Snap Collection 143u1"
+    },
+    "scuore＇s_mame_snap_collection_143u5": {
+        "id": "Scuore＇s Mame Snap Collection 143u5",
+        "name": "Scuore＇s Mame Snap Collection 143u5"
+    },
+    "scuore＇s_mame_snap_collection_143u7": {
+        "id": "Scuore＇s Mame Snap Collection 143u7",
+        "name": "Scuore＇s Mame Snap Collection 143u7"
+    },
+    "scuore＇s_mame_snap_collection_143u9": {
+        "id": "Scuore＇s Mame Snap Collection 143u9",
+        "name": "Scuore＇s Mame Snap Collection 143u9"
+    },
+    "scuore＇s_mame_snap_collection_144u7": {
+        "id": "Scuore＇s Mame Snap Collection 144u7",
+        "name": "Scuore＇s Mame Snap Collection 144u7"
     },
     "scuore＇s_mame_snaps": {
         "id": "Scuore＇s MAME SNAPS",
@@ -7351,13 +8063,41 @@
         "id": "Sega Li",
         "name": "Sega Li"
     },
-    "sega_model": {
-        "id": "Sega Model",
-        "name": "Sega Model"
+    "sega_model_2_ui": {
+        "id": "Sega Model 2 UI",
+        "name": "Sega Model 2 UI"
+    },
+    "sega_model_3_ui": {
+        "id": "Sega Model 3 UI",
+        "name": "Sega Model 3 UI"
     },
     "series.ini": {
         "id": "Series.ini",
         "name": "Series.ini"
+    },
+    "seta_gx": {
+        "id": "Seta GX",
+        "name": "Seta GX"
+    },
+    "shadnet": {
+        "id": "shadNet",
+        "name": "shadNet"
+    },
+    "shadps4": {
+        "id": "ShadPS4",
+        "name": "ShadPS4"
+    },
+    "shadps4-qtlauncher": {
+        "id": "ShadPS4-QtLauncher",
+        "name": "ShadPS4-QtLauncher"
+    },
+    "shadps4plus": {
+        "id": "ShadPs4Plus",
+        "name": "ShadPs4Plus"
+    },
+    "shadps4plus_pkg_extractor": {
+        "id": "ShadPs4Plus PKG Extractor",
+        "name": "ShadPs4Plus PKG Extractor"
     },
     "sharp80": {
         "id": "Sharp80",
@@ -7371,13 +8111,17 @@
         "id": "SharpChip-8",
         "name": "SharpChip-8"
     },
+    "sharpemu": {
+        "id": "SharpEmu",
+        "name": "SharpEmu"
+    },
     "sheepshaver": {
         "id": "SheepShaver",
         "name": "SheepShaver"
     },
-    "sheepshaver_for_windows_(build": {
-        "id": "SheepShaver for Windows (build",
-        "name": "SheepShaver for Windows (build"
+    "sheepshaver_for_windows": {
+        "id": "SheepShaver for Windows",
+        "name": "SheepShaver for Windows"
     },
     "shmupmame": {
         "id": "Shmupmame",
@@ -7403,13 +8147,37 @@
         "id": "SIDPLAY",
         "name": "SIDPLAY"
     },
+    "sidplayfp": {
+        "id": "SidPlayFP",
+        "name": "SidPlayFP"
+    },
+    "sidplaywx": {
+        "id": "sidplaywx",
+        "name": "sidplaywx"
+    },
     "simcoupe": {
         "id": "SimCoupe",
         "name": "SimCoupe"
     },
+    "simple-boy": {
+        "id": "Simple-Boy",
+        "name": "Simple-Boy"
+    },
     "simple64": {
         "id": "simple64",
         "name": "simple64"
+    },
+    "simple64x": {
+        "id": "simple64X",
+        "name": "simple64X"
+    },
+    "simple_launcher": {
+        "id": "Simple Launcher",
+        "name": "Simple Launcher"
+    },
+    "sinclairean": {
+        "id": "Sinclairean",
+        "name": "Sinclairean"
     },
     "sinclairean_a10": {
         "id": "Sinclairean A10",
@@ -7439,37 +8207,9 @@
         "id": "Sinclairean A7",
         "name": "Sinclairean A7"
     },
-    "sinclairean_b10_rev._b": {
-        "id": "Sinclairean B10 REV. B",
-        "name": "Sinclairean B10 REV. B"
-    },
-    "sinclairean_b11": {
-        "id": "Sinclairean B11",
-        "name": "Sinclairean B11"
-    },
-    "sinclairean_b4": {
-        "id": "Sinclairean B4",
-        "name": "Sinclairean B4"
-    },
-    "sinclairean_b5": {
-        "id": "Sinclairean B5",
-        "name": "Sinclairean B5"
-    },
-    "sinclairean_b6": {
-        "id": "Sinclairean B6",
-        "name": "Sinclairean B6"
-    },
     "sinclairean_b6+": {
         "id": "Sinclairean B6+",
         "name": "Sinclairean B6+"
-    },
-    "sinclairean_b8": {
-        "id": "Sinclairean B8",
-        "name": "Sinclairean B8"
-    },
-    "sinclairean_b9": {
-        "id": "Sinclairean B9",
-        "name": "Sinclairean B9"
     },
     "sixtyforce": {
         "id": "Sixtyforce",
@@ -7495,13 +8235,13 @@
         "id": "Slipstream",
         "name": "Slipstream"
     },
+    "sm2-emu": {
+        "id": "SM2-EMU",
+        "name": "SM2-EMU"
+    },
     "sm3easybox": {
         "id": "SM3EasyBox",
         "name": "SM3EasyBox"
-    },
-    "small_supermodel_wip": {
-        "id": "Small Supermodel WIP",
-        "name": "Small Supermodel WIP"
     },
     "smartgear": {
         "id": "SmartGear",
@@ -7510,14 +8250,6 @@
     "smasherx74＇s_emulator_package": {
         "id": "Smasherx74＇s Emulator Package",
         "name": "Smasherx74＇s Emulator Package"
-    },
-    "smf_wip:_dancing_stage_featuring_disney's_rave": {
-        "id": "SMF WIP: Dancing Stage Featuring Disney's Rave",
-        "name": "SMF WIP: Dancing Stage Featuring Disney's Rave"
-    },
-    "smitdogg_-_cyber_tank_wip!": {
-        "id": "Smitdogg - Cyber Tank WIP!",
-        "name": "Smitdogg - Cyber Tank WIP!"
     },
     "sms_plus": {
         "id": "SMS Plus",
@@ -7567,37 +8299,45 @@
         "id": "SNES9x-PS3",
         "name": "SNES9x-PS3"
     },
-    "snes9x-ps3_svn": {
-        "id": "SNES9x-PS3 SVN",
-        "name": "SNES9x-PS3 SVN"
-    },
     "snes9x-sx2": {
         "id": "Snes9x-sx2",
         "name": "Snes9x-sx2"
     },
-    "snes9x4c_beta": {
-        "id": "Snes9x4C Beta",
-        "name": "Snes9x4C Beta"
+    "snes9x/1.52.81_for_psp_wip-1": {
+        "id": "SNES9X/1.52.81 for PSP WIP-1",
+        "name": "SNES9X/1.52.81 for PSP WIP-1"
+    },
+    "snes9x4c": {
+        "id": "Snes9x4C",
+        "name": "Snes9x4C"
     },
     "snes9x4d": {
         "id": "Snes9x4D",
         "name": "Snes9x4D"
     },
-    "snes9x4d4p_(21-05-2010)": {
-        "id": "Snes9x4D4P (21-05-2010)",
-        "name": "Snes9x4D4P (21-05-2010)"
+    "snes9x4d4p": {
+        "id": "Snes9x4D4P",
+        "name": "Snes9x4D4P"
     },
     "snes9x4p": {
         "id": "Snes9x4P",
         "name": "Snes9x4P"
     },
+    "snes9x_3ds": {
+        "id": "Snes9x 3DS",
+        "name": "Snes9x 3DS"
+    },
+    "snes9x_8mb_custom": {
+        "id": "Snes9x 8MB Custom",
+        "name": "Snes9x 8MB Custom"
+    },
     "snes9x_cg_shaders_pack": {
         "id": "Snes9x CG Shaders Pack",
         "name": "Snes9x CG Shaders Pack"
     },
-    "snes9x_d3d_test_build": {
-        "id": "Snes9x D3D Test Build",
-        "name": "Snes9x D3D Test Build"
+    "snes9x_d3d_test": {
+        "id": "Snes9x D3D Test",
+        "name": "Snes9x D3D Test"
     },
     "snes9x_euphoria": {
         "id": "Snes9X Euphoria",
@@ -7611,17 +8351,21 @@
         "id": "Snes9x EX Plus",
         "name": "Snes9x EX Plus"
     },
-    "snes9x_for": {
-        "id": "Snes9x for",
-        "name": "Snes9x for"
+    "snes9x_for_3ds": {
+        "id": "Snes9x for 3DS",
+        "name": "Snes9x for 3DS"
     },
-    "snes9x_for_ps2_preview": {
-        "id": "Snes9x For PS2 Preview",
-        "name": "Snes9x For PS2 Preview"
+    "snes9x_for_ps2": {
+        "id": "Snes9x For PS2",
+        "name": "Snes9x For PS2"
     },
     "snes9x_for_ps3": {
         "id": "SNES9x for PS3",
         "name": "SNES9x for PS3"
+    },
+    "snes9x_for_ps3_pal_fix": {
+        "id": "SNES9x for PS3 PAL Fix",
+        "name": "SNES9x for PS3 PAL Fix"
     },
     "snes9x_gtk/x11_port": {
         "id": "Snes9x GTK/X11 Port",
@@ -7647,9 +8391,9 @@
         "id": "Snes9x TestBuild",
         "name": "Snes9x TestBuild"
     },
-    "snes9x_unicode_test_build": {
-        "id": "Snes9x unicode Test Build",
-        "name": "Snes9x unicode Test Build"
+    "snes9x_unicode_test": {
+        "id": "Snes9x unicode Test",
+        "name": "Snes9x unicode Test"
     },
     "snes9xbox": {
         "id": "SNES9Xbox",
@@ -7659,6 +8403,10 @@
         "id": "Snes9xGx",
         "name": "Snes9xGx"
     },
+    "snes9xrd": {
+        "id": "Snes9xrd",
+        "name": "Snes9xrd"
+    },
     "snes9xtyl_mod": {
         "id": "Snes9xTYL Mod",
         "name": "Snes9xTYL Mod"
@@ -7666,6 +8414,10 @@
     "snes9xtylcm": {
         "id": "Snes9xTYLcm",
         "name": "Snes9xTYLcm"
+    },
+    "snes9xtylcm_091127(173210": {
+        "id": "Snes9xTYLcm 091127(173210",
+        "name": "Snes9xTYLcm 091127(173210"
     },
     "snes9xtylmecm": {
         "id": "Snes9xTYLmecm",
@@ -7703,6 +8455,10 @@
         "id": "SNES SPC700 Player",
         "name": "SNES SPC700 Player"
     },
+    "snes_station_pc": {
+        "id": "SNES Station PC",
+        "name": "SNES Station PC"
+    },
     "snesclassic.dualboot": {
         "id": "Snesclassic.Dualboot",
         "name": "Snesclassic.Dualboot"
@@ -7739,17 +8495,9 @@
         "id": "Solomon's Key DS",
         "name": "Solomon's Key DS"
     },
-    "some_news_from_ville": {
-        "id": "Some News From Ville",
-        "name": "Some News From Ville"
-    },
     "sonic_as": {
         "id": "Sonic AS",
         "name": "Sonic AS"
-    },
-    "sonic_championship_wip": {
-        "id": "Sonic Championship WIP",
-        "name": "Sonic Championship WIP"
     },
     "sonsongba": {
         "id": "SonSonGBA",
@@ -7759,10 +8507,6 @@
         "id": "Soywiz＇s Psp Emulator",
         "name": "Soywiz＇s Psp Emulator"
     },
-    "soywiz＇s_psp_emulator_news_-_more_wip_work": {
-        "id": "Soywiz＇s Psp Emulator NEWS - More WIP work",
-        "name": "Soywiz＇s Psp Emulator NEWS - More WIP work"
-    },
     "soywiz＇s_psp_emulator_nullgpu": {
         "id": "Soywiz＇s Psp Emulator nullgpu",
         "name": "Soywiz＇s Psp Emulator nullgpu"
@@ -7771,9 +8515,9 @@
         "id": "SPC/AT Emulator",
         "name": "SPC/AT Emulator"
     },
-    "speak_&_spell": {
-        "id": "Speak & Spell",
-        "name": "Speak & Spell"
+    "speak_&_spell_1978_simulator": {
+        "id": "Speak & Spell 1978 Simulator",
+        "name": "Speak & Spell 1978 Simulator"
     },
     "spear_of_destiny": {
         "id": "Spear of Destiny",
@@ -7783,9 +8527,17 @@
         "id": "Speccy",
         "name": "Speccy"
     },
+    "speccyse": {
+        "id": "SpeccySE",
+        "name": "SpeccySE"
+    },
     "specemu": {
         "id": "SpecEmu",
         "name": "SpecEmu"
+    },
+    "specide": {
+        "id": "SpecIde",
+        "name": "SpecIde"
     },
     "spectabis": {
         "id": "Spectabis",
@@ -7798,6 +8550,10 @@
     "spectaculator_ios": {
         "id": "Spectaculator iOS",
         "name": "Spectaculator iOS"
+    },
+    "spectral": {
+        "id": "Spectral",
+        "name": "Spectral"
     },
     "spectramine": {
         "id": "Spectramine",
@@ -7835,10 +8591,6 @@
         "id": "SpyroEdit",
         "name": "SpyroEdit"
     },
-    "ss_emulators": {
-        "id": "SS Emulators",
-        "name": "SS Emulators"
-    },
     "ss_games_settings_explorer": {
         "id": "SS Games Settings Explorer",
         "name": "SS Games Settings Explorer"
@@ -7859,9 +8611,41 @@
         "id": "SSF PreviewVer",
         "name": "SSF PreviewVer"
     },
+    "ssf_previewver_r18(v3)": {
+        "id": "SSF PreviewVer R18(V3)",
+        "name": "SSF PreviewVer R18(V3)"
+    },
+    "ssf_previewver_r18(v4)": {
+        "id": "SSF PreviewVer R18(V4)",
+        "name": "SSF PreviewVer R18(V4)"
+    },
+    "ssf_previewver_r18(v5)": {
+        "id": "SSF PreviewVer R18(V5)",
+        "name": "SSF PreviewVer R18(V5)"
+    },
+    "ssf_previewver_r18(v6)": {
+        "id": "SSF PreviewVer R18(V6)",
+        "name": "SSF PreviewVer R18(V6)"
+    },
+    "ssf_previewver_r18(v7)": {
+        "id": "SSF PreviewVer R18(V7)",
+        "name": "SSF PreviewVer R18(V7)"
+    },
+    "ssf_previewver_r18(v8)": {
+        "id": "SSF PreviewVer R18(V8)",
+        "name": "SSF PreviewVer R18(V8)"
+    },
+    "ssf_previewver_r34(2025/04/28)": {
+        "id": "SSF PreviewVer R34(2025/04/28)",
+        "name": "SSF PreviewVer R34(2025/04/28)"
+    },
     "ssf_test_version": {
         "id": "SSF Test Version",
         "name": "SSF Test Version"
+    },
+    "ssf_ver0.10": {
+        "id": "SSF Ver0.10",
+        "name": "SSF Ver0.10"
     },
     "ssnes": {
         "id": "SSNES",
@@ -7871,13 +8655,13 @@
         "id": "ST Recover",
         "name": "ST Recover"
     },
+    "starpsx": {
+        "id": "StarPSX",
+        "name": "StarPSX"
+    },
     "steem_sse": {
         "id": "Steem SSE",
         "name": "Steem SSE"
-    },
-    "steem_sse_beta": {
-        "id": "Steem SSE Beta",
-        "name": "Steem SSE Beta"
     },
     "stella": {
         "id": "Stella",
@@ -7899,6 +8683,10 @@
         "id": "StepMania",
         "name": "StepMania"
     },
+    "stepmania_4": {
+        "id": "StepMania 4",
+        "name": "StepMania 4"
+    },
     "stepmania_micro": {
         "id": "StepMania Micro",
         "name": "StepMania Micro"
@@ -7910,6 +8698,10 @@
     "stepseq2x": {
         "id": "stepSeq2x",
         "name": "stepSeq2x"
+    },
+    "stiknes": {
+        "id": "StikNES",
+        "name": "StikNES"
     },
     "stoicgoose": {
         "id": "StoicGoose",
@@ -7923,21 +8715,29 @@
         "id": "Story.dat",
         "name": "Story.dat"
     },
-    "street_fighter_ii'_champion_edition_\"double_ko\"_wip": {
-        "id": "Street Fighter II' Champion Edition \"Double KO\" WIP",
-        "name": "Street Fighter II' Champion Edition \"Double KO\" WIP"
-    },
     "street_fighter_x_mega_man": {
         "id": "Street Fighter X Mega Man",
         "name": "Street Fighter X Mega Man"
     },
-    "sugarbox": {
-        "id": "SugarBox",
-        "name": "SugarBox"
+    "sudachi": {
+        "id": "Sudachi",
+        "name": "Sudachi"
     },
-    "super_bar_&_gals_panic": {
-        "id": "Super Bar & Gals Panic",
-        "name": "Super Bar & Gals Panic"
+    "sudachi_vedd7896": {
+        "id": "Sudachi vedd7896",
+        "name": "Sudachi vedd7896"
+    },
+    "sugarbox": {
+        "id": "Sugarbox",
+        "name": "Sugarbox"
+    },
+    "sugards": {
+        "id": "SugarDS",
+        "name": "SugarDS"
+    },
+    "sumi": {
+        "id": "Sumi",
+        "name": "Sumi"
     },
     "super_goomba": {
         "id": "Super Goomba",
@@ -7971,6 +8771,10 @@
         "id": "SuperMegaChip-X",
         "name": "SuperMegaChip-X"
     },
+    "supermode_sinden": {
+        "id": "Supermode Sinden",
+        "name": "Supermode Sinden"
+    },
     "supermodel": {
         "id": "Supermodel",
         "name": "Supermodel"
@@ -7983,17 +8787,21 @@
         "id": "Supermodel-UI SnapPack",
         "name": "Supermodel-UI SnapPack"
     },
+    "supermodel-vk": {
+        "id": "Supermodel-VK",
+        "name": "Supermodel-VK"
+    },
+    "supermodel3-ponmi": {
+        "id": "Supermodel3-PonMi",
+        "name": "Supermodel3-PonMi"
+    },
+    "supermodel_dojo": {
+        "id": "Supermodel Dojo",
+        "name": "Supermodel Dojo"
+    },
     "supermodel_gui": {
         "id": "Supermodel GUI",
         "name": "Supermodel GUI"
-    },
-    "supermodel_news": {
-        "id": "Supermodel News",
-        "name": "Supermodel News"
-    },
-    "supermodel_wip": {
-        "id": "Supermodel WIP",
-        "name": "Supermodel WIP"
     },
     "supermodel_xtassy_fe": {
         "id": "Supermodel XTASSY FE",
@@ -8003,37 +8811,65 @@
         "id": "SuperN64",
         "name": "SuperN64"
     },
+    "supersnes9x": {
+        "id": "SuperSnes9x",
+        "name": "SuperSnes9x"
+    },
     "supertux_wii": {
         "id": "SuperTux Wii",
         "name": "SuperTux Wii"
+    },
+    "superzsnes": {
+        "id": "SuperZSNES",
+        "name": "SuperZSNES"
     },
     "supraclient": {
         "id": "Supraclient",
         "name": "Supraclient"
     },
-    "surreal64_ce": {
-        "id": "Surreal64 CE",
-        "name": "Surreal64 CE"
+    "surreal64_ce_b5.5": {
+        "id": "Surreal64 CE B5.5",
+        "name": "Surreal64 CE B5.5"
+    },
+    "surreal64_ce_b5.52u": {
+        "id": "Surreal64 CE B5.52u",
+        "name": "Surreal64 CE B5.52u"
     },
     "surreal64_ce_b5.6_rev": {
         "id": "Surreal64 CE B5.6 rev",
         "name": "Surreal64 CE B5.6 rev"
     },
-    "surreal64_xxx_ce": {
-        "id": "Surreal64 XXX CE",
-        "name": "Surreal64 XXX CE"
+    "surreal64_xxx_ce_b5.3": {
+        "id": "Surreal64 XXX CE B5.3",
+        "name": "Surreal64 XXX CE B5.3"
+    },
+    "surreal64_xxx_ce_b5.31": {
+        "id": "Surreal64 XXX CE B5.31",
+        "name": "Surreal64 XXX CE B5.31"
+    },
+    "surreal64_xxx_ce_b5.4": {
+        "id": "Surreal64 XXX CE B5.4",
+        "name": "Surreal64 XXX CE B5.4"
+    },
+    "surreal64_xxx_ce_b5.5": {
+        "id": "Surreal64 XXX CE B5.5",
+        "name": "Surreal64 XXX CE B5.5"
     },
     "surreal64ce_b6.1": {
         "id": "Surreal64CE B6.1",
         "name": "Surreal64CE B6.1"
     },
-    "surreal64ce_b6.1_beta": {
-        "id": "Surreal64CE B6.1 Beta",
-        "name": "Surreal64CE B6.1 Beta"
+    "suyu": {
+        "id": "suyu",
+        "name": "suyu"
     },
     "swan": {
         "id": "Swan",
         "name": "Swan"
+    },
+    "swangba": {
+        "id": "SwanGBA",
+        "name": "SwanGBA"
     },
     "swine": {
         "id": "Swine",
@@ -8043,13 +8879,13 @@
         "id": "Swiss",
         "name": "Swiss"
     },
+    "switch_emu_mod_downloader": {
+        "id": "Switch Emu Mod Downloader",
+        "name": "Switch Emu Mod Downloader"
+    },
     "sysinfo.dat": {
         "id": "Sysinfo.dat",
         "name": "Sysinfo.dat"
-    },
-    "system": {
-        "id": "System",
-        "name": "System"
     },
     "sz81": {
         "id": "sz81",
@@ -8059,17 +8895,9 @@
         "id": "T98-NEXT",
         "name": "T98-NEXT"
     },
-    "tafa": {
-        "id": "TAFA",
-        "name": "TAFA"
-    },
     "tafa_flyer_packs": {
         "id": "TAFA Flyer Packs",
         "name": "TAFA Flyer Packs"
-    },
-    "tafa_news:_summer_update": {
-        "id": "TAFA NEWS: Summer Update",
-        "name": "TAFA NEWS: Summer Update"
     },
     "taito_type_x_frontend": {
         "id": "Taito Type X Frontend",
@@ -8083,6 +8911,10 @@
         "id": "Takeda Common Binaries",
         "name": "Takeda Common Binaries"
     },
+    "tanuki3ds": {
+        "id": "Tanuki3DS",
+        "name": "Tanuki3DS"
+    },
     "tedplay": {
         "id": "Tedplay",
         "name": "Tedplay"
@@ -8091,25 +8923,33 @@
         "id": "TempAR",
         "name": "TempAR"
     },
-    "temperpce_for": {
-        "id": "TemperPCE for",
-        "name": "TemperPCE for"
+    "temperpce_for_3ds": {
+        "id": "TemperPCE for 3DS",
+        "name": "TemperPCE for 3DS"
     },
     "tempgba": {
         "id": "TempGBA",
         "name": "TempGBA"
     },
-    "tempgba_beta": {
-        "id": "TempGBA Beta",
-        "name": "TempGBA Beta"
-    },
     "teo": {
         "id": "Teo",
         "name": "Teo"
     },
+    "terebikkoemu": {
+        "id": "TerebikkoEmu",
+        "name": "TerebikkoEmu"
+    },
     "test7": {
         "id": "Test7",
         "name": "Test7"
+    },
+    "test7800": {
+        "id": "Test7800",
+        "name": "Test7800"
+    },
+    "tetanes": {
+        "id": "TetaNES",
+        "name": "TetaNES"
     },
     "tetricycle": {
         "id": "TetriCycle",
@@ -8119,29 +8959,65 @@
         "id": "The Castles of Dr. Creep",
         "name": "The Castles of Dr. Creep"
     },
-    "the_guru＇s_new_pcbs": {
-        "id": "The Guru＇s new PCBs",
-        "name": "The Guru＇s new PCBs"
+    "the_zod_engine_2011/06/05": {
+        "id": "The Zod Engine 2011/06/05",
+        "name": "The Zod Engine 2011/06/05"
     },
-    "the_latest_progress_status_of_demul": {
-        "id": "The Latest Progress Status of DEmul",
-        "name": "The Latest Progress Status of DEmul"
+    "the_zod_engine_2011/06/14": {
+        "id": "The Zod Engine 2011/06/14",
+        "name": "The Zod Engine 2011/06/14"
     },
-    "the_latest_progress_status_of_demul_part2": {
-        "id": "The Latest Progress Status of DEmul Part2",
-        "name": "The Latest Progress Status of DEmul Part2"
+    "the_zod_engine_2011/06/16": {
+        "id": "The Zod Engine 2011/06/16",
+        "name": "The Zod Engine 2011/06/16"
     },
-    "the_latest_progress_status_of_demul_part3": {
-        "id": "The Latest Progress Status of DEmul Part3",
-        "name": "The Latest Progress Status of DEmul Part3"
+    "the_zod_engine_2011/06/22": {
+        "id": "The Zod Engine 2011/06/22",
+        "name": "The Zod Engine 2011/06/22"
     },
-    "the_typing_of_the_dead_-_naomi": {
-        "id": "The Typing Of The Dead - NAOMI",
-        "name": "The Typing Of The Dead - NAOMI"
+    "the_zod_engine_2011/07/03": {
+        "id": "The Zod Engine 2011/07/03",
+        "name": "The Zod Engine 2011/07/03"
     },
-    "the_zod_engine": {
-        "id": "The Zod Engine",
-        "name": "The Zod Engine"
+    "the_zod_engine_2011/07/07": {
+        "id": "The Zod Engine 2011/07/07",
+        "name": "The Zod Engine 2011/07/07"
+    },
+    "the_zod_engine_2011/08/16": {
+        "id": "The Zod Engine 2011/08/16",
+        "name": "The Zod Engine 2011/08/16"
+    },
+    "the_zod_engine_2011/08/21": {
+        "id": "The Zod Engine 2011/08/21",
+        "name": "The Zod Engine 2011/08/21"
+    },
+    "the_zod_engine_2011/08/27": {
+        "id": "The Zod Engine 2011/08/27",
+        "name": "The Zod Engine 2011/08/27"
+    },
+    "the_zod_engine_2011/08/30": {
+        "id": "The Zod Engine 2011/08/30",
+        "name": "The Zod Engine 2011/08/30"
+    },
+    "the_zod_engine_2011/08/31": {
+        "id": "The Zod Engine 2011/08/31",
+        "name": "The Zod Engine 2011/08/31"
+    },
+    "the_zod_engine_2011/09/02": {
+        "id": "The Zod Engine 2011/09/02",
+        "name": "The Zod Engine 2011/09/02"
+    },
+    "the_zod_engine_2011/09/04": {
+        "id": "The Zod Engine 2011/09/04",
+        "name": "The Zod Engine 2011/09/04"
+    },
+    "the_zod_engine_2011/09/05": {
+        "id": "The Zod Engine 2011/09/05",
+        "name": "The Zod Engine 2011/09/05"
+    },
+    "the_zod_engine_2011/09/06": {
+        "id": "The Zod Engine 2011/09/06",
+        "name": "The Zod Engine 2011/09/06"
     },
     "thundermame32+": {
         "id": "ThunderMAME32+",
@@ -8179,6 +9055,10 @@
         "id": "touchHLE",
         "name": "touchHLE"
     },
+    "touché_px5": {
+        "id": "Touché PX5",
+        "name": "Touché PX5"
+    },
     "tr64": {
         "id": "TR64",
         "name": "TR64"
@@ -8187,10 +9067,6 @@
         "id": "TR64 OpenGL Plugin",
         "name": "TR64 OpenGL Plugin"
     },
-    "trailer_for_new_neogeo_shooting_game\"neo_xyx\"_is_out": {
-        "id": "Trailer for new NeoGeo shooting game\"NEO XYX\" is out",
-        "name": "Trailer for new NeoGeo shooting game\"NEO XYX\" is out"
-    },
     "tronds": {
         "id": "TronDS",
         "name": "TronDS"
@@ -8198,6 +9074,10 @@
     "trs32": {
         "id": "TRS32",
         "name": "TRS32"
+    },
+    "trs80gp": {
+        "id": "trs80gp",
+        "name": "trs80gp"
     },
     "tsugaru": {
         "id": "Tsugaru",
@@ -8210,6 +9090,10 @@
     "turbo_engine": {
         "id": "Turbo Engine",
         "name": "Turbo Engine"
+    },
+    "turbo_stage": {
+        "id": "Turbo Stage",
+        "name": "Turbo Stage"
     },
     "turbografx-16": {
         "id": "TurboGrafx-16",
@@ -8235,9 +9119,9 @@
         "id": "TwoMbit",
         "name": "TwoMbit"
     },
-    "txt_reader_beta": {
-        "id": "TXT Reader Beta",
-        "name": "TXT Reader Beta"
+    "txt_reader": {
+        "id": "TXT Reader",
+        "name": "TXT Reader"
     },
     "typextra": {
         "id": "TypeXtra",
@@ -8259,9 +9143,9 @@
         "id": "Uae4All2 Vita_mod",
         "name": "Uae4All2 Vita_mod"
     },
-    "uae4all_dingoo_rc": {
-        "id": "UAE4All Dingoo RC",
-        "name": "UAE4All Dingoo RC"
+    "uae4all_dingoo": {
+        "id": "UAE4All Dingoo",
+        "name": "UAE4All Dingoo"
     },
     "uae4droid": {
         "id": "UAE4Droid",
@@ -8283,6 +9167,18 @@
         "id": "UberNES",
         "name": "UberNES"
     },
+    "ubernes_2010": {
+        "id": "UberNES 2010",
+        "name": "UberNES 2010"
+    },
+    "ubernes_2010_revision": {
+        "id": "UberNES 2010 revision",
+        "name": "UberNES 2010 revision"
+    },
+    "ubernes_2011": {
+        "id": "UberNES 2011",
+        "name": "UberNES 2011"
+    },
     "ucon64": {
         "id": "uCON64",
         "name": "uCON64"
@@ -8290,10 +9186,6 @@
     "ukncbtl": {
         "id": "UKNCBTL",
         "name": "UKNCBTL"
-    },
-    "ukncbtl_beta": {
-        "id": "UKNCBTL Beta",
-        "name": "UKNCBTL Beta"
     },
     "ultimate_mame": {
         "id": "Ultimate MAME",
@@ -8311,9 +9203,9 @@
         "id": "Ultimo",
         "name": "Ultimo"
     },
-    "ultrahle": {
-        "id": "UltraHLE",
-        "name": "UltraHLE"
+    "ultrahle_2064_unofficial_ultra.ini": {
+        "id": "UltraHLE 2064 Unofficial ultra.ini",
+        "name": "UltraHLE 2064 Unofficial ultra.ini"
     },
     "ultramame": {
         "id": "UltraMAME",
@@ -8351,13 +9243,21 @@
         "id": "Unofficial Highscore.dat",
         "name": "Unofficial Highscore.dat"
     },
+    "unofficial_hiscore.dat": {
+        "id": "Unofficial Hiscore.dat",
+        "name": "Unofficial Hiscore.dat"
+    },
     "unofficial_mvspsp_emulator": {
         "id": "Unofficial MVSPSP Emulator",
         "name": "Unofficial MVSPSP Emulator"
     },
+    "unofficial_nj’s_emulators_mod": {
+        "id": "Unofficial NJ’s Emulators Mod",
+        "name": "Unofficial NJ’s Emulators Mod"
+    },
     "unreal_speccy_portable": {
-        "id": "Unreal Speccy Portable",
-        "name": "Unreal Speccy Portable"
+        "id": "unreal speccy portable",
+        "name": "unreal speccy portable"
     },
     "unrealspeccy": {
         "id": "UnrealSpeccy",
@@ -8372,8 +9272,8 @@
         "name": "Uo CPS2PSP"
     },
     "uo_gpsp_kai": {
-        "id": "UO gpSP Kai",
-        "name": "UO gpSP Kai"
+        "id": "UO gpsp kai",
+        "name": "UO gpsp kai"
     },
     "uo_snes9x_for_psp": {
         "id": "uo_Snes9x for PSP",
@@ -8391,22 +9291,6 @@
         "id": "upd_cemu",
         "name": "upd_cemu"
     },
-    "update_@_luca's:_express_card_(2011-01-29)": {
-        "id": "Update @ Luca's: Express Card (2011-01-29)",
-        "name": "Update @ Luca's: Express Card (2011-01-29)"
-    },
-    "update_@_luca's:_reel'n_quake": {
-        "id": "Update @ Luca's: Reel'N Quake",
-        "name": "Update @ Luca's: Reel'N Quake"
-    },
-    "update_@_luca＇s:_sammy_medal_games": {
-        "id": "Update @ Luca＇s: Sammy Medal Games",
-        "name": "Update @ Luca＇s: Sammy Medal Games"
-    },
-    "update_@_luca＇s:_sammy_medal_games_(part": {
-        "id": "Update @ Luca＇s: Sammy Medal Games (Part",
-        "name": "Update @ Luca＇s: Sammy Medal Games (Part"
-    },
     "upx": {
         "id": "UPX",
         "name": "UPX"
@@ -8422,6 +9306,14 @@
     "usrcheatup": {
         "id": "UsrCheatUp",
         "name": "UsrCheatUp"
+    },
+    "v.dream": {
+        "id": "V.Dream",
+        "name": "V.Dream"
+    },
+    "v41": {
+        "id": "V41",
+        "name": "V41"
     },
     "v41r9i": {
         "id": "V41R9I",
@@ -8439,9 +9331,9 @@
         "id": "vAmiga",
         "name": "vAmiga"
     },
-    "vatari_gp32_(pacc": {
-        "id": "vAtari GP32 (PACC",
-        "name": "vAtari GP32 (PACC"
+    "vatari_gp32_(pacc_2010)": {
+        "id": "vAtari GP32 (PACC 2010)",
+        "name": "vAtari GP32 (PACC 2010)"
     },
     "vb81_xur": {
         "id": "VB81 XuR",
@@ -8451,9 +9343,13 @@
         "id": "Vba",
         "name": "Vba"
     },
-    "vba-m_[svn": {
-        "id": "VBA-M [svn",
-        "name": "VBA-M [svn"
+    "vba-m_[svn_926_mfc]": {
+        "id": "VBA-M [svn 926 MFC]",
+        "name": "VBA-M [svn 926 MFC]"
+    },
+    "vba-minimum": {
+        "id": "VBA-Minimum",
+        "name": "VBA-Minimum"
     },
     "vba-ps3": {
         "id": "VBA-PS3",
@@ -8462,6 +9358,14 @@
     "vba-rerecording": {
         "id": "Vba-ReRecording",
         "name": "Vba-ReRecording"
+    },
+    "vba-rerecording_480-lrc3_hotfixed": {
+        "id": "Vba-ReRecording 480-LRC3 hotfixed",
+        "name": "Vba-ReRecording 480-LRC3 hotfixed"
+    },
+    "vba-rerecording_480-lrc4": {
+        "id": "Vba-ReRecording 480-LRC4",
+        "name": "Vba-ReRecording 480-LRC4"
     },
     "vba-rerecording_resurrected": {
         "id": "Vba-ReRecording resurrected",
@@ -8490,6 +9394,10 @@
     "vbjin-ovr": {
         "id": "VBjin-OVR",
         "name": "VBjin-OVR"
+    },
+    "vboy_color": {
+        "id": "VBoy Color",
+        "name": "VBoy Color"
     },
     "vbsms+": {
         "id": "vbSMS+",
@@ -8526,6 +9434,10 @@
     "vecx-360": {
         "id": "Vecx-360",
         "name": "Vecx-360"
+    },
+    "veesem": {
+        "id": "Veesem",
+        "name": "Veesem"
     },
     "vgbanext": {
         "id": "VGBAnext",
@@ -8579,22 +9491,6 @@
         "id": "VideoDX11-ShadeBoost",
         "name": "VideoDX11-ShadeBoost"
     },
-    "ville＇s_development_log": {
-        "id": "Ville＇s Development Log",
-        "name": "Ville＇s Development Log"
-    },
-    "ville＇s_development_log_-_daytona_usa": {
-        "id": "Ville＇s Development Log - Daytona USA",
-        "name": "Ville＇s Development Log - Daytona USA"
-    },
-    "ville＇s_development_log_-_magical_truck_adventure": {
-        "id": "Ville＇s Development Log - Magical Truck Adventure",
-        "name": "Ville＇s Development Log - Magical Truck Adventure"
-    },
-    "viper_phase": {
-        "id": "Viper Phase",
-        "name": "Viper Phase"
-    },
     "virtu": {
         "id": "Virtu",
         "name": "Virtu"
@@ -8623,10 +9519,6 @@
         "id": "Virtual Jaguar Rx",
         "name": "Virtual Jaguar Rx"
     },
-    "virtual_jaguar_rx_wip": {
-        "id": "Virtual Jaguar Rx WIP",
-        "name": "Virtual Jaguar Rx WIP"
-    },
     "virtual_jaguarx": {
         "id": "Virtual JaguarX",
         "name": "Virtual JaguarX"
@@ -8634,6 +9526,10 @@
     "virtual_t": {
         "id": "Virtual T",
         "name": "Virtual T"
+    },
+    "virtual_vector": {
+        "id": "Virtual Vector",
+        "name": "Virtual Vector"
     },
     "virtual_vector_(vv)": {
         "id": "Virtual Vector (VV)",
@@ -8651,9 +9547,13 @@
         "id": "VirtuaNES",
         "name": "VirtuaNES"
     },
-    "virtuanes_for": {
-        "id": "VirtuaNES for",
-        "name": "VirtuaNES for"
+    "virtuanes_097_plus": {
+        "id": "VirtuaNES 097 Plus",
+        "name": "VirtuaNES 097 Plus"
+    },
+    "virtuanes_for_3ds": {
+        "id": "VirtuaNES for 3DS",
+        "name": "VirtuaNES for 3DS"
     },
     "virtuanes_plus": {
         "id": "VirtuaNES Plus",
@@ -8663,17 +9563,17 @@
         "id": "VirtueBoy Advance",
         "name": "VirtueBoy Advance"
     },
-    "visual_boy_advance": {
-        "id": "Visual Boy Advance",
-        "name": "Visual Boy Advance"
+    "visual_boy_advance_360": {
+        "id": "Visual Boy Advance 360",
+        "name": "Visual Boy Advance 360"
     },
     "visual_boy_advance_gx": {
         "id": "Visual Boy Advance GX",
         "name": "Visual Boy Advance GX"
     },
-    "visual_memory_simulator_beta": {
-        "id": "Visual Memory Simulator BETA",
-        "name": "Visual Memory Simulator BETA"
+    "visual_memory_simulator": {
+        "id": "Visual Memory Simulator",
+        "name": "Visual Memory Simulator"
     },
     "visual_menu": {
         "id": "Visual Menu",
@@ -8687,13 +9587,13 @@
         "id": "Visual PinMAME",
         "name": "Visual PinMAME"
     },
-    "visualboyadvance": {
-        "id": "VisualBoyAdvance",
-        "name": "VisualBoyAdvance"
-    },
     "visualboyadvance-m": {
         "id": "VisualBoyAdvance-M",
         "name": "VisualBoyAdvance-M"
+    },
+    "visualboyadvance-m_test_c7c6ad6": {
+        "id": "VisualBoyAdvance-M Test c7c6ad6",
+        "name": "VisualBoyAdvance-M Test c7c6ad6"
     },
     "visualboyadvance2": {
         "id": "VisualBoyAdvance2",
@@ -8715,9 +9615,17 @@
         "id": "Vita3K-Android",
         "name": "Vita3K-Android"
     },
+    "vitaslop": {
+        "id": "vitaslop",
+        "name": "vitaslop"
+    },
     "vjoy": {
         "id": "vJoy",
         "name": "vJoy"
+    },
+    "vkrt_nes_remaster": {
+        "id": "VKRT NES Remaster",
+        "name": "VKRT NES Remaster"
     },
     "vmudingoo": {
         "id": "VMUDingoo",
@@ -8730,6 +9638,10 @@
     "vvctre": {
         "id": "Vvctre",
         "name": "Vvctre"
+    },
+    "wangmodel1": {
+        "id": "WANGMODEL1",
+        "name": "WANGMODEL1"
     },
     "warmux": {
         "id": "WarMUX",
@@ -8763,25 +9675,25 @@
         "id": "WhineCube",
         "name": "WhineCube"
     },
+    "whittyarcade": {
+        "id": "WhittyArcade",
+        "name": "WhittyArcade"
+    },
+    "widemelon": {
+        "id": "WideMelon",
+        "name": "WideMelon"
+    },
     "wifi_plugin": {
         "id": "WiFi Plugin",
         "name": "WiFi Plugin"
-    },
-    "wii": {
-        "id": "Wii",
-        "name": "Wii"
     },
     "wii64": {
         "id": "Wii64",
         "name": "Wii64"
     },
-    "wii64_&_cube64_beta": {
-        "id": "Wii64 & Cube64 Beta",
-        "name": "Wii64 & Cube64 Beta"
-    },
-    "wii64_beta": {
-        "id": "Wii64 Beta",
-        "name": "Wii64 Beta"
+    "wii64_&_cube64": {
+        "id": "Wii64 & Cube64",
+        "name": "Wii64 & Cube64"
     },
     "wii7800": {
         "id": "Wii7800",
@@ -8827,29 +9739,33 @@
         "id": "WiiMednafen",
         "name": "WiiMednafen"
     },
-    "wiirtual_boy_prerelease": {
-        "id": "Wiirtual Boy Prerelease",
-        "name": "Wiirtual Boy Prerelease"
+    "wiirtual_boy": {
+        "id": "Wiirtual Boy",
+        "name": "Wiirtual Boy"
     },
     "wiistation": {
         "id": "WiiStation",
         "name": "WiiStation"
     },
-    "wiisx_beta": {
-        "id": "WiiSX Beta",
-        "name": "WiiSX Beta"
+    "wiisx": {
+        "id": "WiiSX",
+        "name": "WiiSX"
+    },
+    "wiisx_/_cubesx": {
+        "id": "WiiSX / CubeSX",
+        "name": "WiiSX / CubeSX"
     },
     "wiisx_rx": {
         "id": "WiiSX RX",
         "name": "WiiSX RX"
     },
+    "wiisx_rx_2022": {
+        "id": "WiiSX RX 2022",
+        "name": "WiiSX RX 2022"
+    },
     "wiisxr": {
         "id": "WiiSXR",
         "name": "WiiSXR"
-    },
-    "wiisxr_beta": {
-        "id": "WiiSXR Beta",
-        "name": "WiiSXR Beta"
     },
     "wiiu": {
         "id": "WiiU",
@@ -8883,9 +9799,9 @@
         "id": "WinArcadia & AmiArcadia",
         "name": "WinArcadia & AmiArcadia"
     },
-    "winbox_for": {
-        "id": "WinBox for",
-        "name": "WinBox for"
+    "winbox_for_86box": {
+        "id": "WinBox for 86Box",
+        "name": "WinBox for 86Box"
     },
     "windows95": {
         "id": "Windows95",
@@ -8927,13 +9843,13 @@
         "id": "WinFellow",
         "name": "WinFellow"
     },
-    "winfellow_alpha": {
-        "id": "WinFellow Alpha",
-        "name": "WinFellow Alpha"
-    },
     "winkawaks": {
         "id": "WinKawaks",
         "name": "WinKawaks"
+    },
+    "winlux80": {
+        "id": "WinLux80",
+        "name": "WinLux80"
     },
     "wintedplay": {
         "id": "WinTedplay",
@@ -8947,9 +9863,9 @@
         "id": "WinUAE",
         "name": "WinUAE"
     },
-    "winuae_(public_beta)": {
-        "id": "WinUAE (Public Beta)",
-        "name": "WinUAE (Public Beta)"
+    "winuae_(public": {
+        "id": "WinUAE (Public",
+        "name": "WinUAE (Public"
     },
     "winuaex": {
         "id": "WinUAEX",
@@ -8959,25 +9875,13 @@
         "id": "WinVICE",
         "name": "WinVICE"
     },
-    "winvz": {
-        "id": "WinVZ",
-        "name": "WinVZ"
-    },
     "winvz300": {
         "id": "WinVZ300",
         "name": "WinVZ300"
     },
-    "wip:_desmume_-_nintendo_ds_emulator_for_ps3": {
-        "id": "WIP: DeSmuME - Nintendo DS Emulator for PS3",
-        "name": "WIP: DeSmuME - Nintendo DS Emulator for PS3"
-    },
-    "wip:_nds3_/_nintendo_ds_emulator": {
-        "id": "WIP: NDS3 / Nintendo DS Emulator",
-        "name": "WIP: NDS3 / Nintendo DS Emulator"
-    },
-    "wip:_web_interface_for_mame": {
-        "id": "WIP: Web interface for MAME",
-        "name": "WIP: Web interface for MAME"
+    "winvz_300": {
+        "id": "WinVZ 300",
+        "name": "WinVZ 300"
     },
     "wiz-int:_intellivision_emulator_for_wiz": {
         "id": "Wiz-Int: Intellivision Emulator for Wiz",
@@ -9031,10 +9935,6 @@
         "id": "wxMupen64Plus",
         "name": "wxMupen64Plus"
     },
-    "wxmupen64plus_hg": {
-        "id": "wxMupen64Plus HG",
-        "name": "wxMupen64Plus HG"
-    },
     "x128": {
         "id": "X128",
         "name": "X128"
@@ -9063,6 +9963,14 @@
         "id": "X millennium T-Tune",
         "name": "X millennium T-Tune"
     },
+    "xavixemu": {
+        "id": "XaviXEmu",
+        "name": "XaviXEmu"
+    },
+    "xbased": {
+        "id": "xbased",
+        "name": "xbased"
+    },
     "xbmc": {
         "id": "XBMC",
         "name": "XBMC"
@@ -9071,13 +9979,13 @@
         "id": "XBMC4XBOX",
         "name": "XBMC4XBOX"
     },
-    "xbox": {
-        "id": "Xbox",
-        "name": "Xbox"
-    },
     "xbox360_iso_extract": {
         "id": "Xbox360 Iso Extract",
         "name": "Xbox360 Iso Extract"
+    },
+    "xbox_360_commander": {
+        "id": "Xbox 360 Commander",
+        "name": "Xbox 360 Commander"
     },
     "xboyadvance": {
         "id": "XBoyAdvance",
@@ -9107,6 +10015,22 @@
         "id": "Xebra(Arbex)",
         "name": "Xebra(Arbex)"
     },
+    "xebra_11/01/29a": {
+        "id": "Xebra 11/01/29a",
+        "name": "Xebra 11/01/29a"
+    },
+    "xebra_11/02/03": {
+        "id": "Xebra 11/02/03",
+        "name": "Xebra 11/02/03"
+    },
+    "xebra_11/04/15": {
+        "id": "Xebra 11/04/15",
+        "name": "Xebra 11/04/15"
+    },
+    "xebra_11/04/25": {
+        "id": "Xebra 11/04/25",
+        "name": "Xebra 11/04/25"
+    },
     "xedosbox": {
         "id": "XeDOSBox",
         "name": "XeDOSBox"
@@ -9119,9 +10043,25 @@
         "id": "XEMU",
         "name": "XEMU"
     },
+    "xemu_chihiro_playtest": {
+        "id": "xemu Chihiro Playtest",
+        "name": "xemu Chihiro Playtest"
+    },
+    "xemu_modern_gui": {
+        "id": "xemu Modern GUI",
+        "name": "xemu Modern GUI"
+    },
     "xenia": {
         "id": "Xenia",
         "name": "Xenia"
+    },
+    "xenia_canary_netplay": {
+        "id": "Xenia Canary Netplay",
+        "name": "Xenia Canary Netplay"
+    },
+    "xenia_edge": {
+        "id": "Xenia Edge",
+        "name": "Xenia Edge"
     },
     "xenia_lir": {
         "id": "Xenia lir",
@@ -9130,6 +10070,10 @@
     "xenia_lower": {
         "id": "Xenia lower",
         "name": "Xenia lower"
+    },
+    "xenia_manager": {
+        "id": "Xenia Manager",
+        "name": "Xenia Manager"
     },
     "xenia_resource": {
         "id": "Xenia resource",
@@ -9235,10 +10179,6 @@
         "id": "Xpeccy",
         "name": "Xpeccy"
     },
-    "xpeccy_build": {
-        "id": "Xpeccy Build",
-        "name": "Xpeccy Build"
-    },
     "xpremap": {
         "id": "XPRemap",
         "name": "XPRemap"
@@ -9271,10 +10211,6 @@
         "id": "XTask",
         "name": "XTask"
     },
-    "xxx": {
-        "id": "xxx",
-        "name": "xxx"
-    },
     "yaba_sanshiro": {
         "id": "Yaba Sanshiro",
         "name": "Yaba Sanshiro"
@@ -9287,13 +10223,17 @@
         "id": "Yabause-cmake",
         "name": "Yabause-cmake"
     },
+    "yabause_a2_unofficial": {
+        "id": "Yabause A2 unofficial",
+        "name": "Yabause A2 unofficial"
+    },
+    "yabause_community_edition_public_a1.0": {
+        "id": "Yabause Community Edition PUBLIC A1.0",
+        "name": "Yabause Community Edition PUBLIC A1.0"
+    },
     "yabause_devmiyax": {
         "id": "Yabause Devmiyax",
         "name": "Yabause Devmiyax"
-    },
-    "yabause_for_xbox": {
-        "id": "Yabause for XBox",
-        "name": "Yabause for XBox"
     },
     "yabause_rerecording": {
         "id": "Yabause ReRecording",
@@ -9307,6 +10247,10 @@
         "id": "Yace64",
         "name": "Yace64"
     },
+    "yane": {
+        "id": "YANE",
+        "name": "YANE"
+    },
     "yanese": {
         "id": "Yanese",
         "name": "Yanese"
@@ -9318,6 +10262,10 @@
     "yape/sdl": {
         "id": "Yape/SDL",
         "name": "Yape/SDL"
+    },
+    "yape_(pacman)": {
+        "id": "YAPE",
+        "name": "YAPE"
     },
     "yapsxe": {
         "id": "yaPSXe",
@@ -9331,10 +10279,6 @@
         "id": "YAUPSPE",
         "name": "YAUPSPE"
     },
-    "yaupspe_wip_-_super_fruit_fall_works!_(2010-11-16)": {
-        "id": "YAUPSPE WIP - Super Fruit Fall works! (2010-11-16)",
-        "name": "YAUPSPE WIP - Super Fruit Fall works! (2010-11-16)"
-    },
     "yaupspefro": {
         "id": "YaupspeFro",
         "name": "YaupspeFro"
@@ -9347,9 +10291,9 @@
         "id": "ykhwong's DOSBox",
         "name": "ykhwong's DOSBox"
     },
-    "ykhwong's_dosbox_svn_daum_build": {
-        "id": "ykhwong's DOSBox SVN Daum Build",
-        "name": "ykhwong's DOSBox SVN Daum Build"
+    "ymir": {
+        "id": "Ymir",
+        "name": "Ymir"
     },
     "yomi": {
         "id": "Yomi",
@@ -9375,10 +10319,6 @@
         "id": "Z64K",
         "name": "Z64K"
     },
-    "z64k_beta": {
-        "id": "Z64K Beta",
-        "name": "Z64K Beta"
-    },
     "z64k_newui": {
         "id": "Z64K NewUI",
         "name": "Z64K NewUI"
@@ -9391,6 +10331,10 @@
         "id": "ZapManager",
         "name": "ZapManager"
     },
+    "zaxnes": {
+        "id": "Zaxnes",
+        "name": "Zaxnes"
+    },
     "zboy": {
         "id": "zBoy",
         "name": "zBoy"
@@ -9399,9 +10343,9 @@
         "id": "Zednafen",
         "name": "Zednafen"
     },
-    "zega_alpha": {
-        "id": "Zega Alpha",
-        "name": "Zega Alpha"
+    "zega": {
+        "id": "Zega",
+        "name": "Zega"
     },
     "zelus": {
         "id": "Zelus",
@@ -9411,6 +10355,10 @@
         "id": "Zemu",
         "name": "Zemu"
     },
+    "zeraps5": {
+        "id": "ZeraPS5",
+        "name": "ZeraPS5"
+    },
     "zero": {
         "id": "Zero",
         "name": "Zero"
@@ -9419,9 +10367,17 @@
         "id": "ZEsarUX",
         "name": "ZEsarUX"
     },
+    "zesarux-x": {
+        "id": "ZEsarUX-X",
+        "name": "ZEsarUX-X"
+    },
     "ziggy": {
         "id": "Ziggy",
         "name": "Ziggy"
+    },
+    "zinc_ex": {
+        "id": "ZiNc EX",
+        "name": "ZiNc EX"
     },
     "zinc_hack": {
         "id": "ZiNc Hack",
@@ -9438,6 +10394,10 @@
     "zsnes": {
         "id": "Zsnes",
         "name": "Zsnes"
+    },
+    "zsnes_8mb_custom": {
+        "id": "ZSNES 8MB Custom",
+        "name": "ZSNES 8MB Custom"
     },
     "zsnes_portable": {
         "id": "Zsnes Portable",
@@ -9463,9 +10423,13 @@
         "id": "ZX81",
         "name": "ZX81"
     },
-    "zx_spectrum": {
-        "id": "ZX Spectrum",
-        "name": "ZX Spectrum"
+    "zx_spectrum_4.net": {
+        "id": "ZX Spectrum 4.net",
+        "name": "ZX Spectrum 4.net"
+    },
+    "zx_spectrum_4_.net": {
+        "id": "Zx Spectrum 4 .Net",
+        "name": "Zx Spectrum 4 .Net"
     },
     "zxdroid": {
         "id": "ZXdroid",
@@ -9487,6 +10451,10 @@
         "id": "ZXMAK2",
         "name": "ZXMAK2"
     },
+    "zxray": {
+        "id": "ZXRay",
+        "name": "ZXRay"
+    },
     "zxsp": {
         "id": "ZXSP",
         "name": "ZXSP"
@@ -9499,16 +10467,12 @@
         "id": "ZXSpin",
         "name": "ZXSpin"
     },
+    "zxtune": {
+        "id": "ZXTune",
+        "name": "ZXTune"
+    },
     "zzogl": {
         "id": "ZZogl",
         "name": "ZZogl"
-    },
-    "~~happy_new_year": {
-        "id": "~~Happy New Year",
-        "name": "~~Happy New Year"
-    },
-    "1964": {
-        "id": "1964",
-        "name": "1964"
     }
 }
