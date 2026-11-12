@@ -735,10 +735,6 @@
         "id": "fbalphashuffle",
         "name": "fbalphashuffle"
     },
-    "fbneo-nightly": {
-        "id": "fbneo-nightly",
-        "name": "fbneo-nightly"
-    },
     "fbneo": {
         "id": "fbneo",
         "name": "fbneo"
@@ -1078,10 +1074,6 @@
     "kega-fusion": {
         "id": "kega-fusion",
         "name": "kega-fusion"
-    },
-    "kegafusion": {
-        "id": "kegafusion",
-        "name": "kegafusion"
     },
     "kegs": {
         "id": "kegs",
@@ -1811,10 +1803,6 @@
         "id": "reicast",
         "name": "reicast"
     },
-    "retroarch-nightly": {
-        "id": "retroarch-nightly",
-        "name": "retroarch-nightly"
-    },
     "retroarch": {
         "id": "retroarch",
         "name": "retroarch"
@@ -2494,5 +2482,2769 @@
     "zxspin": {
         "id": "zxspin",
         "name": "zxspin"
+    },
+    "1984": {
+        "id": "1984",
+        "name": "1984"
+    },
+    "3beans": {
+        "id": "3beans",
+        "name": "3beans"
+    },
+    "86box": {
+        "id": "86box",
+        "name": "86box"
+    },
+    "86box-manager": {
+        "id": "86box-manager",
+        "name": "86box-manager"
+    },
+    "86box-roms": {
+        "id": "86box-roms",
+        "name": "86box-roms"
+    },
+    "86box4crt": {
+        "id": "86box4crt",
+        "name": "86box4crt"
+    },
+    "a8e": {
+        "id": "a8e",
+        "name": "a8e"
+    },
+    "acid-64-player": {
+        "id": "acid-64-player",
+        "name": "acid-64-player"
+    },
+    "adam": {
+        "id": "adam",
+        "name": "adam"
+    },
+    "advancecomp": {
+        "id": "advancecomp",
+        "name": "advancecomp"
+    },
+    "advancemame": {
+        "id": "advancemame",
+        "name": "advancemame"
+    },
+    "aeon": {
+        "id": "aeon",
+        "name": "aeon"
+    },
+    "ags": {
+        "id": "ags",
+        "name": "ags"
+    },
+    "altair8800": {
+        "id": "altair8800",
+        "name": "altair8800"
+    },
+    "amiberry": {
+        "id": "amiberry",
+        "name": "amiberry"
+    },
+    "amspirit": {
+        "id": "amspirit",
+        "name": "amspirit"
+    },
+    "amspirit-lite": {
+        "id": "amspirit-lite",
+        "name": "amspirit-lite"
+    },
+    "angrylion-rdp-plus": {
+        "id": "angrylion-rdp-plus",
+        "name": "angrylion-rdp-plus"
+    },
+    "anyps5": {
+        "id": "anyps5",
+        "name": "anyps5"
+    },
+    "arcadeflashweb": {
+        "id": "arcadeflashweb",
+        "name": "arcadeflashweb"
+    },
+    "arcademanager": {
+        "id": "arcademanager",
+        "name": "arcademanager"
+    },
+    "ase": {
+        "id": "ase",
+        "name": "ase"
+    },
+    "attract-mode-plus": {
+        "id": "attract-mode-plus",
+        "name": "attract-mode-plus"
+    },
+    "avocado": {
+        "id": "avocado",
+        "name": "avocado"
+    },
+    "azahar": {
+        "id": "azahar",
+        "name": "azahar"
+    },
+    "azaharplus": {
+        "id": "azaharplus",
+        "name": "azaharplus"
+    },
+    "azaharx": {
+        "id": "azaharx",
+        "name": "azaharx"
+    },
+    "batgba": {
+        "id": "batgba",
+        "name": "batgba"
+    },
+    "bebox-emulator": {
+        "id": "bebox-emulator",
+        "name": "bebox-emulator"
+    },
+    "biginstinct": {
+        "id": "biginstinct",
+        "name": "biginstinct"
+    },
+    "bigpemu": {
+        "id": "bigpemu",
+        "name": "bigpemu"
+    },
+    "binjgb": {
+        "id": "binjgb",
+        "name": "binjgb"
+    },
+    "bkbtl": {
+        "id": "bkbtl",
+        "name": "bkbtl"
+    },
+    "borked3ds": {
+        "id": "borked3ds",
+        "name": "borked3ds"
+    },
+    "bsnes-netplay": {
+        "id": "bsnes-netplay",
+        "name": "bsnes-netplay"
+    },
+    "bsnes-plus-dev": {
+        "id": "bsnes-plus-dev",
+        "name": "bsnes-plus-dev"
+    },
+    "c64-archiv": {
+        "id": "c64-archiv",
+        "name": "c64-archiv"
+    },
+    "cemu-graphicPacks": {
+        "id": "cemu-graphicPacks",
+        "name": "cemu-graphicPacks"
+    },
+    "cemux": {
+        "id": "cemux",
+        "name": "cemux"
+    },
+    "cen64-qt": {
+        "id": "cen64-qt",
+        "name": "cen64-qt"
+    },
+    "chdman-simd": {
+        "id": "chdman-simd",
+        "name": "chdman-simd"
+    },
+    "chillygb": {
+        "id": "chillygb",
+        "name": "chillygb"
+    },
+    "chipper": {
+        "id": "chipper",
+        "name": "chipper"
+    },
+    "chonkystation": {
+        "id": "chonkystation",
+        "name": "chonkystation"
+    },
+    "citron-neo": {
+        "id": "citron-neo",
+        "name": "citron-neo"
+    },
+    "cloudpilotemu": {
+        "id": "cloudpilotemu",
+        "name": "cloudpilotemu"
+    },
+    "clownmdemu": {
+        "id": "clownmdemu",
+        "name": "clownmdemu"
+    },
+    "clrmame": {
+        "id": "clrmame",
+        "name": "clrmame"
+    },
+    "cmd-play": {
+        "id": "cmd-play",
+        "name": "cmd-play"
+    },
+    "code-dmg": {
+        "id": "code-dmg",
+        "name": "code-dmg"
+    },
+    "coffee-gb": {
+        "id": "coffee-gb",
+        "name": "coffee-gb"
+    },
+    "commodore-64-emulator": {
+        "id": "commodore-64-emulator",
+        "name": "commodore-64-emulator"
+    },
+    "copperline": {
+        "id": "copperline",
+        "name": "copperline"
+    },
+    "cosmou": {
+        "id": "cosmou",
+        "name": "cosmou"
+    },
+    "cpcec": {
+        "id": "cpcec",
+        "name": "cpcec"
+    },
+    "craziiemu": {
+        "id": "craziiemu",
+        "name": "craziiemu"
+    },
+    "crossrunner": {
+        "id": "crossrunner",
+        "name": "crossrunner"
+    },
+    "cspect": {
+        "id": "cspect",
+        "name": "cspect"
+    },
+    "ctrlui": {
+        "id": "ctrlui",
+        "name": "ctrlui"
+    },
+    "daedalusx64-dev": {
+        "id": "daedalusx64-dev",
+        "name": "daedalusx64-dev"
+    },
+    "deecy": {
+        "id": "deecy",
+        "name": "deecy"
+    },
+    "denise": {
+        "id": "denise",
+        "name": "denise"
+    },
+    "devector": {
+        "id": "devector",
+        "name": "devector"
+    },
+    "dgb-n64-dev": {
+        "id": "dgb-n64-dev",
+        "name": "dgb-n64-dev"
+    },
+    "direlera-rs": {
+        "id": "direlera-rs",
+        "name": "direlera-rs"
+    },
+    "dobiestation": {
+        "id": "dobiestation",
+        "name": "dobiestation"
+    },
+    "dolphinxr": {
+        "id": "dolphinxr",
+        "name": "dolphinxr"
+    },
+    "dosbox-automation": {
+        "id": "dosbox-automation",
+        "name": "dosbox-automation"
+    },
+    "dosbox-game-launcher": {
+        "id": "dosbox-game-launcher",
+        "name": "dosbox-game-launcher"
+    },
+    "dosbox-optionals": {
+        "id": "dosbox-optionals",
+        "name": "dosbox-optionals"
+    },
+    "dospanel": {
+        "id": "dospanel",
+        "name": "dospanel"
+    },
+    "dreamm": {
+        "id": "dreamm",
+        "name": "dreamm"
+    },
+    "dreampotato": {
+        "id": "dreampotato",
+        "name": "dreampotato"
+    },
+    "ds4mappertest": {
+        "id": "ds4mappertest",
+        "name": "ds4mappertest"
+    },
+    "dsadvance": {
+        "id": "dsadvance",
+        "name": "dsadvance"
+    },
+    "dualsensey": {
+        "id": "dualsensey",
+        "name": "dualsensey"
+    },
+    "duckstation-netplay": {
+        "id": "duckstation-netplay",
+        "name": "duckstation-netplay"
+    },
+    "dxbx": {
+        "id": "dxbx",
+        "name": "dxbx"
+    },
+    "easyrpg-player": {
+        "id": "easyrpg-player",
+        "name": "easyrpg-player"
+    },
+    "eden": {
+        "id": "eden",
+        "name": "eden"
+    },
+    "eden-nx2": {
+        "id": "eden-nx2",
+        "name": "eden-nx2"
+    },
+    "eggvance": {
+        "id": "eggvance",
+        "name": "eggvance"
+    },
+    "eglantine": {
+        "id": "eglantine",
+        "name": "eglantine"
+    },
+    "eglantine-nx2": {
+        "id": "eglantine-nx2",
+        "name": "eglantine-nx2"
+    },
+    "emu28": {
+        "id": "emu28",
+        "name": "emu28"
+    },
+    "emu48": {
+        "id": "emu48",
+        "name": "emu48"
+    },
+    "emu6502": {
+        "id": "emu6502",
+        "name": "emu6502"
+    },
+    "emu80": {
+        "id": "emu80",
+        "name": "emu80"
+    },
+    "emu_loader": {
+        "id": "emu_loader",
+        "name": "emu_loader"
+    },
+    "emuhub": {
+        "id": "emuhub",
+        "name": "emuhub"
+    },
+    "emulicious": {
+        "id": "emulicious",
+        "name": "emulicious"
+    },
+    "emulinker-k": {
+        "id": "emulinker-k",
+        "name": "emulinker-k"
+    },
+    "emulinkersf": {
+        "id": "emulinkersf",
+        "name": "emulinkersf"
+    },
+    "emuze": {
+        "id": "emuze",
+        "name": "emuze"
+    },
+    "epcecd": {
+        "id": "epcecd",
+        "name": "epcecd"
+    },
+    "erings": {
+        "id": "erings",
+        "name": "erings"
+    },
+    "erockusarcade": {
+        "id": "erockusarcade",
+        "name": "erockusarcade"
+    },
+    "fb-neo-sdl2-imgui": {
+        "id": "fb-neo-sdl2-imgui",
+        "name": "fb-neo-sdl2-imgui"
+    },
+    "fbas64": {
+        "id": "fbas64",
+        "name": "fbas64"
+    },
+    "fbneo-dev": {
+        "id": "fbneo-dev",
+        "name": "fbneo-dev"
+    },
+    "fbneo64": {
+        "id": "fbneo64",
+        "name": "fbneo64"
+    },
+    "felix": {
+        "id": "felix",
+        "name": "felix"
+    },
+    "firebird": {
+        "id": "firebird",
+        "name": "firebird"
+    },
+    "fnesemu": {
+        "id": "fnesemu",
+        "name": "fnesemu"
+    },
+    "fpps4": {
+        "id": "fpps4",
+        "name": "fpps4"
+    },
+    "fpps4-dev": {
+        "id": "fpps4-dev",
+        "name": "fpps4-dev"
+    },
+    "freejoy-configurator": {
+        "id": "freejoy-configurator",
+        "name": "freejoy-configurator"
+    },
+    "frotz": {
+        "id": "frotz",
+        "name": "frotz"
+    },
+    "fs-uae-launcher": {
+        "id": "fs-uae-launcher",
+        "name": "fs-uae-launcher"
+    },
+    "fujisan": {
+        "id": "fujisan",
+        "name": "fujisan"
+    },
+    "gambatte-jg": {
+        "id": "gambatte-jg",
+        "name": "gambatte-jg"
+    },
+    "game-format-converter": {
+        "id": "game-format-converter",
+        "name": "game-format-converter"
+    },
+    "gameex": {
+        "id": "gameex",
+        "name": "gameex"
+    },
+    "gameroy": {
+        "id": "gameroy",
+        "name": "gameroy"
+    },
+    "gb-enhanced-hd": {
+        "id": "gb-enhanced-hd",
+        "name": "gb-enhanced-hd"
+    },
+    "gbsplay": {
+        "id": "gbsplay",
+        "name": "gbsplay"
+    },
+    "gearcoleco": {
+        "id": "gearcoleco",
+        "name": "gearcoleco"
+    },
+    "geargrafx": {
+        "id": "geargrafx",
+        "name": "geargrafx"
+    },
+    "gearlynx": {
+        "id": "gearlynx",
+        "name": "gearlynx"
+    },
+    "gecko": {
+        "id": "gecko",
+        "name": "gecko"
+    },
+    "genesis-plus-ex": {
+        "id": "genesis-plus-ex",
+        "name": "genesis-plus-ex"
+    },
+    "gentleman": {
+        "id": "gentleman",
+        "name": "gentleman"
+    },
+    "genx": {
+        "id": "genx",
+        "name": "genx"
+    },
+    "gliden64": {
+        "id": "gliden64",
+        "name": "gliden64"
+    },
+    "gnuboy": {
+        "id": "gnuboy",
+        "name": "gnuboy"
+    },
+    "goliath": {
+        "id": "goliath",
+        "name": "goliath"
+    },
+    "gones": {
+        "id": "gones",
+        "name": "gones"
+    },
+    "gopher64": {
+        "id": "gopher64",
+        "name": "gopher64"
+    },
+    "gse": {
+        "id": "gse",
+        "name": "gse"
+    },
+    "gsplus": {
+        "id": "gsplus",
+        "name": "gsplus"
+    },
+    "gtk3vice": {
+        "id": "gtk3vice",
+        "name": "gtk3vice"
+    },
+    "guac": {
+        "id": "guac",
+        "name": "guac"
+    },
+    "hades": {
+        "id": "hades",
+        "name": "hades"
+    },
+    "hi65": {
+        "id": "hi65",
+        "name": "hi65"
+    },
+    "higan-dev": {
+        "id": "higan-dev",
+        "name": "higan-dev"
+    },
+    "hitachi_mb-s1": {
+        "id": "hitachi_mb-s1",
+        "name": "hitachi_mb-s1"
+    },
+    "holani-gtk": {
+        "id": "holani-gtk",
+        "name": "holani-gtk"
+    },
+    "holani-min": {
+        "id": "holani-min",
+        "name": "holani-min"
+    },
+    "hollycast": {
+        "id": "hollycast",
+        "name": "hollycast"
+    },
+    "hourglass": {
+        "id": "hourglass",
+        "name": "hourglass"
+    },
+    "ibmulator": {
+        "id": "ibmulator",
+        "name": "ibmulator"
+    },
+    "igir": {
+        "id": "igir",
+        "name": "igir"
+    },
+    "inkspector": {
+        "id": "inkspector",
+        "name": "inkspector"
+    },
+    "iris": {
+        "id": "iris",
+        "name": "iris"
+    },
+    "izapple2": {
+        "id": "izapple2",
+        "name": "izapple2"
+    },
+    "jgamebase": {
+        "id": "jgamebase",
+        "name": "jgamebase"
+    },
+    "jgb": {
+        "id": "jgb",
+        "name": "jgb"
+    },
+    "jgenesis": {
+        "id": "jgenesis",
+        "name": "jgenesis"
+    },
+    "jgnes": {
+        "id": "jgnes",
+        "name": "jgnes"
+    },
+    "jjui": {
+        "id": "jjui",
+        "name": "jjui"
+    },
+    "jkcemu": {
+        "id": "jkcemu",
+        "name": "jkcemu"
+    },
+    "joric": {
+        "id": "joric",
+        "name": "joric"
+    },
+    "joyshockmapper": {
+        "id": "joyshockmapper",
+        "name": "joyshockmapper"
+    },
+    "jpl64": {
+        "id": "jpl64",
+        "name": "jpl64"
+    },
+    "jrommanager": {
+        "id": "jrommanager",
+        "name": "jrommanager"
+    },
+    "jsidplay2": {
+        "id": "jsidplay2",
+        "name": "jsidplay2"
+    },
+    "kernal64": {
+        "id": "kernal64",
+        "name": "kernal64"
+    },
+    "kevboy": {
+        "id": "kevboy",
+        "name": "kevboy"
+    },
+    "key2joy": {
+        "id": "key2joy",
+        "name": "key2joy"
+    },
+    "kitsune": {
+        "id": "kitsune",
+        "name": "kitsune"
+    },
+    "kiwi8": {
+        "id": "kiwi8",
+        "name": "kiwi8"
+    },
+    "kozynax": {
+        "id": "kozynax",
+        "name": "kozynax"
+    },
+    "kyty": {
+        "id": "kyty",
+        "name": "kyty"
+    },
+    "kytyplus": {
+        "id": "kytyplus",
+        "name": "kytyplus"
+    },
+    "kytyps5": {
+        "id": "kytyps5",
+        "name": "kytyps5"
+    },
+    "launchbox": {
+        "id": "launchbox",
+        "name": "launchbox"
+    },
+    "lazuli": {
+        "id": "lazuli",
+        "name": "lazuli"
+    },
+    "lichii": {
+        "id": "lichii",
+        "name": "lichii"
+    },
+    "lnxspectrum": {
+        "id": "lnxspectrum",
+        "name": "lnxspectrum"
+    },
+    "lsnes": {
+        "id": "lsnes",
+        "name": "lsnes"
+    },
+    "lucky-boy": {
+        "id": "lucky-boy",
+        "name": "lucky-boy"
+    },
+    "luna-project64": {
+        "id": "luna-project64",
+        "name": "luna-project64"
+    },
+    "m2000": {
+        "id": "m2000",
+        "name": "m2000"
+    },
+    "m64py": {
+        "id": "m64py",
+        "name": "m64py"
+    },
+    "madrigal-cd-collection": {
+        "id": "madrigal-cd-collection",
+        "name": "madrigal-cd-collection"
+    },
+    "mame-neht": {
+        "id": "mame-neht",
+        "name": "mame-neht"
+    },
+    "mame-nes": {
+        "id": "mame-nes",
+        "name": "mame-nes"
+    },
+    "mameui-classic": {
+        "id": "mameui-classic",
+        "name": "mameui-classic"
+    },
+    "mandarine": {
+        "id": "mandarine",
+        "name": "mandarine"
+    },
+    "manx": {
+        "id": "manx",
+        "name": "manx"
+    },
+    "mark5": {
+        "id": "mark5",
+        "name": "mark5"
+    },
+    "martypc": {
+        "id": "martypc",
+        "name": "martypc"
+    },
+    "maurice": {
+        "id": "maurice",
+        "name": "maurice"
+    },
+    "megaboy": {
+        "id": "megaboy",
+        "name": "megaboy"
+    },
+    "melonds-launcher": {
+        "id": "melonds-launcher",
+        "name": "melonds-launcher"
+    },
+    "melonra": {
+        "id": "melonra",
+        "name": "melonra"
+    },
+    "memcardrex": {
+        "id": "memcardrex",
+        "name": "memcardrex"
+    },
+    "mesen2": {
+        "id": "mesen2",
+        "name": "mesen2"
+    },
+    "mesen2-dev": {
+        "id": "mesen2-dev",
+        "name": "mesen2-dev"
+    },
+    "mesence": {
+        "id": "mesence",
+        "name": "mesence"
+    },
+    "mgbax": {
+        "id": "mgbax",
+        "name": "mgbax"
+    },
+    "minicdi": {
+        "id": "minicdi",
+        "name": "minicdi"
+    },
+    "mmsap": {
+        "id": "mmsap",
+        "name": "mmsap"
+    },
+    "model-3-vulkan": {
+        "id": "model-3-vulkan",
+        "name": "model-3-vulkan"
+    },
+    "modest-gb": {
+        "id": "modest-gb",
+        "name": "modest-gb"
+    },
+    "mupen64-rr-lua": {
+        "id": "mupen64-rr-lua",
+        "name": "mupen64-rr-lua"
+    },
+    "mupen64plus-dev": {
+        "id": "mupen64plus-dev",
+        "name": "mupen64plus-dev"
+    },
+    "mupen64plus-qt": {
+        "id": "mupen64plus-qt",
+        "name": "mupen64plus-qt"
+    },
+    "mutsu": {
+        "id": "mutsu",
+        "name": "mutsu"
+    },
+    "mymcpp": {
+        "id": "mymcpp",
+        "name": "mymcpp"
+    },
+    "namdhc": {
+        "id": "namdhc",
+        "name": "namdhc"
+    },
+    "nc2000": {
+        "id": "nc2000",
+        "name": "nc2000"
+    },
+    "negatron": {
+        "id": "negatron",
+        "name": "negatron"
+    },
+    "nen-emulator": {
+        "id": "nen-emulator",
+        "name": "nen-emulator"
+    },
+    "neonbtl": {
+        "id": "neonbtl",
+        "name": "neonbtl"
+    },
+    "neost": {
+        "id": "neost",
+        "name": "neost"
+    },
+    "nesd": {
+        "id": "nesd",
+        "name": "nesd"
+    },
+    "nesicide": {
+        "id": "nesicide",
+        "name": "nesicide"
+    },
+    "nestopia-jg": {
+        "id": "nestopia-jg",
+        "name": "nestopia-jg"
+    },
+    "nestopia-ue": {
+        "id": "nestopia-ue",
+        "name": "nestopia-ue"
+    },
+    "net-nes": {
+        "id": "net-nes",
+        "name": "net-nes"
+    },
+    "nexen": {
+        "id": "nexen",
+        "name": "nexen"
+    },
+    "nexium": {
+        "id": "nexium",
+        "name": "nexium"
+    },
+    "ngpcraft": {
+        "id": "ngpcraft",
+        "name": "ngpcraft"
+    },
+    "nintaco": {
+        "id": "nintaco",
+        "name": "nintaco"
+    },
+    "nostlan": {
+        "id": "nostlan",
+        "name": "nostlan"
+    },
+    "np2fmgen": {
+        "id": "np2fmgen",
+        "name": "np2fmgen"
+    },
+    "ns-emu-mod-downloader": {
+        "id": "ns-emu-mod-downloader",
+        "name": "ns-emu-mod-downloader"
+    },
+    "nsfplay": {
+        "id": "nsfplay",
+        "name": "nsfplay"
+    },
+    "nuance": {
+        "id": "nuance",
+        "name": "nuance"
+    },
+    "nulldc-bear": {
+        "id": "nulldc-bear",
+        "name": "nulldc-bear"
+    },
+    "nxemu": {
+        "id": "nxemu",
+        "name": "nxemu"
+    },
+    "obentou": {
+        "id": "obentou",
+        "name": "obentou"
+    },
+    "oboromi": {
+        "id": "oboromi",
+        "name": "oboromi"
+    },
+    "odin": {
+        "id": "odin",
+        "name": "odin"
+    },
+    "ohboy": {
+        "id": "ohboy",
+        "name": "ohboy"
+    },
+    "opencdi": {
+        "id": "opencdi",
+        "name": "opencdi"
+    },
+    "openrom": {
+        "id": "openrom",
+        "name": "openrom"
+    },
+    "openttd": {
+        "id": "openttd",
+        "name": "openttd"
+    },
+    "orao-emulator": {
+        "id": "orao-emulator",
+        "name": "orao-emulator"
+    },
+    "oxyromon": {
+        "id": "oxyromon",
+        "name": "oxyromon"
+    },
+    "padforge": {
+        "id": "padforge",
+        "name": "padforge"
+    },
+    "panda3ds": {
+        "id": "panda3ds",
+        "name": "panda3ds"
+    },
+    "pantheon": {
+        "id": "pantheon",
+        "name": "pantheon"
+    },
+    "pcbox": {
+        "id": "pcbox",
+        "name": "pcbox"
+    },
+    "pce": {
+        "id": "pce",
+        "name": "pce"
+    },
+    "pcfxemu": {
+        "id": "pcfxemu",
+        "name": "pcfxemu"
+    },
+    "pcsx-redux": {
+        "id": "pcsx-redux",
+        "name": "pcsx-redux"
+    },
+    "pcsx2-reliquary": {
+        "id": "pcsx2-reliquary",
+        "name": "pcsx2-reliquary"
+    },
+    "pcsx2x6": {
+        "id": "pcsx2x6",
+        "name": "pcsx2x6"
+    },
+    "pcxsense": {
+        "id": "pcxsense",
+        "name": "pcxsense"
+    },
+    "peanut-gb": {
+        "id": "peanut-gb",
+        "name": "peanut-gb"
+    },
+    "pemu": {
+        "id": "pemu",
+        "name": "pemu"
+    },
+    "plumsg": {
+        "id": "plumsg",
+        "name": "plumsg"
+    },
+    "pockethle": {
+        "id": "pockethle",
+        "name": "pockethle"
+    },
+    "pokket": {
+        "id": "pokket",
+        "name": "pokket"
+    },
+    "pom2": {
+        "id": "pom2",
+        "name": "pom2"
+    },
+    "primehack": {
+        "id": "primehack",
+        "name": "primehack"
+    },
+    "project64k-legacy": {
+        "id": "project64k-legacy",
+        "name": "project64k-legacy"
+    },
+    "prosper": {
+        "id": "prosper",
+        "name": "prosper"
+    },
+    "ps-multi-tools": {
+        "id": "ps-multi-tools",
+        "name": "ps-multi-tools"
+    },
+    "ps5pcem": {
+        "id": "ps5pcem",
+        "name": "ps5pcem"
+    },
+    "ps5rs": {
+        "id": "ps5rs",
+        "name": "ps5rs"
+    },
+    "psarcade-classic": {
+        "id": "psarcade-classic",
+        "name": "psarcade-classic"
+    },
+    "psoff": {
+        "id": "psoff",
+        "name": "psoff"
+    },
+    "psxe": {
+        "id": "psxe",
+        "name": "psxe"
+    },
+    "punes-dev": {
+        "id": "punes-dev",
+        "name": "punes-dev"
+    },
+    "punes-opengl-dev": {
+        "id": "punes-opengl-dev",
+        "name": "punes-opengl-dev"
+    },
+    "q-emulator": {
+        "id": "q-emulator",
+        "name": "q-emulator"
+    },
+    "quickplay": {
+        "id": "quickplay",
+        "name": "quickplay"
+    },
+    "retro-multi-tools": {
+        "id": "retro-multi-tools",
+        "name": "retro-multi-tools"
+    },
+    "retro-virtual-machine": {
+        "id": "retro-virtual-machine",
+        "name": "retro-virtual-machine"
+    },
+    "retroarch-dev": {
+        "id": "retroarch-dev",
+        "name": "retroarch-dev"
+    },
+    "retroarch-k": {
+        "id": "retroarch-k",
+        "name": "retroarch-k"
+    },
+    "retrofe": {
+        "id": "retrofe",
+        "name": "retrofe"
+    },
+    "retrogbm": {
+        "id": "retrogbm",
+        "name": "retrogbm"
+    },
+    "retrohub": {
+        "id": "retrohub",
+        "name": "retrohub"
+    },
+    "retrom": {
+        "id": "retrom",
+        "name": "retrom"
+    },
+    "rmg": {
+        "id": "rmg",
+        "name": "rmg"
+    },
+    "rmg-k": {
+        "id": "rmg-k",
+        "name": "rmg-k"
+    },
+    "romsieve": {
+        "id": "romsieve",
+        "name": "romsieve"
+    },
+    "romvault": {
+        "id": "romvault",
+        "name": "romvault"
+    },
+    "rpcn": {
+        "id": "rpcn",
+        "name": "rpcn"
+    },
+    "ruffle-nightly": {
+        "id": "ruffle-nightly",
+        "name": "ruffle-nightly"
+    },
+    "rumsx": {
+        "id": "rumsx",
+        "name": "rumsx"
+    },
+    "rustps5emu": {
+        "id": "rustps5emu",
+        "name": "rustps5emu"
+    },
+    "rustynes": {
+        "id": "rustynes",
+        "name": "rustynes"
+    },
+    "ruzu": {
+        "id": "ruzu",
+        "name": "ruzu"
+    },
+    "ryu": {
+        "id": "ryu",
+        "name": "ryu"
+    },
+    "ryujinx-ava": {
+        "id": "ryujinx-ava",
+        "name": "ryujinx-ava"
+    },
+    "ryujinx-ldn": {
+        "id": "ryujinx-ldn",
+        "name": "ryujinx-ldn"
+    },
+    "ryujinx-ldn-ava": {
+        "id": "ryujinx-ldn-ava",
+        "name": "ryujinx-ldn-ava"
+    },
+    "ryusak": {
+        "id": "ryusak",
+        "name": "ryusak"
+    },
+    "sandopolis": {
+        "id": "sandopolis",
+        "name": "sandopolis"
+    },
+    "scepsx": {
+        "id": "scepsx",
+        "name": "scepsx"
+    },
+    "shadnet": {
+        "id": "shadnet",
+        "name": "shadnet"
+    },
+    "shadps4": {
+        "id": "shadps4",
+        "name": "shadps4"
+    },
+    "shadps4-qtlauncher": {
+        "id": "shadps4-qtlauncher",
+        "name": "shadps4-qtlauncher"
+    },
+    "shadps4plus": {
+        "id": "shadps4plus",
+        "name": "shadps4plus"
+    },
+    "sharpemu": {
+        "id": "sharpemu",
+        "name": "sharpemu"
+    },
+    "shmupmame": {
+        "id": "shmupmame",
+        "name": "shmupmame"
+    },
+    "sidplayfp": {
+        "id": "sidplayfp",
+        "name": "sidplayfp"
+    },
+    "sidplaywx": {
+        "id": "sidplaywx",
+        "name": "sidplaywx"
+    },
+    "simple-boy": {
+        "id": "simple-boy",
+        "name": "simple-boy"
+    },
+    "simple64x": {
+        "id": "simple64x",
+        "name": "simple64x"
+    },
+    "simpleLauncher": {
+        "id": "simpleLauncher",
+        "name": "simpleLauncher"
+    },
+    "sm2-emu": {
+        "id": "sm2-emu",
+        "name": "sm2-emu"
+    },
+    "snes-spc700-player": {
+        "id": "snes-spc700-player",
+        "name": "snes-spc700-player"
+    },
+    "snes-station-pc": {
+        "id": "snes-station-pc",
+        "name": "snes-station-pc"
+    },
+    "snes9xrd": {
+        "id": "snes9xrd",
+        "name": "snes9xrd"
+    },
+    "solarus": {
+        "id": "solarus",
+        "name": "solarus"
+    },
+    "specide": {
+        "id": "specide",
+        "name": "specide"
+    },
+    "spectral": {
+        "id": "spectral",
+        "name": "spectral"
+    },
+    "starpsx": {
+        "id": "starpsx",
+        "name": "starpsx"
+    },
+    "supermodel-dojo": {
+        "id": "supermodel-dojo",
+        "name": "supermodel-dojo"
+    },
+    "supermodel-sinden": {
+        "id": "supermodel-sinden",
+        "name": "supermodel-sinden"
+    },
+    "supermodel3-ponmi": {
+        "id": "supermodel3-ponmi",
+        "name": "supermodel3-ponmi"
+    },
+    "supersnes9x": {
+        "id": "supersnes9x",
+        "name": "supersnes9x"
+    },
+    "superzsnes": {
+        "id": "superzsnes",
+        "name": "superzsnes"
+    },
+    "supraclient": {
+        "id": "supraclient",
+        "name": "supraclient"
+    },
+    "suyu": {
+        "id": "suyu",
+        "name": "suyu"
+    },
+    "swan": {
+        "id": "swan",
+        "name": "swan"
+    },
+    "swiss": {
+        "id": "swiss",
+        "name": "swiss"
+    },
+    "tanuki3ds": {
+        "id": "tanuki3ds",
+        "name": "tanuki3ds"
+    },
+    "tedplay": {
+        "id": "tedplay",
+        "name": "tedplay"
+    },
+    "teo": {
+        "id": "teo",
+        "name": "teo"
+    },
+    "terebikkoemu": {
+        "id": "terebikkoemu",
+        "name": "terebikkoemu"
+    },
+    "test7800": {
+        "id": "test7800",
+        "name": "test7800"
+    },
+    "tetanes": {
+        "id": "tetanes",
+        "name": "tetanes"
+    },
+    "touchepx5": {
+        "id": "touchepx5",
+        "name": "touchepx5"
+    },
+    "touchhle": {
+        "id": "touchhle",
+        "name": "touchhle"
+    },
+    "turbostage": {
+        "id": "turbostage",
+        "name": "turbostage"
+    },
+    "turgen": {
+        "id": "turgen",
+        "name": "turgen"
+    },
+    "ucon64": {
+        "id": "ucon64",
+        "name": "ucon64"
+    },
+    "v41": {
+        "id": "v41",
+        "name": "v41"
+    },
+    "vb81_xur": {
+        "id": "vb81_xur",
+        "name": "vb81_xur"
+    },
+    "vboy-color": {
+        "id": "vboy-color",
+        "name": "vboy-color"
+    },
+    "veesem": {
+        "id": "veesem",
+        "name": "veesem"
+    },
+    "virtual-jaguar-rx": {
+        "id": "virtual-jaguar-rx",
+        "name": "virtual-jaguar-rx"
+    },
+    "virtual-vector": {
+        "id": "virtual-vector",
+        "name": "virtual-vector"
+    },
+    "vitaslop": {
+        "id": "vitaslop",
+        "name": "vitaslop"
+    },
+    "vkrt-nes-remaster": {
+        "id": "vkrt-nes-remaster",
+        "name": "vkrt-nes-remaster"
+    },
+    "vvctre": {
+        "id": "vvctre",
+        "name": "vvctre"
+    },
+    "widemelon": {
+        "id": "widemelon",
+        "name": "widemelon"
+    },
+    "windows95": {
+        "id": "windows95",
+        "name": "windows95"
+    },
+    "windspro": {
+        "id": "windspro",
+        "name": "windspro"
+    },
+    "wine": {
+        "id": "wine",
+        "name": "wine"
+    },
+    "winlux80": {
+        "id": "winlux80",
+        "name": "winlux80"
+    },
+    "x16-emulator": {
+        "id": "x16-emulator",
+        "name": "x16-emulator"
+    },
+    "x360ce": {
+        "id": "x360ce",
+        "name": "x360ce"
+    },
+    "xavixemu": {
+        "id": "xavixemu",
+        "name": "xavixemu"
+    },
+    "xbased": {
+        "id": "xbased",
+        "name": "xbased"
+    },
+    "xeij": {
+        "id": "xeij",
+        "name": "xeij"
+    },
+    "xemu-chihiro-playtest": {
+        "id": "xemu-chihiro-playtest",
+        "name": "xemu-chihiro-playtest"
+    },
+    "xemu-modern-gui": {
+        "id": "xemu-modern-gui",
+        "name": "xemu-modern-gui"
+    },
+    "xenia-canary-netplay": {
+        "id": "xenia-canary-netplay",
+        "name": "xenia-canary-netplay"
+    },
+    "xenia-manager": {
+        "id": "xenia-manager",
+        "name": "xenia-manager"
+    },
+    "xenia_edge": {
+        "id": "xenia_edge",
+        "name": "xenia_edge"
+    },
+    "xm6-pro-68k": {
+        "id": "xm6-pro-68k",
+        "name": "xm6-pro-68k"
+    },
+    "yane": {
+        "id": "yane",
+        "name": "yane"
+    },
+    "ymir": {
+        "id": "ymir",
+        "name": "ymir"
+    },
+    "zaxnes": {
+        "id": "zaxnes",
+        "name": "zaxnes"
+    },
+    "zeraps5": {
+        "id": "zeraps5",
+        "name": "zeraps5"
+    },
+    "zinc-ex": {
+        "id": "zinc-ex",
+        "name": "zinc-ex"
+    },
+    "zxian": {
+        "id": "zxian",
+        "name": "zxian"
+    },
+    "achtbit": {
+        "id": "achtbit",
+        "name": "achtbit"
+    },
+    "advancescan": {
+        "id": "advancescan",
+        "name": "advancescan"
+    },
+    "1964-gepd": {
+        "id": "1964-gepd",
+        "name": "1964-gepd"
+    },
+    "1964-ultrafast": {
+        "id": "1964-ultrafast",
+        "name": "1964-ultrafast"
+    },
+    "1984-dev": {
+        "id": "1984-dev",
+        "name": "1984-dev"
+    },
+    "ags-dev": {
+        "id": "ags-dev",
+        "name": "ags-dev"
+    },
+    "amiberry-dev": {
+        "id": "amiberry-dev",
+        "name": "amiberry-dev"
+    },
+    "anese": {
+        "id": "anese",
+        "name": "anese"
+    },
+    "anothernes": {
+        "id": "anothernes",
+        "name": "anothernes"
+    },
+    "arcadeflex": {
+        "id": "arcadeflex",
+        "name": "arcadeflex"
+    },
+    "arcan": {
+        "id": "arcan",
+        "name": "arcan"
+    },
+    "atari800-dev": {
+        "id": "atari800-dev",
+        "name": "atari800-dev"
+    },
+    "audio-overload": {
+        "id": "audio-overload",
+        "name": "audio-overload"
+    },
+    "azahar-dev": {
+        "id": "azahar-dev",
+        "name": "azahar-dev"
+    },
+    "bassnes": {
+        "id": "bassnes",
+        "name": "bassnes"
+    },
+    "big-blue": {
+        "id": "big-blue",
+        "name": "big-blue"
+    },
+    "bk-dev": {
+        "id": "bk-dev",
+        "name": "bk-dev"
+    },
+    "bluemsx-launcher": {
+        "id": "bluemsx-launcher",
+        "name": "bluemsx-launcher"
+    },
+    "bochs-dev": {
+        "id": "bochs-dev",
+        "name": "bochs-dev"
+    },
+    "bsnes-classic-6xbrz": {
+        "id": "bsnes-classic-6xbrz",
+        "name": "bsnes-classic-6xbrz"
+    },
+    "bsnes-dev": {
+        "id": "bsnes-dev",
+        "name": "bsnes-dev"
+    },
+    "bsnes-netplay-dev": {
+        "id": "bsnes-netplay-dev",
+        "name": "bsnes-netplay-dev"
+    },
+    "bsnes-plus-6xbrz": {
+        "id": "bsnes-plus-6xbrz",
+        "name": "bsnes-plus-6xbrz"
+    },
+    "budford": {
+        "id": "budford",
+        "name": "budford"
+    },
+    "c64-lover": {
+        "id": "c64-lover",
+        "name": "c64-lover"
+    },
+    "cabmame": {
+        "id": "cabmame",
+        "name": "cabmame"
+    },
+    "cabmame-ui": {
+        "id": "cabmame-ui",
+        "name": "cabmame-ui"
+    },
+    "catshanty2": {
+        "id": "catshanty2",
+        "name": "catshanty2"
+    },
+    "cemu-loader": {
+        "id": "cemu-loader",
+        "name": "cemu-loader"
+    },
+    "cemui": {
+        "id": "cemui",
+        "name": "cemui"
+    },
+    "chdman-fe": {
+        "id": "chdman-fe",
+        "name": "chdman-fe"
+    },
+    "chip-8-sdl": {
+        "id": "chip-8-sdl",
+        "name": "chip-8-sdl"
+    },
+    "chip8swemu": {
+        "id": "chip8swemu",
+        "name": "chip8swemu"
+    },
+    "clr-dev9": {
+        "id": "clr-dev9",
+        "name": "clr-dev9"
+    },
+    "copperline-dev": {
+        "id": "copperline-dev",
+        "name": "copperline-dev"
+    },
+    "corgids": {
+        "id": "corgids",
+        "name": "corgids"
+    },
+    "cpcinajar": {
+        "id": "cpcinajar",
+        "name": "cpcinajar"
+    },
+    "cutemupen": {
+        "id": "cutemupen",
+        "name": "cutemupen"
+    },
+    "d-fend-reloaded": {
+        "id": "d-fend-reloaded",
+        "name": "d-fend-reloaded"
+    },
+    "darkfrontend": {
+        "id": "darkfrontend",
+        "name": "darkfrontend"
+    },
+    "david-haywoods-mame": {
+        "id": "david-haywoods-mame",
+        "name": "david-haywoods-mame"
+    },
+    "deecy-dev": {
+        "id": "deecy-dev",
+        "name": "deecy-dev"
+    },
+    "denise-dev": {
+        "id": "denise-dev",
+        "name": "denise-dev"
+    },
+    "dice": {
+        "id": "dice",
+        "name": "dice"
+    },
+    "dioscuri": {
+        "id": "dioscuri",
+        "name": "dioscuri"
+    },
+    "dmgemu": {
+        "id": "dmgemu",
+        "name": "dmgemu"
+    },
+    "doallator": {
+        "id": "doallator",
+        "name": "doallator"
+    },
+    "dolphin-memory-engine": {
+        "id": "dolphin-memory-engine",
+        "name": "dolphin-memory-engine"
+    },
+    "dosblaster": {
+        "id": "dosblaster",
+        "name": "dosblaster"
+    },
+    "dosbox-automation-dev": {
+        "id": "dosbox-automation-dev",
+        "name": "dosbox-automation-dev"
+    },
+    "dosbox-ece": {
+        "id": "dosbox-ece",
+        "name": "dosbox-ece"
+    },
+    "dosbox-staging-dev": {
+        "id": "dosbox-staging-dev",
+        "name": "dosbox-staging-dev"
+    },
+    "dosshell": {
+        "id": "dosshell",
+        "name": "dosshell"
+    },
+    "dreampotato-dev": {
+        "id": "dreampotato-dev",
+        "name": "dreampotato-dev"
+    },
+    "duckstation-dev": {
+        "id": "duckstation-dev",
+        "name": "duckstation-dev"
+    },
+    "easyrpg-player-dev": {
+        "id": "easyrpg-player-dev",
+        "name": "easyrpg-player-dev"
+    },
+    "eden-dev": {
+        "id": "eden-dev",
+        "name": "eden-dev"
+    },
+    "eglantine-dev": {
+        "id": "eglantine-dev",
+        "name": "eglantine-dev"
+    },
+    "erings-dev": {
+        "id": "erings-dev",
+        "name": "erings-dev"
+    },
+    "firebird-dev": {
+        "id": "firebird-dev",
+        "name": "firebird-dev"
+    },
+    "gearcoleco-dev": {
+        "id": "gearcoleco-dev",
+        "name": "gearcoleco-dev"
+    },
+    "geargrafx-dev": {
+        "id": "geargrafx-dev",
+        "name": "geargrafx-dev"
+    },
+    "gearlynx-dev": {
+        "id": "gearlynx-dev",
+        "name": "gearlynx-dev"
+    },
+    "gecko-dev": {
+        "id": "gecko-dev",
+        "name": "gecko-dev"
+    },
+    "gliden64-dev": {
+        "id": "gliden64-dev",
+        "name": "gliden64-dev"
+    },
+    "gopher2600-dev": {
+        "id": "gopher2600-dev",
+        "name": "gopher2600-dev"
+    },
+    "gopher64-dev": {
+        "id": "gopher64-dev",
+        "name": "gopher64-dev"
+    },
+    "gtk3vice-dev": {
+        "id": "gtk3vice-dev",
+        "name": "gtk3vice-dev"
+    },
+    "hbmame-dev": {
+        "id": "hbmame-dev",
+        "name": "hbmame-dev"
+    },
+    "hbmameui-dev": {
+        "id": "hbmameui-dev",
+        "name": "hbmameui-dev"
+    },
+    "iris-dev": {
+        "id": "iris-dev",
+        "name": "iris-dev"
+    },
+    "jc64dis-dev": {
+        "id": "jc64dis-dev",
+        "name": "jc64dis-dev"
+    },
+    "jgenesis-dev": {
+        "id": "jgenesis-dev",
+        "name": "jgenesis-dev"
+    },
+    "joytokey-dev": {
+        "id": "joytokey-dev",
+        "name": "joytokey-dev"
+    },
+    "jrommanager-dev": {
+        "id": "jrommanager-dev",
+        "name": "jrommanager-dev"
+    },
+    "kozynax-dev": {
+        "id": "kozynax-dev",
+        "name": "kozynax-dev"
+    },
+    "kytyplus-dev": {
+        "id": "kytyplus-dev",
+        "name": "kytyplus-dev"
+    },
+    "mame-dev": {
+        "id": "mame-dev",
+        "name": "mame-dev"
+    },
+    "mameui-dev": {
+        "id": "mameui-dev",
+        "name": "mameui-dev"
+    },
+    "martypc-dev": {
+        "id": "martypc-dev",
+        "name": "martypc-dev"
+    },
+    "meka-dev": {
+        "id": "meka-dev",
+        "name": "meka-dev"
+    },
+    "melonra-dev": {
+        "id": "melonra-dev",
+        "name": "melonra-dev"
+    },
+    "messui-dev": {
+        "id": "messui-dev",
+        "name": "messui-dev"
+    },
+    "msdos-player-dev": {
+        "id": "msdos-player-dev",
+        "name": "msdos-player-dev"
+    },
+    "mupen64-rr-lua-dev": {
+        "id": "mupen64-rr-lua-dev",
+        "name": "mupen64-rr-lua-dev"
+    },
+    "nesd-dev": {
+        "id": "nesd-dev",
+        "name": "nesd-dev"
+    },
+    "nxemu-dev": {
+        "id": "nxemu-dev",
+        "name": "nxemu-dev"
+    },
+    "obentou-dev": {
+        "id": "obentou-dev",
+        "name": "obentou-dev"
+    },
+    "odin-dev": {
+        "id": "odin-dev",
+        "name": "odin-dev"
+    },
+    "openttd-dev": {
+        "id": "openttd-dev",
+        "name": "openttd-dev"
+    },
+    "padforge-dev": {
+        "id": "padforge-dev",
+        "name": "padforge-dev"
+    },
+    "pcsx2-reliquary-dev": {
+        "id": "pcsx2-reliquary-dev",
+        "name": "pcsx2-reliquary-dev"
+    },
+    "picodrive-dev": {
+        "id": "picodrive-dev",
+        "name": "picodrive-dev"
+    },
+    "pinmame-dev": {
+        "id": "pinmame-dev",
+        "name": "pinmame-dev"
+    },
+    "pom1-dev": {
+        "id": "pom1-dev",
+        "name": "pom1-dev"
+    },
+    "rmg-dev": {
+        "id": "rmg-dev",
+        "name": "rmg-dev"
+    },
+    "rmg-k-dev": {
+        "id": "rmg-k-dev",
+        "name": "rmg-k-dev"
+    },
+    "ruffle": {
+        "id": "ruffle",
+        "name": "ruffle"
+    },
+    "ryujinx-dev": {
+        "id": "ryujinx-dev",
+        "name": "ryujinx-dev"
+    },
+    "shadps4-dev": {
+        "id": "shadps4-dev",
+        "name": "shadps4-dev"
+    },
+    "sharpemu-dev": {
+        "id": "sharpemu-dev",
+        "name": "sharpemu-dev"
+    },
+    "skyemu-dev": {
+        "id": "skyemu-dev",
+        "name": "skyemu-dev"
+    },
+    "sm2-emu-dev": {
+        "id": "sm2-emu-dev",
+        "name": "sm2-emu-dev"
+    },
+    "spcmsx": {
+        "id": "spcmsx",
+        "name": "spcmsx"
+    },
+    "sugarbox-dev": {
+        "id": "sugarbox-dev",
+        "name": "sugarbox-dev"
+    },
+    "supersnes9x-dev": {
+        "id": "supersnes9x-dev",
+        "name": "supersnes9x-dev"
+    },
+    "test7800-dev": {
+        "id": "test7800-dev",
+        "name": "test7800-dev"
+    },
+    "touchhle-dev": {
+        "id": "touchhle-dev",
+        "name": "touchhle-dev"
+    },
+    "townemu-dev": {
+        "id": "townemu-dev",
+        "name": "townemu-dev"
+    },
+    "uk101": {
+        "id": "uk101",
+        "name": "uk101"
+    },
+    "visualpinball-dev": {
+        "id": "visualpinball-dev",
+        "name": "visualpinball-dev"
+    },
+    "winuae-dev": {
+        "id": "winuae-dev",
+        "name": "winuae-dev"
+    },
+    "xenia-canary-netplay-dev": {
+        "id": "xenia-canary-netplay-dev",
+        "name": "xenia-canary-netplay-dev"
+    },
+    "ymir-dev": {
+        "id": "ymir-dev",
+        "name": "ymir-dev"
+    },
+    "1964video": {
+        "id": "1964video",
+        "name": "1964video"
+    },
+    "ampshell": {
+        "id": "ampshell",
+        "name": "ampshell"
+    },
+    "arcadia": {
+        "id": "arcadia",
+        "name": "arcadia"
+    },
+    "aziaudio": {
+        "id": "aziaudio",
+        "name": "aziaudio"
+    },
+    "bee": {
+        "id": "bee",
+        "name": "bee"
+    },
+    "bleep": {
+        "id": "bleep",
+        "name": "bleep"
+    },
+    "byuu": {
+        "id": "byuu",
+        "name": "byuu"
+    },
+    "crystalboy": {
+        "id": "crystalboy",
+        "name": "crystalboy"
+    },
+    "ddememame": {
+        "id": "ddememame",
+        "name": "ddememame"
+    },
+    "desmume-x432r": {
+        "id": "desmume-x432r",
+        "name": "desmume-x432r"
+    },
+    "dolphin-triforce": {
+        "id": "dolphin-triforce",
+        "name": "dolphin-triforce"
+    },
+    "dosbox-daum": {
+        "id": "dosbox-daum",
+        "name": "dosbox-daum"
+    },
+    "doscenter": {
+        "id": "doscenter",
+        "name": "doscenter"
+    },
+    "durazno": {
+        "id": "durazno",
+        "name": "durazno"
+    },
+    "eimu": {
+        "id": "eimu",
+        "name": "eimu"
+    },
+    "elliott-803-simulation": {
+        "id": "elliott-803-simulation",
+        "name": "elliott-803-simulation"
+    },
+    "emu4crt": {
+        "id": "emu4crt",
+        "name": "emu4crt"
+    },
+    "emuchip": {
+        "id": "emuchip",
+        "name": "emuchip"
+    },
+    "emucon": {
+        "id": "emucon",
+        "name": "emucon"
+    },
+    "emucontrolcenter": {
+        "id": "emucontrolcenter",
+        "name": "emucontrolcenter"
+    },
+    "emuhaste": {
+        "id": "emuhaste",
+        "name": "emuhaste"
+    },
+    "emulationstation": {
+        "id": "emulationstation",
+        "name": "emulationstation"
+    },
+    "emulatorcabinet": {
+        "id": "emulatorcabinet",
+        "name": "emulatorcabinet"
+    },
+    "emultwo": {
+        "id": "emultwo",
+        "name": "emultwo"
+    },
+    "emuteca": {
+        "id": "emuteca",
+        "name": "emuteca"
+    },
+    "envasion": {
+        "id": "envasion",
+        "name": "envasion"
+    },
+    "exl100": {
+        "id": "exl100",
+        "name": "exl100"
+    },
+    "fake86": {
+        "id": "fake86",
+        "name": "fake86"
+    },
+    "fba-rr": {
+        "id": "fba-rr",
+        "name": "fba-rr"
+    },
+    "fceu-rerecording": {
+        "id": "fceu-rerecording",
+        "name": "fceu-rerecording"
+    },
+    "fceumm": {
+        "id": "fceumm",
+        "name": "fceumm"
+    },
+    "fixgb": {
+        "id": "fixgb",
+        "name": "fixgb"
+    },
+    "fixnes": {
+        "id": "fixnes",
+        "name": "fixnes"
+    },
+    "freej2me": {
+        "id": "freej2me",
+        "name": "freej2me"
+    },
+    "fx702p": {
+        "id": "fx702p",
+        "name": "fx702p"
+    },
+    "gambatte": {
+        "id": "gambatte",
+        "name": "gambatte"
+    },
+    "gambatte-speedrun": {
+        "id": "gambatte-speedrun",
+        "name": "gambatte-speedrun"
+    },
+    "gamedb": {
+        "id": "gamedb",
+        "name": "gamedb"
+    },
+    "gameguha": {
+        "id": "gameguha",
+        "name": "gameguha"
+    },
+    "gbpablog": {
+        "id": "gbpablog",
+        "name": "gbpablog"
+    },
+    "genesis-plus-sdl": {
+        "id": "genesis-plus-sdl",
+        "name": "genesis-plus-sdl"
+    },
+    "gens-kmod": {
+        "id": "gens-kmod",
+        "name": "gens-kmod"
+    },
+    "gens-rerecording": {
+        "id": "gens-rerecording",
+        "name": "gens-rerecording"
+    },
+    "gens-rewind": {
+        "id": "gens-rewind",
+        "name": "gens-rewind"
+    },
+    "giibiiadvance": {
+        "id": "giibiiadvance",
+        "name": "giibiiadvance"
+    },
+    "glide64": {
+        "id": "glide64",
+        "name": "glide64"
+    },
+    "glide64-napalm": {
+        "id": "glide64-napalm",
+        "name": "glide64-napalm"
+    },
+    "glide64-napalm-wx": {
+        "id": "glide64-napalm-wx",
+        "name": "glide64-napalm-wx"
+    },
+    "groovyume": {
+        "id": "groovyume",
+        "name": "groovyume"
+    },
+    "gui0x52": {
+        "id": "gui0x52",
+        "name": "gui0x52"
+    },
+    "hakchi2": {
+        "id": "hakchi2",
+        "name": "hakchi2"
+    },
+    "halfnes": {
+        "id": "halfnes",
+        "name": "halfnes"
+    },
+    "helios": {
+        "id": "helios",
+        "name": "helios"
+    },
+    "helios-dev": {
+        "id": "helios-dev",
+        "name": "helios-dev"
+    },
+    "hp15c": {
+        "id": "hp15c",
+        "name": "hp15c"
+    },
+    "hp42s": {
+        "id": "hp42s",
+        "name": "hp42s"
+    },
+    "hqmame": {
+        "id": "hqmame",
+        "name": "hqmame"
+    },
+    "hyperspin-rommanager": {
+        "id": "hyperspin-rommanager",
+        "name": "hyperspin-rommanager"
+    },
+    "ia-rcade": {
+        "id": "ia-rcade",
+        "name": "ia-rcade"
+    },
+    "injectiine": {
+        "id": "injectiine",
+        "name": "injectiine"
+    },
+    "insomnia": {
+        "id": "insomnia",
+        "name": "insomnia"
+    },
+    "ips-peek": {
+        "id": "ips-peek",
+        "name": "ips-peek"
+    },
+    "iso2god": {
+        "id": "iso2god",
+        "name": "iso2god"
+    },
+    "j2k": {
+        "id": "j2k",
+        "name": "j2k"
+    },
+    "jace": {
+        "id": "jace",
+        "name": "jace"
+    },
+    "javagx4000": {
+        "id": "javagx4000",
+        "name": "javagx4000"
+    },
+    "javaqemu": {
+        "id": "javaqemu",
+        "name": "javaqemu"
+    },
+    "javatari": {
+        "id": "javatari",
+        "name": "javatari"
+    },
+    "jdosbox": {
+        "id": "jdosbox",
+        "name": "jdosbox"
+    },
+    "jmednafen": {
+        "id": "jmednafen",
+        "name": "jmednafen"
+    },
+    "jspeccy": {
+        "id": "jspeccy",
+        "name": "jspeccy"
+    },
+    "jswingboy": {
+        "id": "jswingboy",
+        "name": "jswingboy"
+    },
+    "jswingc64": {
+        "id": "jswingc64",
+        "name": "jswingc64"
+    },
+    "jtcemu": {
+        "id": "jtcemu",
+        "name": "jtcemu"
+    },
+    "kega-fusion-xbrz": {
+        "id": "kega-fusion-xbrz",
+        "name": "kega-fusion-xbrz"
+    },
+    "kigen": {
+        "id": "kigen",
+        "name": "kigen"
+    },
+    "lambnes": {
+        "id": "lambnes",
+        "name": "lambnes"
+    },
+    "larper64": {
+        "id": "larper64",
+        "name": "larper64"
+    },
+    "laser": {
+        "id": "laser",
+        "name": "laser"
+    },
+    "lunar-snes": {
+        "id": "lunar-snes",
+        "name": "lunar-snes"
+    },
+    "m1": {
+        "id": "m1",
+        "name": "m1"
+    },
+    "magic-engine": {
+        "id": "magic-engine",
+        "name": "magic-engine"
+    },
+    "magic-engine-fx": {
+        "id": "magic-engine-fx",
+        "name": "magic-engine-fx"
+    },
+    "mala": {
+        "id": "mala",
+        "name": "mala"
+    },
+    "mala-dev": {
+        "id": "mala-dev",
+        "name": "mala-dev"
+    },
+    "mame-compiler-64": {
+        "id": "mame-compiler-64",
+        "name": "mame-compiler-64"
+    },
+    "mame-content-manager-plus": {
+        "id": "mame-content-manager-plus",
+        "name": "mame-content-manager-plus"
+    },
+    "mame-custom-front-end": {
+        "id": "mame-custom-front-end",
+        "name": "mame-custom-front-end"
+    },
+    "mame-plus-xt": {
+        "id": "mame-plus-xt",
+        "name": "mame-plus-xt"
+    },
+    "mame-rerecording": {
+        "id": "mame-rerecording",
+        "name": "mame-rerecording"
+    },
+    "mame-xml-cleaner": {
+        "id": "mame-xml-cleaner",
+        "name": "mame-xml-cleaner"
+    },
+    "mamepgui": {
+        "id": "mamepgui",
+        "name": "mamepgui"
+    },
+    "mamerenset": {
+        "id": "mamerenset",
+        "name": "mamerenset"
+    },
+    "mamesaver": {
+        "id": "mamesaver",
+        "name": "mamesaver"
+    },
+    "mameuihiscore": {
+        "id": "mameuihiscore",
+        "name": "mameuihiscore"
+    },
+    "mamewah": {
+        "id": "mamewah",
+        "name": "mamewah"
+    },
+    "mamext": {
+        "id": "mamext",
+        "name": "mamext"
+    },
+    "meagre": {
+        "id": "meagre",
+        "name": "meagre"
+    },
+    "medadvcfg": {
+        "id": "medadvcfg",
+        "name": "medadvcfg"
+    },
+    "medgui": {
+        "id": "medgui",
+        "name": "medgui"
+    },
+    "medlaunch": {
+        "id": "medlaunch",
+        "name": "medlaunch"
+    },
+    "mednafen-gui": {
+        "id": "mednafen-gui",
+        "name": "mednafen-gui"
+    },
+    "mednafen-launcher": {
+        "id": "mednafen-launcher",
+        "name": "mednafen-launcher"
+    },
+    "mednafen-re-recording": {
+        "id": "mednafen-re-recording",
+        "name": "mednafen-re-recording"
+    },
+    "mess-rerecording": {
+        "id": "mess-rerecording",
+        "name": "mess-rerecording"
+    },
+    "mewui": {
+        "id": "mewui",
+        "name": "mewui"
+    },
+    "microemulator": {
+        "id": "microemulator",
+        "name": "microemulator"
+    },
+    "microm8": {
+        "id": "microm8",
+        "name": "microm8"
+    },
+    "microm8-gui": {
+        "id": "microm8-gui",
+        "name": "microm8-gui"
+    },
+    "misfit-mame": {
+        "id": "misfit-mame",
+        "name": "misfit-mame"
+    },
+    "moarnes": {
+        "id": "moarnes",
+        "name": "moarnes"
+    },
+    "mouse2joystick-custom-cemu": {
+        "id": "mouse2joystick-custom-cemu",
+        "name": "mouse2joystick-custom-cemu"
+    },
+    "mupen64": {
+        "id": "mupen64",
+        "name": "mupen64"
+    },
+    "mupen64plus-video-arachnoid-dev": {
+        "id": "mupen64plus-video-arachnoid-dev",
+        "name": "mupen64plus-video-arachnoid-dev"
+    },
+    "mupen64plus-video-glide64-dev": {
+        "id": "mupen64plus-video-glide64-dev",
+        "name": "mupen64plus-video-glide64-dev"
+    },
+    "my-amic": {
+        "id": "my-amic",
+        "name": "my-amic"
+    },
+    "n3s": {
+        "id": "n3s",
+        "name": "n3s"
+    },
+    "n64-input-plugin-serial": {
+        "id": "n64-input-plugin-serial",
+        "name": "n64-input-plugin-serial"
+    },
+    "neogpc": {
+        "id": "neogpc",
+        "name": "neogpc"
+    },
+    "neoraine": {
+        "id": "neoraine",
+        "name": "neoraine"
+    },
+    "nesemu2": {
+        "id": "nesemu2",
+        "name": "nesemu2"
+    },
+    "nezplug": {
+        "id": "nezplug",
+        "name": "nezplug"
+    },
+    "nin": {
+        "id": "nin",
+        "name": "nin"
+    },
+    "noufu": {
+        "id": "noufu",
+        "name": "noufu"
+    },
+    "nox51": {
+        "id": "nox51",
+        "name": "nox51"
+    },
+    "nrage-input-plugin": {
+        "id": "nrage-input-plugin",
+        "name": "nrage-input-plugin"
+    },
+    "o2em2": {
+        "id": "o2em2",
+        "name": "o2em2"
+    },
+    "openmsx-launcher": {
+        "id": "openmsx-launcher",
+        "name": "openmsx-launcher"
+    },
+    "oswanj": {
+        "id": "oswanj",
+        "name": "oswanj"
+    },
+    "pc8801ma": {
+        "id": "pc8801ma",
+        "name": "pc8801ma"
+    },
+    "pce-ibmpc": {
+        "id": "pce-ibmpc",
+        "name": "pce-ibmpc"
+    },
+    "pcem": {
+        "id": "pcem",
+        "name": "pcem"
+    },
+    "peops-dsound": {
+        "id": "peops-dsound",
+        "name": "peops-dsound"
+    },
+    "peops-opengl-gpu": {
+        "id": "peops-opengl-gpu",
+        "name": "peops-opengl-gpu"
+    },
+    "peops-soft-gpu-xbrz": {
+        "id": "peops-soft-gpu-xbrz",
+        "name": "peops-soft-gpu-xbrz"
+    },
+    "peteopengl2tweak": {
+        "id": "peteopengl2tweak",
+        "name": "peteopengl2tweak"
+    },
+    "picchioengine": {
+        "id": "picchioengine",
+        "name": "picchioengine"
+    },
+    "planet-virtual-boy-emulator": {
+        "id": "planet-virtual-boy-emulator",
+        "name": "planet-virtual-boy-emulator"
+    },
+    "pokopom": {
+        "id": "pokopom",
+        "name": "pokopom"
+    },
+    "project64-legacy": {
+        "id": "project64-legacy",
+        "name": "project64-legacy"
+    },
+    "project64-netplay": {
+        "id": "project64-netplay",
+        "name": "project64-netplay"
+    },
+    "ps2lunch": {
+        "id": "ps2lunch",
+        "name": "ps2lunch"
+    },
+    "psp-ps3-pkg-decrypter": {
+        "id": "psp-ps3-pkg-decrypter",
+        "name": "psp-ps3-pkg-decrypter"
+    },
+    "pupview": {
+        "id": "pupview",
+        "name": "pupview"
+    },
+    "pyava": {
+        "id": "pyava",
+        "name": "pyava"
+    },
+    "pyldin": {
+        "id": "pyldin",
+        "name": "pyldin"
+    },
+    "pypdp8tk": {
+        "id": "pypdp8tk",
+        "name": "pypdp8tk"
+    },
+    "q-gears": {
+        "id": "q-gears",
+        "name": "q-gears"
+    },
+    "qaop": {
+        "id": "qaop",
+        "name": "qaop"
+    },
+    "qdae": {
+        "id": "qdae",
+        "name": "qdae"
+    },
+    "qemu-9821": {
+        "id": "qemu-9821",
+        "name": "qemu-9821"
+    },
+    "ra-player": {
+        "id": "ra-player",
+        "name": "ra-player"
+    },
+    "rcomage": {
+        "id": "rcomage",
+        "name": "rcomage"
+    },
+    "reasonablegba": {
+        "id": "reasonablegba",
+        "name": "reasonablegba"
+    },
+    "recoil": {
+        "id": "recoil",
+        "name": "recoil"
+    },
+    "refchip16": {
+        "id": "refchip16",
+        "name": "refchip16"
+    },
+    "repeat": {
+        "id": "repeat",
+        "name": "repeat"
+    },
+    "residualvm": {
+        "id": "residualvm",
+        "name": "residualvm"
+    },
+    "retrofire": {
+        "id": "retrofire",
+        "name": "retrofire"
+    },
+    "retromap": {
+        "id": "retromap",
+        "name": "retromap"
+    },
+    "rombuild": {
+        "id": "rombuild",
+        "name": "rombuild"
+    },
+    "romcenter": {
+        "id": "romcenter",
+        "name": "romcenter"
+    },
+    "rustual-boy": {
+        "id": "rustual-boy",
+        "name": "rustual-boy"
+    },
+    "rymcast": {
+        "id": "rymcast",
+        "name": "rymcast"
+    },
+    "satellawave": {
+        "id": "satellawave",
+        "name": "satellawave"
+    },
+    "sbwin": {
+        "id": "sbwin",
+        "name": "sbwin"
+    },
+    "sega-li": {
+        "id": "sega-li",
+        "name": "sega-li"
+    },
+    "skeletonkey": {
+        "id": "skeletonkey",
+        "name": "skeletonkey"
+    },
+    "sl9821": {
+        "id": "sl9821",
+        "name": "sl9821"
+    },
+    "slipstream": {
+        "id": "slipstream",
+        "name": "slipstream"
+    },
+    "snes9x-8mb-custom": {
+        "id": "snes9x-8mb-custom",
+        "name": "snes9x-8mb-custom"
+    },
+    "snes9x-xbrz": {
+        "id": "snes9x-xbrz",
+        "name": "snes9x-xbrz"
+    },
+    "spcat": {
+        "id": "spcat",
+        "name": "spcat"
+    },
+    "spckorvet": {
+        "id": "spckorvet",
+        "name": "spckorvet"
+    },
+    "spcxt": {
+        "id": "spcxt",
+        "name": "spcxt"
+    },
+    "spectabis": {
+        "id": "spectabis",
+        "name": "spectabis"
+    },
+    "spectaculator": {
+        "id": "spectaculator",
+        "name": "spectaculator"
+    },
+    "st-recover": {
+        "id": "st-recover",
+        "name": "st-recover"
+    },
+    "stepmania": {
+        "id": "stepmania",
+        "name": "stepmania"
+    },
+    "supermegachip-x": {
+        "id": "supermegachip-x",
+        "name": "supermegachip-x"
+    },
+    "switch-emu-mod-downloader": {
+        "id": "switch-emu-mod-downloader",
+        "name": "switch-emu-mod-downloader"
+    },
+    "sz81": {
+        "id": "sz81",
+        "name": "sz81"
+    },
+    "t98-next": {
+        "id": "t98-next",
+        "name": "t98-next"
+    },
+    "thundermame32": {
+        "id": "thundermame32",
+        "name": "thundermame32"
+    },
+    "thundermame32ui": {
+        "id": "thundermame32ui",
+        "name": "thundermame32ui"
+    },
+    "ti59-emulator": {
+        "id": "ti59-emulator",
+        "name": "ti59-emulator"
+    },
+    "ti99sim": {
+        "id": "ti99sim",
+        "name": "ti99sim"
+    },
+    "tickle": {
+        "id": "tickle",
+        "name": "tickle"
+    },
+    "trs32": {
+        "id": "trs32",
+        "name": "trs32"
+    },
+    "ukncbtl": {
+        "id": "ukncbtl",
+        "name": "ukncbtl"
+    },
+    "ultimate-mame": {
+        "id": "ultimate-mame",
+        "name": "ultimate-mame"
+    },
+    "ultramame": {
+        "id": "ultramame",
+        "name": "ultramame"
+    },
+    "ultrastar-deluxe": {
+        "id": "ultrastar-deluxe",
+        "name": "ultrastar-deluxe"
+    },
+    "unreal-speccy-portable": {
+        "id": "unreal-speccy-portable",
+        "name": "unreal-speccy-portable"
+    },
+    "upd-cemu": {
+        "id": "upd-cemu",
+        "name": "upd-cemu"
+    },
+    "v9t9": {
+        "id": "v9t9",
+        "name": "v9t9"
+    },
+    "valdanx": {
+        "id": "valdanx",
+        "name": "valdanx"
+    },
+    "vba-plus": {
+        "id": "vba-plus",
+        "name": "vba-plus"
+    },
+    "vcmi": {
+        "id": "vcmi",
+        "name": "vcmi"
+    },
+    "vcmi-dev": {
+        "id": "vcmi-dev",
+        "name": "vcmi-dev"
+    },
+    "vdosplus": {
+        "id": "vdosplus",
+        "name": "vdosplus"
+    },
+    "vgmtoolbox": {
+        "id": "vgmtoolbox",
+        "name": "vgmtoolbox"
+    },
+    "visualboyadvance2": {
+        "id": "visualboyadvance2",
+        "name": "visualboyadvance2"
+    },
+    "vpnes": {
+        "id": "vpnes",
+        "name": "vpnes"
+    },
+    "wiibuilder": {
+        "id": "wiibuilder",
+        "name": "wiibuilder"
+    },
+    "wined3d": {
+        "id": "wined3d",
+        "name": "wined3d"
+    },
+    "winvice-dev": {
+        "id": "winvice-dev",
+        "name": "winvice-dev"
+    },
+    "wolfmess": {
+        "id": "wolfmess",
+        "name": "wolfmess"
+    },
+    "x-millennium-t-tune": {
+        "id": "x-millennium-t-tune",
+        "name": "x-millennium-t-tune"
+    },
+    "x128": {
+        "id": "x128",
+        "name": "x128"
+    },
+    "xjoy": {
+        "id": "xjoy",
+        "name": "xjoy"
+    },
+    "yabause-rerecording": {
+        "id": "yabause-rerecording",
+        "name": "yabause-rerecording"
+    },
+    "yace64": {
+        "id": "yace64",
+        "name": "yace64"
+    },
+    "yaupspe": {
+        "id": "yaupspe",
+        "name": "yaupspe"
+    },
+    "yaupspefro": {
+        "id": "yaupspefro",
+        "name": "yaupspefro"
+    },
+    "yomi": {
+        "id": "yomi",
+        "name": "yomi"
+    },
+    "z64gl": {
+        "id": "z64gl",
+        "name": "z64gl"
+    },
+    "zapmanager": {
+        "id": "zapmanager",
+        "name": "zapmanager"
+    },
+    "zlauncher": {
+        "id": "zlauncher",
+        "name": "zlauncher"
+    },
+    "zsnes-8mb-custom": {
+        "id": "zsnes-8mb-custom",
+        "name": "zsnes-8mb-custom"
+    },
+    "zxmak2": {
+        "id": "zxmak2",
+        "name": "zxmak2"
+    },
+    "zxtune": {
+        "id": "zxtune",
+        "name": "zxtune"
     }
 }
